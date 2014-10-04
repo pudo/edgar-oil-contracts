@@ -64,13 +64,7 @@ def parse_feed(file_name):
                 file_rec[k.replace(EDGNS, '')] = v
             print file_data.get('xbrlFile_url')
             engine['files'].upsert(file_rec, ['guid', 'url'])
-            load_file.queue(file_data)
-
-
-@scraper.task
-def load_file(data):
-    print data
-    collection.ingest(data.get('xbrlFile_url'), **data)
+            collection.ingest(file_data.get('xbrlFile_url'), **file_data)
 
 
 if __name__ == '__main__':
