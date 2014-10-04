@@ -1,0 +1,41 @@
+config:
+    collection: 'edgar-filings'
+
+transform:
+    text:
+        task: textract
+        field: text
+
+    ocrtext:
+        requires: text
+        task: tesseractpdf
+        field: text
+        overwrite: false
+
+    normalize:
+        requires: ocrtext
+        task: normalize
+        target_field: normalized
+        lowercase: true
+        collapse: true
+
+    match:
+        requires: normalize
+        field: normalized
+        field_total: score
+        task: regex
+        terms:
+            - 'contract'
+            - 'agreement'
+            - 'parties'
+            - 'party'
+            - 'between'
+            - 'herein'
+            - 'hereinafter'
+            - 'now therefore'
+            - 'whereas'
+            - 'pursuant'
+            - 'contractor'
+            - 'shall'
+            - 'undertake'
+            - 'article'
