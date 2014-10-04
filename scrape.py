@@ -62,7 +62,7 @@ def parse_feed(file_name):
             for k, v in fc.attrib.items():
                 file_data[k.replace(EDGNS, 'xbrlFile_')] = v
                 file_rec[k.replace(EDGNS, '')] = v
-            print file_data.get('xbrlFile_url')
+            scraper.log.info('XBRL Filing: %s', file_data.get('xbrlFile_url'))
             engine['files'].upsert(file_rec, ['guid', 'url'])
             collection.ingest(file_data.get('xbrlFile_url'), **file_data)
 
