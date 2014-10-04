@@ -9,7 +9,7 @@ from lxml import etree
 HOST = 'ftp.sec.gov'
 BASE_DIR = 'edgar/monthly'
 EDGNS = '{http://www.sec.gov/Archives/edgar}'
-SICS = [1381, 1382, 1389, 2911, 2990, 3532,
+SICS = [1311, 1381, 1382, 1389, 2911, 2990, 3532,
         3533, 5171, 5172, 6792, None]
 
 scraper = Scraper('sec-edgar')
@@ -61,8 +61,10 @@ def parse_feed(file_name):
                          data.get('guid'))
 
         engine['filings'].upsert(data, ['guid'])
-        if data.get('assignedSic') is not None and \
-                int(data['assignedSic']) not in SICS:
+        #if data.get('assignedSic') is not None and \
+        #        int(data['assignedSic']) not in SICS:
+        #    continue
+        if int(data['assignedSic']) != 1311:
             continue
 
         whole = data.copy()
