@@ -56,6 +56,11 @@ def parse_feed(file_name):
         if data.get('assignedSic') is not None and int(data['assignedSic']) not in SICS:
             continue
 
+        whole = data.copy()
+        whole['url'] = data.get('link').replace('-index.htm', '.txt')
+        whole['full'] = True
+        collection.ingest(whole.get('url'), **whole)
+
         for fc in item.findall(EDGNS + 'xbrlFiling/' + EDGNS + 'xbrlFiles/*'):
             file_data = data.copy()
             file_rec = {'guid': data.get('guid')}
