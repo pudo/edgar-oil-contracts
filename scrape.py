@@ -54,19 +54,16 @@ def parse_feed(file_name):
                 data[tag] = fc.text
 
         if data.get('guid') is None:
-            # print 'fooo', data.get('guid'), data.get('link')
             data['guid'] = data.get('link')
 
         scraper.log.info('Filing title: %s, %s', data.get('title'),
                          data.get('guid'))
 
         engine['filings'].upsert(data, ['guid'])
-        #if data.get('assignedSic') is not None and \
-        #        int(data['assignedSic']) not in SICS:
-        #    continue
-        if int(data.get('assignedSic') or 0) != 1311:
+        if data.get('assignedSic') is not None and \
+                int(data['assignedSic']) not in SICS:
             continue
-
+        
         whole = data.copy()
         whole['url'] = data.get('link').replace('-index.htm', '.txt')
         whole['full'] = True
