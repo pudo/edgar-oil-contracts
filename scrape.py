@@ -64,7 +64,7 @@ def parse_feed(file_name):
         #if data.get('assignedSic') is not None and \
         #        int(data['assignedSic']) not in SICS:
         #    continue
-        if int(data['assignedSic']) != 1311:
+        if int(data.get('assignedSic') or 0) != 1311:
             continue
 
         whole = data.copy()
