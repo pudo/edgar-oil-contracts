@@ -49,27 +49,38 @@ def parse_feed(file_name):
             tag = fc.tag.replace(EDGNS, '')
             if tag == 'xbrlFiles':
                 continue
+
             if fc.text:
                 data[tag] = fc.text
 
+        if data.get('guid') is None:
+            # print 'fooo', data.get('guid'), data.get('link')
+            data['guid'] = data.get('link')
+
+        scraper.log.info('Filing title: %s, %s', data.get('title'),
+                         data.get('guid'))
+
         engine['filings'].upsert(data, ['guid'])
-        if data.get('assignedSic') is not None and int(data['assignedSic']) not in SICS:
+        if data.get('assignedSic') is not None and \
+                int(data['assignedSic']) not in SICS:
             continue
 
         whole = data.copy()
         whole['url'] = data.get('link').replace('-index.htm', '.txt')
         whole['full'] = True
+
         collection.ingest(whole.get('url'), **whole)
 
-        for fc in item.findall(EDGNS + 'xbrlFiling/' + EDGNS + 'xbrlFiles/*'):
+        for fc in item.findall(EDGNS + 'xbrlFiling//' + EDGNS + 'xbrlFile'):
             file_data = data.copy()
             file_rec = {'guid': data.get('guid')}
             for k, v in fc.attrib.items():
-                file_data[k.replace(EDGNS, 'xbrlFile_')] = v
+                file_data[k.replace(EDGNS, 'xbrlfile_')] = v
                 file_rec[k.replace(EDGNS, '')] = v
+
             scraper.log.info('XBRL Filing: %s', file_data.get('xbrlFile_url'))
             engine['files'].upsert(file_rec, ['guid', 'url'])
-            collection.ingest(file_data.get('xbrlFile_url'), **file_data)
+            collection.ingest(file_data.get('xbrlfile_url'), **file_data)
 
 
 if __name__ == '__main__':
