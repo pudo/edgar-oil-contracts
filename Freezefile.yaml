@@ -51,19 +51,11 @@ exports:
         LEFT OUTER JOIN files ff ON ff.url = m.source_url
       WHERE
         fl."assignedSic" LIKE '13%%'
-        AND m.score > 10
-        AND LOWER(ff."description") NOT LIKE '%%certification%%'
-        AND LOWER(ff."description") NOT LIKE '%%certificate%%'
-        AND LOWER(ff."description") NOT LIKE '%%employment%%'
-        AND LOWER(ff."description") NOT LIKE '%%subsidiaries%%'
-        AND LOWER(ff."description") NOT LIKE '%%ceo cert%%'
-        AND LOWER(ff."description") NOT LIKE '%%cfo cert%%'
-        AND LOWER(ff."description") NOT LIKE '%%report%%'
+        AND m.score > 1
         AND LOWER(ff."type") LIKE '%%ex-10%%'
         AND LOWER(ff."type") NOT LIKE '%%ex-101%%'
         AND LOWER(ff."description") NOT LIKE '%%severance%%'
         AND LOWER(ff."description") NOT LIKE '%%stock award%%'
-        AND LOWER(ff."description") NOT LIKE '%%employment%%'
         AND LOWER(ff."description") NOT LIKE '%%convertible%%'
         AND LOWER(ff."description") NOT LIKE '%%committee charter%%'
         AND LOWER(ff."description") NOT LIKE '%%separation%%'
