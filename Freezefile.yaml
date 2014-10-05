@@ -33,6 +33,37 @@ exports:
       ORDER BY
         m.score DESC;
 
+  - filename: 'contracts_limited_1.csv'
+    query: >
+      SELECT
+        m.score::int AS score,
+        fl."companyName" as company_name,
+        fl."assignedSic" as sic,
+        fl."formType" as form,
+        fl."filingDate" as filing_date,
+        ff."description" as file_description,
+        ff."type" as file_type,
+        m.link AS filing_url,
+        m.source_url AS file_url,
+        m.matches AS matches
+      FROM matches m
+        LEFT JOIN filings fl ON fl.guid = m.guid
+        LEFT OUTER JOIN files ff ON ff.url = m.source_url
+      WHERE
+        fl."assignedSic" LIKE '13%%'
+        AND m.score > 10
+        AND LOWER(ff."description") NOT LIKE '%%certification%%'
+        AND LOWER(ff."description") NOT LIKE '%%certificate%%'
+        AND LOWER(ff."description") NOT LIKE '%%employment%%'
+        AND LOWER(ff."description") NOT LIKE '%%subsidiaries%%'
+        AND LOWER(ff."description") NOT LIKE '%%ceo cert%%'
+        AND LOWER(ff."description") NOT LIKE '%%cfo cert%%'
+        AND LOWER(ff."description") NOT LIKE '%%report%%'
+        AND LOWER(ff."type") LIKE '%%ex-10%%'
+        AND LOWER(ff."type") NOT LIKE '%%ex-101%%'
+      ORDER BY
+        m.score DESC;
+
   - filename: 'subsidiaries_1.csv'
     query: >
       SELECT
