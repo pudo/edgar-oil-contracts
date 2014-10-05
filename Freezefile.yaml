@@ -11,7 +11,7 @@ exports:
         fl."companyName" as company_name,
         fl."assignedSic" as sic,
         fl."formType" as form,
-        fl."filingDate" as filing_date,
+        CONCAT(' ', fl."filingDate") as filing_date,
         ff."description" as file_description,
         ff."type" as file_type,
         m.link AS filing_url,
@@ -26,6 +26,10 @@ exports:
         AND LOWER(ff."description") NOT LIKE '%%certification%%'
         AND LOWER(ff."description") NOT LIKE '%%certificate%%'
         AND LOWER(ff."description") NOT LIKE '%%employment%%'
+        AND LOWER(ff."description") NOT LIKE '%%subsidiaries%%'
+        AND LOWER(ff."description") NOT LIKE '%%ceo cert%%'
+        AND LOWER(ff."description") NOT LIKE '%%cfo cert%%'
+        AND LOWER(ff."description") NOT LIKE '%%report%%'
       ORDER BY
         m.score DESC;
 
@@ -35,7 +39,7 @@ exports:
         fl."companyName" as company_name,
         fl."assignedSic" as sic,
         fl."formType" as form,
-        fl."filingDate" as filing_date,
+        CONCAT(' ', fl."filingDate") as filing_date,
         ff."description" as file_description,
         ff."type" as file_type,
         fl.link AS filing_url,
