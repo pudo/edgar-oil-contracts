@@ -1,10 +1,10 @@
 import os
 import ftplib
 
-import dataset
-from docstash import Stash
 from scrapekit import Scraper
 from lxml import etree
+
+from common import collection, engine
 
 HOST = 'ftp.sec.gov'
 BASE_DIR = 'edgar/monthly'
@@ -13,9 +13,6 @@ SICS = [1311, 1381, 1382, 1389, 2911, 2990, 3532,
         3533, 5171, 5172, 6792, None]
 
 scraper = Scraper('sec-edgar')
-collection = Stash().get('edgar-filings')
-db_uri = os.environ.get('DATABASE_URI', 'postgresql://localhost/secedgar')
-engine = dataset.connect(db_uri)
 
 
 @scraper.task
