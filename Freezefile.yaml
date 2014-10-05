@@ -11,7 +11,7 @@ exports:
         fl."companyName" as company_name,
         fl."assignedSic" as sic,
         fl."formType" as form,
-        REPLACE(fl."filingDate", '/', '-') as filing_date,
+        fl."filingDate" as filing_date,
         ff."description" as file_description,
         ff."type" as file_type,
         m.link AS filing_url,
@@ -39,7 +39,7 @@ exports:
         fl."companyName" as company_name,
         fl."assignedSic" as sic,
         fl."formType" as form,
-        REPLACE(fl."filingDate", '/', '-') as filing_date,
+        fl."filingDate" as filing_date,
         ff."description" as file_description,
         ff."type" as file_type,
         fl.link AS filing_url,
@@ -49,5 +49,24 @@ exports:
       WHERE
         fl."assignedSic" LIKE '13%%'
         AND LOWER(ff."description") LIKE '%%subsidiaries%%'
+      ORDER BY
+        fl."period" DESC;
+
+  - filename: 'material_contracts_1.csv'
+    query: >
+      SELECT
+        fl."companyName" as company_name,
+        fl."assignedSic" as sic,
+        fl."formType" as form,
+        fl."filingDate" as filing_date,
+        ff."description" as file_description,
+        ff."type" as file_type,
+        fl.link AS filing_url,
+        ff.url AS file_url
+      FROM filings fl
+        LEFT JOIN files ff ON ff.guid = fl.guid
+      WHERE
+        fl."assignedSic" LIKE '13%%'
+        AND LOWER(ff."type") LIKE '%%ex-10%%'
       ORDER BY
         fl."period" DESC;
