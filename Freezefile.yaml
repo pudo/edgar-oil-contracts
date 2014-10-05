@@ -1,0 +1,49 @@
+common:
+  database: postgresql://fl@localhost/secedgar 
+  prefix: /var/www/opendatalabs.org/misc/openoil
+  format: csv
+
+exports:
+  - filename: 'contracts_1.csv'
+    query: >
+      SELECT
+        m.score::int AS score,
+        fl."companyName" as company_name,
+        fl."assignedSic" as sic,
+        fl."formType" as form,
+        fl."filingDate" as filing_date,
+        ff."description" as file_description,
+        ff."type" as file_type,
+        m.link AS filing_url,
+        m.source_url AS file_url,
+        m.matches AS matches
+      FROM matches m
+        LEFT JOIN filings fl ON fl.guid = m.guid
+        LEFT OUTER JOIN files ff ON ff.url = m.source_url
+      WHERE
+        fl."assignedSic" LIKE '13%'
+        AND m.score > 10
+        AND LOWER(ff."description") NOT LIKE '%certification%'
+        AND LOWER(ff."description") NOT LIKE '%certificate%'
+        AND LOWER(ff."description") NOT LIKE '%employment%'
+      ORDER BY
+        m.score DESC;
+
+  - filename: 'subsidiaries_1.csv'
+    query: >
+      SELECT
+        fl."companyName" as company_name,
+        fl."assignedSic" as sic,
+        fl."formType" as form,
+        fl."filingDate" as filing_date,
+        ff."description" as file_description,
+        ff."type" as file_type,
+        fl.link AS filing_url,
+        ff.url AS file_url
+      FROM filings fl
+        LEFT JOIN files ff ON ff.guid = fl.guid
+      WHERE
+        fl."assignedSic" LIKE '13%'
+        AND LOWER(ff."description") LIKE '%subsidiaries%'
+      ORDER BY
+        fl."period" DESC;
