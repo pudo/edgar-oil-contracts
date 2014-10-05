@@ -68,5 +68,20 @@ exports:
       WHERE
         fl."assignedSic" LIKE '13%%'
         AND LOWER(ff."type") LIKE '%%ex-10%%'
+        AND LOWER(ff."type") NOT LIKE '%%ex-101%%'
+        AND LOWER(ff."description") NOT LIKE '%%severance%%'
+        AND LOWER(ff."description") NOT LIKE '%%stock award%%'
+        AND LOWER(ff."description") NOT LIKE '%%employment%%'
+        AND LOWER(ff."description") NOT LIKE '%%convertible%%'
+        AND LOWER(ff."description") NOT LIKE '%%committee charter%%'
+        AND LOWER(ff."description") NOT LIKE '%%separation%%'
+        AND LOWER(ff."description") NOT LIKE '%%compensation%%'
+        AND LOWER(ff."description") NOT LIKE '%%cash bonus%%'
+        AND LOWER(ff."description") NOT LIKE '%%employee%%'
+        AND LOWER(ff."description") NOT LIKE '%%stock unit%%'
+        AND LOWER(ff."description") NOT LIKE '%%investment plan%%'
+        AND LOWER(ff."description") NOT LIKE '%%consulting agreement%%'
+        AND LOWER(ff."description") NOT LIKE '%%stock option%%'
+        AND LOWER(ff."description") NOT LIKE '%%retirement%%'
       ORDER BY
         fl."period" DESC;
