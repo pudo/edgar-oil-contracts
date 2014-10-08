@@ -1,31 +1,82 @@
-contract
-agreement
-parties
-party
-between
-herein
-hereinafter
-witnesseth
-counterparts
-supersedes
-notwithstanding
-obligations
-irrevocably
-now therefore
-whereas
-contractor
-shall
-undertake
-article
-oil
-petroleum
-hydrocarbons
-hydrocarbon
-drilling
-exploitation
-concession
-production
-royalty
-psc
-barrels
-recovery
+contract 10
+agreement 10
+parties 1
+party 1
+between 1
+herein 1
+hereinafter 1
+witnesseth 1
+counterparts 1
+supersedes 1
+notwithstanding 1
+obligations 1
+irrevocably 1
+now therefore 1
+whereas 1
+contractor 1
+shall 1
+undertake 1
+article 1
+oil 1
+petroleum 1
+hydrocarbons 1
+hydrocarbon 1
+drilling 1
+exploitation 1
+concession 5
+block 5
+area 5
+production 5
+royalty 4
+psc 4
+barrels 3
+recovery 2
+covering the 5
+production sharing 5
+government of 4
+sovereign 3
+loan agreement -5
+unit awards -10
+load agmt -10
+severance -5
+stock award -5
+convertible -5
+committee charter -4
+separation -1
+cash bonus -10
+employee -1
+stock unit -5
+investment plan -1
+consulting agreement -5
+stock option -1
+retirement -1
+option agreement -5
+consulting agreement -10
+equipment sales agreement -10
+change of control -10
+change in control -10
+performance share unit award agreement -10
+performance unit award -10
+credit agreement -10
+loan agreement -10
+assignment agreement -10
+loan commitment -10
+stock option agreement -10
+pension plan for employees -10
+certificate of formation -10
+short term incentive plan -10
+share exchange agreement -10
+promissory note -10
+participation agreement -10
+purchase common stock -5
+registration rights agreement -10
+fifth amendment -10
+assignment letter agreement -10
+amendment to credit agreement -20
+asset purchase and sale agreement -20
+assignment agreement -2
+compensation plan -5
+restricted stock award -5
+executive employment agreement -10
+QUARTERLY REPORT PURSUANT TO SECTION -10
+TRANSITION REPORT PURSUANT TO SECTION -10

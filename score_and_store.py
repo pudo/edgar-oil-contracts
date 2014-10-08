@@ -7,8 +7,14 @@ from common import engine, collection
 table = engine['matches']
 
 STOPWORDS = set(open('stopwords.txt').read().lower().split())
-SEARCHES = '|'.join(open('searches.txt').read().lower().split())
-SEARCHES = re.compile(' (%s) ' % SEARCHES)
+SCORES = {}
+
+for line in open('searches.txt').readlines():
+    term, score = line.rsplit(' ', 1)
+    SCORES[term.lower().strip()] = int(score)
+
+print SCORES
+SEARCHES = re.compile(' (%s) ' % '|'.join(SCORES.keys()))
 
 
 def get_tokens(text):
@@ -33,6 +39,9 @@ def process_document(doc):
     matches = SEARCHES.findall(text)
     if len(matches) < 1:
         return
+
+    score = sum([SCORES.get(m) for m in matches])
+    score = (float(score) / tokens) * 1000
     
     #print doc.keys()
     data = {
@@ -42,7 +51,7 @@ def process_document(doc):
         'num_tokens': tokens,
         'num_matches': len(matches),
         'matches': ', '.join(sorted(set(matches))),
-        'score': (float(len(matches)) / tokens) * 1000
+        'score': score
     }
     table.upsert(data, ['source_url'])
     print data['link'], data['score']
