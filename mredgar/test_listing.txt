@@ -1,0 +1,2 @@
+/edgar/Feed/1995/QTR3/19950919.nc.tar.gz
+/edgar/Feed/1995/QTR3/19950921.nc.tar.gz
