@@ -18,16 +18,17 @@ class MRImportFilings(MRJob):
     OUTPUT_PROTOCOL = JSONProtocol
 
     def mapper(self, x, line):
+        fd, tarpath = tempfile.mkstemp()
+        os.close(fd)
+        dir = tempfile.mkdtemp()
+
         try:
             ftp = ftplib.FTP(HOST)
             ftp.login('anonymous', '@anonymous')
-            fd, tarpath = tempfile.mkstemp()
-            os.close(fd)
             with open(tarpath, 'wb') as fh:
                 ftp.retrbinary("RETR " + line, fh.write)
             ftp.quit()
 
-            dir = tempfile.mkdtemp()
             tb = tarfile.open(tarpath, 'r:gz')
             tb.extractall(path=dir)
             for file_name in os.listdir(dir):
@@ -36,12 +37,13 @@ class MRImportFilings(MRJob):
                 with open(path, 'r') as fh:
                     #process_filing(fh.read())
                     yield fn, fh.read()
-            shutil.rmtree(dir)
-            os.unlink(tarpath)
         except EnvironmentError, ee:
             log.exception(ee)
         except Exception, e:
             log.exception(e)
+        finally:
+            shutil.rmtree(dir)
+            os.unlink(tarpath)
 
     #def reducer(self, key, values):
     #    yield key, values
