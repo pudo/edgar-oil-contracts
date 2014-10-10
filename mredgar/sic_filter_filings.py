@@ -6,7 +6,7 @@ SIC_EXTRACT = re.compile(r'<ASSIGNED-SIC> *(.*)', re.I)
 SICS = ['1311', '1381', '1382', '1389']
 
 
-class MRProcessFilings(MRJob):
+class MRSicFilterFilings(MRJob):
 
     INPUT_PROTOCOL = JSONProtocol
     OUTPUT_PROTOCOL = JSONProtocol
@@ -25,4 +25,4 @@ class MRProcessFilings(MRJob):
 
 
 if __name__ == '__main__':
-    MRProcessFilings.run()
+    MRSicFilterFilings.run()
