@@ -1,6 +1,9 @@
 
 make_listing:
 	python generate_input.py
+	rm -rf tasks
+	mkdir tasks
+	split -l 10 listing.txt tasks/listing
 
 test_import:
 	python import_filings.py --cleanup=NONE --no-output <test_listing.txt

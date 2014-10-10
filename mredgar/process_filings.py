@@ -21,11 +21,7 @@ class MRProcessFilings(MRJob):
         if sic is None:
             return
 
-        yield x, {'body': line, 'sic': sic}
-
-
-    #def reducer(self, key, values):
-    #    yield key, values
+        yield x, line
 
 
 if __name__ == '__main__':
