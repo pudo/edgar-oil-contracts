@@ -15,6 +15,6 @@ test_process:
 import:
 	python import_filings.py -r emr \
 		--conf-path mrjob.conf \
-		--output-dir=s3://sec-edgar.openoil.net/filings/ \
+		--output-dir=s3://sec-edgar.openoil.net/filings-all/ \
 		--no-output \
-		s3://sec-edgar.openoil.net/listing.txt
+		s3://sec-edgar.openoil.net/tasks/
