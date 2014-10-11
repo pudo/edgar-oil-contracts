@@ -11,6 +11,18 @@ from mrjob.job import MRJob, RawValueProtocol, JSONProtocol
 log = logging.getLogger('importer')
 HOST = 'ftp.sec.gov'
 
+SIC_EXTRACT = re.compile(r'<ASSIGNED-SIC> *(.*)', re.I)
+SICS = ['1311', '1381', '1382', '1389']
+
+
+def match_sic(line):
+    sic = None
+    for match in SIC_EXTRACT.finditer(line):
+        sic = match.group(1)
+        if sic in SICS:
+            return True
+    return False
+    
 
 class MRImportFilings(MRJob):
 
@@ -35,8 +47,10 @@ class MRImportFilings(MRJob):
                 path = os.path.join(dir, file_name)
                 fn = '%s:%s' % (line, file_name)
                 with open(path, 'r') as fh:
-                    #process_filing(fh.read())
-                    yield fn, fh.read()
+                    line = fh.read()
+                    if match_sic(line):
+                        yield fn, line
+
         except EnvironmentError, ee:
             log.exception(ee)
         except Exception, e:
