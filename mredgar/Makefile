@@ -34,4 +34,4 @@ score:
 		--output-dir=s3://sec-edgar.openoil.net/scores/ \
 		--no-output \
 		--file searches.txt --file stopwords.txt \
-		s3://sec-edgar.openoil.net/filings-13xx/
+		s3://sec-edgar.openoil.net/filings-13xx-2/

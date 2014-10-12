@@ -85,8 +85,8 @@ def compute_score(doc):
     score = (score / tokens) * 1000
     return score, terms
 
-# http://www.sec.gov/Archives/edgar/data/1402281/000135448810000906/0001354488-10-000906-index.htm
 
+# http://www.sec.gov/Archives/edgar/data/1402281/000135448810000906/0001354488-10-000906-index.htm
 class MRScoreFilings(MRJob):
 
     INPUT_PROTOCOL = JSONProtocol
@@ -115,7 +115,14 @@ class MRScoreFilings(MRJob):
             'terms': terms
         }
 
-            
+    def reducer(self, url, files):
+        max_score, file_data = 0, None
+        for data in files:
+            if data.get('score') > max_score:
+                max_score = data.get('score')
+                file_data = data
+        if file_data is not None:
+            yield url, file_data
 
 
 if __name__ == '__main__':
