@@ -5,7 +5,13 @@ from mrjob.job import MRJob, JSONProtocol
 
 DOCS = re.compile(r'^<DOCUMENT>$(.*)^</DOCUMENT>$', re.I | re.M | re.S)
 SIC_EXTRACT = re.compile(r'<ASSIGNED-SIC> *(.*)', re.I)
+AN_EXTRACT = re.compile(r'<ACCESSION-NUMBER> *(.*)', re.I)
+CIK_EXTRACT = re.compile(r'<CIK> *(.*)', re.I)
+CN_EXTRACT = re.compile(r'<CONFORMED-NAME> *(.*)', re.I)
+TYPE_EXTRACT = re.compile(r'<TYPE> *(.*)', re.I)
 REMOVE_SPACES = re.compile(r'\s+')
+
+URL = 'http://www.sec.gov/Archives/edgar/data/%s/%s/%s-index.htm'
 
 STOPWORDS = set(open('stopwords.txt').read().lower().split())
 SCORES = {}
@@ -68,8 +74,8 @@ def compute_score(doc):
                         break
 
             pos = match.start(1) / textlen
-            weight = weight * ((-1 * pos) + 1)
-            score = score + weight
+            front_heavy = weight * ((-1 * pos) + 1)
+            score = score + front_heavy + weight
 
             if term in terms:
                 terms[term] += weight
@@ -79,22 +85,37 @@ def compute_score(doc):
     score = (score / tokens) * 1000
     return score, terms
 
+# http://www.sec.gov/Archives/edgar/data/1402281/000135448810000906/0001354488-10-000906-index.htm
 
 class MRScoreFilings(MRJob):
 
     INPUT_PROTOCOL = JSONProtocol
     OUTPUT_PROTOCOL = JSONProtocol
 
-    def mapper(self, x, line):
-        for docmatch in DOCS.finditer(line):
-            doc = docmatch.group(1)
-            score, terms = compute_score(doc)
-            if score > 0:
-                print score, terms
+    def mapper(self, fn, data):
+        score, terms = compute_score(data.get('doc'))
+        if score <= 0:
+            return
+        an = AN_EXTRACT.findall(data.get('header'))
+        if len(an) != 1:
+            return
+        an = an.pop()
+        man = an.replace('-', '')
+        sic = SIC_EXTRACT.findall(data.get('header')).pop()
+        cik = CIK_EXTRACT.findall(data.get('header')).pop()
+        url = URL % (int(cik), man, an)
+        yield url, {
+            'number': an,
+            'cik': cik,
+            'sic': sic,
+            'filing_type': TYPE_EXTRACT.findall(data.get('header')).pop(),
+            'doc_type': TYPE_EXTRACT.findall(data.get('doc')).pop(),
+            'name': CN_EXTRACT.findall(data.get('header')).pop(),
+            'score': score,
+            'terms': terms
+        }
 
-
-
-
+            
 
 
 if __name__ == '__main__':

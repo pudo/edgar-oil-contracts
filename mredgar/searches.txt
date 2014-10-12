@@ -1,43 +1,39 @@
-contract 10
-agreement 10
+production sharing (agreement|contract) 50
+exploration and production 40
+risk service 40
+joint operating agreement 50
+participation agreement 30
+article .{0,20} definitions 20
+article .{0,20} force majeure 20
+article .{0,20} confidentiality 20
+relinquishment 20
+the contract area 30
+of the government 20
+the government of 20
+declaration of commerciality 30
+cost recovery 20
+effective date 10
+petroleum costs 30
+petroleum operations 30
+petroleum resources 30
+government of 15
+block 25
 parties 1
 party 1
 between 1
 herein 1
 hereinafter 1
 witnesseth 1
-counterparts 1
-supersedes 1
-notwithstanding 1
 obligations 1
-irrevocably 1
-now therefore 1
-whereas 1
-contractor 1
-shall 1
-undertake 1
-article 1
-oil 1
 petroleum 1
 hydrocarbons 1
 hydrocarbon 1
 drilling 1
-exploitation 1
 concession 5
-block 5
 area 5
-production 5
-royalty 4
-psc 4
+royalty 5
 barrels 3
-recovery 2
 covering the 5
-production sharing 5
-government of 4
-sovereign 3
-loan agreement -5
-unit awards -10
-load agmt -10
 severance -5
 stock award -5
 convertible -5
@@ -80,3 +76,4 @@ restricted stock award -5
 executive employment agreement -10
 QUARTERLY REPORT PURSUANT TO SECTION -10
 TRANSITION REPORT PURSUANT TO SECTION -10
+recital -50
