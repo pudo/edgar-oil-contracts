@@ -1,5 +1,6 @@
 import re, math, string
 from unicodedata import normalize as ucnorm, category
+from collections import defaultdict
 
 from mrjob.job import MRJob, JSONProtocol
 
@@ -19,6 +20,8 @@ SCORES = {}
 for line in open('searches.txt').readlines():
     term, score = line.rsplit(' ', 1)
     term = term.lower().strip()
+    if term.startswith('#'):
+        continue
     SCORES[term] = re.compile(term), float(score)
 
 SEARCHES = re.compile(' (%s) ' % '|'.join(SCORES.keys()))
@@ -55,7 +58,7 @@ def get_tokens(text):
 
 def compute_score(doc):
     text = normalize_text(doc)
-    terms = {}
+    terms = defaultdict(int)
     score = 0.0
 
     tokens = len(get_tokens(text))
@@ -73,17 +76,14 @@ def compute_score(doc):
                         term = term_
                         break
 
-            pos = match.start(1) / textlen
-            front_heavy = weight * ((-1 * pos) + 1)
-            score = score + front_heavy + weight
-
-            if term in terms:
-                terms[term] += weight
-            else:
-                terms[term] = weight
+            pos = float(match.start(1)) / textlen
+            # front_heavy = weight * ((-1 * pos) + 1)
+            # score = score + front_heavy + weight
+            score = weight * (math.log(pos) * -1.0)
+            terms[term] += 1
 
     score = (score / tokens) * 1000
-    return score, terms
+    return score, dict(terms)
 
 
 # http://www.sec.gov/Archives/edgar/data/1402281/000135448810000906/0001354488-10-000906-index.htm

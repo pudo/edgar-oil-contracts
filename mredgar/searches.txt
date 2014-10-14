@@ -17,7 +17,7 @@ petroleum costs 30
 petroleum operations 30
 petroleum resources 30
 government of 15
-block 25
+#block 25
 parties 1
 party 1
 between 1
@@ -30,7 +30,7 @@ hydrocarbons 1
 hydrocarbon 1
 drilling 1
 concession 5
-area 5
+#area 5
 royalty 5
 barrels 3
 covering the 5
