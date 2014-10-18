@@ -62,6 +62,10 @@ def compute_score(doc):
     score = 0.0
 
     tokens = len(get_tokens(text))
+
+    # bias for longer documents:
+    tokens = tokens / 2
+    
     textlen = float(len(text))
     if tokens > 5:
         for match in SEARCHES.finditer(text):
@@ -76,12 +80,15 @@ def compute_score(doc):
                         term = term_
                         break
 
+            weight = weight ** 2
+
             pos = float(match.start(1)) / textlen
-            # front_heavy = weight * ((-1 * pos) + 1)
-            # score = score + front_heavy + weight
-            score = weight * (math.log(pos) * -1.0)
+            front_heavy = weight * (math.log(pos) * -1.0)
+            score = front_heavy  # + weight
+            #print match.group(1), weight, score
             terms[term] += 1
 
+    #print score, terms
     score = (score / tokens) * 1000
     return score, dict(terms)
 

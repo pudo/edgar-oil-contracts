@@ -8,6 +8,8 @@ entries = eng['filings']
 
 for fn in os.listdir(DIR):
     path = os.path.join(DIR, fn)
+    if 'part' not in fn:
+        continue
     with open(path, 'r') as fh:
         for line in fh.readlines():
             key, value = line.split('\t', 1)
