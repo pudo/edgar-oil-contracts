@@ -99,8 +99,8 @@ def compute_score(doc):
     #print score, terms
     # weight for variety:
     #score = ((score * len(pos_terms)) / tokens)
-    score = score * len(pos_terms)
-    return score, tokens, dict(terms)
+    # score = score
+    return score, tokens, len(pos_terms), dict(terms)
 
 
 # http://www.sec.gov/Archives/edgar/data/1402281/000135448810000906/0001354488-10-000906-index.htm
@@ -110,7 +110,7 @@ class MRScoreFilings(MRJob):
     OUTPUT_PROTOCOL = JSONProtocol
 
     def mapper(self, fn, data):
-        score, tokens, terms = compute_score(data.get('doc'))
+        score, tokens, pos_terms, terms = compute_score(data.get('doc'))
         if score <= 0:
             return
         an = AN_EXTRACT.findall(data.get('header'))
@@ -134,6 +134,7 @@ class MRScoreFilings(MRJob):
             'name': CN_EXTRACT.findall(data.get('header')).pop(),
             'score': score,
             'tokens': tokens,
+            'positive_terms': pos_terms,
             'terms': terms
         }
 
