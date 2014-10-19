@@ -14,7 +14,7 @@ for fn in os.listdir(DIR):
         for line in fh.readlines():
             key, value = line.split('\t', 1)
             row = json.loads(value)
-            row['url'] = json.loads(key)
+            row['filing_url'] = json.loads(key)
             terms = row.pop('terms')
             match_info = []
             for term, weight in terms.items():

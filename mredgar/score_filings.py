@@ -1,4 +1,5 @@
 import re, math, string
+from urlparse import urljoin
 from unicodedata import normalize as ucnorm, category
 from collections import defaultdict
 
@@ -8,6 +9,7 @@ DOCS = re.compile(r'^<DOCUMENT>$(.*)^</DOCUMENT>$', re.I | re.M | re.S)
 SIC_EXTRACT = re.compile(r'<ASSIGNED-SIC> *(.*)', re.I)
 AN_EXTRACT = re.compile(r'<ACCESSION-NUMBER> *(.*)', re.I)
 CIK_EXTRACT = re.compile(r'<CIK> *(.*)', re.I)
+FILENAME_EXTRACT = re.compile(r'<FILENAME> *(.*)', re.I)
 CN_EXTRACT = re.compile(r'<CONFORMED-NAME> *(.*)', re.I)
 TYPE_EXTRACT = re.compile(r'<TYPE> *(.*)', re.I)
 REMOVE_SPACES = re.compile(r'\s+')
@@ -59,18 +61,19 @@ def get_tokens(text):
 def compute_score(doc):
     text = normalize_text(doc)
     terms = defaultdict(int)
+    pos_terms = set()
     score = 0.0
 
     tokens = len(get_tokens(text))
 
     # bias for longer documents:
-    tokens = tokens / 2
+    #tokens = tokens / 10
     
     textlen = float(len(text))
-    if tokens > 5:
+    if textlen > 100:
         for match in SEARCHES.finditer(text):
             term = match.group(1)
-            weight = 1
+            weight = None
             if term in SCORES:
                 _, weight = SCORES[term]
             else:
@@ -80,17 +83,24 @@ def compute_score(doc):
                         term = term_
                         break
 
-            weight = weight ** 2
+            if weight is None:
+                continue
 
+            if weight > 0:
+                pos_terms.add(term)
+                weight = weight ** 1.1
+            
             pos = float(match.start(1)) / textlen
-            front_heavy = weight * (math.log(pos) * -1.0)
-            score = front_heavy  # + weight
+            score += weight * (math.log(pos) * -1.0)
+            #print weight, score
             #print match.group(1), weight, score
             terms[term] += 1
 
     #print score, terms
-    score = (score / tokens) * 1000
-    return score, dict(terms)
+    # weight for variety:
+    #score = ((score * len(pos_terms)) / tokens)
+    score = score * len(pos_terms)
+    return score, tokens, dict(terms)
 
 
 # http://www.sec.gov/Archives/edgar/data/1402281/000135448810000906/0001354488-10-000906-index.htm
@@ -100,7 +110,7 @@ class MRScoreFilings(MRJob):
     OUTPUT_PROTOCOL = JSONProtocol
 
     def mapper(self, fn, data):
-        score, terms = compute_score(data.get('doc'))
+        score, tokens, terms = compute_score(data.get('doc'))
         if score <= 0:
             return
         an = AN_EXTRACT.findall(data.get('header'))
@@ -111,14 +121,19 @@ class MRScoreFilings(MRJob):
         sic = SIC_EXTRACT.findall(data.get('header')).pop()
         cik = CIK_EXTRACT.findall(data.get('header')).pop()
         url = URL % (int(cik), man, an)
+        doc_url = FILENAME_EXTRACT.findall(data.get('doc')).pop()
+        if doc_url is not None and len(doc_url.strip()):
+            doc_url = urljoin(url, doc_url)
         yield url, {
-            'number': an,
-            'cik': cik,
+            #'number': an,
+            #'cik': cik,
             'sic': sic,
             'filing_type': TYPE_EXTRACT.findall(data.get('header')).pop(),
             'doc_type': TYPE_EXTRACT.findall(data.get('doc')).pop(),
+            'doc_url': doc_url,
             'name': CN_EXTRACT.findall(data.get('header')).pop(),
             'score': score,
+            'tokens': tokens,
             'terms': terms
         }
 
