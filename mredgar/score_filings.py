@@ -132,8 +132,9 @@ class MRScoreFilings(MRJob):
             'doc_type': TYPE_EXTRACT.findall(data.get('doc')).pop(),
             'doc_url': doc_url,
             'name': CN_EXTRACT.findall(data.get('header')).pop(),
-            'score': score,
+            'raw_score': score,
             'tokens': tokens,
+            'score': (score * pos_terms) / (tokens / 2),
             'positive_terms': pos_terms,
             'terms': terms
         }
