@@ -64,12 +64,12 @@ def compute_score(doc):
     pos_terms = set()
     score = 0.0
 
-    tokens = len(get_tokens(text))
+    tokens = max(1, len(get_tokens(text)))
 
     # bias for longer documents:
     #tokens = tokens / 10
     
-    textlen = float(len(text))
+    textlen = float(max(1, len(text)))
     if textlen > 100:
         for match in SEARCHES.finditer(text):
             term = match.group(1)
@@ -88,7 +88,6 @@ def compute_score(doc):
 
             if weight > 0:
                 pos_terms.add(term)
-                #weight = weight ** 1.1
             
             pos = float(match.start(1)) / textlen
             score += weight * (math.log(pos) * -1.0)
@@ -110,7 +109,8 @@ class MRScoreFilings(MRJob):
     OUTPUT_PROTOCOL = JSONProtocol
 
     def mapper(self, fn, data):
-        score, tokens, pos_terms, terms = compute_score(data.get('doc'))
+        raw_score, tokens, pos_terms, terms = compute_score(data.get('doc'))
+        score = (raw_score * pos_terms) / (tokens / 2)
         if score <= 0:
             return
         an = AN_EXTRACT.findall(data.get('header'))
@@ -132,9 +132,9 @@ class MRScoreFilings(MRJob):
             'doc_type': TYPE_EXTRACT.findall(data.get('doc')).pop(),
             'doc_url': doc_url,
             'name': CN_EXTRACT.findall(data.get('header')).pop(),
-            'raw_score': score,
+            'raw_score': raw_score,
             'tokens': tokens,
-            'score': (score * pos_terms) / (tokens / 2),
+            'score': score,
             'positive_terms': pos_terms,
             'terms': terms
         }
