@@ -88,7 +88,7 @@ def compute_score(doc):
 
             if weight > 0:
                 pos_terms.add(term)
-                weight = weight ** 1.1
+                #weight = weight ** 1.1
             
             pos = float(match.start(1)) / textlen
             score += weight * (math.log(pos) * -1.0)
