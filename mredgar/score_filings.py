@@ -121,7 +121,10 @@ class MRScoreFilings(MRJob):
         sic = SIC_EXTRACT.findall(data.get('header')).pop()
         cik = CIK_EXTRACT.findall(data.get('header')).pop()
         url = URL % (int(cik), man, an)
-        doc_url = FILENAME_EXTRACT.findall(data.get('doc')).pop()
+        doc_url = None
+        fnames = FILENAME_EXTRACT.findall(data.get('doc'))
+        if len(fnames):
+            doc_url = fnames.pop()
         if doc_url is not None and len(doc_url.strip()):
             doc_url = urljoin(url, doc_url)
         yield url, {
