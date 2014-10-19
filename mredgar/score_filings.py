@@ -142,8 +142,8 @@ class MRScoreFilings(MRJob):
     def reducer(self, url, files):
         max_score, file_data = 0, None
         for data in files:
-            if data.get('score') > max_score:
-                max_score = data.get('score')
+            if data.get('score', 0) > max_score:
+                max_score = data.get('score', 0)
                 file_data = data
         if file_data is not None:
             yield url, file_data
