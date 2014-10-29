@@ -90,7 +90,7 @@ def compute_score(doc):
                 pos_terms.add(term)
             
             pos = float(match.start(1)) / textlen
-            score += weight * (math.log(pos) * -1.0)
+            score += (weight * (math.log(pos) * -1.0)) + weight
             #print weight, score
             #print match.group(1), weight, score
             terms[term] += 1
