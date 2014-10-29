@@ -1,0 +1,694 @@
+
+EX-10.78
+12
+ex10-78.htm
+FORM OF COMMON STOCK PURCHASE WARRANT, ISSUED MARCH 26, 2012 TO NEW ROCK CAPITAL, LLC
+
+
+
+    ex10-78.htm
+    
+    
+    
+
+
+Exhibit 10.78
+
+
+
+
+
+
+
+NEITHER THIS SECURITY NOR THE SECURITIES FOR WHICH THIS SECURITY IS EXERCISABLE HAVE BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”) OR THE SECURITIES LAWS OF ANY STATE. ACCORDINGLY, THESE SECURITIES MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS AS
+EVIDENCED BY A LEGAL OPINION OF COUNSEL TO THE TRANSFEROR TO SUCH EFFECT, THE SUBSTANCE OF WHICH SHALL BE REASONABLY ACCEPTABLE TO THE COMPANY.
+
+ 
+
+THIS WARRANT IS NOT TRANSFERABLE EXCEPT AS PROVIDED BELOW. THE TRANSFER OF THE SHARES OF COMMON STOCK ISSUABLE UPON EXERCISE HEREOF IS SUBJECT TO COMPLIANCE WITH THE CONDITIONS SPECIFIED BELOW, AND NO TRANSFER OF SUCH SHARES SHALL BE VALID UNTIL SUCH CONDITIONS HAVE BEEN FULFILLED.
+
+
+
+
+THIS WARRANT SHALL BE VOID AFTER 5:00 P.M. PACIFIC STANDARD TIME ON DECEMBER 31, 2016.
+
+
+
+
+WORTHINGTON ENERGY, INC.
+
+a Nevada corporation
+
+
+
+
+COMMON STOCK PURCHASE WARRANT
+
+
+
+
+
+
+
+
+March 26, 2012
+
+
+Warrant No. 12-151
+
+
+
+
+
+
+
+ 
+
+This is to certify that, for value received, New Rock Capital, LLC (the “Holder”), whose current address is 301 Mission Street, #38F, San Francisco, CA 94105, upon due exercise of this Warrant, is entitled to purchase from WORTHINGTON ENERGY, INC., a Nevada corporation (the “Company”), all or any part of TWO HUNDRED THOUSAND (200,000) shares
+(“Warrant Shares”) of fully paid and non-assessable Common Stock, $0.001 par value, of the Company (“Common Stock”), at the purchase price per share of Fifteen Cents ($0.15) (the exercise price in effect being herein called the “Warrant Price”) at any time prior to 5:00 p.m. Pacific Standard Time on December 31, 2016 (the “Expiration Date”), all subject to the terms, conditions and adjustments as provided in this Warrant.
+
+ 
+
+Section 1.                           Registration. The Company shall maintain books for the transfer and registration of the Warrant. Upon the initial issuance of this Warrant, the Company shall issue and register the Warrant in the name of the holder.
+
+ 
+
+Section 2.                           Transfers.  This Warrant may be transferred only pursuant to a registration statement filed under the Securities Act of 1933, as amended (“Securities Act”), or an exemption from such registration.  Subject to such restrictions, the Company shall transfer this Warrant from
+time to time upon the books to be maintained by the Company for that purpose upon surrender thereof for transfer properly endorsed or  accompanied by appropriate instructions for transfer and such other documents as may be reasonably required by the Company.  Such documents shall include, if required by the Company, an opinion of its counsel to the effect that such transfer is exempt from the registration requirements of the Securities Act and applicable state securities laws to establish that such transfer is being made in accordance with the terms hereof, and a new Warrant shall be issued to the transferee and the surrendered Warrant shall be canceled by the Company.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+Section 3.                           Exercise of Warrant.
+
+ 
+
+      (a)      Subject to the provisions of Section 3(b) hereof, the Holder may exercise this Warrant in whole or in part at any time prior to its expiration upon surrender of the Warrant together with delivery of the duly executed Warrant Exercise Form attached hereto as Appendix A (the “Exercise Agreement”) and payment by cash, certified check, or wire transfer of funds for the aggregate Warrant Price for that number of Warrant Shares then being purchased to the Company during normal business hours on any business day at the Company’s principal executive
+offices or such other office or agency of the Company as it may designate by notice to the holder hereof.
+
+ 
+
+(b)      Notwithstanding anything to the contrary contained herein, the Holder may elect to receive, without the payment by the Holder of the aggregate Warrant Price in respect of the Warrant Shares to be acquired upon exercise hereof, Warrant Shares equal to the value of this Warrant or any portion hereof being exercised pursuant to this Section 3(b) by the surrender of this Warrant, or such portion of this Warrant being so exercised, together with the Net Issue Election Notice annexed hereto as Appendix B duly executed, at the office of the Company to purchase the number of Warrant Shares determined pursuant
+to  the formula immediately below:
+
+
+
+
+
+
+
+  
+
+X =
+
+
+Y   x    (A - B)             where :
+
+
+  
+  
+
+            A
+
+
+
+ 
+
+
+X =
+
+
+the number of Warrant Shares to be issued to the Holder upon exercise of this Warrant pursuant to this Section 3(b);
+
+
+
+ 
+
+
+Y =
+
+
+the total number of shares of Common Stock covered by this Warrant which the Holder has surrendered at such time for cashless exercise, including both shares to be issued to the Holder and shares to be canceled as payment therefor;
+
+
+
+ 
+
+
+A =
+
+
+the Market Price of one Share as at the time the net issue election is made; and
+
+
+
+ 
+
+
+B =
+
+
+the Warrant Price in effect under this Warrant at the time the net issue election is made.
+
+
+
+
+ 
+
+As used herein “Market Price” shall mean the closing sale price of the shares of the Company’s common stock as listed or quoted on the Trading Market on the last trading day prior to the date any determination is to be made, provided that if such stock has not  been quoted on such date in such Trading Market, the Market Price shall be the average closing price of shares of the Company’s common stock in the most recent five (5) trading days during which the shares of the Company’s common stock have been traded. Trading Market shall be the primary market
+in which the shares of the Company’s common stock are traded, which may be a national securities exchange, any market conducted by the  Nasdaq Stock Market, Inc., the Over-the-Counter Bulletin Board or on the “pink sheets,” as applicable. If there is no Trading Market, then upon the failure of the parties to agree upon a price within three business days after of the exercise of the Warrants, the fair market value of a share of common stock as determined by an independent appraiser selected in good faith by the Holder and reasonably acceptable to the Company, the fees and expenses of which shall be paid by the Company.
+
+ 
+
+(c)      The Warrant Shares so purchased shall be deemed to be issued to the then holder of this Warrant or such party’s designee, as the record owner of such shares, as of the close of business on the date on which (i) this Warrant shall have been surrendered (or “Loss Documentation” as defined in section 6 has been delivered), and (ii) the Warrant Price shall have been paid and the completed Exercise Agreement shall have been delivered or with respect to Section 3(b), as of the close of business on the date on which the Net Issue Election
+Notice shall have been surrendered (or “Loss Documentation” has been delivered) to the Company.
+
+
+
+
+  
+
+
+
+-2-
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+(d)      Certificates for the Warrant Shares so purchased pursuant to exercise pursuant to, representing the aggregate number of shares specified in the Exercise Agreement, shall be delivered to the holder hereof within a reasonable time, not exceeding three business days, after this Warrant shall have been so exercised.) All Warrant Shares so issued shall be fully paid, validly issued and nonassessable. The certificates so delivered shall be in such denominations as may be requested by the holder hereof and shall be registered in the name of such holder or such other name as shall be designated by such
+holder.  If this Warrant shall have been exercised only in part, then, unless this Warrant has expired, the Company shall, at its expense, at the time of delivery of such certificates, deliver to the holder a new Warrant representing the number of shares with respect to which this Warrant shall not then have been exercised.  As used in this Agreement, “business day” means a day, other than a Saturday or Sunday, on which banks in San Francisco are open for the general transaction of business.
+
+ 
+
+Section 4.                           Compliance with the Securities Act of 1933. The Company may cause the legend set forth on the first page of this Warrant to be set forth on each Warrant or similar legend on any security issued or issuable upon exercise of this Warrant, unless counsel for the Company is of the opinion as to any such security that such legend is unnecessary.
+
+ 
+
+Section 5.                           Payment of Taxes.  The Company will pay any documentary stamp taxes attributable to the initial issuance of Warrant Shares issuable upon the exercise of the Warrant; provided, however, that the Company shall not be required to pay any tax or taxes which may be payable in respect of any transfer involved in the issuance or delivery of any certificates for Warrant Shares in a name other than that of the
+registered holder of this Warrant in respect of which such shares are issued, and in such case, the Company shall not be required to issue or deliver any certificate for Warrant Shares or any Warrant until the person requesting the same has paid to the Company the amount of such tax or has established to the Company’s reasonable satisfaction that such tax has been paid. The holder shall be responsible for income taxes due under federal, state or other law, if any such tax is due.
+
+ 
+
+Section 6.                           Mutilated or Missing Warrants.  In case this Warrant shall be mutilated, lost, stolen, or destroyed, the Company shall issue in exchange and substitution of and upon cancellation of the mutilated Warrant, or in lieu of and substitution for the Warrant lost, stolen or destroyed, a new Warrant of like tenor and for the purchase of a like number of Warrant Shares, but only upon receipt of evidence reasonably
+satisfactory to the Company of such loss, theft or destruction of the Warrant, and with respect to a lost, stolen or destroyed Warrant, reasonable indemnity or bond with respect thereto, if requested by the Company  (“Loss Documentation”).
+
+ 
+
+Section 7.                           Reservation of Shares.  The Company hereby represents and warrants that there have been reserved, and the Company shall at all applicable times keep reserved until issued, if necessary, as contemplated by this Section 7, out of the authorized and unissued shares of Warrant Shares, sufficient shares to provide for the exercise of the rights of purchase represented by this Warrant. The Company agrees that
+all Warrant Shares issued upon due exercise of the Warrant shall be, at the time of delivery of the certificates for such Warrant Shares, duly authorized, validly issued, fully paid and non-assessable shares of Common Stock of the Company.
+
+
+
+
+  
+
+
+
+-3-
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+Section 8.                           Adjustments.  Subject and pursuant to the provisions of this Section 8, the Warrant Price and number of Warrant Shares subject to this Warrant shall be subject to adjustment from time to time as follows:
+
+ 
+
+(a)      If the Company, at any time while this Warrant is outstanding: (i) pays a stock dividend or otherwise make a distribution or distributions on shares of its Common Stock or any other equity or equity equivalent securities payable in shares of Common Stock (which, for avoidance of doubt, shall not include any shares of Common Stock issued by the Company upon exercise of this Warrant); (ii) subdivides outstanding shares of Common Stock into a larger number of shares; (iii) combines (including by way of reverse stock split) outstanding shares of Common Stock into a smaller number of shares; or (iv) issues by
+reclassification of shares of the Common Stock any shares of capital stock of the Company, then in each case the Exercise Price shall be multiplied by a fraction of which the numerator shall be the number of shares of Common Stock (excluding treasury shares, if any) outstanding immediately before such event and of which the denominator shall be the number of shares of Common Stock outstanding immediately after such event and the number of shares issuable upon exercise of this Warrant shall be proportionately adjusted such that the aggregate Exercise Price of this Warrant shall remain unchanged. Any adjustment made pursuant to this Section 8 (a) shall become effective immediately after the record date for the determination of stockholders entitled to receive such dividend or distribution and shall become effective immediately after the effective date in the case of a subdivision,
+combination or re-classification.
+
+ 
+
+(b)      If, at any time while this Warrant is outstanding, the Company: (i) shall consolidate with or merge into any other person and shall not be the continuing or surviving corporation of such consolidation or merger, ;(ii) shall permit any other person to consolidate with or merge into the Company and the Company shall be the continuing or surviving person but, in connection with such consolidation or merger, the Common Stock shall be changed into or exchanged for stock or other securities or property of any other person; (c) shall transfer all or substantially all of its properties and assets to any other person;
+or (d) shall effect a capital reorganization or reclassification of the Company, then, and in each such case, proper provision shall be made so that the holder of this Warrant, upon the exercise hereof at any time after the consummation of such consolidation, merger, transfer, reorganization or reclassification, shall be entitled to receive, in lieu of the Common Stock issuable upon such exercise prior to such consummation, the stock and other securities and property to which such holder would have been entitled upon such consummation if such holder had so exercised this Warrant immediately prior thereto, subject to adjustments (subsequent to such corporate action) as nearly equivalent as possible to the adjustments provided herein.
+
+ 
+
+Section 9.                           Fractional Interest.  The Company shall not be required to issue fractions of Warrant Shares upon the exercise of this Warrant. If any fractional share of Warrant Shares would, except for the provisions of the first sentence of this Section 9, be deliverable upon such exercise, the Company, in lieu of delivering such fractional share, shall pay to the exercising holder of this Warrant an amount in cash
+equal to the Market Value of such fractional Warrant Shares on the date of exercise.
+
+ 
+
+Section 10.                            No Rights as Shareholder.  Prior to the exercise of this Warrant, the Holder shall not have or exercise any rights as a shareholder of the Company by virtue of its ownership of this Warrant.
+
+ 
+
+Section 11.                            Benefits.  Nothing in this Warrant shall be construed to give any person, firm, or corporation, other than the Company and the Holder, any legal or equitable right, remedy, or claim. It is acknowledged that this Warrant shall be for the sole and exclusive benefit of the Company and the Holder.
+
+ 
+
+Section 12.                             Notices.  Unless otherwise specifically provided herein, all communications under this Warrant shall be in writing and shall be deemed to have been duly given: (a) on the date personally delivered to the party to whom notice is to be given; (b) on the day of transmission if sent by facsimile transmission to a number provided to a party specifically for such purposes and the sending party
+receives confirmation of the completion of such transmission; (c) on the business day after delivery to Federal Express or similar overnight courier which utilizes a written form of receipt; or (d) on the fifth day after mailing, if mailed to the party to whom notice is to be given, by first class mail, registered or certified, postage prepaid, and properly addressed, return receipt requested. All notices shall be addressed as follows: if to the Holder, at its address as set forth in the Company’s books and records; and if to the Company, at its principal executive office, Worthington Energy, Inc., 295 Highway 50, Suite 2, Stateline, NV 89449 for delivery or if mailing to P.O. Box 1148, Zephyr Cove, NV 89448-1148, or at the address of such other office of the Company as the Company shall have furnished to each holder of any Warrants in writing.
+
+
+
+
+  
+
+
+
+-4-
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+Section 13.                            Miscellaneous
+
+ 
+
+(a)       This Warrant and any term hereof may be changed, waived, discharged, or terminated only by an instrument in writing signed by the party against which enforcement of such change, waiver, discharge or termination is sought.
+
+ 
+
+(b)      This Warrant shall be governed by the laws of the State of Nevada.
+
+ 
+
+(c)      The headings in this Warrant are inserted for convenience only and shall not be deemed to constitute a part hereof.
+
+ 
+
+(d)      The obligations of the parties are solely corporate obligations, and no officer, director, employee, agent, representative, manager, owner, or controlling person of the Company shall be subject to any personal liability to any person or other party, nor will any such claim be asserted by or on behalf of either party or affiliates of such party.
+
+ 
+
+(e)      The parties will attempt to settle any claim or controversy arising out of this Warrant or the agreement giving rise to the obligation to deliver this Warrant through consultation and negotiation in good faith and a spirit of mutual cooperation. If these attempts fail, any dispute, controversy, or claim directly or indirectly relating to or arising out of this Agreement shall be submitted to binding arbitration in accordance with the Commercial Rules of the American Arbitration Association. In the proceeding, the arbitrator(s) shall apply Nevada substantive law applicable to contracts made by parties within
+the state. Pending the hearing, the parties shall be entitled to undertake discovery proceedings, including taking of depositions and requests for document production. In no event shall either party be liable to the other, and there shall be no award under any legal or equitable theory, for special, consequential, exemplary, or punitive damages, including lost of profit, even if a party has been advised of the possibility of such damages in advance. The arbitrator(s) shall prepare an award in writing, which shall include factual findings and any legal conclusions on which the decision is based. Judgment upon any award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.
+
+ 
+
+(f)      All the provisions hereof by or for the benefit of the parties shall bind and inure to the benefit of its respective successors and assigns hereunder.
+
+
+
+
+IN WITNESS WHEREOF, the Company has caused this Warrant to be duly executed, as of March 26, 2012.
+
+
+
+
+
+ 
+
+
+ WORTHINGTON ENERGY, INC.
+
+
+
+ 
+
+
+a Nevada corporation
+
+
+
+ 
+
+  
+
+
+ 
+
+
+By:________________________________
+
+
+  
+
+        Name:  Charles F. Volk, Jr.
+
+
+  
+
+        Title: Chairman & CEO
+
+
+
+
+
+
+
+  
+
+
+
+-5-
+
+
+
+
+
+
+
+  
+
+
+
+
+APPENDIX A
+
+WORTHINGTON ENERGY, INC.
+
+ WARRANT EXERCISE FORM
+
+
+
+
+To: Worthington Energy , Inc.:
+
+ 
+
+The undersigned hereby irrevocably elects to exercise the right of purchase represented by the within Warrant (“Warrant”) for and to purchase thereunder, by the payment of the Warrant Price and surrender of the Warrant, _______________ Shares (“Warrant Shares”) as provided in the Warrant and requests that certificates for the Warrant Shares be issued as follows:
+
+
+
+
+
+
+
+  
+
+_______________________________
+
+
+  
+
+Name
+
+
+  
+
+________________________________
+
+
+  
+  
+
+  
+
+Address
+
+
+  
+  
+
+  
+
+________________________________
+
+
+  
+  
+
+  
+
+________________________________
+
+
+  
+  
+
+  
+
+________________________________
+
+
+  
+
+Federal Tax ID or Social Security No.
+
+
+
+
+and delivered by
+
+
+
+
+
+
+
+
+ 
+
+
+q
+
+
+certified mail to the above address, or
+
+
+
+ 
+
+
+q
+
+
+electronically (provide DWAC Instructions:___________________), or
+
+
+
+ 
+
+
+q
+
+
+other (specify: __________________________________________).
+
+
+
+
+ 
+
+ and, if the number of Warrant Shares shall not be all the Warrant Shares purchasable upon exercise of the Warrant, that a new Warrant for the balance of the Warrant Shares purchasable upon exercise of this Warrant be registered in the name of the undersigned Holder or the undersigned’s Assignee as below indicated and delivered to the address stated below.
+
+ 
+
+
+
+
+Dated: ___________________, ____
+
+
+
+
+
+
+
+
+Note:  The signature must correspond with the
+
+
+Signature:___________________________________
+
+
+
+name of the registered holder as written on the
+
+
+___________________________________________
+
+
+
+first page of the Warrant in every particular,
+
+
+Name (please print)
+
+
+
+without alteration or enlargement or any change
+
+
+___________________________________________
+
+
+
+whatever, unless the Warrant has been assigned.
+
+
+___________________________________________
+
+
+  
+
+Address
+
+
+
+
+
+
+
+
+
+
+  
+
+______________________________
+
+
+  
+
+Federal Identification or SS No.
+
+
+  
+  
+
+  
+
+Assignee:
+
+
+  
+
+_______________________________
+
+
+  
+
+_______________________________
+
+
+  
+
+_______________________________
+
+
+
+
+
+
+
+  
+
+
+
+A-1
+
+
+
+
+
+
+
+  
+
+
+
+
+APPENDIX B
+
+WORTHINGTON ENERGY, INC.
+
+ NET ISSUE ELECTION NOTICE
+
+
+
+
+
+
+
+To: Worthington Energy, Inc.
+
+
+
+
+Date:_________________________
+
+
+
+
+
+
+
+The undersigned hereby elects under Section ­­­­­­­­­­­­­3 of this Warrant to surrender the right to purchase ____________  Shares pursuant to this Warrant and hereby requests the issuance of _____________  Shares. The certificate(s) for the Shares issuable upon such net issue election shall be issued in the name of the undersigned or as otherwise indicated below.
+
+
+
+
+
+
+
+_________________________________________
+
+Signature
+
+
+
+
+_________________________________________
+
+Name for Registration
+
+
+
+
+_________________________________________
+
+Mailing Address
+
+ 
+
+ 
+
+ 
+
+ 
+
+B-1
+
+
+
+
+
+
+

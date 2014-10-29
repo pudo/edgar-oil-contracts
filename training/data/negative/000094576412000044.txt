@@ -1,0 +1,980 @@
+
+EX-10.A
+3
+exhibit10a.htm
+EXHIBIT 10(A)
+
+
+
+    exhibit10a.htm
+    
+    
+    
+
+
+Exhibit 10(a)
+
+ 
+
+                   Maximum Performance Shares
+
+Date of Grant: January 6, 2012
+
+
+ 
+
+2012 PERFORMANCE STOCK AWARD
+
+
+
+
+2004 OMNIBUS STOCK AND INCENTIVE PLAN
+
+
+
+
+FOR DENBURY RESOURCES INC.
+
+
+
+
+PERFORMANCE STOCK AWARD (“Award”) made effective January 6, 2012 (“Date of Grant”) between Denbury Resources Inc. (the “Company”) and «Officer_Name» (“Holder”).
+
+
+
+
+WHEREAS, Section 17 of the 2004 Omnibus Stock and Incentive Plan For Denbury Resources Inc. (“Plan”) authorizes the Committee to grant performance-based Awards;
+
+
+
+
+WHEREAS, the Committee desires to grant to Holder an Award under which Holder can earn a maximum of
+
+                     Performance Shares based on the performance factors set forth in this Award, and subject to all of the provisions, including without limitation the Vesting provisions, of the Plan and this Award;
+
+
+
+
+WHEREAS, no Performance Shares will be issued or outstanding until their respective Vesting Dates or they become Retained Earned Shares; and
+
+
+
+
+WHEREAS, the Company and Holder understand and agree that this Award is in all respects subject to the terms, definitions and provisions of the Plan, and all of which are incorporated herein by reference, except to the extent otherwise expressly provided in this Award.
+
+
+
+
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth and for other good and valuable consideration, the parties agree as follows:
+
+
+
+
+1.      Performance Share Grant. The Company hereby grants Holder the right to earn, Vest in, and receive delivery of, on the Delivery Date up to                      Reserved Shares (“Performance Shares”) subject to the terms and conditions set forth in the Plan and in this Award.
+
+
+
+
+2.      Definitions. All words capitalized herein that are defined in the Plan shall have the meaning assigned them in the Plan; other capitalized words shall have the following meaning, or shall be defined elsewhere in this Award:
+
+
+
+
+(a) “BOE” means Barrels of Oil Equivalent, and for all purposes hereof, will be calculated using the ratio of one barrel of crude oil, condensate or natural gas liquids to 6 Mcf of natural gas.
+
+
+
+
+(b) “Committee Percentage Point Reduction” means the number (if any) of Performance Percentage Points (not in excess of the Committee Percentage Point Reduction Limitation) by which the Committee reduces Holder’s Performance Percentage Points in accordance with Section 7 hereof.
+
+
+
+
+(c) “Committee Percentage Point Reduction Limitation” means the lesser of (i) forty (40) Performance Percentage Points, and (ii) the product of (x) Holder’s Performance Percentage Points earned during the Performance Period as determined prior to the application of the Committee Percentage Point Reduction, multiplied by (y) twenty-five percent (25%).
+
+
+
+
+(d) “Delivery Date” means the date on which Vested Earned Shares (other than Retained Earned Shares and Performance Shares delivered under 8(b)) are delivered to Holder, which shall be the Vesting Date, or as soon thereafter as practicable, but in no event later than 30 days after the Vesting Date.
+
+
+
+
+(e) “Disability” means, without limitation, the same as it does in the Plan.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+(f) “Earned Performance Shares” means the number of Performance Shares which are earned during the Performance Period as described and calculated in Section 8.
+
+
+
+
+(g) “Fiscal Year” means the 12-month period adopted by the Company for financial reporting purposes.
+
+
+
+
+(h) “Performance Measure” means, collectively, changes in amounts of oil and gas reserves, changes in production rates, and operating cost reductions, as determined based upon the (i) the Tertiary Oil Production Measure, (ii) the Corporate Production Measure, (iii) LOE per BOE Measure, and (iv) the Reserve Replacement Measure; provided, further, that when reference to a specific Performance Measure is intended, reference will be made to such specific Performance Measure.
+
+
+
+
+(i) “Performance Period” means the period beginning on January 1, 2012, and ending on December 31, 2012.
+
+
+
+
+(j) “Performance Percentage” means the excess of (i) Holder’s aggregate Performance Percentage Points, over (ii) the Committee Percentage Points Reduction, if any, determined as of the last day of the Performance Period.
+
+
+
+
+(k) “Performance Percentage Points” means, collectively, the points, designated as Performance Percentage Points, earned with respect to each Performance Measure during Performance Period.
+
+
+
+
+(l) “Performance Shares” means the number of Reserved Shares subject to this Award, as shown on the first page of this Award.
+
+
+
+
+(m) “Post Separation Change in Control” means a Change in Control which follows Holder’s Separation, but results from the Commencement of a Change in Control that occurs prior to Holder’s Separation. For all purposes of this Award, the term “Commencement of a Change in Control” shall mean the date on which any material action, including without limitation through a written offer, open-market bid, corporate action, proxy solicitation or otherwise, is taken by a “person” (as defined in Section 13(d) or Section 14(d)(2) of the 1934 Act), or a “group” (as defined in Section 13(d)(3) of the 1934 Act), or their affiliates, to commence efforts that, within 12 months after the date of such material action, leads to a Change in Control as defined in Section 2(h)(2), (3) or (4) of the Plan involving such person, group, or their affiliates.
+
+
+
+
+(n) “Target Performance Shares” means                      of the Performance Shares, which is the number of Performance Shares which will be Earned Performance Shares if Holder’s Performance Percentage is 100%.
+
+
+
+
+(o)      “Vesting Date” means March 31, 2013.
+
+
+
+
+3.      Performance Percentage Points Earned With Respect To The Tertiary Oil Production Measure.
+
+
+
+
+(a) Tertiary Production Based Performance Percentage Points. The Performance Percentage Points which will be credited to Holder with respect to the Tertiary Oil Production Measure are set forth in the following Chart based on the Average Annual Tertiary Production Percentage. The “Average Annual Tertiary Production Percentage” means the quotient (rounded to 3 decimal places and then expressed as a percentage) of (x) the Adjusted Tertiary Oil Production for such Fiscal Year, divided by (y) the Tertiary Oil Production Forecast for such Fiscal Year.
+
+
+
+
+
+
+
+ 
+ 
+
+Average Annual Tertiary
+
+Production Percentage
+
+ 
+
+Performance
+
+Percentage Points
+
+ 
+
+ 
+A.
+ 
+
+107.2% or more
+
+ 
+ 70
+ 
+
+ 
+B.
+ 
+
+104.3% to 107.1%
+
+ 
+ 56
+ 
+
+ 
+C.
+ 
+
+100% to 104.2%
+
+ 
+ 42
+ 
+
+ 
+D.
+ 
+
+95.7% to 99.9%
+
+ 
+ 28
+ 
+
+ 
+E.
+ 
+
+Less than 95.7%
+
+ 
+ 0
+ 
+
+
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+(b) Adjusted Tertiary Oil Production. For purposes of this Award, the “Adjusted Tertiary Oil Production” shall be equal to (i) the actual tertiary oil production of the Company for such Fiscal Year as reported in the Company’s Form 10-K, or if not specifically reported, then as determined by the Committee from the underlying documents, minus (ii) the tertiary oil production related to an oil property acquired during such Fiscal Year, such amount to be the lesser of (a) the actual tertiary oil production for such Fiscal Year from the acquired property or incremental property interest (if a material partial interest) or (b) the forecasted oil production related thereto for such Fiscal Year for the property before any improvements made by the Company following the acquisition of the property, plus (iii) that portion of the Tertiary Oil Production Forecast, as defined below which is related to any oil property disposed or sold during such Fiscal Year for the period during which the Company did not own the oil property.
+
+
+
+
+(c) Tertiary Oil Production Forecast. For purposes of this Award, “Tertiary Oil Production Forecast” means for 2012, 34,500 barrels of oil per day.
+
+
+
+
+4.      Performance Percentage Points Earned With Respect To The Corporate Production Measure.
+
+
+
+
+(a) Corporate Production Based Performance Percentage Points. The Performance Percentage Points which will be credited to Holder with respect to the Corporate Production Measure are set forth in the following Chart based on the Average Annual Corporate Production Percentage. The “Average Annual Corporate Production Percentage” means for such Fiscal Year, the quotient (rounded to 3 decimal places and then expressed as a percentage) of (x) the Adjusted Corporate Production of the Company for such Fiscal Year, divided by (y) the Corporate Production Forecast for such Fiscal Year.
+
+
+
+
+
+
+
+ 
+ 
+
+Average Annual Corporate
+
+Production Percentage
+
+ 
+
+Performance
+
+Percentage Points
+
+ 
+
+ 
+A.
+ 
+
+106.2% or more
+
+ 
+ 40
+ 
+
+ 
+B.
+ 
+
+103.4% to 106.1%
+
+ 
+ 32
+ 
+
+ 
+C.
+ 
+
+100% to 103.3%
+
+ 
+ 24
+ 
+
+ 
+D.
+ 
+
+96.6% to 99.9%
+
+ 
+ 16
+ 
+
+ 
+E.
+ 
+
+Less than 96.6%
+
+ 
+ 0
+ 
+
+
+
+
+
+
+(b) Adjusted Corporate Production. For purposes of this Award, “Adjusted Corporate Production” means (i) the actual production of oil and natural gas (in BOEs) for the Fiscal Year as reported in the Company’s Form 10-K (“Corporate Production”), minus (ii) the oil and natural gas production (in BOEs) related to properties acquired during such Fiscal Year, such amount to be the lesser of (a) the actual oil and natural gas production (in BOEs) for such Fiscal Year from the acquired property or incremental property interest (if a partial interest) or (b) the forecasted oil and natural gas production (in BOEs) related thereto for such Fiscal Year for the property before any improvements made by the Company following the acquisition of the property, plus (iii) that portion of the Corporate Production Forecast, as defined below, which is related to any oil or natural gas property disposed or sold during such Fiscal Year for the period during which the Company did not own the property.
+
+
+
+
+(c) Corporate Production Forecast. For purposes of this Award, “Corporate Production Forecast” means for 2012, 72,750 BOE per day.
+
+
+
+
+5.      Performance Percentage Points Earned With Respect To Lease Operating Expense (“LOE”) Per BOE Measure.
+
+
+
+
+(a) “Actual-to-Budget” LOE Per BOE Measure Performance Percentage Points. The Performance Percentage Points which will be credited to Holder with respect to “Actual-to-Budget” LOE Per BOE Measure are set forth in the following Chart as compared to the various budgeted levels of LOE per BOE set forth in such Chart.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+(b) “Actual LOE Per BOE” for such Fiscal Year means (x) the actual LOE for the Fiscal Year as reported in the Company’s Form 10-K for 2012 (less the cost for CO2 as per the Company’s detailed LOE analysis) minus total LOE (including cost for CO2) related to properties acquired during such Fiscal Year, plus for properties sold during such Fiscal Year, the originally budgeted LOE for that portion of such Fiscal Year during which the results of operations of such properties are not included in the Company’s financial results, divided by (y) the actual oil and natural gas production (in BOEs) for such Fiscal Year as reported in the Company’s Form 10-K for 2012, minus the actual oil and natural gas production (in BOEs) for such Fiscal Year from properties or incremental property interests (if a partial interest) acquired during such Fiscal Year, plus for properties sold during such Fiscal Year, the originally budgeted production for that portion of such Fiscal Year during which the results of operations of such properties are not included in the Company’s financial results.
+
+
+
+
+(c) Performance Percentage Points. The Performance Percentage Points which will be awarded Holder for the Performance Period with respect to the LOE per BOE Measure will be calculated as of the last day of the Performance Period, and will be based on the levels of Actual LOE per BOE during the Fiscal Year as compared to the levels shown in the following Chart:
+
+
+
+
+
+
+
+ 
+ 
+
+Actual
+
+LOE Per BOE
+
+ 
+
+Performance
+
+Percentage Points
+
+ 
+
+ 
+A.
+ 
+
+Less than $17.68
+
+ 
+50
+ 
+
+ 
+B.
+ 
+$17.68 to $18.15
+ 
+40
+ 
+
+ 
+C.
+ 
+$18.16 to $18.78
+ 
+30
+ 
+
+ 
+D.
+ 
+$18.79 to $19.45
+ 
+20
+ 
+
+ 
+E.
+ 
+
+Greater than $19.45
+
+ 
+ 0
+ 
+
+
+
+
+
+
+6.      Performance Percentage Points Earned With Respect To The Reserve Replacement Measure.
+
+
+
+
+The Performance Percentage Points Holder will earn with respect to the Reserve Replacement Measure will be based on the Company’s Reserve Replacement Percentage for the entire Performance Period. “Reserve Replacement Percentage” means the quotient (rounded up to 3 decimal places and then expressed as a percentage) of (i) the Final Reserves less the Initial Reserves, divided by (ii) Total Production for the Company.
+
+
+
+
+(a) Performance Percentage Points. The Performance Percentage Points which will be awarded Holder for the Performance Period with respect to the Reserve Replacement Measure are set forth in the following Chart:
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+Reserve Replacement
+
+Percentage
+
+ 
+
+Performance
+
+Percentage Points
+
+ 
+
+ 
+A.
+ 
+
+300% or more
+
+ 
+40
+ 
+
+ 
+B.
+ 
+
+200% to 299%
+
+ 
+32
+ 
+
+ 
+C.
+ 
+
+150% to 199%
+
+ 
+24
+ 
+
+ 
+D.
+ 
+
+100% to 149%
+
+ 
+16
+ 
+
+ 
+E.
+ 
+
+Less than 100%
+
+ 
+0
+ 
+
+
+
+
+
+
+(b) Initial Reserves. For purpose of this Award, “Initial Reserves” means the total Company proved reserve quantities as of December 31, 2011 expressed in BOEs as estimated by DeGolyer and MacNaughton, independent petroleum engineers and disclosed in the Company’s Form 10-K Report for 2011.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+(c) Final Reserves. For purposes of this Award, “Final Reserves” means the sum of (i) the total Company proved reserve quantities on the last day of the Performance Period expressed in BOEs as estimated by DeGolyer and MacNaughton or the Company’s then current independent petroleum engineer, determined using the same price deck as was used by the Company in calculating the Initial Reserves, plus (ii) the Uneconomic Reserves, plus (iii) the Disposed Reserves, plus (iv) Total Production. The “Uneconomic Reserves” are those proved undeveloped reserves expressed in BOEs which were included in the Initial Reserves, but are not considered proved undeveloped reserves on the last day of the Performance Period solely because the price deck used to price oil and natural gas products and/or the prices used to estimate the capital costs required to develop the proved undeveloped reserves as of the last day of the Performance Period have changed from those used in the Initial Reserve report such that the extraction of such otherwise proved reserves is uneconomic (i.e. Uneconomic Reserves cannot be reserves excluded from the Final Reserves because drilling activity during the period changed the status or evaluation of the undeveloped reserves, or because the Company no longer holds the acreage or interest, or because factors other than commodity prices or changes in the estimated capital costs have made the project uneconomic). The “Disposed Reserves” are those proved reserves quantities expressed in BOEs which were sold during the Performance Period as reported as such in the Company’s Form 10-K SFAS 69 disclosures.
+
+
+
+
+7.      Committee’s Reduction of Performance Percentage Points.
+
+
+
+
+Notwithstanding any provision hereof to the contrary, the Committee, in its sole discretion, by written notice to Holder prior to the Vesting Date, may reduce Holder’s otherwise earned Performance Percentage Points by applying a Committee Percentage Point Reduction.
+
+
+
+
+(a) Performance Percentage Points Reduction. The Committee will make its determination of the Committee Percentage Point Reduction amount (if any) based on the Committee’s subjective evaluation of Company performance with respect to each of the four Additional Committee Evaluation Factors listed in (b) below, which evaluation will determine the amount of the Performance Percentage Points reduction for each such Additional Committee Evaluation Factor based on the Chart below, and the sum of those reductions, but not in excess of the Committee Percentage Point Reduction Limitation, will be Committee Percentage Point Reduction for the Performance Period:
+
+
+
+
+
+
+
+ 
+ 
+
+Committee’s Determination of
+
+the Level of Performance With
+
+Respect to each Committee
+
+Evaluation Factor
+
+ 
+
+Reduction in
+
+Performance
+
+Percentage Points
+
+ 
+
+ 
+A.
+ 
+
+Above Average
+
+ 
+0
+ 
+
+ 
+B.
+ 
+
+Average
+
+ 
+5
+ 
+
+ 
+C.
+ 
+
+Below Average
+
+ 
+10
+ 
+
+
+
+
+
+
+(b) For purposes of this Award, the “Additional Committee Evaluation Factors” (each of which may cause a reduction of up to 10 Performance Percentage Points) are:
+
+
+
+
+(i)       the Company’s compliance with such corporate governance factors as the ability to obtain an unqualified auditors’ opinion on the Company’s financial statements contained in its Form 10-K for 2012, and avoid any financial restatements,
+
+
+
+
+(ii)       the Company’s maintenance of a reasonable debt-to-capital and/or debt-to-cash flow ratio,
+
+
+
+
+(iii)       the Company’s record as to health, safety and environmental compliance and results, and
+
+
+
+
+(iv)       the increase in the net asset value per share of Company stock, determined after excluding the effects, to the extent reasonably practical, caused by fluctuations in commodity prices and capital and operating costs or other factors which are generally not controllable by the Company.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+8.      Earning Performance Shares.
+
+
+
+
+(a) Earned Performance Shares. The number of Earned Performance Shares shall be equal to the product of (i) the Target Performance Shares, multiplied by (ii) the Performance Percentage. Only whole shares will be issued to the Holder. The Committee will determine, and the Administrator will advise Holder, of Holder’s Performance Percentage as soon as reasonably possible after the last day of the Performance Period.
+
+
+
+
+(b) Change in Control. Notwithstanding the foregoing and any other provision hereof to the contrary, if a Change in Control occurs during the Performance Period then, regardless of the Performance Percentage at the date of the Change in Control, Holder will be entitled to receive delivery of all of the Target Performance Shares (notwithstanding any provision hereof to the contrary, none of which Target Performance Shares will be retained by the Company other than as payment for withholding) as soon as reasonably possible following such Change in Control, but in no event later than the 15th day of the third month after the end of the calendar year in which such Change in Control occurs, and Holder permanently shall forfeit the right to receive any other Performance Shares.
+
+
+
+
+9.      Vesting (and Forfeiture) of Earned Performance Shares.
+
+
+
+
+(a) No Separation Prior to the Vesting Date. If Holder does not Separate prior to the Vesting Date, Holder will be 100% Vested in the Earned Shares.
+
+
+
+
+(b) Forfeiture. Except to the extent expressly provided in (i), (ii), (iii), or (iv) below, Holder permanently will forfeit all rights with respect to all Performance Shares upon the date of his Separation, if such Separation occurs prior to the Vesting Date.
+
+
+
+
+(i)       Death. If Holder Separates by reason of death prior to the Vesting Date, Holder’s Beneficiary will be entitled to receive Performance Shares in an amount equal to the number of Target Performance Shares (and does not have any right to receive any other Performance Shares) as soon as reasonably possible, but in no event more than 90 days after Holder’s death.
+
+
+
+
+(ii)       Disability. If Holder Separates by reason of a Disability prior to the Vesting Date, Holder will be entitled to receive Performance Shares in an amount equal to the number of Target Performance Shares (and does not have any right to receive any additional Performance Shares) as soon as reasonably possible, but in no event later than the 15th day of the third month after the end of the calendar year following the Date on which the Committee determines that Holder is Disabled.
+
+
+
+
+(iii)       Post Separation Change in Control. If there is a Post Separation Change in Control, Holder will be entitled to receive Performance Shares in an amount equal to the number of Target Performance Shares (and does not have any right to receive any additional Performance Shares) as soon as reasonably possible after the date of the Change in Control, but in no event later than the 15th day of the third month after the end of the calendar year in which such Change in Control occurs.
+
+
+
+
+(iv)       Retirement. If Holder Separates after reaching Holder’s Retirement Vesting Date and prior to the Vesting Date, Holder will be entitled to receive only that percentage (if any) of the Performance Shares as shall be determined by the Committee in writing (and does not have any right to receive any additional Performance Shares). In making its determination, the Committee will take into account the percentage of the Performance Period completed by the date of Holder’s Separation, and its best estimate of the Performance Percentage Points Holder has earned by the date of Holder’s Separation and is expected to earn during the portion of the Performance Period occurring after the date of Holder’s Separation. The Committee will make its determination, and Holder will receive the Performance Shares (if any) as determined by the Committee, within a reasonable time, but in no event later than the 15th day of the third month after the end of the calendar year following Holder’s Separation.  Notwithstanding the foregoing, in the event Holder Separates after Holder’s Retirement Vesting Date, but within 12 months of the Date of Grant, all rights to receive Performance Shares under this Award will be forfeited.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+10.      Withholding. On the Vesting Date, the minimum federal income tax withholding required to be made by the Company shall be paid by Holder (or Holder’s Beneficiary) to the Administrator in cash, by delivery of Shares, or by authorizing the Company to retain Earned Shares, or a combination thereof; provided, further, that where Shares or Earned Shares are delivered or retained, the satisfaction of Holder’s obligation hereunder will be based on the Fair Market Value on the Vesting Date of such delivered or retained Shares.
+
+ 
+
+11.      Issuance of Shares. Without limitation, Holder shall not have any of the rights and privileges of an owner of any of the Performance Shares (including voting rights) until the Vesting Date. The Administrator shall deliver the Vested Shares (reduced by the number of Vested Shares delivered to the Administrator to pay required withholding under section 10 above) to the Holder as soon as reasonably possible following vesting. The Holder agrees to hold and retain the required number of Vested Shares as specified in the Company’s stock ownership guidelines, as potentially modified from time to time.
+
+
+
+
+12.      Administration. Without limiting the generality of the Committee’s rights, duties and obligations under the Plan, the Committee shall have the following specific rights, duties and obligations with respect to this Award. Without limitation, the Committee shall interpret conclusively the provisions of the Award, adopt such rules and regulations for carrying out the Award as it may deem advisable, decide conclusively all questions of fact arising in the application of the Award, certify the extent to which Performance Measures have been satisfied and the number of Performance Percentage Points earned, exercise its right to reduce Performance Percentage Points, and make all other determinations and take all other actions necessary or desirable for the administration of the Award. The Committee is authorized to change any of the terms or conditions of the Award in order to take into account any material unanticipated change in the Company’s operations, corporate structure, assets, or similar change, but only to the extent such action carries out the original purpose, intent and objectives of the Award. All decisions and acts of the Committee shall be final and binding upon Holder and all other affected parties.
+
+
+
+
+13.      Beneficiary. Holder’s rights hereunder shall be exercisable during Holder’s lifetime only by Holder or Holder’s legal representative. Holder may file with the Administrator a written designation of beneficiary (such person(s) being his “Beneficiary”), on such form as may be prescribed by the Administrator. Holder may, from time to time, amend or revoke a designation of Beneficiary. If no designated Beneficiary survives Holder, the Holder’s estate shall be deemed to be Holder’s Beneficiary.
+
+
+
+
+14.      Holder’s Access to Information. As soon as reasonably possible after the close of the preceding Fiscal Year, the Committee (and the Administrator to the extent it shall have been directed by the Committee) shall make all relevant annually-determined calculations and determinations hereunder, and shall communicate such information to the Administrator. The Administrator will furnish all such relevant information to Holder as soon as reasonably possible following the date on which all, or a substantial majority, of the information is available.
+
+
+
+
+15.      No Transfers Permitted. The rights under this Award are not transferable by the Holder otherwise than by will or the laws of descent and distribution, and so long as Holder lives, only Holder or his or her guardian or legal representative shall have the right to receive and retain Vested Earned Shares.
+
+
+
+
+16.      No Right To Continued Employment. Neither the Plan nor this Award shall confer upon Holder any right to continue to serve in the employ of the Company nor interfere in any way with Holder’s right to resign.
+
+
+
+
+17.      Governing Law. Without limitation, this Award shall be construed and enforced in accordance with and governed by the laws of Delaware.
+
+
+
+
+18.      Binding Effect. This Award shall inure to the benefit of and be binding upon the heirs, executors, administrators, successors and assigns of the parties hereto.
+
+
+
+
+19.      Waivers. Any waiver of any right granted pursuant to this Award shall not be valid unless it is in writing and signed by the party waiving the right. Any such waiver shall not be deemed to be a waiver of any other rights.
+
+
+
+
+20.      Severability. If any provision of this Award is declared or found to be illegal, unenforceable or void, in whole or in part, the remainder of this Award will not be affected by such declaration or finding and each such provision not so affected will be enforced to the fullest extent permitted by law.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+IN WITNESS WHEREOF, the Company has caused this Award to be executed on its behalf by its duly authorized representative and Holder has hereunto set his or her hand, all on the day and year first above written.
+
+
+
+
+Dated as of this 6th day of January, 2012.
+
+
+
+
+DENBURY RESOURCES INC.
+
+
+
+
+
+
+
+
+
+By:
+
+  
+  
+  
+
+  
+
+Phil Rykhoek
+
+CEO
+
+  
+
+Mark C. Allen
+
+Senior VP, CFO & Asst. Secretary
+
+
+
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+
+ACKNOWLEDGMENT
+
+
+
+
+The undersigned hereby acknowledges (i) my receipt of this Award, (ii) my opportunity to review the Plan, (iii) my opportunity to discuss this Award with a representative of the Company, and my personal advisors, to the extent I deem necessary or appropriate, (iv) my understanding of the terms and provisions of the Award and the Plan, and (v) my understanding that, by my signature below, I am agreeing to be bound by all of the terms and provisions of this Award and the Plan.
+
+
+
+
+Without limitation, I agree to accept as binding, conclusive and final all decisions, factual determinations, and/or interpretations (including, without limitation, all interpretations of the meaning of provisions of the Plan, or Award, or both) of the Committee upon any questions arising under the Plan, or this Award, or both.
+
+
+
+
+Dated as of this                      day of                     , 2012.
+
+ 
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+
+Officer Name
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+

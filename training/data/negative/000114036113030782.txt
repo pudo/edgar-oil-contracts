@@ -1,0 +1,635 @@
+
+EX-10.1
+3
+ex10_1.htm
+EXHIBIT 10.1
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.1
+
+ 
+
+
+
+
+REGISTRATION RIGHTS AGREEMENT
+
+ 
+
+This REGISTRATION RIGHTS AGREEMENT (this “Agreement”), dated as of May 15, 2013 and effective as of January 15, 2013, is made and entered into by and between Far East Energy Corporation, a Nevada corporation (the “Company”), and Knight Capital Americas, LLC (“Knight”).
+
+ 
+
+Recitals
+
+ 
+
+A.                The Company and Far East Energy (Bermuda), Ltd., a wholly-owned subsidiary of the Company (“FEEB”), are parties to an engagement letter with Knight, dated June 2, 2012, as amended from time to time (the “Engagement Letter”).
+
+ 
+
+B.                 Pursuant to the Engagement Letter, the Company has agreed to issue 1,500,000 warrants (the “Warrants”) to Knight.
+
+ 
+
+C.                 Each Warrant will initially entitle the holder thereof to purchase one share of common stock, par value $0.001 per share (the “Company Common Stock”), of the Company, subject to adjustment.  For purposes of this Agreement, the “Registrable Securities” shall be the shares of Company Common Stock or other securities issuable upon exercise of the Warrants.
+
+ 
+
+D.                Pursuant to the terms of the Engagement Letter, the Company has agreed to provide Knight with certain registration rights with respect to the Registrable Securities.
+
+ 
+
+Agreement
+
+The parties, intending to be legally bound, hereby agree as follows:
+
+ 
+
+ARTICLE 1
+
+REGISTRATION RIGHTS AND PROCEDURES
+
+ 
+
+1.1                Filing of Primary Registration Statement. Subject to the terms and conditions of this Agreement, the Company shall prepare a Primary Registration Statement on Form S-1, or Form S-3 if the Company is eligible to use such form (the “Primary Registration Statement”), with respect to resales of the Registrable Securities and shall file the Primary Registration Statement with the Securities and Exchange Commission (the “SEC”) within 210 days after January 15, 2013 (the “Closing Date”).
+
+
+
+
+1.2                Effectiveness of Primary Registration Statement. The Company shall use its best efforts to (a) have the Primary Registration Statement declared effective by the SEC within 360 days after the Closing Date (or within 390 days after the Closing Date if the Primary Registration Statement is subject to review and comment by the SEC), (b) subject to Section 1.4, prepare and file with the SEC such amendments and supplements to the Primary Registration Statement and the prospectus used in connection therewith as may be necessary to comply with the provisions of the Securities Act of 1933, as amended (the “Securities Act”), and rules thereunder with respect to the disposition of all securities covered by such Primary Registration Statement or to keep the Primary Registration Statement effective with respect to any Registrable Securities,
+
+
+1
+
+
+
+
+
+
+until the earlier of (i) the date on which all Registrable Securities covered by the Primary Registration Statement have been sold by Knight, (ii) the date on which either all such Registrable Securities are distributed to the public pursuant to Rule 144 promulgated by the SEC pursuant to the Securities Act (or any similar provision then in effect), or are saleable pursuant to Rule 144 promulgated by the SEC pursuant to the Securities Act, (iii) date that is one year after the expiration date of the Warrants, or (iv) the date on which all Registrable Securities are sold to the Company or one of its subsidiaries (but not before the expiration of the applicable prospectus delivery requirements); and (c) comply with the provisions of the Securities Act with respect to the disposition of all securities covered by the Primary Registration Statement during such period in accordance with the intended methods of disposition by Knight as set forth in the Primary Registration Statement. The Company shall further use its best efforts to register and qualify the Registrable Securities covered by such Primary Registration Statement under such other securities or “blue sky” laws of such jurisdictions as shall be requested by Knight.
+
+
+
+
+1.3                Piggyback Registration Rights.  Subject to the terms and conditions of this Agreement, if the Company intends to file or desires to file a registration statement on Form S-1, Form S-3 or another appropriate, similar, equivalent or successor form under the Securities Act for the offering or resale of Registrable Securities (other than as contemplated in Sections 1.1 and 1.2 above and other than an offering registered solely on Form S-8 or Form S-4 or any similar, equivalent, or successor forms, or any other form not available for registering the Registrable Securities) (a “Piggyback Registration Statement” and together with the Primary Registration Statement, the “Registration Statements”), until the earlier of (i) the date on which all Registrable Securities covered by the Primary Registration Statement have been sold by Knight, (ii) the date on which either all such Registrable Securities are distributed to the public pursuant to Rule 144 promulgated by the SEC pursuant to the Securities Act (or any similar provision then in effect), or are saleable pursuant to Rule 144 promulgated by the SEC pursuant to the Securities Act, (iii) date that is one year after the expiration date of the Warrants, or (iv) the date on which all Registrable Securities are sold to the Company or one of its subsidiaries (but not before the expiration of the applicable prospectus delivery requirements), the Company will notify each holder of Registrable Securities of the proposed filing at least 30 days prior to the filing of the Piggyback Registration Statement, and will afford each holder of Registrable Securities an opportunity to include in such Piggyback Registration Statement all or any part of the Registrable Securities then held by such holder. Each holder of Registrable Securities desiring to include in any such Piggyback Registration Statement all or part of the Registrable Securities held by such holder shall, within 20 days after receipt of the above-described notice from the Company, so notify the Company in writing, and in such notice shall inform the Company of the number of Registrable Securities such holder wishes to include in such Piggyback Registration Statement, provided that if, at any time after giving written notice of its intention to register any Registrable Securities and prior to the effective date of the Piggyback Registration Statement filed in connection with such registration, the Company shall determine for any reason not to register or to delay registration of such Registrable Securities, the Company shall give written notice of such determination to the holders of the Registrable Securities and, thereupon, (i) in the case of a determination not to register, shall be relieved of its obligation to register any Registrable Securities in connection with such registration (without prejudice), and (ii) in the case of a determination to delay registering, shall be permitted to delay
+
+
+2
+
+
+
+
+
+
+registering any Registrable Securities for the same period as the delay in registering such other Registrable Securities.
+
+
+
+
+1.4                Other Obligations.
+
+
+
+
+(a)                At least ten (10) business days prior to the filing thereof with the SEC, the Company shall furnish to Knight a copy of the proposed form of the applicable Registration Statement and each amendment thereto and each supplement, if any, to the prospectus included therein, and shall afford Knight the opportunity to participate in the preparation of each such document.  The Company shall furnish to Knight, without charge, such number of copies of any Registration Statement, each amendment and supplement thereto, the prospectus included in any Registration Statement (including each preliminary prospectus), in each case in conformity with the requirements of the Securities Act and the rules thereunder, and such other documents as Knight may request in order to facilitate the disposition of the Registrable Securities owned by Knight.   The Company shall also make available for inspection by a representative of Knight, and attorneys, accountants, agents or other professionals designated by Knight, without charge, at reasonable times and in a reasonable manner, financial and other records, documents and properties of the Company that are pertinent to the conduct of due diligence customary for an underwritten offering, and cause the officers, directors and employees of the Company to supply all information requested by such representatives, attorneys, accountants, agents or other professionals in connection with any Registration Statement as shall be necessary to enable such persons to conduct a reasonable investigation within the meaning of Section 11 of the Securities Act.
+
+ 
+
+(b)        The Company shall promptly notify Knight in writing (i) of the happening of any event as a result of which the prospectus included in any Registration Statement contains an untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading in light of the circumstances then existing and shall use its best efforts to prepare and file with the SEC, and promptly notify Knight of the filing of, a supplement to such prospectus or an amendment to any Registration Statement so that, as thereafter delivered to the purchasers of Registrable Securities, such prospectus will not contain an untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein not misleading in light of the circumstances under which they were made and in the case of an amendment to any Registration Statement, use commercially reasonable efforts to cause it to become effective as soon as possible, (ii) of any request by the SEC or any state securities authority for amendments and supplements to any Registration Statement or of any material request by the SEC or any state securities authority for additional information after any Registration Statement has become effective, (iii) of the issuance by the SEC or any state securities authority of any stop order suspending the effectiveness of any Registration Statement or of any order suspending or preventing the use of any related prospectus or suspending the qualification of any securities included in any Registration Statement pursuant to this Agreement for sale in any jurisdiction, or the initiation of any proceedings for that purpose, (iv) if, between the effective date of any Registration Statement and the closing of any sale of Registrable Securities covered thereby, the representations and warranties of the Company contained in any underwriting agreement, securities sales agreement or other similar agreement, including this Agreement, relating to the disclosure cease to be true and correct in all material respects as of date made or as specified
+
+
+3
+
+
+
+
+therein or if the Company receives any notification with respect to the suspension of the qualification of the Registrable Securities for sale in any jurisdiction or the initiation of any proceeding for that purpose and (v) of any determination by the Company that a post-effective amendment to any Registration Statement would be appropriate. Upon receipt of any notice from the Company of the happening of any event of the kind described in (i), (iii) or (v) above (the “Notice”), Knight will forthwith use its commercially reasonable efforts to discontinue disposition of Registrable Securities pursuant to any Registration Statement until Knight’ receipt of the copies of the supplemented or amended prospectus, or until it is advised in writing by the Company that the use of the prospectus or Registration Statement, as applicable, may be resumed.  The Company shall use its best efforts to ensure that the use of the prospectus and/or Registration Statement, as amended or supplemented, may be resumed by Knight within 30 days of the date of the Notice.
+
+ 
+
+(c)         The Company reserves the right to suspend twice during any 365 day period for a reasonable period of time not to exceed 30 days for each suspension (from the date notification of such suspension is sent to Knight) (except for any period of more than 30 consecutive days or during the 30 days immediately prior to the expiration of the Warrants), the use or effectiveness of any Registration Statement if the Company’s Board of Directors in good faith determines that (i) such registration might have a material adverse effect on any of the Company’s plans or proposals with respect to any financing, acquisition, recapitalization, reorganization, or other material transaction, or (ii) the Company is in possession of material non-public information that, if publicly disclosed, could result in a material disruption of a major corporate development or transaction then pending or in progress or in other material adverse consequences to the Company.
+
+ 
+
+(d)        The Company shall enter into and perform its obligations under such customary agreements (including, in the event of any underwritten or agented offering, an underwriting or agency agreement with the managing underwriter or underwriters of or agents for such offering (including customary indemnification and contribution obligations of underwriters or agents)), in usual and customary form and take all such other action, if any, as Knight shall request in order to facilitate the disposition of Registrable Securities pursuant to the applicable Registration Statement in an underwritten offering or otherwise. The Company shall also cooperate with Knight and the underwriters’ representative or agent for such offering in the marketing of the Registrable Securities, including making available the Company’s officers, accountants, counsel, premises, books and records for such purpose and including using its best efforts to obtain a so-called “comfort letter” from its independent public accountants, and legal opinions and 10b-5 letters of counsel to the Company addressed to the underwriters, in customary form and covering such matters of the type customarily covered by such letters, and in a form that shall be reasonably satisfactory to the underwriters.
+
+ 
+
+(e)        The Company shall use its best efforts to obtain a so-called “comfort letter” from its independent public accountants, and legal opinions and 10b-5 letters of counsel to the Company addressed to Knight, in customary form and covering such matters of the type customarily covered by such letters, and in a form that shall be reasonably satisfactory to Knight. The Company shall furnish to Knight a signed counterpart of any such comfort letter or legal opinion. Delivery of any such opinion or comfort letter shall be subject to the recipient furnishing such written representations, opinions or acknowledgements as are customarily provided by selling shareholders who receive such comfort letters or opinions, including without
+
+
+4
+
+
+
+
+
+
+limitation that Knight has a statutory due diligence defense under Section 11 of the Securities Act.
+
+ 
+
+(f)          The Company shall provide a transfer agent and registrar for all Registrable Securities registered pursuant hereunder and a CUSIP number for all such Registrable Securities, in each case not later than the effective date of such registration.
+
+ 
+
+(g)        The Company shall take such other actions as are required in order to expedite or facilitate the disposition of Registrable Securities included in each such registration, including cooperating with Knight and its counsel to facilitate the timely preparation and delivery of certificates to be sold pursuant to the applicable Registration Statement free of any restrictive legends and in such denomination and registered in such name as the Holder may request within a reasonable period of time prior to sales of the applicable Registrable Securities pursuant to such Registration Statement.
+
+ 
+
+(h)        The Company shall use its reasonable best efforts to cause all Registrable Securities sold under any Registration Statement to be listed on any securities exchange or any automated quotation system on which similar securities issued by the Company are then listed if requested by Knight.
+
+ 
+
+1.5                Nature of Sale. Notwithstanding any other provision of this Agreement, shares of Company Common Stock or other securities issuable upon exercise of the Warrants shall be treated as Registrable Securities only if and so long as it has not been (a) sold to or through a broker or dealer or underwriter in a public distribution or a public securities transaction, or (b) sold in a transaction exempt from the registration and prospectus delivery requirements of the Securities Act under Section 4(1) thereof (and any rules and regulations promulgated thereunder) so that all transfer restrictions, and restrictive legends with respect thereto, if any, are removed upon the consummation of such sale.
+
+ 
+
+1.6                Reports Under the Exchange Act. With a view to making available to Knight the benefits of Rule 144 of the Securities Act and any other rule or regulation of the SEC that may at any time permit Knight to sell Registrable Securities to the public without registration or pursuant to a registration on Form S-3, the Company shall:
+
+ 
+
+(a)         make and keep available adequate current public information, as those terms are understood and defined in Rule 144 under the Securities Act, at all times following the Closing Date so long as the Company is subject to the reporting requirements of the Securities Exchange Act of 1934, as amended (“Exchange Act”);
+
+ 
+
+(b)        file with or submit to, as applicable, the SEC in a timely manner all reports and other documents required to be filed or submitted by the Company under the Securities Act and the Exchange Act (at all times it is subject to such reporting requirements); and
+
+ 
+
+(c)         furnish to Knight, so long as Knight owns any Registrable Securities, forthwith upon request (i) a written statement by the Company that it has complied with the reporting requirements of Rule 144 of the Securities Act, the Securities Act, and the Exchange Act (so long as the Company is subject to the reporting requirements of the Exchange Act), or that it qualifies as a registrant whose securities may be resold pursuant to Form S-3 (at any time the Company so qualifies); (ii) a copy of the most recent annual or quarterly report of the Company and such other reports and documents so filed by the Company; and (iii) such other information
+
+
+5
+
+
+
+
+
+
+as may be requested in availing Knight of any rule or regulation of the SEC that permits the selling of any such securities without registration or pursuant to Form S-3 (at any time the Company so qualifies to use such form).
+
+ 
+
+1.7        Accuracy of Disclosure. The Company (and its successors) represents and warrants to Knight and agrees for the benefit of Knight that from and after the effective date of a Registration Statement, except during any period in which the availability of any Registration Statement has been suspended and for which notice has been provided to Knight, (i) each Registration Statement together with the documents incorporated by reference therein will not contain any untrue statement of a material fact or omit to state a material fact necessary to make such statements therein not misleading; and (ii) the prospectus delivered to such Knight pursuant to which Knight sells its Registrable Securities, together with the documents incorporated by reference therein, will not contain any untrue statement of a material fact necessary to make the statements therein, in light of the circumstances under which they were made, not misleading.
+
+ 
+
+1.8        No Inconsistent Agreements. The Company represents and warrants that it has not entered into, and agrees that on or after the date of this Agreement it will not enter into, any agreement which is inconsistent with the rights granted to Knight in this agreement or otherwise conflicts with the provisions hereof.  The Company represents that the rights granted to Knight hereunder do not in any way conflict with and are not inconsistent with the rights granted to the holders of the Company’s other issued and outstanding securities under any agreements.
+
+ 
+
+1.9        Expenses.  The Company shall bear all fees and expenses incurred in connection with the performance of its obligations under Section 1 hereof, whether or not any Registration Statement is filed or becomes effective, and, other than with respect to underwriting discounts and broker fees and commissions, shall bear or reimburse Knight for its out-of-pocket expenses (including fees and disbursements of one firm of counsel designated by Knight) incurred in connection with the preparation of such Registration Statement.
+
+
+
+
+ARTICLE 2
+
+RIGHTS AND UNDERTAKINGS OF
+
+KNIGHT
+
+ 
+
+2.1                Rights of Knight. Knight shall have the absolute right to exercise or refrain from exercising any right or rights that it may have by reason of this Agreement, including, without limitation, the right to consent to the waiver or modification of any obligation under this Agreement.
+
+ 
+
+2.2                Suspension of Sales; Notice of Sales. If any Registrable Securities are included in a Registration Statement pursuant to the terms of this Agreement, Knight thereof will not (until further notice) effect sales thereof after receipt of written notice from the Company of the occurrence of an event specified in order to permit the Company to correct or update such Registration Statement or prospectus.  The Company shall use its best efforts to correct or update such Registration Statement or prospectus within thirty (30) days of the date of such notice.  Knight shall use its commercially reasonable efforts to notify the Company of the sale of any Registrable Securities within a reasonable period of time.
+
+ 
+
+2.3                Compliance. If any Registrable Securities are being registered in any registration pursuant to this Agreement, Knight will comply with all anti-stabilization, manipulation, and
+
+
+6
+
+
+
+
+
+
+similar provisions of Section 10 of the Exchange Act, and any rules promulgated thereunder by the SEC and, at the Company’s request, will execute and deliver to the Company and to any underwriter participating in such offering an appropriate agreement to such effect.
+
+ 
+
+2.4                Termination of Effectiveness. Following the end of the period during which the Company is obligated to keep any Registration Statement current and effective as described herein and following notice to Knight of the end of such period, Knight shall discontinue sales thereof pursuant to such Registration Statement, unless Knight has received written notice from the Company of its intention to continue the effectiveness of such Registration Statement with respect to any of such securities which remain unsold.
+
+ 
+
+2.5                Furnish Information. It shall be a condition precedent to the Company’s obligations to take any action pursuant to this Agreement with respect to Knight’s Registrable Securities that, upon written request from the Company, Knight shall timely furnish to the Company such information regarding itself, the Registrable Securities held by it, and the intended method of disposition of such securities as shall be required to effect the registration of Knight’s Registrable Securities and as the Company shall otherwise reasonably request in connection with Knight’s status as a selling stockholder.  Knight shall not be entitled to be named as a selling shareholder in such Registration Statement and Knight shall not be entitled to use the prospectus forming a part thereof if Knight does not so provide such information to the Company in a timely manner.
+
+
+
+
+ARTICLE 3
+
+INDEMNIFICATION
+
+ 
+
+3.1                Indemnification by the Company. The Company shall indemnify and hold harmless, with respect to any Registration Statement filed by it pursuant to this Agreement, to the fullest extent permitted by law, Knight, as well as Knight’s officers, directors, employees, agents, and each other person, if any, who controls Knight within the meaning of the Securities Act and the officers, directors, employees and agents of such controlling person (collectively, the “Holder Indemnified Parties”) against all losses, claims, damages, liabilities, and expenses joint or several (including reasonable fees of counsel and any amounts paid in settlement effected with the Company’s consent, which consent shall not be unreasonably withheld) (collectively, “Losses”) to which any such Holder Indemnified Party may become subject under the Securities Act, the Exchange Act, any other federal law, any state or common law, any rule or regulation promulgated thereunder, or otherwise, insofar as such Losses (or actions or proceedings, whether commenced or threatened, in respect thereof) are caused by (a) any untrue statement or alleged untrue statement of a material fact contained in any Registration Statement or amendment or supplement thereto in which such Registrable Securities were included as contemplated hereby or the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, (b) any untrue statement or alleged untrue statement of a material fact contained in any preliminary, final, or summary prospectus or amendment or supplement thereto, together with the documents incorporated by reference therein (as amended or supplemented if the Company shall have filed with the SEC any amendment thereof or supplement thereto), or the omission to state therein a material fact required to be stated therein or necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading, or (c) any violation by the Company of the Securities Act, the Exchange Act, any state securities law, or any rule or 
+
+
+7
+
+
+
+
+
+
+regulation promulgated under the Securities Act, the Exchange Act or any state securities laws in connection with any such registration; provided, however, that the Company shall not be liable to any such Holder Indemnified Party in any such case to the extent that any such Loss (or action or proceeding, whether commenced or threatened, in respect thereof) arises out of or is based upon any untrue statement or alleged untrue statement or omission or alleged omission made in such Registration Statement or amendment thereof or supplement thereto or in any such preliminary, final, or summary prospectus in reliance upon and in conformity with written information furnished to the Company by or on behalf of any such Holder Indemnified Party relating to such Holder Indemnified Party expressly for inclusion in any Registration Statement; and provided further, that the Company shall not be liable to any such Holder Indemnified Party with respect to any preliminary prospectus to the extent that any such Loss of such Holder Indemnified Party results from the fact that such Holder Indemnified Party sold Registrable Securities to a person to whom there was not timely sent or given a copy of the prospectus (excluding documents incorporated by reference) or of the prospectus as then amended or supplemented (excluding documents incorporated by reference) if the Company previously furnished copies thereof to such Holder Indemnified Party and the Holder Indemnified Party had received written notice from the Company that the use of such prospectus, amendment or supplement was suspended in compliance with this Agreement and the Loss of such Holder Indemnified Party results from an untrue statement or omission of a material fact contained in such preliminary prospectus which was corrected in the prospectus (or the prospectus as amended or supplemented). Such indemnity and reimbursement of expenses and obligations shall remain in full force and effect regardless of any investigation made by or on behalf of the Holder Indemnified Parties and shall survive the transfer of such securities by such Holder Indemnified Parties.
+
+ 
+
+3.2                Conduct of Indemnification Proceedings. Promptly after receipt by an indemnified party hereunder of written notice of the commencement of any action, suit, proceeding, investigation, or threat thereof with respect to which a claim for indemnification may be made pursuant hereto, such indemnified party shall, if a claim in respect thereto is to be made against an indemnifying party, give written notice to the indemnifying party of the threat or commencement thereof; provided, however, that the failure to so notify the indemnifying party shall not relieve it from any liability which it may have to any indemnified party except to the extent that the indemnifying party is actually prejudiced by such failure to give notice. If any such claim or action referred to hereunder is brought against any indemnified party and it then notifies the indemnifying party of the threat or commencement thereof, the indemnifying party shall be entitled to participate therein and, to the extent that it wishes, jointly with any other indemnifying party similarly notified, to assume the defense thereof with counsel reasonably satisfactory to such indemnified party (which counsel shall not, except with the consent of the indemnified party, be counsel to the indemnifying party). The indemnifying party shall not be liable to an indemnified party hereunder for any legal expenses of counsel or any other expenses incurred by such indemnified party in connection with the defense thereof, unless the indemnifying party has failed to assume the defense of such claim or action or to employ counsel reasonably satisfactory to such indemnified party. Notwithstanding the foregoing, the indemnified party shall have the right to retain its own counsel, with the fees and expenses to be paid by the indemnified party, if representation of such indemnified party by the counsel retained by the indemnifying party would be inappropriate due to actual or potential differing interests between such indemnified party and any other party represented by such counsel in such action. The indemnifying party shall not be required to indemnify the indemnified party with respect to
+
+
+8
+
+
+
+
+
+
+any amounts paid in settlement of any action, proceeding, or investigation entered into without the written consent of the indemnifying party, which consent shall not be unreasonably withheld. No indemnifying party shall consent to the entry of any judgment or enter into any settlement without the consent of the indemnified party unless (a) such judgment or settlement does not impose any obligation or liability upon the indemnified party other than the execution, delivery, or approval thereof, and (b) such judgment or settlement includes as an unconditional term thereof the giving by the claimant or plaintiff to such indemnified party of a full release and discharge from all liability in respect of such claim and a full release of all persons that may be entitled to or obligated to provide indemnification or contribution under this Article.
+
+ 
+
+3.3                Contribution. If the indemnification provided for herein is unavailable to or insufficient to hold harmless an indemnified party hereunder, then each indemnifying party shall contribute to the amount paid or payable by such indemnified party as a result of the Losses (or actions or proceedings in respect thereof) referred to herein in such proportion as is appropriate to reflect the relative fault of the indemnifying party on the one hand and the indemnified party on the other in connection with the statements, omissions, actions, or inactions which resulted in such Losses. The relative fault of the indemnifying party and the indemnified party shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the indemnifying party or the indemnified party, any action or inaction by any such party, and the parties’ relative intent, knowledge, access to information, and opportunity to correct or prevent such statement, omission, action, or inaction. No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation. Promptly after receipt by an indemnified party hereunder of written notice of the commencement of any action, suit, proceeding, investigation, or threat thereof with respect to which a claim for contribution may be made against an indemnifying party hereunder, such indemnified party shall, if a claim for contribution in respect thereto is to be made against an indemnifying party, give written notice to the indemnifying party of the commencement thereof (if the notice specified herein has not been given with respect to such action); provided, however, that the failure to so notify the indemnifying party shall not relieve it from any obligation to provide contribution which it may have to any indemnified party hereunder, except to the extent that the indemnifying party is actually prejudiced by the failure to give notice. The parties hereto agree that it would not be just and equitable if contribution pursuant hereto were determined by pro rata allocation or by any other method of allocation which does not take account of equitable considerations referred to herein.
+
+ 
+
+If indemnification is available hereunder, the indemnifying parties shall indemnify each indemnified party to the fullest extent provided herein, without regard to the relative fault of said indemnifying party or indemnified party or any other equitable consideration provided for herein. The provisions hereof shall be in addition to any other rights to indemnification or contribution which any indemnified party may have pursuant to law or contract, shall remain in full force and effect regardless of any investigation made by or on behalf of any indemnified party, and shall survive the transfer of securities by any such party.
+
+ 
+
+ARTICLE 4
+
+MISCELLANEOUS
+
+
+9
+
+
+
+
+
+
+4.1                Termination. The obligations under Article 1 shall terminate on the date on which all Registrable Securities covered by the Registration Statements have been sold.
+
+ 
+
+4.2                Assignment; Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns, including, without limitation, subsequent holders of any Registrable Securities. Neither party may assign this Agreement or any of its rights or obligations hereunder without the prior written consent of the other party; provided, however, that Knight may assign this Agreement to any person that, directly or indirectly, through one or more intermediaries controls or is under common control with Knight, as such terms are construed under Rule 144 promulgated under the Securities Act, provided that (a) the Company is furnished with written notice of the name and address of the assignee and the securities with respect to which such rights are being assigned, and (b) the Company shall have the right to require any holder of any Registrable Securities to execute a counterpart of this Agreement as a condition to such holder’s claim to any rights hereunder; and provided, however, that if any subsequent holder shall acquire any Registrable Securities or Warrants in any manner, whether by operation of law or otherwise, such Registrable Securities or Warrants shall be held subject to all of the terms of this Agreement and by taking and holding such Registrable Securities or Warrants such person shall be conclusively deemed to have agreed to be bound by and to perform all of the terms and provisions of this Agreement and such person shall be entitled to receive the benefits hereof.
+
+ 
+
+4.3                Notices. Any and all notices or other communications or deliveries required or permitted to be provided hereunder shall be in writing and shall be deemed given and effective on the earliest of (a) the date of transmission, if such notice or communication is delivered via facsimile at the facsimile number specified in this section prior to 5:00 p.m. (Central Time) on a business day, (b) the next business day after the date of transmission, if such notice or communication is delivered via facsimile at the facsimile number specified in this Section on a day that is not a business day or later than 5:00 p.m. (Central Time) on any date and earlier than 11:59 p.m. (Central Time) on such date, (c) the business day following the date of mailing, if sent by U.S. nationally recognized overnight courier service, or (d) upon actual receipt by the party to which such notice is required to be given. The addresses for such notices and communications shall be as follows:
+
+ 
+
+
+
+
+ 
+
+If to the Company:
+
+
+Far East Energy Corporation
+
+
+
+
+
+363 N. Sam Houston Parkway East
+
+
+Suite 380
+
+Houston, Texas  77060
+
+USA
+
+Fax: +1-832-598-0479
+
+Attention:  Chief Executive Officer
+
+                                
+
+
+
+
+ 
+
+with a copy to:
+
+
+Baker & McKenzie LLP
+
+
+
+
+
+2300 Trammell Crow Center
+
+2001 Ross Avenue
+
+Dallas, Texas  75201
+
+USA
+
+Fax: +1-214-978-3099
+
+
+
+10
+
+
+
+
+Attention:  Amar Budarapu, Esq.
+
+
+
+
+
+
+If to Knight, to the addresses and facsimile numbers set forth below Knight’s signature on the signature page of this Agreement.
+
+ 
+
+or such other address as may be designated in writing hereafter, in the same manner, by such person.
+
+ 
+
+4.4                Governing Law; Jurisdiction.   THE LAW OF THE STATE OF NEW YORK SHALL GOVERN AND BE USED TO CONSTRUE THIS AGREEMENT.  ANY SUIT, ACTION OR PROCEEDING AGAINST ANY OF THE COMPANY OR KNIGHT OR ITS OR THEIR RESPECTIVE PROPERTIES, ASSETS OR REVENUES WITH RESPECT TO THIS AGREEMENT (A “RELATED PROCEEDING”) MAY BE BROUGHT IN ANY COURT OF THE STATE OF NEW YORK OR ANY UNITED STATES FEDERAL COURT SITTING IN THE BOROUGH OF MANHATTAN, THE CITY OF NEW YORK, NEW YORK, UNITED STATES, AND ANY APPELLATE COURT FROM ANY THEREOF, AS THE PERSON BRINGING SUCH RELATED PROCEEDING MAY ELECT IN ITS SOLE DISCRETION.  EACH OF THE COMPANY AND KNIGHT HEREBY CONSENTS TO THE NON-EXCLUSIVE JURISDICTION OF EACH SUCH COURT FOR THE PURPOSE OF ANY RELATED PROCEEDING AND HAS IRREVOCABLY WAIVED ANY OBJECTION TO THE LAYING OF VENUE OF ANY RELATED PROCEEDING BROUGHT IN ANY SUCH COURT AND TO THE FULLEST EXTENT IT MAY EFFECTIVELY DO SO AND THE DEFENSE OF AN INCONVENIENT FORUM TO THE MAINTENANCE OF ANY RELATED PROCEEDING OR ANY SUCH SUIT, ACTION OR PROCEEDING IN ANY SUCH COURT.  EACH OF THE COMPANY AND KNIGHT HAS AGREED THAT SERVICE OF ALL WRITS, CLAIMS, PROCESS AND SUMMONSES IN ANY RELATED PROCEEDING BROUGHT AGAINST IT IN THE STATE OF NEW YORK MAY BE MADE UPON IT AT THE ADDRESS FOR NOTICES SET FORTH IN SECTION 4.3 OF THIS AGREEMENT.  NOTHING IN THIS AGREEMENT SHALL IN ANY WAY BE DEEMED TO LIMIT THE ABILITY TO SERVE ANY SUCH WRITS, PROCESS OR SUMMONSES IN ANY OTHER MANNER PERMITTED BY APPLICABLE LAW.  TO THE EXTENT THAT ANY OF THE COMPANY OR KNIGHT HAS OR HEREAFTER MAY ACQUIRE ANY IMMUNITY FROM JURISDICTION OF ANY COURT OR FROM ANY LEGAL PROCESS (WHETHER THROUGH SERVICE OF NOTICE, ATTACHMENT PRIOR TO JUDGMENT, ATTACHMENT IN AID OF EXECUTION OR EXECUTION, ON THE GROUND OF SOVEREIGNTY OR OTHERWISE) WITH RESPECT TO ITSELF OR ITS PROPERTY, IT HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, SUCH IMMUNITY IN RESPECT OF ITS OBLIGATIONS UNDER THIS AGREEMENT. EACH OF THE COMPANY AND KNIGHT HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+ 
+
+4.5                Third-Party Beneficiaries. This Agreement is intended for the benefit of the Parties and their respective successors and permitted assigns and is not for the benefit of, nor may any provision hereof be enforced by, any other person.
+
+
+11
+
+
+
+
+
+
+4.6                Severability. If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any law or public policy, all other terms and provisions of this Agreement shall nevertheless remain in full force and effect for so long as the economic or legal substance of the Agreement is not affected in any manner materially adverse to any party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the Agreement is consummated as originally contemplated to the greatest extent possible.
+
+ 
+
+4.7                Headings. The headings herein are for convenience only, do not constitute a part of this Agreement and shall not be deemed to limit or affect any of the provisions hereof. The language used in this Agreement will be deemed to be the language chosen by the Company and Knight to express their mutual intent, and no rules of strict construction will be applied against either the Company or Knight. This Agreement shall be construed as if drafted jointly by the Company and Knight, and no presumption or burden of proof shall arise favoring or disfavoring either the Company or Knight by virtue of the authorship of any provisions of the Agreement.
+
+ 
+
+4.8                Counterparts. This Agreement may be executed in multiple counterparts, each of which shall be deemed to be an original instrument and all of which together shall constitute one and the same instrument and shall become effective when counterparts have been signed by each party and delivered to the other parties, it being understood that all parties need not sign the same counterpart. In the event that any signature is delivered by facsimile transmission or by electronic mail in Portable Document Format, such signature shall create a valid and binding obligation of the person executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile signature page were an original thereof.
+
+ 
+
+4.9                Entire Agreement. This Agreement embodies the entire understanding and agreement between the parties hereto with respect to the subject matter hereof and supersedes all prior agreements and understandings relating to the subject matter hereof.
+
+
+
+
+4.10            Amendment; Waiver. The provisions of this Agreement, including the provisions of this sentence, may not be amended, modified or supplemented, and waivers or consents to or departures from the provisions hereof may not be given, without the written consent of the Company and Knight.
+
+ 
+
+4.11            Further Assurances. Each party shall cooperate and take such action as may be reasonably requested by another party in order to carry out the provisions and purposes of this Agreement and the transactions contemplated hereby.
+
+
+
+
+[SIGNATURE PAGES FOLLOW]
+
+
+12
+
+
+
+
+
+
+Each of the parties below hereby executes and delivers, and agrees to be bound by, the Registration Rights Agreement by and between the Company and Knight.
+
+
+
+
+
+
+
+
+ 
+
+
+KNIGHT CAPITAL AMERICAS, LLC
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+By:       /s/ William Kelly
+
+
+
+
+
+ 
+
+
+Name:  William Kelly
+
+
+
+
+
+ 
+
+
+Title:    Managing Director
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Address:            320 Park Avenue
+
+
+
+
+
+ 
+
+
+15th Floor
+
+
+
+
+
+ 
+
+
+New York, New York
+
+
+
+
+
+ 
+
+
+10022
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Facsimile No:             (212) 479-7430
+
+
+
+
+
+ 
+
+
+Email Address:  wkelly@knight.com
+
+
+
+
+
+ 
+
+
+Date:             May 15, 2013
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+
+
+
+
+
+This Agreement is hereby confirmed and accepted by Far East Energy Corporation.
+
+ 
+
+
+
+
+
+ 
+
+
+FAR EAST ENERGY CORPORATION
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+By:       /s/ Michael R. McElwrath
+
+
+
+
+
+ 
+
+
+Name:  Michael R. McElwrath
+
+
+
+
+
+ 
+
+
+Title:    Chief Executive Officer and President
+
+
+
+
+
+
+ 
+
+14
+
+
+
+
+
+
+
+
+

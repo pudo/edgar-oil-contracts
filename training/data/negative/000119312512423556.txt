@@ -1,0 +1,2956 @@
+
+EX-10.9
+5
+d412710dex109.htm
+PURCHASE AND SALE AGREEMENT
+
+
+Purchase and Sale Agreement
+
+ 
+
+ Exhibit 10.9  PURCHASE AND SALE AGREEMENT  AMONG 
+SAMSON RESOURCES COMPANY  AS SELLER  AND 
+MID-CON ENERGY PROPERTIES, LLC  AS BUYER  DATED AS OF 
+OCTOBER 15, 2012  (CLAWSON RANCH WATERFLOOD) 
+
+
+
+
+ TABLE OF CONTENTS 
+ 
+
+
+
+
+
+
+
+
+
+
+ 1.        DEFINITIONS
+  
+1
+
+
+
+
+ 2.        PURCHASE AND SALE
+  
+6
+
+ 2.1      Interests
+  
+6
+
+ 2.2      Wells
+  
+6
+
+ 2.3      Equipment
+  
+6
+
+ 2.4      Production
+  
+7
+
+ 2.5      Easements and Surface Agreements
+  
+7
+
+ 2.6      Contract Rights and Permits
+  
+7
+
+ 2.7      Files and Records
+  
+7
+
+ 2.8      Retained Assets
+  
+8
+
+
+
+
+ 3.        PURCHASE PRICE AND ALLOCATION
+  
+9
+
+ 3.1      Base Purchase Price
+  
+9
+
+ 3.2      Performance Deposit and Payment
+  
+9
+
+ 3.3      Adjustments to the Base Purchase Price
+  
+9
+
+ 3.4      Allocation of Base Purchase Price
+  
+11
+
+
+
+
+ 4.        ACCESS TO ASSETS AND DATA; DISCLAIMERS; GOVERNMENTAL REVIEWS
+  
+11
+
+ 4.1      Access
+  
+11
+
+ 4.2      Disclaimer
+  
+12
+
+ 4.3      Governmental Reviews
+  
+13
+
+
+
+
+ 5.        SELLERS REPRESENTATIONS
+  
+13
+
+ 5.1      Existence
+  
+13
+
+ 5.2      Authority, Binding Obligations
+  
+13
+
+ 5.3      Violations
+  
+14
+
+ 5.4      Compliance
+  
+14
+
+ 5.5      Payment of Royalties
+  
+14
+
+ 5.6      Taxes
+  
+14
+
+ 5.7      Contracts
+  
+14
+
+ 5.8      Litigation and Claims
+  
+14
+
+ 5.9      Sale Contracts
+  
+15
+
+ 5.10    Notices
+  
+15
+
+ 5.11    Take-or-Pay
+  
+15
+
+ 5.12    Timely Payment
+  
+15
+
+ 5.13    Imbalances
+  
+15
+
+ 5.14    Outstanding Obligations
+  
+15
+
+ 5.15    Brokers
+  
+15
+
+ 5.16    Bankruptcy
+  
+16
+
+ 5.17    No Violation of Covenants
+  
+16
+
+ 5.18    Consents
+  
+16
+
+ 5.19    Preferential Purchase Rights
+  
+16
+
+ 5.20    Wells
+  
+16
+
+ 5.21    Marketing Contracts
+  
+16
+
+   i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 6.        BUYERS REPRESENTATIONS
+  
+16
+
+ 6.1      Information
+  
+16
+
+ 6.2      Knowledge and Experience
+  
+17
+
+ 6.3      No Other Warranties
+  
+17
+
+ 6.4      Formation, Good Standing and Authority
+  
+17
+
+ 6.5      Liability for Brokers Fees
+  
+17
+
+ 6.6      Financial Resources
+  
+18
+
+ 6.7      Bankruptcy
+  
+18
+
+ 6.8      Qualification to Assume Operatorship
+  
+18
+
+
+
+
+ 7.        TITLE
+  
+18
+
+ 7.1      Title Defects
+  
+18
+
+ 7.2      Additional Interests
+  
+19
+
+ 7.3      Notices
+  
+19
+
+ 7.4      Adjustments to Base Purchase Price
+  
+19
+
+ 7.5      Deductible for Title Defects
+  
+21
+
+ 7.6      Termination
+  
+21
+
+
+
+
+ 8.        ENVIRONMENTAL AND ENVIRONMENTAL INDEMNITY
+  
+22
+
+ 8.1      Environmental Review
+  
+22
+
+ 8.2      Acceptance of Environmental Condition
+  
+22
+
+ 8.3      NORM
+  
+22
+
+ 8.4      Environmental Indemnities
+  
+23
+
+
+
+
+ 9.        THIRD-PARTY PREFERENTIAL PURCHASE RIGHTS AND CONSENTS
+  
+24
+
+ 9.1      Third Party Notices
+  
+24
+
+ 9.2      Third-Party Exercise
+  
+24
+
+ 9.3      Third-Party Failure to Purchase
+  
+24
+
+
+
+
+ 10.      CONDITIONS TO CLOSING; SETTLEMENT STATEMENT; CLOSING
+  
+24
+
+ 10.1    Sellers Conditions to Closing
+  
+24
+
+ 10.2    Buyers Conditions to Closing
+  
+25
+
+ 10.3    Closing Settlement Statement
+  
+26
+
+ 10.4    Closing Date and Place
+  
+26
+
+ 10.5    Closing Activities
+  
+26
+
+
+
+
+ 11.      POST-CLOSING OBLIGATIONS
+  
+28
+
+ 11.1    Recordation and Filing of Documents
+  
+28
+
+ 11.2    Records
+  
+28
+
+ 11.3    Post Closing Statement
+  
+28
+
+ 11.4    Suspense Accounts
+  
+29
+
+ 11.5    Further Assurances
+  
+29
+
+
+
+
+ 12.      TAXES
+  
+30
+
+ 12.1    Property Taxes
+  
+30
+
+ 12.2    Production Taxes
+  
+30
+
+ 12.3    Other Taxes
+  
+30
+
+ 12.4    Cooperation
+  
+31
+   ii 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 13.      OWNERSHIP OF ASSETS
+  
+31
+
+ 13.1    Distribution of Production
+  
+31
+
+ 13.2    Proration of Income and Expenses
+  
+31
+
+ 13.3    Notice to Remitters of Proceeds
+  
+32
+
+ 13.4    Imbalances
+  
+32
+
+ 13.5    Pipeline and Other Non Well-head Imbalances
+  
+32
+
+
+
+
+ 14.      INTERIM OPERATIONS
+  
+33
+
+ 14.1    Standard of Care
+  
+33
+
+ 14.2    Liability of Operator
+  
+34
+
+ 14.3    Removal of Signs
+  
+34
+
+ 14.4    Third-Party Notifications
+  
+35
+
+ 14.5    Additional Interests
+  
+35
+
+
+
+
+ 15.      EXCHANGE PROVISION
+  
+35
+
+
+
+
+ 16.      ASSUMPTION OF LIABILITY AND GENERAL INDEMNIFICATION
+  
+35
+
+ 16.1    Definitions
+  
+35
+
+ 16.2    Buyers Assumption of Obligations
+  
+36
+
+ 16.3    Buyers General Indemnity
+  
+38
+
+ 16.4    Sellers General Indemnity
+  
+38
+
+ 16.5    Limitation on Indemnification
+  
+39
+
+ 16.6    Further Limitation on Indemnification
+  
+40
+
+ 16.7    Indemnification Procedures
+  
+40
+
+
+
+
+ 17.      CASUALTY LOSS
+  
+41
+
+
+
+
+ 18.      NOTICES
+  
+42
+
+
+
+
+ 19.      TERMINATION
+  
+42
+
+ 19.1    Termination
+  
+42
+
+ 19.2    Liabilities Upon Termination; Deposit Amount
+  
+43
+
+
+
+
+ 20.      MISCELLANEOUS
+  
+44
+
+ 20.1    Entire Agreement
+  
+44
+
+ 20.2    Survival
+  
+44
+
+ 20.3    Selected Arbitration
+  
+44
+
+ 20.4    Confidentiality
+  
+45
+
+ 20.5    Choice of Law
+  
+45
+
+ 20.6    Assignment
+  
+45
+
+ 20.7    No Admissions
+  
+45
+
+ 20.8    Amendments
+  
+45
+
+ 20.9    Counterparts
+  
+46
+
+ 20.10  Third-Party Beneficiaries
+  
+46
+
+ 20.11  Specific Performance
+  
+46
+
+ 20.12  Public Communications
+  
+46
+
+ 20.13  Headings
+  
+46
+
+   iii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 20.14 Expenses
+  
+47
+
+ 20.15 Waiver of Consumer and Other Rights
+  
+47
+
+   iv 
+
+
+
+
+
+
+ PURCHASE AND SALE AGREEMENT 
+This Purchase and Sale Agreement (Agreement), made as of October 15, 2012 (Execution Date) by
+and among SAMSON RESOURCES COMPANY, an Oklahoma corporation, whose address is Samson Plaza, Two West Second Street, Tulsa, Oklahoma 74103 (Seller) and MID-CON ENERGY PROPERTIES, LLC, a Delaware limited liability company, whose
+address is 2501 N. Harwood, Suite 2410, Dallas, Texas 75201 (Buyer) (Buyer and Seller are sometimes referred to below individually as a Party or collectively as the Parties); 
+WHEREAS, Buyer desires to purchase from Seller, and Seller desires to sell to Buyer, the Assets (as defined below) on the terms and
+conditions set forth below;  NOW, THEREFORE, in consideration of the mutual promises contained herein and other good and
+valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Buyer and Sellers agree as follows: 
+ARTICLE 1   
+
+
+1.
+DEFINITIONS 
+Additional Interest has the meaning set forth in Section 7.2. 
+Allocated Values has the meaning set forth in Section 3.4. 
+Applicable Taxes means any Taxes imposed on Seller or its affiliates with respect to the Assets, in each case, if the
+Tax could result in a lien or other Claim against any of the Assets or Buyer or its affiliates.  Assets has
+the meaning set forth in Article 2.  Assumed Imbalance has the meaning set forth in
+Section 13.4.  Assumed Obligations has the meaning set forth in Subsection 16.2.1.
+ Base Purchase Price has the meaning set forth in Section 3.1. 
+Business Day means any day, other than Saturday or Sunday, on which commercial banks are open for commercial business
+with the public in Tulsa, Oklahoma.  Buyer has the meaning set forth in the Preamble. 
+Buyer Group has the meaning set forth in Section 16.1. 
+Casualty Defect has the meaning set forth in Article 17. 
+Claim Notice has the meaning set forth in Section 16.7.2. 
+   -1-
+
+
+
+
+
+
+ Claims means any and all claims, rights, demands, causes of action,
+liabilities (including civil fines), damages, losses, fines, penalties, sanctions of every kind and character, whether known or unknown, including fees and expenses of attorneys, technical experts and expert witnesses, judgments or proceedings of
+any kind or character whatsoever, whether arising or founded in law, equity, statute, contract, tort, strict liability or voluntary settlement and all expenses, costs and fees (including reasonable attorneys fees) in connection therewith.
+ Closing has the meaning set forth in Section 10.4. 
+Closing Date has the meaning set forth in Section 10.4. 
+Closing Settlement Statement has the meaning set forth in Section 10.3. 
+Consents has the meaning set forth in Section 9.1. 
+Contracts means all contract rights relating to the Interests, Wells, Equipment, Easements, Hydrocarbons, Surface
+Agreements or Permits, including, but not limited to, any operating agreements, joint venture agreements, unit agreements, orders and decisions of state and federal regulatory authorities establishing units, unit operating agreements, farmout
+agreements, processing agreements, transportation agreements, gathering and processing agreements, enhanced recovery and injection agreements, farm-in agreements, balancing agreements, options, drilling agreements, exploration agreements, area of
+mutual interest agreements, gas sales agreements, and assignments of operating rights, working interests, subleases and rights above or below certain footage depths or geological formations, to the extent the same are directly related to the Assets;
+provided, however, the term Contract shall not include any contract or agreement which contains a confidentiality or assignable restriction for which Seller cannot reasonably secure a waiver prior to Closing by the
+other party(s) to such contract or agreement.  Conveyances means the one or more conveyances, assignments,
+deeds, and bills of sale, in form and substance mutually agreed to by Buyer and Seller, conveying the Assets to Buyer in accordance with the terms of this Agreement, to be executed and delivered in accordance with the provisions of
+Section 10.5.2.  Current Tax Period has the meaning set forth in Section 12.1.
+ Deductible Amount has the meaning set forth in Section 7.5. 
+Defect Arbitrator has the meaning set forth in Section 20.3. 
+Deposit has the meaning set forth in Section 3.2. 
+DTPA has the meaning set forth in Section 20.15. 
+Due Diligence Period has the meaning set forth in Section 7.1. 
+   -2-
+
+
+
+
+
+
+ Easements means rights-of-way, easements, permits, licenses, approvals,
+servitudes and franchises specifically acquired for, or used in connection with, operations for the exploration and production of oil, gas or other minerals on or from the Interests or otherwise in connection with the Wells, Equipment or Surface
+Agreements, including, without limitation, the rights to permits and licenses of any nature owned, held or operated in connection with said operations.  Effective Time means 7:00 a.m. local time where the Assets are located on October 1, 2012.  Environmental Laws means any and all present and future laws, statutes, regulations, rules, orders, ordinances, codes, plans, requirements, criteria, standards, decrees, judgments,
+injunctions, notices, demand letters, permits, licenses or determinations issued, or promulgated by any Governmental Authority now or hereafter in effect, and in each as amended or supplemented from time to time, and any applicable administrative or
+judicial interpretation thereof, pertaining to (a) use, storage, emission, discharge, clean-up, release, or threatened release of pollutants, contaminants, NORM, chemicals, or industrial, toxic or hazardous substances (collectively,
+Pollutants) on or into the environment or otherwise relating to the manufacture, processing, distribution, use, treatment, storage, disposal, transportation or handling of Pollutants, (b) health, (c) the environment, or
+(d) wildlife or natural resources applicable to the Assets and in effect in or for the jurisdiction in which the Assets are located, including, without limitation, the Clean Air Act (Air Pollution Control Act), the Clean Water Act, the Federal
+Water Pollution Act, the Rivers and Harbors Act, the Safe Drinking Water Act, the National Environmental Policy Act of 1969 (NEPA), the Endangered Species Act, the Fish and Wildlife Conservation Act of 1980, the Fish and Wildlife Coordination Act
+(FWCA), the Oil Pollution Act, the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA), the Superfund Amendments and Reauthorization Act of 1986 (SARA), the Resources Conservation and Recovery Act (RCRA), the Toxic
+Substance Control Act, the Occupational, Safety and Health Act (OSHA), the Hazardous Materials Transportation Act, the Hazardous and Solid Waste Amendments of 1984 (HSWA), and any and all other applicable present and future federal, state and local
+laws, statutes, regulations, rules, orders, ordinances, codes, plans, requirements, criteria, standards, decrees, judgments, injunctions, notices, demand letters, permits, licenses or determinations whose purpose is to regulate Pollutants or to
+conserve or protect health, the environment, wildlife or natural resources as any of the foregoing are now existing or may hereafter be amended or interpreted.  Equipment has the meaning set forth in Section 2.3. 
+Excluded Equipment has the meaning set forth in Section 2.3. 
+Execution Date has the meaning set forth in the Preamble. 
+Governmental Authorities means any court or tribunal (including an arbitrator or arbitral panel) in any jurisdiction
+(domestic or foreign) or any federal, state, county, municipal or other governmental or quasi-governmental body, agency, authority, department, board, commission, bureau, official or other authority or instrumentality. 
+Hydrocarbons has the meaning set forth in Section 2.4. 
+Indemnified Party has the meaning set forth in Section 16.7.1. 
+   -3-
+
+
+
+
+
+
+ Indemnifying Party has the meaning set forth in
+Section 16.7.1.  Interests has the meaning set forth in Section 2.1. 
+Leases has the meaning set forth in Section 2.1. 
+Loss means any costs, losses, expenses, liabilities (including civil fines), damages, demands, suits, sanctions, or
+reasonable fees and expenses of attorneys, technical experts and expert witnesses.  NORM means naturally
+occurring radioactive material.  Notice Period has the meaning set forth in Section 16.7.3.
+ Open Defect has the meaning set forth in Section 7.4.3. 
+Party has the meaning set forth in the Preamble. 
+Permits has the meaning set forth in Section 2.6. 
+Permitted Encumbrances means (i) any third party consents to assignment and similar agreements with respect to
+which waivers or consents are obtained prior to Closing or which are typically obtained after Closing; (ii) easements, rights of way, servitudes, licenses and permits on, over, across or in respect of any of the Assets which do not materially
+interfere with the use, operation or development of the Assets; (iii) rights reserved to or vested in any Governmental Authority to control or regulate any of the Assets in any manner, and all obligations and duties under all applicable laws,
+rules and orders of any such Governmental Authority or under any franchise, grant, license or permit issued by any such Governmental Authority; (iv) materialmens, mechanics, repairmens, employees, contractors,
+operators, Tax and other similar liens or charges arising in the ordinary course of business incidental to the construction, maintenance or operation of any of the Assets which have not yet become due and payable and payment is being withheld
+as provided by law or are being contested in good faith in the ordinary course of business by appropriate action; (v) any other liens, charges, encumbrances, contracts, agreements, instruments, obligations, defects or irregularities of any kind
+whatsoever affecting the Assets that do not operate to reduce the net revenue interest below that set forth on Exhibit B for such Interest or increase the working interest above that set forth on Exhibit B
+without a proportionate increase in the corresponding net revenue interest; (vi) defects and irregularities arising out of the lack of a survey; (vii) defects or irregularities arising out of the lack of recorded powers of attorney from
+any Person to execute and deliver documents on their behalf; (viii) defects in the chain of title consisting of failure to recite marital status or the omission of succession or heirship or estate proceedings; (ix) any of the matters
+disclosed on Exhibits A or B or any Schedule to this Agreement; (x) defects based on lack of information in Sellers files; (xi) defects or irregularities arising out of prior oil and gas leases
+which by their terms and on their face, expired more than ten (10) years prior to the Effective Time, and which have not been released of record; (xii) defects or irregularities arising out of liens, mortgages or deeds of trust which, by
+their terms and on their face, expired and terminated more than ten (10) years prior to the Effective Time but which remain unreleased of record; (xiii) defects and irregularities cured by possession under applicable statutes of limitation
+and statutes relating to prescription; (xiv) all approvals or rights to consent by, required notices to, filings with or other actions by Governmental Authorities in connection with the sale or conveyance of oil and gas leases or interests
+therein if they are customarily obtained subsequent to the sale or conveyance; and (xv) Preferential Purchase Rights which are subject to Article 9. 
+   -4-
+
+
+
+
+
+
+ Person means any individual, partnership, joint venture, corporation,
+trust, limited liability company, unincorporated organization, government or department or agency thereof, or any other entity. 
+Pipeline Imbalances has the meaning set forth in Section 13.5. 
+Post Closing Statement has the meaning set forth in Section 11.3. 
+Post-Closing Suspense Account Statement has the meaning set forth in Section 11.4. 
+Preferential Purchase Right has the meaning set forth in Section 9.1. 
+Property Taxes has the meaning set forth in Section 12.1. 
+Records has the meaning set forth in Section 2.7. 
+Represented Imbalance has the meaning set forth in Section 13.4. 
+Retained Assets has the meaning set forth in Section 2.8. 
+Seller and Sellers have the meaning set forth in the Preamble. 
+Seller Group has the meaning set forth in Section 16.1. 
+Surface Agreements means any surface leases, surface use right or agreements or any similar rights, agreements or
+licenses relating to the Assets.  Suspense Accounts has the meaning set forth in Section 11.4.
+ Taxes means all federal, state, local and other taxes and similar levies, fees, charges and assessments
+imposed by a Governmental Authority, including without limitation, income, gross receipts, sales, use, transfer, business and occupation, franchise, profits, license, lease, services, service use, duties, excise, severance, production, stamp,
+occupation, ad valorem, real and personal property, withholding, payroll, and value added taxes, and any taxes of any Person under Treasury Regulations Section 1.1502-6 (or any corresponding provisions of state, local or foreign tax law), or as
+a transferee or successor, or by contract or otherwise, including any interest, penalties or additions to any tax with respect to any of the foregoing.  Tax Deferred Exchange has the meaning set forth in Article 15.  Tax Return means any return, declaration, report, claim for refund, or information return or statement relating to Taxes, including any schedule or attachment thereto, and including any
+amendment thereof.  Termination Threshold has the meaning set forth in Section 7.4.3.
+ Third Party Interest has the meaning set forth in Section 14.5. 
+Title Defect has the meaning set forth in Section 7.1. 
+Wells has the meaning set forth in Section 2.2. 
+   -5-
+
+
+
+
+
+
+ ARTICLE 2 
+ 
+
+
+2.
+PURCHASE AND SALE 
+Subject to the terms and conditions of this Agreement, Seller agrees to sell to Buyer and Buyer agrees to buy from Seller, effective as of
+the Effective Time for the consideration recited and subject to the terms and conditions set forth in this Agreement, all of Sellers interest in the following (each individually referred to as an Asset and all collectively
+referred to as the Assets):   
+
+
+ 
+2.1
+Interests - All of those certain oil, gas, and/or mineral leases described on Exhibit A attached hereto (Leases), together
+with all other rights, titles and interests of Seller in the Leases and any other lands or interests covered thereby, associated therewith or pooled, unitized or communitized therewith, including, without limitation, all working interests, royalty
+interests, overriding royalty interests, net profits interests, production payments, mineral interests, forced pooled interests, and interests acquired under contracts or otherwise in the lands covered by the Leases, and any other lands or interests
+pooled, unitized or communitized therewith, provided, however, that all of the foregoing are subject to the limitations, if any, described in said Exhibit A (the Leases and the lands and other interests described
+above are collectively referred to herein as the Interests).   
+
+
+ 
+2.2
+Wells - All of the oil and gas wells, salt water disposal wells, injection wells, water source wells, and other wells and wellbores attributable to the Interests
+or on lands pooled or unitized with any portion thereof, or on lands located within any governmental drilling or spacing unit which includes any portion thereof, or on portions thereof associated with proved undeveloped reserves whether producing,
+in-progress, plugged or unplugged, shut-in or permanently or temporarily abandoned, including, but not limited to, the wells identified on Exhibit B (collectively, the Wells). 
+ 
+
+
+ 
+2.3
+Equipment - All of Sellers right, title and interest in all personal property, fixtures and improvements and facilities, equipment, pipelines, pipeline
+laterals, well pads, tank batteries, well heads, treating equipment, compressors, power lines, casing, tubing, pumps, motors, gauges, valves, heaters, treaters, or other equipment of any kind, appurtenant solely to the Interests or Wells or solely
+used in connection with the ownership or operation of the Interests or Wells or the production, treatment, sale or disposal of Hydrocarbons, including, but not limited to, facilities, plants, treating and processing systems, casing, pipelines and
+gathering systems (collectively, the Equipment). Notwithstanding anything herein to the contrary, the definition of Equipment shall exclude the equipment and personal property specifically identified on Schedule
+2.3 attached hereto (collectively, the Excluded Equipment). 
+   -6-
+
+
+
+
+
+
+
+
+
+ 
+2.4
+Production - All of the oil, natural gas, condensate, casinghead gas, products or other minerals, attributable or allocable to the Interests or Wells
+(i) from and after the Effective Time or (ii) which are in storage above the pipeline connection as of the Effective Time, or (iii) with regard to any over-produced or under-produced volumes of Seller attributable to the Assumed
+Imbalances and Pipeline Imbalances (the Hydrocarbons).   
+
+
+ 
+2.5
+Easements and Surface Agreements - All the Easements and the Surface Agreements. 
+ 
+
+
+ 
+2.6
+Contract Rights and Permits - All of Sellers right, title and interest in the Contracts and all environmental and other governmental (whether federal,
+state or local) permits, licenses, orders, authorizations, franchises and related instruments or rights relating to the ownership, operation or use of the Interests, Wells, Equipment, Hydrocarbons, Easements and Surface Agreements (the
+Permits).   
+
+
+ 
+2.7
+Files and Records - Copies of all of the files, records and data relating to the items and Interests described in Sections 2.1 through 2.6 above
+including, without limitation, land and lease files, well files, title records including abstracts of title, title opinions, title insurance reports/policies, property ownership reports, division order and right-of-way files, prospect information,
+contracts, production records, all logs including electric logs, core data, pressure data and decline curves and graphical production curves, operational records, geological records, digital records, lease operating statements for the past three
+(3) years, technical records, production and processing records, and contract files, and all related materials in the possession of Seller, less and except all privileged legal files and records (other than title opinions, related
+documents and legal files and records included in, or are part of, the above-referenced files and records), Sellers federal or state income, franchise or margin Tax files and records, employee files, reserve evaluation information or economic
+projections (other than reserve evaluation or economic projection materials and files previously made available to Buyer), competing bids, proprietary data, information and data under contractual restrictions on assignment, privileged information,
+intellectual property, or seismic, geophysical, or other similar information or data (collectively, the Records). 
+   -7-
+
+
+
+
+
+
+
+
+
+ 
+2.8
+Retained Assets - Notwithstanding anything to the contrary in Sections 2.1 through 2.7 or elsewhere herein, the Assets do not include the following (the
+Retained Assets):   
+
+
+ 
+(a)
+All claims and causes of action of Seller (i) arising from acts, omissions or events related to, or damage to or destruction of, the Assets, occurring prior to the
+Effective Time, (ii) arising under or with respect to any of the Contracts that are attributable to periods of time prior to the Effective Time (including claims for adjustments or refunds), or (iii) with respect to any of the Retained
+Assets, copies of all Records necessary to process such claims after the Closing.   
+
+
+ 
+(b)
+All rights and interest of Seller (i) under any policy or agreement of insurance or indemnity, (ii) under any bond or (iii) to any insurance or
+condemnation proceeds or awards arising, in each case, from acts, omissions or events related to, or damage to or destruction of, the Assets occurring prior to the Effective Time. 
+ 
+
+
+ 
+(c)
+All claims of Seller for refunds or loss carry forwards with respect to (i) production, severance or any other Taxes attributable to the Assets for any period
+prior to the Effective Time, (ii) income or franchise Taxes or (iii) any Taxes attributable to the Retained Assets.   
+
+
+ 
+(d)
+All proceeds, income, revenues, claims, refunds or other benefits (including any benefit attributable to any current or future laws or regulations in respect of
+royalty relief or other similar measures) not otherwise enumerated above, prior to the Effective Time as well as any security or other deposits made, attributable to (i) the Assets for any period prior to the Effective Time or
+(ii) any Retained Assets.   
+
+
+ 
+(e)
+All documents and instruments of Seller relating to the Assets that may be protected by an attorney client or work product privilege (excepting title opinions and
+related documents);   
+
+
+ 
+(f)
+All audit rights arising under any of the Contracts or otherwise with respect to any period prior to the Effective Time or to any Retained Assets;
+  
+
+
+ 
+(g)
+The Excluded Equipment; and   
+
+
+ 
+(h)
+All surface rights not specifically associated with or used in conjunction with the Assets. 
+   -8-
+
+
+
+
+
+
+ ARTICLE 3 
+ 
+
+
+3.
+PURCHASE PRICE AND ALLOCATION   
+
+
+ 
+3.1
+Base Purchase Price - Buyer agrees to pay for the Assets the total sum of Twenty Million Six Hundred Thirty-Nine Thousand Six Hundred Seven and No/100 Dollars
+($20,639,607.00) (Base Purchase Price) to be paid by direct bank deposit or wire transfer in same day funds at the Closing, subject only to the price adjustments set forth in this Agreement. 
+ 
+
+
+ 
+3.2
+Performance, Deposit Payment - As evidence of good faith, Buyer has deposited or is depositing with Seller, at the time of the execution of this Agreement, a
+performance deposit equal to ten percent (10%) of the Base Purchase Price (Two Million Sixty-Three Thousand Nine Hundred Sixty-One and No/100 Dollars ($2,063,961.00)) (the Deposit), which Deposit shall be non-interest bearing and
+non-refundable except as provided herein. In the event the Closing occurs, the Deposit shall be applied to the Base Purchase Price to be paid at Closing, subject to the other adjustments thereto as set forth in this Agreement. If Closing does not
+occur and the Agreement is terminated, then the Deposit shall be retained by Seller or paid to Buyer, as provided in Article 19 below.   
+
+
+ 
+3.3
+Adjustments to the Base Purchase Price - The Base Purchase Price shall be adjusted as follows: 
+ 
+
+
+ 
+(a)
+Upward Adjustments.The Base Purchase Price shall be adjusted upward for the following, without duplication: 
+ 
+
+
+ 
+(i)
+all normal and customary production expenses, operating expenses, operated and non-operated overhead charges and capital expenditures paid or incurred by Seller in
+connection with the ownership and operation of the Assets attributable to the periods from and after the Effective Time (including, without limitation, royalties and Taxes attributable to Hydrocarbons produced and saved from and after the Effective
+Time, and pre-paid charges);   
+
+
+ 
+(ii)
+all proceeds attributable to the sale of Hydrocarbons from the Assets and all other income and benefits received by Buyer attributable to production, ownership and
+operation of the Assets prior to the Effective Time;   
+
+
+ 
+(iii)
+all positive adjustments, if any, regarding Additional Interests, as provided in Section 7.2; 
+   -9-
+
+
+
+
+
+
+
+
+
+ 
+(iv)
+to the extent the Assumed Imbalances reflect an underbalanced (or under-produced or under-received balance) position of Seller as of the Effective Time regarding the
+Assets, all adjustments regarding such under balanced Assumed Imbalances in accordance with the provisions of Section 13.4;   
+
+
+ 
+(v)
+all adjustments for oil in storage above the pipeline connection, as provided in Section 13.1; 
+ 
+
+
+ 
+(vi)
+adjustments for over-delivered Pipeline Imbalances (volumes owed to Seller) as provided in Section 13.5; 
+ 
+
+
+ 
+(vii)
+all royalty overpayment amounts and/or future deductions as royalty offsets associated with the Assets as of the Effective Time; 
+ 
+
+
+ 
+(viii)
+Taxes attributable to ownership on or after the Effective Time that are paid or to be paid by Seller; and 
+ 
+
+
+ 
+(ix)
+any other upward adjustments to the Base Purchase Price specified in this Agreement. 
+ 
+
+
+ 
+(b)
+Downward Adjustments. - The Base Purchase Price shall be adjusted downward for the following, without duplication: 
+ 
+
+
+ 
+(i)
+all production expenses, operating expenses, operated and non-operated overhead charges and other costs under applicable operating agreements and other expenses, costs
+and charges paid or incurred by Buyer in connection with the Assets and attributable to periods prior to the Effective Time, including, without limitation, Taxes, capital expenses and other costs; 
+ 
+
+
+ 
+(ii)
+all proceeds attributable to the sale of Hydrocarbons and all other income and benefits received by Seller and attributable to the production, operation or ownership of
+the Assets on or after the Effective Time;   
+
+
+ 
+(iii)
+all adjustments regarding Title Defects, in accordance with the provisions of Article 7; 
+ 
+
+
+ 
+(iv)
+all adjustments regarding exercised Preferential Purchase Rights, as contemplated in Article 9; 
+ 
+
+
+ 
+(v)
+all adjustments regarding Casualty Defects, in accordance with the provisions of Article 17; 
+ 
+
+
+ 
+(vi)
+to the extent the Assumed Imbalances reflect an overbalanced (or over- produced or over-received balance) position of Seller as of the Effective Time regarding the
+Assets, all adjustments regarding such overbalanced Assumed Imbalances, in accordance with the provisions of Section 13.4; 
+   -10-
+
+
+
+
+
+
+
+
+
+ 
+(vii)
+adjustments for under-delivered Pipeline Imbalances (volumes owed by Seller), as provided in Section 13.5; 
+ 
+
+
+ 
+(viii)
+an amount equal to the amounts held in the Suspense Accounts as of the Closing, as contemplated in Section 11.4; 
+ 
+
+
+ 
+(ix)
+an amount equal to the Deposit;   
+
+
+ 
+(x)
+Taxes attributable to ownership prior to the Effective Time that are paid or to be paid by Buyer; and 
+ 
+
+
+ 
+(xi)
+any other downward adjustments to the Base Purchase Price specified in this Agreement. 
+ 
+
+
+ 
+3.4
+Allocation of Base Purchase Price - Exhibit C attached hereto sets forth the working interests and associated net revenue interests attributable to all
+Wells. Seller and Buyer agree that the Base Purchase Price shall be allocated among the Assets as set forth on Exhibit C (the Allocated Values) for the purpose of (i) providing notices, or obtaining
+waivers, of any Preferential Purchase Rights, (ii) determining the value of a Title Defect, and (iii) handling those instances for which the Base Purchase Price is to be adjusted. 
+ARTICLE 4   
+
+
+4.
+ACCESS TO ASSETS AND DATA; DISCLAIMERS; GOVERNMENTAL REVIEWS   
+
+
+ 
+4.1
+Access - Promptly upon execution of this Agreement, Seller shall provide Buyer and Buyers authorized representatives access to the Records and other
+Assets, to the extent such data and records are in Sellers or its representatives possession and relate to the Assets; provided, however, Seller shall have no obligation to provide Buyer access to any interpretative or
+predictive data or information which Seller believes in good faith it cannot lawfully provide Buyer because of third-party restrictions (to the extent any such data or information is proprietary or subject to third-party restrictions, Seller will
+use its reasonable efforts to obtain any consents necessary to allow Buyer to review such data or information). 
+   -11-
+
+
+
+
+
+
+
+
+
+ 
+4.2
+Disclaimer - Buyer specifically understands and acknowledges the following: 
+ 
+
+
+ 
+4.2.1
+Title - Title to the Assets shall be transferred and conveyed to Buyer at Closing with a by, through and under warranty of title through Closing, and
+shall otherwise be conveyed in accordance with the terms of this Agreement and the Conveyances.   
+
+
+ 
+4.2.2
+Disclaimer of Warranty - EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT, OR IN THE CONVEYANCES, SELLER EXPRESSLY DISCLAIMS AND NEGATES ANY REPRESENTATION,
+COVENANT OR WARRANTY, EXPRESS OR IMPLIED, AT COMMON LAW, BY STATUTE OR OTHERWISE, RELATING TO THE CONDITION OF THE ASSETS AND ANY PERSONAL PROPERTY, EQUIPMENT, FIXTURES AND ITEMS OF MOVABLE PROPERTY COMPRISING ANY PART OF THE ASSETS INCLUDING
+(i) ANY IMPLIED OR EXPRESS WARRANTY OF FITNESS FOR ANY PARTICULAR PURPOSE OR WARRANTY OF MERCHANTABILITY; (ii) ANY IMPLIED OR EXPRESS WARRANTY OF CONFORMITY TO MODELS OR SAMPLES OF MATERIALS; (iii) ANY RIGHTS OF BUYER UNDER APPLICABLE
+STATUTES TO CLAIM DIMINUTION OF CONSIDERATION OR RETURN OF THE PURCHASE PRICE; (iv) ANY CLAIM BY BUYER FOR DAMAGES BECAUSE OF DEFECTS OR OTHER VICES, WHETHER KNOWN OR UNKNOWN; (v) ANY IMPLIED OR EXPRESS WARRANTY REGARDING ENVIRONMENTAL
+LAWS, THE RELEASE OF MATERIALS INTO THE ENVIRONMENT INCLUDING, WITHOUT LIMITATION, NATURALLY OCCURRING RADIOACTIVE MATERIAL OR ASBESTOS, OR PROTECTION OF THE ENVIRONMENT OR HEALTH; OR (vi) ANY IMPLIED OR EXPRESS WARRANTY REGARDING TITLE TO ANY
+OF THE ASSETS, EXCEPT FOR THE SPECIAL WARRANTY OF TITLE PROVIDED IN THE CONVEYANCES. IT IS THE EXPRESS INTENTION OF BUYER AND SELLER THAT, EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT, OR IN THE CONVEYANCES, THE PERSONAL PROPERTY, EQUIPMENT,
+FIXTURES AND ITEMS AND THE CONDITION OF THE ASSETS ARE BEING CONVEYED TO BUYER AS IS, WHERE IS, WITH ALL FAULTS, AND IN THEIR PRESENT CONDITION AND STATE OF REPAIR. BUYER REPRESENTS TO SELLER THAT AS OF CLOSING BUYER WILL HAVE BEEN GIVEN
+THE OPPORTUNITY TO MAKE OR CAUSE TO BE MADE SUCH INSPECTIONS AS BUYER DEEMS APPROPRIATE, IT BEING UNDERSTOOD THAT SUCH INSPECTIONS SHALL NOT IMPAIR OR OTHERWISE AFFECT THE VALIDITY OF SELLERS REPRESENTATIONS AND WARRANTIES SET FORTH IN THIS
+AGREEMENT OR IN THE CONVEYANCES.   
+
+
+ 
+4.2.3
+ Additional Disclaimer - EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT OR IN THE CONVEYANCES, SELLER HEREBY EXPRESSLY NEGATES AND DISCLAIMS,
+AND BUYER HEREBY WAIVES AND ACKNOWLEDGES THAT SELLER HAS NOT MADE, 
+   -12-
+
+
+
+
+
+
+
+
+
+ 
+
+ANY WARRANTY, REPRESENTATION OR COVENANT, EXPRESS OR IMPLIED, AS TO THE ACCURACY OR COMPLETENESS OR MATERIALITY OF ANY FILES, RECORDS, DATA, INFORMATION, OR MATERIALS (WRITTEN OR ORAL) HERETOFORE
+OR HEREAFTER FURNISHED TO BUYER IN CONNECTION WITH THE ASSETS, OR AS TO THE QUALITY OR QUANTITY OF HYDROCARBON RESERVES (IF ANY) ATTRIBUTABLE TO THE ASSETS OR THE ABILITY OF THE ASSETS TO PRODUCE HYDROCARBONS. ANY AND ALL SUCH FILES, RECORDS, DATA,
+INFORMATION, AND OTHER MATERIALS FURNISHED BY SELLER, WHETHER MADE AVAILABLE PURSUANT TO THIS ARTICLE 4 OR OTHERWISE, ARE PROVIDED TO BUYER AS A CONVENIENCE AND ACCOMMODATION, AND ANY RELIANCE ON OR USE OF THE SAME SHALL BE AT BUYERS SOLE
+RISK.   
+
+
+ 
+4.3
+Governmental Reviews - Seller and Buyer shall each in a timely manner make (or cause its applicable affiliate to make) (i) all required filings (if any),
+including filings required under the Hart-Scott-Rodino Act (if any), and prepare applications to and conduct negotiations with, each Governmental Authority as to which such filings, applications or negotiations are necessary or appropriate in the
+consummation of the transaction contemplated hereby and (ii) provide such information as the other may reasonably request in order to make such filings, prepare such applications and conduct such negotiations. Each Party shall cooperate with
+and use all reasonable efforts to assist the other with respect to such filings, applications and negotiations. Buyer shall bear the cost of all filing or application fees payable to any Governmental Authority with respect to the transaction
+contemplated by this Agreement, regardless of whether Buyer, Seller, or any affiliate of any of them is required to make the payment.  ARTICLE 5   
+
+
+5.
+SELLERS REPRESENTATIONS  Seller represents to Buyer, as of the date hereof and as of the Closing Date, as follows:   
+
+
+ 
+5.1
+Existence - It is an entity duly organized and validly existing and in good standing under the laws of its state of formation, and is duly qualified to carry on
+its business and to own and operate oil and gas properties in each jurisdiction in which the Assets owned by it are located.   
+
+
+ 
+5.2
+Authority, Binding Obligations - The execution and delivery of this Agreement and all agreements and documents contemplated hereby by Seller, and the
+consummation by Seller of the transactions contemplated hereby, have been duly authorized by all required persons and no other actions on the part of Seller are required to authorize this Agreement and the transactions contemplated hereby. This
+
+   -13-
+
+
+
+
+
+
+
+
+
+ 
+
+Agreement, and all documents and instruments contemplated hereby, constitute legal, valid and binding obligations of Seller in accordance with their respective terms, subject to all applicable
+bankruptcy and other similar laws of general application with respect to creditors.   
+
+
+ 
+5.3
+Violations - Seller has not materially violated (and to the knowledge of Seller none of the Assets are in material violation of) any laws, statutes, regulations
+or orders applicable to any of the Assets or to the operation thereof.   
+
+
+ 
+5.4
+Compliance - Seller has materially complied (and, to the knowledge of Seller, all of the Assets, as owned and operated, are in material compliance) with all
+applicable laws (including without limitation Environmental Laws), rules, regulations, ordinances and orders of all local, tribal, state and federal Governmental Authorities having jurisdiction. 
+ 
+
+
+ 
+5.5
+Payment of Royalties - All royalties and in-lieu royalties with respect to the Assets which accrued or are attributable to the period prior to the Effective Time
+have been properly and fully paid, or are included within the suspense amounts being conveyed to Buyer pursuant to Section 11.5.   
+
+
+ 
+5.6
+Taxes - All ad valorem, property, production, severance and similar Taxes with respect to the Assets that are due based on or measured by the ownership of any
+Assets, the production or removal of Hydrocarbons therefrom or the receipt of proceeds therefrom have been properly and timely paid.   
+
+
+ 
+5.7
+Contracts - Seller has not received written notice of its default under any of the Contracts and the Contracts are in full force and effect. To the knowledge of
+Seller, no counterparty to any Contract is in breach thereof.   
+
+
+ 
+5.8
+Litigation and Claims - Except as set forth on Schedule 5.8, Seller has received no notice of any suit, action, demand, proceeding, lawsuit or other
+litigation pending or, to the knowledge of Seller, threatened with respect to Seller or any of the Assets that could reasonably be expected to adversely affect the ownership, operation or value of the Assets or any of the Wells or Leases.
+
+   -14-
+
+
+
+
+
+
+
+
+
+ 
+5.9
+Sale Contracts - Except for (a) Contracts governing the sale of Hydrocarbons in the ordinary course or (b) the disposition in the ordinary course of
+equipment no longer suitable for oil and gas field operations, there are no material contracts or options outstanding for the sale, exchange or transfer of Sellers interest in the Assets or any portion thereof. 
+ 
+
+
+ 
+5.10
+Notices - Except as set forth on Schedule 5.10, Seller has not received written notice, which has not heretofore been complied with, in all material
+respects, of any material violation of laws, rules or regulations (federal, state and local) issued with respect to the Assets.   
+
+
+ 
+5.11
+Take-or-Pay - Seller is not obligated, under a take-or-pay or similar arrangement, to allow Hydrocarbons to be sold, without receiving full payments at the time
+of delivery in an amount that corresponds to the Net Revenue Interest in the Hydrocarbons attributable to any Well, unit or Lease described in Exhibits A or B (other than with regard to certain obligations
+relative to Assumed Imbalances or Pipeline Imbalances, as contemplated under Sections 13.4 and 13.5, respectively).   
+
+
+ 
+5.12
+Timely Payment - Seller has paid its share of all costs payable by it under the Leases and the Contracts, except those being contested in good faith.
+  
+
+
+ 
+5.13
+Imbalances - Except as set forth on Schedule 13.4, there are no gas or other Hydrocarbon production imbalances existing as of the Effective Time with
+respect to any of the Assets.   
+
+
+ 
+5.14
+Outstanding Obligations - Except as otherwise described in Schedule 5.14, there are no outstanding authorizations for expenditures in excess of Fifty
+Thousand Dollars ($50,000), net to Sellers interest, or other written commitments or proposals to conduct operations on the Assets.   
+
+
+ 
+5.15
+Brokers - Seller has incurred no liability, contingent or otherwise, for brokers or finders fees in respect of this Agreement or the transaction
+contemplated hereby for which Buyer shall have any responsibility whatsoever. 
+   -15-
+
+
+
+
+
+
+
+
+
+ 
+5.16
+Bankruptcy  There are no bankruptcy, reorganization or arrangement proceedings pending, being contemplated by, or to the knowledge of Seller, threatened
+against Seller.   
+
+
+ 
+5.17
+No Violation of Covenants - Upon Closing, the transfer of the Assets to Buyer will not violate any covenants or restrictions imposed on Seller by any bank or
+other financial institution in connection with a mortgage or other instrument, and will not result in the creation or imposition of a lien on any portion of the Assets. 
+ 
+
+
+ 
+5.18
+Consents - Except as set forth on Schedule 5.18, there are no waivers, consents to assign, approvals or similar rights required in connection with the
+conveyance of the Assets from Seller to Buyer.   
+
+
+ 
+5.19
+Preferential Purchase Rights - Except as set forth on Schedule 5.19, there are no Preferential Purchase Rights to which the Assets are subject.
+  
+
+
+ 
+5.20
+Wells - To the knowledge of Seller, all Wells have been, in all material respects, drilled, completed, and operated in compliance with the Leases and all
+applicable laws and rules, regulations, permits, judgments, orders, and decrees of any court of the competent jurisdiction.   
+
+
+ 
+5.21
+Marketing Contracts  Except as set forth on Schedule 5.21, no Hydrocarbons produced from the Assets are subject to a sales agreement except
+Contracts terminable without penalty by Seller on not more than ninety (90) days notice.  ARTICLE 6
+  
+
+
+6.
+BUYERS REPRESENTATIONS  Buyer represents to Seller, as of the date hereof and as of the Closing Date, as follows:   
+
+
+ 
+6.1
+Information - Buyer represents that it is a sophisticated purchaser, knowledgeable in the evaluation of oil and gas properties and has performed due diligence on
+the Assets and performed all necessary tasks involved in evaluating the Assets, to the Buyers complete satisfaction. SUBJECT TO THE OTHER TERMS OF THIS AGREEMENT, BUYER REPRESENTS AND WARRANTS THAT ON THE CLOSING, BUYER WILL ACCEPT THE
+ASSETS AT CLOSING IN THEIR PRESENT CONDITION, AS IS AND WHERE IS AND WITH ALL FAULTS. BUYER ACKNOWLEDGES AND AGREES THAT, EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT AND IN THE CONVEYANCES, SELLER HAS MADE NO REPRESENTATIONS OR
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WRITTEN OR ORAL, AS TO THE ACCURACY OR COMPLETENESS OF THE BACKGROUND MATERIALS OR ANY OTHER INFORMATION RELATING TO THE ASSETS FURNISHED BY OR ON BEHALF OF SELLER OR TO BE FURNISHED TO BUYER OR ITS
+REPRESENTATIVES, INCLUDING WITHOUT LIMITATION ANY INTERNAL APPRAISALS AND/OR INTERPRETIVE DATA OF SELLER. Buyer acknowledges and affirms that it has relied and will rely solely upon Sellers representations, warranties and covenants in this
+Agreement and on its independent analysis, evaluation and investigation of, and judgment with 
+   -16-
+
+
+
+
+
+
+
+
+
+ 
+
+respect to, the business, economic, legal, Tax or other consequences of this transaction, including its own estimate and appraisal of the extent and value of the petroleum, natural gas and other
+reserves associated with the Assets.   
+
+
+ 
+6.2
+Knowledge and Experience - Buyer (i) is engaged in the business of exploring for and/or producing oil and gas or other valuable minerals as an ongoing
+business and (ii) is purchasing the Assets for its own account for investment purposes and not with the intent to resell the Assets in violation of any federal or state securities laws. Buyer is an experienced and knowledgeable investor in oil
+and gas properties, has the financial and business expertise to evaluate the merits and risks of the transactions covered by this Agreement and has relied solely on the basis of its own independent investigation of the Assets for all purposes. In
+acquiring the Assets, Buyer is acting in the conduct of its own business and not under any specific contractual commitment to any third party, or any specific nominee agreement with any third party, to transfer to, or to hold title on behalf of,
+such third party, with respect to all or any part of the Assets. Buyer acknowledges that it has had the opportunity to seek the advice of persons it deemed appropriate concerning the consequences of the provisions of this Agreement and hereby waives
+any and all rights to claim that it is an unsophisticated investor in oil and gas properties.   
+
+
+ 
+6.3
+No Other Warranties - Buyer acknowledges that, except as otherwise set forth in this Agreement and in the Conveyances, Seller has not made any representation,
+covenant or warranty, express or implied, at common law, by statute or otherwise, relating to the condition of the Assets, including, without limitation, any implied or express warranty of merchantability, of fitness for any particular purpose, or
+of conforming to models or samples of materials as to any personal property, fixtures or structures conveyed pursuant to this Agreement.   
+
+
+ 
+6.4
+Formation, Good Standing and Authority - Buyer is a limited liability company duly formed, validly existing and in good standing under the laws of the state of
+Delaware. This Agreement constitutes the legal, valid and binding obligation of Buyer, enforceable against Buyer in accordance with its terms.   
+
+
+ 
+6.5
+Liability for Brokers Fees - Buyer has not incurred any liability, contingent or otherwise, for brokers or finders fees relating to the
+transactions contemplated by this Agreement for which Seller shall have any responsibility whatsoever. 
+   -17-
+
+
+
+
+
+
+
+
+
+ 
+6.6
+Financial Resources - Buyer has all funds necessary to pay the Base Purchase Price and any other amounts contemplated by this Agreement. Buyers ability to
+consummate the transactions contemplated hereby is not contingent on its ability to secure financing or to complete any public or private placement of securities prior to or upon Closing. 
+ 
+
+
+ 
+6.7
+Bankruptcy - There are no bankruptcy, reorganization or arrangement proceedings pending, being contemplated by, or to the knowledge of Buyer, threatened against
+Buyer.   
+
+
+ 
+6.8
+Qualification to Assume Operatorship - At Closing, Buyer will be qualified to own and assume operatorship of oil, gas and mineral leases, including the Assets,
+in all jurisdictions where the Assets are located, and the consummation of the transactions contemplated in this Agreement will not cause Buyer to be disqualified as such an owner or operator. To the extent required by the applicable state and
+federal governmental bodies or agencies, Buyer currently has, (or at Closing will have) and will continue to maintain, lease bonds, area-wide bonds, or any other surety bonds as may be required by, and in accordance with, such state or federal
+regulations governing the ownership and operation of such Assets.  ARTICLE 7 
+ 
+
+
+7.
+TITLE   
+
+
+ 
+7.1
+Title Defects - Buyer shall notify Seller in writing of any Title Defect in the Assets after discovering the Title Defect but in any event on or before
+October 30, 2012 (the Due Diligence Period). For the purpose of this Agreement, a Title Defect shall mean a deficiency, impairment, encumbrance, lien, encroachment, irregularity, or defect, which
+individually per Asset as set forth on Exhibit C exceeds Fifty Thousand Dollars ($50,000) in one (or more) of the following respects (other than Permitted Encumbrances): 
+ 
+
+
+ 
+7.1.1
+Adverse Claims - Sellers title as to all or part of an Asset is subject to (i) an outstanding mortgage which is not released on or before Closing;
+(ii) a deed of trust which is not released on or before Closing; (iii) a lien or similar encumbrance which is not released on or before Closing; or (iv) a pending Claim in which a competing ownership interest in an Asset is claimed or
+implied.   
+   -18-
+
+
+
+
+
+
+
+
+
+ 
+7.1.2
+Decreased Net Revenue Interest - Seller owns less than the net revenue interest shown on Exhibit C for a particular Asset.
+  
+
+
+ 
+7.1.3
+Increased Working Interest - Seller owns more than the working interest shown on Exhibit C for a particular Asset without a proportionate
+increase in the corresponding net revenue interest shown on Exhibit C.   
+
+
+ 
+7.1.4
+Reversions - An Asset is subject to reduction by the exercise by a third-party of a reversionary, back-in, or other similar right not reflected on Exhibit
+C or not reflected in any materials received by Buyer prior to the date hereof.   
+
+
+ 
+7.1.5
+Asset - For purposes of the Base Purchase Price adjustment described in Articles 7 and 8, a particular Asset will be determined pursuant to
+the Asset description and value set forth on Exhibit C.   
+
+
+ 
+7.2
+Additional Interests - During the Due Diligence Period, Buyer shall notify Seller in writing if Buyer determines that Seller has (i) a lesser working
+interest (without a proportionate decrease in the corresponding net revenue interest) with respect to all or any part of the Assets than shown on Exhibit C, or (ii) a greater net revenue interest with respect to all or any
+part of the Assets than that set forth in Exhibit C (collectively, such items shall be referred to as an Additional Interest). During the Due Diligence Period, Seller may notify Buyer in writing of any
+Additional Interest.   
+
+
+ 
+7.3
+Notices - Any Title Defect notice pursuant to Section 7.1 or Additional Interest notice pursuant to Section 7.2 shall include appropriate
+documentation to substantiate the applicable position and the estimated value of the Title Defect or Additional Interest. If any such notice is not timely delivered, the claimant shall thereafter have no right to assert such Title Defect or
+Additional Interest as the basis for an adjustment to the Base Purchase Price; provided, however, that this waiver shall not apply with regard to any matters or claims that Buyer may have the right to assert under the special warranty
+of title in the Conveyances.   
+
+
+ 
+7.4
+Adjustments to Base Purchase Price - Upon timely delivery of a notice under Article 7 pursuant to Section 7.1 or 7.2, either by Buyer
+or by Seller, Buyer and Seller shall meet at least two (2) Business Days prior to Closing and use their reasonable commercial efforts to agree on the validity of any claims for Title Defects or Additional Interests and the amount of any Base
+Purchase Price adjustment using the following criteria: 
+   -19-
+
+
+
+
+
+
+
+
+
+ 
+7.4.1
+Liquidated Charges - If the adjustment is based upon a lien, encumbrance, or other charge upon an Asset which is liquidated in amount or which can be estimated
+with reasonable certainty, then the adjustment shall be the sum necessary to be paid to the obligee to remove the encumbrance from the affected Asset.   
+
+
+ 
+7.4.2
+Ownership Variance -   
+
+
+ 
+(a)
+If the adjustment is based upon Seller owning a lesser or greater net revenue interest with a corresponding proportionate lesser or greater working interest in an Asset
+than that shown on Exhibit C, then the adjustment shall be proportionate to the amount allocated to the affected Asset on Exhibit C. 
+ 
+
+
+ 
+(b)
+If the adjustment is based upon a lesser or greater net revenue interest without a corresponding proportionate lesser or greater working interest in an Asset than that
+shown on Exhibit C, then the Parties shall use their best efforts to agree upon a mutually acceptable Base Purchase Price adjustment based upon the Allocated Value for such Asset as set forth on Exhibit C.
+  
+
+
+ 
+7.4.3
+Valuation of Title Defects -   
+
+
+ 
+(a)
+If the adjustment is for an item other than as set forth in Sections 7.4.1 or 7.4.2 above, Buyer and Seller shall endeavor to mutually agree on the amount of the
+Base Purchase Price adjustment. If the Parties cannot agree to the existence of a Title Defect or Additional Interests or the applicable adjustment, the matter shall be resolved in accordance with the dispute resolution provisions in
+Section 20.3. Any such item shall be referred to as an Open Defect. Notwithstanding any of the preceding provisions of this Section 7, all adjustments applicable to Title Defects or Additional Interests
+shall be made prior to Closing which Closing shall be extended until resolution of any disputes relating to the Title Defects or Additional Interests; provided, however, that if adjustments for alleged Title Defects, Casualty Defects
+and Open Defects do not, in the aggregate, exceed ten (10%) percent of the Base Purchase Price (the Termination Threshold), then Closing shall occur as to the other Assets that are not subject to the dispute (with the portion
+of the Assets subject to the dispute being excluded, and the Base Purchase Price reduced for the entire Allocated Values thereof) and Closing shall subsequently occur with respect to the Assets made the subject of the dispute within thirty
+(30) days following the final resolution of the dispute.   
+
+
+ 
+(b)
+Subject to the provisions of Section 7.5, for all Title Defects, Seller shall elect to either: 
+   -20-
+
+
+
+
+
+
+
+
+
+ 
+(i)
+in the case of Title Defects, either:   
+
+
+ 
+(a)
+sell to Buyer the entire Asset(s) affected by the Title Defect but reduce the Base Purchase Price by the agreed upon amount associated with such Title Defect; or
+  
+
+
+ 
+(b)
+exclude from this transaction the Assets affected by the Title Defect and reduce the Base Purchase Price for the entire Allocated Value of the Asset(s) so excluded; or
+  
+
+
+ 
+(c)
+if the Asset is excluded from this transaction pursuant to (b) above then Seller shall use reasonable and commercial efforts to attempt to cure the Title Defect within
+one hundred eighty (180) days following Closing. If said Title Defect is cured within said one hundred eighty (180) day period then Buyer shall purchase the said excluded Asset for its Allocated Value as of the Effective Time.
+  
+
+
+ 
+(ii)
+in the case of an Additional Interest, sell to Buyer the entire Asset(s) affected by the Additional Interest at the original Allocated Value set forth on Exhibit
+C attributable to such Assets proportionately increased to reflect such Additional Interest.   
+
+
+ 
+7.5
+Deductible for Title Defects - Notwithstanding the provisions set forth above, a Title Defect shall not result in an adjustment to the Base Purchase Price unless
+the aggregate net value of the sum of all Title Defects agreed to by the Parties is greater than two percent (2%) of the Base Purchase Price (the Deductible Amount). In such event, the Base Purchase Price on the Closing shall
+be adjusted by the aggregate net value of the sum of all Title Defects which collectively exceed the Deductible Amount.   
+
+
+ 
+7.6
+Termination - If, because of Title Defects, Open Defects, and Casualty Defects in the aggregate, the Base Purchase Price is to be adjusted downward by an amount
+exceeding the Termination Threshold either Party may, upon written notice to the other Party, cancel this Agreement. 
+   -21-
+
+
+
+
+
+
+ ARTICLE 8 
+ 
+
+
+8.
+ENVIRONMENTAL AND ENVIRONMENTAL INDEMNITY   
+
+
+ 
+8.1
+Environmental Review - Buyer has reviewed the environmental condition of the Assets and has no adjustments to the Base Purchase Price related to the
+environmental condition of the Assets.   
+
+
+ 
+8.2
+Acceptance of Environmental Condition - SUBJECT TO THE OTHER TERMS AND PROVISIONS SET FORTH IN THIS AGREEMENT, UPON CLOSING, BUYER AGREES TO ACCEPT THE
+ENVIRONMENTAL CONDITION OF THE ASSETS, INCLUDING, BUT NOT LIMITED TO, COSTS TO CLEAN UP OR REMEDIATE; AND SUBJECT TO THE OTHER TERMS AND PROVISIONS SET FORTH IN THIS AGREEMENT, BUYER HEREBY AGREES TO RELEASE SELLER FROM ANY AND ALL LIABILITY AND
+RESPONSIBILITY THEREFORE AND AGREES TO INDEMNIFY, DEFEND, AND HOLD SELLER HARMLESS FROM ANY AND ALL CLAIMS, CAUSES OF ACTION, FINES, EXPENSES, COSTS, LOSSES, AND LIABILITIES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, REASONABLE ATTORNEYS FEES
+AND COSTS) IN CONNECTION WITH THE ENVIRONMENTAL CONDITION OF THE ASSETS OR BUYERS FAILURE TO PROPERLY REMEDIATE THE CONDITION WITH RESPECT TO THE ASSETS. BUYER ACKNOWLEDGES AND AFFIRMS THAT THE ASSETS HAVE BEEN UTILIZED FOR THE PURPOSE OF
+EXPLORATION, PRODUCTION AND DEVELOPMENT OF OIL AND GAS, AND EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT, AT CLOSING, THE ASSETS WILL BE ACQUIRED IN THEIR AS IS, WHERE IS ENVIRONMENTAL CONDITION. BUYER HAS CONDUCTED AN INDEPENDENT
+INVESTIGATION OF THE PHYSICAL AND ENVIRONMENTAL CONDITION OF THE ASSETS, TO THE EXTENT BUYER DEEMS NECESSARY OR APPROPRIATE.   
+
+
+ 
+8.3
+NORM - Buyer acknowledges that the Assets have been used for exploration, development and production of oil, gas and water and that there may be petroleum,
+produced water, wastes or other materials located on, under or associated with the Interests. Equipment and sites included in the Assets may contain NORM. NORM may affix or attach itself to the inside of wells, materials and equipment as scale, or
+in other forms; the wells, materials and equipment located on or included in the Assets may contain NORM and other wastes or hazardous substances/materials; and NORM containing material and other wastes or hazardous substances/materials may have
+been buried, come in contact with the soil or otherwise been disposed of on or around the Assets. Special procedures may be 
+   -22-
+
+
+
+
+
+
+
+
+
+ 
+
+required for the remediation, removal, transportation or disposal of wastes, asbestos, hazardous substances/materials, including hydrogen sulfide gas and NORM from the Assets. From and after the
+Closing, Buyer shall assume responsibility for the control, storage, handling, transporting and disposing of or discharge all materials, substances and wastes from the Assets (including produced water, hydrogen sulfide gas, drilling fluids, NORM and
+other wastes), whether present before or after the Effective Time, in a safe and prudent manner and in accordance with all applicable Environmental Laws (as defined below). 
+ 
+
+
+ 
+8.4
+Environmental Indemnities - EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT OR IN THE CONVEYANCES, THIS SALE IS MADE ON AN AS IS, WHERE IS BASIS AND
+BUYER RELEASES SELLER FROM ANY LIABILITY WITH RESPECT TO THE ENVIRONMENTAL CONDITION OF THE ASSETS, WHETHER OR NOT CAUSED BY OR ATTRIBUTABLE TO SELLERS NEGLIGENCE. FROM AND AFTER CLOSING, SUBJECT TO THE OTHER TERMS AND PROVISIONS SET FORTH IN
+THIS AGREEMENT, BUYER SHALL BE LIABLE TO SELLER FOR AND SHALL, IN ADDITION, INDEMNIFY, DEFEND, RELEASE AND HOLD SELLER HARMLESS FROM AND AGAINST ANY AND ALL CLAIMS, IN FAVOR OF ANY THIRD PARTY OR ENTITY FOR INJURY, ILLNESS OR DEATH OF ANY PERSON(S)
+OR FOR DAMAGE, LOSS, POLLUTION OR CONTAMINATION OF ANY REAL OR PERSONAL PROPERTY, GROUNDWATER OR THE ENVIRONMENT ATTRIBUTABLE TO THE ENVIRONMENTAL CONDITION OF THE ASSETS, INCLUDING, WITHOUT LIMITATION, CLAIMS ARISING UNDER ENVIRONMENTAL LAWS OR,
+FOR ANY OTHER CLAIMS ARISING DIRECTLY OR INDIRECTLY FROM, OR INCIDENT TO, THE USE, OCCUPATION, OWNERSHIP, OPERATION, CONDITION (WHETHER LATENT OR PATENT), MAINTENANCE OR ABANDONMENT OF ANY OF THE 
+ASSETS AND WHETHER ARISING FROM OR CONTRIBUTED TO BY THE ACTIVE, PASSIVE, JOINT, SOLE OR CONCURRENT NEGLIGENCE, OR STRICT LIABILITY OF
+SELLER, OR SELLERS CONTRACTORS OR SUBCONTRACTORS OR THE OFFICERS, DIRECTORS, AGENTS OR EMPLOYEES OF SELLERS CONTRACTORS OR SUBCONTRACTORS, INCLUDING ANY STRICT LIABILITY UNDER ENVIRONMENTAL LAWS, REGARDLESS OF WHETHER ANY SUCH CLAIMS
+RESULT FROM ANY CONDITIONS, EVENTS, ACTIONS OR INACTIONS ARISING, OCCURRING OR ACCRUING PRIOR TO, ON OR AFTER THE EFFECTIVE TIME. Buyer and Seller shall treat all information regarding any environmental conditions as confidential and shall not make
+any contact with any Governmental Authority or third party regarding same without written consent from the other Party unless so required by applicable law. 
+   -23-
+
+
+
+
+
+
+ ARTICLE 9 
+ 
+
+
+9.
+THIRD-PARTY PREFERENTIAL PURCHASE RIGHTS AND CONSENTS   
+
+
+ 
+9.1
+Third Party Notices - Seller shall request, from the appropriate parties (and in accordance with the documents creating such rights and/or requirements), any
+consent or approval of any third party, person or Governmental Authority that are customarily received prior to Closing (Consents) and shall send out notices for all options, rights of first refusal, or similar preferential
+purchase rights burdening any of the Assets (each a Preferential Purchase Right) applicable to the Assets, in compliance with the terms of all Contracts providing for such Preferential Purchase Rights. Seller shall promptly give
+notices to third parties holding either (i) any Consent rights, or (ii) Preferential Purchase Rights. Seller shall use all commercially reasonable efforts, but without obligation to incur any unreasonable cost or expense, to obtain waivers
+of, or to comply with, any such Preferential Purchase Right or Consents prior to Closing.   
+
+
+ 
+9.2
+Third-Party Exercise - If a third-party exercises a Preferential Purchase Right of the Assets, the affected Asset shall be removed from this Agreement and the
+Base Purchase Price shall be adjusted by the dollar amount allocated to the affected Asset as set forth on Exhibit C.   
+
+
+ 
+9.3
+Third-Party Failure to Purchase - If a third-party exercises a Preferential Purchase Right for an Asset, but fails to close the purchase for any reason within
+sixty (60) days after Closing, Seller shall give written notice to Buyer of such failure to close, and Buyer shall purchase such Asset for the Allocated Value set forth on Exhibit C for such Asset and on the terms and
+conditions set forth in this Agreement including the Effective Time set forth in this Agreement.  ARTICLE 10
+  
+
+
+10.
+CONDITIONS TO CLOSING; SETTLEMENT STATEMENT; CLOSING   
+
+
+ 
+10.1
+Sellers Conditions to Closing - The obligations of Seller at the Closing are subject to the satisfaction at or prior to the Closing, or waiver in writing
+by Seller, of the following conditions:   
+
+
+ 
+(a)
+All representations and warranties of Buyer contained in this Agreement, to the extent qualified with respect to materiality, shall be true and correct in all respects,
+and to the extent not so qualified, shall be true and correct in all material respects, in each case as if such representations and warranties were made at and as of the Closing Date; and Buyer shall have performed and satisfied in all material
+respects all covenants and agreements required to be performed and satisfied by it under this Agreement at or prior to the Closing. 
+   -24-
+
+
+
+
+
+
+
+
+
+ 
+(b)
+No suit, action or other proceeding brought by a third party shall be pending, nor shall any order have been entered by any court or Governmental Authority having
+jurisdiction over the Parties or the subject matter of this Agreement which remains in effect at the time of Closing, in either case, that restrains or prohibits or seeks to restrain or prohibit, or seeks damages in connection with, the purchase and
+sale contemplated by this Agreement.   
+
+
+ 
+(c)
+All material consents and approvals required of any third party or Governmental Authorities in order to sell and transfer the Assets to Buyer and otherwise close and
+consummate the transaction contemplated herein, except consents and approvals of assignments by Governmental Authorities or third parties that are customarily obtained after Closing, shall have been received or waived in writing, or the necessary
+waiting period shall have expired, or early termination of the waiting period shall have been granted.   
+
+
+ 
+(d)
+Buyer shall have provided Seller evidence satisfactory to Seller that Buyer, as of Closing (i) is qualified to do business and to own and, if applicable, operate
+the Assets in all jurisdictions in which the Assets are located and (ii) has posted all bonds required by any Governmental Authority or other body to own and operate the Assets. 
+ 
+
+
+ 
+(e)
+The aggregate adjustments to the Base Purchase Price attributable to Title Defects and Casualty Defects shall not have exceeded the Termination Threshold.
+  
+
+
+ 
+(f)
+Buyer shall have performed its obligations set forth in Section 10.5. 
+ 
+
+
+ 
+10.2
+Buyers Conditions to Closing - The obligations of Buyer at the Closing are subject to the satisfaction at or prior to the Closing, or waiver in writing by
+Buyer, of the following conditions:   
+
+
+ 
+(a)
+All representations and warranties of Seller contained in this Agreement, to the extent qualified with respect to materiality, shall be true and correct in all
+respects, and to the extent not so qualified, shall be true and correct in all material respects, in each case as if such representations and warranties were made at and as of the Closing Date, and Seller shall have performed and satisfied in all
+material respects all covenants and agreements required to be performed and satisfied by it under this Agreement at or prior to the Closing.   
+
+
+ 
+(b)
+No suit, action or other proceeding brought by a third party shall be pending, nor shall any order have been entered by any court or Governmental Authorities having
+jurisdiction over the Parties or the subject matter of this Agreement which remains in effect at the time of Closing, in either case, that restrains or prohibits or seeks to restrain or prohibit, or seeks damages in connection with, the purchase and
+sale contemplated by this Agreement. 
+   -25-
+
+
+
+
+
+
+
+
+
+ 
+(c)
+All material consents and approvals required of any third party or Governmental Authorities in order to sell and transfer the Assets to Buyer and otherwise close and
+consummate the transaction contemplated herein, except consents and approvals of assignments by Governmental Authorities or third parties that are customarily obtained after Closing, shall have been received or waived in writing, or the necessary
+waiting period shall have expired, or early termination of the waiting period shall have been granted.   
+
+
+ 
+(d)
+The aggregate adjustments to the Base Purchase Price attributable to Title Defects and Casualty Defects shall not have exceeded the Termination Threshold.
+  
+
+
+ 
+(e)
+Seller shall have performed its obligations set forth in Section 10.5. 
+ 
+
+
+ 
+10.3
+Closing Settlement Statement - At least two (2) Business Days prior to Closing, Seller shall provide Buyer with a closing settlement statement covering all
+adjustments, without duplication, to the Base Purchase Price to be made at Closing under this Agreement (the Closing Settlement Statement). To the extent available, actual numbers shall be used. If not available, Seller shall use
+reasonable and good faith estimates of the same, which estimates shall be adjusted to take into account actual numbers in connection with the Post Closing Statement described in Section 11.3 below. In preparing the Closing Settlement
+Statement Seller shall have no obligation to make an accrual for revenues not received as of Closing.   
+
+
+ 
+10.4
+Closing Date and Place - The closing of the transaction contemplated by this Agreement shall be held on or before November 6, 2012 (the Closing
+Date), at the offices of Seller at Samson Plaza, Two West Second Street, Tulsa, Oklahoma 74103 or at such other place as the parties mutually agree (the Closing). 
+ 
+
+
+ 
+10.5
+Closing Activities - The following actions shall take place at Closing: 
+ 
+
+
+ 
+10.5.1
+Certificates - Each Party shall deliver to the other Party a certificate in a form reasonably satisfactory to the other Party dated as of the Closing and
+executed by a duly authorized officer, partner, attorney-in-fact or owner, as appropriate, of such Party to the effect that (a) the Party has all requisite corporate, partnership or other power and authority to purchase or sell the Assets, as
+the case may be, on the terms described in this Agreement and to perform its other obligations hereunder, (b) that all corporate, partnership and/or other prerequisites of whatsoever nature have been fulfilled, and (c) certifying that all
+conditions to Closing as set forth in Sections 10.1(a) or 10.2(a), as the case may be, have been met. 
+   -26-
+
+
+
+
+
+
+
+
+
+ 
+10.5.2
+Conveyances - Seller and Buyer shall execute, acknowledge and deliver two (2) counterpart copies of each of the Conveyances (substantially in the form set
+forth as Exhibit D attached hereto) to be filed in each respective County where the Assets are located, assigning and conveying the Assets to Buyer, as well as applicable governmental assignment forms. 
+ 
+
+
+ 
+10.5.3
+Payment - Buyer shall deliver to an account designated in writing by Seller by wire transfer of same day funds the Base Purchase Price, less the Deposit, and
+plus or minus any other adjustments thereto contemplated in Section 3.3 above or otherwise in this Agreement.   
+
+
+ 
+10.5.4
+Possession - Seller shall deliver to Buyer exclusive possession of the Assets. 
+ 
+
+
+ 
+10.5.5
+Letters-in-Lieu - Seller shall prepare and Seller and Buyer shall execute and deliver to Buyer the Letters-in-Lieu of Transfer Orders provided for in
+Section 13.3.   
+
+
+ 
+10.5.6
+Release of Mortgages, Deeds of Trusts, Liens, Encumbrances and Financing Statements - Seller shall deliver to Buyer duly executed releases of any mortgages,
+deeds of trust, liens, encumbrances and financing statements, if any, placed by (or caused to be placed by) Seller upon and encumbering Sellers interest in the Assets. 
+ 
+
+
+ 
+10.5.7
+Additional Documents - Buyer shall (i) furnish to Seller such evidence (including evidence of satisfaction of all applicable bonding requirements) as Seller
+may require demonstrating that Buyer is qualified with the applicable Governmental Authorities to succeed Seller as the owners and, where applicable, the operator of the Assets, (ii) with respect to Assets operated by Seller where Buyer is to
+succeed Seller as operator, execute and deliver to Seller appropriate evidence reflecting change of operator as required by applicable Governmental Authorities and (iii) execute and deliver to Seller such forms as Seller may reasonably request
+for filing with applicable Governmental Authorities to reflect Buyers assumption of plugging and abandonment liabilities with respect to all of the Assets. 
+   -27-
+
+
+
+
+
+
+ ARTICLE 11 
+ 
+
+
+11.
+POST-CLOSING OBLIGATIONS 
+Seller and Buyer agree to the following post-Closing obligations: 
+ 
+
+
+ 
+11.1
+Recordation and Filing of Documents - After the Closing, Buyer shall file or record the Assignments in the appropriate county and governmental records. Buyer
+shall provide a copy of same, including recording date, to Seller, all at the sole cost of Buyer.   
+
+
+ 
+11.2
+Records - Within ten (10) Business Days after the Closing, Seller shall furnish Buyer the Records. All reasonable out-of-pocket costs associated with
+copying and delivering the Records shall be borne solely by Buyer. Insofar as Seller reasonably believes the Records may be needed or useful in connection with federal, state or local regulatory or Tax matters or resolution of disputes, litigation,
+or contract compliance issues, Buyer (for a period of seven (7) years after the Closing) shall further make available to Seller or its affiliates (at the location of such Records in Buyers organization) access to the Records during normal
+business hours, upon not less than two (2) Business Days prior written request by Seller, and Seller shall have the right to copy at its own expense and retain such copies of the Records as Seller, in good faith, believes may be useful or
+needed in connection with the above-described matters.   
+
+
+ 
+11.3
+Post Closing Statement - Seller shall issue a post closing statement covering adjustments, without duplication, to the Base Purchase Price that were not included
+in the Closing Settlement Statement (the Post Closing Statement) within one hundred twenty (120) days after Closing. Buyer shall respond with objections and proposed corrections within thirty (30) days of the receipt of
+the Post Closing Statement. If Buyer does not respond with objections and the support therefore to the Post Closing Statement in writing within thirty (30) days of the issuance of the Post Closing Statement, said Statement shall be deemed
+approved by Buyer. In the event that Buyer does respond and objects within this time period, the Parties shall meet within fifteen (15) days following receipt of Buyers objections and attempt to resolve the disputed items. If the Parties
+are unable to resolve the disputed items by the end of such fifteen-day period, the dispute shall be resolved in accordance with the dispute resolution provisions set forth in Section 20.3. After approval by Seller and Buyer (or after
+final resolution of the same under Section 20.3), the net adjustment due pursuant to the Post Closing Statement for the Assets conveyed shall be summarized and a net check or invoice shall be sent to the Buyer or Seller, as the case may
+be. Buyer or Seller, as the case may be, agrees to promptly pay such invoice within ten (10) days after receipt by Buyer. 
+   -28-
+
+
+
+
+
+
+
+
+
+ 
+11.4
+Suspense Accounts - As set forth and itemized on Schedule 11.4 attached hereto, Seller currently maintains suspense accounts pertaining to oil and gas
+heretofore produced comprising monies payable to royalty owners, mineral owners and other persons with an interest in production associated with the Assets that Seller has been unable to pay (the Suspense Accounts). A downward
+adjustment to the Base Purchase Price will be made at Closing to reflect the Suspense Accounts as of the Closing Date and the Suspense Accounts shall be further adjusted, if necessary, in the Post Closing Statement. Subject to the other provisions
+hereof, Buyer shall assume full and complete responsibility and liability for proper payment of the funds comprising the Suspense Accounts as set forth on the Post Closing Suspense Account Statement, which shall be provided by
+Seller to Buyer with the Post Closing Statement required in Section 11.3, (including any liability under any unclaimed property law or escheat statute). Buyer agrees to indemnify, defend and hold Seller, its parent, subsidiary and
+affiliated entities, together with their respective officers, directors, employees, agents and their respective successors and assigns, harmless from and against any and all liabilities, claims, demands, penalties and expenses (including reasonable
+attorneys fees) arising out of or pertaining to the proper payment and administration of the Suspense Accounts in accordance with the Post Closing Suspense Account Statement. 
+ 
+
+
+ 
+11.5
+Further Assurances - Buyer and Seller further agree that each shall, from time to time and upon reasonable request, execute, acknowledge, and deliver in proper
+form, any instrument of conveyance, assignment, transfer, or other instruments reasonably necessary for transferring title in the Assets to Buyer or otherwise to implement the transaction contemplated herein. 
+   -29-
+
+
+
+
+
+
+ ARTICLE 12 
+ 
+
+
+12.
+TAXES   
+
+
+ 
+12.1
+Property Taxes - All ad valorem taxes, property taxes, and similar obligations (Property Taxes) applicable to the Assets with respect to the
+2012 Tax period in which the Effective Time occurs (the Current Tax Period) shall be apportioned between Seller and Buyer as of the Effective Time based on the Current Tax Periods assessment. The apportionment method shall
+be an allocation based on the number of days the Assets were owned. The amount apportioned to the Seller shall be the number of days the Assets were owned from January 1, 2012 to the day prior to the Effective Time. The amount apportioned to
+the Buyer shall be the number of days the Assets were owned from the Effective Time to December 31, 2012. Seller shall reimburse Buyer for Sellers portion of the Current Tax Period at Closing or in connection with any post-closing
+settlement provided for herein. Buyer shall file the Tax Return (unless previously filed by Seller) with respect to the Current Tax Period and shall pay any Taxes shown due with respect thereto, subject to Buyers right to reimbursement for the
+portion allocable to Seller pursuant to this Section 12.1, regardless of the taxing agencys basis for calculating such Taxes. If Seller pays the Property Taxes assessed for the Current Tax Period, Buyer agrees to reimburse Seller
+for Buyers portion of said Taxes at Closing or in connection with any post-closing settlement provided for herein.   
+
+
+ 
+12.2
+Production Taxes - All Taxes (other than Property Taxes, income, franchise, or similar Taxes) imposed on or with respect to the production of oil, natural gas,
+or other hydrocarbons or minerals, or the receipt of proceeds therefrom (including, but not limited to, severance, production and excise Taxes) shall be apportioned between the parties based upon the respective shares of production taken by the
+parties. Payment or withholding of all such taxes that have accrued prior to the Effective Time and filing of all statements, returns and documents pertinent thereto shall be the responsibility of Seller. From and after Closing, payment or
+withholding of all such Taxes that have accrued from and after the Effective Time and the filing of all statements, returns and documents incident thereto shall be the responsibility of Buyer. In the event any such Taxes attributable to the Assets
+and to periods on or after the Effective Time become due and payable prior to Closing, Seller shall timely pay and satisfy the same, and appropriate adjustments therefor shall be made to the Base Purchase Price under Section 3.3 above.
+  
+
+
+ 
+12.3
+Other Taxes - As may be required by relevant taxing agencies, Seller shall collect and Buyer shall pay at Closing all applicable state and local sales tax, use
+tax, gross receipts tax, business license tax, and other taxes attributable to the consummation of the 
+   -30-
+
+
+
+
+
+
+
+
+
+ 
+
+transactions under this Agreement except taxes imposed by reason of income to (or capital of) Seller. The tax collected shall be based upon the Allocated Values as provided in Exhibit
+C and shall be added to the Base Purchase Price at Closing. Any state or local tax specified above, inclusive of any penalty and interest, assessed at a future date against Seller with respect to the transaction covered herein shall
+be paid by Buyer or, if paid by Seller, Buyer shall promptly reimburse Seller therefor. Any documentary stamp tax which may be due shall be paid by Buyer.   
+
+
+
+ 
+12.4
+Cooperation - Buyer and Seller shall cooperate fully as and to the extent reasonably requested by the other Party, in connection with the filing of any Tax
+Returns with respect to the Assets (other than with respect to income and franchise Taxes) and any audit, litigation or other proceeding with respect to such Taxes imposed on or with respect to the Assets for any period including the Closing Date or
+any period ending on or prior to the Closing Date for which a Tax Return has not been filed as of the Effective Time.  ARTICLE 13   
+
+
+13.
+OWNERSHIP OF ASSETS   
+
+
+ 
+13.1
+Distribution of Production - All oil in storage above the pipeline connection (or less tank bottoms) or gas beyond the meters at the Effective Time shall be
+credited to Seller, less applicable royalties and severance taxes. For Seller-operated Assets, Seller has gauged the oil in storage and read all gas meter charts as of the Effective Time. For Seller non-operated Assets, the quantity of such
+marketable oil in storage or gas beyond the meters shall be determined on the same basis as that used for Seller-operated Assets based on operator reports or applicable state regulatory agency production reports or records. As part of the Closing
+Settlement Statement, the price for such oil in storage shall be at the price that Seller has contracted to sell the oil on the Effective Time. If there is no such price, the price shall be the average of the two highest prices that are posted at
+the Effective Time (plus any premium) by other purchasing companies, as determined by Seller in the field or locality where the Assets are located for oil of like grade and gravity. Title to the oil in storage shall pass to Buyer as of the Effective
+Time, and an upward adjustment shall be made to the Base Purchase Price due at Closing, less applicable royalties and severance Taxes.   
+
+
+ 
+13.2
+ Proration of Income and Expenses - Except as otherwise provided in this Agreement, all proceeds (including proceeds held in suspense or escrow),
+receipts, credits, and income attributable to the Assets for all periods of time prior to the Effective Time shall belong to Seller, and all proceeds, receipts, credits, and income attributable to the Assets for all periods of time from and after
+the Effective Time shall belong to Buyer. Except as 
+   -31-
+
+
+
+
+
+
+
+
+
+ 
+
+otherwise provided in this Agreement, all costs, expenses, disbursements, and obligations attributable to the Assets for periods of time prior to the Effective Time shall be the obligation of
+Seller, and Seller shall promptly pay, or if paid by Buyer, promptly reimburse Buyer for and hold Buyer harmless from and against same. Except as otherwise provided in this Agreement, all costs, expenses, disbursements and obligations attributable
+to the Assets for periods of time from and after the Effective Time shall be the obligation of Buyer, and Buyer shall promptly pay, or if paid by Seller, promptly reimburse Seller for and hold Seller harmless from and against same, provided,
+however, for the avoidance of doubt, that income, franchise, and similar Taxes of Seller shall not be borne by Buyer.   
+
+
+ 
+13.3
+Notice to Remitters of Proceeds - Buyer shall be responsible for informing all purchasers of production or other remitters to pay Buyer and obtain from the
+remitter revenues accrued after the Effective Time. The remitter shall be informed by Seller and Buyer via Letters-in-Lieu of Transfer Order or such other reasonable documents which remitter may require. 
+ 
+
+
+ 
+13.4
+Imbalances - Set forth in Schedule 13.4 is a listing of all gas imbalance volumes derived from the most recent imbalance statement from the Operator of
+each Well where a known imbalance exists measured in Mcfs and the aggregate net volume of overproduction or underproduction, as applicable, with respect to the Assets (the Represented Imbalance). As part of the Post Closing
+Statement, the Base Purchase Price shall be adjusted, upward or downward as appropriate, to reflect the value of the difference between the aggregate net volume of overproduction or underproduction associated with the Assets set forth on Schedule
+13.4 and the aggregate net volume of overproduction or underproduction associated with the Assets as of the Effective Time (the Assumed Imbalances). The value of said difference between the aggregate net volume (less royalties
+and other burdens on production) of overproduction or underproduction, as applicable, shall be the product obtained by multiplying $2.00 by the volume of such difference in Mcfs. Buyer shall be solely responsible for any liability and solely
+entitled to any benefit from such production imbalances relating to the Assets, whether occurring on, before or after the Effective Time.   
+
+
+ 
+13.5
+ Pipeline and Other Non Well-head Imbalances - To the extent there exists any imbalances attributable to Hydrocarbons produced from the Assets as
+of the Effective Time with respect to any gas pipeline, storage or processing facility (the Pipeline Imbalances), at Closing the Base Purchase Price shall be adjusted upward or downward, as appropriate, to reflect the value of
+said Pipeline Imbalance. The value of said Pipeline Imbalance shall be calculated by summing the product(s) obtained by multiplying the volume of each net over-position or under-position, as the case may be, measured in the same manner as it is
+measured by the pipeline, storage or processing facility, as applicable, by the value at which the Pipeline Imbalance was either cashed out, made up or sold, or 
+   -32-
+
+
+
+
+
+
+
+
+
+ 
+
+if otherwise undeterminable then using existing fair market value of, or price for, said Hydrocarbons. Buyer shall be solely responsible for any liability and solely entitled to any benefit from
+such pipeline imbalances relating to the Assets from and after the Effective Time; provided, that Buyer shall not be liable for any penalties or surcharges payable to the pipeline transport for periods prior to the Effective Time. If the Pipeline
+Imbalance cannot be determined by Closing or if the pipeline storage or processing facility makes any adjustments attributable to pre-Effective Time periods subsequent to Closing but prior to the Post Closing Statement, then the value adjustment
+associated with any imbalance will be made in connection with the Post Closing Statement.  ARTICLE 14
+  
+
+
+14.
+INTERIM OPERATIONS   
+
+
+ 
+14.1
+Standard of Care - Subject to the additional restrictions set forth in this Section 14.1, Seller shall operate the Seller-operated Assets in
+accordance with all applicable laws, using the standard of care as an ordinarily prudent operator and consistent with past practices until Closing, or such later time as any applicable joint operating agreement may require, when such operation shall
+be turned over to, and become the responsibility of, Buyer. During the period from the Execution Date to Closing, Seller shall:   
+
+
+ 
+(i)
+to the extent the operator of the Assets allows, permit Buyer to have access for inspection as to any of the Assets; 
+ 
+
+
+ 
+(ii)
+except for emergency action taken in the face of risk to life, property or the environment, shall not, without prior written consent of Buyer (which shall not be
+unreasonably withheld) approve or authorize any AFEs or capital expenditures over One Hundred Thousand Dollars ($100,000) net to the interest of Seller which is received by Seller with respect to any Assets; 
+ 
+
+
+ 
+(iii)
+not incur costs for discretionary expenditures for operations in excess of One Hundred Thousand Dollars ($100,000) net to the interest of Seller for which AFEs are not
+prepared;   
+
+
+ 
+(iv)
+operate, or if Seller is not the operator, use reasonable efforts to ensure that the operator operates the Assets and produces Hydrocarbons therefrom in its ordinary
+course of business and in accordance with applicable industry standards and the terms and conditions of all applicable Contracts, laws and regulations;   
+
+
+ 
+(v)
+not transfer, sell, hypothecate, encumber, abandon or otherwise dispose of any portion of the Assets (other than the sale of Hydrocarbons in the ordinary course of
+business or as required in connection with the exercise by third-parties of Preferential Purchase Rights); 
+   -33-
+
+
+
+
+
+
+
+
+
+ 
+(vi)
+assist the Buyer (without incurring any third party expenses) in preserving the present relationships related to the Assets with Persons having significant business
+relations therewith, such as suppliers, customers, brokers, agents or otherwise;   
+
+
+ 
+(vii)
+take any and all actions necessary to ensure that the Assets are free and clear of all liens and encumbrances as of Closing; 
+ 
+
+
+ 
+(viii)
+not waive, compromise or settle any material right or claim if such waiver, compromise or settlement would adversely affect the use, ownership or operation of any of
+the Assets in any material respect, and   
+
+
+ 
+(ix)
+maintain (or cause to be maintained) insurance coverage on the Assets in the amounts and of the types presently in force and effect and not make any election to be
+excluded from any coverage provided by an operator for the joint account under an applicable joint operating agreement;   
+
+
+ 
+(x)
+not incur any indebtedness or take, or fail to take, any actions that would cause a lien or encumbrance to arise or exist on the Assets or otherwise allow a lien to
+attach to, or encumber, the Assets or any thereof;   
+
+
+ 
+(xi)
+pay royalties in the same manner as royalties were paid for such Asset prior to the Effective Time; and 
+ 
+
+
+ 
+(xii)
+cause the Assets to be maintained in accordance with the terms and conditions of the applicable Contracts and applicable laws and regulations and consistent with past
+practices, and consult with Buyer with respect to same.   
+
+
+ 
+14.2
+Liability of Operator - Notwithstanding Section 14.1, Seller shall not be liable to Buyer for any claims, demands, causes of action, damages, or
+liabilities arising out of Sellers operation of the Assets pursuant to Section 14.1 after the Effective Time, insofar as Seller continues to operate and maintain the Assets in accordance with the terms of this Agreement and as a
+reasonable and prudent operator, insofar as no such Claims, demands, causes of action, damages, or liabilities relating to such interim operation are attributable to the gross negligence or willful misconduct of Seller. 
+ 
+
+
+ 
+14.3
+Removal of Signs - Buyer shall promptly, but no later than required by applicable rules and regulations or thirty (30) days thereafter, whichever is
+earlier, remove any signs and references to Seller and shall erect or install all signs complying with any applicable governmental rules and regulations, including, but not limited to, those showing the Buyer as operator of the Assets.
+
+   -34-
+
+
+
+
+
+
+
+
+
+ 
+14.4
+Third-Party Notifications - Buyer shall make all notifications to all Governmental Authorities, one call services and similar groups associated with
+the operation of the Assets within ten (10) days of Closing. A copy of all such notifications shall be provided to Seller pursuant to the notice provisions contained in Article 18 hereof. 
+ 
+
+
+ 
+14.5
+Additional Interests - Seller is currently negotiating with certain third parties concerning acquiring their interests in the Assets (the Third Party
+Interest). In the event Seller acquires said Third Party Interest prior to Closing, the Parties shall amend this Agreement to reflect the addition of said Third Party Interest to the Assets. In such an event, the Base Purchase Price for
+the Assets shall be increased to reflect the additional Third Party Interest acquired by Seller.  ARTICLE 15
+  
+
+
+15.
+EXCHANGE PROVISION 
+Seller and Buyer, respectively, shall have the right, prior to Closing, to elect to effect a tax-deferred exchange under Internal Revenue
+Code Section 1031 (a Tax Deferred Exchange) for the Assets at any time prior to Closing. If such Party elects to affect a Tax-Deferred Exchange, the other Party agrees to execute escrow instructions, documents, agreements or
+instruments to affect the exchange; provided, however, that the other Party shall incur no additional costs, expenses, fees or liabilities as a result of or connected with the exchange. Seller and Buyer, as the case may be, may assign
+any of its rights and delegate performance of any of its duties under this Agreement in whole or in part to a third party in order to effect such an exchange; provided, however, that such Seller and/or Buyer shall remain responsible to
+the other Party for the full and prompt performance of its respective delegated duties. The electing Party shall indemnify and hold the other Party and its affiliates harmless from and against all claims, expenses (including reasonable
+attorneys fees), loss and liability resulting from its participation in any exchange undertaken pursuant to this Article 15 pursuant to the request of the electing Party. 
+ARTICLE 16   
+
+
+16.
+ASSUMPTION OF LIABILITY AND GENERAL INDEMNIFICATION   
+
+
+ 
+16.1
+Definitions - For purposes of this Article 16 and all other provisions of this Agreement which contain an indemnification provision, the term
+Buyer Group shall be deemed to include Buyer and its affiliates, all successors, heirs and assigns of Buyer and its affiliates, and the officers, directors, members, managers, shareholders, employees, representatives, co-owners,
+contractors, subcontractors, or agents of any of the foregoing. For purposes of this Article 16 and all other provisions of this Agreement which contain an indemnification provision, the term Seller Group shall be deemed to
+include Seller and its affiliates, all successors, heirs and assigns of Sellers and its affiliates, and the officers, directors, members, managers, shareholders, employees, representatives, co-owners, contractors, subcontractors, or agents of any of
+the foregoing. 
+   -35-
+
+
+
+
+
+
+
+
+
+ 
+16.2
+Buyers Assumption of Obligations   
+
+
+ 
+16.2.1
+Assumed Obligations - Subject to Closing occurring, and further subject to the Sellers indemnification provisions of Section 16.4, Buyer hereby
+assumes and agrees to fulfill, perform, pay and discharge (or cause to be fulfilled, performed, paid or discharged):   
+
+
+ 
+(a)
+all of the obligations, liabilities and Claims of the Seller, known or unknown, with respect to the Assets, but only insofar as the same arise on, or after, and are
+attributable to actions, occurrences and operations conducted from and after, the Effective Time, including, but not limited to,   
+
+
+ 
+(i)
+the payment and/or performance of all taxes, leasehold and equipment rentals and release payments, royalties, excess royalties, in-lieu royalties, overriding royalty
+interests, production payments, net profit obligations, carried working interests and any other matters with which the Assets may be burdened, insofar as the same are attributable to the periods from and after the Effective Time;
+  
+
+
+ 
+(ii)
+claims for damages to or property owned by a third party or for personal injury, illness, bodily injury, or death of any person arising from and after the Effective
+Time;   
+
+
+ 
+(iii)
+any other claims arising, directly or indirectly from, or incident to, the use, occupation, operation (including but not limited to royalty and accounting claims or
+production or pipeline imbalances) or maintenance of any of the Assets arising or occurring from and after the Effective Time; and   
+
+
+ 
+(b)
+all of those liabilities and obligations described in Section 16.2.2 and 
+ 
+
+
+ 
+(c)
+following the expiration of Sellers indemnity obligations as set forth in Section 16.4, any and all duties and obligations or claims which would fall
+under Sections 16.4(iii) through (vi), inclusive, whether arising before, on or after the Effective Time   
+
+
+ 
+    
+(collectively (a), (b) and (c) shall be referred to as the Assumed Obligations. 
+   -36-
+
+
+
+
+
+
+
+
+
+ 
+16.2.2
+Environmental Assumed Obligations  Subject to Closing occurring, and further subject to the Seller indemnification provisions of Section 16.4:
+  
+
+
+ 
+(i)
+THE ASSUMED OBLIGATIONS SHALL INCLUDE, AND BUYER, FROM AND AFTER THE CLOSING ACCEPTS SOLE RESPONSIBILITY FOR AND AGREES TO PAY, ALL COSTS AND EXPENSES INCURRED FROM AND
+AFTER THE EFFECTIVE TIME AND ASSOCIATED WITH PLUGGING AND ABANDONMENT OF ALL WELLS, DECOMMISSIONING OF ALL FACILITIES AND PLATFORMS, AND CLEARING AND RESTORATION OF ALL SITES, IN EACH CASE INCLUDED IN, OR ASSOCIATED WITH, THE ASSETS, AND BUYER MAY
+NOT CLAIM THE FACT THAT PLUGGING AND ABANDONMENT, DECOMMISSIONING, SITE CLEARANCE OR RESTORATION OPERATIONS ARE NOT COMPLETE OR THAT ADDITIONAL COSTS AND EXPENSES ARE REQUIRED TO COMPLETE ANY SUCH OPERATIONS AS A BREACH OF SELLERS
+REPRESENTATIONS OR WARRANTIES MADE HEREUNDER OR THE BASIS FOR ANY OTHER REDRESS AGAINST SELLER.   
+
+
+ 
+(ii)
+THE ASSUMED OBLIGATIONS SHALL INCLUDE, AND BUYER, FROM AND AFTER THE CLOSING ACCEPTS SOLE RESPONSIBILITY FOR AND AGREES TO PAY, ANY AND ALL COSTS AND EXPENSES ARISING
+OUT OF ENVIRONMENTAL LAWS (INCLUDING, WITHOUT LIMITATION, ANY COMPLIANCE OR NON-COMPLIANCE THEREWITH, ANY ADVERSE ENVIRONMENTAL CONDITIONS, AND THE DISPOSAL, RELEASE, DISCHARGE OR EMISSION OF HYDROCARBONS, HAZARDOUS SUBSTANCES, HAZARDOUS WASTES,
+HAZARDOUS MATERIALS, SOLID WASTES OR POLLUTANTS INTO THE ENVIRONMENT), KNOWN OR UNKNOWN, WITH RESPECT TO THE ASSETS, REGARDLESS OF WHETHER SUCH OBLIGATIONS OR LIABILITIES AROSE PRIOR TO, ON, OR AFTER THE EFFECTIVE TIME. BUYER EXPRESSLY AGREES TO
+ASSUME THE RISK THAT THE ASSETS MAY CONTAIN WASTE MATERIALS, INCLUDING, WITHOUT LIMITATION, NORM, HAZARDOUS SUBSTANCES, HAZARDOUS WASTES, HAZARDOUS MATERIALS, SOLID WASTES, OR OTHER POLLUTANTS. 
+ 
+
+
+ 
+16.2.3
+Full Understanding - Buyer covenants and agrees that it shall not attempt to avoid the effect of the indemnification made by it above by later arguing that at
+the time of the indemnification it did not fully appreciate the extent of any such claims. 
+   -37-
+
+
+
+
+
+
+
+
+
+ 
+16.3
+Buyers General Indemnity - Buyer shall, upon Closing, defend, indemnify, release and hold Seller Group harmless from and against any and all Claims in
+favor of any person arising from or relating to:   
+
+
+ 
+(i)
+Buyers breach of any of its representations and warranties in this Agreement, 
+ 
+
+
+ 
+(ii)
+Buyers breach of any of its covenants in and under this Agreement, and 
+ 
+
+
+ 
+(iii)
+the Assumed Obligations,   
+
+
+ 
+  
+REGARDLESS OF WHETHER ANY OF SUCH CLAIMS MAY BE ATTRIBUTABLE, IN WHOLE OR IN PART, TO THE STRICT LIABILITY OR NEGLIGENCE OF SELLER GROUP, BUYER OR THIRD PARTIES,
+WHETHER SUCH NEGLIGENCE IS ACTIVE OR PASSIVE, JOINT OR CONCURRENT, EXCLUDING ANY SOLE OR GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF SELLER GROUP.   
+
+
+ 
+16.4
+Sellers General Indemnity - Seller shall, upon Closing, defend, indemnify, release and hold Buyer Group harmless from and against any and all Claims in
+favor of any person arising from or related to:   
+
+
+ 
+(i)
+Sellers breach of any of its representations and warranties in this Agreement; 
+ 
+
+
+ 
+(ii)
+Sellers breach of any of its covenants in and under this Agreement;   
+
+
+
+ 
+(iii)
+subject to the provisions of Article 8, any and all duties and obligations of Sellers, express or implied with respect to the Assets, or the use, ownership,
+operation or disposition of the Assets arising before (or otherwise attributable to periods, or to actions, occurrences or operations conducted prior to) the Effective Time under any theory of liability, including, without limitation, by virtue of
+the Leases, Easements, Contracts and/or any permit, applicable statute, rule, regulation or order of any Governmental Authority;   
+
+
+ 
+(iv)
+subject to the provisions of Article 8, any Claims for damage to or property owned by a third party or for personal injury, illness, bodily injury, or death of
+any person arising before the Effective Time; 
+   -38-
+
+
+
+
+
+
+
+
+
+ 
+(v)
+any other Claims arising directly or indirectly from, or incident to, the use, occupation, operation (including, but not limited to, royalty and accounting Claims) or
+maintenance of any of the Assets, and arising or accruing prior to the Effective Time;   
+
+
+ 
+(vi)
+the failure of Sellers to properly pay when due all Taxes, royalties, overriding royalties, production payments, and working interest payments relating to the Assets
+and attributable to periods prior to the Effective Time; and   
+
+
+ 
+(vii)
+any liability or obligation relating to any pending lawsuits, arbitrations or similar proceedings; 
+REGARDLESS OF WHETHER ANY OF SUCH CLAIMS MAY BE ATTRIBUTABLE, IN WHOLE OR IN PART, TO THE STRICT LIABILITY OR NEGLIGENCE OF BUYER
+GROUP, SELLER OR THIRD PARTIES, WHETHER SUCH NEGLIGENCE IS ACTIVE OR PASSIVE, JOINT OR CONCURRENT, EXCLUDING ANY SOLE OR GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF BUYER GROUP; PROVIDED, HOWEVER, THAT SELLERS OBLIGATION TO
+INDEMNIFY BUYER PURSUANT TO SECTIONS 16.4(i)-(vi) ABOVE SHALL APPLY ONLY FOR A PERIOD OF ONE (1) YEAR FOLLOWING THE CLOSING DATE. THEREAFTER, BUYER SHALL, PURSUANT TO SECTION 16.3, ASSUME RESPONSIBILITY FOR, AND SHALL ALSO AGREE TO
+PROTECT, DEFEND, INDEMNIFY AND HOLD SELLER GROUP HARMLESS FROM AND AGAINST ANY AND ALL CLAIMS ARISING IN FAVOR OF ANY PERSON FOR PERSONAL INJURY, DEATH, DAMAGE TO PROPERTY OR FOR ANY OTHER CLAIMS ARISING DIRECTLY OR INDIRECTLY FROM, OR INCIDENT TO,
+THE USE, OCCUPATION, OPERATION OR MAINTENANCE OF ANY OF THE ASSETS OR ANY OTHER CLAIMS WHICH WOULD OTHERWISE BE SUBJECT TO SELLERS GENERAL INDEMNITY UNDER SECTIONS 16.4(i) THROUGH (vi). 
+ 
+
+
+ 
+16.5
+Limitation on Indemnification - Notwithstanding anything to the contrary contained herein, Seller shall have no obligation to indemnify Buyer unless, and then
+only to the extent that, (i) any individual claim exceeds Fifty Thousand Dollars ($50,000) per item and (ii) the aggregate Losses to which Buyer would be entitled to indemnification (but for the provision of this Section 16.5)
+exceed a deductible equal to one percent (1%) of the Base Purchase Price. Notwithstanding anything to the contrary contained herein, Sellers aggregate liability for the indemnification under Section 16.4(i)-(vi) above
+shall not exceed fifty percent (50%) of the Base Purchase Price. 
+   -39-
+
+
+
+
+
+
+
+
+
+ 
+16.6
+Further Limitation on Indemnification - Neither Party shall have any obligation under Article 16 with respect to any amount which has already been taken
+into account and applied to or against the Base Purchase Price in the Closing Settlement Statement or the Post Closing Statement, provided such Party has paid all amounts due pursuant to this Agreement. 
+ 
+
+
+ 
+16.7
+Indemnification Procedures   
+
+
+ 
+16.7.1
+General - All claims for indemnification under this Agreement shall be asserted and resolved pursuant to this Section 16.7. Any person claiming
+indemnification hereunder is hereinafter referred to as the Indemnified Party and any person against whom such claims are asserted hereunder is hereinafter referred to as the Indemnifying Party.
+  
+
+
+ 
+16.7.2
+Claim Notice - In the event that a Party wishes to assert a claim for indemnity hereunder, such Party shall with reasonable promptness provide to the
+Indemnifying Party a written notice of the indemnity claim it wishes to assert on behalf of itself or another Indemnified Party, including the specific details of and specific basis under this Agreement for its indemnity claim (a Claim
+Notice). To the extent any Losses for which indemnification is sought are asserted against or sought to be collected from an Indemnified Party by a third party, such Claim Notice shall include a copy of all papers served on the applicable
+Indemnified Party with respect to such claim.   
+
+
+ 
+16.7.3
+Notice Period - The Indemnifying Party shall have thirty (30) days from the personal delivery or receipt of the Claim Notice (the Notice
+Period) to notify the Indemnified Party (i) whether or not it disputes its liability hereunder with respect to such Losses and/or (ii) with respect to any Losses arising out of, associated with, or relating to third party claims,
+whether or not it desires, at the sole cost and expense of the Indemnifying Party, to defend the Indemnified Party against any such Losses. In the event that the Indemnifying Party notifies the Indemnified Party within the Notice Period that it
+desires to defend the Indemnified Party against such Losses, the Indemnifying Party shall have the right to defend all appropriate proceedings with counsel of its own choosing. If the Indemnified Party desires to participate in, but not control, any
+such defense or settlement it may do so at its sole cost and expense.   
+
+
+ 
+16.7.4
+ Cooperation - If requested by the Indemnifying Party, the Indemnified Party agrees to cooperate with the Indemnifying Party and its counsel in
+contesting any Losses that the Indemnifying Party elects to contest or, if appropriate and related to the claim in question, in making any counterclaims against the third party asserting such Losses, or any cross-complaint against any third party
+(other than a Seller Indemnified Party, if the Indemnified Party is a Seller Indemnified Party; and other than 
+   -40-
+
+
+
+
+
+
+
+
+
+ 
+
+a Buyer Indemnified Party, if the Indemnified Party is a Buyer Indemnified Party). Such cooperation shall include the retention and provision to the Indemnifying Party of all records and other
+information that are reasonably relevant to the losses at issue.   
+
+
+ 
+16.7.5
+Settlement - No third party claim that is the subject of indemnification hereunder may be settled or otherwise compromised without the prior written consent of
+the Indemnifying Party. No such claim may be settled or compromised by the Indemnifying Party without the prior written consent of the Indemnified Party unless such settlement or compromise (i) entails a full and unconditional release of the
+Indemnified Party (and any other members of the Indemnified Partys group, i.e., all Seller Indemnified Parties or all Buyer Indemnified Parties) without any admission or finding of fault or liability and (ii) does not impose on the
+Indemnified Party any material non-financial obligation or any financial obligation that is not fully paid by the Indemnifying Party.  ARTICLE 17   
+
+
+17.
+CASUALTY LOSS  If prior
+to Closing any of the Assets are substantially damaged or destroyed by fire or other casualty (Casualty Defect), Seller shall notify Buyer promptly after Seller learns of such event. Seller shall have the right, but not the
+obligation, to cure any such Casualty Defect by repairing such damage or, in the case of Equipment, replacing the damaged Equipment with equivalent items, no later than the Closing, insofar as the same are done to Buyers reasonable
+satisfaction. If any Casualty Defect exists at Closing, at Sellers option, Buyer shall proceed to purchase the damaged Assets, and the Base Purchase Price shall be reduced by the aggregate reduction in value of all affected Assets on account
+of such Casualty Defect. In the event the parties cannot agree on the value, the dispute shall be resolved in accordance with the dispute resolution provisions set forth in Section 20.3. Notwithstanding any of the preceding provisions of
+this Article 17, all adjustments applicable to Casualty Defects shall be made prior to Closing which Closing shall be extended until resolution of any disputes relating to the Casualty Defects; provided, however, that if
+adjustments for alleged Title Defects, Casualty Defects and Open Defects do not, in the aggregate, exceed the Termination Threshold, then Closing shall occur as to the other Assets that are not subject to the dispute (with the portion of the Assets
+subject to the dispute being excluded, and the Base Purchase Price reduced for the entire Allocated Values thereof) and Closing shall subsequently close and consummate the transaction as to the Assets made the subject of the dispute within thirty
+(30) days following the final resolution of the dispute. Notwithstanding anything to the contrary contained in this Article 17, Seller shall be entitled to retain all insurance proceeds, if any, and claims against other parties relating
+to any such Casualty Defect. For purposes of this provision, normal wear and tear shall not be considered a Casualty Defect. 
+   -41-
+
+
+
+
+
+
+ ARTICLE 18 
+ 
+
+
+18.
+NOTICES  All
+communications between Buyer and Seller required or permitted under this Agreement shall be in writing, and any communication or delivery hereunder shall be deemed to have been fully made if actually delivered, by facsimile transmission, by
+electronic mail (return receipt required) or if mailed by registered or certified mail, postage prepaid, to the address as set forth below:   
+
+
+
+
+
+
+
+
+ BUYER
+  
+ SELLER
+
+
+
+
+
+
+ MID-CON ENERGY PROPERTIES, LLC
+  
+SAMSON RESOURCES COMPANY
+
+ 2501 N. Harwood, Suite 2410
+  
+Two West Second Street
+
+ Dallas, Texas 75201
+  
+Tulsa, Oklahoma 74103-3103
+
+ Attention: Nathan Pekar
+  
+Attention: Scott Rowland
+
+ Phone: 972-479-5980
+  
+Phone: 918-591-1221
+
+ Fax: 469-206-6823
+  
+Fax: 918-591-7221
+
+ Email: npekar@midcon-energy.com
+  
+Email: srowland@samson.com
+
+
+
+
+ with a copy to:
+  
+with a copy to:
+
+
+
+
+ MID-CON ENERGY OPERATING, INC.
+  
+SAMSON RESOURCES COMPANY
+
+ 2431 E.61st Street
+  
+Two West Second Street
+
+ Tulsa, Oklahoma 74136
+  
+Tulsa, Oklahoma 74103-3103
+
+ Attention: Randy Olmstead
+  
+Attention: Annabel M. Jones
+
+ Phone:918-743-7575
+  
+Phone: 918-591-1006
+
+ Fax:918-743-8859
+  
+Fax: 918-591-7006
+
+ Email: rolmstead@midcon-energy.com
+  
+Email: ajones@samson.com
+ ARTICLE 19   
+
+
+19.
+TERMINATION   
+
+
+ 
+19.1
+Termination - This Agreement and the transactions contemplated hereby may be terminated at any time prior to the Closing: 
+ 
+
+
+ 
+(a)
+by the mutual written agreement of Buyer and Seller;   
+
+
+ 
+(b)
+by written notice from either Buyer or Seller if Closing has not occurred on or before December 4, 2012; provided, however, that no Party may
+terminate this Agreement pursuant to this Section 19.1(b) if such Partys breach of its representations and warranties or its failure to comply with its obligations or covenants under this Agreement caused the Closing not to occur
+on or before the above date; or 
+   -42-
+
+
+
+
+
+
+
+
+
+ 
+(c)
+by written notice from either Buyer or Seller if the aggregate sum of (i) the Title Defect amounts for all Title Defects timely and properly asserted pursuant to
+Article 7, and (ii) the Casualty Defect amounts pursuant to Article 17 exceed the Termination Threshold.   
+
+
+ 
+19.2
+Liabilities Upon Termination; Deposit Amount - If this Agreement terminates, as described in Section 19.1 above, then the entire Deposit, plus the
+actual interest earned thereon, shall be returned and paid to Buyer and all obligations of the Parties under this Agreement shall thereafter terminate and be of no further force and effect, except that the provisions of Sections 20.4 and 20.5
+shall survive; provided, however, that if this Agreement is terminated because of either:   
+
+
+ 
+(a)
+a willful or intentional breach of this Agreement by the Seller or because Buyers conditions to Closing are not satisfied as a result of Sellers willful or
+intentional failure to comply with its obligations under this Agreement (and, as a result, Buyer elects to terminate this Agreement under Section 19.1(b) above), then Buyer shall be entitled to the immediate return of the Deposit, plus
+the actual interest earned thereon, and shall also be entitled to pursue all remedies available at law for damages or other relief, in equity or otherwise; or 
+ 
+
+
+ 
+(b)
+a willful or intentional breach of this Agreement by Buyer or because Sellers conditions to Closing are not satisfied as a result of Buyers willful or
+intentional failure to comply with its obligations under this Agreement (and, as a result, Seller elects to terminate this Agreement under Section 19.1(b) above), then Seller shall be entitled to retain the Deposit, plus the actual
+interest earned thereon as liquidated damages (and the parties hereby acknowledge that the extent of damages to Seller occasioned by such breach or default or failure to proceed by Buyer would be impossible or extremely impractical to ascertain and
+that the Deposit, plus the actual interest earned thereon, is a fair and reasonable estimate of such damage), and pursue its right to obtain specific performance pursuant to Section 20.11. 
+   -43-
+
+
+
+
+
+
+ ARTICLE 20 
+ 
+
+
+20.
+MISCELLANEOUS   
+
+
+ 
+20.1
+Entire Agreement - This Agreement and all Exhibits and Schedules attached hereto and incorporated herein constitute the entire agreement among the Parties. Any
+previous negotiations or communications among the Parties are merged herein.   
+
+
+ 
+20.2
+Survival - This Agreement shall be binding upon and shall inure to the benefit of the undersigned, their successors, heirs, assigns and corporate successors and
+may be supplemented, altered, amended, modified, or revoked by writing only, signed by both Parties. The representations made by Seller and Buyer under Articles 5 and 6 shall continue in full force and effect for a period of six
+(6) months from and after the Closing Date. All other representations, promises, agreements, releases, and indemnities made in this Agreement or in the Conveyances shall survive Closing. 
+ 
+
+
+ 
+20.3
+Selected Arbitration - Any disputes under Sections 7.4.3, 11.3, and 17 that specifically refer to this Section 20.3 shall be resolved by
+arbitration to be conducted in Oklahoma City, Oklahoma, by a single arbitrator (i) for title matters under Section 7.4(c) who shall be a title attorney, in good standing, with at least ten (10) years experience in oil and gas
+title involving properties in the regional area in which the Assets are located, or (ii) for matters under Sections 11.3 or 17 shall be an oil and gas attorney with at least ten (10) years experience in the regional area in which
+the Assets are located, who in each case shall be selected by mutual agreement of Buyer and Seller within fifteen (15) Business Days after referral of the disputed matter to arbitration, and absent such agreement, by the Oklahoma City office of
+the American Arbitration Association (the Defect Arbitrator). The Defect Arbitrator shall not have been employed by or performed services to any of the Sellers or Buyer for a period of five (5) years prior to the Closing
+Date. The arbitration proceeding shall be conducted in accordance with the Commercial Arbitration Rules of the American Arbitration Association, to the extent such rules do not conflict with the terms of this Section 20.3. The Defect
+Arbitrators determination shall be made within fifteen (15) Business Days after submission of the matters in dispute and shall be final and binding upon the Parties, without right of appeal. Additionally, the Defect Arbitrator may consult
+with and engage disinterested third parties to advise the arbitrator, including without limitation petroleum engineers. The Defect Arbitrator shall act as an expert for the limited purpose of determining the specific dispute referred to the Defect
+Arbitrator and may not award damages, interest or penalties to any Party with respect to any matter. Seller and Buyer shall each bear their own respective legal fees and other 
+   -44-
+
+
+
+
+
+
+ 
+costs of presenting this case. Seller, on one part, and Buyer, on the other part, shall bear one-half of the costs and expenses of the Defect Arbitrator, including any costs incurred by the
+Defect Arbitrator that are attributable to such third party consultation. Except as expressly set forth above, no other dispute under this Agreement shall be resolved by arbitration, except by the mutual agreement of the Parties. 
+ 
+
+
+ 
+20.4
+Confidentiality - This Agreement, the terms and provisions hereof and all information associated with the Assets, including the Base Purchase Price, shall be
+maintained confidential by Buyer Group until Closing; provided, however, that this Agreement and the terms and provisions hereof may be disclosed by Buyer Group (i) to its lenders, bankers and lawyers if any, and any consultants
+who are assisting Buyer Group with this transaction to the extent such lenders, bankers, lawyers and consultants agree to keep such information confidential and (ii) to the extent necessary to comply with applicable laws, including, without
+limitation, governmental regulatory, disclosure, tax and reporting requirements, including but not limited to the Securities Act of 1933 or the Exchange Act of 1934, each as amended. In the event of termination of this Agreement pursuant to
+Article 19, Buyer Group agrees to keep all of the terms of this transaction confidential for a period of one (1) year following the termination of this Agreement except as otherwise required by applicable law, regulation or legal process
+or as required pursuant to a Preferential Purchase Right notice or similar provision.   
+
+
+ 
+20.5
+Choice of Law - THIS AGREEMENT AND ITS PERFORMANCE SHALL BE CONSTRUED IN ACCORDANCE WITH, AND GOVERNED BY, THE LAWS OF THE STATE OF OKLAHOMA.
+  
+
+
+ 
+20.6
+Assignment - The rights and obligations under this Agreement may not be assigned prior to Closing by any Party without the prior written consent of the other
+Party.   
+
+
+ 
+20.7
+No Admissions - Neither this Agreement, nor any part hereof, nor any performance under this Agreement shall constitute or be construed as a finding, evidence of,
+or an admission or acknowledgment of any liability, fault, or past or present wrongdoing, or violation of any law, rule, regulation, or policy, by either Seller or Buyer or by their respective officers, directors, employees, or agents.
+  
+
+
+ 
+20.8
+Amendments - Except for waivers specifically provided for in this Agreement, this Agreement may not be amended nor any rights hereunder waived except by an
+instrument in writing 
+   -45-
+
+
+
+
+
+
+ 
+signed by the Party to be charged with such amendment or waiver and delivered by such Party to the other Party claiming the benefit of such amendment or waiver. 
+ 
+
+
+ 
+20.9
+Counterparts This Agreement may be executed by Buyer and Seller in any number of counterparts, each of which shall be deemed an original instrument, but all of
+which together shall constitute one and the same instrument. Execution can be evidenced by facsimile transmission of signatures pages with original signature pages to promptly follow in due course. 
+ 
+
+
+ 
+20.10
+Third-Party Beneficiaries - Neither this Agreement nor any performances hereunder by Seller or Buyer shall create any right, claim, cause of action, or remedy on
+behalf of any person not a party hereto.   
+
+
+ 
+20.11
+Specific Performance - Subject to the provisions of Article 19, Buyer and Sellers acknowledge and agree that Seller or Buyer would be irreparably damaged if any
+of the provisions of this Agreement are not performed in accordance with their specific terms and that any breach of this Agreement by the other party could not be adequately compensated in all cases by monetary damages alone. Accordingly, in
+addition to any other right or remedy to which Seller and Buyer may be entitled, at law or in equity, they shall be entitled to enforce any provision of this Agreement by a decree of specific performance. 
+ 
+
+
+ 
+20.12
+Public Communications - After the Execution Date, either Party may make a press release or public communication concerning this transaction; provided,
+however, any such press release or public communication is subject to the other Partys prior review and written approval, which approval will not be unreasonably withheld; provided further, however, that; if Buyer, on the
+one hand, or Seller, on the other is required by law or the rules of the New York Stock Exchange or NASDAQ to make such public announcement or statement, then the same may be made without the approval of the other Parties. 
+ 
+
+
+ 
+20.13
+Headings - The headings of the Articles and Sections of this Agreement are for guidance and convenience of reference only and shall not limit or otherwise affect
+any of the terms or provisions of this Agreement. 
+   -46-
+
+
+
+
+
+
+
+
+
+ 
+20.14
+Expenses - Each of the Parties hereto shall pay its own fees and expenses incident to the negotiation and preparation of this Agreement and consummation of the
+transaction contemplated hereby, including brokers fees. Buyer shall be responsible for the cost of all fees for the recording of the Conveyances relating to the Assets. All other costs shall be borne by the Party incurring them.
+  
+
+
+ 
+20.15
+Waiver of Consumer and Other Rights - Seller and Buyer intend that Buyers rights and remedies with respect to the transaction contemplated by this
+Agreement and with respect to all acts or practices of Seller, past, present or future, in connection with the transaction contemplated by this Agreement shall be governed by legal principles other than the Texas Deceptive Trade Practices Consumer
+Protection Act, Tex. Bus. & Com. Code Ann. §17.41, et seq. (Vernon 1987) (the DTPA) or similar laws in other states. BUYER WAIVES IT RIGHTS UNDER THE DTPA SPECIFICALLY INCLUDING SECTION 17.41 ET. SEQ., VERNONS
+TEXAS CODE ANNOTATED, BUSINESS AND COMMERCE, A LAW THAT GIVES CONSUMERS SPECIAL RIGHTS AND PROTECTIONS, OR ANY SIMILAR STATE OR FEDERAL LAW. AFTER AN OPPORTUNITY TO CONSULT WITH AN ATTORNEY OF ITS OWN SELECTION, BUYER ACKNOWLEDGES THAT THE
+DISCLAIMERS AND WAIVERS GIVEN IN AND UNDER THIS AGREEMENT SHALL BE CONSIDERED MATERIAL AND INTEGRAL PARTS OF THIS AGREEMENT, WITH CONSIDERATION GIVEN THEREFORE, AND ACKNOWLEDGES THAT ALL DISCLAIMERS AND WAIVERS ARE CONSPICUOUS AND HAVE
+BEEN BROUGHT TO THE ATTENTION OF BUYER, AND THAT BUYER HAS VOLUNTARILY AND KNOWINGLY CONSENTED TO ALL DISCLAIMERS AND WAIVERS. Buyer hereby warrants and represents to Seller, as of the date hereof and as of the Closing Date, that (i) Buyer is
+not in a significantly disparate bargaining position, (ii) Buyer has been represented by legal counsel in connection with the transaction contemplated by this Agreement, which transaction does not involve the purchase or lease of a family
+residence occupied or to be occupied as a residence, and which transaction is for a consideration paid or to be paid that exceeds $500,000.00 and (iii) Buyer is a business consumer with assets of $5,000,000.00 or more according to Buyers
+most recent financial statement prepared in accordance with GAAP and has knowledge and experience in financial and business matters that enable Buyer to evaluate the merits and risks of the transaction. Buyer acknowledges that the Purchase Price is
+predicated upon this waiver of the DTPA and similar laws in other states and the inapplicability of the DTPA and similar laws in other states and Buyers representations and warranties contained in this Section 20.15, and the
+Seller, in determining to proceed with entering into this Agreement, have expressly relied upon this waiver and the inapplicability of the DTPA and similar laws in other states and Buyers representations and warranties contained in this
+Section 20.15. 
+   -47-
+
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties have executed this Agreement on the date first written
+above.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELLER
+ 
+
+  
+BUYER
+
+
+
+
+
+SAMSON RESOURCES COMPANY
+ 
+
+  
+MID-CON ENERGY PROPERTIES, LLC
+
+
+
+
+
+
+
+By:
+ 
+/s/ Scott Rowland
+ 
+
+  
+By:
+  
+/s/ Nathan P. Pekar
+
+Name:
+ 
+Scott Rowland
+ 
+
+  
+Name: Nathan P. Pekar
+
+Title:
+ 
+Attorney-in-Fact
+ 
+
+  
+Title: Vice President of Business Development and General Counsel
+
+   -48-
+
+
+
+

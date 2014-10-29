@@ -1,0 +1,2053 @@
+
+EX-10.1
+2
+h85469exv10w1.htm
+EX-10.1
+
+
+
+exv10w1
+
+
+
+
+
+
+Exhibit 10.1
+
+
+
+AGREEMENT AND AMENDMENT NO. 4
+
+
+
+     This AGREEMENT AND AMENDMENT NO. 4 (Agreement) dated as of November 7, 2011
+(Effective Date) is among Alta Mesa Holdings, LP, a Texas limited partnership
+(Borrower), the affiliates of the Borrower party hereto (the Guarantors), the
+Lenders (as defined below), and Wells Fargo Bank, N.A. as administrative agent for such Lenders (in
+such capacity, the Administrative Agent) and as issuing lender (in such capacity, the
+Issuing Lender).
+
+
+RECITALS
+
+
+
+     A. The Borrower is party to that certain Sixth Amended and Restated Credit Agreement dated as
+of May 13, 2010 among the Borrower, the lenders party thereto from time to time (the
+Lenders), the Administrative Agent, and the Issuing Lender, as amended by that certain
+Amendment No. 1 dated as of September 2, 2010, that certain Agreement and Amendment No. 2 dated as
+of December 6, 2010, and that certain Agreement and Amendment No. 3 dated as of May 23, 2011, each
+among the Borrower, the Guarantors, the Lenders, the Administrative Agent and the Issuing Lender
+(as so amended, the Credit Agreement).
+
+
+     B. The parties hereto wish to, subject to the terms and conditions of this Agreement, (i)
+redetermine and increase the Borrowing Base (as defined in the Credit Agreement) and (ii) make
+certain other amendments to the Credit Agreement as provided herein.
+
+
+     NOW THEREFORE, in consideration of the benefits to be derived by the parties hereto and other
+good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the
+parties hereto agree as follows:
+
+
+     Section 1. Defined Terms; Other Provisions. As used in this Agreement, each
+of the terms defined in the opening paragraph and the Recitals above shall have the meanings
+assigned to such terms therein. Each term defined in the Credit Agreement and used herein without
+definition shall have the meaning assigned to such term in the Credit Agreement, unless expressly
+provided to the contrary. Article, Section, Schedule, and Exhibit references are to Articles and
+Sections of and Schedules and Exhibits to this Agreement, unless otherwise specified. The words
+hereof, herein, and hereunder and words of similar import when used in this Agreement shall
+refer to this Agreement as a whole and not to any particular provision of this Agreement. The term
+including means including, without limitation,. Paragraph headings have been inserted in this
+Agreement as a matter of convenience for reference only and it is agreed that such paragraph
+headings are not a part of this Agreement and shall not be used in the interpretation of any
+provision of this Agreement.
+
+
+     Section 2. Agreement  Borrowing Base. Subject to the terms of this
+Agreement, as of the Effective Date, the Borrowing Base shall be increased by $65,000,000 (the
+Increase Amount) resulting in a new Borrowing Base equal to $325,000,000. Such Borrowing
+Base shall remain in effect at such level until the Borrowing Base is redetermined in accordance
+with Section 2.02 of the Credit Agreement, as amended hereby. The Borrower and the Lenders hereby
+acknowledge and agree that the redetermination of the Borrowing Base set forth in this Section 2 is
+the scheduled semi-annual redetermination of the Borrowing Base scheduled for Fall, 2011 under
+Section 2.02 of the Credit Agreement. Each Lenders Pro Rata Share of the redetemined Borrowing
+Base, after giving effect to the increase in the Borrowing Base set forth in this Section 2, is set
+forth in Annex I attached hereto.
+
+
+ 
+
+
+
+
+ 
+
+
+
+     Section 3. Amendments to Credit Agreement.
+
+          (a) Section 6.02 (Debts, Guaranties, and Other Obligations) of the Credit Agreement
+is hereby amended by (i) replacing the amount $8,000,000 found in clause (f) therein with the
+amount $12,000,000, and (ii) replacing the amount $8,000,000 found in clause (n) therein with
+the amount $12,000,000".
+
+          (b) Clause (c) of Section 6.14 (Limitation on Hedging) of the Credit Agreement is
+hereby amended by deleting clause (c)(i) in its entirety and replacing it with the following:
+
+
+
+"(i) subject to the terms in the immediately following clause (ii) and clause (iii),
+before and after giving effect to such Hydrocarbon Hedge Contract, no more than 85%
+of the Anticipated Production of gas volumes and no more than 85% of the Anticipated
+Production of oil volumes may be covered by Hydrocarbon Hedge Contracts;
+provided that, as of any date of determination, (A) no more than 25% of the
+oil volumes of Anticipated Production for the calendar year in which the fourth
+anniversary of such determination date occurs and no more than 25% of the gas
+volumes of Anticipated Production for the calendar year in which the fourth
+anniversary of such determination date occurs may be attributable to PDNP Reserves
+and PUD Reserves; (B) no more than 15% of the oil volumes of Anticipated Production
+for the calendar year in which the fifth anniversary of such determination date
+occurs and no more than 15% of the gas volumes of Anticipated Production for the
+calendar year in which the fifth anniversary of such determination date occurs may
+be attributable to PDNP Reserves and PUD Reserves; and (C) no amount of oil volumes
+and no amount of gas volumes of Anticipated Production for any calendar year
+occurring after the fifth anniversary of such determination date may be attributable
+to PDNP Reserves and PUD Reserves;
+
+          (c) Clause (c) of Section 6.14 (Limitation on Hedging) of the Credit Agreement is
+hereby amended by deleting clause (c)(iii) in its entirety and replacing it with the following:
+
+
+
+"(iii) with respect to anticipated production of Hydrocarbons which are the subject
+of an Acquisition under which the Borrower or any Restricted Subsidiary is the
+purchaser, the Borrower and its Restricted Subsidiaries may enter into Hydrocarbon
+Hedge Contracts covering such anticipated production prior to effecting such
+Acquisition (regardless of the fact that such production is not yet owned by the
+Borrower or such Restricted Subsidiary) so long as (A) a binding purchase agreement
+has been executed by the Borrower or a Restricted Subsidiary and the counterparties
+to such Acquisition, (B) at the time such Hydrocarbon Hedge Contracts are entered
+into, the aggregate Unused Commitment Amount is greater than or equal to 10% of the
+lesser of the Borrowing Base and the aggregate Commitments then in effect, (C) the
+Borrower shall, and shall cause its Restricted Subsidiaries to terminate, unwind or
+otherwise liquidate all such Hydrocarbon Hedge Contracts upon the earliest of (1)
+the 90th day following the full execution of the purchase agreement
+related to such Acquisition if the Acquisition has not been fully consummated by
+such date, (2) within 3 Business Days after the date upon on which such purchase
+agreement is terminated by any party thereto, and (3) the date upon which the
+Borrower or any Restricted Subsidiary believes, with reasonable certainty, that such
+Acquisition will not be consummated, and (D) after giving pro forma effect to such
+Acquisition (i.e. assuming that such Acquisition had gone into effect prior to or as
+of the date such Hydrocarbon Hedge Contracts are entered into), the Borrower and its
+Restricted Subsidiaries would be in compliance with the volume limitations in clause
+(i) above;
+
+
+-2-
+
+
+
+
+ 
+
+
+
+     Section 4. Representations and Warranties. Each of the Guarantors and the
+Borrower hereby represents and warrants that: (a) after giving effect to this Agreement, the
+representations and warranties contained in the Credit Agreement, as amended hereby, and the
+representations and warranties contained in the other Loan Documents are true and correct in all
+material respects (except that such materiality qualifier shall not be applicable to any
+representation or warranty that already is qualified or modified by materiality in the text
+thereof) on and as of the Effective Date as if made on and as of such date except to the extent
+that any such representation or warranty expressly relates solely to an earlier date, in which case
+such representation or warranty is true and correct in all material respects (except that such
+materiality qualifier shall not be applicable to any representation or warranty that already is
+qualified or modified by materiality in the text thereof) as of such earlier date; (b) no Default
+has occurred which is continuing; (c) the execution, delivery and performance of this Agreement are
+within the corporate, limited liability company, or partnership power and authority of such Person
+and have been duly authorized by appropriate corporate and governing action and proceedings; (d)
+this Agreement constitutes the legal, valid, and binding obligation of such Person enforceable in
+accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization,
+moratorium, or similar laws affecting the rights of creditors generally and general principles of
+equity; (e) there are no governmental or other third party consents, licenses and approvals
+required in connection with the execution, delivery, performance, validity and enforceability of
+this Agreement; and (f) the Liens under the Security Instruments are valid and subsisting and
+secure Borrowers and the Guarantors obligations under the Loan Documents.
+
+
+     Section 5. Conditions to Effectiveness. This Agreement shall become
+effective on the Effective Date and enforceable against the parties hereto upon the occurrence of
+the following conditions precedent:
+
+          (a) The Administrative Agent shall have received multiple original counterparts, as
+requested by the Administrative Agent, of this Agreement duly and validly executed and delivered by
+duly authorized officers of the Borrower, the Guarantors and all the Lenders.
+
+          (b) The representations and warranties in this Agreement made by the Guarantors and
+the Borrower shall be true and correct in all material respects.
+
+          (c) The Borrower shall have paid, and hereby agrees to pay (i) all reasonable fees
+and expenses of the Administrative Agents outside legal counsel and other consultants pursuant to
+all invoices presented for payment on or prior to the Effective Date, and (ii) for the account of
+each Lender, an amendment and borrowing base increase fee equal to 0.45% of the Increase Amount
+that is allocated to such Lender.
+
+
+     Section 6. Acknowledgments and Agreements.
+
+          (a) The Borrower and each Guarantor acknowledges that on the date hereof all
+outstanding Obligations are payable in accordance with their terms and the Borrower and each
+Guarantor hereby waives any defense, offset, counterclaim or recoupment with respect thereto.
+
+          (b) The Administrative Agent and the Lenders hereby expressly reserve all of their
+rights, remedies, and claims under the Loan Documents. Nothing in this Agreement shall constitute
+a waiver or relinquishment of (i) any Default or Event of Default under any of the Loan Documents,
+(ii) any of the agreements, terms or conditions contained in any of the Loan Documents, (iii) any
+rights or remedies of the Administrative Agent or any Lender with respect to the Loan Documents, or
+(iv) the rights of the Administrative Agent or any Lender to collect the full amounts owing to them
+under the Loan Documents.
+
+
+-3-
+
+
+
+
+ 
+
+
+
+
+
+          (c) Each of the parties hereto hereby adopt, ratify, and confirm the Credit
+Agreement, as amended hereby, and acknowledges and agrees that the Credit Agreement, as amended
+hereby, is and remains in full force and effect, and the Borrower and the Guarantors acknowledge
+and agree that their respective liabilities and obligations under the Credit Agreement, as amended
+hereby, and the Guaranties, are not impaired in any respect by this Agreement.
+
+          (d) From and after the Effective Date, all references to the Credit Agreement and
+the Loan Documents shall mean such Credit Agreement and such Loan Documents as amended by this
+Agreement.
+
+          (e) This Agreement is a Loan Document for the purposes of the provisions of the
+other Loan Documents. Without limiting the foregoing, any breach of representations, warranties,
+and covenants under this Agreement shall be a Default or Event of Default, as applicable, under the
+Credit Agreement.
+
+
+     Section 7. Reaffirmation of the Guaranty. Each Guarantor hereby ratifies,
+confirms, acknowledges and agrees that its obligations under its respective Guaranty are in full
+force and effect and that such Guarantor continues to unconditionally and irrevocably guarantee the
+full and punctual payment, when due, whether at stated maturity or earlier by acceleration or
+otherwise, of all of the Guaranteed Obligations (as defined in the Guaranties), as such Guaranteed
+Obligations may have been amended by this Agreement, and its execution and delivery of this
+Agreement does not indicate or establish an approval or consent requirement by such Guarantor under
+its respective Guaranty in connection with the execution and delivery of amendments, consents or
+waivers to the Credit Agreement, the Notes or any of the other Loan Documents.
+
+
+     Section 8. Counterparts. This Agreement may be signed in any number of
+counterparts, each of which shall be an original and all of which, taken together, constitute a
+single instrument. This Agreement may be executed by facsimile signature or other similar
+electronic means and all such signatures shall be effective as originals.
+
+
+     Section 9. Successors and Assigns. This Agreement shall be binding upon and
+inure to the benefit of the parties hereto and their respective successors and assigns permitted
+pursuant to the Credit Agreement.
+
+
+     Section 10. Invalidity. In the event that any one or more of the provisions
+contained in this Agreement shall for any reason be held invalid, illegal or unenforceable in any
+respect, such invalidity, illegality or unenforceability shall not affect any other provision of
+this Agreement.
+
+
+     Section 11. Governing Law. This Agreement shall be deemed to be a contract
+made under and shall be governed by and construed in accordance with the laws of the State of
+Texas.
+
+
+     Section 12. Entire Agreement. THIS AGREEMENT, THE CREDIT AGREEMENT AS
+AMENDED BY THIS AGREEMENT, THE NOTES, AND THE OTHER LOAN DOCUMENTS CONSTITUTE THE ENTIRE
+UNDERSTANDING AMONG THE PARTIES HERETO WITH RESPECT TO THE SUBJECT MATTER HEREOF AND SUPERSEDE ANY
+PRIOR AGREEMENTS, WRITTEN OR ORAL, WITH RESPECT THERETO.
+
+
+THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+
+
+
+[SIGNATURES BEGIN ON NEXT PAGE]
+
+
+
+-4-
+
+
+
+
+ 
+
+
+
+
+
+
+     EXECUTED effective as of the date first above written.
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    BORROWER:
+     
+    ALTA MESA HOLDINGS, LP
+     
+     
+
+
+     
+     
+    By:
+     
+    Alta Mesa Holdings GP, LLC
+     
+     
+
+
+     
+     
+     
+     
+    its general partner
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+     
+     
+    By:
+Name:
+
+     
+    /s/ Michael McCabe
+ 
+Michael McCabe
+
+     
+     
+
+
+     
+
+     
+     
+     
+    Title:
+
+     
+    Chief Financial Officer
+     
+     
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    GUARANTORS:
+     
+    ALTA MESA FINANCE SERVICES CORP.
+     
+     
+
+
+     
+     
+    ALTA MESA GP, LLC
+     
+     
+
+
+     
+     
+    ARI DEVELOPMENT, LLC
+     
+     
+
+
+     
+     
+    ALTA MESA ACQUISITION SUB, LLC
+     
+     
+
+
+     
+     
+    BRAYTON MANAGEMENT GP II, LLC
+     
+     
+
+
+     
+     
+    CAIRN ENERGY USA, LLC
+     
+     
+
+
+     
+     
+    LOUISIANA ONSHORE PROPERTIES LLC
+     
+     
+
+
+     
+     
+    THE MERIDIAN PRODUCTION, LLC
+     
+     
+
+
+     
+     
+    THE MERIDIAN RESOURCE, LLC
+     
+     
+
+
+     
+     
+    THE MERIDIAN RESOURCE & EXPLORATION LLC
+     
+     
+
+
+     
+     
+    TMR DRILLING, LLC
+     
+     
+
+
+     
+     
+    VIRGINIA OIL AND GAS, LLC
+     
+     
+
+
+     
+     
+    ALTA MESA HOLDINGS GP, LLC
+     
+     
+
+
+     
+     
+    ALTA MESA ENERGY LLC
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    Each by:
+
+     
+    /s/ Michael McCabe
+ 
+Michael A. McCabe
+
+     
+     
+
+
+     
+
+     
+     
+     
+    Chief Financial Officer
+     
+     
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    ALTA MESA SERVICES, LP
+     
+     
+
+
+     
+     
+    ARANSAS RESOURCES, LP
+     
+     
+
+
+     
+     
+    BUCKEYE PRODUCTION COMPANY, LP
+     
+     
+
+
+     
+     
+    LOUISIANA EXPLORATION & ACQUISITIONS, LP
+     
+     
+
+
+     
+     
+    NAVASOTA RESOURCES, LTD., LLP
+     
+     
+
+
+     
+     
+    NUECES RESOURCES, LP
+     
+     
+
+
+     
+     
+    OKLAHOMA ENERGY ACQUISITIONS, LP
+     
+     
+
+
+     
+     
+    TEXAS ENERGY ACQUISITIONS, LP
+     
+     
+
+
+     
+     
+    GALVESTON BAY RESOURCES, LP
+     
+     
+
+
+     
+     
+    PETRO ACQUISITIONS, LP
+     
+     
+
+
+     
+     
+    PETRO OPERATING COMPANY, LP
+     
+     
+
+
+     
+     
+    ORION OPERATING COMPANY, LP
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    Each by:
+     
+    Alta Mesa GP, LLC
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+     
+     
+    By:
+
+     
+    /s/ Michael McCabe
+ 
+Michael A. McCabe
+
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+    Chief Financial Officer
+     
+     
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    BRAYTON RESOURCES, LP,
+     
+     
+
+
+     
+     
+    By: Brayton Management GP, LLC, its general partner
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+
+     
+    /s/ Michael McCabe
+ 
+Michael A. McCabe
+
+     
+     
+
+
+     
+
+     
+     
+     
+    Chief Financial Officer
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    BRAYTON RESOURCES II, L.P.,
+     
+     
+
+
+     
+     
+    By: Brayton Management GP II, LLC, its general partner
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+
+     
+    /s/ Michael McCabe
+ 
+Michael A. McCabe
+
+     
+     
+
+
+     
+
+     
+     
+     
+    Chief Financial Officer
+     
+     
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    ALTA MESA RESOURCES, LP,
+     
+     
+
+
+     
+     
+    By:
+     
+    Alta Mesa Resources GP, LLC,
+     
+     
+
+
+     
+     
+     
+     
+    its sole general partner
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+     
+     
+    By:
+
+     
+    /s/ Michael McCabe
+ 
+Michael A. McCabe,
+
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+    Chief Financial Officer
+     
+     
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    PETRO ACQUISITIONS HOLDINGS, LP,
+     
+     
+
+
+
+     
+     
+    By:
+     
+    Petro Acquisitions Holdings GP, LLC,
+     
+     
+
+
+     
+     
+     
+     
+    its sole general partner
+     
+     
+
+
+     
+     
+     
+
+
+
+     
+
+     
+     
+     
+    By:
+
+     
+    /s/ Michael McCabe
+ 
+Michael A. McCabe,
+
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+    Chief Financial Officer
+     
+     
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    PETRO OPERATING COMPANY HOLDINGS, INC.,
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+
+     
+    /s/ Michael McCabe
+ 
+Michael A. McCabe
+
+     
+     
+
+
+     
+
+     
+     
+     
+    Chief Financial Officer
+     
+     
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    GALVESTON BAY RESOURCES HOLDINGS, LP,
+     
+     
+
+
+     
+     
+    By:
+     
+    Galveston Bay Resources Holdings GP, LLC
+     
+     
+
+
+     
+     
+     
+     
+    its sole general partner
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+     
+     
+    By:
+
+     
+    /s/ Michael McCabe
+ 
+Michael A. McCabe,
+
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+    Chief Financial Officer
+     
+     
+
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    ADMINISTRATIVE AGENT/
+     
+     
+     
+     
+     
+     
+
+
+    ISSUING LENDER/
+     
+     
+     
+     
+     
+     
+
+
+    LENDER:
+     
+    WELLS FARGO BANK, N.A.
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+
+     
+    /s/ Shiloh Davila
+ 
+Shiloh Davila
+
+     
+     
+
+
+     
+
+     
+     
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    LENDER:
+     
+    UNION BANK, N.A.
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Paul E. Cornell
+ 
+Paul E. Cornell
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Senior Vice President
+     
+     
+
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    LENDER:
+     
+    TORONTO DOMINION (NEW YORK) LLC
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Bebi Yasin
+ 
+Bebi Yasin
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Authorized Signatory
+     
+     
+
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    LENDER:
+     
+    ING CAPITAL LLC
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Juli Bieser
+ 
+Juli Bieser
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Director
+     
+     
+
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    LENDER:
+     
+    CITIBANK, N.A.
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Thomas Benavides
+ 
+Thomas Benavides
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Senior Vice President
+     
+     
+
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    LENDER:
+     
+    CAPITAL ONE, NATIONAL ASSOCIATION
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Nancy M. Mak
+ 
+Nancy M. Mak
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    LENDER:
+     
+    BOKF, NA d/b/a Bank of Texas
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Martin W. Wilson
+ 
+Martin W. Wilson
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    SVP
+     
+     
+
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    LENDER:
+     
+    AMEGY BANK NATIONAL ASSOCIATION
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Mark Serice
+ 
+Mark Serice
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Senior Vice President
+     
+     
+
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    LENDER:
+     
+    TEXAS CAPITAL BANK, N.A.
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Moni Collins
+ 
+Moni Collins
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+Signature Page to Agreement and Amendment No. 4
+(Alta Mesa Holdings, LP)
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ANNEX I
+BORROWING BASE AS OF NOVEMBER 7, 2011*
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    PRO RATA SHARE OF THE
+     
+    PERCENTAGE OF
+
+
+    LENDERS
+     
+    BORROWING BASE*
+     
+    TOTAL
+
+
+
+
+
+    Wells Fargo Bank, N.A.
+     
+    $
+    79,824,561.40
+     
+     
+     
+    24.561403509
+    %
+
+
+    Union Bank, N.A.
+     
+    $
+    51,315,789.47
+     
+     
+     
+    15.789473684
+    %
+
+
+    Toronto Dominion (New York) LLC
+     
+    $
+    38,771,929.83
+     
+     
+     
+    11.929824561
+    %
+
+
+    ING Capital LLC
+     
+    $
+    31,929,824.56
+     
+     
+     
+    9.824561404
+    %
+
+
+    Citibank, N.A.
+     
+    $
+    31,929,824.56
+     
+     
+     
+    9.824561404
+    %
+
+
+    Capital One, National Association
+     
+    $
+    28,508,771.93
+     
+     
+     
+    8.771929824
+    %
+
+
+    BOKF, NA d/b/a Bank of Texas
+     
+    $
+    28,508,771.93
+     
+     
+     
+    8.771929824
+    %
+
+
+    Amegy Bank National Association
+     
+    $
+    17,105,263.16
+     
+     
+     
+    5.263157895
+    %
+
+
+    Texas Capital Bank, N.A.
+     
+    $
+    17,105,263.16
+     
+     
+     
+    5.263157895
+    %
+
+
+    TOTAL
+     
+    $
+    325,000,000.00
+     
+     
+     
+    100
+    %
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+    *
+     
+    Borrowing Base is subject to redetermination pursuant to the terms of the Credit Agreement, as
+amended.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+

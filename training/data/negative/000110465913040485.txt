@@ -1,0 +1,1665 @@
+
+EX-10.2
+2
+a13-8600_1ex10d2.htm
+EX-10.2
+
+
+
+
+
+
+  
+
+
+EXHIBIT 10.2
+ 
+SIXTH AMENDMENT TO FOURTH AMENDED AND RESTATED
+CREDIT AGREEMENT
+ 
+This SIXTH AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT (this Amendment) is made as of May 9, 2013, by and among ANTERO RESOURCES APPALACHIAN CORPORATION, a Delaware corporation and successor by merger to each of Antero Resources Arkoma LLC, Antero Resources Piceance LLC and Antero Resources Pipeline LLC (the Borrower), CERTAIN SUBSIDIARIES OF BORROWER, as Guarantors, the LENDERS party hereto, and JPMORGAN CHASE BANK, N.A., as Administrative Agent (in such capacity, the Administrative Agent).  Unless otherwise expressly defined herein, capitalized terms used but not defined in this Amendment have the meanings assigned to such terms in the Credit Agreement (as defined below).
+ 
+WITNESSETH:
+ 
+WHEREAS, the Borrower, the Guarantors, the Administrative Agent and the Lenders have entered into that certain Fourth Amended and Restated Credit Agreement, dated as of November 4, 2010 (as amended, restated, amended and restated, supplemented or otherwise modified from time to time, the Credit Agreement); and
+ 
+WHEREAS, the Administrative Agent, the Lenders, the Borrower and the Guarantors have agreed to amend the Credit Agreement as provided herein subject to the terms and conditions set forth herein.
+ 
+NOW, THEREFORE, for and in consideration of the mutual covenants and agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged and confessed, the Borrower, the Guarantors, the Administrative Agent and the Lenders hereby agree as follows:
+ 
+SECTION 1.                                       Amendments to Credit Agreement.  Subject to the satisfaction or waiver in writing of each condition precedent set forth in Section 4 of this Amendment, and in reliance on the representations, warranties, covenants and agreements contained in this Amendment, the Credit Agreement shall be amended in the manner provided in this Section 1.
+ 
+1.1                                             Amended Definitions.  The following definitions in Section 1.01 of the Credit Agreement shall be and they hereby are amended and restated in their respective entireties to read as follows:
+ 
+Aggregate Commitment means, at any time, the sum of the Commitments of all the Lenders at such time, as such amount may be reduced or increased from time to time pursuant to Section 2.02 and Section 2.03; provided that such amount shall not at any time exceed the lesser of (a) the Borrowing Base then in effect and (b) the Maximum Facility Amount.  As of the Sixth Amendment Effective Date, the Aggregate Commitment is $1,200,000,000.
+ 
+1
+
+
+
+
+
+
+ 
+Obligations means (a) any and all obligations of every nature, contingent or otherwise, whether now existing or hereafter arising, of any Credit Party from time to time owed to the Administrative Agent, the Issuing Bank, the Lenders or any of them under any Loan Document, whether for principal, interest, reimbursement of amounts drawn under any Letter of Credit, funding indemnification amounts, fees, expenses, indemnification or otherwise, (b) Lender Hedging Obligations and (c) Cash Management Obligations; provided; however, that Obligations of a Credit Party shall not include any Excluded Swap Obligations of such Credit Party.
+ 
+1.2                                             Additional Definitions.  The following definitions shall be and they hereby are added to Section 1.01 of the Credit Agreement in appropriate alphabetical order:
+ 
+Commodity Exchange Act means the Commodity Exchange Act (7 U.S.C. § 1 et seq.), as amended from time to time, and any successor statute.
+ 
+Eligible Contract Participant means an eligible contract participant as defined in the Commodity Exchange Act and the regulations thereunder.
+ 
+Excluded Swap Obligation means, with respect to any Guarantor individually determined on a Guarantor by Guarantor basis, any Swap Obligation if, and to the extent that, all or a portion of the Guarantee of such Guarantor of, or the grant by such Guarantor of a security interest to secure, such Swap Obligation (or any Guarantee thereof) is or becomes illegal under the Commodity Exchange Act or any rule, regulation or order of the Commodity Futures Trading Commission (or the application or official interpretation of any thereof) by virtue of such Guarantors failure for any reason to constitute an Eligible Contract Participant at the time the Guarantee of such Guarantor or the grant of such security interest becomes effective with respect to such Swap Obligation.  If a Swap Obligation arises under a master agreement governing more than one swap, such exclusion shall apply only to the portion of such Swap Obligation that is attributable to swaps for which such Guarantee or security interest is or becomes illegal.
+ 
+Qualified ECP Guarantor means, in respect of any Swap Obligation, each Credit Party that has total assets exceeding $10,000,000 at the time the relevant Guarantee or grant of the relevant security interest becomes effective with respect to such Swap Obligation or such other person as constitutes an Eligible Contract Participant and can cause another person to qualify as an Eligible Contract Participant at such time by entering into a keepwell under Section 1a(18)(A)(v)(II) of the Commodity Exchange Act.
+ 
+Sixth Amendment Effective Date means May 9, 2013.
+ 
+Swap Obligation means, with respect to any Guarantor, any obligation to pay or perform under any agreement, contract or transaction that constitutes a swap within the meaning of section 1a(47) of the Commodity Exchange Act.
+ 
+2
+
+
+
+
+
+
+ 
+1.3                               Payments Generally; Pro Rata Treatment; Sharing of Set-offs.  Section 2.18(b) of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows:
+ 
+(b)                                 If at any time insufficient funds are received by and available to the Administrative Agent to pay fully all amounts of principal, unreimbursed LC Disbursements, interest, fees and other Obligations then due hereunder, such funds shall be applied (i) first, towards payment of interest and fees then due hereunder, ratably among the parties entitled thereto in accordance with the amounts of interest and fees then due to such parties, and (ii) second, towards payment of principal and unreimbursed LC Disbursements then due hereunder, ratably among the parties entitled thereto in accordance with the amounts of principal and unreimbursed LC Disbursements then due to such parties; provided that, notwithstanding anything to the contrary contained in this Agreement or in any other Loan Document, in the event such funds are received by and available to the Administrative Agent as a result of the exercise of any rights and remedies with respect to any collateral under the Security Documents or as a result of any distribution made pursuant to a bankruptcy proceeding of any Credit Party or any plan of reorganization confirmed in any such proceeding, such funds shall be applied (A) first to any fees and reimbursements due Administrative Agent hereunder or under any other Loan Document, (B) then ratably to the payment of the Obligations (other than Cash Management Obligations), including unreimbursed LC Disbursements (in the manner set forth above) and the Lender Hedging Obligations until such Obligations are paid in full, and (C) then to the payment of Cash Management Obligations.  Notwithstanding the foregoing, amounts received from any Credit Party that is not an Eligible Contract Participant shall not be applied to any Excluded Swap Obligations owing to a Lender Counterparty (it being understood, that in the event that any amount is applied to Obligations other than Excluded Swap Obligations as a result of this clause, the Administrative Agent shall make such adjustments as it determines are appropriate to distributions pursuant to the foregoing clause (B) from amounts received from Eligible Contract Participants to ensure, as nearly as possible, that the proportional aggregate recoveries with respect to Obligations described in the foregoing clause (B) above by Lender Counterparties that are the holders of any Excluded Swap Obligations are the same as the proportional aggregate recoveries with respect to other Obligations pursuant to the foregoing clause (B) above).  The Administrative Agent shall have no responsibility to determine the existence or amount of Lender Hedging Obligations or Cash Management Obligations and may reserve from the application of amounts under this Section amounts distributable in respect of Lender Hedging Obligations or Cash Management Obligations until it has received evidence satisfactory to it of the existence and amount of such Lender Hedging Obligations or Cash Management Obligations.
+ 
+3
+
+
+
+
+
+
+ 
+1.4                               Current Ratio.  Effective as of March 1, 2013, Section 7.11 of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows:
+ 
+Section 7.11  Current Ratio.  At the end of (a) the fiscal quarter ending on March 31, 2013, the Consolidated Current Ratio will not be less than .75 to 1.0 and (b) each fiscal quarter ending thereafter, the Consolidated Current Ratio will not be less than 1.0 to 1.0.
+ 
+1.5                               Guarantee of Obligations.  Article VIII of the Credit Agreement shall be and it hereby is amended by adding a new Section 8.10 to the end thereof to read as follows:
+ 
+Section 8.10                            Keepwell.
+ 
+(a)                                 Each Qualified ECP Guarantor hereby jointly and severally absolutely, unconditionally and irrevocably undertakes to provide such funds or other support as may be needed from time to time by each other Credit Party to honor all of its obligations under this Agreement in respect of Swap Obligations (provided, however, that each Qualified ECP Guarantor shall only be liable under this Section 8.10 for the maximum amount of such liability that can be hereby incurred without rendering its obligations under this Section 8.10, or otherwise under this Agreement, voidable under applicable law relating to fraudulent conveyance or fraudulent transfer, and not for any greater amount). The obligations of each Qualified ECP Guarantor under this Section 8.10 shall remain in full force and effect until this Agreement is terminated, all Obligations are paid in full (other than contingent obligations for which no claim has been made) and all of the Lenders Commitments are terminated.  Each Qualified ECP Guarantor intends that this Section 8.10 constitute, and this Section 8.10 shall be deemed to constitute, a keepwell, support, or other agreement for the benefit of each other Credit Party for all purposes of Section 1a(18)(A)(v)(II) of the Commodity Exchange Act.
+ 
+(b)                                 Notwithstanding any other provisions of this Agreement or any other Loan Document, Obligations guaranteed by any Guarantor, or secured by the grant of any Lien by such Guarantor under any Security Document, shall exclude all Excluded Swap Obligations of such Guarantor.
+ 
+1.6                               The Administrative Agent.  Article X to the Credit Agreement shall be and it hereby is amended by adding a new sentence to the end of the last paragraph thereof to read as follows:
+ 
+Each Lender and the Issuing Bank hereby authorize the Administrative Agent to subordinate Liens on any property or assets granted to or held by the Administrative Agent under any Loan Document to the holder of any Lien on such property or assets that constitutes a Permitted Lien of the type described in clause (h) of the definition thereof.
+ 
+4
+
+
+
+
+
+
+ 
+1.7                               Schedules.  Schedule 1.01 to the Credit Agreement shall be and it hereby is amended in its entirety and replaced with Schedule 1.01 attached hereto.
+ 
+SECTION 2.                                       Redetermined Borrowing Base.  This Amendment shall constitute notice of the Redetermination of the Borrowing Base pursuant to Section 3.05 of the Credit Agreement, and the Administrative Agent, the Lenders, the Borrower and the Guarantors hereby acknowledge that effective as of the Sixth Amendment Effective Date, the Borrowing Base is $1,750,000,000, and such redetermined Borrowing Base shall remain in effect until the earlier of (i) the next Redetermination of the Borrowing Base and (ii) the date such Borrowing Base is otherwise adjusted pursuant to the terms of the Credit Agreement.
+ 
+SECTION 3.                                       Increase of Commitments.  The Lenders have agreed among themselves to, among other things, permit one or more of the Lenders to increase their respective Commitments under the Credit Agreement (each, an Increasing Lender).  Each of the Administrative Agent and the Borrower hereby consents to the increase in each Increasing Lenders Commitment.  On the date this Amendment becomes effective and after giving effect to such increase of the Aggregate Commitment, the Commitment of each Lender shall be as set forth on Schedule 1.01 of this Amendment.  Each Lender hereby consents to the Commitments set forth on Schedule 1.01 of this Amendment. The increase in each Increasing Lenders Commitment shall be deemed to have been consummated pursuant to the terms of the Lender Certificate attached as Exhibit E to the Credit Agreement as if such Increasing Lender, had executed a Lender Certificate with respect to such increase.  To the extent requested by any Lender and in accordance with Section 2.16 of the Credit Agreement, the Borrower shall pay to such Lender, within the time period prescribed by Section 2.16 of the Credit Agreement, any amounts required to be paid by the Borrower under Section 2.16 of the Credit Agreement in the event the payment of any principal of any Eurodollar Loan or the conversion of any Eurodollar Loan other than on the last day of an Interest Period applicable thereto is required in connection with the reallocation contemplated by this Section 3.
+ 
+SECTION 4.                                       Conditions.  The amendments to the Credit Agreement contained in Section 1 of this Amendment, the redetermination of the Borrowing Base contained in Section 2 of this Amendment, and the increase of the Commitments contained in Section 3 of this Amendment shall be effective upon the satisfaction of each of the conditions set forth in this Section 4.
+ 
+4.1                               Execution and Delivery.  Each Credit Party, the Lenders, and the Administrative Agent shall have executed and delivered this Amendment.
+ 
+4.2                               No Default.  No Default shall have occurred and be continuing or shall result from the effectiveness of this Amendment.
+ 
+4.3                               Fees.  The Borrower, the Administrative Agent and J.P. Morgan Securities LLC shall have executed and delivered a fee letter in connection with this Amendment, and the Administrative Agent and J.P. Morgan Securities LLC shall have received the fees separately agreed upon in such fee letter.
+ 
+4.4                               Other Documents.  The Administrative Agent shall have received such other instruments and documents incidental and appropriate to the transactions provided for herein as
+ 
+5
+
+
+
+
+
+
+ 
+the Administrative Agent or its special counsel may reasonably request, and all such documents shall be in form and substance reasonably satisfactory to the Administrative Agent.
+ 
+SECTION 5.                                       Post-Closing Covenant.  Within forty-five (45) days following the Sixth Amendment Effective Date (or such longer period as permitted by the Administrative Agent in its sole discretion), the Borrower shall deliver to the Administrative Agent (a) Mortgages and title information, in each case, reasonably satisfactory to the Administrative Agent with respect to the Borrowing Base Properties, or the portion thereof, as required by Sections 6.09 and 6.10 of the Credit Agreement and (b) amendments to the existing Mortgages, as requested by Administrative Agent to give effect to the amendments contained herein and otherwise in form and substance satisfactory to Administrative Agent.
+ 
+SECTION 6.                                       Representations and Warranties of Credit Parties.  To induce the Lenders to enter into this Amendment, each Credit Party hereby represents and warrants to the Lenders as follows:
+ 
+6.1                               Reaffirmation of Representations and Warranties/Further Assurances.  After giving effect to the amendments herein, each representation and warranty of such Credit Party contained in the Credit Agreement and in each of the other Loan Documents is true and correct in all material respects as of the date hereof (except to the extent such representations and warranties specifically refer to an earlier date, in which case they are true and correct in all material respects as of such earlier date).
+ 
+6.2                               Corporate Authority; No Conflicts.  The execution, delivery and performance by each Credit Party of this Amendment are within such Credit Partys corporate or other organizational powers, have been duly authorized by necessary action, require no action by or in respect of, or filing with, any court or agency of government and do not violate or constitute a default under any provision of any applicable law or other agreements binding upon any Credit Party or result in the creation or imposition of any Lien upon any of the assets of any Credit Party except for Permitted Liens and otherwise as permitted in the Credit Agreement.
+ 
+6.3                               Enforceability.  This Amendment constitutes the valid and binding obligation of the Borrower and each other Credit Party enforceable in accordance with its terms, except as (i) the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors rights generally, and (ii) the availability of equitable remedies may be limited by equitable principles of general application.
+ 
+6.4                               No Default.  As of the date hereof, both before and immediately after giving effect to this Amendment, no Default has occurred and is continuing.
+ 
+SECTION 7.                                       Miscellaneous.
+ 
+7.1                               Reaffirmation of Loan Documents and Liens.  Any and all of the terms and provisions of the Credit Agreement and the Loan Documents shall, except as amended and modified hereby, remain in full force and effect and are hereby in all respects ratified and confirmed by each Credit Party.  The Borrower and each Guarantor hereby agrees that the
+ 
+6
+
+
+
+
+
+
+ 
+amendments and modifications herein contained shall in no manner affect or impair the liabilities, duties and obligations of any Credit Party under the Credit Agreement and the other Loan Documents or the Liens securing the payment and performance thereof.
+ 
+7.2                               Parties in Interest.  All of the terms and provisions of this Amendment shall bind and inure to the benefit of the parties hereto and their respective successors and assigns.
+ 
+7.3                               Legal Expenses.  Each Credit Party hereby agrees to pay all reasonable fees and expenses of special counsel to the Administrative Agent incurred by the Administrative Agent in connection with the preparation, negotiation and execution of this Amendment and all related documents.
+ 
+7.4                               Counterparts.  This Amendment may be executed in one or more counterparts and by different parties hereto in separate counterparts each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument; signature pages may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are physically attached to the same document.  Delivery of photocopies of the signature pages to this Amendment by facsimile or electronic mail shall be effective as delivery of manually executed counterparts of this Amendment.
+ 
+7.5                               Complete Agreement.  THIS AMENDMENT, THE CREDIT AGREEMENT, AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+ 
+7.6                               Headings.  The headings, captions and arrangements used in this Amendment are, unless specified otherwise, for convenience only and shall not be deemed to limit, amplify or modify the terms of this Amendment, nor affect the meaning thereof.
+ 
+7.7                               Governing Law.  This Amendment shall be construed in accordance with and governed by the laws of the State of New York.
+ 
+7.8                               Loan Document.  This Amendment shall constitute a Loan Document for all purposes and in all respects.
+ 
+[Remainder of page intentionally blank.
+Signature pages follow.]
+ 
+7
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed by their respective authorized officers to be effective as of the date first above written.
+ 
+
+
+
+     
+
+BORROWER:       
+
+
+     
+
+        
+
+
+     
+
+ANTERO   RESOURCES APPALACHIAN CORPORATION
+(successor   by merger to each of Antero Resources Arkoma LLC, Antero Resources Piceance   LLC and Antero Resources Pipeline LLC)       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Alvyn A. Schopp       
+
+
+     
+
+     
+
+Name:    
+
+Alvyn   A. Schopp       
+
+
+     
+
+     
+
+Title:    
+
+Treasurer   and Vice President,       
+
+
+     
+
+     
+
+     
+
+Administration   and Accounting       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+RESTRICTED   SUBSIDIARIES:       
+
+
+     
+
+        
+
+
+     
+
+ANTERO   RESOURCES FINANCE CORPORATION       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Alvyn A. Schopp       
+
+
+     
+
+     
+
+Name:    
+
+Alvyn   A. Schopp       
+
+
+     
+
+     
+
+Title:    
+
+Treasurer   and Vice President,       
+
+
+     
+
+     
+
+     
+
+Administration   and Accounting       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+ANTERO   RESOURCES BLUESTONE LLC       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Alvyn A. Schopp       
+
+
+     
+
+     
+
+Name:    
+
+Alvyn   A. Schopp       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President  Accounting &       
+
+
+     
+
+     
+
+     
+
+Administration/Treasurer         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+JPMORGAN   CHASE BANK, N.A.,
+as   Administrative Agent, Issuing Bank and a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   David Morris       
+
+
+     
+
+     
+
+Name:    
+
+David   Morris       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Officer         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+WELLS FARGO BANK, N.A.,
+as   Syndication Agent and a Lender       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Suzanne Ridenhour       
+
+
+     
+
+     
+
+Name:    
+
+Suzanne   Ridenhour       
+
+
+     
+
+     
+
+Title:    
+
+Director         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK   OF SCOTLAND PLC,
+as   Co-Documentation Agent and a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Stephen Giacolone       
+
+
+     
+
+     
+
+Name:    
+
+Stephen   Giacolone       
+
+
+     
+
+     
+
+Title:    
+
+Assistant   Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   AGRICOLE CORPORATE AND INVESTMENT BANK,
+as   Co-Documentation  Agent and  a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Sharada Manne       
+
+
+     
+
+     
+
+Name:    
+
+Sharada   Manne       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Ting Lee       
+
+
+     
+
+     
+
+Name:    
+
+Tine   Lee       
+
+
+     
+
+     
+
+Title:    
+
+Director         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+UNION   BANK, N.A.,
+as   Co-Documentation Agent and  a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Lara Sorokolit       
+
+
+     
+
+     
+
+Name:    
+
+Lara   Sorokolit       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BARCLAYS   BANK PLC,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Vanessa A. Kurbatskiy       
+
+
+     
+
+     
+
+Name:    
+
+Vanessa   A. Kurbatskiy       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+FIFTH   THIRD BANK,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Richard C. Butler       
+
+
+     
+
+     
+
+Name:    
+
+Richard   C. Butler       
+
+
+     
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMERICA   BANK,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   John S. Lesikar       
+
+
+     
+
+     
+
+Name:    
+
+John   S. Lesikar       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   SUISSE AG, CAYMAN ISLANDS BRANCH,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Kevin Duddhdew       
+
+
+     
+
+     
+
+Name:    
+
+Kevin   Duddhdew       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Alex Verdone       
+
+
+     
+
+     
+
+Name:    
+
+Alex   Verdone       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+KEY   BANK NATIONAL ASSOCIATION,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Chulley Bogle       
+
+
+     
+
+     
+
+Name:    
+
+Chulley   Bogle       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+U.S.   BANK NATIONAL ASSOCIATION,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Mark E. Thompson       
+
+
+     
+
+     
+
+Name:    
+
+Mark   E. Thompson       
+
+
+     
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+GUARANTY   BANK AND TRUST COMPANY,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Gail J. Nofsinger       
+
+
+     
+
+     
+
+Name:    
+
+Gail   J. Nofsinger       
+
+
+     
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CITIBANK,   N.A.,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Eamon Baqui       
+
+
+     
+
+     
+
+Name:    
+
+Eamon   Baqui       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CAPITAL   ONE, NATIONAL ASSOCIATION,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Wesley Fontana       
+
+
+     
+
+     
+
+Name:    
+
+Wesley   Fontana       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+TORONTO   DOMINION (NEW YORK) LLC,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Masood Fikree       
+
+
+     
+
+     
+
+Name:    
+
+Masood   Fikree       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BRANCH   BANKING AND TRUST COMPANY,
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Deanna Breland       
+
+
+     
+
+     
+
+Name:    
+
+Deanna   Breland       
+
+
+     
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+SCHEDULE 1.01
+ 
+Applicable Percentages and Commitments
+ 
+
+
+
+Lender    
+
+     
+
+Applicable   Percentage    
+
+     
+
+Commitment    
+
+        
+
+
+JPMorgan Chase Bank, N.A.    
+
+     
+
+10.734649122    
+
+%    
+
+$    
+
+128,815,789.47    
+
+        
+
+
+Wells Fargo Bank, N.A.    
+
+     
+
+10.734649122    
+
+%    
+
+$    
+
+128,815,789.47    
+
+        
+
+
+Union Bank, N.A.    
+
+     
+
+9.583333333    
+
+%    
+
+$    
+
+115,000,000.00    
+
+        
+
+
+Credit Agricole Corporate and Investment Bank    
+
+     
+
+8.750000000    
+
+%    
+
+$    
+
+105,000,000.00    
+
+        
+
+
+Citibank, N.A.    
+
+     
+
+7.500000000    
+
+%    
+
+$    
+
+90,000,000.00    
+
+        
+
+
+Barclays Bank PLC    
+
+     
+
+7.500000000    
+
+%    
+
+$    
+
+90,000,000.00    
+
+        
+
+
+Capital One, National Association    
+
+     
+
+6.666666667    
+
+%    
+
+$    
+
+80,000,000.00    
+
+        
+
+
+Toronto Dominion (New York) LLC    
+
+     
+
+5.833333333    
+
+%    
+
+$    
+
+70,000,000.00    
+
+        
+
+
+Comerica Bank    
+
+     
+
+5.789473684    
+
+%    
+
+$    
+
+69,473,684.21    
+
+        
+
+
+Fifth Third Bank    
+
+     
+
+5.666666667    
+
+%    
+
+$    
+
+68,000,000.00    
+
+        
+
+
+Branch Banking and Trust Company    
+
+     
+
+5.416666667    
+
+%    
+
+$    
+
+65,000,000.00    
+
+        
+
+
+Bank of Scotland, plc    
+
+     
+
+4.482456140    
+
+%    
+
+$    
+
+53,789,473.68    
+
+        
+
+
+U.S. Bank National Association    
+
+     
+
+4.166666667    
+
+%    
+
+$    
+
+50,000,000.00    
+
+        
+
+
+KeyBank National Association    
+
+     
+
+3.333333333    
+
+%    
+
+$    
+
+40,000,000.00    
+
+        
+
+
+Credit Suisse AG, Cayman Islands Branch    
+
+     
+
+2.894736843    
+
+%    
+
+$    
+
+34,736,842.11    
+
+        
+
+
+Guaranty Bank and Trust Company    
+
+     
+
+0.947368422    
+
+%    
+
+$    
+
+11,368,421.06    
+
+        
+
+
+TOTAL    
+
+     
+
+100.0000000    
+
+%    
+
+$    
+
+1,200,000,000    
+
+          
+ 
+
+
+
+
+
+
+

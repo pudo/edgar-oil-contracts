@@ -1,0 +1,1336 @@
+
+EX-10.1.4
+2
+a2218626zex-10_14.htm
+EX-10.1.4
+
+
+
+
+
+
+
+Exhibit 10.1.4
+ 
+FOURTH AMENDMENT AND JOINDER TO CREDIT AGREEMENT
+ 
+THIS FOURTH AMENDMENT AND JOINDER TO CREDIT AGREEMENT (this Amendment), dated as of April 9, 2014 (the Effective Date), is entered into by and among VENOCO, INC. (the Company), and the undersigned lenders party to the Credit Agreement defined below, and acknowledged by CITIBANK, N.A., as administrative agent for the Lenders (in such capacity, the Administrative Agent).
+ 
+INTRODUCTION
+ 
+A.                                    This Amendment is in respect of the Fifth Amended and Restated Credit Agreement, dated as of October 3, 2012, among the Company, the Guarantors from time to time parties thereto, the several financial institutions from time to time parties thereto as Lenders, the Administrative Agent, the Arranger, the Syndication Agent and the Documentation Agent and the other Persons from time to time parties thereto (as amended, supplemented, restated or otherwise modified, the Credit Agreement).
+ 
+B.                                    The Company has requested (1) an increase in the Aggregate Commitment pursuant to Section 2.16 of the Credit Agreement, (2) an increase in the Borrowing Base and (3) certain modifications to the Credit Agreement specified below.
+ 
+NOW THEREFORE, in consideration of the foregoing premises and the mutual agreements set forth herein, the parties hereto agree as follows:
+ 
+SECTION 1.                                                 Definitions; Rules of Interpretation.  Unless otherwise defined in this Amendment, each capitalized term used in this Amendment has the meaning assigned to such term in the Credit Agreement.  The rules of interpretation set forth in Section 1.2 of the Credit Agreement are incorporated in this Amendment as if set forth in the Amendment.
+ 
+SECTION 2.                                                 Amendment to Section 1.1 of the Credit Agreement.  The definition of LIBO Rate appearing in Section 1.1 of the Credit Agreement is amended by deleting the phrase that displays an average British Bankers Association Interest Settlement Rate wherever it appears in such definition.
+ 
+SECTION 3.                                                 Amendment to Section 1.3 of the Credit Agreement.  Section 1.3 of the Credit Agreement is amended by adding the phrase ; provided, however, that for all purposes of this Agreement, Indebtedness shall be valued or measured at face value regardless of whether GAAP would allow Indebtedness to be valued or measured at fair value or some other value at the end of the first sentence of clause (a) of such Section.
+ 
+SECTION 4.                                                 Amendment to Section 8.9(a) of the Credit Agreement.  Section 8.9(a) of the Credit Agreement is hereby amended by deleting it and replacing it with the following:
+ 
+if (A) no Default or Event of Default shall have occurred and be continuing, (B) no such Restricted Payment shall cause or result in a Default or Event of Default, (C) at the time any such Restricted Payment is made by the Company, and giving pro forma effect to such Restricted Payment, (1) the ratio of the Effective Amount to the Borrowing Base
+ 
+
+
+
+
+
+
+ 
+does not exceed .85 to 1.00 and (2) the Company shall have Unused Availability of at least $40,000,000, (D) calculating the financial covenants in Section 8.12 (other than Section 8.12(a)) as if the proposed Restricted Payment had been made on the last day of the most recently ended fiscal quarter, the Company is in pro forma compliance with Section 8.12 hereof (other than Section 8.12(a)) after giving effect to such Restricted Payment, and (E) calculating the Consolidated Leverage Ratio as if the proposed Restricted Payment had been made on the last day of the most recently ended fiscal quarter, the Company is in pro forma compliance with a Consolidated Leverage Ratio of less than (i) if for the fiscal quarter ending March 31, 2014, 4.75 to 1.00, (ii) if for the fiscal quarter ending June 30, 2014, 4.50 to 1.00 and (iii) for any fiscal quarter ending on or after September 30, 2014, 4.00 to 1.00, then the Company may declare and pay regular Cash Dividends that do not exceed, when aggregated with the dividends paid in the fiscal quarter in which such dividend is paid and the prior three fiscal quarters, $35,000,000, so long as such Cash Dividends are not used by Denver Parent to make any distribution, dividend or return capital to its members, partners or stockholders or make any distribution of assets in cash or in kind to its members, partners or stockholders;
+ 
+SECTION 5.                                                 Amendment to Section 8.12(a) of the Credit Agreement.  Section 8.12(a) of the Credit Agreement is hereby amended and restated in its entirety with the following:
+ 
+The Company shall not permit the Consolidated Leverage Ratio to exceed (i) for the fiscal quarter ending March 31, 2014, 5.25 to 1.00, (ii) for the fiscal quarter ending June 30, 2014, 5.50 to 1.00 (iii) for the fiscal quarter ending September 30, 2014, 5.25 to 1.00, (iv) for the fiscal quarter ending December 31, 2014, 4.75 to 1.00, (v) for the fiscal quarter ending March 31, 2015, 4.50 to 1.00, (vi) for the fiscal quarter ending June 30, 2015, 4.25 to 1.00, and (vii) for any fiscal quarter ending on or after September 30, 2015, 4.00 to 1.00
+ 
+SECTION 6.                                                 Amendment to Section 11.1(e) of the Credit Agreement.  Section 11.1(e) of the Credit Agreement is hereby amended by deleting the phrase or Section 9.3 and replacing it with the phrase Section 2.12, Section 9.3 or Section 11.8(e).
+ 
+SECTION 7.                                                 Amendment to Section 11.8 of the Credit Agreement.  Section 11.8(c)(i) of the Credit Agreement is amended by adding the phrase so long as no Event of Default shall have occurred and be continuing at the beginning of such Section before the word the and Section 11.8(e) of the Credit Agreement is amended and restated in its entirety to the following:
+ 
+(e) No such assignment shall be made to the Borrower or any of its Affiliates.
+ 
+SECTION 8.                                                 Waiver.  Upon the express condition that the Borrower shall deliver to the Administrative Agent the financial statements referred to in Section 7.1(a) of the Credit Agreement in respect of the fiscal year ending December 31, 2013 (the 2013 Financials), on or before April 15, 2014, the Required Lenders hereby waive the requirement of said Section 7.1(a) that the 2013 Financials be delivered in any event not later than 90 days after December 31, 2013.  The foregoing is not a waiver of Section 7.1(a) in respect of any fiscal year other than the
+ 
+2
+
+
+
+
+
+
+ 
+fiscal year ending December 31, 2013, and is not a waiver of any other section of the Credit Agreement or any other Loan Document.  Failure to deliver to the Administrative Agent the 2013 Financials by April 15, 2014, shall constitute an Event of Default.
+ 
+SECTION 9.                                                 Representations and Warranties, Etc.  The Company and each of the Loan Parties represents and warrants to the Administrative Agent, the Issuing Lender and the Lenders that as of the Effective Date and after giving effect to the amendments and waivers in this Amendment:
+ 
+(a)                                 each of the representations and warranties by the Loan Parties contained in the Credit Agreement and in the other Loan Documents are true and correct on and as of such date in all material respects as though made as of the date hereof, except those that by their terms relate solely as to an earlier date, in which event they shall be true and correct in all material respects on and as of such earlier date;
+ 
+(b)                                 the execution, delivery and performance of this Amendment has been duly authorized by all requisite organizational action on the part of the Company and each other Loan Party;
+ 
+(c)                                  the Credit Agreement as amended hereby and each other Loan Documents constitute valid and legally binding agreements enforceable against each Loan Party that is a party thereto in accordance with their respective terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent transfer or other similar laws relating to or affecting creditors rights generally and by general principles of equity, regardless of whether considered in a proceeding in equity or at law; and
+ 
+(d)                                 no Default or Event of Default exists under the Credit Agreement or any of the other Loan Documents.
+ 
+SECTION 10.                                          Ratification.  The Company and each other Loan Party hereby ratifies and confirms, as of the Effective Date, (a) the covenants and agreements contained in each Loan Document to which it is a party, including, in each case, as such covenants and agreements may be modified by this Amendment and the transactions contemplated thereby and (b) all of the Obligations under the Credit Agreement and the other Loan Documents.
+ 
+SECTION 11.                                          Effectiveness.  This Amendment shall become effective as of the Effective Date when all of the conditions set forth in this Section 11 have been satisfied.
+ 
+(a)                                 The Administrative Agent shall have received executed counterparts of this Amendment from the Company, the Guarantors, the Administrative Agent, the Required Lenders and the New Lender (as defined below).  For the avoidance of doubt, the Required Lenders shall be determined on and as of the Effective Date and before giving effect to the joinder specified in Section 12 hereof.
+ 
+(b)                                 The Administrative Agent shall have received from the Company a certificate of each Loan Party dated as of the Aggregate Commitment Increase
+ 
+3
+
+
+
+
+
+
+ 
+Effective Date (in sufficient copies for each Lender) signed by a Responsible Officer of each such Loan Party:
+ 
+(i)                                certifying and attaching the resolutions adopted by such Loan Party authorizing the Aggregate Commitments as increased, and
+ 
+(ii)                             in the case of the Company, certifying (A) as to the matters set forth in Section 5.2(b) of the Credit Agreement (provided that the references to Borrowing Date shall be deemed to be Aggregate Commitment Increase Effective Date), Section 5.2(c), and Section 5.2(d) and (B) that as of the Aggregate Commitment Increase Effective Date and after giving effect to the increase in the Aggregate Commitment being made on such date, such increase in the Aggregate Commitment is permitted under the Senior Notes Indentures and the Exchange Notes Indentures.
+ 
+(c)                                  The Administrative Agent shall have received all reasonable out-of-pocket fees, costs and expenses incurred in connection with the negotiation, preparation, execution and delivery of this Amendment and related documents (including the fees, charges and disbursements of counsel to the Administrative Agent) for which the Company has received an invoice at least one Business Day before the Effective Date.
+ 
+SECTION 12.                                          Joinder and Increased Borrowing Base.
+ 
+(a)                                 Joinder.  If the conditions set forth in Section 11 are satisfied, the Aggregate Commitments shall be increased on and effective as of the Effective Date (herein, the Aggregate Commitment Increase Effective Date) to the aggregate of the Commitments set forth on Annex I attached to this Amendment and the Commitments will be allocated among the Lenders as set forth in such Annex I.
+ 
+(i)                                Effective on the Aggregate Commitment Increase Effective Date, the financial institution identified on Annex I attached to this Amendment as a New Lender (each, a New Lender) hereby becomes a party to the Credit Agreement as a Lender pursuant to Section 2.16 of the Credit Agreement.  By its execution of this Amendment, the New Lender (A) agrees to become, as of the Aggregate Commitment Increase Effective Date, a Lender under the Credit Agreement as if originally a signatory thereto and to be bound by the terms of the Credit Agreement (as amended hereby) and each of the Loan Documents and to perform the obligations and duties of a Lender under the Credit Agreement and to acquire participations in the Letter of Credit Outstandings and (B) authorizes the Administrative Agent to act as its agent under the Credit Agreement and the other Loan Documents.
+ 
+(ii)                             Pursuant to Section 2.16(c) of the Credit Agreement, the Administrative Agent is hereby giving notice to the Company and the Lenders of the Aggregate Commitment Increase Effective Date and that the final allocations are set forth on Annex I attached to this Amendment.  The Company shall prepay
+ 
+4
+
+
+
+
+
+
+ 
+any Loans outstanding on the Aggregate Commitment Increase Effective Date (and pay any additional amounts required pursuant to Section 3.4 of the Credit Agreement) to the extent necessary to keep the outstanding Loans ratable with the Pro Rata Share set forth on Annex I attached to this Amendment.
+ 
+(iii)                          For the Commitment increase set forth in this Amendment only, the Required Lenders hereby waive the 10 Business Day advance notice requirement in Section 2.16(a) of the Credit Agreement for increased Commitments.
+ 
+(iv)                         Effective on the Aggregate Commitment Increase Effective Date and after giving effect to the joinder of the new Lenders pursuant to Section 2.16, each Lender shall be deemed to sell and assign to the each other Lender hereunder and each Lender hereunder shall be deemed to purchase and accept subject to and in accordance with the Standard Terms and Conditions set forth in Annex 1 to Exhibit D of the Credit Agreement so much of the Aggregate Commitment such that after giving effect to such sales and assignments, the Lenders have the respective Commitments and Pro Rata Shares set forth in Annex I.  The Administrative Agent and the Issuing Lender hereby consent to each such sale and assignment
+ 
+(b)                                 Borrowing Base.  If the conditions set forth in Section 11 of this Amendment are satisfied, the Borrowing Base under the Credit Agreement is hereby increased from $270,000,000 to $280,000,000, effective on the Aggregate Commitment Increase Effective Date, such increase to be effective until such time as the Borrowing Base is redetermined in accordance with the Credit Agreement.
+ 
+SECTION 13.                                          Governing Law; Severability; Integration.  THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.  If any provision of this Amendment or any other Loan Document is held to be illegal, invalid or unenforceable, (a) the legality, validity and enforceability of the remaining provisions of this Amendment and the other Loan Documents shall not be affected or impaired thereby and (b) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions.  The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.  This Amendment and the other Loan Documents constitute the entire contract among the parties relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof.
+ 
+SECTION 14.                                          Execution in Counterparts.  This Amendment may be executed by the parties hereto in several counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original and all of which when taken together shall constitute a single document.
+ 
+5
+
+
+
+
+
+
+ 
+SECTION 15.                                          Successors and Assigns.  This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective permitted successors and assigns; provided, however, that (a) the Company may not assign or transfer its rights or obligations hereunder without the prior written consent of the Administrative Agent and each Lender; and (b) the rights of sale, assignment and transfer of the Lenders are subject to Section 11.8 of the Credit Agreement.
+ 
+SECTION 16.                                          Miscellaneous.  (a) On and after the effectiveness of this Amendment, each reference in each Loan Document to the Credit Agreement, thereunder, thereof or words of like import referring to the Credit Agreement shall mean and be a reference to the Credit Agreement as amended, waived or otherwise modified by this Amendment; (b) this Amendment is a Loan Document executed pursuant to the Credit Agreement and shall (unless otherwise expressly indicated therein) be construed, administered and applied in accordance with the terms and provisions of the Credit Agreement; and (c) a facsimile signature of any party hereto shall be deemed to be an original signature for purposes of this Amendment.
+ 
+SECTION 17.                                          ENTIRE AGREEMENT.  THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+ 
+(Remainder of Page Left Intentionally Blank)
+ 
+6
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of the date first above written.
+ 
+ 
+
+
+
+     
+
+COMPANY:       
+
+
+     
+
+        
+
+
+     
+
+VENOCO, INC.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Timothy A. Ficker       
+
+
+     
+
+Name: Timothy A. Ficker       
+
+
+     
+
+Title: Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+GUARANTORS:       
+
+
+     
+
+        
+
+
+     
+
+WHITTIER PIPELINE   CORPORATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Timothy A. Ficker       
+
+
+     
+
+Name: Timothy A. Ficker       
+
+
+     
+
+Title: Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+TEXCAL ENERGY (LP) LLC       
+
+
+     
+
+By: VENOCO, INC., its Manager       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Timothy A. Ficker       
+
+
+     
+
+Name: Timothy A. Ficker       
+
+
+     
+
+Title: Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+TEXCAL ENERGY (GP) LLC       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Timothy A. Ficker       
+
+
+     
+
+Name: Timothy A. Ficker       
+
+
+     
+
+Title: Chief Financial Officer         
+ 
+- Fourth Amendment & Joinder
+ 
+S-1
+
+
+
+
+
+
+ 
+
+
+
+     
+
+        
+
+
+     
+
+TEXCAL ENERGY SOUTH TEXAS   L.P.       
+
+
+     
+
+By: TEXCAL ENERGY (GP) LLC,       
+
+
+     
+
+as general partner       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Timothy A. Ficker       
+
+
+     
+
+Name: Timothy A. Ficker       
+
+
+     
+
+Title: Chief Financial Officer         
+ 
+- Fourth Amendment & Joinder
+ 
+S-2
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CITIBANK, N.A., as Administrative Agent and as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ John Miller       
+
+
+     
+
+     
+
+Name: John Miller       
+
+
+     
+
+     
+
+Title: Vice   President         
+ 
+- Fourth Amendment & Joinder
+ 
+S-3
+
+
+
+
+
+
+ 
+
+
+
+     
+
+LENDERS:       
+
+
+     
+
+        
+
+
+     
+
+THE BANK OF NOVA SCOTIA       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Terry Donovan       
+
+
+     
+
+     
+
+Name: Terry   Donovan       
+
+
+     
+
+     
+
+Title: Managing   Director         
+ 
+- Fourth Amendment & Joinder
+ 
+S-4
+
+
+
+
+
+
+ 
+
+
+
+     
+
+KEYBANK NATIONAL   ASSOCIATION       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ John Dravenstott       
+
+
+     
+
+     
+
+Name: John Dravenstott       
+
+
+     
+
+     
+
+Title: Vice   President         
+ 
+- Fourth Amendment & Joinder
+ 
+S-5
+
+
+
+
+
+
+ 
+
+
+
+     
+
+RB INTERNATIONAL FINANCE   (USA) LLC       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ CHRISTOPH HOEDL       
+
+
+     
+
+Name: CHRISTOPH HOEDL       
+
+
+     
+
+Title: First Vice President       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Steven VanSteenbergen       
+
+
+     
+
+Name: Steven VanSteenbergen       
+
+
+     
+
+Title: Vice President         
+ 
+- Fourth Amendment & Joinder
+ 
+S-6
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BOKF, NA dba BANK OF   OKLAHOMA       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Sonja Borodko       
+
+
+     
+
+Name: Sonja Borodko       
+
+
+     
+
+Title: Vice President         
+ 
+- Fourth Amendment & Joinder
+ 
+S-7
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK OF AMERICA, N.A.       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Raza Jafferi       
+
+
+     
+
+Name: Raza Jafferi       
+
+
+     
+
+Title: Vice President         
+ 
+- Fourth Amendment & Joinder
+ 
+S-8
+
+
+
+
+
+
+ 
+
+
+
+     
+
+AMEGY BANK NATIONAL   ASSOCIATION       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Kevin Donaldson       
+
+
+     
+
+Name: Kevin Donaldson       
+
+
+     
+
+Title: SVP         
+ 
+- Fourth Amendment & Joinder
+ 
+S-9
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT SUISSE AG, CAYMAN   ISLANDS       
+
+
+     
+
+BRANCH       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Michael Spaight       
+
+
+     
+
+Name: Michael Spaight       
+
+
+     
+
+Title: Authorized Signatory       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Samuel Miller       
+
+
+     
+
+Name: Samuel Miller       
+
+
+     
+
+Title: Authorized Signatory         
+ 
+- Fourth Amendment & Joinder
+ 
+S-10
+
+
+
+
+
+
+ 
+
+
+
+     
+
+SANTANDER BANK, N.A.       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Aidan Lanigan       
+
+
+     
+
+Name: Aidan Lanigan       
+
+
+     
+
+Title: Senior Vice President       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Vaughn Buck       
+
+
+     
+
+Name: Vaughn Buck       
+
+
+     
+
+Title: Executive Vice President         
+ 
+- Fourth Amendment & Joinder
+ 
+S-11
+
+
+
+
+
+
+ 
+
+
+
+     
+
+ABN AMRO CAPITAL USA LLC       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ David Montgomery       
+
+
+     
+
+Name:    
+
+David Montgomery       
+
+
+     
+
+Title:    
+
+Executive Director         
+ 
+ 
+
+
+
+     
+
+By:    
+
+/s/Darrell Holley       
+
+
+     
+
+Name:    
+
+Darrell Holley       
+
+
+     
+
+Title:    
+
+Managing Director         
+ 
+- Fourth Amendment & Joinder
+ 
+S-12
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CIT FINANCE LLC,       
+
+
+     
+
+as Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ John Feeley       
+
+
+     
+
+Name:    
+
+John Feeley       
+
+
+     
+
+Title:    
+
+Director         
+ 
+- Fourth Amendment & Joinder
+ 
+S-13
+
+
+
+
+
+
+ 
+ANNEX I
+ 
+Commitments and Pro Rata Shares
+ 
+
+
+
+Financial Institution    
+
+     
+
+Commitment    
+
+     
+
+Existing Lender/   New Lender    
+
+     
+
+Pro Rata   Share    
+
+        
+
+
+Citibank, N.A.     
+
+     
+
+$    
+
+34,000,000    
+
+     
+
+Existing Lender    
+
+     
+
+12.1    
+
+%       
+
+
+RB International   Finance (USA) LLC    
+
+     
+
+$    
+
+34,000,000    
+
+     
+
+Existing Lender    
+
+     
+
+12.1    
+
+%       
+
+
+ABN AMRO Capital   USA LLC    
+
+     
+
+$    
+
+34,000,000    
+
+     
+
+Existing Lender    
+
+     
+
+12.1    
+
+%       
+
+
+KeyBank National Association    
+
+     
+
+$    
+
+27,000,000    
+
+     
+
+Existing Lender    
+
+     
+
+9.6    
+
+%       
+
+
+The Bank of Nova Scotia    
+
+     
+
+$    
+
+24,500,000    
+
+     
+
+Existing Lender    
+
+     
+
+8.8    
+
+%       
+
+
+Bank of America, N.A.    
+
+     
+
+$    
+
+24,500,000    
+
+     
+
+Existing Lender    
+
+     
+
+8.8    
+
+%       
+
+
+BOKF, NA dba Bank of Oklahoma    
+
+     
+
+$    
+
+24,500,000    
+
+     
+
+Existing Lender    
+
+     
+
+8.8    
+
+%       
+
+
+Santander Bank, N.A.    
+
+     
+
+$    
+
+24,500,000    
+
+     
+
+Existing Lender    
+
+     
+
+8.8    
+
+%       
+
+
+Amegy Bank National Association    
+
+     
+
+$    
+
+19,000,000    
+
+     
+
+Existing Lender    
+
+     
+
+6.8    
+
+%       
+
+
+CIT Finance LLC    
+
+     
+
+$    
+
+19,000,000    
+
+     
+
+New Lender    
+
+     
+
+6.8    
+
+%       
+
+
+Credit Suisse AG, Cayman Islands Branch    
+
+     
+
+$    
+
+15,000,000    
+
+     
+
+Existing Lender    
+
+     
+
+5.4    
+
+%       
+
+
+TOTAL    
+
+     
+
+$    
+
+280,000,000    
+
+     
+
+     
+
+     
+
+100    
+
+%         
+ 
+(End of Annex I)
+ 
+- Fourth Amendment & Joinder
+ 
+
+
+
+
+
+
+
+
+

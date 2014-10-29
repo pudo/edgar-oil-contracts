@@ -1,0 +1,1180 @@
+
+EX-10.15
+2
+d296409dex1015.htm
+ASSET PURCHASE AGREEMENT
+
+
+ASSET PURCHASE AGREEMENT
+
+ 
+
+
+ Exhibit 10.15  ASSET PURCHASE AGREEMENT  By and Among 
+SUNOCO PARTNERS MARKETING & TERMINALS L.P.  and  BLUE DOLPHIN PIPE LINE COMPANY 
+and 
+BITTER CREEK PIPELINES, LLC  August 3, 2011  -- 
+
+
+
+
+
+ Table of Contents 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 1.      Definitions.
+  
+ 
+1
+  
+
+ 2.      Purchase and Sale
+  
+ 
+5
+  
+
+ (a)    Assets
+  
+ 
+5
+  
+
+ (b)    Excluded Assets
+  
+ 
+6
+  
+
+ (c)    Purchase Price
+  
+ 
+7
+  
+
+ (d)    Easements
+  
+ 
+7
+  
+
+ (e)    Product Agreement
+  
+ 
+7
+  
+
+ (f)     Conveyance Documents
+  
+ 
+7
+  
+
+ (g)    Excluded Liabilities
+  
+ 
+7
+  
+
+ (h)    The Closing
+  
+ 
+8
+  
+
+ (i)     Deliveries at the Closing
+  
+ 
+8
+  
+
+ (j)     Apportionments
+  
+ 
+8
+  
+
+ (k)    Purchase Price Allocation
+  
+ 
+9
+  
+
+ 3.      Representations and Warranties Concerning the Transaction
+  
+ 
+10
+  
+
+ (a)    Representations and Warranties of the Seller
+  
+ 
+10
+  
+
+ (b)    Representations and Warranties of the Buyer
+  
+ 
+11
+  
+
+ 4.      Representations and Warranties Concerning the Assets
+  
+ 
+12
+  
+
+ (a)    Noncontravention
+  
+ 
+12
+  
+
+ (b)    Title to Assets
+  
+ 
+12
+  
+
+ (c)    Material Change
+  
+ 
+12
+  
+
+ (d)    Legal Compliance
+  
+ 
+13
+  
+
+ (e)    Contracts and Commitments
+  
+ 
+13
+  
+
+ (f)     Litigation
+  
+ 
+13
+  
+
+ (g)    Environmental Matters
+  
+ 
+13
+  
+
+ (h)    Permits
+  
+ 
+14
+  
+
+ (i)     Pipeline Rights-of-Way
+  
+ 
+15
+  
+
+ (j)     Condition of Assets
+  
+ 
+15
+  
+
+ (k)    Taxes
+  
+ 
+15
+  
+
+ (l)     Disclaimer of Representations and Warranties Concerning Personal Property, Equipment, and
+Fixtures
+  
+ 
+15
+  
+
+ 5.      Post-Closing Covenants
+  
+ 
+16
+  
+
+ (a)    General
+  
+ 
+16
+  
+
+ (b)    Litigation Support
+  
+ 
+16
+  
+
+ (c)    Delivery and Retention of Records
+  
+ 
+16
+  
+
+ (d)    Mail; Communications
+  
+ 
+17
+  
+
+   i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (e)    Certificate of Non-foreign Status
+  
+ 
+17
+  
+
+ (f)     Identified Environmental Issue
+  
+ 
+17
+  
+
+ 6.      Remedies for Breaches of this Agreement
+  
+ 
+18
+  
+
+ (a)    Claim Relating to Pre-Closing and Post Closing Obligations
+  
+ 
+18
+  
+
+ (b)    Survival of Representations, Warranties and Certain Covenants
+  
+ 
+18
+  
+
+ (c)    Indemnification Provisions for Benefit of the Buyer
+  
+ 
+19
+  
+
+ (d)    Indemnification Provisions for Benefit of the Seller
+  
+ 
+20
+  
+
+ (e)    Matters Involving Third Parties
+  
+ 
+21
+  
+
+ (f)     Determination of Amount of Adverse Consequences
+  
+ 
+22
+  
+
+ (g)    Special Indemnification Provisions
+  
+ 
+22
+  
+
+ (h)    Buyer and Seller Damages
+  
+ 
+23
+  
+
+ 7.      Miscellaneous
+  
+ 
+23
+  
+
+ (a)    Sellers Representative
+  
+ 
+23
+  
+
+ (b)    Press Releases and Public Announcements
+  
+ 
+24
+  
+
+ (c)    No Third Party Beneficiaries
+  
+ 
+24
+  
+
+ (d)    Succession and Assignment
+  
+ 
+24
+  
+
+ (e)    Counterparts
+  
+ 
+24
+  
+
+ (f)     Headings
+  
+ 
+24
+  
+
+ (g)    Notices
+  
+ 
+24
+  
+
+ (h)    Governing Law
+  
+ 
+26
+  
+
+ (i)     Amendments and Waivers
+  
+ 
+26
+  
+
+ (j)     Severability
+  
+ 
+26
+  
+
+ (k)    Transaction Expenses
+  
+ 
+26
+  
+
+ (l)     Certain Taxes
+  
+ 
+26
+  
+
+ (m)   Construction
+  
+ 
+26
+  
+
+ (n)    Incorporation of Exhibits and Schedules
+  
+ 
+27
+  
+
+ (o)    Entire Agreement
+  
+ 
+27
+  
+
+   ii 
+
+
+
+
+
+
+
+ ASSET PURCHASE AGREEMENT 
+THIS ASSET PURCHASE AGREEMENT (this Agreement) is entered into as of August 3, 2011, by and among Blue Dolphin
+Pipe Line Company, a Delaware corporation (Blue Dolphin), and Bitter Creek Pipelines, LLC, a Colorado limited liability company (Bitter Creek), Blue Dolphin and Bitter Creek are collectively referred to herein
+as the Seller), and Sunoco Partners Marketing & Terminals L.P., a Texas limited partnership (the Buyer). The Seller and the Buyer are sometimes referred to collectively herein as the
+Parties and each individually as a Party.  RECITALS 
+WHEREAS, the Seller owns the Assets (as hereinafter defined); and 
+WHEREAS, this Agreement contemplates a transaction in which the Buyer will purchase from the Seller, and the Seller will sell to the
+Buyer, all of the Sellers right, title and interest in and to the Assets in return for the consideration specified herein;  NOW, THEREFORE, in consideration of the mutual promises herein made, and in consideration of the representations, warranties, and covenants herein contained, the Parties hereby agree as follows:
+ 1. Definitions.  Adverse Consequences means all actions, suits, proceedings, hearings, investigations, charges, complaints, claims, demands, injunctions, judgments, orders, decrees, rulings, damages,
+dues, penalties, fines, costs, reasonable amounts paid in settlement, liabilities, obligations, Taxes, liens, losses, expenses, and fees, including court costs and reasonable attorneys fees and expenses, but excluding punitive, exemplary,
+special or consequential damages, unless such punitive, exemplary, special or consequential damages are payable in connection with a Third Party Claim by an Indemnified Party.  Affiliate means, with respect to any Person, any Person which directly or indirectly, controls, is controlled by, or is under a common control with such Person. The term
+control (including the terms controlled by and under common control with) as used in the preceding sentence means the possession, directly or indirectly, of the power to direct or cause the direction of management
+and policies of a Person, whether through the ownership of voting securities, by contract, or otherwise. 
+Assets has the meaning set forth in Section 2(a). 
+Bill of Sale has the meaning set forth in Section 2(f)(i). 
+   1 
+
+
+
+
+
+
+ Business Day means any day other than a Saturday, Sunday, federal holiday
+or state holiday in Houston, Texas, or any other day on which national banks with offices in Houston, Texas, are authorized or required by Applicable Law to be closed.  Buyer has the meaning set forth in the preface hereto. 
+Buyer Easements has the meaning set forth in Section 2(d). 
+Buyer Parties means the Buyer, its Affiliates and their respective officers, directors, members, shareholders,
+employees and agents, and their successors and permitted assigns.  Closing has the meaning set forth in
+Section 2(h).  Closing Date has the meaning set forth in Section 2(h). 
+Closing Payment has the meaning set forth in Section 2(c). 
+Code means the Internal Revenue Code of 1986, as amended, or any successor Law. 
+Deeds has the meaning set forth in Section 2(f)(ii). 
+Dow Plant means the Dow Chemical Freeport, TX processing plant where the Sellers onshore natural gas pipeline
+terminates.  Encumbrance means any mortgage, deed of trust, lease, pledge, option, easement, right of way,
+encroachment, conditional sales agreement, lien, encumbrance, charge, security interest, charge or restriction of any kind, or other defect in title.  Environmental Law or Environmental Laws has the meaning set forth in Section 4(g)(i).  Facility has the meaning set forth in Section 2(b)(x). 
+GAAP means generally accepted accounting principles in the United States as in effect from time to time and
+consistently applied.  GIGS Valve Site has the meaning set forth in Section 5(h). 
+Governmental Authority means the United States and any department, commission, board, bureau, court, agency or any
+other instrumentality of any federal, state, provincial, county, city, municipal or other political subdivision, agency, court or instrumentality, whether foreign or domestic. 
+   2 
+
+
+
+
+
+
+ Hazardous Substances means all hazardous or toxic materials, substances
+and wastes which are regulated under any Environmental Law or which may form the basis for liability under any Environmental Law.  Identified Environmental Issue shall have the meaning given said term in Section 4(g).  Indemnified Party has the meaning set forth in Section 6(e)(i).  Indemnifying Party has the meaning set forth in Section 6(e)(i).  Knowledge means, in the case of the Seller, the actual knowledge of the officers and directors of Blue Dolphin after reasonable investigation and inquiry and with respect to Bitter
+Creek, the actual knowledge of the Executive Vice President and Chief Operating Officer without any requirement to investigate. 
+Laws means any statute, code, constitution, law, regulation, rule, writ, injunction, judgment, directive, order,
+decree, ruling, charge, or other restriction of any applicable Governmental Authority.  Material Adverse
+Effect means any change or effect that, individually or in the aggregate with other changes or effects, is materially adverse to the Assets and/or would cost in excess of $450,000 to cure or remedy, provided that in determining whether a
+Material Adverse Effect has occurred, changes or effects relating to (i) the natural gas pipeline industry generally (including the price of natural gas and the costs associated with the drilling and/or production of natural gas),
+(ii) United States or global economic conditions or financial markets in general, or (iii) the transactions contemplated by this Agreement, shall not be considered.  Ordinary Course of Business means the ordinary course of business consistent with the Sellers commercially reasonable past custom and practice (including with respect to
+quantity and frequency).  Party and Parties have the meanings set forth in the
+preface.  Permitted Encumbrances means any of the following: (i) any liens for Taxes not yet
+delinquent or, if delinquent, that are being contested in good faith in the ordinary course of business; (ii) any obligations or duties reserved to or vested in any municipality or other Governmental Authority to regulate any of the Assets in
+any manner including all applicable Laws; (iii) the terms and conditions of all permits, licenses and other agreements set forth in Schedule 1; (iv) easements, rights of way, servitudes, permits, surface leases and other rights with
+respect to surface obligations, pipelines, conditions, covenants or other restrictions, so long as individually or in the aggregate they are not such as are reasonably likely to have a Material Adverse Effect; and (v) materialmens,
+mechanics, repairmens, and other similar liens or 
+   3 
+
+
+
+
+
+
+ 
+charges arising in the ordinary course of business incidental to construction, maintenance or operation of the Assets (A) if they have not been filed pursuant to law, (B) if filed, they
+have not yet become due and payable or (C) if their validity is being contested in good faith in the ordinary course of business by appropriate action. For the purposes of clarity, the liabilities underlying the Permitted Encumbrances described
+in subclauses (i) and (v) are Excluded Liabilities notwithstanding such liens or charges being Permitted Encumbrances.  Person means any individual, partnership, corporation, limited liability company, association, joint stock company, trust, joint venture, unincorporated organization, Governmental
+Authority or any other legal entity.  Product Agreement has the meaning set forth in Section 2(e).
+ Purchase Price has the meaning set forth in Section 2(c). 
+ROW Assignments has the meaning set forth in Section 2(f)(ii). 
+Seller has the meaning set forth in the preface hereto. 
+Seller Easements has the meaning set forth in Section 2(d). 
+Seller Parties means the Seller, its Affiliates and their respective officers, directors, members, shareholders,
+employees and agents, and their successors and permitted assigns.  Sellers Representative has the
+meaning set forth in Section 7(a).  Tax or Taxes means (i) any federal, state,
+local, or foreign income, gross receipts, license, payroll, employment, excise, severance, stamp, occupation, premium, windfall profits, environmental (including taxes under Code §59A), custom duties, capital stock, franchise, profits,
+withholding, social security (or similar excises), unemployment, disability, real property, personal property, sales, use, transfer, registration, value added, alternative or add-on minimum, estimated, or other tax, assessment, charge, duty, levy or
+other similar governmental charge of any kind whatsoever, including any interest, penalty or addition thereto, whether disputed or not, together with all estimated taxes, deficiency assessments, additions to tax, penalties and interest;
+(ii) any liability for the payment of any amount of a type described in clause (i) arising as a result of being or having been a member of any consolidated, combined, unitary or other group or being or having been included or required to
+be included in any Tax Return related thereto; and (iii) any liability for the payment of any amount of a type described in clause (i) or clause (ii) as a result of any obligation to indemnify or otherwise assume or succeed to the
+liability of any other Person.  Tax Return means any return, declaration, report, estimate, claim for
+refund, or information return or statement relating to Taxes, including any schedule or attachment thereto, and including any amendment thereof. 
+   4 
+
+
+
+
+
+
+ Third Party Claim has the meaning set forth in Section 6(e)(i).
+ 2. Purchase and Sale.  (a) Assets. Subject to the terms and conditions of this Agreement, the Seller agrees to sell, and the Buyer agrees to purchase from the Seller, the following assets (the Assets):
+ (i) that certain pipeline system located onshore in Brazoria County, Texas, which is commonly known as the Buccaneer
+Pipeline, including the easements and rights-of-way listed on Exhibit 2(a)(i), and all pipelines, pumping station, barge terminal, including loading birth, resting dolphins and related equipment and fixtures primarily used in the operation of
+the Buccaneer Pipeline;  (ii) those certain tracts or parcels of real estate described in Exhibit 2(a)(ii) (the
+Land), including (A) all right-of-ways, ingress and egress, easements, rights, benefits, privileges, hereditaments, tenements, remainders, interests, reversions and appurtenances thereto belonging or in any way appertaining
+to the Land, (B) to the extent transferable, all access, air, water, riparian, development, utility and solar rights related to the Land, and (C) any unused, undeveloped or abandoned platted street, road, alley, highway, right-of-way or
+avenue, which is not on the Retained Land, opened or proposed, within, in front of, abutting or adjoining the Land, to the centerline thereof;  (iii) all improvements upon the Land, including any buildings, storage tanks, including the onshore tanks numbered S-1000, S-1001, S-1002, and S-1003, fixtures, facilities and other fixed assets located
+on and/or affixed to the Land and related equipment, internal transfer pipelines and fixtures which are located on the Land on the date of this Agreement;  (iv) all other tangible personal property and fixtures that are used by the Seller primarily in the operation of the Assets, including all pipes, piping, pumps, motors, valves, fittings, miscellaneous
+equipment, automation systems, personal computers, printers and servers, electrical facilities, improvements, storage tanks, buildings and all other fixed assets and personal property; 
+(v) all books, files, maps, records and reports (including electronic data files that would not violate any license or Law) pertaining
+primarily to the Assets other than income Tax Returns, income Tax work papers and other income Tax records, including all pipeline and plant construction and testing records, vessel and pipe certifications and weld x-rays, equipment specifications
+and operating manuals and inspection reports, real and personal property and ad valorem Tax records and information relating to the other Assets, and reports and filings to and with the U.S. Environmental Protection Agency, the state of Texas or any
+other Governmental Authority or agency thereof; and 
+   5 
+
+
+
+
+
+
+ (vi) all permits, licenses, orders, concessions, certificates of occupancy and other
+governmental authorizations and approvals obtained by the Seller pertaining or relating to the Assets, including those set forth on Exhibit 2(a)(vi) hereto, to the extent legally assignable or transferable. 
+(b) Excluded Assets. Notwithstanding any provision of Section 2(a) hereof, the Assets do not include, and the Seller shall
+retain all right, title and interest in and to the following assets (the Excluded Assets):  (i) all cash and
+cash equivalents of the Seller;  (ii) all accounts and notes receivable arising out of, resulting from or relating to the
+business and operations of the Assets for periods up to the Closing Date, and all claims, causes of action and rights relating thereto and proceeds thereof;  (iii) all rights under insurance policies of the Seller and its Affiliates relating to the Assets;  (iv) all computer equipment;  (v) Tax credits, Tax refunds or other Tax assets
+relating to whole or partial taxable periods on or before the Closing Date;  (vi) Tax Returns, Tax work papers and other Tax
+records and information other than real and personal property and ad valorem Tax records and information relating to the Assets;  (vii) All equipment located in the Sellers offices;  (viii) The 20 inch
+liquids and natural gas pipeline offshore and onshore pipeline which terminates at the Facility which is commonly known as the Blue Dolphin Pipeline;  (ix) Any real estate interests which are not expressly included in the Land (the Retained Land);  (x) The processing facility located on the Retained Land (the Facility);  (xi) The 16 inch natural gas pipeline which begins at the Facility and which terminates at the Dow Plant; and 
+   6 
+
+
+
+
+
+
+ (xv) All inventory of crude oil and crude products located in any of the onshore tanks; and
+ (xvii) All other assets of Seller not specifically described in paragraph 2(a). 
+(c) Purchase Price. In consideration for the sale of the Assets, the Buyer agrees to pay to the Seller at the Closing $4,500,000
+(the Purchase Price), less the Sellers allocation for ad valorem and real property Taxes as set forth on the written agreement by the Parties made in accordance with Section 2(j)(ii) (the resulting amount, the
+Closing Payment), payable by wire transfer of immediately available funds as follows: 16 2/3% of the Closing Payment shall be paid to Bitter Creek, and 83 1/3% of the Closing Payment shall be paid to Blue Dolphin. 
+(d) Easements. At the Closing, (i) the Seller shall deliver to the Buyer easements (the Buyer Easements)
+with respect to the Retained Land in the form of Exhibit 2(d)-1, and (ii) the Buyer shall deliver to the Seller easements with respect to the Land (the Seller Easements), in the form of Exhibit 2(d)-2. 
+(e) Product Agreement. At the Closing, Blue Dolphin and the Seller will enter into an agreement in the form of Exhibit 2(e) (the
+Product Agreement).  (f) Conveyance Documents. 
+(i) At the Closing, the sale, transfer, assignment, conveyance and delivery of all tangible and intangible personal property, any
+assignable permits and the books and records included in the Assets shall be effected pursuant to a bill of sale and assignment agreement substantially in the form of Exhibit 2(f)(i) (Bill of Sale). 
+(ii) At the Closing, the transfer of the Land and improvements on the Land shall be effected pursuant to (1) one or more special
+warranty deeds substantially in the form of Exhibit 2(f)(ii)-1 (the Deeds) and (2) one or more assignments of easements and rights of way substantially in the form of Exhibit 2(f)(ii)-2 (the ROW
+Assignments).  (g) Excluded Liabilities. The Buyer shall not assume, and the Seller shall retain and be
+responsible for and shall pay and discharge when due, any liabilities or obligations arising out of, resulting from or relating to any of the Assets, whether absolute, contingent, matured or unmatured, arising or relating to events or circumstances
+occurring prior to or on the Closing Date (collectively, the Excluded Liabilities), and specifically (but not by way of limitation), the Buyer shall not assume the following liabilities and obligations: 
+(i) any accounts and notes payable arising out of, resulting from or relating to the Assets to the extent relating to or for periods up
+to and including the Closing Date; 
+   7 
+
+
+
+
+
+
+ (ii) all indebtedness of the Seller for borrowed money; 
+(iii) all Taxes arising out of, resulting from or relating to the Assets for whole or partial taxable periods on or before the Closing
+Date; and  (iv) all Liabilities relating to the ownership, use, operation or disposition of the Assets prior to the Closing
+Date.  (h) The Closing. The closing of the transactions contemplated by this Agreement (the Closing)
+shall take place at the offices of Stewart Title Company on the date hereof, or on such other date as the Buyer and the Sellers Representative may mutually determine (the Closing Date). The Closing will be effective as of
+1:00 p. m. on the Closing Date.  (i) Deliveries at the Closing. At the Closing, (i) Blue Dolphin will deliver the
+Product Agreement and the Seller will deliver to the Buyer the Buyer Easements, Bill of Sale, Deeds, ROW Assignments and various other certificates, instruments, and documents required to be delivered by it pursuant to this Agreement, (ii) the
+Buyer will deliver to Blue Dolphin the Product Agreement and will deliver to the Seller the Seller Easements and various other certificates, instruments, and documents required to be delivered by it pursuant to this Agreement, (iii) the Seller
+will deliver to the Buyer such other instruments of assignment and transfer as shall be necessary to transfer to the Buyer all of the Sellers right, title and interest in and to the Assets free and clear of any Encumbrance other than any
+Permitted Encumbrance, and (iv) the Buyer will deliver to the Seller the Closing Payment.  (j) Apportionments.
+ (i) Subject to Section 2(j)(ii) below, all charges, expenses, ad valorem and property Taxes and
+other costs payable with respect to operating or owning any or all of the Assets, including water, electricity, sewage, gas, and all other utilities shall be prorated between the Seller and the Buyer as of the Closing Date. Any charges, expenses, ad
+valorem and property Taxes and other costs payable shall be deemed to have accrued when the event giving rise to such charge, expense, ad valorem and property Tax and other cost payable occurred (whether or not such charge, expense, ad valorem and
+property Tax and other cost payable was invoiced or paid at the Closing Date). All proceeds attributable to the operation, ownership, use or maintenance of or otherwise relating to the Assets prior to the Closing Date shall be the property of the
+Seller. In the event, through inadvertence, mistake or otherwise, any such proceeds are transferred to or received by the Buyer, the Buyer shall promptly and fully disclose, account for and transmit the same to the Sellers Representative
+(which shall distribute 1/6th of the proceeds to Bitter
+Creek and 5/6ths of the proceeds to Blue Dolphin). All proceeds attributable to the operation, ownership, use or maintenance of or otherwise relating to the Assets after the Closing Date shall be the property of the Buyer. In the event, through
+inadvertence, mistake or otherwise, any such proceeds are transferred to or received by the Seller, the Seller shall promptly and fully disclose, account for and transmit the same to the Buyer. 
+   8 
+
+
+
+
+
+
+ (ii) The Buyer shall be responsible for the actual payment of all ad valorem and property
+Taxes with respect to the Assets for the calendar year in which the Closing occurs; provided, however, that the Seller shall reimburse the Buyer for its pro rata share of such Taxes to the extent not previously paid by the Seller. An estimate of
+such ad valorem and property Taxes, based upon the prior years ad valorem and property Tax assessments plus five percent (5%), together with a resulting calculation of the Closing Payment, is attached hereto as Exhibit 2(j)(ii). Such amount
+shall be binding on the Parties as a final allocation of ad valorem and property Taxes notwithstanding the actual amount of Taxes paid by the Buyer and shall be included as an adjustment to the Purchase Price reflected in the Closing Payment, as
+described in Section 2(c). The ad valorem and property Taxes for the year of Closing for which the Seller is responsible shall be determined by applying a fraction based on the number of days in the calendar year prior to the Closing Date to
+such Taxes for the calendar year.  (k) Purchase Price Allocation. The Sellers Representative and the Buyer shall,
+within thirty (30) days prior to the filing the respective 2011 federal Tax Returns of Blue Dolphin, Bitter Creek and the Buyer attempt in good faith to agree to an allocation of the Purchase Price among the Assets. Should the allocation be
+agreed to, the Buyer, Blue Dolphin and Bitter Creek will (i) report the federal, state and local income and other Tax consequences of the transactions contemplated herein, and in particular report the information required by
+Section 1060(b) of the Code, and jointly prepare Form 8594 (Asset Acquisition Statement under Section 1060) in a manner consistent with such allocation and (ii) not to take any position inconsistent therewith upon examination of any
+Tax Return, in any refund claim, or in any litigation or investigation or otherwise, unless required by applicable Laws or with the consent of the other Parties. Blue Dolphin, Bitter Creek and the Buyer agree that each will furnish to the others a
+copy of Form 8594 proposed to be filed with the Internal Revenue Service by such Party or any Affiliate thereof within ten (10) days prior to the filing of such form with the Internal Revenue Service. Should the Parties not agree as to the
+allocation, they shall so indicate the same on their respective Form 8594 to the extent required by the Asset Acquisition Statement under IRC Section 1060. The Buyer further agrees that if the amount of the Purchase Price allocated to any of
+the Assets by the Seller and the Buyer increases (or decreases) after the taxable year that includes the Closing Date, the Seller and the Buyer shall file Supplemental Asset Acquisition Statements on Form 8594 with their respective
+income Tax Returns for the taxable year in which the increase (or decrease) is properly taken into account. 
+   9 
+
+
+
+
+
+
+ 3. Representations and Warranties Concerning the Transaction. 
+(a) Representations and Warranties of the Seller. Blue Dolphin hereby represents and warrants to the Buyer, with respect to Blue
+Dolphin, and Bitter Creek hereby represents and warrants to the Buyer, with respect to Bitter Creek, as follows:  (i)
+Organization of the Seller. Blue Dolphin and Bitter Creek are each, and on the Closing Date each will be, a corporation and a limited liability company respectively, duly organized, validly existing, and in good standing, in the case of Blue
+Dolphin under the Laws of the state of Delaware, and in the case of Bitter Creek under the Laws of the state of Colorado, and are each duly qualified or licensed to do business as a foreign entity in all states where it is necessary and required to
+be so qualified or licensed in order to perform the obligations and effect the transactions contemplated by this Agreement. 
+(ii) Authorization of Transaction. Each of Blue Dolphin and Bitter Creek has full power and authority to (i) own and operate
+the Assets and to carry on its business with respect to the Assets as currently conducted and (ii) execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement, and all other
+documents required hereunder to be executed and delivered by the Seller, and the performance of the transactions contemplated hereby have been duly and validly authorized by such action, corporate or otherwise, necessary on behalf of each of Blue
+Dolphin and Bitter Creek. This Agreement constitutes, and each document required to be executed and delivered by each of Blue Dolphin and Bitter Creek hereunder shall constitute, the valid and legally binding obligation of each of Blue Dolphin and
+Bitter Creek, enforceable in accordance with its terms and conditions, subject, however, to the effects of bankruptcy, insolvency, reorganization, moratorium or similar Laws affecting creditors rights generally, and to general principles of
+equity (regardless of whether such enforceability is considered in a proceeding in equity or at law). Except as set forth on Schedule 3(a)(ii), the Seller need not give any notice to, make any filing with, or obtain any authorization, consent, or
+approval of any Governmental Authority in order to consummate the transactions contemplated by this Agreement.  (iii)
+Noncontravention. Except for the approvals and filings specified in Schedule 3(a)(ii), or as set forth in Schedule 3(a)(iii), neither the execution and delivery of this Agreement, nor the performance by Seller of its obligations hereunder,
+nor the consummation of the transactions contemplated hereby, will (A) violate any provision of the constituent organizational documents of either Blue Dolphin or Bitter Creek, (B) violate any statute, regulation, rule, injunction,
+judgment, order, decree, ruling, charge, or other restriction of any Governmental Authority to which either each of Blue Dolphin or Bitter Creek is subject or any provision of its charter or bylaws, or (C) conflict with, result in a breach of,
+constitute a default under, result in the acceleration of, create in any party the right to accelerate, terminate, modify, or cancel, or require any notice, approval or consent under any agreement, contract, lease, license, instrument, or other
+arrangement to which either Blue Dolphin or Bitter Creek is a party 
+   10 
+
+
+
+
+
+
+
+ 
+or by which it is bound or to which any of its assets is subject, except for such violations, defaults, breaches, or other occurrences that do not, individually or in the aggregate, have a
+Material Adverse Effect on the ability of the Seller to consummate the transactions contemplated by this Agreement.  (iv)
+Brokers Fees. The Seller has no liability or obligation to pay any fees or commissions to any broker, finder, agent or any other Person with respect to the transactions contemplated by this Agreement for which the Buyer could become
+liable or obligated.  (b) Representations and Warranties of the Buyer. The Buyer hereby represents and warrants to the
+Seller as follows:  (i) Organization of the Buyer. The Buyer is, and on the Closing Date will be, a limited partnership
+duly organized, validly existing, and in good standing under the Laws of the state of Texas, and is duly qualified or licensed to do business as a foreign entity in all states where it is necessary and required to be so qualified or licensed in
+order to perform the obligations and effect the transactions contemplated by this Agreement.  (ii) Authorization of
+Transaction. The Buyer has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement, and all other documents required hereunder to be executed and
+delivered by Buyer, and the performance of the transactions contemplated hereby have been duly and validly authorized by such action, limited partnership or otherwise, necessary on behalf of the Buyer. This Agreement constitutes, and each document
+required to be executed and delivered by Buyer hereunder shall constitute, the valid and legally binding obligation of the Buyer, enforceable in accordance with its terms and conditions, subject, however, to the effects of bankruptcy, insolvency,
+reorganization, moratorium, or similar Laws affecting creditors rights generally and to general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law). The Buyer need not give any
+notice to, make any filing with, or obtain any authorization, consent, or approval of any Governmental Authority in order to consummate the transactions contemplated by this Agreement. 
+(iii) Noncontravention. Neither the execution and delivery of this Agreement, nor the performance by Buyer of its obligations
+hereunder, nor the consummation of the transactions contemplated hereby, will (A) violate any provision of the constituent organizational documents of Buyer, (B) violate any statute, regulation, rule, injunction, judgment, order, decree,
+ruling, charge, or other restriction of any Governmental Authority to which the Buyer is subject, or (C) conflict with, result in a breach of, constitute a default under, result in the acceleration of, create in any party the right to
+accelerate, terminate, modify, or cancel, or require any notice, approval or consent under any agreement, contract, lease, license, instrument, or other arrangement to which the Buyer is a party or by which it is bound or to which any of its assets
+is subject, except for such violations, defaults, breaches, or other occurrences that do not, individually or in the aggregate, have a material adverse effect on the ability of the Buyer to consummate the transactions contemplated by this Agreement.
+
+   11 
+
+
+
+
+
+
+
+ (iv) Brokers Fees. The Buyer has no liability or obligation to pay any fees or
+commissions to any broker, finder, agent or any other Person with respect to the transactions contemplated by this Agreement for which the Seller could become liable or obligated. 
+(v) Financing. The Buyer has sufficient financial resources to enable it to make payment of the Closing Payment at Closing without
+encumbrance or delay and without causing the Buyer to become insolvent or to declare insolvency.  4. Representations and
+Warranties Concerning the Assets. The Seller hereby represents and warrants to the Buyer as follows:  (a)
+Noncontravention. Neither the execution and delivery of this Agreement, nor the consummation of the transactions contemplated hereby, will (i) violate any Law or other restriction of any Governmental Authority to which the Assets are
+subject or (ii) conflict with, result in a breach of, constitute a default under, result in the acceleration of, create in any party the right to accelerate, terminate, modify, or cancel, or require any notice or trigger any rights to payment
+or other compensation under any agreement, contract, lease, license, instrument, or other arrangement to which any of the Assets is subject (or result in the imposition of any Encumbrance upon any of the Assets), except where the violation,
+conflict, breach, default, acceleration, termination, modification, cancellation, failure to give notice, right to payment or other compensation, or Encumbrance would not have a Material Adverse Effect, or would not materially adversely affect the
+ability of the Seller to consummate the transactions contemplated by this Agreement, or (iii) result in the cancellation, forfeiture, revocation, suspension or modification of any Assets or any existing permits or other governmental
+authorizations pertaining to the Assets.  (b) Title to Assets. Seller has good and defensible title to the Assets, free
+and clear of all Encumbrances, except for (i) Permitted Encumbrances, and (ii) the Encumbrances disclosed in Schedule 4(b). Blue Dolphin has an undivided 5/6 interest in the Assets, and Bitter Creek has an undivided 1/6 interest in the
+Assets; no other party has any interest in the Assets.  (c) Material Change. Except as set forth in Schedule 4(c),
+since February 28, 2011:  (i) there has not been any Material Adverse Effect; 
+(ii) the Assets have been prudently operated and maintained in the Ordinary Course of Business; 
+(iii) there has not been any material damage, destruction or loss to any material portion of the Assets, whether or not covered by
+insurance; 
+   12 
+
+
+
+
+
+
+
+ (iv) there has been no change affecting any of the Assets with any customers, licensors,
+suppliers, distributors or sales representatives, except for changes that do not have a Material Adverse Effect; and  (v)
+there is no contract, commitment or agreement by Seller to do any of the foregoing, except as expressly permitted hereby.  (d)
+Legal Compliance. The Assets are in legal compliance with all applicable Laws of all Governmental Authorities as they are currently enforced, except where the failure to comply would not have a Material Adverse Effect. The Seller makes no
+representations or warranties in this Section 4(e) with respect to Environmental Laws, for which the sole representations and warranties of the Seller are set forth in Section 4(g). 
+(e) Contracts and Commitments. There are no material contracts or commitments with respect to the Assets (including
+any contract, lease, agreement or commitment, written or oral, providing for receipt or payment, contingent or otherwise, of $25,000 or more, or which may not be terminated without payment or penalty, or containing any indemnity obligation, or
+relating to indebtedness or guarantee obligations, or concerning the transportation or processing of the products of any party by means of the Assets) to which the Seller or any of its Affiliates is a party, or which concerns the Assets as of the
+date hereof, with respect to which the Buyer will have any legal obligation to perform after Closing.   (f)
+Litigation. Schedule 4(f) sets forth each instance in which either Blue Dolphin or Bitter Creek (with respect to the Assets) or the Assets (i) is subject to any outstanding injunction, judgment, order, decree, ruling, or charge or
+(ii) is a party to or the subject of any action, suit, proceeding, hearing, or investigation of, in, or before any court or quasi-judicial or administrative agency of any federal, state, local, or foreign jurisdiction, or is the subject of any
+pending or, to the Sellers Knowledge, threatened claim, demand, or notice of violation or liability from any party.  (g)
+Environmental Matters. Except as set forth in Schedule 4(g):  (i) The Seller (with respect to the Assets) is in
+compliance with all applicable Laws (including common law) relating to (A) the control of any pollution or protection of human health and the environment (including the air, water, land surface or substrata), (B) solid, gaseous or liquid
+waste generation, handling, treatment, storage, disposal or transportation, (C) releases of or exposure to any Hazardous Substances and (D) the protection of the environment, including the Comprehensive Environmental Response,
+Compensation, and Liability Act of 1980, as amended, 42 U.S.C. section 9601, et seq. (CERCLA), the Resource Conservation and Recovery Act of 1976, as amended, 42 U.S.C. section 6901, et seq., the Clean Air Act, as
+
+   13 
+
+
+
+
+
+
+
+ 
+amended, 42 U.S.C. section 7401, et seq., the Federal Water Pollution Control Act, as amended, 33 U.S.C. section 1251, et seq., and the Oil Pollution Act of 1990, 33 U.S.C. section 2701, et seq.
+(collectively, the Environmental Laws and individually an Environmental Law), except for such instances of noncompliance that individually or in the aggregate do not have a Material Adverse Effect. 
+(ii) The Seller (with respect to the Assets) has obtained all permits, licenses, franchises, authorities, consents, and approvals, and
+has made all filings and maintained all material information, documentation, and records, as necessary under applicable Environmental Laws for operating the Assets and all such permits, licenses, franchises, authorities, consents, approvals, and
+filings remain in full force and effect, except for such matters that individually or in the aggregate do not have, or would not reasonably be expected to have, a Material Adverse Effect. 
+(iii) There are no pending or, to the Sellers Knowledge, threatened, claims, demands, actions, administrative proceedings or
+lawsuits against the Seller (with respect to the Assets), and neither the Seller nor any of the Assets are subject to any outstanding injunction, judgment, order, decree or ruling under any Environmental Laws. 
+(iv) The Seller has not received any written notice that it is or may be a potentially responsible party under CERCLA or any analogous
+state law in connection with any site actually or allegedly containing or used for the treatment, storage or disposal of Hazardous Substances.  (v) The Seller acknowledges, as of the Closing Date, the presence of the environmental conditions and/or potential noncompliance with Environmental Laws with respect to benzene levels identified in the
+Limited Phase II Environmental Assessment  Blue Dolphin Processing Facility dated July 7, 2011 and prepared by Groundwater & Environmental Services, Inc. for Sunoco Logistics Partners, L.P., which is referred to herein as the
+Identified Environmental Issue. The Identified Environmental Issue shall be subject to Section 5(f). 
+The Seller makes no representation or warranty regarding any compliance or failure to comply with, or any actual or contingent liability
+under, any Environmental Law, except as expressly set forth in this Section 4(g).  (h) Permits. Except as set
+forth in Schedule 4(h), the Seller owns or holds all franchises, licenses, permits, consents, approvals, and authorizations of all Governmental Authorities necessary for the conduct of the business conducted with the Assets (collectively, the
+Permits), except for Permits whose absence would not have a Material Adverse Effect. Each Permit is in full force and effect, and the Seller (with respect to the Assets) is in compliance with all of its obligations with respect to
+each Permit, except where the failure to be in full force and effect or to be in compliance would not have a Material Adverse Effect, and, to the Sellers 
+   14 
+
+
+
+
+
+
+
+ 
+Knowledge, no event has occurred that permits, or upon the giving of notice or the lapse of time or otherwise would permit, revocation or termination of any Permit except such as would not have a
+Material Adverse Effect.  (i) Pipeline Rights-of-Way. Except as expressly set forth in Schedule 4(i), the
+Seller has not received written notice from any third party and does not have Knowledge of any deficiency in any rights-of-way or other easements with respect to the entire route of all pipelines owned and used or held for use with respect to the
+Assets. The Seller has not sold or assigned any such rights-of-way and/or easements, in whole or in part, or any undivided interest therein, to any party whatsoever.  
+(j) Condition of Assets. Except as set forth in Schedule 4(j), the Assets constitute all of the tangible assets, real and
+personal, and permits reasonably necessary for Seller to operate the Assets as of the date hereof. Except as set forth in Schedule 4(j), to the Knowledge of Seller, the Assets: (i) are in serviceable and functional condition, (ii) have
+been maintained to normal industry standards,(iii) are suitable for the purposes used by the Seller, and there is no imminent repair or replacement pending with respect to the Assets. 
+(k) Taxes. Except as set forth in the Schedule 4(k), the Seller has timely filed all material federal, state, local and foreign
+Tax returns related to the Assets and has paid (except amounts being diligently contested in good faith by appropriate proceedings and disclosed in Schedule 4(k)) when due all Taxes arising from or related to the Assets, including any interest,
+penalties or additions attributable thereto shown as due on all such filings. Taxes which the Seller was required by applicable Laws to withhold or collect arising from or related to the Assets have been withheld or collected and have been paid over
+to the proper Governmental Authority or are properly held by the Seller for such payment when due and payable.  (l)
+Disclaimer of Representations and Warranties Concerning Personal Property, Equipment, and Fixtures. The Buyer acknowledges that (i) it has had and pursuant to this Agreement will have before Closing access to the Seller and the Assets,
+and the officers and employees of the Seller and (ii) in making the decision to enter into this Agreement and consummate the transactions contemplated hereby, the Buyer has relied solely on the basis of its own independent investigation and
+upon the express representations, warranties, covenants, and agreements set forth in this Agreement and in the other agreements referred to herein. Accordingly, the Buyer acknowledges that, except as expressly set forth in this Agreement and in the
+other agreements referred to herein, the Seller has not made, and THE SELLER MAKES NO AND DISCLAIMS ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, AND WHETHER BY COMMON LAW, STATUTE, OR OTHERWISE, REGARDING (A) THE QUALITY,
+CONDITION, OR OPERABILITY OF ANY PERSONAL PROPERTY, EQUIPMENT, OR FIXTURES, (B) ITS MERCHANTABILITY, (C) ITS FITNESS FOR ANY PARTICULAR PURPOSE, (D) ITS CONFORMITY TO MODELS, SAMPLES OF MATERIALS OR MANUFACTURER DESIGN, AND ALL
+PERSONAL 
+   15 
+
+
+
+
+
+
+
+ 
+PROPERTY AND EQUIPMENT IS DELIVERED AS IS, WHERE IS IN THE CONDITION IN WHICH THE SAME EXISTS, OR (E) ANY INFORMATION, DATA OR OTHER MATERIALS (WRITTEN OR ORAL) FURNISHED TO
+BUYER BY OR ON BEHALF OF SELLER (INCLUDING WITHOUT LIMITATION, IN RESPECT OF THE EXISTENCE OR EXTENT OF OIL, GAS OR OTHER MINERAL RESERVES, THE RECOVERABILITY OF OR THE COST OF RECOVERING SUCH RESERVES, OR THE LIKELIHOOD THAT SUCH RESERVES, IF
+RECOVERED, WILL BE TRANSPORTED OR PROCESSED BY MEANS OF THE ASSETS).  5. Post-Closing Covenants. The Parties agree as
+follows:  (a) General. In case at any time after the Closing any further action is necessary to carry out the purposes
+of this Agreement, each of the Parties will take such further action (including the execution and delivery of such further instruments and documents) as the other Party reasonably may request, all at the sole cost and expense of the requesting Party
+(unless the requesting Party is entitled to indemnification therefore under Section 6, in which case the allocation of such cost and expense shall be in accordance with Section 6). 
+(b) Litigation Support. In the event and for so long as any Party actively is contesting or defending against any action, suit,
+proceeding, hearing, investigation, charge, complaint, claim, or demand in connection with (i) any transaction contemplated under this Agreement or (ii) any fact, situation, circumstance, status, condition, activity, practice, plan,
+occurrence, event, incident, action, failure to act, or transaction involving the Assets, the other Party shall reasonably cooperate with the contesting or defending Party and its counsel in the defense or contest, make available its personnel, and
+provide such testimony and access to its books and records (other than books and records which are subject to privilege or to confidentiality restrictions) as shall be reasonably necessary in connection with the defense or contest, all at the sole
+cost and expense of the contesting or defending Party (unless the contesting or defending Party is entitled to indemnification therefor under Section 6, in which case the allocation of such cost and expense shall be in accordance with
+Section 6), but there shall be no cost to the contesting or defending Party for the direct labor cost of employees of the other Party.  (c) Delivery and Retention of Records. On or promptly after the Closing Date, the Seller will deliver or cause to be delivered to the Buyer all files, records, ad valorem and real property Tax
+records, information and data relating to the Assets, together with all of the Sellers and its subsidiaries contractual rights to request other such files, records, information, and data from any third party (other than income Tax
+Returns, income Tax workpapers and other income Tax records and information that are in the possession or control of the Seller and its subsidiaries) (the Records). The Buyer agrees (i) to hold the Records and not to destroy
+or dispose of any thereof for a period of 4 years from the Closing Date or such longer time as may be required by Law, provided that, if it desires to destroy or dispose of such Records during such period, it will first offer in writing at
+least 60 days before such destruction or disposition to 
+   16 
+
+
+
+
+
+
+
+ 
+surrender them to the Sellers Representative and if the Sellers Representative does not accept such offer in writing within 20 days after receipt of such offer, the Buyer may take
+such action and (ii) following the Closing Date to afford the Sellers Representative, its accountants, and counsel, during normal business hours, upon reasonable request, at any time, full access to the Records and to the Buyers
+employees to the extent that such access may be requested for any legitimate purpose at no cost to the Sellers Representative (other than for reasonable out-of-pocket expenses), so long as such access does not unreasonably interfere with
+Buyers operations, is conducted during normal business hours and is limited solely to such legitimate purpose; provided that such access will not be construed to require the disclosure of Records that would cause the waiver of any
+attorney-client, work product or like privilege; provided, further, that in the event of any litigation nothing herein shall limit either Partys rights of discovery under applicable Law. The Buyer shall have the same rights, and
+the Seller shall have the same obligations, as are set forth in this Section 5(c) with respect to any copies of the records of the Seller pertaining to the Assets that are retained by the Seller, provided that such access will not be construed
+to require the disclosure of records that would cause the waiver of any attorney-client, work product, or like privilege.  (d)
+Mail; Communications.  (i) The Seller hereby authorizes the Buyer from and after the Closing to receive and open all
+mail and other communications relating to the business conducted with the Assets, and to act with respect to such communications in such manner as the Buyer may elect to the extent that such communications relate to the rights and obligations of the
+Buyer with respect to the Assets. If any communication does not relate exclusively to the rights and obligations of the Buyer with respect to the Assets, the Buyer shall forward the original or a copy of such communication promptly to the
+Sellers Representative.  (ii) The Seller shall promptly deliver to the Buyer the original or a copy of any mail or other
+communication received by it after the Closing pertaining to the Assets.  (e) Certificate of Non-foreign Status. On the
+Closing Date, each of Blue Dolphin and Bitter Creek shall provide the Buyer with a properly executed certificate of non-foreign status in accordance with Treasury Regulation §1.1445-2(b) certifying under penalties of perjury that such Party is
+not a foreign person within the meaning of Section 1445(f) of the Code and Treasury Regulation §1.1445-2(b).  (f)
+Identified Environmental Issue. As promptly as may be practicable following Closing, the Seller shall perform such remediation work to the extent required to obtain a closure letter from the Texas Railroad Commission with respect to the
+Identified Environmental Issue. Such remediation work shall be done at the expense and risk of the Seller. The Buyer shall cooperate with the Seller with respect to such remediation work to the extent reasonably required by Seller. Upon the
+obtainment of such closure letter, Seller shall no longer have any liability or responsibility for the Identified Environmental Issue. 
+   17 
+
+
+
+
+
+
+
+ (g) Division of Tax Parcels. The Parties shall use commercially reasonable efforts to
+effectuate the division of any tax parcels of land for which Seller does not acquire a 100% interest in as part of the Land, including (i) Lot 1 of the Brazos County Investment Company Subdivision No. 10, in the F.J. Calvit League,
+Abstract 51, Brazoria County, Texas and (ii) a 105.52 acre tract out of the F.J. Calvit League, Abstract 51, Brazoria County, Texas, said tract being more particularly described by metes and bounds in a deed from Shell Oil Company recorded in
+Volume 1058, Page 783 of the Deed Records, Brazoria County, Texas, as promptly as may be practicable following Closing.  (h)
+GIGS Valve Site Easement. Within 90 days of the Closing Date, Blue Dolphin shall perform a survey of the GIGS pipeline constructed pursuant to the easement granted to TPC Transmission, Inc. and Buccaneer Land Partnership dated
+September 12, 1980 recorded in the Official Real Property Records of Brazoria County, Texas in Volume (89)730, Page 366, and shall determine an appropriate valve site on the Land (if any) for a connection between Sellers Blue Dolphin
+Pipeline and the GIGS pipeline, which shall be for a parcel of land of a size no less than 30 feet by 30 feet and no more 100 feet by 100 feet (the GIGS Valve Site); provided that (i) Blue Dolphin shall use
+commercially reasonable efforts to minimize the amount of land required for the GIGS Valve Site and (ii) the GIGS Valve Site shall not unreasonably interfere with the operations of the Buccaneer Pipeline as of the Closing Date. After Blue
+Dolphin has determined the GIGS Valve Site, Buyer shall execute in favor of Seller an easement in substantially the same form as Exhibit 2(d)-2 Pipeline and Valve Site Easement for a 2-year term; provided that such easement shall provide
+that when Seller completes construction of a stub-up/GIGS connection, such stub-up/GIGS connection to be reasonably acceptable to Buyer, such easement shall become permanent with no additional fee, subject to abandonment and removal provisions in
+the easement; provided further, that such easement shall provide that Seller may renew the easement for successive one-year periods prior to the expiration of the term by paying to Buyer $10,000 per calendar year, escalated 3% annually, due 30 days
+prior to the expiration of the easement.   6. Remedies for Breaches of this Agreement. 
+(a) Claim Relating to Pre-Closing and Post Closing Obligations. From and after the Closing the Seller will indemnify the Buyer
+Parties against any Adverse Consequences relating to claims brought by Third Parties which arise from the operation of the Assets prior to the Closing. From and after the Closing the Buyer will indemnify the Seller Parties against any Adverse
+Consequences relating to claims brought by Third Parties which arise from the operation of the Assets subsequent to the Closing.  (b) Survival of Representations, Warranties and Certain Covenants. (i) All of the 
+   18 
+
+
+
+
+
+
+
+ 
+representations and warranties of the Seller contained in this Agreement shall survive the Closing hereunder for a period of one year after the Closing Date, provided that the representations of
+the Seller contained in Sections 3(a)(i), 3(a)(ii), 3(a)(iv) and 4(b) shall survive the Closing indefinitely, and the representations made by the Seller in Section 4(k) shall survive until 60 days following the expiration of the applicable
+statute of limitations (taking into account any extensions thereof). The representations and warranties of the Buyer contained in this Agreement shall survive the Closing for a period of one year after the Closing Date, provided that the
+representations of the Buyer contained in Sections 3(b)(i), 3(b)(ii) and 3(b)(iv) shall survive the Closing indefinitely. The covenants contained in this Agreement to be performed after the Closing shall survive the Closing indefinitely. 
+(c) Indemnification Provisions for Benefit of the Buyer.  (i) From and after the Closing, in the event that: (x) the Seller breaches any of its representations and warranties contained herein (other than the representations and warranties in
+Section 3(a)(i), (ii) and (iv) and Section 4(b)); and (y) a Buyer Party makes a written claim for indemnification against the Seller pursuant to Section 10(g) within the applicable survival period as set forth in
+Section 6(b), then the Seller shall indemnify the Buyer Parties from and against any Adverse Consequences to the extent in excess of $10,000 per breach to the extent they are caused proximately by the breach and suffered by the Buyer Parties;
+provided, that the Seller shall not have any obligation to indemnify the Buyer Parties from and against any such Adverse Consequences (A) until the Buyer Parties have suffered Adverse Consequences by reason of all such breaches in excess
+of a $100,000 aggregate deductible (after which point the Seller will be obligated only to indemnify the Buyer Parties from and against further such Adverse Consequences) or thereafter (B) to the extent the Adverse Consequences the Buyer
+Parties have suffered by reason of all such breaches exceeds a $1,125,000 aggregate ceiling (after which point the Seller will have no obligation to indemnify the Buyer Parties from and against further such Adverse Consequences). Blue Dolphin and
+Bitter Creeks liability is several and not joint and as such, Blue Dolphins aggregate ceiling is $937,500 and Bitter Creeks aggregate ceiling is $187,500. 
+(ii) From and after the Closing, in the event the Seller breaches any of its representations and warranties in
+Section 3(a)(i), (ii) or (iv) or Section 4(b) or its post-Closing covenants contained herein (other than the covenants in Section 2(g)), then the Seller shall indemnify the Buyer Parties from and against the entirety of any
+Adverse Consequences caused proximately by the breach and suffered by the Buyer Parties through and after the date of the claim for indemnification, up to a maximum aggregate indemnification amount equal to the Purchase Price. Blue Dolphin and
+Bitter Creeks liability is several and not joint and as such, Blue Dolphins aggregate indemnification amount is 5/6ths of the indemnification amount and Bitter Creeks aggregate indemnification amount is 1/6th of the indemnification amount. 
+(iii) Except for (A) the rights of indemnification provided in Section 6(a), this
+
+   19 
+
+
+
+
+
+
+
+ 
+Section 6(c), Section 6(d) and in the Product Agreement, (B) the covenants in Section 6(a), which the Buyer may specifically enforce, (C) rights with respect to any
+agreement entered into by the Parties after the Closing Date, and (D) claims arising out of the Sellers actual fraud or willful misconduct, the Buyer hereby waives any claim or cause of action pursuant to common or statutory law or
+otherwise against the Seller regarding obligations and liabilities of any nature whatsoever that are attributable to the Assets, whether arising before or after the Closing Date. 
+(d) Indemnification Provisions for Benefit of the Seller. 
+(i) From and after the Closing, in the event that: (x) the Buyer breaches any of its representations and warranties contained herein
+(other than the representations and warranties in Section 3(b)(i), (ii) and (iv)); and (y) a Seller Party makes a written claim for indemnification against the Buyer pursuant to Section 6(g) within the applicable survival period
+as set forth in Section 6(b), then the Buyer shall indemnify the Seller Parties from and against any Adverse Consequences to the extent in excess of $10,000 per breach to the extent they are caused proximately by the breach and suffered by the
+Seller Parties; provided, that the Buyer shall not have any obligation to indemnify the Seller Parties from and against any such Adverse Consequences (A) until the Seller Parties have suffered Adverse Consequences by reason of all such breaches
+in excess of a $100,000 aggregate deductible (after which point the Buyer will be obligated only to indemnify the Seller Parties from and against further such Adverse Consequences) or thereafter (B) to the extent the Adverse Consequences the
+Seller Parties have suffered by reason of all such breaches exceeds a $1,125,000 aggregate ceiling (after which point the Buyer will have no obligation to indemnify the Seller Parties from and against further such Adverse Consequences). 
+(ii) From and after the Closing, in the event the Buyer breaches any of its representations and warranties in Section 3(b)(i),
+(ii) or (iv) or its post-Closing covenants contained herein, then the Buyer shall indemnify the Seller Parties from and against the entirety of any Adverse Consequences caused proximately by the breach and suffered by the Seller Parties
+through and after the date of the claim for indemnification, up to a maximum aggregate indemnification amount equal to the Purchase Price.  (iii) Except for (A) the rights of indemnification provided in Section 6(a), this Section 6(d), and in the Product Agreement, (B) the covenants in Section 6(a), which the Seller
+may specifically enforce, (C) rights with respect to any agreement entered into by the Parties after the Closing Date, and (D) claims arising out of the Buyers actual fraud or willful misconduct, the Seller hereby waives any claim or
+cause of action pursuant to common or statutory law or otherwise against the Buyer regarding obligations and liabilities of any nature whatsoever that are attributable to the Assets, whether arising before or after the Closing Date. 
+   20 
+
+
+
+
+
+
+
+ (e) Matters Involving Third Parties. 
+(i) If any third party shall notify any Seller Party or Buyer Party (the Indemnified Party) with respect to any matter
+(a Third Party Claim) that may give rise to a claim for indemnification against any Party (the Indemnifying Party) under this Section 6, then the Indemnified Party shall promptly (and in any event within 10
+Business Days after receiving notice of the Third Party Claim) notify the Indemnifying Party thereof in writing. The failure of any Indemnified Party to give notice of any such Third Party Claim on a timely basis shall not affect the rights of the
+Indemnified Party to indemnification hereunder unless the Indemnified Party demonstrates actual and material Adverse Consequences caused by such failure, in which case the Indemnified Partys right to be indemnified shall be reduced to the
+extent the Indemnifying Party demonstrates actual and material Adverse Consequences caused by such failure.  (ii) The
+Indemnifying Party (provided that for purposes of this Section 6(e) the Sellers Representative shall have the sole and exclusive right to act on behalf of the Seller as Indemnifying Party) will have the right to assume and thereafter
+conduct the defense of the Third Party Claim with reputable counsel of its choice reasonably satisfactory to the Indemnified Party; provided that, prior to the Indemnifying Party assuming control of such defense it shall first verify to the
+Indemnified Party in writing that such Indemnifying Party shall be fully responsible (with no reservation of any rights) for all Adverse Consequences relating to such claim for indemnification and that (subject to all monetary limitations set forth
+herein) it shall provide full indemnification (subject to the monetary limitations set forth herein) to the Indemnified Party with respect to such Third Party Claim giving rise to such claim for indemnification hereunder; provided further, however,
+that notice of the intention to so contest and defend shall be delivered by the Indemnifying Party to the Indemnified Party within 30 calendar days following receipt of the notice of the Third Party Claim. Notwithstanding the foregoing, the
+Indemnifying Party shall not be entitled to assume control of such defense (unless otherwise agreed to in writing by the Indemnified Party) and shall pay the reasonable fees and expenses of counsel retained by the Indemnified Party if (A) the
+claim for indemnification relates to or arises in connection with any criminal or quasi criminal Proceeding; (B) the claim seeks an injunction or equitable or other non-monetary relief against the Indemnified Party; (C) the Indemnified
+Party has been advised by counsel that a reasonable likelihood exists of a conflict of interest between the Indemnifying Party and the Indemnified Party that would make it inappropriate in the reasonable judgment of such counsel, that the same
+counsel represent both the Indemnified Party and the Indemnifying Party; (D) upon petition by the Indemnified Party, the appropriate court rules that the Indemnifying Party failed or is failing to vigorously prosecute or defend such claim; or
+(E) the Indemnified Party reasonably believes that the Adverse Consequences relating to the Claim could exceed the maximum amount that such Indemnified Party could then be entitled to recover under the applicable provisions of this
+Section 6. The Indemnified Party shall have the right to participate in such Third Party Claim and to be represented by counsel of its own choosing at its own cost and expense. The Indemnifying Party will not consent to the entry of any
+judgment or enter into any settlement with respect to the Third Party Claim without the prior written consent of the Indemnified Party (not to be withheld unreasonably), unless the judgment or proposed
+
+   21 
+
+
+
+
+
+
+
+ 
+settlement (A) involves only the payment of money damages and does not impose an injunction or other equitable relief upon the Indemnified Party, (B) does not involve a payment of money
+damages that exceeds the maximum amount that such Indemnified Party could then be entitled to recover under the applicable provisions of this Section 6, and (C) provides that the Indemnified Party will be fully and completely released from
+any further liability or obligation with respect to the matters which are the subject of such Third Party Claim, in which case consent shall not be required.  (iii) Unless and until the Indemnifying Party assumes the defense of the Third Party Claim as provided in subsection 6(d)(ii), the Indemnified Party may defend against the Third Party Claim in any manner
+it reasonably may deem appropriate, and the Indemnifying Party shall be responsible for all costs incurred in connection therewith.  (iv) In no event will the Indemnified Party consent to the entry of any judgment or enter into any settlement with respect to the Third Party Claim without the prior written consent of the Indemnifying
+Party, which consent shall not be withheld unreasonably; provided that, (A) if the Indemnifying Party does not give notice to the Indemnified Party of its election to contest and defend any such Third Party Claim in accordance with
+Section 6(d)(ii), then no such consent shall be required and the Indemnifying Party shall be bound by the result obtained with respect thereto by the Indemnified Party and (B) the Indemnified Party may consent to the entry of any judgment
+or enter into any settlement with respect to the Third Party Claim without the prior written consent of the Indemnifying Party if such judgment or settlement would result in no liability to the Indemnifying Party pursuant to this Section 6.
+ (f) Determination of Amount of Adverse Consequences. The Adverse Consequences giving rise to any indemnification
+obligation hereunder shall be limited to the actual loss suffered by the Indemnified Party (i.e., reduced by any insurance proceeds or other payment or recoupment received, realized or retained by the Indemnified Party as a result of the events
+giving rise to the claim for indemnification net of any expenses related to the receipt of such proceeds, payment or recoupment, including retrospective or prospective premium adjustments, if any). The amount of the actual loss and the amount of the
+indemnity payment shall be computed by taking into account the timing of the loss or payment, as applicable, using a 10 percent interest or discount rate, as appropriate. Upon the request of the Indemnifying Party, the Indemnified Party shall
+provide the Indemnifying Party with information sufficient to allow the Indemnifying Party to calculate the amount of the indemnity payment in accordance with this Section 6(f). An Indemnified Party shall take reasonable steps to mitigate
+damages in respect of any claim for which it is seeking indemnification and shall use reasonable efforts to avoid any costs or expenses associated with such claim and, if such costs and expenses cannot be avoided, to minimize the amount thereof.
+ (g) Special Indemnification Provisions. Notwithstanding any terms and provisions of this Agreement to the contrary,
+from and after the Closing, the Seller hereby covenants and 
+   22 
+
+
+
+
+
+
+
+ 
+agrees to protect, defend, indemnify and save the Buyer, its successors and assigns, harmless from and against any and all Adverse Consequences incurred in connection with or arising out of all
+breaches, if any, by the Seller of its covenants to the Buyer under Section 2(g) above, or otherwise relating to or arising from the Excluded Liabilities.  (h) BUYER AND SELLER (I) AGREE THAT ONLY ACTUAL DAMAGES SHALL BE RECOVERABLE UNDER THIS AGREEMENT AND (II) HEREBY WAIVE ANY RIGHT TO RECOVER SPECIAL, PUNITIVE, CONSEQUENTIAL, INCIDENTAL OR EXEMPLARY
+DAMAGES EXCEPT TO THE EXTENT ANY SUCH PARTY SUFFERS SUCH DAMAGES TO AN UNAFFILIATED THIRD-PARTY IN CONNECTION WITH A THIRD-PARTY CLAIM, IN WHICH EVENT SUCH DAMAGES SHALL BE RECOVERABLE AS PROVIDED PURSUANT TO THE TERMS OF THIS SECTION 6. 
+(i) Liability of Blue Dolphin and Bitter Creek under this Agreement, including this Section 6, is several and not joint. 
+7. Miscellaneous.  (a) Sellers Representative. Blue Dolphin and Bitter Creek hereby designate Blue Dolphin as the representative for the Seller (collectively, the Sellers
+Representative) to represent Blue Dolphin and Bitter Creek, as the Seller, from and after the date hereof in all matters relating to this Agreement and the transactions contemplated hereby. The Sellers Representative shall have the
+following powers and duties: (i) to take the actions contemplated to be taken by the Sellers Representative under this Agreement; (ii) to compromise, modify, settle, waive, relinquish, exchange, liquidate or otherwise resolve the
+rights of the Seller in and to any amounts that are or may be payable after the Closing Date by the Seller to the Buyer hereunder, which compromise, modification, settlement, waiver, relinquishment, exchange, liquidation or resolution may include
+payment to the Buyer of cash, property or any combination thereof; (iii) to compromise, modify, settle, waive, relinquish, exchange, liquidate or otherwise resolve the rights of the Seller in and to any amounts that are or may be payable after
+the Closing Date by the Buyer to the Seller hereunder, which compromise, modification, settlement, waiver, relinquishment, exchange, liquidation or resolution may include payment to the Seller of cash, property or any combination thereof;
+(iv) to take all actions the Sellers Representative deems necessary or advisable on behalf of the Seller pursuant to the terms of this Agreement; and (v) to take all actions which the Sellers Representative deems necessary or
+advisable in order to carry out the foregoing. The Sellers Representative shall consult with Bitter Creek in performing actions under this section. The Sellers Representative shall serve without compensation, but shall be entitled to
+reimbursement from Bitter Creek for 1/6th of its costs and
+expenses. The Sellers Representative shall not be liable to Bitter Creek for the performance of any act or failure to act in such capacity so long as it does not act (or fail to act) in bad faith. The Sellers Representative shall be
+entitled to indemnity from Bitter Creek from and against 1/6th of any and all damages which may at any time be imposed on, incurred by or asserted against the Sellers 
+   23 
+
+
+
+
+
+
+
+ 
+Representative in any way relating to or arising out of this Agreement or any related agreement or instrument or any action taken or omitted to be taken by the Sellers Representative under
+or in connection therewith, unless such damages resulted from the bad faith of the Sellers Representative.  (b) Press
+Releases and Public Announcements. No Party shall issue any press release or make any public announcement relating to the subject matter of this Agreement before the Closing without the prior written approval of the other Party, which approval
+shall not be unreasonably withheld, delayed or denied; provided that any Party may make any public disclosure it believes in good faith is required by applicable Law or any listing or trading agreement concerning its publicly traded securities (in
+which case the disclosing Party will use its commercially reasonable efforts to advise the other Party before making the disclosure).  (c) No Third Party Beneficiaries. This Agreement shall not confer any rights or remedies upon any Person other than the Parties and their respective successors and permitted assigns. 
+(d) Succession and Assignment. This Agreement shall be binding upon and inure to the benefit of the Parties named herein and their
+respective successors and permitted assigns. No Party may assign either this Agreement or any of its rights, interests or obligations hereunder without the prior written approval of the other Party; provided that Buyer may assign its interest in
+this Agreement, in whole or in part, at or prior to Closing.  (e) Counterparts. This Agreement may be executed in
+counterparts, each of which shall be deemed an original but which together will constitute one and the same instrument. Facsimile or other electronic copies (such as .pdf files delivered by electronic mail) of signatures shall constitute original
+signatures for all purposes of this Agreement and any enforcement hereof.  (f) Headings. The section headings contained
+in this Agreement are inserted for convenience only and shall not affect in any way the meaning or interpretation of this Agreement.  (g) Notices. All notices, requests, demands, claims, and other communications hereunder will be in writing. Any notice, request, demand, claim, or other communication hereunder shall be deemed duly
+given two Business Days after it is sent by registered or certified mail, return receipt requested, postage prepaid, and addressed to the intended recipient as set forth below: 
+   24 
+
+
+
+
+
+
+
+ If to the Buyer: 
+Sunoco Partners Marketing & Terminals L.P. 
+One Fluor Daniel Drive, Bldg A, Level 3  Sugar Land, TX 77478  Attention: Vice President of Business Development
+ FAX: 877-501-4380  with a copy to counsel (which copy shall not constitute notice to the Buyer): 
+Sunoco Partners Marketing & Terminals L.P.  1818 Market Street, Suite 1500  Philadelphia, PA 19103 
+Attention: General Counsel  Fax: (215) 977-3565  If to the Seller: 
+Blue Dolphin Pipe Line Company  801 Travis Street, Suite 2100  Houston, Texas 77002 
+Fax: (713) 227-7626  Attention: President  Bitter Creek Pipelines, LLC 
+1250 West Century Avenue  Bismarck, ND 58503  Fax: (701)530-1596 
+Attention: Executive Vice President and Chief Operating Officer  If to the Sellers Representative:  Blue Dolphin Pipeline Company
+ 801 Travis Street, Suite 2100  Houston, Texas 77002  Fax: (713) 227-7626 
+Attention: President  Additionally, any Party may send any notice, request, demand, claim, or other communication hereunder to the intended recipient at the addresses set forth above using any other means (including personal
+delivery, expedited courier, messenger service, telecopy, ordinary mail, facsimile or electronic mail), and such notice, request, demand, claim, or other communication shall be deemed to have been duly given when it actually is received by the
+intended recipient. Any Party may change the address to which notices, requests, demands, claims, and other communications hereunder are to be delivered by giving the other Party notice in the manner herein set forth. 
+   25 
+
+
+
+
+
+
+
+ (h) Governing Law. This Agreement shall be governed by and construed in accordance
+with the domestic Laws of the state of Texas without giving effect to any choice or conflict of law provision or rule (whether of the state of Texas or any other jurisdiction) that would cause the application of the Laws of any jurisdiction other
+than the state of Texas.  (i) Amendments and Waivers. No amendment of any provision of this Agreement shall be valid
+unless the same shall be in writing and signed by the Buyer and the Seller. No waiver by any Party of any default, misrepresentation, or breach of warranty or covenant hereunder, whether intentional or not, shall be deemed to extend to any prior or
+subsequent default, misrepresentation, or breach of warranty or covenant hereunder or affect in any way any rights arising by virtue of any prior or subsequent such occurrence. 
+(j) Severability. Any term or provision of this Agreement that is invalid or unenforceable in any situation in any jurisdiction
+shall not affect the validity or enforceability of the remaining terms and provisions hereof or the validity or enforceability of the offending term or provision in any other situation or in any other jurisdiction. The Parties furthermore agree to
+execute and deliver such amendatory contractual provisions to accomplish lawfully as nearly as possible the goals and purposes of the provision so held to be invalid or unenforceable. 
+(k) Transaction Expenses. Buyer and Seller shall each pay 50% of the costs of the survey of the Land by Topographic, including the
+access road on Lot 107 and surveys of Sellers other pipelines located on the Land. Buyer shall pay 100% of the costs to acquire its title policy on the Land. Except as expressly otherwise set forth herein, each of the Buyer and the Seller will
+bear its own costs and expenses (including legal fees and expenses) incurred in connection with this Agreement and the transactions contemplated hereby.  (l) Certain Taxes. Notwithstanding anything in this Agreement to the contrary, the Seller will file all necessary Tax Returns and other documentation with respect to all transfer, documentary,
+sales, use, stamp, registration and other Taxes and fees in connection with this Agreement, and, if required by applicable law, the Buyer will, and will cause its Affiliates to, join in the execution of any such Tax Returns and other documentation.
+The Buyer will pay to the Seller, on or before the date such payments are due from the Seller, any transfer, documentary, sales, use, stamp, registration and other Taxes and fees incurred in connection with this Agreement. 
+(m) Construction. The Parties have participated jointly in the negotiation and drafting of this Agreement. In the event an
+ambiguity or question of intent or interpretation arises, this Agreement shall be construed as if drafted jointly by the Parties and no presumption or burden of proof shall arise favoring or disfavoring any Party by virtue of the authorship of any
+of the provisions of this Agreement. Any reference to any federal, state, local, or foreign statute or Law shall be deemed also to refer to all rules and regulations promulgated thereunder, unless the context requires otherwise. The word
+including shall mean including without limitation. 
+   26 
+
+
+
+
+
+
+
+ (n) Incorporation of Exhibits and Schedules. The Exhibits and Schedules identified in
+this Agreement are incorporated herein by reference and made a part hereof.  (o) ENTIRE AGREEMENT. THIS AGREEMENT
+(INCLUDING THE DOCUMENTS REFERRED TO HEREIN) CONSTITUTES THE ENTIRE AGREEMENT AMONG THE PARTIES AND SUPERSEDES ANY PRIOR UNDERSTANDINGS, AGREEMENTS, OR REPRESENTATIONS BY OR AMONG THE PARTIES, WRITTEN OR ORAL, TO THE EXTENT THEY HAVE RELATED IN ANY
+WAY TO THE SUBJECT MATTER HEREOF.  ***** 
+   27 
+
+
+
+
+
+
+
+ IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the date first
+above written.   
+
+
+
+
+
+
+
+
+
+
+BUYER:
+
+
+
+SUNOCO PARTNERS MARKETING & TERMINALS L.P.
+
+
+
+By: Sunoco Logistics Partners Operations GP LLC, its general partner
+
+
+
+
+By:
+ 
+ 
+
+
+
+
+Name:
+ 
+ 
+
+
+
+
+Title:
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+
+SELLER:
+
+
+
+BLUE DOLPHIN PIPE LINE COMPANY
+
+
+
+
+By:
+ 
+ 
+
+
+
+
+Name:
+ 
+ 
+
+
+
+
+Title:
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+BITTER CREEK PIPELINES, LLC
+
+
+
+
+By:
+ 
+ 
+
+
+
+
+Name:
+ 
+ 
+
+
+
+
+Title:
+ 
+ 
+ [Signature Page to Asset Purchase Agreement] 
+
+

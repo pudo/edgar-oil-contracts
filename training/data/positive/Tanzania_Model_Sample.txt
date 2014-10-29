@@ -1,0 +1,5060 @@
+﻿
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MODEL PRODUCTION SHARING AGREEMENT 
+
+ 
+
+BETWEEN 
+
+ 
+
+THE GOVERNMENT OF THE UNITED REPUBLIC OF TANZANIA 
+
+ 
+
+AND 
+
+  
+
+TANZANIA PETROLEUM DEVELOPMENT CORPORATION 
+
+ 
+
+AND 
+
+ 
+
+ABC LTD 
+
+ 
+
+ 
+
+ 
+
+FOR ANY AREA 
+
+ 
+
+ 
+
+
+
+TABLE OF CONTENTS 
+
+
+PRODUCTION SHARING AGREEMENT.....................................................................................3 
+PREAMBLE.....................................................................................................................................4 
+ARTICLE 2: AGREEMENT.....................................................................................................10 
+ARTICLE 3: RESPONSIBILITIES AND GRANT OF RIGHTS............................................11 
+ARTICLE 4: TERM AND TERMINATION............................................................................14 
+ARTICLE 5: EXPLORATION PROGRAMME.......................................................................16 
+ARTICLE 7: ADVISORY COMMITTEE................................................................................20 
+ARTICLE 8: DISCOVERY AND DEVELOPMENT..............................................................22 
+ARTICLE 9: JOINT OPERATIONS.........................................................................................25 
+ARTICLE 10: ANNUAL CHARGES.........................................................................................27 
+ARTICLE 11: RECOVERY OF COSTS AND EXPENSES AND............................................28 
+ARTICLE 12: VALUATION OF CRUDE OIL..........................................................................32 
+ARTICLE 13: NATURAL GAS.................................................................................................35 
+ARTICLE 14: TAXATION AND ROYALTY...........................................................................36 
+ARTICLE 15: ADDITIONAL PROFITS TAX..........................................................................37 
+ARTICLE 16: REPORTING, INSPECTION AND CONFIDENTIALITY...............................39 
+ARTICLE 17: LIFTING, MARKETING AND DOMESTIC SUPPLY.....................................41 
+ARTICLE 18: TANZANIAN RESOURCES..............................................................................42 
+ARTICLE 19: EMPLOYMENT, TRAINING AND TRANSFER OF.......................................43 
+ARTICLE 20: TITLE TO ASSETS, INSURANCE, SITE CLEAN UP AND...........................44 
+ARTICLE 21: IMPORT DUTIES...............................................................................................47 
+ARTICLE 22: ACCOUNTING AND AUDIT............................................................................48 
+ARTICLE 23: HEALTH, SAFETY AND ENVIRONMENT....................................................49 
+ARTICLE 24: FORCE MAJEURE EVENT...............................................................................51 
+ARTICLE 25: ASSIGNMENT AND TRANSFER OF RIGHTS...............................................54 
+ARTICLE 26: CONSULTATION AND ARBITRATION.........................................................55 
+ARTICLE 27: APPLICABLE LAW...........................................................................................57 
+ARTICLE 28: THIRD PARTY ACCESS TO PETROLEUM FACILITIES.............................58 
+ARTICLE 29: MODIFICATIONS AND HEADINGS...............................................................59 
+ARTICLE 30: NOTICES.............................................................................................................60 
+ANNEX “A”: DESCRIPTION OF EXPLORATION LICENCE AREA............................62 
+ANNEX “B”: MAP OF EXPLORATION LICENCE AREA............................................63 
+ANNEX “C”: DRAFT EXPLORATION LICENCE.........................................................64 
+ANNEX “C”•1: FIRST SCHEDULE.............................................................................65 
+ANNEX “C”•2: SECOND SCHEDULE........................................................................66 
+
+
+
+
+PRODUCTION SHARING AGREEMENT 
+
+ 
+
+This Production Sharing Agreement (the “Agreement”) is made on the _______ day of 
+___________________, 2008 and constitutes the agreement between: 
+
+ 
+
+The Government of the United Republic of Tanzania (hereinafter referred to as the “Government”) 
+represented by the Minister for Energy and Minerals; 
+
+ 
+
+The Tanzania Petroleum Development Corporation a statutory Corporation established under the 
+Laws of the United Republic of Tanzania (hereinafter referred to as (“TPDC”), represented by its 
+Managing Director; 
+
+ 
+
+(all hereinafter called collectively “First Party”); and 
+
+ 
+
+ 
+
+ABC Ltd, a company existing under the laws of the United Republic of Tanzania, hereinafter 
+referred to as “ABC” with office and legal representative in the United Republic of Tanzania, 
+represented by its Chief Executive Officer, hereinafter called ABC or “Contractor” or “Second 
+Party” which expressions shall, where the context so admits, include its successors-in-title and 
+assigns. Any entity, which constitutes Contractor, may also hereinafter be referred to as 
+“Contractor Party”). 
+
+
+
+PREAMBLE 
+
+ 
+
+WITNESSETH 
+
+ 
+
+WHEREAS, Petroleum in or under any land in, or under the jurisdiction of the United Republic of 
+Tanzania, or to which the United Republic of Tanzania is entitled under international 
+law, including Petroleum underlying the area described in Annex “A” hereof, vested 
+entirely and solely in the United Republic of Tanzania; and 
+
+ 
+
+WHEREAS, TPDC has been established by law for the purpose (inter alia) of promoting the 
+development of the petroleum industry and the production of petroleum; and 
+
+ 
+
+WHEREAS, the Petroleum (Exploration and Production), Act 1980 (Cap 328 R.E. 2002) (“the 
+Act”) makes provision with respect to exploring for and producing petroleum and, for 
+that purpose subject to certain limitations and conditions, authorizes the Minister to 
+grant Exploration Licences; and 
+
+ 
+
+WHEREAS, TPDC intends to apply for an Exploration Licence over the area described in Annex 
+“A” and shown on the map in Annex “B” hereof and the Minister intends to grant the 
+said licence; and 
+
+ 
+
+WHEREAS, TPDC with the approval of the Minister, wishes to engage ABC Limited to carry out 
+on its behalf Petroleum Operations in the area of the said licence and in the area of any 
+Development Licence(s) granted to TPDC hereunder; and 
+
+ 
+
+WHEREAS, ABC is willing on certain terms and conditions to undertake the Petroleum 
+Operations aforesaid and has for that purpose the necessary financial capacity, 
+technical competence and professional skill. 
+
+  
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants herein reserved and 
+contained, it is hereby agreed as follows: 
+
+
+
+ARTICLE 1: DEFINITIONS 
+
+ 
+
+The words and terms used in this Agreement shall have the following meanings unless specified 
+otherwise. 
+
+(a) “Affiliate Company” or “Affiliate” means any company holding directly or indirectly a 
+majority of shares in any company which is controlled directly or indirectly by any such 
+aforesaid company. 
+
+ 
+
+For the purpose of the foregoing definitions: 
+
+ 
+
+(i) a company is directly controlled by another company or companies holding shares 
+carrying in the aggregate the majority of votes exercised at general meetings; 
+
+(ii) a particular company is indirectly controlled by a company or companies (thereafter 
+called “the parent company or companies”) if a series of companies can be 
+specified, beginning with the parent company, are so related that each company of 
+the series, except the parent company or companies, is directly controlled by one or 
+more of the earlier in the series. 
+
+ 
+
+(b) “Agreement” or “the Agreement” means this Production Sharing Agreement executed 
+among the Government, TPDC and ABC, including its Annexes. 
+
+
+
+
+ 
+
+(c) “Appraisal” means the activity carried out after the discovery of Petroleum to better define 
+the parameters of the Petroleum and the reservoir to which the discovery relates and 
+determine its commerciality and includes any activity carried out under an Appraisal 
+programme. This activity shall include: 
+
+
+
+ 
+ 
+
+(i) drilling of Appraisal Wells and running productivity tests; 
+
+(ii) collecting special geological samples and reservoir fluids; and 
+
+(iii) conducting supplementary studies and acquisition of geophysical and other 
+data, as well as the processing of same data. 
+
+ 
+
+(d) “Appraisal Well” means any well drilled following a discovery of Petroleum in the 
+Contract Area for the purpose of ascertaining the quantity and areal extent of Petroleum in 
+the petroleum reservoir to which that discovery relates. 
+
+
+
+
+ 
+
+(e) “Barrel” means a unit of measure for liquids corresponding to forty-two (42) United States 
+gallons of Crude Oil net of basic sediment and water, corrected to a temperature of sixty 
+degrees Fahrenheit (60°F) and under one (1) atmospheric pressure. 
+
+
+
+
+ 
+
+(f) “Block”, “Development Area”, “Development Licence”, “Development Operations”, 
+“Exploration License”, “Exploration Operations”, “In Default”, “Location”, “Minister”, 
+“Government”, “ Regulations”, “Well” and “Petroleum” shall have the meanings assigned 
+to them respectively in Section 5 of the Act; “Adjoining Block” and “Discovery Block” 
+shall have the meanings assigned to them respectively in Section 33 of the Act. 
+
+
+
+
+ 
+
+(g) “Calendar Month” or “Month” means any of the twelve (12) months of the Calendar Year. 
+
+ 
+ 
+(h) “Calendar Quarter” or “Quarter” means a period of three (3) consecutive months starting 
+with the first day of January, April, July or October of each Civil Year. 
+
+ 
+
+
+
+(i) “Calendar Year” or “Year” or “Civil Year” means a period of twelve (12) consecutive 
+months according to the Gregorian calendar beginning on January 1 and ending on 
+December 31. 
+
+ 
+
+(j) “Casing head Gas” means Natural Gas which existed or exists in a reservoir in solution 
+with Crude Oil, or as free gas cap gas, and is or could be produced with Crude Oil from a 
+well; the predominant production of which is or would be Crude Oil. 
+
+ 
+
+(k) “Contract Area” means on the Effective Date the area described in Annex “A” and shown 
+on map in Annex “B”, and thereafter, in accordance with Article 3(b) the whole or any part 
+of such area in respect of which Contractor continues to have rights and obligations under 
+this Agreement. 
+
+ 
+
+(l) “Contract Expenses” means Exploration Expenses, Development Expenses, Operating 
+Expenses, Service Costs and General and Administrative Costs, as more fully set forth in 
+Annex “D”. 
+
+ 
+
+(m) “Contract Year” means the period, and successive periods, of twelve (12) consecutive 
+months according to the Gregorian calendar beginning on the Effective Date of this 
+Agreement. 
+
+ 
+
+(n) “Contractor” means Contracting Party (Parties) with Government, as well as any 
+organizations, establishments, public or private entities or companies to which any interest 
+may be transferred in application of the provisions of Articles 9 or 27. 
+
+ 
+
+(o) “Crude Oil” means any hydrocarbons which: 
+
+ 
+
+(i) is in a liquid state at the well head or gas/oil separator or which is extracted from the 
+gas or casing head gas in a plant including distillate and condensate, and 
+ 
+(ii) except where in Article 16 hereof the context requires otherwise, has been produced 
+from the Contract Area. 
+
+ 
+
+(p) “Day” is a period of twenty-four (24) hours starting at midnight. 
+
+ 
+
+(q) “Delivery Point” means the point (Freight-On-Board) FOB of the United Republic of 
+Tanzania loading facility at which Crude Oil/Natural Gas reaches the inlet flange of the 
+lifting tankship’s intake pipe or such other point which may be agreed between TPDC and 
+the Contractor. 
+
+ 
+
+(r) “Development Expenses” means those expenses as so categorized in Annex “D”, the 
+Accounting Procedure. 
+
+ 
+
+(s) “Development Operations,” not withstanding the definitions contained in paragraph (f), 
+shall include the activity carried out to prepare the Development Plan and the activity 
+carried out after the grant of the development licence in the respective Development Area. 
+Such activity shall include, but not be limited to: 
+
+ 
+
+(i) reservoir, geological and geophysical studies and surveys; 
+
+(ii) drilling of producing and injection Wells; 
+
+ 
+
+
+
+(iii) design, construction, installation, connection and initial testing of equipment, 
+pipelines, systems, facilities, plants, and related activities necessary to produce 
+and operate said Wells, to take, save, treat, handle, store, transport and deliver 
+Petroleum, and to undertake repressuring, recycling and other secondary or tertiary 
+recovery projects. 
+
+ 
+
+(t) “Development Plan” means the proposals accompanying an application for a 
+Development Licence pursuant to the Act made by TPDC under this Agreement. 
+
+ 
+
+(u) “Development Well” is any Well intended to produce hydrocarbons from a Field. 
+
+ 
+
+(v) “Effective Date” means the date on which this Agreement is signed by the Government, 
+TPDC and ABC. 
+
+ 
+
+(w) “Expatriate Employee” means any employee not normally resident in the United Republic 
+of Tanzania who is engaged under contract which provides for payment of passages to and 
+from the United Republic of Tanzania. 
+
+ 
+
+(x) “Exploration Expenses” means those expenses as so categorized in Annex “D”, the 
+Accounting Procedure. 
+
+ 
+
+(y) "Exploration Operations,” not withstanding the definitions contained in paragraph (f) 
+shall include, but not be limited to, such geological and geophysical surveys and studies, 
+aerial surveys and others as may be included in Work Programmes and Budgets, and the 
+drilling of such shot holes, core holes, stratigraphic tests, Exploration Wells, and other 
+related holes and Wells, and the purchase or acquisition of such supplies, materials and 
+equipment which may be included in Work Programmes and Budgets. 
+
+ 
+
+(z) “Exploration Period” means a period of exploration referred to in Article 5 (b). 
+ 
+ 
+
+(aa) “Exploration Well” means a well drilled in the course of Exploration Operations conducted 
+hereunder but does not include an Appraisal Well, and whose purpose at commencement 
+of drilling is to explore for an accumulation of petroleum whose existence was at that time 
+unproven by drilling. 
+
+ 
+
+(ab) “General and Administrative Costs” means those costs as so categorized in Annex “D”, the 
+Accounting Procedure. 
+
+ 
+
+(ac) “Gross Negligence/ Willful Misconduct” means an intentional and conscious, or reckless 
+act or failure to act, by any person or entity, which was in reckless disregard of or wanton 
+indifference to harmful consequences such person knew or should have known such act or 
+failure to act has or would have caused to the safety or property of any person or entity, but 
+shall not include any act, omission, error of judgment or mistake made in good faith in the 
+exercise of any function, authority or discretion arising out of or in connection with the 
+Petroleum Operations. 
+
+ 
+
+(ad) “Joint Operations” means the Petroleum Operations in respect of which TPDC has 
+elected to contribute expenses pursuant to Article 9. 
+
+ 
+
+(ae) “Law” means the law in force from time to time in the United Republic of Tanzania. 
+
+
+
+ 
+
+(af) “LIBOR” is the London Inter Bank Offered Rate for one month deposits of U.S. Dollars 
+displayed on page ‘LIBOR01’ of the Reuters Money Rates Service (or any other page that 
+replaces page ‘LIBOR01’ for the purposes of displaying the British Bankers Association 
+(BBA) interest settlement rates for such deposits of U.S. Dollars in the London Interbank 
+market) on the date of determination, or in the event the Reuters Money Rates Service , or a 
+successor thereto, no longer provides such information, such other service as may be agreed 
+by the Parties that provides the BBA interest statement rates for such deposits of U.S. 
+Dollars in the London Interbank market and any required information previously provided 
+on page ‘LIBOR01’. 
+
+ 
+
+(ag) “Licence Area” means the Contract Area or a sub-division thereof as specified in 
+Annex “A” 
+
+ 
+
+(ah) “Month” means a calendar month pursuant to the Gregorian Calendar. 
+
+ 
+
+(ai) “Natural Gas” or “Gas” means any hydrocarbons produced from the Contract Area which 
+at a pressure of 1 atmosphere and a temperature of sixty degrees Fahrenheit (60ºF) are in a 
+gaseous state at the wellhead, and includes both associated as and Non- Associated Natural 
+Gas, and all of its constituent elements produced from any Well in the Contract Area and 
+all non-hydrocarbon substances therein. Such term shall include residue gas after the 
+extraction of liquid hydrocarbons therefrom. 
+
+ 
+
+(aj) “Non-Associated Gas” means Natural Gas other than Casinghead Gas. 
+
+ 
+
+(ak) “Operating Expenses” means those expenses as so categorized in Annex “D”, the 
+Accounting Procedure. 
+
+ 
+
+(al) “Operator” means the person designated as the Operator under an operating agreement 
+executed by the persons constituting the Contractor or the operating agreement executed by 
+TPDC and Contractor pursuant to Article 9. 
+
+ 
+
+(am) “Parties” means TPDC, the Government and Contractor as Parties to this Agreement, 
+including any permitted successors and assignees. 
+
+ 
+
+(an) “Party” means TPDC, the Government or Contractor as a Party to this Agreement, 
+including any permitted successors and assignees. 
+
+ 
+
+(ao) Participating Interest means the proportion of production costs each party will bear and 
+the proportion of production each party will receive, as set out in Article 9(b) (i) 
+
+ 
+
+(ap) “Petroleum Operations” means any and all operations and activities in connection with 
+Exploration Operations, Appraisal Operations, Development Operations, and Production 
+Operations, including all abandonment activities as required under Article 19. 
+
+ 
+
+(aq) “Production Operations” shall include, but not be limited to, the running, servicing, 
+maintenance and repair of completed Wells and of the equipment, pipelines, systems, 
+facilities and plants completed during Development. It shall also include all activities 
+related to planning, scheduling, controlling, measuring, testing and carrying out the flow, 
+gathering, treating, transporting, storing and dispatching of Crude Oil and Gas from the 
+
+
+
+underground Petroleum reservoirs to the Delivery Point, and all other operations necessary 
+for the production and marketing of Petroleum. Production Operations shall further include 
+the acquisition of assets and facilities required for the production of Petroleum 
+hereunder and oil and gas field abandonment operations. 
+
+ 
+
+(ar) “Recoverable Contract Expenses” shall have the meaning ascribed in Article 11(c) and as 
+categorized in Annex “D”, The Accounting Procedure. 
+
+ 
+
+(as) “Service Costs” means those costs as so categorized in Annex “D”, the Accounting 
+Procedure. 
+
+ 
+
+(at) “Subcontractor” shall mean any business hired by Contractor to carry out all or a portion of 
+Petroleum Operations as approved by Contractor under the terms of this Agreement. 
+
+ 
+
+(au) “Work Programme and Budgets” shall have the meaning ascribed in Article 6. 
+
+
+
+ARTICLE 2: AGREEMENT 
+
+ 
+
+This Agreement constitutes an agreement made under Section 14 of the Act. 
+
+
+
+ARTICLE 3: RESPONSIBILITIES AND GRANT OF RIGHTS 
+
+ 
+
+(a) As soon as possible, but in any event no later than thirty (30) days, after the Effective Date, 
+TPDC will apply for, and the Government under and in accordance with the Act, will grant 
+to TPDC an Exploration Licence over the area described in Annex “A” and shown on the 
+map in Annex “B” hereof. The said licence shall be substantially in the form of the draft set 
+out in Annex “C” hereof. 
+
+ 
+
+(b) Subject as hereinafter provided in sub-article (g) (ii) of this Article and sub-article (e) of 
+Article 8, the areas which at any particular time are subject to the said Exploration Licence 
+or subject to any Development Licence granted to TPDC for which application was made 
+by TPDC at the request of the Contractor hereunder constitute for the purpose of this 
+Agreement the Contract Area. 
+
+ 
+
+(c) Save where Joint Operations have been established pursuant to Article 9, the Contractor, on 
+the terms and conditions set out herein, shall have the exclusive right to conduct, on behalf 
+of TPDC as licence holder, Petroleum Operations in the Contract Area. Where the 
+Contractor is constituted by more than one person, ABC shall be the Operator and the 
+duties and obligations under this Agreement shall be joint and several except where the 
+parties specifically have agreed otherwise in this Agreement. No change in Operatorship 
+shall take effect unless it has been approved by the Minister. 
+
+ 
+
+(d) The Contractor shall: 
+
+ 
+
+(i) provide particulars of the technical and industrial qualifications of key employees, 
+particulars of the technical and industrial resources available and particulars of the 
+kind of financial resources available including capital, credit facilities and 
+guarantees so available Pursuant to section 20 of the Act; 
+
+(ii) upon notification from TPDC, procure a performance bond from an insurance 
+company or financier which will be available to cover the minimum exploration 
+expenditure commitment for the initial period as set out in Article 5 particulars; 
+
+(iii) carry out the Petroleum Operations in the Contract Area diligently, with due 
+regard to good oil field practices and in such manner as to ensure that in respect of 
+matters which are the responsibility of the Contractor hereunder TPDC is not in 
+default; 
+
+(iv) furnish TPDC with such information, reports, records and accounts relating to the 
+Petroleum Operations in the Contract Area as may be necessary to enable TPDC to 
+meet its obligations under the Act and, in particular but without prejudice to the 
+generality of the foregoing, to meet the requirement of First Schedule thereof; 
+
+(v) if the Contractor has requested TPDC to apply for any extension of the said 
+Exploration Licence, select the blocks to be relinquished by TPDC in accordance 
+with the requirements of this Agreement and the Act; 
+
+(vi) pay for copying and shipping of geological and geophysical data relating to the 
+Contract Area; 
+
+(vii) subject to Article 10, reimburse TPDC within thirty (30) days from the date of 
+payment thereof, for the annual charges in respect of the said Exploration Licence or 
+any Development Licence granted to TPDC at the request of the Contractor 
+hereunder, payable by TPDC pursuant to section 84 of the Act; and 
+
+ 
+
+
+
+(viii) notify TPDC promptly of any change in its circumstances, or those of any Affiliate 
+upon whom it is dependent for efficient execution of its Petroleum Operations, 
+which has or is likely to have an adverse impact upon its ability to meet its 
+obligations under this Agreement. 
+
+
+
+
+ 
+
+(e) TPDC:- 
+
+ 
+
+(i) will, as licence holder, take such steps as may be necessary from time to time to 
+ensure that in respect of the Contract Area it is not in default under the Act and will 
+not in the Contract Area, without the prior consent in writing of the Contractor, 
+surrender any Block or Blocks, make any request that any Block or Blocks be 
+declared a Location, or apply for Development Licence; and 
+
+ 
+
+(ii) if the Contractor so requests, will: 
+
+ 
+
+(a) apply for such extensions of the said Exploration Licence as the Act may 
+permit; 
+
+(b) when any application is made for an extension of the said Exploration 
+Licence, relinquish to meet the requirements of the Act only Blocks selected 
+for that purpose by the Contractor; 
+
+(c) pursuant to Section 33 (1) (a) of the Act, request that a Discovery Block 
+within the Contract Area and such Adjoining Blocks not exceeding eight (8) 
+selected by the Contractor be declared by the Minister to be a Location; 
+
+ 
+
+(d) apply for a Development Licence or Licences over such Block or Blocks 
+within the Contract Area as the Contractor may specify for that purpose; and 
+
+(e) make such other applications, requests, or representations in respect of the 
+Contract Area which the Act may require or permit to be made by a licence 
+holder. 
+
+ 
+
+(f) The Government:- 
+
+ 
+
+(i) will take all such actions as may be necessary from time to time to ensure that 
+TPDC carries out its obligations hereunder and will not without the consent of the 
+Contractor seek or acquiesce in any waiver by TPDC in respect of the Contract 
+Area of its rights as licence holder under the Act; 
+
+(ii) undertakes that, where in the case of discovery of petroleum referred to in Section 
+29 (1) of the Act, and TPDC makes an application for further extension of the said 
+Exploration Licence, the Minister will, in respect of any block to which paragraph 
+(b) of subsection (1) of that Section applies, grant an extension for such period not 
+exceeding three (3) years as may be required to appraise the discovery; 
+
+(iii) subject to sub-article (d) (iv) of this Article, will at the Contractor’s expense make 
+available to the Contractor geological and geophysical data referred to in the said 
+sub-article (d) (iv) in the possession or under the control of Government resulting 
+from petroleum exploration by any other company in the Contract Area and the 
+Contractor shall treat such data as confidential; 
+
+(iv) subject to any requirement in the laws of the United Republic of Tanzania and 
+respect by the Contractor for the rights of the others, will permit the Contractor, its 
+Affiliates, employees and agents to have at all times access to the Contract Area for 
+
+
+
+the purpose of carrying on the Petroleum Operations hereunder and for such purpose 
+to move freely therein; and 
+
+ 
+
+ 
+
+(g) (i) The Contractor, on giving to TPDC not less that ninety (90) days notice in 
+writing: 
+
+ 
+
+(a) may, if its obligations in respect of any Exploration Period have been 
+fulfilled at any time thereafter during that period, surrender its rights and be 
+relieved of its obligations in respect of the whole of the Contract Area; and 
+
+(b) may, at any time after the grant of the said Exploration Licence, surrender its 
+rights and be relieved of its obligations in respect of any Block or Blocks 
+forming part of the Contract Area; provided however that no surrender by the 
+Contractor of its rights over any part of the Contract Area shall relieve the 
+Contractor of its obligations to spend the sums and carry out the work 
+described in Article 5 hereof. 
+
+ 
+
+(ii) Where pursuant to this sub-paragraph the Contractor has surrendered its rights and 
+been relieved of its obligations in respect of any Block or Blocks forming part of 
+the Contract Area not withstanding that the said Block or Blocks continue to be 
+subject to any Exploration or Development Licence referred to in sub-article (b) of 
+this Article the said blocks shall not for the purpose of this Agreement constitute 
+part of the Contract Area. 
+
+ 
+
+ 
+
+ 
+
+
+
+ARTICLE 4: TERM AND TERMINATION 
+
+ 
+
+(a) This Agreement shall continue to be in force in accordance with Section 42 of the Act, 
+whose provisions regulate the terms of any Development Licence, and in case no 
+Development Licence is granted, until the end of the last extension of the Exploration 
+Period. 
+
+ 
+
+(b) This Agreement shall come to an end: 
+
+ 
+
+(i) subject to the Act and this Agreement, on surrender by Contractor of its rights in 
+respect of the whole of the Contract Area pursuant to Article 3(g); 
+
+(ii) where the Contractor is In Default the Government may by notice in writing served 
+on the Contractor terminate this Agreement. 
+
+ 
+
+(c) The Government shall not terminate the Agreement on the grounds that the Contractor is in 
+default unless: 
+
+ 
+
+(i) it has, by notice in writing served on the Contractor, given not less than thirty (30) 
+days notice of its intention to so terminate this Agreement; 
+
+(ii) it has, in the notice, specified a date before which the Contractor may, in writing, 
+submit any matter which the Contractor wishes the Government to consider; and 
+
+(iii) it has taken into account any action taken by the Contractor to remove that ground 
+or to prevent the recurrence of similar grounds; and any matters submitted to it by 
+the Contractor pursuant to sub-Article (b) of this Article. 
+
+ 
+
+(d) The Government shall not, under sub-article (b) of this Article, terminate this Agreement 
+on the ground of any default in the payment of any amount payable under this Agreement 
+if, before the date specified in a notice referred to in sub-article (c) of this Article, the 
+Contractor pays the amount of money concerned together with any interest payable under 
+the Act or this Agreement. 
+
+ 
+
+(e) The Government may, by notice in writing served on the Contractor, terminate this 
+Agreement if an order is made or a resolution is passed winding up the affairs of the 
+Contractor, unless the winding up is for the purpose of amalgamation and the Government 
+has consented to the amalgamation, or is for the purpose of reconstruction and the 
+Government has been given notice of the reconstruction. 
+
+ 
+
+(f) Where two or more persons constitute the Contractor, the Government shall not, under sub- 
+article (e) of this Article, terminate the Agreement on the occurrence, in relation to one or 
+some only of the persons constituting the Contractor, of an event entitling the Government 
+to so terminate this Agreement, if any other person or persons constituting the Contractor 
+satisfies or satisfy the Government that the person or those persons, as the case may be, is 
+or are willing and would be able to carry out the duties and obligations of the Contractor. 
+
+ 
+
+(g) On the termination of this Agreement, the rights of the Contractor hereunder cease, but the 
+termination does not affect any liability incurred before the termination and any legal 
+proceedings that might have been commenced or continued against the former Contractor 
+may be commenced or continued against it. 
+
+ 
+
+
+
+(h) In this Article “in default” in relation to the Contractor means in breach of any provision of 
+this Agreement or the Act or licence granted and includes any act or omission by the 
+Contractor in respect of matters that are the responsibility of the Contractor hereunder that 
+would cause TPDC to be in breach of any provision of the Act or of any condition of 
+the licence granted hereunder. 
+
+ 
+
+(i) Upon expiration or termination of this Agreement the parties shall have no further 
+obligations hereunder except for the obligations that arose prior to such expiration or 
+termination and obligations that are expressly stated to survive such expiration or 
+termination pursuant to this Agreement. 
+
+ 
+
+
+
+ARTICLE 5: EXPLORATION PROGRAMME 
+
+ 
+
+(a) Subject to the provisions of this Article in discharge of its obligation to carry out 
+Exploration Operations in the Contract Area the Contractor shall, during the periods into 
+which Exploration Operations are divided hereunder, carry out the minimum work 
+described and spend not less than the total minimum expenditure, if any, specified in sub- 
+article (b) of this Article. 
+
+ 
+
+(b) (i) The Initial Exploration Period 
+
+ 
+
+Shall commence on the day on which the Exploration Licence is granted to TPDC pursuant 
+to Article 3 takes effect and shall terminate on the fourth (4th) anniversary of that date. 
+
+ 
+
+Description of minimum work programme: 
+
+Contractor shall commence Exploration Operations hereunder within ninety (90) days after 
+the Effective Date. Such Exploration Operations shall be diligently and continuously 
+carried out in accordance with the best current Good Oilfield Practices. 
+
+ 
+
+During the Initial Exploration Period, which shall be subdivided into two sub-periods, the 
+Contractor shall carry out the following Minimum Exploration Work Programme: 
+
+ 
+
+First 2-year sub-period. 
+
+(a) Geological: 
+
+
+
+
+Evaluate, integrate and map all data related to the Contract Area. 
+
+  
+
+ (b) Geophysical: 
+
+(i) Acquire and process to industry standards at least -----------------kilometres of 2D 
+seismic with shooting to commence within fifteen (15) months after the 
+Effective Date. 
+
+ 
+
+(ii) Evaluate, integrate and map all seismic data related to the Contract Area. 
+
+ 
+
+ Second 2-Year Sub-period 
+
+(c) Drilling: 
+
+Drilling of at least --- Exploration Wells, to depths of at least -------- (----) 
+metres, true vertical depth with spudding of the first such well to be not later 
+than thirty (30) Months after the Effective Date. 
+
+ 
+
+Minimum Expenditure for Initial Period………… United States dollars. 
+
+ 
+
+(ii) The First Extension Period 
+
+ 
+
+Shall commence on the day on which a first extension of the licence granted is issued to 
+TPDC pursuant to Article 3 takes effect and shall terminate on the fourth (4th) anniversary 
+of that date. 
+
+ 
+
+Description of minimum work programme: 
+
+• Conduct geological, geochemical and geophysical studies (US$ -------) 
+
+
+
+ 
+• Acquisition of ------- sq. kms of 3D seismic or ----- line kms. of 2D or 
+commensurate mix of both; (US$ ----------) 
+
+
+
+
+
+
+• Drill at least one (1) well (US$ ---------) 
+
+
+
+
+
+
+ 
+
+Minimum Expenditure for 1st Extension Period: US$ ………million 
+
+ 
+
+(iii) The Second Extension Period 
+
+ 
+
+Shall commence on the day on which a second extension of the licence granted is issued to 
+TPDC pursuant to Article 3 takes effect and shall terminate on the third (3rd) anniversary of 
+that date. 
+
+ 
+
+Description of minimum work programme: 
+
+• Conduct geology, geochemical and geophysical studies (US$ -------) 
+
+
+• Acquisition of ------- sq. kms of 3D seismic or ----- line kms. of 2D or 
+commensurate mix of both; (US$ ----------) 
+
+
+• Drill at least One (1) well (US$ -------) 
+
+
+
+
+ 
+
+Minimum Expenditure for 2nd Extension Period: US$ ………million 
+
+ 
+
+(c) No Exploration Well drilled by the Contractor shall be treated as discharging any obligation 
+of the Contractor to drill Exploration Wells hereunder unless it has been drilled to the depth 
+or stratigraphic level agreed with the Minister, or before reaching such depth or 
+stratigraphic level: 
+
+ 
+
+(i) the economic basement is encountered or 
+
+(ii) insurmountable technical problems are encountered which, in accordance with Good 
+Oilfield Practices, make further drilling unsafe or impractical; provided that if the 
+said well is abandoned owing to the said problems before reaching the economic 
+basement, the Contractor shall drill a substitute Exploration Well in the Contract 
+Area to the same minimum depth as aforesaid. 
+
+ 
+
+For the purpose of this sub-article “economic basement” means any stratum in and below 
+which the geological structure or physical characteristics of the rock sequence do not have 
+the properties necessary for the accumulation of petroleum in commercial quantities and 
+which reflects the maximum depth at which any such accumulation can be reasonably 
+expected. 
+
+ 
+
+(d) Where in any Exploration Period the Contractor has carried out more than the minimum 
+technical work obligations specified in sub-article (b) of this Article, for that period the 
+Contractor shall be permitted to credit such excess work obligation as satisfying work 
+obligations specified in that sub-article for the next succeeding Exploration Period. 
+
+
+
+
+ 
+
+(e) The Exploration Licence issued to TPDC, pursuant to Article 3 and any extension thereof, 
+shall be on terms and conditions relating to Work Programmes and Minimum Expenditure 
+which correspond to the obligation of the Contractor under this Article. Accordingly, it is 
+understood and agreed that discharge by the Contractor of its obligations under this Article 
+in respect of any Exploration Period will discharge for that period the obligations of TPDC 
+relating to the Work Programme and Minimum Expenditure in respect of the licence issued 
+pursuant to Article 3, and the terms and conditions of the licence aforesaid and any 
+extension thereof shall be drawn up accordingly. 
+
+ 
+
+
+
+
+ 
+
+(f) The minimum expenditure for each period specified in sub-article (b) of this Article shall 
+not have been satisfied unless the total expenditure attributable to the work described in 
+sub-article (b) equals or exceeds the same mentioned in the said sub-article; provided that 
+for this purpose all such attributable actual expenditures shall be adjusted, commencing 
+from the Effective Date, by multiplying each of them by the following factor I, where: 
+
+I = A/B 
+
+ 
+
+and where: 
+
+ 
+
+A is the United States Industrial Goods Producer Price Index (USIGPPI) as reported 
+for the first time in the monthly publication “International Financial Statistics” of 
+the International Monetary Fund (IMF) in the section “Prices, Production, 
+Employment” for the Month of the Effective Date. 
+
+ 
+
+B is the USIGPPI as reported for the first time in the aforesaid IMF publication for the 
+month of the expenditure in question. 
+
+ 
+
+(g) For the purpose of this Article, any expenditure by the Contractor on an appraisal 
+programme required to discharge the obligations of TPDC under Section 32 (2) of the Act 
+shall be treated as expenditure for the purpose of satisfying the minimum expenditure 
+obligations set out in sub-article (b) of this Article. 
+
+ 
+
+(h) No relinquishment shall relieve Contractor of accrued, but unfulfilled obligations under the 
+Contract. In the event the Contractor desires to relinquish its rights hereunder in the whole 
+of the Contract Area without having fulfilled all accrued Minimum Work Programme under 
+this Article, TPDC shall be paid, prior to the date of such proposed total relinquishment, the 
+sum equal to the remaining amount of the non-discharged guarantees corresponding to such 
+accrued, but unfulfilled work obligations. 
+
+ 
+ 
+
+
+ARTICLE 6: ANNUAL WORK PROGRAMMES AND BUDGET 
+
+ 
+
+(a) Within thirty (30) days of the Effective Date, the Contractor shall prepare and submit to 
+TPDC a detailed Work Programme and Budget setting forth the Exploration Operations 
+which Contractor proposes to carry out in the Calendar Year in which the Exploration 
+Licence is first issued to TPDC hereunder and the estimated cost thereof. 
+
+ 
+
+(b) So long as the Exploration Licence issued to TPDC hereunder remains in force and at least 
+three (3) months prior to the beginning of each subsequent Calendar Year, Contractor shall 
+prepare and submit to TPDC a detailed Work Programme and Budget setting forth the 
+Exploration Operations which Contractor propose to carry out in that Calendar Year and 
+the estimated cost thereof. 
+
+ 
+
+(c) Every Work Programme and Budget submitted to TPDC pursuant to this Article and every 
+revision or amendment thereof shall be consistent with the requirements set out in Article 5 
+relating to work and expenditure for the Exploration Period within which the Work 
+Programme and Budget will fall. 
+
+ 
+
+(d) Every Work Programme and Budget and, as the case may be, the appraisal programme 
+referred to in Article 8(g) submitted by Contractor to TPDC shall be reviewed by a joint 
+committee to be established by TPDC and Contractor pursuant to Article 7. Should TPDC 
+wish to propose a revision of the proposed Work Programme and Budget or appraisal 
+programme, as the case may be, TPDC shall, within three (3) weeks after receipt thereof, so 
+notify the Contractor specifying in reasonable detail its reasons. Promptly thereafter, the 
+parties will meet and endeavor to agree upon the revisions proposed by TPDC following 
+review by the Advisory Committee, Contractor shall make such revisions as it deems 
+appropriate and submit the Work Programme and Budget or, without prejudice to Article 
+8(f), appraisal program, as appropriate, to TPDC. 
+
+ 
+
+(e) Subject to Article 5, upon giving notice to TPDC, Contractor may amend any Work 
+Programme or Budget or any revised Work Programme or Budget submitted to TPDC, but, 
+subject to any such amendment, Contractor shall carry out the Exploration Operations set 
+forth in the Work Programme or revised Work Programme and spend not less than the sum 
+provided for in the Budget or revised Budget. In the case of an appraisal program, any 
+amendment thereto proposed to TPDC by Contractor will be subject to section 32(2) of the 
+Act; where an appraisal programme has been agreed by the Advisory Committee as 
+referred to in Article 8(f), no amendment shall be made without the approval of the 
+Advisory Committee. A notice under this sub-article shall state the reasons why, in the 
+opinion of Contractor, an amendment is necessary or desirable. 
+
+ 
+
+(f) Where Contractor has discharged its obligations under this Article, the Minister will not 
+suspend or cancel any Exploration Licence granted to TPDC hereunder by reason only that 
+TPDC has failed to comply strictly with the requirements of paragraph (a) of sub-section 
+(1) of Section 30 of the Act or has failed to meet the requirements deemed to be included in 
+an Exploration Licence by reasons of that provision. 
+
+
+
+ARTICLE 7: ADVISORY COMMITTEE 
+
+ 
+
+(a) The Advisory Committee shall be composed of four (4) members, two (2) of whom shall 
+be appointed by TPDC and the other two (2) by Contractor. The Government shall be 
+entitled to attend the Advisory Committee meetings in a non-voting capacity – as an 
+observer. The Advisory Committee meetings cannot take place unless at least three (3) of 
+its members are present. 
+
+ 
+
+(b) The Advisory Committee shall meet from time to time as may be convened by the 
+Chairman. 
+
+ 
+
+(c) The Advisory Committee shall perform the following functions: 
+
+ (i) approve the annual work programme and budget; 
+
+ (ii) approve the appraisal work programme; 
+
+ (iii) any other matter as may be directed by the Parties 
+
+ 
+
+(d) The Advisory Committee shall be headed by a Chairperson who shall be appointed by 
+TPDC from among its representatives and who shall be responsible for the following 
+functions: 
+
+ 
+
+(i) to coordinate all the Advisory Committee's activities; 
+
+(ii) to chair the meetings and to notify the Contractor and TPDC of the timing and 
+location of such meetings, it being understood that the Advisory Committee shall 
+meet at least once every Calendar year or whenever requested by Contractor and/or 
+TPDC; 
+
+(iii) to establish the agenda of the meetings, which shall include all matters which the 
+Parties have asked to be discussed; 
+
+(iv) to convey to the Parties all decisions of the Advisory Committee, within five (5) 
+working days after the meetings; 
+
+(v) to request from Contractor any information and to make recommendations that have 
+been requested by any member of the Advisory Committee, as well as to request 
+from Contractor any advice and studies whose execution has been approved by the 
+Advisory Committee; 
+
+(vi) to request from the technical and other committees of the Advisory Committee any 
+information, recommendations and studies that he has been asked to obtain by any 
+member of the Advisory Committee; and 
+
+(vii) to convey to the Parties all information and data provided to him by the Contractor 
+for the Parties. 
+
+ 
+
+(e) In the case of an impediment to the Chairperson of the Advisory Committee, the work of 
+any meeting will be chaired by the other member appointed by TPDC. 
+
+ 
+
+(f) At the request of TPDC and/or Contractor, the Advisory Committee shall establish and 
+approve its internal regulations, which shall comply with the procedures established in this 
+Agreement. 
+
+ 
+
+(g) Each member of the Advisory Committee shall have one (1) vote. The decisions of the 
+Advisory Committee shall be taken by simple majority of the votes present or represented, 
+it being understood that any member may be represented by written and duly signed proxy 
+held by another member. Furthermore, if such majority is not achieved, the proposal 
+
+
+
+under decision shall be reviewed and re-submitted to the Advisory Committee in no more 
+than fifteen (15) days. 
+
+ 
+
+(h) Members attending a meeting of the Advisory Committee may be accompanied by advisers 
+and experts to the extent reasonably necessary to assist with the conduct of such meeting. 
+Such advisers and experts shall not vote, but may contribute in a non-binding way to 
+discussions and debates of the Advisory Committee. 
+
+ 
+
+(i) The Contractor shall appoint the Secretary to the Advisory Committee from among its 
+representatives. 
+
+ 
+
+(j) The responsibilities of the Secretary are to see to it that: 
+
+ 
+
+(i) the minutes of every meeting of the Advisory Committee are recorded; 
+
+(ii) the minutes are written in the appropriate record book and signed on behalf of 
+TPDC and the Contractor; and 
+
+(iii) the draft of the minutes are prepared, if possible, on the day that the meeting is held 
+and copies of it are sent to TPDC and the Contractor within the following five (5) 
+working days, and their approval shall be deemed granted if no objection is raised 
+within ten (10) working days of the date of receipt of the draft minutes. 
+
+
+
+ARTICLE 8: DISCOVERY AND DEVELOPMENT 
+
+ 
+
+(a) If Petroleum is discovered in the Contract Area, Contractor shall; 
+
+ 
+
+(i) forthwith notify TPDC of such Discovery; and 
+
+(ii) within thirty (30) days after the date of discovery provide TPDC with all available 
+information regarding the Discovery, including a preliminary classification of the 
+Discovery as Crude Oil or Natural Gas as well as its potential commerciality; 
+
+ 
+
+(b) If Contractor informs TPDC that, in its opinion, utilizing Good Oilfield Practices, the 
+discovery is of eventual commercial interest and TPDC agrees with such determination, 
+then the Minister shall be advised to agree to allow the Contractor to retain the Discovery 
+Block for the duration of the Exploration Licence and any renewal thereof, provided that: 
+
+ 
+
+(i) the determination of eventual and/or potential commerciality shall be based on 
+relevant economic criteria, including but not limited to, potential Petroleum 
+production rates, Petroleum prices, development costs, operating costs as well as 
+any other relevant criteria, as established by the Contractor; 
+
+(ii) Contractor shall reassess the commerciality of Discovery every two (2) years, based 
+on the same economic criteria as set out in Article 8(b)(i) above; in case of further 
+discoveries that could be tied and developed together in order to make economies of 
+scale; the Contractor shall inform TPDC accordingly; 
+
+(iii) Contractor shall within thirty (30) days after the re-assessment inform TPDC 
+whether it determines the Discovery still to be of eventual commercial interest. 
+TPDC shall inform the Minister the re-assessment study results; 
+
+(iv) if the results of Contractor’s re-assessment determine that the Discovery has become 
+of potential commercial interest, the provisions of Articles 8(f) and 8(g) shall apply; 
+
+(v) if the results of Contractor’s assessment in the first instance in (b) above or re- 
+assessment determine that the discovery is or remains only of eventual commercial 
+interest, but TPDC considers that it is of present commercial interest, at the election 
+of either Party by notice to the other, the dispute shall be referred for determination 
+by a sole expert to be appointed by agreement between the Parties. If the Parties fail 
+to appoint the expert within thirty (30) days after receipt of such notice, the Parties 
+may apply to The British Energy Institute (formerly British Institute of Petroleum), 
+for appointment of an expert in accordance with its Rules. In each instance, the sole 
+expert to whom the matter in dispute is to be referred shall be an authority in the 
+discipline or disciplines relating to the matter in dispute. The expert shall make his 
+determination within sixty (60) days of his appointment, or such earlier date that the 
+Parties may agree, in accordance with the provisions contained herein and on the 
+basis of the terms of reference agreed by the Parties to the dispute; provided that, if 
+such Parties are not able to agree on such terms of reference, the expert shall decide 
+such terms. Representatives of the Parties shall have the right to consult with the 
+expert and furnish him with data and information, provided the expert may impose 
+reasonable limitations on this right. The expert shall be free to evaluate the extent to 
+which any data, information or other evidence is substantiated or pertinent. The 
+expert’s fees and expenses, and the costs associated with an appointment, if any, 
+made by the above mentioned chosen institution, shall be borne equally by the 
+Parties to the dispute. The determination of the expert shall be final and binding; 
+
+ 
+
+
+
+(vi) if the results of Contractor’s re-assessment determine that the Discovery is no longer 
+of potential commercial interest, the provisions of Article 8 (c) below shall apply. 
+
+ 
+
+(c) If Contractor informs TPDC that in its opinion the discovery is not of potential commercial 
+interest then TPDC will have the option to require the Contractor to surrender its rights and 
+be relieved of its obligations in respect of the Block or Blocks comprising the geological 
+feature (as outlined by the relevant seismic data) in which the discovery is located. 
+
+ 
+
+(d) The option in sub-articles (c) of this Article will lapse if not exercised by TPDC within 
+twelve months from the date on which notice was given to TPDC by Contractor pursuant to 
+sub-article (a) of this Article and during the said period of twelve months, and any 
+subsequent period if the option lapses without being exercised, the Minister will in respect 
+of the discovery to which that notice relates exempt TPDC from the requirements of 
+Section 32 (2) of the Act. 
+
+ 
+
+(e) Where pursuant to sub-article (c) of this Article, Contractor has surrendered its rights and 
+been relieved of its obligations in respect of any Block or Blocks in which the discovery is 
+located, notwithstanding that the said Block or Blocks continue to be subject to the 
+Exploration Licence referred to in sub-article (b) of Article 3, the said Block or Blocks shall 
+not for the purpose of this Agreement, constitute part of the Contract Area. 
+
+ 
+
+(f) Where Contractor, pursuant to sub-article (a) of this Article, has informed TPDC that, in its 
+opinion the discovery is of potential commercial interest, Contractor shall, as soon as 
+practicable thereafter, submit to TPDC, for the consideration of the Advisory Committee, 
+its proposals for an appraisal programme to meet the requirements of Section 32 (2) of the 
+Act. 
+
+ 
+
+(g) Subject to Article 13(b) where, 
+
+ 
+
+(i) the Advisory Committee has agreed on an appraisal programme submitted by 
+Contractor as aforesaid or on a revision thereof; and 
+ 
+(ii) a Location has been declared; 
+
+ 
+
+the Minister may, to the extent necessary, extend the period within which an application 
+may be made by TPDC for a Development Licence, if TPDC at the request of the 
+Contractor applies on that behalf, for a period of two (2) years, so as to ensure that the 
+appraisal programme can be carried out and the results thereof assessed before the said 
+period expires. 
+
+ 
+
+(h) Where Contractor has requested TPDC to make application for a Development Licence, the 
+proposals accompanying such application, pursuant to paragraph (a) of Section 36 of the 
+Act, shall: 
+
+ 
+
+(i) be drawn up by Contractor after consultation with TPDC; 
+
+(ii) be designed to ensure the recovery of the maximum quantity of Petroleum from the 
+Development Area which the economics of the development shall justify; 
+
+
+(iii) include evidence that Contractor has undertaken an Environmental Impact 
+Assessment study and obtained the necessary approvals; and 
+
+
+(iv) be in compliance with Good Oilfield Practices 
+
+
+
+
+ 
+
+
+
+(i) Where a Location has been declared, the Minister will not, without the prior agreement 
+between TPDC and Contractor, give any direction to TPDC, pursuant to Section 34(1) of 
+the Act, provided however that, if the application is made for a Development Licence in 
+respect of any Block or Blocks within that Location, nothing in this sub-article shall be 
+construed as limiting the scope of any notice which the Minister may give to TPDC 
+pursuant to Section 37(2) of the Act. 
+
+ 
+
+(j) Where the Exploration Licence is due to expire during the above mentioned period allowed 
+by the Minister for application for a Development Licence under Article 8(g), or, in the 
+case of Non-Associated Natural Gas, under Article 13(b), then the Minister shall prior to 
+the expiry of the Exploration Licence grant to TPDC for such period, a new Exploration 
+Licence on the requisite terms as may be appropriate to enable TPDC to apply, upon 
+request of Contractor, for a Development Licence related to the Blocks forming the 
+previous Location as per Article 8(g) or, in the case of Non-Associated Natural Gas, Article 
+13(b). 
+
+ 
+
+(k) Where TPDC, upon request of Contractor, makes an application for a Development Licence 
+as per Article 8(j) above, in respect of a Block or Blocks forming the previous Location as 
+per Article 8(g) or, in the case of Non-Associated Natural Gas, Article 13(b), then the 
+Minister shall grant, on such conditions as are necessary to give effect to the application for 
+the Licence, the Development Licence applied for. 
+
+
+
+ARTICLE 9: JOINT OPERATIONS 
+
+ 
+
+(a) Save as provided in sub-article (b) and sub-article (c) (iii) of this Article, Contractor shall bear 
+and pay all Contract Expenses incurred in carrying out Petroleum Operations hereunder, and 
+Contractor shall recover such expenses only from the Petroleum to which it is entitled as 
+hereinafter provided in Article 11. 
+
+ 
+
+(b) (i) Participating Interest by TPDC: 
+
+OIL or GAS 
+
+TPDC may at any time, by notice in writing to Contractor, elect to contribute in 
+participating interest of not less than twenty five percent (25%) of Contract Expenses 
+other than Exploration Expenses (such Exploration Expenses to include expenses in 
+respect of an Appraisal Programme) incurred in the first and every subsequent 
+Development Area from the date such notice is rendered. 
+
+
+
+
+ (ii) Where TPDC does elect to participate in the development of a discovery, TPDC shall 
+
+ pay its share of Contract Expenses. 
+
+(iii) If TPDC fails to pay its share of Contract Expenses and such failure is not rectified 
+within a period of thirty (30) days after receipt of a written notice of such failure from the 
+Contractor, the Contractor shall advance by way of loan up to 100% of unpaid amount of 
+TPDC’s share of Contract Expenses. Such Contract Expenses shall bear interest at a rate 
+of LIBOR plus two percent (2 %) and will be recovered on a preferential basis from 
+TPDC’s Share of Profit Oil/Gas. 
+
+ 
+
+(c) Joint operations shall be conducted hereunder in accordance with the terms and conditions of 
+a mutually acceptable form of Operating Agreement to be concluded between TPDC and the 
+Contractor immediately following the first notice given to Contractor by TPDC, pursuant to 
+sub-paragraph (i) of this sub-Article. The operating Agreement aforesaid will include 
+provisions to give effect to the following principles: 
+
+  
+
+(i) Contractor shall be the sole Operator of the Joint Operations under properly defined 
+rights and obligations and will carry out all operations pursuant to work 
+programmes and budgets approved by a Joint Operating Committee. The parties 
+may review at any time the Operatorship of the Joint Operations; 
+
+(ii) A Joint Operating Committee shall be established on which TPDC and Contractor 
+shall be equally represented. The representatives aforesaid shall have voting rights 
+proportional to the participating interests of each Contractor entity on the Joint 
+Operating Committee on all matters. Except as otherwise expressly provided for in 
+this Agreement, all decisions, approvals and other actions of the Joint Operating 
+Committee on all proposals coming before it shall be decided by affirmative vote of 
+two (2) or more non-Affiliated Parties holding an aggregate not less than sixty five 
+percent (65%) of all Participating Interests (“Pass Mark Vote”); except for decisions 
+relating to TPDC participation in any exploration and appraisal cash calls as a co- 
+venturer as per Article 9(b) and 9(c)(iii). In case of disagreement, a third party 
+expert, who shall be mutually agreed upon and selected, will resolve the 
+disagreement and his decision shall be final and binding on the parties to the 
+disagreement. 
+
+(iii) TPDC shall be liable to contribute the Participating Interests (as contained in 
+Article 9(b)(i)) of the Contract Expenses other than Exploration Expenses (such 
+Exploration Expenses to include expenses in respect of an appraisal programme) of 
+
+
+
+Joint Operations in all Development Areas in respect of which TPDC has elected to 
+participate. The balance of such expenses shall be contributed by the Contractor. 
+
+(iv) The contributions aforesaid shall be in such major convertible currencies as may be 
+required from time to time by the Operator for the Joint Operations approved by the 
+Joint Operating Committee but (if there exist expenditures in Tanzanian Shillings), 
+TPDC shall have preference for payment in such Tanzanian Shillings and such 
+amounts will count towards the total contribution which TPDC is obliged to make 
+in respect of its share in Joint Operations. 
+
+ 
+
+(v) Failure by any party to meet calls for funds within the time limits agreed shall result 
+in liability for interest on the unpaid amounts for the period that such amounts 
+remain unpaid at LIBOR + 2%. 
+
+(vi) If, after the election allowed in paragraph 10(b), TPDC fails to pay its share of 
+Development and/or Production Expenditures and such failure is not rectified within 
+a period of thirty (30) days after receipt of written notice thereof from the Operator, 
+TPDC shall be deemed to have elected on the date of receipt of the notice to have 
+agreed with the Contractor entities that they shall carry TPDC´s share of such 
+expenditures, and the Contractor entities shall pay any of TPDC´s unpaid 
+expenditures before the date of the deemed election and also TPDC´s share of any 
+expenditures incurred after the date of the deemed election recovering such 
+expenditures in accordance with Article 10(c)(v)(b). Notwithstanding the above 
+procedure, if, during the above mentioned thirty (30) days period to rectify the 
+failure to pay, TPDC notifies the Operator that it has provided to rectify such failure 
+to pay in a period not greater than thirty (30) days from such TPDC's notification to 
+Operator, then, the carry from Contractor's entities shall not be triggered unless such 
+notification is not done during this thirty (30) days period. For avoidance of doubt 
+any amounts not remedied other than by the carry procedure herein established are 
+subject to paragraph (iv) above from the date of failure to pay until the date such 
+failure to pay is finally rectified. The Contractor entities shall have the right to 
+recover such expenditures out of the TPDC’s Cost Oil as defined in Article 12(b) (i). 
+
+
+
+ARTICLE 10: ANNUAL CHARGES 
+
+ 
+
+(a) The annual charge in respect of which the Contractor is obliged to disburse to TPDC, 
+pursuant to Article 3(d) (v) hereof in respect of the said Exploration Licence, shall be an 
+equivalent amount in Tanzania shillings calculated by charging the following amounts for 
+every square kilometer of the Contract Area retained: 
+
+ 
+
+Period US $/sq km 
+
+ 
+
+Initial Exploration Period 4 
+
+First Extension Period 8 
+
+Second Extension Period 16 
+
+ 
+
+The annual charge in respect of a Development Licence granted to TPDC, for which 
+application was made at the request of the Contractor, shall be US$ 200 per sq. km . 
+
+ 
+
+(b) The sum in United States dollars referred to in paragraph (a) above shall be adjusted 
+annually by dividing the sum by the following factor I, where: 
+
+ 
+
+I = C/D 
+
+and where: 
+
+ 
+
+C is the United States Industrial Goods Producer Price Index (USIGPPI) as reported 
+for the first time in monthly publication “International Financial Statistics” of the 
+International Monetary Fund (IMF) in the section “Prices, Production, 
+Employment” for the Month during which the Exploration Licence is first issued to 
+TPDC hereunder. 
+
+ 
+
+D is the USIGPPI as reported for the first time in the aforesaid IMF publication for 
+the Month in which the first and any subsequent anniversary of the date on which 
+the Exploration Licence was first issued falls. 
+
+ 
+
+For the purpose of this Article 10, and Articles 5(f) and 18(c), in the event that the 
+USIGPPI ceases to be published the parties to this agreement shall agree on an appropriate 
+replacement index. 
+
+ 
+
+
+
+ARTICLE 11: RECOVERY OF COSTS AND EXPENSES AND 
+
+PRODUCTION SHARING 
+
+ 
+
+(a) Where a company has more than one exploration licence within a Contract Area (prior to 
+any relinquishments) there shall be no “ring fencing” of Exploration or Development 
+Licences in such Contract Area. Provided that, in respect of Development Area falling 
+within the Contract Area (prior to any relinquishments), Contract Expenses in other 
+Licence Area or Block(s) within the Contract Area (prior to any relinquishments) may only 
+be recoverable from petroleum revenues from such Development area to the extent that 
+were incurred prior to commencement of Petroleum production from such Development 
+Area. 
+
+ 
+
+(b) Royalty as provided for in Article 14(c) shall be charged first on total production from the 
+Contract Area. The Royalty shall be reckoned at the well head before recovery of costs. 
+
+ 
+
+
+
+
+(c) Subject to sub-article (b) and (e) of this Article and sub-article (a) of Article 13, all 
+Contract Expenses incurred by the Contractor and, where Joint Operations have been 
+established by TPDC shall be recovered from a volume of Crude Oil“ and/or “Natural Gas” 
+or “Gas” (hereinafter referred to as “Cost Oil” and/or “Cost Gas”) produced and saved 
+from the Contract Area and limited in any Calendar Year to an amount not exceeding fifty 
+per cent (50%) of remaining total Crude Oil /Natural Gas production from the Contract 
+Area in the onshore/shelf areas 
+
+ 
+
+(d) Contract Expenses which, pursuant to the provision of Annex D, may be recovered from 
+Cost Oil and/or Cost Gas are hereinafter referred to as “Recoverable Contract Expenses”. 
+Such expenses may be recovered as from the date they have been incurred. To the extent 
+that, in any Calendar Year, the Recoverable Contract Expenses exceed the Cost Oil and/or 
+Cost Gas available under Article 11 (c), the un-recovered excess shall be carried forward 
+for recovery in the next succeeding Calendar Year and, to the extent not then recovered, in 
+the subsequent Year or Years. 
+
+  
+
+(e) Where, additionally, Joint Operations have been established: 
+
+ 
+
+(i) No Contract Expenses incurred by TPDC shall be recovered from the Cost Oil 
+and/or Cost Gas unless there is production from a Development Area in respect 
+of which there are Joint Operations; 
+
+(ii) The available Cost Oil and/or Cost Gas shall be applied first to recover Operating 
+Expenses, and the Contractor and TPDC shall be entitled to recover such Expenses 
+in proportion to their individual cumulative un-recovered Operating Expenses. After 
+recovery of Operating Expenses any excess Cost Oil and/or Cost Gas available for 
+distribution shall be applied to recover Exploration Expenses. After recovery of 
+Operating Expenses and Exploration Expenses any excess Cost Oil and/or Cost Gas 
+available for distribution shall be applied, and the Contractor and TPDC shall be 
+entitled to recover such expenses in proportion to their individual cumulative un- 
+recovered Development Expenses. Any un-recovered Contract Expenses shall be 
+recovered out of the Cost Oil and/or Cost Gas available in the next succeeding 
+Calendar Year or Years in the same manner as set out herein. 
+
+ 
+
+(f) Subject to the limitations set out in sub-article (c) of this Article, the quantity of Cost Oil 
+and/or Cost Gas which the Contractor and, if Joint Operations have been established, TPDC 
+
+
+
+actually require and shall be entitled to in any Calendar Year will be established on the 
+basis of the average fair market price per barrel determined in accordance with Article 12 
+herein. 
+
+ 
+
+(g) (i)(a) Profit Oil: For the purpose of sharing profit oil/gas between the Contractor and 
+
+TPDC, the balance of Crude Oil available in any Year after Recoverable Contract 
+Expenses have been recovered to the extent and in the manner aforesaid (hereinafter 
+referred to as “Profit Oil /Gas”), total Crude Oil/Natural Gas production from the 
+Contract Area shall be divided based on the following tranches: 
+
+ 
+
+Tranches of daily total production rates (barrels of oil per day, BOPD) in the 
+Contract Area in the onshore and shelf areas 
+
+ 
+
+ 0- 12,499 
+
+ 12,500- 24,999 
+
+ 25,000- 49,999 
+
+ 50,000- 99,999 
+
+ 100,000 and above 
+
+ 
+
+(i)(b) Profit Gas: For the purpose of sharing profit gas between the Contractor and TPDC, 
+
+the balance of Natural Gas available in any Year after Recoverable Contract 
+Expenses have been recovered to the extent and in the manner aforesaid (hereinafter 
+referred to as “Profit Gas”), total Natural Gas production from the Contract Area 
+shall be divided based on the following tranches: 
+
+ 
+
+Tranches of daily total production rates (million standard cubic feet of gas per day, 
+MMSCFGPD) in the Contract Area in the onshore and shelf areas 
+ 
+ 
+
+ 0 - 19.99 
+
+ 20 - 39.99 
+
+ 40 - 59.99 
+
+ 60 - 79.99 
+
+80 99.99 
+
+100 and above 
+
+ 
+
+ 
+
+(ii) The tranches of daily total production referred to in this Article 11 and also in 
+Article 9 herein shall be specified in terms of average daily total production rates. 
+The average daily production rates shall be determined for each Calendar Quarter 
+and shall be calculated by dividing the total quantity of Crude Oil and/or Cost Gas 
+produced and saved from the Contract Area during any Quarter by the total number 
+of days during which Crude Oil and/or Cost Gas was produced in such Quarter. 
+
+(iii) The quantity of Cost Oil and/or Cost Gas required to satisfy Recoverable Contract 
+Expenses in any Year shall be allocated to each of the applicable tranches of daily 
+total production in the same proportion as the total production in each tranche of 
+daily total production bears to total production from the Contract Area. 
+
+ 
+
+(h) (i) If there are no Joint Operations, after allocation of Recoverable Contract Expenses 
+in accordance with sub-article (f) (iii) of this Article, the resulting Profit Oil in each 
+tranche of daily total production shall be shared as follows: 
+
+
+
+ 
+
+ 
+
+Tranches of daily total Production TPDC Share ABC Share Contractor 
+(BOPD) rates in the of Profit Oil of Profit Oil 
+Contract Area 
+
+ 
+
+ 0-12,499 70% 30% 
+
+ 12,500- 24,999 75% 25% 
+
+ 25,000- 49,999 80% 20% 
+
+ 50,000- 99,999 85% 15% 
+
+ Above 100,000 90% 10% 
+
+ 
+
+(ii) If there are no Joint Operations, after allocation of Recoverable Contract Expenses 
+in accordance with sub-article (f) (iii) of this Article, the resulting Profit Gas in each 
+tranche of daily total production shall be shared as follows: 
+
+ 
+
+Tranches of daily total Production TPDC Share ABC Share Contractor 
+(MMSCFGPD) rates in the Contract Area of Profit Gas of Profit Gas 
+
+ 
+
+ 0 - 19.99 60% 40% 
+
+ 20 - 39.99 65% 35% 
+
+ 40 - 59.99 70% 30% 
+
+ 60 - 79.99 75% 25% 
+
+80 99.99 80% 20% 
+
+100 and above 85% 15% 
+
+ 
+
+(i) If there are Joint Operations in all Development Areas, TPDC’s share of Profit Oil/Gas 
+indicated in sub-article (h) of this Article relative to each tranche of daily total production 
+shall be increased by the number of percentage points obtained by multiplying TPDC’s 
+working interest of not less than twenty five (25%) per cent in accordance with Article 9 (b) 
+by the share of the Contractor’s Profit Oil/Gas indicated in sub-article (h) (i) and (ii) 
+respectively of this Article relative to such increment of Profit Oil/Gas, and the 
+Contractor’s share shall be reduced accordingly. However, where TPDC has elected 
+pursuant to Article 9 (b) not to participate in Joint Operations in all Development Areas, the 
+increase in TPDC’s share of Profit Oil/Gas shall be the result of the above calculation 
+multiplied by the ratio of total production from Joint Operations over total production in the 
+Contract Area during each Year. 
+
+ 
+
+(j) With respect to this Article 11, Cost Oil and/or Cost Gas and Profit Oil and/or Profit Gas 
+calculations shall be done for each Calendar Quarter and the Crude Oil/Natural Gas 
+provisionally shared accordingly. To the extent that actual quantities, expenses and prices 
+are not known, provisional estimates of such data based on the approved Work Program, 
+budget and any other relevant documentation or information shall be used. Within sixty 
+(60) days of the end of each Calendar Year a final calculation of Cost Oil and/or Cost Gas 
+and Profit Oil and/or Profit Gas based on actual Crude Oil/Natural Gas quantities, prices 
+and recoverable costs and expenses in respect of that Calendar Year shall be prepared and 
+any necessary adjustments to the Crude Oil/Natural Gas sharing shall be agreed upon 
+between the Contractor and TPDC and made as soon as is practicable. 
+
+ 
+
+
+
+(k) Subject to Article 17(d), the Contractor will be free to export any Petroleum received by 
+Contractor pursuant to Article 11 and 13 of this Agreement and to retain the proceeds of the 
+sale of such Petroleum outside the United Republic of Tanzania. 
+
+ 
+
+
+
+ARTICLE 12: VALUATION OF CRUDE OIL 
+
+ 
+
+(a) The parties hereby agree that Tanzanian Crude Oil produced and saved from the Contract 
+Area shall be sold or otherwise disposed of at competitive international market prices. The 
+average fair market price of Tanzanian Crude Oil marketed in any Calendar Quarter shall, 
+for the purpose of giving effect to this Agreement, be determined as follows: 
+
+ 
+
+(1) as soon as possible after the end of each Calendar Quarter in which Crude Oil has 
+been produced from any Development Area pursuant to this Agreement an average 
+price (in terms of US$ per barrel FOB the Contractor’s actual loading point for 
+export from the United Republic of Tanzania) for each separate volume of Crude 
+Oil of the same gravity, sulphur and metal content, pour point, product yield and 
+other relevant characteristics (“quality”) shall be determined in respect of 
+production during that Calendar Quarter. It is understood that production from 
+different Development Areas may be of differing quality and that separate average 
+prices may accordingly be appropriate for any Calendar Quarter in respect of 
+production for each Area, in which event the overall price applicable to production 
+from the Contract Area shall be determined by taking the arithmetic weighted 
+average (weighted by volume) of all such prices separately determined; 
+
+ 
+
+(2) the prices aforesaid shall be determined on the basis of international fair market 
+value as follows: 
+
+ 
+
+(i) in the event that 50% or more of the total volume of sales made by the 
+Contractor during the Calendar Quarter of Crude Oil of a given quality 
+produced and saved hereunder have been third party arms length sales 
+transacted in foreign exchange (hereinafter referred to as “Third Party 
+Sales”), the fair market valuation for all Crude Oil of that quality will be 
+taken to be the simple arithmetic average price actually realized in such 
+Third Party Sales. This will be calculated by dividing the total receipts from 
+all Third Party Sales by the total number of Barrels of Crude Oil sold in such 
+sales; 
+
+(ii) subject to sub-paragraph (3) below, in the event that less than 50% of the 
+total volume of sales made by the Contractor during the Calendar Quarter of 
+Crude Oil of a given quality produced and saved hereunder have been Third 
+Party Sales, the fair market valuation for all Crude Oil of that quality will be 
+determined by the arithmetic weighted average of: 
+
+ 
+
+(A) the simple arithmetic average price actually realized in the Third Party 
+Sales during the Calendar Quarter of such Crude Oil produced and 
+saved hereunder, if any, calculated by dividing the total receipts from 
+all Third Party Sales by the total number of Barrels of Crude Oil sold 
+in such sales; 
+
+ 
+
+and 
+
+ 
+
+(B) the simple arithmetic average price per Barrel at which a selection of 
+major competitive crude oils of generally similar quality to that of 
+Tanzanian Crude Oil produced hereunder and crude of sufficient 
+liquidity daily traded in sufficient quantities (above 0.1 million barrels 
+
+
+
+a day) which are listed and published in Platt Oilgram) were sold in 
+international markets during the same period; the prices of the crude 
+oils used for reference will be adjusted for differences in quality, 
+quantity, transportation costs, delivery time, payment and other 
+contract terms. 
+
+ 
+
+The selected crude oils will be agreed between the Contractor and 
+TPDC, in consultation with the Government in advance for each 
+Calendar year and in making the selection preference will be given to 
+those crude oils of similar quality to Tanzanian Crude Oil which are 
+produced in Africa or the Middle East and are regularly sold in the 
+same markets as Tanzanian Crude Oil is normally sold. 
+
+ 
+
+The arithmetic weighted average aforesaid will be determined by the 
+percentage volume of sales of Tanzanian Crude Oil by Contractor that 
+are, (A), and that are not, (B) as the case may be, Third Party Sales 
+during the Calendar Quarter in question. 
+
+ 
+
+(iii) all such prices will be adjusted to FOB the Contractor’s actual loading point 
+for export from the United Republic of Tanzania; 
+
+(iv) for the purposes of this Article, Third Party Sales of Crude Oil made by the 
+Contractor shall include any third party arms length sales made by the 
+Contractor on Government’s behalf pursuant to Article 17 herein but shall 
+exclude: 
+
+ 
+
+(A) Sales, whether direct or indirect through brokers or otherwise, of 
+any seller to any Affiliate of such seller. 
+
+ 
+
+(B) Crude Oil exchanges, barter deals or restricted or distress 
+transactions, and more generally any Crude Oil transaction which is 
+motivated in whole or in part by considerations other than the usual 
+economic incentives for commercial arms length crude oil sales. 
+ 
+ 
+
+(3) In the event that less than 50% of the total volume of sales by the Contractor during 
+the Calendar Quarter of Crude Oil/Natural Gas of a given quality produced and 
+saved hereunder have been Third Party Sales, the Contractor shall promptly notify 
+Government and TPDC of the applicable percentage and respective volumes and 
+prices realized. Government and TPDC shall have the right to elect for the fair 
+market valuation for all Crude Oil/Natural Gas of that quality to be determined for 
+that Quarter in accordance with sub-article 12 (a) 2 (i) of this Article. If Government 
+and TPDC so elect, they will notify the Contractor in writing within 14 days of 
+receipt of the original notification from the Contractor, and the fair market valuation 
+of the aforesaid Crude Oil shall be determined accordingly. If Government and 
+TPDC do not so elect then the fair market valuation shall be determined in 
+accordance with sub-article 12(a) (2) (ii) of this Article. 
+
+ 
+
+(b) The Contractor shall be responsible for establishing the relevant average prices for Crude 
+Oil in accordance with this Article 12, and such prices shall be subject to agreement by 
+TPDC before they shall be accepted as having been finally determined. The Contractor 
+shall provide TPDC with all relevant material in order that it can satisfy itself that the 
+
+
+
+average price determined by the Contractor is fair. If the parties fail to agree on the average 
+price for any Calendar Quarter within thirty (30) days following the end of such Quarter 
+then the calculation of the relevant average price shall be referred to a sole expert appointed 
+pursuant to sub-article (d) of this Article. The sole expert’s determination shall be final and 
+binding. 
+
+ 
+
+(c) During the Calendar year in which production from the Contract Area commences, the 
+parties will meet in order to establish a provisional selection of the major competitive crude 
+oils and an appropriate mechanism for the purposes of giving effect to sub-article 12(a) 
+(2)(ii) (B) of this Article. The selection of crude oils will be reviewed annually and 
+modified if necessary. 
+
+ 
+
+(d) In the event of any difference or dispute between the Contractor and Government or TPDC 
+concerning selection of the major competitive crude oils, or more generally about the 
+manner in which the prices are determined according to the provisions of this Article 12, 
+the matter or matters in issue shall finally be resolved by a sole expert appointed by 
+agreement between the parties or, in the absence of such agreement, by the British Energy 
+Institute (formerly British Institute of Petroleum). The costs of the expert shall be shared 
+equally between the Contractor on the one hand and the Government and TPDC on the 
+other hand. 
+
+
+
+ARTICLE 13: NATURAL GAS 
+
+ 
+
+(a) Where Contractor has informed TPDC that Non-Associated Natural Gas discovered in the 
+Contract Area is of potential commercial interest, the Contractor shall, as soon as possible 
+but in any case not exceeding thirty days (30) submit to TPDC, for the consideration of the 
+Advisory Committee, its proposals for an appraisal programme to meet the requirements of 
+Section 32 (2) of the Act. After completion by the Contractor of an appraisal program, the 
+parties shall meet together with a view to reaching an agreement on the development, 
+production, processing and sale of such gas. 
+
+ 
+
+For the purpose of the aforesaid, the parties undertake to negotiate in good faith and in 
+doing so will seek to give effect to the following principles: 
+
+ 
+
+(i) all Contract Expenses directly attributed to the discovery and production of such gas 
+shall be recovered from part thereof and the remainder of the gas shared between the 
+Contractor and TPDC as far as possible in accordance with the scheme for cost 
+recovery and sharing of Profit Oil/Gas set out in Article 11; and 
+
+(ii) to the extent that market conditions permit, gas will be valued for cost recovery and 
+sold for processing or export at prices which will give to the Contractor a fair return 
+on its investment. 
+
+ 
+
+(b) Where:- 
+
+(i) Non-Associated Natural Gas has been discovered in the Contract Area, and 
+
+(ii) a Location has been declared in respect of a Block or Blocks in which such 
+discovery is located, and 
+
+(iii) the parties agree that the Non-Associated Gas discovered by the Contractor exists 
+in the Contract Area in quantities sufficient to justify consideration of an export 
+scheme, 
+
+ 
+
+the Minister will, if TPDC at the request of the Contractor applies in that behalf, extend for 
+a reasonable time, not to exceed three (3) years, the period within which TPDC may apply 
+for a Development Licence over a Block or Blocks within that Location. 
+
+ 
+
+(c) Subject to the provisions of the Act, Natural Gas associated with Crude Oil and not used in 
+Petroleum Operations may be flared only if the use thereof is uneconomic. However, TPDC 
+may elect to offtake, free of charge, at the wellhead or gas oil separator and use for 
+domestic requirements such Natural Gas that would otherwise be flared, provided that all 
+costs associated with TPDC’s utilization of the Natural Gas be borne by TPDC. It is 
+understood that such offtake should not be detrimental to the prompt conduct of oil field 
+operations according to Good Oilfield Practices. 
+
+. 
+
+
+
+ARTICLE 14: TAXATION AND ROYALTY 
+
+ 
+
+(a) The Contractor shall be subject to Tanzanian taxes on income derived from Petroleum 
+Operations hereunder, as provided for under the provisions of the Income Tax Act, 2004. 
+
+ 
+
+(b) In addition to taxes paid in accordance with sub-article (a) above the Contractor or its 
+shareholders in respect of income derived from Petroleum Operations hereunder or in 
+respect of any property held or thing done for any purpose authorised or contemplated 
+hereunder shall be further taxed as follows: 
+
+ 
+
+(i) subject to the provisions of Article 20, import duties at the rates specified from time 
+to time in the First Schedule to the East African Customs Union Protocol; 
+
+(ii) taxes, duties, fees or other imposts for specific services rendered on request or to the 
+public or commercial enterprises generally and rent due to the Government in 
+respect of any land rights granted or assigned to the Contractor; 
+
+(iii) local Government rates or taxes not in excess of those generally applicable in the 
+United Republic of Tanzania; and 
+
+(iv) stamp duties, registration fees, licence fees and any other tax, duty, fee or other 
+impost of a minor nature. 
+
+ 
+
+(c) TPDC on behalf of itself and the Contractor shall discharge the obligation to pay Royalty 
+under Section 81 of the Act in respect of petroleum obtained from the Contract Area, by 
+delivering to the Government 12.5% of total Crude Oil/Natural Gas production (prior to 
+Cost Oil and/or Cost Gas recovery) at such location as the Minister may direct and the 
+Government may require TPDC to dispose of such royalty otherwise to be delivered to the 
+Government in such manner as the Government may direct. 
+
+
+
+ 
+
+ARTICLE 15: ADDITIONAL PROFITS TAX 
+
+ 
+
+(a) Contractor shall be subject to an Additional Profits Tax (hereinafter referred to as "APT") 
+that shall be calculated on a Development Area basis in accordance with the provisions of 
+this Article 16. APT will be calculated for each Calendar Year and will vary with the real 
+rate of return earned by Contractor on the net cash flow from the Development Area in 
+question. If, for any Development Area, either: 
+
+ 
+
+(i) the "first accumulated net cash position" (as calculated in the manner set out 
+hereafter and a sample calculation methodology shown in Annex "E" and 
+hereinafter referred to as the "FANCP"); 
+
+or 
+
+ 
+
+(ii) each of the FANCP and the "second accumulated net cash position" (as calculated 
+in the manner set out hereafter and a sample hereinafter and referred to as the 
+"SANCP") 
+
+
+
+
+ 
+
+is a positive amount, then the APT from the Development Area in question for any 
+Calendar Year shall be either, in case (i): twenty five percent (25%) of the FANCP for that 
+Year, or in case (ii): the aggregate of twenty five percent (25%) of the FANCP for that 
+Year and thirty five percent (35%) of the SANCP for that Year. If in any Year the FANCP 
+or the SANCP is a negative amount then no APT shall be due with reference to that 
+FANCP or SANCP. 
+
+ 
+
+(b) The FANCP on any Development Area for any Calendar Year shall be calculated 
+according to the following formula: 
+
+  
+
+ FANCP = A(100%+B)+C where: 
+
+ 
+
+"A" equals the FANCP denominated in US dollars at the end of the Calendar Year 
+preceding the Calendar Year for which the calculation is being made 
+
+ 
+
+"B" equals twenty percent (20%) plus the percentage change, for the Calendar Year for 
+which the calculation is being made, in the annual average level of the United 
+Stated Industrial Goods Producer Price Index (USIGPPI) as reported for the first 
+time in the monthly publication "International Financial Statistics" of the 
+International Monetary Fund (IMF) in the section "Prices, Production, 
+Employment". 
+
+ 
+
+"C" equals the net cash position denominated in US dollars (which may be a positive or 
+negative amount) for the Calendar Year for which the calculation is being made, 
+calculated as follows: 
+
+ 
+
+(i) Contractor's share of Cost Oil and Profit Oil for that Calendar Year valued in 
+accordance with Article 13 hereof and allocated to the Development Area in 
+question in accordance with the provisions of Annex " D" to this Agreement 
+
+. 
+
+ 
+
+ 
+
+
+
+plus 
+
+ 
+
+(ii) Contractor's share of all credits to the accounts under this Agreement in respect of 
+the Calendar Year, calculated and allocated to the Development Area in question in 
+accordance with the provisions of Annex “D" to this Agreement 
+
+
+
+
+ 
+
+minus 
+
+ 
+
+(iii) Contractor's share of all charges to the accounts under this Agreement in respect of 
+that Calendar Year, calculated and allocated to the Development Area in question in 
+accordance with the provisions of Annex "D" to this Agreement, except that for this 
+purpose Contractor's share of charges shall not include any amounts in respect of 
+interest on loans obtained for the purpose of carrying out Petroleum Operations. 
+
+ 
+
+(c) The SANCP on any Development Area for any Calendar Year shall be calculated 
+according to the same formula given under sub-article (b) above except that: 
+
+ 
+
+"A" equals the SANCP denominated in US dollars at the end of the Calendar Year 
+preceding the Calendar Year for which the calculation is being made, 
+
+"B" equals thirty percent (30%) plus the percentage change, for the Calendar Year for 
+which the calculation is being made, in the annual average level the USIGPPI as 
+reported for the first time in the monthly publication "International Financial 
+Statistics" of the IMF in the section "Prices, Production, Employment". 
+
+ 
+
+To the amount calculated under (iii) in the definition of "C" is sub-article (b) above shall be 
+added any Additional Profits Tax which would be payable from the Development Area if 
+reference were made hereunder only to the FANCP. 
+ 
+ 
+
+(d) If for any Calendar Year the FANCP is positive amount, the FANCP at the end of that 
+Calendar year shall be deemed to be zero for the purpose of calculating the FANCP for the 
+subsequent Calendar Year. 
+
+ 
+
+(e) If for any Calendar Year the SANCP is a positive amount, the SANCP at the end of that 
+Calendar Year shall be deemed to be zero for the purpose of calculating the SANCP for the 
+subsequent Calendar Year. 
+
+ 
+
+(f) Contractor shall maintain proper records and books of accounts in accordance with the 
+provisions of Annex "D" enabling the calculations described in this Article 16 to be 
+performed. From the Effective Date Contractor shall maintain and submit to the 
+Government annually, or more frequently if so requested, a statement of the FANCP and 
+SANCP. 
+
+ 
+
+(g) The APT due, if any, shall be paid in cash at such time and in such manner as the 
+Commissioner of Income Tax may reasonably require. 
+
+
+
+ ARTICLE 16: REPORTING, INSPECTION AND CONFIDENTIALITY 
+
+ 
+
+(a) The Contractor shall prepare and, at all times while this Agreement is in force, maintain 
+accurate and current records of its operations in the Contract Area. 
+
+ 
+
+(b) The Contractor shall save and keep for a reasonable period of time a representative portion 
+of each sample of cores, cuttings and fluids taken from drilling wells, to be disposed of or 
+forwarded to the Government or its representative in a manner directed by TPDC. All 
+samples acquired by the Contractor for its own purpose shall be considered available for 
+inspection at any reasonable time by the Government or its representative. Any such 
+samples which the Contractor has kept for a period of twelve (12) months with the full 
+knowledge of TPDC without receipt of instruction to forward the same to TPDC, 
+Government or its representative may be disposed of by the Contractor at is discretion, 
+provided TPDC has been given prior notice of not less than thirty (30) days of the 
+Contractor’s intention to do so and given the opportunity to take such samples. 
+
+ 
+
+(c ) Notwithstanding sub-article (b) of this Article, the Contractor shall be freely permitted to 
+export samples for purposes of investigation in laboratories abroad. Originals of records 
+may be exported provided at least one copy has been submitted to TPDC. 
+
+ 
+
+(d) (i) TPDC, through its duly appointed representatives, shall be entitled to monitor the 
+Petroleum Operations conducted by the Contractor hereunder and at all reasonable 
+times to inspect all assets, records and data kept by the Contractor relating to such 
+operations. 
+
+(ii) The Contractor shall provide TPDC promptly with copies of any and all data 
+(including, but not limited to geological and geophysical reports, logs and well 
+surveys), information and interpretations of such data and information obtained by 
+the Contractor in the course of carrying out Petroleum Operations hereunder. All 
+such data, information and interpretations, as well as cores and cuttings taken from 
+drilling wells, shall be the property of Government and, save as provided in sub- 
+articles (b), (c) and (d) of this Article, the same may not be published, reproduced or 
+otherwise dealt with by the Contractor without the prior written consent of 
+Government or TPDC, which consent shall not be unreasonably withheld or 
+delayed. 
+ 
+(iii) All data and information and every interpretation thereof provided by the Contractor 
+to TPDC shall, so long as it relates to an area which is a part of the Contract Area, 
+be treated as confidential and each of the parties hereto undertakes not to disclose 
+the same to any other person without the prior written consent of the other parties. 
+However, such data, information and interpretations may be disclosed to affiliate 
+companies or contractors carrying out any part of the Petroleum Operations and to 
+advisers of TPDC and Government who will treat as confidential all that is disclosed 
+to them and undertake not to disclose the same to any other person without the 
+written consent of the Contractor and TPDC. Notwithstanding what is provided in 
+this sub-article (d) (iii) of this Article, the Minister may, using such data, 
+information and reports supplied by the Contractor, publish summaries of data, 
+information and reports from geophysical surveys and exploration wells, including 
+lithological groups, classification boundaries and hydrocarbon zones: 
+
+ 
+
+(A) in the case of discovery wells, five (5) years after completion of drilling; 
+and 
+
+
+
+ 
+
+(B) in any other case, at any time. 
+
+ 
+
+For purposes of this sub-article, a discovery well means a well in which a substantial 
+Petroleum accumulation has been encountered. 
+
+ 
+
+(e) The Contractor undertakes not to disclose to third parties any data, information or any 
+interpretation thereof which relates to an area which has ceased to be part of the Contract 
+Area for a period of four (4) years from the date on which the area to which such data, 
+information or any interpretation thereof relates ceased to be part of the Contract Area or 
+from the date on which this Agreement expires or is terminated, whichever occurs first. 
+However, where during the aforesaid period the Contractor carries on Petroleum Operations 
+in the Contract Area, such data, information and interpretations may be disclosed by 
+Contractor to: 
+
+ 
+
+(i) Subcontractors, Affiliates, assignees, auditors, financial consultants or legal 
+advisers, provided that such disclosures are required for effective performances of 
+the aforementioned recipients’ duties related to Petroleum Operations; 
+
+(ii) comply with statutory obligation or the requirements of any governmental agency or 
+the rules of a stock exchange on which a Party’s stock is publicly traded in which 
+case the disclosing Party will notify the other Parties of any information so disclosed 
+prior to such disclosure; 
+
+(iii) financial institutions involved in the provision of finance for the Petroleum 
+Operations hereunder provided, in all such cases, that the recipients of such data and 
+information agree in writing to keep such data and the information strictly 
+confidential; and 
+
+(iv) a third party for the purpose of negotiating an assignment of interest hereunder 
+provided such third party executes an undertaking to keep the information disclosed 
+confidential. 
+
+ 
+
+(f) Any public disclosure regarding the interpretation of information acquired in Petroleum 
+Operations shall not be made without the Government’s consent. 
+
+
+
+ARTICLE 17: LIFTING, MARKETING AND DOMESTIC SUPPLY 
+
+OBLIGATION 
+
+ 
+
+(a) The quantity of production to which TPDC is entitled, pursuant to Article 11 herein, shall 
+be delivered to TPDC or its nominee at the Delivery Point, at which title in production will 
+pass to TPDC or its nominee subject to the terms of the agreement referred to in sub-article 
+(b) of this Article. TPDC shall be responsible for costs associated with its lifting 
+entitlement after the Delivery Point. The Contractor, and in the event of Joint Operations, 
+TPDC, shall be responsible for all costs prior to the Delivery Point. 
+
+ 
+
+(b) Within six months after the Minister’s approval of a development plan, the Contractor shall 
+propose to TPDC an offtake procedure to govern the method whereby the parties will 
+nominate and lift their respective shares of Crude Oil/Natural Gas. The details of such 
+procedure shall be discussed and agreed upon between TPDC and the Contractor for the 
+Minister’s approval. The major principles of such procedure shall include the following: 
+
+ 
+
+(i) lifting by the parties shall be carried out so as to avoid interference with Petroleum 
+Operations; 
+
+(ii) lifting rights and schedules will be subject to operations tolerances and constraints 
+so that each party shall be entitled to lift full cargo loads; 
+
+(iii) within reasonable limits and subject to future correction of imbalances, each party 
+may lift more or less than its lifting entitlement so as to allow the lifting of full 
+cargo loads; and 
+
+(iv) in general, priority for lifting shall be given to the party having the greatest unlifted 
+lifting entitlement. 
+
+ 
+
+(c) The Contractor shall, if requested by the Minister with at least three (3) months advance 
+notice, market abroad on competitive terms all or part of TPDC’s lifting entitlement subject 
+to payment by TPDC of direct costs normally borne by a seller in such transactions as may 
+be agreed by TPDC but excluding any commission or marketing fee in respect of such 
+service. 
+ 
+ 
+
+(d) TPDC shall use its share of production from all Crude Oil/Natural Gas production in the 
+United Republic of Tanzania to meet the requirements of the domestic market of the United 
+Republic of Tanzania. If there is domestic demand in excess of TPDC’s total entitlement, 
+then the Contractor may be required to sell Crude Oil/Natural Gas in the United Republic 
+of Tanzania on a pro rata basis with other producers in the United Republic of Tanzania 
+(except TPDC) according to the quantity of Crude Oil/Natural Gas of each producer. TPDC 
+shall give the Contractor at least three (3) months notice in advance of said requirements 
+and the term of the supply will be on an annual basis. The volume of Crude Oil/Natural 
+Gas which TPDC may require Contractor to sell to meet the requirements of the domestic 
+market shall not exceed Contractor’s share of Profit Oil /Gas. 
+
+ 
+
+(e) Crude Oil/Natural Gas sold pursuant to sub-article (d) above shall be paid for in foreign 
+exchange at a price determined in accordance with Article 12 of this Agreement. 
+
+
+
+ARTICLE 18: TANZANIAN RESOURCES 
+
+ 
+
+The Contractor shall: 
+
+ 
+
+(a) give preference to the purchase of Tanzanian goods, services and materials provided such 
+goods and materials are of an acceptable quality and are available on a timely basis in the 
+quantity required at competitive prices and terms; 
+
+ 
+
+(b) make maximum use of Tanzanian service companies, where services of comparable 
+standards with those obtained elsewhere are available from such contractors at competitive 
+prices and on competitive terms; 
+
+ 
+
+(c) establish with TPDC the appropriate tender procedures governed by Tanzanian laws to give 
+effect to this Article 17; 
+
+ 
+
+(d) ensure that provisions in terms of sub-articles (a) to (c) of this Article are contained in 
+contracts between Contractor and its subcontractors. 
+
+ 
+
+ (e) Contractor shall maximize to the satisfaction of Minister the level of usage of local goods 
+and services, businesses, financing and the employment of nationals of the United Republic 
+of Tanzania. 
+
+ 
+
+(f) Contractor shall ensure that sub-contracts are scoped, as far as it is economically feasible 
+and practical to match the capability (time, finance and manpower) of Local Enterprises 
+and shall manage the risk to allow their participation. 
+
+ 
+
+(g) Contractor shall provide to TPDC together with the annual work programme and budgets 
+required under Articles 5 and 6 a list of all projects to be undertaken as well as all goods 
+and services that are required for the conduct of Petroleum Operations. TPDC and 
+Contractor shall agree on a list of those projects and goods and services which shall be 
+published in at least two local newspapers and on the TPDC’s website. 
+
+ 
+
+(h) Contractor shall give equal treatment to Local Enterprises by ensuring access to all tender 
+invitations and by including high weighting on local value added in the tender evaluation 
+criteria. 
+
+ 
+
+ 
+
+
+
+ARTICLE 19: EMPLOYMENT, TRAINING AND TRANSFER OF 
+
+ TECHNOLOGY 
+
+ 
+
+(a) Subject to the requirement of any law relating to immigration, the Government shall 
+provide the necessary work permits and other approvals required for the employment of 
+expatriate personnel by the Contractor in the United Republic of Tanzania for the purposes 
+of this Agreement. TPDC shall assist the Contractor in that regard. 
+
+ 
+
+(b) Without prejudice to Article 17, in the conduct of the Petroleum Operations, the Contractor 
+shall employ Tanzanian citizens having appropriate qualifications to the maximum extent 
+possible. In this connection the Contractor shall, in consultation with Government and 
+TPDC, propose and carry out an effective training and employment program for Tanzanian 
+employees in each phase and level of operations, taking into account the requirements and 
+need to maintain reasonable international standards of efficiency in the conduct of the 
+Petroleum Operations. Such employees may be trained in the United Republic of Tanzania 
+or abroad as required by the training programmes prepared by the Contractor. 
+
+ 
+
+(c) During each year of the term of the Exploration Licence or any renewal thereof the 
+Contractor shall spend a minimum sum of one hundred and fifty thousand United States 
+dollars (US$ 150,000) adjusted by dividing by the factor I as defined in Article 5 (e) herein, 
+for one or more of the following purposes: 
+
+ 
+
+(i) to provide a mutually agreed number of Government and TPDC personnel with on- 
+the-job training in the Contractor operations in the United Republic of Tanzania and 
+overseas, and/or practical training at institutions abroad, particularly in the areas of 
+natural earth sciences, engineering, technology, petroleum accounting and 
+economics, economic analysis, contract administration and law as related to the 
+fields of oil and gas exploration and production; 
+
+(ii) to send suitable Tanzanian personnel selected by the Government and by TPDC on 
+courses at universities, colleges or other training institutions mutually selected by 
+the Contractor, the Government and TPDC; 
+
+(iii) to send Tanzanian personnel selected by the Government and by TPDC to 
+conferences workshops and seminars related to the petroleum industry; and 
+
+(iv) to purchase for the Government and TPDC advanced technical books, professional 
+publications, scientific instruments or other equipment required by the Government 
+and TPDC. 
+
+ 
+
+(d) Not later than six (6) months after the grant of a Development Licence, the Contractor 
+shall, in consultation with TPDC, implement the programme proposed in the development 
+plan as approved by the Government for training and employment of Tanzanian nationals 
+in each phase and level of Petroleum Operations and for the transfer of management and 
+technical skills for the safe and efficient conduct of Petroleum Operations. In any case the 
+Contractor shall ensure the transfer of management and operation functions to Tanzanian 
+nationals within a period not exceeding five (5) years from the commencement of 
+commercial operations. 
+
+ 
+
+(e) The provisions of the Vocational Education and Training Act 1994 (Cap 82) shall apply to 
+the employment of any expatriate employee of the Contractor, including any expatriate 
+employee of any non-resident contractor, during the several periods into which Exploration 
+Operations hereunder are divided. 
+
+
+
+ARTICLE 20: TITLE TO ASSETS, INSURANCE, SITE CLEAN UP AND 
+
+ ABANDONMENT 
+
+ 
+
+(a) All fixed assets, owned by Contractor in connection with the Petroleum Operations carried 
+out by Contractor hereunder shall become the property of TPDC at the option of TPDC 
+after this agreement expires or is terminated or at the time the portion of the full costs of the 
+acquisition of the asset in question have been recovered by Contractor out of Cost Oil 
+and/or Cost Gas, whichever occurs first. TPDC’s aforesaid option shall be exercised by 
+written notice to the Contractor: 
+
+ 
+
+(i) in the case of expiry of this Agreement, of not less than 30 days prior to such expiry; 
+
+(ii) in the case of termination of this Agreement of not more than 30 days after such 
+termination; and 
+
+(iii) in the case of full recovery of costs of the acquisition of the assets in question not 
+later than 30 days after such cost recovery. Such fixed assets shall include but not be 
+limited to buildings, piers, harbors, pipelines, wellheads, separators, compressors, 
+pumps, power lines, telephone lines etc. 
+
+ 
+
+(b) Subject to this Article, all movable assets in connection with the Petroleum Operations 
+carried out by the Contractor shall remain TPDC’s property on expiration or termination of 
+this Agreement. 
+
+ 
+
+(c) The Contractor shall retain ownership of all assets mentioned in (a) and (b) above if it 
+either renews an expired agreement or enters into another agreement in the United Republic 
+of Tanzania, provided that such renewal or agreement takes place not later than ninety (90) 
+days from the date of expiration of the original Agreement. 
+
+ 
+
+(d) If TPDC elects to participate in Joint Operations, then title to any assets acquired pursuant 
+to a development plan shall be held jointly by the Contractor and TPDC according to their 
+respective interest in Joint Operations. Any such asset shall become completely owned by 
+TPDC as soon as this Agreement expires or is terminated or, at the time, the Contractor’s 
+portion of the full costs of the acquisition of the asset in question has been recovered by the 
+Contractor out of Cost Oil and/or Cost Gas, whichever occurs first. TPDC’s aforesaid 
+option shall be exercised by written notice to the Contractor: 
+
+ 
+
+(i) in the case of expiry of this Agreement, of not less than 30 days prior to such 
+expiry; 
+
+(ii) in the case of termination of this Agreement of not more than 30 days after such 
+termination; and 
+
+(iii) in the case of full recovery of the Contractor’s portion of the costs of the acquisition 
+of assets in question not later than 30 days after such cost recovery. 
+
+ 
+
+(e) So long as this Agreement remains in force, Contractor shall have, free of any charge, for 
+the purpose of carrying on Petroleum Operations hereunder, the exclusive use of assets 
+which have become the property of TPDC, pursuant to sub-articles (a), (b) or (d) above. 
+Contractor shall keep the assets in reasonably good repair and working order, fair wear and 
+tear excepted, and any maintenance expenses shall be recovered in accordance with the 
+terms hereof. 
+
+ 
+
+
+
+(f) Subject to the provisions of Article 19 (a) and (b) above, Contractor shall give TPDC the 
+opportunity to buy, upon such commercially reasonable terms as may be mutually agreed 
+upon, any item imported duty free under Article 20(a) which Contractor intends to dispose 
+of or sell. 
+
+ 
+
+(g) Contractor shall effect and, at all times during the terms of this Agreement, maintain for 
+Petroleum Operations hereunder insurance of such type and in such amount as is customary 
+in accordance with Good Oilfield Practices. The said insurance shall, without prejudice to 
+the generality of the foregoing, cover: 
+
+ 
+
+(i) any loss or damage to all assets used in Petroleum Operations; 
+
+(ii) pollution caused in the course of Petroleum Operations for which Contractor or the 
+Operator may be held responsible; 
+
+(iii) property loss or damage or bodily injury suffered by any third party in the course 
+of Petroleum Operations for which Contractor, Operator, Government or TPDC 
+may be liable or Contractor may be liable to indemnify the Government and 
+TPDC; 
+
+(iv) the cost of removing wrecks and cleaning up operations following an accident in the 
+course of petroleum Operations; and 
+
+(v) Contractor’s and/or Operator’s liability to its employees engaged in the Petroleum 
+Operations. 
+
+ 
+
+(h) Contractor shall require its sub-contractors to carry insurance of such type and in such 
+amount as is customary applicable in accordance with Good Oilfield Practices. 
+
+ 
+
+(i) Prior to relinquishment of any area, Contractor shall perform all necessary abandonment 
+activities to restore the area as nearly as possible, to the condition in which it existed on the 
+Effective Date including removal of such facilities, equipment or installations as Minister 
+may instruct, and shall take action necessary to prevent hazards to human life, property and 
+the environment which may be caused by its facilities, equipment or installations.. In 
+carrying such abandonment activities the Contractor shall observe Good Oilfield Practices. 
+ 
+ 
+
+(j) In order to discharge its obligations for site cleaning and abandonment, the Contractor, 
+Government and TPDC shall, within two (2) years of the commencement of commercial 
+production, enter into an agreement to establish an Abandonment Cost Reserve Fund. Such 
+agreement shall address the administration and utilization of funds deducted from Cost Oil 
+and/or Cost Gas in accordance with the following: 
+
+ 
+
+(i) TPDC and Contractor shall estimate the cost for site cleaning and abandonment in 
+good faith, on the basis of industry average costs in accordance with generally 
+acceptable petroleum industry practice. 
+
+(ii) The payments deposited into the fund shall be placed in a U.S. Dollar, long term, 
+interest bearing account in a commercial bank located within the United Republic 
+of Tanzania to be designated by TPDC and Contractor. The bank so designated shall 
+have a long term rating of not less than “AA” by Standard and Poor’s Corporation 
+or “P-1” by Moody’s Investor Service or a comparable rating by another mutually 
+agreed rating service. 
+
+(iii) If, upon expiration or other termination of this Agreement, TPDC determines to 
+conduct the site cleanup and abandonment operations, such funds, plus all accrued 
+
+
+
+interest, shall be paid to TPDC whereupon Contractor shall be released from any 
+further obligation and liability with respect to such site cleanup and abandonment. 
+
+(iv) If, within sixty (60) days prior to the expiration or other termination of this 
+Agreement, TPDC has failed to advise Contractor of TPDC’s determination to 
+conduct the site cleanup and abandonment operations, such funds, plus all accrued 
+interest, shall be paid to Contractor and Contractor shall thereupon conduct all such 
+operations in accordance with generally accepted petroleum industry practices. 
+
+(v) If the reserve fund in (iii) and (iv) above is insufficient to pay the costs of cleanup 
+and abandonment, such shortfall shall be paid by Contractor. Where the reserve 
+fund exceeds the costs incurred such excess shall revert back to TPDC. 
+
+ 
+
+
+
+ARTICLE 21: IMPORT DUTIES 
+
+ 
+
+(a) The Contractor and its sub-contractors engaged in Petroleum Operations hereunder and 
+TPDC in respect of Joint Operations established pursuant to Article 9 shall be permitted, 
+subject to the limitations and conditions set out in East African Community Customs 
+Management Act, 2004, the Excise (Management and Tariff) Act, Cap.147, the Value 
+Added Tax Act, Cap. 148 to import, free of duty or other taxes on imports, machinery, 
+equipment, vehicles, materials, supplies, consumable items (other than foodstuffs and 
+alcoholic beverages) and moveable property, where imports in any of the said categories 
+have been certified by a responsible representative of TPDC to be for use solely in carrying 
+out operations under this Agreement. 
+
+ 
+
+(b) Subject to sub-article (a) above, any of the items imported into the United Republic of 
+Tanzania may, if no longer required for the operations hereunder, be freely exported at any 
+time by the importing party without the payment of any export duty provided however that, 
+on the sale or transfer by the importer of any such items to any person in the United 
+Republic of Tanzania, import duty shall be payable by the importer on the value thereof at 
+the date of such sale or transfer. 
+
+ 
+
+ 
+
+ 
+
+
+
+ARTICLE 22: ACCOUNTING AND AUDIT 
+
+ 
+
+(a) The Contractor shall maintain at its business office in the United Republic of Tanzania 
+accounting records relating to Petroleum Operations under this Agreement in accordance 
+with the Accounting Procedure set out in Annex “D” of this Agreement. 
+
+ 
+
+(b) TPDC shall have the right to audit Contractor’s accounting records in accordance with 
+Annex “D”, the Accounting Procedure. 
+
+ 
+
+(c) Nothing in this Article shall be construed as limiting the right of the Government pursuant 
+to any statutory power to audit or cause to be audited the books of accounts of the 
+Contractor. 
+
+
+
+ARTICLE 23: HEALTH, SAFETY AND ENVIRONMENT 
+
+ 
+
+(a) In furtherance of the Regulations made under the Act or as the Government may otherwise 
+require from time to time, the Contractor shall take necessary and adequate steps to: 
+
+ 
+
+(i) conduct its Petroleum Operations in a manner that will protect the natural resources, 
+including the living resources of the land, sea and lakes of the United Republic of 
+Tanzania and the environment; 
+
+(ii) employ the best available techniques in accordance with Good Oilfield Practice for 
+the prevention of environmental damage to which its Petroleum Operations might 
+contribute and for the minimization of the effect of such operations on adjoining or 
+neighbouring lands, sea and lakes; 
+
+(iii) implement its Development Plan regarding the prevention of pollution, the treatment 
+of wastes, the safeguarding of natural resources and the progressive reclamation and 
+rehabilitation of lands disturbed by Petroleum Operations; 
+
+(iv) prevent pollution; and 
+
+(v) ensure prompt, fair and adequate compensation for injury to persons or damage to 
+property caused by the effects of Petroleum Operations. 
+
+ 
+
+(b) If Contractor’s failure to comply with the provisions of sub-article (a) (i) of this Article and 
+the Regulations results in pollution or damage to the environment or marine life or 
+otherwise, the Contractor shall take all necessary measures to remedy the failure and effects 
+thereof. If such pollution or damage is the result of gross negligence or willful misconduct 
+of the Contractor, the cost of the remedy shall not be a Recoverable Contract Expense for 
+the purpose of Article 11 and Annex “D”. 
+
+ 
+
+(c) The Contractor shall notify the Minister and TPDC forthwith in the event of any 
+emergency or accident affecting the environment and shall take such action as may be 
+prudent and necessary in accordance with good international petroleum industry practice in 
+such circumstances. The costs of such action shall be recoverable costs provided that if 
+such emergency or accident is the result of Gross Negligence or Willful Misconduct of 
+Contractor, the cost of the action shall not be a Recoverable Contract Expense for the 
+purpose of Article 11 and Annex “D”. 
+
+ 
+
+(d) If the Contractor does not act promptly so as to control or clean up any pollution or 
+make good any damage caused, TPDC may, after giving the Contractor reasonable notice 
+in the circumstances, take any actions which are necessary in accordance with good 
+international petroleum industry practice, and the reasonable costs and expenses of such 
+actions shall be borne by the Contractor. 
+
+ 
+
+(e) The Contractor should undertake at its expense (but as a legitimate recoverable cost) one or 
+more comprehensive Environmental Impact Assessment studies prior to, during and after 
+any major Petroleum Operations. This requirement is mandatory, and the first study shall 
+be before the start of drilling the first well in the Contract Area. However, in areas of 
+particular environmental sensitivity, an Environmental Impact Assessment must also be 
+undertaken prior to seismic acquisition. 
+
+ 
+
+(f) The Contractor shall prepare an Emergency Response Plan to deal with such emergencies 
+including but not limited to blowouts, fire, storms, oil spills, floods and lightning. 
+
+ 
+
+
+
+(g) The Contractor shall put in place programmes to deal with HIV/AIDS awareness and 
+control, malaria control and epidemic outbreaks. 
+
+
+
+ARTICLE 24: FORCE MAJEURE EVENT 
+
+ 
+
+(a) A “Force Majeure Event” shall mean any event or circumstance or combination of events 
+or circumstances beyond the reasonable control of a Party occurring on or after the 
+Effective Date that materially and adversely affects the performance by such affected Party 
+of its obligations under or pursuant to this Agreement; provided, however, that such 
+material and adverse effect could not have been prevented, overcome or remedied by the 
+affected Party through the exercise of diligence and reasonable care. “Force Majeure 
+Events” shall include the following events and circumstances, but only to the extent that 
+they satisfy the above requirements: a Government Action or Inaction that is the proximate 
+cause of non-performance or delay in performance of any obligation or the exercise of any 
+right under this Agreement by any Party other than Government; a Parastatal Action or 
+Inaction that is the proximate cause of non-performance or delay in performance of any 
+obligation or the exercise of any right under this Agreement by any Party other than the 
+Government; any act of war (whether declared or undeclared), invasion, armed conflict or 
+act of foreign enemy, blockade, embargo, revolution, riot, insurrection, civil commotion, or 
+act of terrorism; 
+
+(i) lightning, earthquake, tsunami, flood, storm, cyclone, typhoon, or tornado; epidemic or 
+plague; explosion, fire, blowout or chemical contamination; mechanical failure; down 
+hole blockage; and 
+
+
+(ii) strikes, works-to-rule, go-slows or other labour disputes, unless such strikes, works-to- 
+rule, go-slows or labour disputes were provoked by the unreasonable action of the 
+management of the affected Party or were, in the reasonable judgment of the affected 
+Party, capable of being resolved in a manner not contrary to such Party’s commercial 
+interests. 
+
+
+
+
+(b) Force Majeure Events shall expressly not include the following conditions, except and to 
+the extent that they result directly from force majeure: a delay in the performance of any 
+contractor, including late delivery of machinery or materials; and normal wear and tear. 
+
+
+
+
+(c) Notification Obligations 
+
+If by reason of a Force Majeure Event a Party is wholly or partially unable to carry out its 
+obligations under this Agreement, then the affected Party shall: 
+
+(i) give the other Parties notice of the Force Majeure Event(s) as soon as practicable, 
+but in any event, not later than the later of 48 hours after the affected Party becomes 
+aware of the Force Majeure Event(s) or six hours after the resumption of any means 
+of providing notice; and 
+
+(ii) give the other Parties a second notice, describing the Force Majeure Event(s) in 
+reasonable detail and, to the extent that such information can reasonably be 
+determined at the time of the second notice, providing a preliminary evaluation of 
+the obligations affected and a preliminary estimate of the period of time that the 
+affected Party will be unable to perform such obligations and other relevant matters 
+as soon as practicable, but in any event, not later than seven days after the initial 
+notice of the occurrence of the Force Majeure Event(s) is given by the affected 
+Party. When appropriate or when reasonably requested to do so by another Party, 
+the affected Party shall provide further notices to such other Party more fully 
+
+
+
+describing the Force Majeure Event(s) and the cause(s) therefore and providing or 
+updating information relating to the efforts of the affected Party to avoid and/or to 
+mitigate the effect(s) thereof and estimates, to the extent practicable, of the time that 
+the affected Party reasonably expects it will be unable to carry out any of its 
+affected obligations due to the Force Majeure Event(s). 
+
+(d) The affected Party shall provide notice to the other Parties as soon as possible, but not later 
+than seven days following: 
+
+(i) the cessation of the Force Majeure Event; or 
+
+(ii) its ability to recommence performance of its obligations under this 
+Agreement by reason of the cessation of the Force Majeure Event. 
+
+(e) Failure by the affected Party to give written notice of a Force Majeure Event to the other 
+Parties within the 48-hour or six-hour period required by Article 27 shall not prevent the 
+affected Party from giving such notice at a later time; provided, however, that in such case 
+the affected Party shall not be excused pursuant to this Article 27 for any failure or delay in 
+complying with its obligations under or pursuant to this Agreement until such notice has 
+been given. If such notice is given within the 48-hour or six-hour period required by this 
+Article 27, the affected Party shall be excused for such failure or delay pursuant to this 
+Article 27 from the date of commencement of the relevant Force Majeure Event. 
+
+(f) Duty to Mitigate 
+
+ The affected Party shall use all reasonable efforts to mitigate the effects of a Force 
+Majeure Event, including the payment of reasonable sums of money, in light of the 
+likely efficacy of the mitigation measures; provided, however, that the affected Party 
+shall not be required to settle any labour dispute or litigation on terms that, in the 
+reasonable judgment of the affected Party, are contrary to its commercial interests. 
+
+(g) Delay Caused by Force Majeure 
+
+ So long as the affected Party has at all times since the occurrence of the Force Majeure 
+Event complied with the obligations of this Article and continues to so comply then: (i) 
+the affected Party shall not be liable for any failure or delay in performing its 
+obligations (other than the obligation to make any payment otherwise due hereunder) 
+under or pursuant to this Agreement for so long as and to the extent that the 
+performance of such obligations are affected by the Force Majeure Event; and (ii) any 
+performance deadline that the affected Party is obligated to meet under this Agreement 
+shall be extended; provided, however, that no relief, including the extension of 
+performance deadlines, shall be granted to the affected Party pursuant to this Article to 
+the extent that such failure or delay would have nevertheless been experienced by the 
+affected Party had the Force Majeure Event not occurred. A Party shall not bear any 
+liability for any Loss suffered by the affected Party as a result of a Force Majeure 
+Event. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+(h) Contract Termination Due to a Force Majeure Event 
+
+Contractor may terminate this Contract upon a three (3) month written notice to Minister if 
+the fulfillment of the obligation of either Party under this Contract is affected by a Force 
+Majeure Event during the Exploration Period or any extension thereof for a continuous 
+period exceeding two (2) years without further obligation and liabilities of any kind. 
+
+ 
+
+
+
+ARTICLE 25: ASSIGNMENT AND TRANSFER OF RIGHTS 
+
+ 
+
+(a) The Contractor may not assign or transfer to a non-Affiliated person, firm or Corporation 
+not a party hereto, in whole or in part, any of its rights, privileges, duties or obligations 
+under this Agreement without the prior written consent of the Government; provided, 
+however, the Contractor shall be free at any time, to assign or transfer its rights, privileges, 
+duties and obligations under this Agreement to an Affiliate Company, provided the 
+Government and TPDC are notified in writing in advance and provided the assignment or 
+transfer will not adversely affect the performance of the obligations under this Agreement. 
+
+ 
+
+(b) In the event that the Contractor wishes to assign in whole or in part any of its rights, 
+privileges, duties or obligations hereunder as aforesaid, the written consent thereto of the 
+Government, if required under this Article, shall not be unreasonably withheld or delayed. 
+
+ 
+
+(c) Any assignment made pursuant to this Article to a non-Affiliated person, firm or company 
+shall bind the assignee to all the terms and conditions hereof, and, as a condition to any 
+assignment, the Contractor shall provide an unconditional undertaking by the assignee to 
+assume all obligations by the Contractor under the Agreement. 
+
+ 
+
+(d) In case of an assignment, the Contractor will provide the Government with a Deed of 
+Assignment in which the main conditions and liabilities assumed by the assignee are set 
+out. 
+
+ 
+
+ 
+
+(e) Where the Contractor is more than one person the Government will be provided with 
+copies of all assignments and agreements made between them with respect to Petroleum 
+Operations and will be classified as confidential. 
+
+ 
+
+(f) Where the Contractor is more than one person the Contractor shall provide Government 
+with the following information regarding each agreement executed between them, with 
+respect to Petroleum Operations and as required in the Petroleum Act: 
+
+(i). details of the technical and industrial qualifications of the companies and their 
+employees; 
+
+(ii). details of the technical and industrial resources available to the Companies; and 
+
+(iii). details of the kinds of financial resources available to the companies, including 
+capital, credit facilities and guarantees available. 
+
+ 
+
+
+
+ARTICLE 26: CONSULTATION AND ARBITRATION 
+
+ 
+
+(a) TPDC and the Contractor shall periodically meet to discuss the conduct of the operations 
+envisaged under this Agreement and shall make every effort to settle amicably any problem 
+arising therefrom. 
+
+ 
+
+(b) If any dispute or difference in relation to or in connection with or arising out of any of the 
+terms and conditions of this Agreement should arise, the same shall be resolved by 
+negotiations between the parties. In the event of no agreement being reached, either party 
+shall, except in the case of a dispute or difference as provided in sub-article 8(b) (v), 12(b) 
+and 12(d), have the right to have such dispute or difference settled through arbitration as 
+provided for herein below. 
+
+ 
+
+(c) If, after completion of the above procedure, disagreement remains between the Parties, the 
+dispute shall be settled by arbitration in accordance with the provisions of this Article. 
+Nevertheless, for differences of a technical nature and prior to the arbitration procedure, the 
+Parties may resort to the opinion of a mutually agreed expert. This expert shall notify his 
+opinion to the Parties within thirty (30) Days following the date on which he was 
+designated by the Parties. 
+
+ 
+
+(d) If, particularly following completion of the procedure set forth in this Article 25(c), any 
+disputes still exist between the Parties in connection with the application of the provisions 
+of this Agreement or regarding the obligations resulting therefrom, such disputes shall be 
+resolved in accordance with the International Chamber of Commerce Rules of Conciliation 
+and Arbitration, subject to the specific provisions set out below. 
+
+ 
+
+The arbitration procedure shall be commenced by request addressed by the applicant Party 
+to the Secretariat of the Court of Arbitration. The starting point of proceedings shall be 
+the date of receipt of that request by the Secretariat of the Court of Arbitration. 
+
+ 
+
+In the context of the procedure set out in this Article 25(c), the arbitration procedure shall 
+commence within sixty (60) Days following expiry of the thirty (30) Day period defined in 
+Article 25(c) plus, if applicable, any additional time provided in the same paragraph. 
+
+ 
+
+Each Party shall designate its arbitrator and notify the other Party and the Court of 
+Arbitration of that designation within thirty (30) Days after the start of the arbitration 
+proceedings as defined above. If the applicant Party has not designated its arbitrator within 
+that thirty (30) Day period, it shall be deemed to have abandoned its application. If the 
+defending Party has not designated its arbitrator within thirty (30) Days following receipt 
+of notice in accordance with this paragraph, the other Party may directly inform the 
+International Chamber of Commerce Court of Arbitration and request that it makes such 
+designation within the shortest possible time. 
+
+ 
+
+ The arbitrators shall not be of the same nationality as either of the Parties. 
+
+ 
+
+Within forty-five (45) Days after the date of designation of the last of them, the arbitrators 
+thus designated shall select, by mutual agreement, a third arbitrator, who shall become the 
+President of the Court of Arbitration. Failing agreement, the International Chamber of 
+Commerce Court of Arbitration shall be requested by the most diligent Party to designate 
+this third arbitrator within the shortest possible time. 
+
+
+
+ 
+
+The arbitrators are free to choose the procedure they intend to apply. The decision of the 
+arbitrators is final; it is binding on the Parties and will be enforceable under the United 
+Republic of Tanzania laws. 
+
+ 
+
+(e) The place of arbitration shall be Dar es Salaam, in the United Republic of Tanzania. The 
+Language used shall be English, the applicable law shall be the law of the United Republic 
+of Tanzania and the provisions of this Agreement shall be interpreted in accordance with 
+that law. 
+
+ 
+
+(f) The Parties will bear the expenses and fees of Arbitration equally. These costs are not cost 
+recoverable. 
+
+ 
+
+(g) The arbitration procedure shall not cause the performance of the Parties’ contractual 
+obligations to be suspended during the progress of the arbitration. 
+
+
+
+ARTICLE 27: APPLICABLE LAW 
+
+ 
+
+This Agreement shall be governed by, interpreted and construed in accordance with the Laws of 
+the United Republic of Tanzania. 
+
+
+
+ARTICLE 28: THIRD PARTY ACCESS TO PETROLEUM FACILITIES 
+
+ 
+
+The Contractor shall, to the extent that capacity is available in any petroleum facility such as 
+pipelines, jetties, roads, airports, port facilities, treatment plants and such others that are used in 
+petroleum exploration and production beyond that required by the Contractor shall make such 
+access services available to third parties. 
+
+The Contractor in qualifying applications for access to facilities shall have regard to the 
+following: 
+
+(i) the financial and commercial viability, 
+
+(ii) acceptable contractual commitments of the applicants with respect to the 
+required service; and 
+
+(iii) availability of the service. 
+
+
+
+ARTICLE 29: MODIFICATIONS AND HEADINGS 
+
+ 
+
+(a) This Agreement shall not be amended or modified in any respect except by the mutual 
+consent in writing of the parties hereto. 
+
+ 
+
+(b) The Headings of this Agreement are for convenience only and shall not be taken into 
+account in interpreting the terms of this Agreement. 
+
+
+
+ARTICLE 30: NOTICES 
+
+ 
+
+Any notices required or given by any party to any other party shall be deemed to have been 
+delivered when properly acknowledged for receipt by the receiving party. All such notices shall be 
+addressed to: 
+
+ 
+
+ If to the Government: 
+
+ 
+
+ The Permanent Secretary 
+
+ Ministry of Energy and Minerals 
+
+ P.O. Box 2000 
+
+ Dar es Salaam 
+
+ 
+
+ Telephone: 255-22-211-7156-9 
+
+ Fax: 255-22-2116719 
+
+ E-mail: ------------------------(to be provided) 
+
+ 
+
+ If to TPDC: 
+
+ 
+
+ The Managing Director 
+
+ Tanzania Petroleum Development Corporation 
+
+ P.O. Box 2774 
+
+ Dar es Salaam 
+ 
+ 
+
+ Telephone: 255-22-211-8535/6 
+
+ Fax: 255-22-212-9663 
+
+ Email: tpdcmd@tpdc-tz.com 
+
+ 
+
+ If to: ABC LTD, TANZANIA 
+
+ 
+
+ The Director, 
+
+ ABC Ltd, Tanzania 
+
+ DAR ES SALAAM 
+
+ TANZANIA 
+
+ 
+
+ Tel:+255 
+
+ Fax:+255 
+
+ E mail: 
+
+ 
+
+ 
+
+
+
+ 
+
+IN WITNESS whereof this Agreement has been duly executed by the parties, the day and year first 
+hereinbefore written. 
+
+ 
+
+ 
+
+Signed for and on behalf 
+
+of the Government of the 
+
+United Republic of Tanzania 
+
+ 
+
+ 
+
+ 
+
+By: _____________________________ _____________________________ 
+
+Name: Witnessed by 
+
+Title: Minister for Energy and Minerals 
+
+ 
+
+Signed for and on behalf 
+
+of the Tanzania Petroleum 
+
+Development Corporation 
+
+ 
+
+ 
+
+ 
+
+By: __________________________ _____________________________ 
+
+Name: Witnessed by 
+
+Title: Managing Director 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed for and on behalf 
+
+of ABC Limited 
+
+ 
+
+ 
+
+ 
+
+By: ___________________________ ____________________________ 
+
+Name: Witnessed by 
+
+Title: ABC Chief Executive Officer 
+
+ 
+
+
+
+ANNEX “A”: DESCRIPTION OF EXPLORATION LICENCE AREA 
+
+ 
+
+The application area is described as ----------- totaling ----------- square kilometers as per the TPDC 
+Map in Annex B. 
+
+ 
+
+Point Longitudes Latitudes Remarks 
+
+ 
+
+A Due (west, east, south north) B 
+
+B 
+
+ 
+
+ 
+
+
+
+ANNEX “B”: MAP OF EXPLORATION LICENCE AREA 
+
+ 
+
+Total Number of Blocks = [ ] 
+
+ 
+
+ 
+
+Total area amounts to [ ] sq. km. 
+
+
+
+ANNEX “C”: DRAFT EXPLORATION LICENCE 
+
+ 
+
+WHEREAS, pursuant to Article 3(a) of the Agreement TPDC has applied for an Exploration 
+Licence in respect of the area described in Annex “A” to the Agreement and shown on the map in 
+Annex “B” thereof respectively: 
+
+ 
+
+I, ________________________________Minister for Energy and Minerals pursuant to the powers 
+conferred upon me by Section 21 of the Petroleum (Exploration and Production) Act, 1980 hereby 
+grant TPDC for a period of four (4) years from the date hereof this Exploration Licence over the 
+exploration area described in the First Schedule hereto conferring on TPDC the exclusive right to 
+explore in the said exploration area for petroleum and to carry out such operations and execute 
+such works as are necessary for that purpose. 
+
+ 
+
+The Exploration Licence is granted subject to the following conditions: 
+
+ 
+
+1. (a) During the period of four (4) years commencing from the date hereof and terminating on 
+the fourth anniversary of the date, TPDC shall in the said exploration area: 
+
+ 
+
+i. Reprocess existing seismic data. 
+
+
+ii. Acquire minimum ---km of 2D and or--- sq km of 3D seismic data 
+
+
+iii. Drill at least [---] exploration wells; and carry out geological and geophysical 
+surveys and related actives in the area; and 
+
+
+iv. spend a sum which, when adjusted in accordance with the formula set out in sub- 
+article (e) of Article 5 of the Agreement, equals or exceeds [---] million United 
+States dollars 
+
+
+ 
+
+ 
+
+(b) Subject to any amendment or revision thereof made pursuant to Article 6 of the 
+Agreement, TPDC shall conduct exploration operations under this licence during the year 
+ending 31 December, 20…. in accordance with the detailed Work Programme and 
+Budget set out in the Second Schedule hereto and will spend the sum specified in the said 
+budget. 
+
+ 
+
+2. Where during any period covered by the Licence the obligations of TPDC under this 
+Licence have been suspended by reason of Force Majeure pursuant to Article 23 of the 
+Agreement, the period for which this Licence has been granted shall be extended for 
+a period equal to the period during which the obligations of TPDC were so suspended. 
+
+ 
+
+In this licence “the Agreement” means the Agreement made on -----------day of -------- 
+between the Government of the United Republic of Tanzania, the Tanzania Petroleum 
+Development Corporation and ABC Limited. 
+
+ 
+
+Unless the context otherwise requires words and phrases in this Licence shall have the 
+same meaning as those used in the Petroleum (Exploration and Production) Act, 1980. 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, I have granted the Licence aforesaid and set out my hand and seal 
+this ___________day of ______________ 20…. 
+
+ Minister for Energy and Minerals 
+
+ 
+
+ __________________________ 
+
+
+
+ANNEX “C”•1: FIRST SCHEDULE 
+
+ 
+
+Coordinates of the corner-points of Exploration Licence Area 
+
+ 
+
+ 
+
+Point 
+
+Longitudes 
+
+Latitudes 
+
+Remarks 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ANNEX “C”•2: SECOND SCHEDULE 
+
+ 
+
+[Set out here for the Calendar Year in which this License is first issued the detailed Work Program 
+and Budget submitted by ABC to TPDC pursuant to Article 6(a) of the Agreement]. 
+
+
+
+ANNEX “D”: ACCOUNTING PROCEDURE 
+
+ 
+
+This Annex is made a part of the Production Sharing Agreement (hereinafter referred to as the 
+“Agreement”) between the Government of the United Republic of Tanzania and Tanzania 
+Petroleum Development Corporation and ABC Limited made on the ..........day of ….. , 20….... 
+
+ 
+
+SECTION 1: GENERAL PROVISIONS 
+
+ 
+1.1 Definitions 
+
+
+ 
+
+For the purpose of this Accounting Procedure the terms used herein which are defined in 
+the Agreement shall have the same meaning when used in this Accounting Procedure. 
+
+ 
+
+1.2 Purpose 
+
+ 
+
+The purpose of this Accounting Procedure is to set out principles and procedures of 
+accounting which will enable the Government to monitor the costs, expenditures, 
+production and receipts so that both TPDC’s entitlement to Profit Oil/Gas and 
+Government’s revenues can be accurately determined on the basis of the Agreement. 
+
+ 
+
+1.3 Documentation Required to be Submitted by Contractor 
+
+ 
+(a) Within thirty (30) days of the Effective Date, the Contractor shall submit to and discuss 
+with the Minister and TPDC a proposed outline of charts of accounts, operating records 
+and reports, which outline shall reflect each of the categories and sub-categories of 
+costs and expenditures specified in Sections 2 and 3 below and shall be in accordance 
+with generally accepted and recognized accounting systems and consistent with normal 
+practice for joint venture operations of the international petroleum industry. Within 
+ninety (90) days of receiving the above submission the Minister in consultation with 
+TPDC shall either indicate approval of the proposal or request revisions to the proposal. 
+Within one hundred and eighty (180) days after the Effective Date of the Agreement, 
+the Contractor and the Minister in consultation with TPDC shall agree on the outline of 
+charts of accounts, operating records and reports which shall describe the basis of the 
+accounting system and procedures to be developed and used under the Agreement. 
+Following such agreement the Contractor shall expeditiously prepare and provide the 
+Minister and TPDC with formal copies of the comprehensive charts of accounts related 
+to the accounting, recording and reporting functions, and allows the Minister and TPDC 
+to examine the manuals and to review procedures which are, and shall be, observed 
+under the Agreement. 
+
+
+ 
+(b) Notwithstanding the generality of the foregoing, the Contractor shall make regular 
+Statements to the Minister and TPDC relating to the Petroleum Operations. These 
+Statements are: 
+
+
+
+
+ (i) Production Statement (see Section 5 of this Annex). 
+
+ 
+
+ (ii) Value of Production, Pricing and Royalty payable Statement 
+(see Section 6 of this Annex). 
+
+ 
+
+ (iii) Statement of Receipts and Expenditures (see Section 7 of this 
+Annex). 
+
+
+
+ 
+
+ (iv) Cost Recovery Statement (see Section 8 of this Annex). 
+
+ 
+
+ (v) End-of-Year-Statement (see Section 9 of this Annex). 
+
+ 
+
+ (vi) Budget Statement (see Section 10 of this Annex). 
+
+ 
+
+(c) All reports and Statements shall be prepared in accordance with the Agreement, the 
+laws of the United Republic of Tanzania and, where there are no relevant provisions in 
+either of these, in accordance with the normal practice of the international petroleum 
+industry. 
+
+ 
+
+1.4 Language, Units of Account and Exchange Rates 
+
+ 
+
+(a) The Contractor shall maintain accounts in Tanzanian shillings and United States 
+dollars; however, the United States dollar accounts will prevail in case of conflict. 
+Metric units and barrels shall be employed for measurements required under the 
+Agreement and this Annex. The language employed shall be English. [Where 
+necessary for clarification the Contractor may also maintain accounts and records in 
+other units of measurement and currencies]. 
+
+ 
+
+(b) It is the intent of this Accounting Procedure that neither the Government, TPDC nor 
+the Contractor should experience an exchange gain or loss at the expense of, or to 
+any of the benefit of, any of the other parties. However, should there be any gain or 
+loss from exchange of currency, it will be credited or charged to the accounts under 
+the Agreement. 
+
+ 
+
+(c) (i) Amounts received and costs and expenditures made in Tanzanian shillings or in 
+United States dollars shall be converted from Tanzanian shillings into United 
+States dollars or from United States dollars into Tanzanian shillings on the basis 
+of the monthly average of the mean of the daily official buying and selling 
+exchange rates between the currencies in question as published by the Bank of 
+Tanzania or failing such publication, any other publication as agreed by the 
+parties for the Month in which the relevant transaction occurred. 
+
+ 
+
+(ii) Notwithstanding the general policy described in the preceding sub-paragraph, all 
+transactions in excess of the equivalent of two hundred and fifty thousand United 
+States dollars (US$ 250,000) shall be converted at the mean of the buying and 
+selling exchange rates published by the Bank of Tanzania on the day the 
+transaction occurred. 
+
+ 
+
+ (iii) Amounts received and expenditures made in currencies other than United States 
+dollars and Tanzanian shillings shall be converted into United States dollars or 
+Tanzanian shillings on the basis of the monthly average of the mean of the daily 
+buying and selling exchange rates between the currencies in question as published 
+by the Bank of Tanzania or, failing such publication, as published in the Financial 
+Times (London edition) for the Month in which the relevant transaction occurred. 
+
+ 
+
+ (iv) The average monthly exchange rate calculated in accordance with sub-section 1.4 
+(c) (i) above and, where relevant, the exchange rates employed pursuant to sub- 
+
+
+
+sections 1.4 (c) (ii) and (iii) above, shall be identified in the relevant Statements 
+required under sub-section 1.3 (b) of this Annex. 
+
+ 
+
+1.5 Payments 
+
+
+ 
+
+(a) Subject to Article 9 (c) (iii) of the Agreement, all payments between the parties 
+shall, unless otherwise agreed, be in United States dollars and through a bank 
+designated by each receiving party no later than the 1st day of each Quarter for 
+which development costs have been budgeted. 
+
+ 
+
+(b) Discharge of the Contractor’s obligation with respect to TPDC’s share of Profit 
+Oil/Gas shall be made in accordance with the Agreement. 
+
+ 
+
+(c) All sums due from one party to the other under the Agreement during any Calendar 
+`quarter shall, for each day such sums are overdue during such quarter, bear interest 
+compounded daily at an annual rate equal to the average London Interbank Offer 
+Rate (LIBOR) for six (6) months US dollars as quoted at 11.00 a.m. London time 
+on the first business day of such Quarter by the London office of National 
+Westminster Bank, or such other bank as the parties may agree, plus two (2) 
+percentage points. 
+
+ 
+
+1.6 Audit and Inspection Rights of Government 
+
+ 
+
+(a) Without prejudice to statutory rights, TPDC shall have the right to cause to audit to 
+each Calendar year within two (2), years (or such longer period as may be required 
+in exceptional circumstances) from the end of each such year. Notice of any 
+exception to the accounts for any Calendar Year shall be submitted to the 
+Contractor within ninety (90) days of receipt by TPDC of the report of its 
+auditors. For purposes of auditing, TPDC may examine and verify, at reasonable 
+times, all charges and credits relating to the Contractor’s activities under the 
+Agreement and all books of account, accounting entries, material records and 
+inventories, vouchers, payrolls, invoices and any other documents, correspondence 
+and records necessary to audit and verify the charges and credits. Furthermore, the 
+auditors shall have the right in connection with such audit to visit and inspect at 
+reasonable times all sites, plants, facilities, warehouses and offices of the Contractor 
+directly or indirectly serving its activities under the Agreement and to visit and 
+inquire from personnel associated with those activities. Where TPDC requires 
+verification of charges made by an Affiliate Company it shall have the right to 
+obtain an audit certificate from a recognized firm of public accountants acceptable 
+to both TPDC and the Contractor. 
+
+ 
+
+(b) The Contractor shall answer any notice of exception under subsection 1.6. 
+
+ 
+
+(c) Within sixty (60) days of its receipt of such notice. Where the Contractor has after 
+the said sixty days’ period failed to answer a notice of exception made by TPDC, 
+TPDC’s exception shall be deemed as accepted by Contractor and the accounts 
+shall be adjusted accordingly. 
+
+
+
+SECTION 2: CLASSIFICATION, DEFINITION AND ALLOCATION OF COSTS AND 
+
+ EXPENDITURES 
+
+ 
+
+Expenditures shall be segregated in accordance with the objectives for which such expenditure was 
+made. The objectives which shall qualify are those which have been approved and included in the 
+approved Work Program and Budget for the Year in which the expenditure is made and other 
+items which have been agreed by the parties from time to time. All expenditures allowable under 
+Section 3 relating to Petroleum Operations shall be classified, defined and allocated as set out 
+herein below. In the event of a discovery, expenditure records shall be maintained in expenditures 
+to each Development Area. 
+
+ 
+
+2.1 Exploration Expenses are all direct and allocated indirect expenditures incurred in the 
+search for Petroleum in an area which is or was, at the time when such expenses were 
+incurred, part of the Contract Area including: 
+
+ 
+
+(a) aerial, geophysical, geochemical, palaeontological, geological, topographical and 
+seismic surveys and studies and their interpretation; 
+
+ 
+
+ (b) core hole drilling and water well drilling; 
+
+ 
+
+(c) labor, materials and services used in drilling wells with the object of finding new 
+Petroleum Reservoirs, or for the purposes of appraising the extent of Petroleum 
+provided such wells are not completed as producing wells; 
+
+ 
+
+ (d) facilities used solely in support of the purposes described (a), (b) and 
+
+ 
+
+ (e) above including access roads, fixed assets and purchased geological and 
+geophysical, all identified separately; 
+ 
+ 
+
+(f) any General and Administrative Costs and Service Costs directly incurred on 
+Exploration Operations and identifiable as such; and a portion of the remaining 
+General and Administrative Costs and Service Costs allocated to the Exploration 
+Operations, determined by the proportionate share of total Contract Expenses 
+(excluding unallocated General and Administrative Costs and Service Costs) 
+represented by all other Exploration Expenses; 
+
+ 
+
+(g) any other Contract Expenses specifically incurred in the search for Petroleum after 
+the Effective Date and not covered under sub-section 2.2, 2.3, 2.4 and 2.5. 
+
+ 
+2.2 Development Expenses shall consist of all expenditures incurred in: 
+(a) studies of the subsurface for the purpose of determining the best manner of 
+recovering hydrocarbons, which include 2D and 3D geophysical surveys, 
+production geology, modeling and simulation of deposits as an integral part of 
+economic reservoir exploitation and conservation; 
+
+
+ 
+(b) drilling wells which are completed as producing wells and drilling wells for 
+purposes of producing from a Petroleum Reservoir already discovered whether 
+these wells are dry or producing, and drilling wells for the injection of water or gas 
+to enhance recovery of Petroleum; 
+
+
+
+
+
+
+ (c) completing wells by way of installation of casing or equipment or otherwise, after a 
+well has been drilled for the purpose of bringing the well into use as a producing 
+well, or as a well for the injection of water or gas to enhance recovery of 
+Petroleum; 
+
+ 
+(d) the cost of petroleum production, storage and transport facilities such as 
+pipelines, flow lines, production and treatment units, wellhead equipment, 
+subsurface equipment, enhanced recovery systems, offshore platforms, 
+petroleum storage facilities and access roads for production activities; 
+(e) the costs of engineering and design studies for facilities referred to in subsection 
+2.2. (d); 
+
+
+ 
+(f) any General and Administrative Costs and Service Costs directly incurred on 
+development activities and identifiable as such; and a portion of the remaining 
+General and Administrative Costs and Service Costs allocated to development 
+activities, determined by the proportionate share of total Contract Expenses 
+(excluding unallocated General and Administrative Costs and Service Costs) 
+represented by all other Development Expenses. 
+
+
+
+
+2.3 Operating Expenses are all expenditures incurred in the Petroleum Operations after the 
+start of commercial production which are other than Exploration Expenses, Development 
+Expenses, General and Administrative Costs and Service Costs directly incurred 
+on operating activities and identifiable as such, as well as the balance of General and 
+Administrative Costs and Service Costs. General and Administrative Costs and Service 
+Costs not allocated to Exploration Expenses or Development Expenses shall be 
+allocated to Operating Expenses. 
+
+ 
+
+2.4 Service Costs are direct and indirect expenditures in support of the Petroleum Operations 
+including warehouses, export terminals, harbors, piers, marine vessels, vehicles, motorized 
+rolling equipment, aircraft, fire and security stations, workshops, water and sewage plants, 
+power plants, housing, community and recreational facilities and furniture, tools and 
+equipment used in these activities. Service Costs in any Calendar Year shall include costs 
+incurred in such Year to purchase and/or construct said facilities as well as the annual costs 
+to maintain and operate the same, each to be identified separately. All Service Costs shall 
+be regularly allocated as specified in sub-sections 2.1(e), 2.2(e) and 2.3 to Exploration 
+Expenses, Development Expenses and Operating Expenses and shall be separately shown 
+under each of these categories. 
+
+ 
+
+2.5 General and Administrative Costs are: 
+
+ 
+(a) all main office, field office and general administrative expenses in the United 
+Republic of Tanzania including but not limited to supervisory, accounting and 
+employee relations services, but excluding commissions paid to intermediaries by 
+the Contractor; 
+
+ 
+(b) an annual overhead charge for services rendered outside the United Republic of 
+Tanzania and not otherwise charged under this Accounting Procedure, for 
+managing the Petroleum Operations and for staff advice and assistance including 
+
+
+
+
+
+
+financial, legal, accounting and employee relations services. For the period from 
+the Effective Date until the date on which the first Development License under the 
+Agreement is granted by the Minister this annual charge shall be the verifiable 
+costs but in no event greater that one percent (1%) of the Contract Expenses; 
+including those covered in sub-section 2.5(a) incurred during the Calendar Year. 
+From the date of grant of the Development License the charge shall be at an 
+amount or rate to be agreed between the parties and stated in the Development Plan 
+approved with the grant of the said License. The annual overhead charge shall be 
+separately identified in all reports to the Government and TPDC; 
+
+
+ 
+(c) all General and Administrative Costs will be regularly allocated as specified in sub- 
+sections 2.1(e), 2.2.(e) and 2.3. to Exploration Expenses, Development Expenses 
+and Operating Expenses and shall be separately shown under each of these 
+categories. 
+
+
+
+
+
+
+SECTION 3: COSTS, EXPENSES, EXPENDITURES AND CREDITS OF 
+
+THE CONTRACTOR 
+
+ 
+3.1 Costs Recoverable without Further Approval of TPDC 
+
+
+ 
+
+Subject to the provisions of the Agreement, the Contractor shall bear and pay all costs and 
+expenses in respect of Petroleum Operations. These costs and expenses will be classified 
+under the headings referred to in Section 2. The following costs and expenses are 
+recoverable out of Cost Oil and/or Cost Gas by the Contractor under the Agreement: 
+
+ 
+(a) Surface Rights 
+
+
+ 
+
+This covers all direct costs attributable to the acquisition, renewal, or relinquishment of 
+surface rights acquired and maintained in force for the purposes of this Agreement. 
+
+ 
+
+ (b) Labour and Associated Costs 
+
+ 
+
+(i) Gross salaries and wages including bonuses of the Contractor’s employees 
+directly and necessarily engaged in the Petroleum Operations, irrespective 
+of the location of such employees, it being understood that in case of those 
+personnel only a portion of whose time is wholly dedicated to Petroleum 
+Operations, only that pro-rata portion of applicable wages and salaries will 
+be charged. For purposes of cost recovery, gross salaries and wages for the 
+Contractor’s employees shall not exceed US$15,000.00. 
+
+ 
+
+(ii) Cost to the Contractor of established plans for employees’ group life 
+insurance, hospitalization, company pension, retirement and other benefits 
+of a like nature customarily granted to the employees and the costs 
+regarding holiday, vacation, sickness and disability payments applicable to 
+the salaries and wages chargeable under subsection (i) above shall be 
+allowed at actual cost, provided however that such total costs shall not 
+exceed twenty-five per centum (25%) of the total labor costs under 
+subsection (i) above. 
+
+ 
+
+(iii) Expenses or contributions made pursuant to assessments or obligations 
+imposed under the laws of the United Republic of Tanzania which are 
+applicable to the cost of salaries and wages chargeable under (i) above. 
+
+ 
+
+(iv) Reasonable travel and personal expenses of employees of the Contractor 
+including those made for travel and relocation of the expatriate employees 
+assigned to the United Republic of Tanzania all of which shall be in 
+accordance with the normal practice. 
+
+ 
+
+(v) Any personal income taxes of the United Republic of Tanzania incurred by 
+employees of the Contractor and paid or reimbursed by the Contractor. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ (c) Transportation 
+The cost of transportation of employees, equipment, materials and supplies 
+necessary for the conduct of the Petroleum Operations and not provided for 
+elsewhere. 
+
+ 
+(d) Charges for Services 
+
+
+ 
+
+ (i) Third Party Contracts 
+
+ 
+
+The actual costs of contracts, for technical and other services entered into by 
+the Contractor for Petroleum Operations, made with third parties other than 
+Affiliate Companies are recoverable; provided that the costs paid by the 
+Contractor are no higher than those generally charged by other international 
+or domestic suppliers for comparable work and services. 
+
+ 
+
+ (ii) Affiliate Companies 
+
+ 
+
+Without prejudice to the charges to be made in accordance with sub-section 
+2.5, in the case of general services, advice and assistance rendered to the 
+Petroleum Operations by an d Company, the charges will be based on actual 
+costs without profits and will be competitive. The charges will be no higher 
+than the most favorable prices charged by the Affiliate Company to third 
+parties for comparable services under similar terms and conditions 
+elsewhere. The Contractor will, if requested by TPDC, specify the amount 
+of charges which constitutes an allocated proportion of the general material, 
+management, technical and other costs of the Affiliate Company, and the 
+amount which is the direct cost of providing the services concerned. If 
+necessary, certified evidence regarding the basis of prices charged may be 
+obtained from the recognized auditors of the Affiliate Company. 
+
+ 
+
+(iii) In the event that the prices and charges referred to in sub-paragraphs (i) and 
+(ii) above are shown to be uncompetitive then TPDC will have the right to 
+disallow that portion as it deems fit for cost recovery purposes. 
+
+ 
+
+ (e) Exclusively Owned Property 
+
+ 
+
+For services rendered to Petroleum Operations through the use of property 
+exclusively owned by the Contractor, the accounts shall be charged at rates, not 
+exceeding those prevailing in the region, which reflect the cost of ownership and 
+operation of such property, or at rates to be agreed. 
+
+ 
+
+ (f) Material and Equipment 
+
+ 
+
+
+ (i) General 
+
+ 
+
+So far as is practicable and consistent with efficient economical operation, 
+only such material shall be purchased or furnished by the Contractor for use 
+in the Petroleum Operations as may be required for use in the reasonably 
+foreseeable future and the accumulation of surplus stocks shall be avoided. 
+
+
+
+ 
+
+ (ii) Warranty of Material 
+
+ 
+
+The Contractor does not warrant material beyond the supplier’s or 
+manufacturer’s guarantee and, in case of defective material or equipment, 
+any adjustment received by Contractor from the suppliers/manufacturers or 
+their agents will be credited to the accounts under the Agreement. 
+
+ 
+
+ (iii) Value of Material Charged to the Accounts under the 
+Agreement 
+
+ 
+(a) Except as otherwise provided in (b) below, material purchased by the 
+Contractor for use in Petroleum Operations shall be valued to 
+include invoice price less trade and cash discounts (if any), purchase 
+and procurement fees plus freight and forwarding charges between 
+point of supply and point of shipment, freight to port of destination, 
+insurance, taxes, custom duties consular fees, other items 
+chargeable against imported material and, where applicable, handing 
+and transportation expenses from point of importation to warehouse 
+or operating site, and its costs shall not exceed those currently 
+prevailing in normal arms length transactions on the open market. 
+
+ 
+(b) Material purchased from or sold to Affiliate Companies or 
+transferred to or from activities of the Contractor, other than 
+Petroleum Operations under this Agreement, shall be 
+priced and charged or credited at the prices specified in (1) and (2) 
+below: 
+
+
+
+
+ 
+
+(1) New Material (Condition “A”) shall be valued the current 
+international price which shall not exceed price prevailing in normal 
+arms length transactions on the open market. 
+ 
+ 
+
+ (2) Used Material (Conditions “B” and “C”) 
+
+ 
+
+(i) Material which is in sound and serviceable condition and is 
+suitable for re-use without reconditioning shall be classified 
+as Condition “B” and priced at not more than seventy-five 
+percent (75%) of the current price of new materials defined 
+in (1) above. 
+
+ 
+
+(ii) Material which cannot be classified as Condition “B” but 
+which: 
+
+(a) after reconditioning will be further serviceable for 
+original function as good second hand material 
+Condition ’B”, or 
+
+ 
+
+(b) is serviceable for original function but substantially 
+not suitable for reconditioning, shall classified as 
+Condition “C” and priced at not more than fifty 
+percent (50%) of the current price of new material 
+
+
+
+(Condition “A”) as defined in (1) above. The cost of 
+reconditioning shall be charged to reconditioned 
+material provided that the Condition “C” material 
+value plus the cost or reconditioning does not exceed 
+the value of Condition “B” material. 
+
+ 
+
+(iii) Material which cannot be classified as Condition “B” or 
+Condition “C” shall be priced at a value to be agreed between 
+TPDC and the Contractor. 
+
+ 
+
+ (iv) Material involving erection costs shall be charged at 
+applicable condition percentage of the current 
+knocked-down price of new material as defined in 
+(1) above. 
+
+ 
+
+(v) When the use of material is temporary and its service to 
+Petroleum Operations does not justify the reduction in prices 
+as provided for in sub-paragraph (2) (ii) above, such 
+material shall be priced on a basis that will result in a net 
+charge to the accounts under the Agreement consistent with 
+the value of the service rendered. 
+
+ 
+
+ (g) Rentals, Duties and Other Assessments 
+
+ 
+
+All rentals, taxes (other than income tax, withholding tax, and Additional Profits 
+Tax), levies, charges, fees, contributions and any other assessments and charges 
+levied by the Government in connection with Petroleum Operations and paid 
+directly by the Contractor. 
+
+ 
+
+ (h) Insurance and Loses 
+
+  
+
+Insurance premiums and costs incurred for insurance pursuant to Article 20, 
+provided that if such insurance is wholly or partly placed with an Affiliate 
+Company such premiums and costs shall be recoverable only to the extent generally 
+charged by competitive insurance companies other than an Affiliate Company. 
+Costs and losses incurred as a consequence of events which are, and in so far as, not 
+made good by insurance are recoverable unless costs have resulted solely from an 
+act of willful misconduct or sole gross negligence of the Contractor. 
+
+ 
+(i) Legal Expenses 
+
+
+ 
+
+All reasonable costs and expenses of litigation and legal or related services 
+necessary or expedient for the procuring, perfecting, retention and protection of the 
+Contract Area, and in defending or prosecuting lawsuits involving the Area or any 
+third party claim arising out of activities under the Agreement, or sums paid in 
+respect of legal services necessary or expedient for the protection of the joint 
+interest of Government, TPDC and the Contractor are recoverable. Where legal 
+services are rendered in such matters by salaried or regularly retained lawyers of the 
+Contractor or an Affiliate Company, such compensation shall be included instead 
+under sub-section 3.1(b) or 3.1(d) above as applicable. 
+
+
+
+ 
+
+(j) Training Costs 
+
+ 
+
+All costs and expenses incurred by the Contractor in training of Tanzanian 
+employees engaged in Petroleum Operations and such other training as is required 
+under Article 18 of the Agreement. 
+
+ 
+
+ (k) General and Administrative Costs 
+
+ 
+
+ The costs described in sub-section 2.5(a) and the charge 
+described in sub-section 2.5(b). 
+
+ 
+
+3.2 Costs not Recoverable under the Agreement 
+
+ 
+
+The following costs shall not be recoverable for the purposes of Profit Oil/Gas sharing: 
+
+ 
+(a) all costs incurred before the Effective Date other than charges incurred by 
+Contractor for copying and shipping of data relating to the Contract Area; 
+(b) petroleum marketing or transportation costs of Petroleum beyond the Delivery 
+Point; 
+
+
+ 
+(c) the costs of any bank guarantee or letter of guarantee required under the 
+agreement (and any other amounts spent on indemnities with regard to 
+non-fulfillment of contractual obligations); 
+(d) costs of arbitration and the sole expert in respect of any dispute under the 
+Agreement; 
+
+ 
+(e) fines and penalties imposed by courts of law in the United Republic of Tanzania; 
+ 
+
+ 
+(f) costs incurred as a result of willful misconduct or negligence of the Contractor; 
+
+ 
+(g) donations and contributions made by the Contractor; 
+
+
+ 
+(h) any costs which, by reference to general oil industry practices, can be shown to be 
+excessive; 
+
+ 
+(i) expenditure on fundamental research into development of new equipment, materials 
+and techniques for use in search for, developing and producing petroleum except to 
+the extent that such research and development is directly carried out in support of 
+Petroleum Operations in the United Republic of Tanzania whereby such a research is 
+conducted in collaboration with TPDC; 
+
+ 
+(j) interest and financial charges paid to the creditors of the Contractor, provided that the 
+same are at competitive commercial rates, provided that the debts or loans to which 
+they refer are required by Petroleum Operations and correspond to the financing 
+needed for these operations. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+3.3 Other costs and Expenses 
+
+ 
+
+Any other costs and expenses not covered or dealt with in the foregoing provisions of this 
+Section 3 and which are incurred by Contractor for the necessary and proper conduct of 
+Petroleum Operations are recoverable only with the prior approval in writing of TPDC. 
+
+ 
+
+3.4 Credits under the Agreement 
+
+ 
+
+The net proceeds received from Petroleum Operations (other than the proceeds from the 
+sale of Crude Oil and Natural Gas), including but not limited to the transactions listed 
+below, will be credited to the accounts under the Agreement. For Profit Oil/Gas sharing 
+purposes such credits shall be offset against Recoverable Contract Expenses: 
+
+ 
+(a) the net proceeds of any insurance or claim in connection with Petroleum Operations 
+or any assets charged to the accounts under the Agreement when such operations or 
+assets were insured and the premiums charged to the accounts under the Agreement; 
+
+
+ 
+(b) legal expenses charged to the accounts under Section 3.1 (i) and 
+subsequently recovered by the Contractor; 
+
+
+ 
+(c) revenue received from third parties including Affiliate Companies for the use of 
+property or assets charged to the accounts under the Agreement; 
+
+ 
+(d) any adjustment received by the Contractor from the suppliers manufacturers or their 
+agents in connection with defective material, the cost of which was previously 
+charged by the Contractor to the accounts under the Agreement; 
+
+ 
+
+
+(e) rentals, refunds or other credits received by the Contractor which apply to any 
+charge which has been made to the accounts under the Agreement but excluding 
+any award granted to the Contractor under arbitration or sole expert proceedings; 
+
+
+(f) the net proceeds for material originally charged to the accounts under the 
+Agreement and subsequently exported from the United Republic of Tanzania 
+without being used in Petroleum Operations; 
+
+
+
+
+(g) the net proceeds from the sale or exchange by the Contractor of materials, 
+equipment, plant or facilities, the acquisition costs of which have been charged to 
+the accounts under the Agreement; 
+
+
+(h) the proceeds from the sale of any petroleum information which relates to the 
+Contract Area provided that the acquisition costs of such rights and information 
+have been charged to the accounts under the Agreement; 
+
+
+(i) the proceeds derived from the sale or license of any intellectual property the 
+development costs of which were incurred under this Agreement. 
+
+
+
+
+
+3.5 Duplication of Charges and Credits 
+
+
+ 
+
+Notwithstanding any provision to the contrary in this Accounting procedure, it is agreed 
+that there shall be no duplication of charges or credits to the accounts under the Agreement. 
+
+
+
+SECTION 4: RECORDS AND VALUATION OF ASSETS 
+
+ 
+
+The Contractor shall maintain detailed records of property and assets in use for Petroleum 
+Operations in accordance with normal practice in exploration and production activities of the 
+international petroleum industry. At six (6) monthly intervals the Contractor shall notify TPDC in 
+writing of all assets acquired during the preceding six (6) months indicating the quantities, costs 
+and location of each asset. At reasonable intervals but at least once a year with respect to movable 
+assets and once every four (4) years with respect to immovable assets, inventories of the property 
+and assets under the Agreement shall be taken by the Contractor. The Contractor shall give TPDC 
+at least thirty (30) days written notice of its intention to take such inventory is taken. The 
+Contractor will clearly state the principles upon which valuation of the inventory has been based. 
+When an assignment of rights under the Agreement takes place a special inventory may be taken 
+by the Contractor at the request of the assignee provided that the costs of such inventory are borne 
+by the assignee. 
+
+
+
+SECTION 5: PRODUCTION STATEMENT 
+
+ 
+5.1 Upon commencement of production from the Contract Area, the Contractor shall submit a 
+monthly Production Statement to TPDC showing the following information for each 
+Development Area and for the Contract Area: 
+(a) the quantity and quality of Crude Oil/Natural Gas produced and saved; 
+(b) the quantity and composition of Natural Gas produced and saved; 
+(c) the quantities of Petroleum used for the purposes of carrying on drilling 
+and production operations and pumping to field storage as well as quantities 
+injected into the formation; 
+(d) the quantities of Petroleum unavoidably lost; 
+(e) the size of Petroleum stocks held at the beginning of the Month in question; 
+
+
+ 
+(f) the size of petroleum stocks held at the end of the Month in question; 
+(g) the number of days in the Month during which Petroleum was produced 
+from each Development Area within the Contract Area; 
+
+
+5.2 At the end of each Calendar Quarter aggregated statements in respect of the three Months 
+comprising that Quarter shall be submitted for each of the items (a) to (g) in sub-section 5.1 
+above. Additionally, the average daily production rate for the Quarter shall be calculated in 
+accordance with Article 11 of the Agreement. 
+
+ 
+
+
+5.3 The Production Statement for each Month or quarter shall be submitted Government and 
+TPDC not later than seven (7) days after the end of such Month or quarter. 
+
+
+
+SECTION 6: VALUE OF PRODUCTION, PRICING, ROYALTY AND 
+ABANDONMENT COST RESERVE FUND STATEMENT 
+
+ 
+
+6.1 The Contractor shall, for the purposes of Article 12 and 13 of the Agreement, prepare a 
+Statement providing calculations of the value of Crude Oil/Natural Gas produced and saved 
+during each Calendar Quarter. This Statement, which shall be prepared for each Quality of 
+Tanzanian Crude Oil /Natural Gas produced and saved from the Contract Area, shall 
+contain the following information: 
+(a) the quantities, prices and receipts realized therefore by the Contractor in Third Party 
+Sales of Tanzanian Crude Oil/Natural Gas during the Calendar Quarter in 
+question; 
+
+
+ 
+(b) the quantities, prices and receipts realized therefore by the Contractor in sales of 
+Tanzanian Crude Oil/Natural Gas during the Calendar Quarter in question, other 
+than in Third Party Sales; 
+
+ 
+
+
+(c) the value of stocks of Crude Oil/Natural Gas held at the beginning of the Calendar 
+Quarter in question; 
+
+
+(d) the value of stocks of Crude Oil/Natural Gas held at the end of the Calendar Quarter 
+in question; 
+
+
+(e) the percentage volume of total sales of Tanzanian Crude Oil/Natural Gas made by 
+the Contractor during the Calendar Quarter that are the Third Party Sales; 
+
+
+(f) all information available to the Contractor, if relevant for the purposes of 
+Article 12 of the Agreement, concerning the prices of the selection of major 
+competitive crude oils/gas, including contract prices, discounts and premiums, and 
+prices obtained on the spot markets; 
+
+
+(g) the statement of Royalty payable. 
+
+ 
+ 
+
+6.2 The Value of Production and Pricing Statement for each Calendar Quarter shall be 
+submitted to Government and TPDC not later than twenty (20) days after the end of such 
+Calendar Quarter. 
+
+
+
+
+ 
+
+6.3 Two years after commencement of production, the Contractor shall provide quarterly 
+accounts of the proceeds of the Abandonment Cost Reserve Fund pursuant to Article 19. 
+
+
+
+
+
+
+SECTION 7: STATEMENT OF RECEIPTS AND EXPENDITURE 
+
+ 
+7.1 The Contractor shall prepare with respect to each Calendar Month a Statement of Receipts 
+and Expenditure under the Agreement. The Statement will distinguish between Exploration 
+Expenses, Development Expenses and Operating Expenses and will separately identify all 
+significant items of expenditures within these categories. If TPDC is not satisfied with the 
+degree of desegregation within the categories it shall be entitled to ask for a more detailed 
+breakdown. The statement will show the following: 
+
+
+ 
+(a) actual receipts and expenditure (including all credits pursuant to Section 
+3.4 of this Accounting Procedure) for the Month in question showing variances 
+from the budget and explanations thereof; 
+(b) cumulative receipts and expenditure (including all credits pursuant to Section 3.4 of 
+this Accounting Procedure) for the budget year in question; 
+(c) latest forecast of cumulative expenditure at the Year end; and 
+(d) variations between budget forecast and latest forecast, with explanation thereof. 
+
+
+ 
+7.2 At the end of each Calendar Quarter aggregated Statements in respect of the three Months 
+comprising that Quarter shall be submitted for each of the items (a) to (d) in sub-section 7.1 
+above. 
+7.3 The Statement of receipts and expenditure for each Calendar Month or Quarter shall be 
+submitted to Government and TPDC not later than twenty-one (21) days after the end of 
+such Month or Quarter. 
+
+
+
+
+
+
+SECTION 8: COST RECOVERY STATEMENT 
+
+
+
+
+ 
+8.1 The Contractor shall prepare with respect to each Calendar Quarter a Cost Recovery 
+Statement containing the following information: 
+(a) Recoverable Contract Expenses carried forward from the previous Quarter, if any; 
+(b) Recoverable Contract Expenses for the Quarter in question; 
+(c) total Recoverable Contract Expenses for the Quarter in question (sub-section 8.1(a) 
+plus sub-section 8.1(b); 
+(d) quantity and value of Cost Oil and/or Cost Gas taken and disposed of by the 
+Contractor for the Quarter in question; 
+(e) Contract Expenses recovered for the Quarter in question; 
+(f) total cumulative amount of Contract Expenses recovered up to the end of 
+the Quarter in question; 
+(g) amount of Recoverable Contract Expenses to be carried forward into the 
+next Quarter. 
+
+
+ 
+8.2 The cost recovery information required pursuant to sub-section 8.1 above shall be 
+presented in sufficient detail so as to enable Government and TPDC to identify how the 
+cost of assets are being recovered for the purposes of Article 19 of the Agreement. 
+
+
+8.3 The Cost Recovery Statement for each Quarter shall be submitted to Government and 
+TPDC not later than twenty one (21) days after the end of such Quarter. 
+
+
+
+ SECTION 9: END-OF-YEAR STATEMENT 
+
+ 
+
+The Contractor shall prepare a definitive End-of-Year Statement. The Statement will contain 
+aggregated information for the Year in the same format as required in the Value of Production, 
+Pricing Statement, Royalty payable Statement, Abandonment Cost Reserve Fund Statement, Cost 
+Recovery Statement and Statement of Receipts and Expenditure to be based on the actual 
+quantities of Petroleum produced and the costs and expenses incurred. The End-of-Year Statement 
+for each Calendar Year shall be submitted to Government and TPDC within sixty (60) days of the 
+end of such Calendar Year. 
+
+
+
+SECTION 10: BUDGET STATEMENT 
+
+ 
+
+
+10.1 The Contractor shall prepare an Annual Budget Statement. This Statement shall set out 
+separately Exploration Expenses, Development Expenses and Operating Expenses and 
+shall show the following: 
+
+ 
+(a) forecast expenditure and receipts for the budget year under the Agreement; 
+(b) cumulative expenditures and receipts to the end of the said budget year; and 
+
+
+
+
+ 
+
+ (c) a schedule showing the most important and individual items of Development 
+Expenses for the said budget year; 
+
+
+ 
+
+10.2 The Budget Statement shall be submitted to Government and TPDC with respect to each 
+budget year no less than ninety (90) days before the start of the year except in the case of 
+the year in which the Effective Date falls, when the Budget Statement shall be submitted 
+within thirty (30) days of the Effective Date. 
+
+
+
+ SECTION 11: REVISION OF ACCOUNTING PROCEDURE 
+
+ 
+11.1 The provisions of this Accounting Procedure may be amended by agreement between the 
+Contractor, the Government and TPDC The amendments shall be made in writing and shall 
+state the date upon which the amendments shall become effective. 
+11.2 In the event, and at the time, that TPDC elects to participate in Joint Operations as 
+defined in Article 9 of this Agreement the parties shall modify this Accounting 
+Procedure to reflect TPDC’s status as a party to the Operating Agreement. 
+11.3 Following any second discovery in the Contract Area the parties will meet in order to 
+establish specific principles and procedures for identifying all costs, expenditures and 
+credits, and for allocating Cost Oil and/or Cost Gas and Profit Oil and/or Profit Gas, on a 
+Development Area basis, it being understood that costs, expenditures and credits which do 
+not uniquely arise in respect of any one Development Area shall be apportioned between 
+Development Areas in a reasonable, equitable and consistent manner. 
+
+
+
+
+SECTION 12: CONFLICT WITH THE AGREEMENT 
+
+ 
+
+In the event of any conflict between the provisions of this Accounting Procedure and the 
+Agreement the provisions of the Agreement shall prevail. 
+
+ 
+
+ 
+
+
+
+ 
+
+ANNEX "E" : APT SAMPLE CALCULATION METHODOLOGY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hard data input per Petroleum Agreement 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+1. First Account 
+
+ 
+
+ 
+
+ 
+
+Percent 25.00% 
+
+ 
+
+2. Second Account Tax Rate 
+
+ 
+
+ 
+
+Percent 40.00% 
+
+ 
+
+3. First Account Real Rate of Return 
+
+ 
+
+Percent 35.00% 
+
+ 
+
+4. First Account APT Taxes are Deductible when 
+
+ 
+
+ 
+
+ 
+ 
+ calculating Second Account Balances 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assumptions 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Assumed Annual Change in USIGPPI = Two (2) Percent (Added to Account Rates of 
+Return to reflect the "Real" nature of these ROR's). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Cash Flow is for Illustrative Purposes Only; data entirely assumed. 
+
+ 
+
+Calculation Methodology 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Year 
+
+Assumed 
+Pretax 
+Cash 
+Flow 
+US$MM 
+
+FANCP 
+First 
+Account 
+Balance 
+US$MM 
+
+First 
+Account 
+APT 
+Payable 
+US$MM 
+
+SANCP 
+Second 
+Account 
+Balance 
+US$MM 
+
+Second 
+Account 
+APT 
+Payable 
+US$MM 
+
+Total 
+APT 
+Payable 
+US$MM 
+
+ 
+
+1 
+
+-3.00 
+
+-3.00 
+
+0.00 
+
+-3.00 
+
+0.00 
+
+0.00 
+
+ 
+ 
+2 
+
+-10.00 
+
+-13.81 
+
+0.00 
+
+-14.11 
+
+0.00 
+
+0.00 
+
+ 
+
+3 
+
+-40.00 
+
+-57.54 
+
+0.00 
+
+-59.33 
+
+0.00 
+
+0.00 
+
+ 
+
+4 
+
+10.00 
+
+-63.08 
+
+0.00 
+
+-71.28 
+
+0.00 
+ 
+0.00 
+
+ 
+
+5 
+
+40.00 
+
+-40.11 
+
+0.00 
+
+-57.65 
+
+0.00 
+
+0.00 
+
+ 
+
+6 
+
+80.00 
+
+29.06 
+
+7.27 
+
+-6.25 
+
+0.00 
+
+7.27 
+
+ 
+
+7 
+
+100.00 
+
+100.00 
+
+25.00 
+ 
+66.44 
+
+26.58 
+
+51.58 
+
+ 
+
+8 
+
+100.00 
+
+100.00 
+
+25.00 
+
+75.00 
+
+30.00 
+
+55.00 
+
+ 
+
+9 
+
+60.00 
+
+60.00 
+
+15.00 
+
+45.00 
+
+18.00 
+
+33.00 
+
+ 
+
+10 
+
+20.00 
+ 
+20.00 
+
+5.00 
+
+15.00 
+
+6.00 
+
+11.00 
+
+ 
+
+11 
+
+-20.00 
+
+-20.00 
+
+0.00 
+
+-20.00 
+
+0.00 
+
+0.00 
+
+ 
+
+12 
+
+10.00 
+
+-15.00 
+
+0.00 
+
+-17.40 
+
+0.00 
+
+0.00 
+
+ 
+ 
+13 
+
+20.00 
+
+0.44 
+
+0.11 
+
+-3.95 
+
+0.00 
+
+0.11 
+
+ 
+
+14 
+
+30.00 
+
+30.00 
+
+7.50 
+
+17.09 
+
+6.84 
+
+14.34 
+
+ 
+
+15 
+
+20.00 
+
+20.00 
+
+5.00 
+
+15.00 
+
+6.00 
+ 
+11.00 
+
+

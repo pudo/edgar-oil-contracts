@@ -1,0 +1,1063 @@
+
+EX-10.63
+2
+star_ex1063.htm
+
+
+
+    star_ex1063.htm
+    
+    
+    
+
+
+Exhibit 10.6.3
+
+ 
+
+SECOND AMENDMENT TO CREDIT AGREEMENT
+
+
+
+
+This Second Amendment to Credit Agreement (“Amendment”) is entered into between INDEPENDENT BANK, as lender, and STARBOARD RESOURCES, INC, as borrower, and is dated March 26, 2014.  Terms defined in the Credit Agreement between such lender and such borrower dated June 27, 2013, (as amended prior to the date of this Amendment, the “Credit Agreement”), are used herein as therein defined, unless otherwise defined herein or the context otherwise requires.
+
+
+
+
+R E C I T A L S:
+
+
+
+
+WHEREAS, the Borrower has requested that the Lender increase the Borrowing Base and make a term loan to the Borrower; and
+
+
+
+
+WHEREAS, the Lender is willing to amend the Credit Agreement under the terms and conditions set forth herein;
+
+
+
+
+NOW, THEREFORE, in consideration of the premises and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Borrower and the Lender hereby agree as follows:
+
+
+
+
+1.           The following definitions are hereby added to Section1.1 of the Credit Agreement as follows:
+
+
+
+
+“Acquisition Properties” means the Properties known as the ‘Crittendon Properties” being acquired by the Borrower from White Oak Energy.
+
+
+
+
+“Second Amendment to Credit Agreement” means the Second Amendment to Credit Agreement dated March 26, 2014, between the Lender and the Borrower, amending the Credit Agreement.
+
+
+
+
+“Term Loan” means the Advance made under Section 2.1.4 or so much thereof as remains outstanding, as the context requires.
+
+
+
+
+“Term Loan Borrowing Request” means a writing, substantially in the form attached to the Second Amendment to Credit Agreement entitled “Form of Notice of Term Loan Borrowing”, properly completed and signed by Borrower, requesting the Term Loan.
+
+
+
+
+“Term Loan Note” means a promissory note issued pursuant hereto, in substantially the form attached to the Second Amendment to Credit Agreement entitled “Form of Term Loan Note”, duly executed by the Borrower and payable to the Lender, including any amendment, modification, renewal or replacement of such promissory note.
+
+
+
+
+2.           The following definitions located in Section1.1 of the Credit Agreement are hereby amended and restated in their respective entireties as follows:
+
+
+
+
+“Borrowing Base” means the amount most recently determined and designated by the Lender as the Borrowing Base in accordance with Section 2.8.1, as such Borrowing Base is reduced in accordance with Section 2.8.2 or other provisions hereof.  The Borrowing Base under Section 2.8.1 is $17,000,000 as of the date of the Second Amendment to Credit Agreement and shall automatically increase to $21,000,000 as of the date the Borrower meets all of the conditions to funding the Term Loan under paragraph 9 of the Second Amendment to the Credit Agreement.
+
+
+
+
+
+
+  
+
+
+
+1
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+“Final Maturity Date”, “Final Maturity” or “Maturity Date” means (a) with respect to the Loans under the Note, June 1, 2016, or such earlier date on which the Commitment of the Lender terminates as provided in this Agreement, and (b) with respect to the Term Loan under the Term Loan Note, April 1, 2016; provided, however, that in each case, if such date is not a Business Day, the Final Maturity Date shall be the next succeeding Business Day.
+
+
+
+
+“Floating Rate” means for any day a per annum interest rate equal to (i) for Loans under the Note, the higher of (a) the sum of zero percent (0.00%) plus the WSJ Rate from time to time in effect or (b) four percent (4.00%) and (ii) for the Term Loan under the Term Loan Note, the higher of (a) the sum of three percent (3.00%) plus the WSJ Rate from time to time in effect or (b) six and three- quarters percent (6.75%).
+
+
+
+
+“Interest Payment Date” means (i) for the Loan made under the Note, the first day of each month commencing with July 1, 2013, and upon maturity of the Note (whether stated or upon acceleration) and (ii) for the Term Loan made under the Term Loan Note, the first day of each month commencing with May 1, 2014, and upon maturity of the Term Loan Note (whether stated or upon acceleration).
+
+
+
+
+“Note” means a promissory note issued pursuant hereto, in substantially the form attached hereto entitled “Form of Promissory Note”, duly executed by the Borrower and payable to the order of the Lender, including any amendment, modification, renewal or replacement of such promissory note, which Note shall be in the amount of $100,000,000; provided, however, for the purposes of the definition of “Loan Documents”, the definition of “Obligations”, Article III, Section 6.3.1, the lead-in to  Article VII, Section 7.12.1, Article VIII, Article IX, and Article XI, the term “Note” shall be deemed to include both the Note and the Term Loan Note.
+
+
+
+
+3.            Section2.1 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+
+
+
+“2.1           Reducing Revolving Line of Credit, Letter of Credit and Term Loan Facilities.
+
+
+
+
+2.1.1           During the Revolving Credit Period, and if no Default exists, the Lender agrees, subject to the other terms and conditions of this Agreement, to make Advances to the Borrower from time to time in amounts not to exceed, in the aggregate at any one time outstanding, the Available Commitment as in effect from time to time.
+
+
+
+
+2.1.2           The Lender shall not be obligated to lend to the Borrower, and the Borrower shall not be entitled to borrow hereunder, any amount which would cause the sum of the outstanding principal of the Note plus the Letter of Credit Exposure, to exceed the Available Commitment.
+
+
+
+
+2.1.3           Upon the terms and conditions and relying on the representations and warranties contained in this Agreement,
+
+
+
+
+(i)           the Lender, agrees, from the date of this Agreement until the date which is 30 days prior to the Final Maturity Date, and if no Default exists, to issue standby letters of credit hereunder for the account of the Borrower, and to renew and extend standby Letters of Credit.
+
+
+
+
+
+
+  
+
+
+
+2
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+(ii)           letters of credit shall be issued hereunder and Letters of Credit shall be renewed or extended from time to time on any Business Day designated by the Borrower following the receipt by the Lender of the written (or oral, confirmed promptly in writing) request by a Responsible Representative of the Borrower therefor and, if for the issuance of a new letter of credit hereunder, a Letter of Credit Application; provided, however, that
+
+
+
+
+(a)           the expiry date of such requested letter of credit cannot be later than the earlier of (1) 365 days from the date of issuance, unless automatically renewable by its terms, or, if issued in favor of the Texas Railroad Commission, 15 months following the date of issuance, (2) the last date before which the Borrowing Base is scheduled to reduce to an amount less than the sum of the maximum drawable amount of the requested letter of credit plus the undrawn amount of all outstanding Letters of Credit which, by their terms, might be outstanding on such reduction date or (3) 30 days prior to the Final Maturity Date;
+
+
+
+
+(b)           the outstanding principal of the Note plus the Letter of Credit Exposure shall not exceed at any time the Available Commitment;
+
+
+
+
+(c)           the Letter of Credit Exposure shall not exceed at any time $2,000,000;
+
+
+
+
+(d)           with  the  exception  of  standby letters of credit to support plugging bond obligations of the Borrower (for which there shall be no minimum dollar amount or maximum number of such letters of credit), no letter of credit shall be issued hereunder in an amount less than $50,000; and
+
+
+
+
+(e)           the Lender shall not be obligated to issue a letter of credit pursuant hereto or to renew or extend a Letter of Credit, and the Borrower shall not be entitled to have a letter of credit issued pursuant hereto or to have a Letter of Credit renewed or extended, if the issuance of the requested letter of credit or the renewal or extension of an existing Letter of Credit would cause, after taking into account the mandatory reductions in the Borrowing Base required during the proposed term of such requested letter of credit or existing Letters of Credit, the sum of the undrawn amount of all Letters of Credit plus the outstanding principal of the Note, to exceed the Available Commitment.
+
+
+
+
+(iii)           except as otherwise permitted by clause (ii)(d) above, the Lender shall have no obligation to issue a letter of credit hereunder if as a result thereof, there would be outstanding more than five standby Letters of Credit under clause (i) above.
+
+
+
+
+2.1.4           If no Default exists and all conditions to funding of the Term Loan have been satisfied, the Lender will advance the Term Loan to the Borrower in the amount of $4,000,000 at the time of the acquisition of the Acquisition Properties.
+
+
+
+
+2.1.5           The Borrower may use the proceeds of the Term Loan for the purposes set forth in Section 7.1.1.
+
+
+
+
+2.1.6           The Borrower shall give the Lender a Term Loan Borrowing Request prior to 12:00 p.m. on the date of the requested funding of the Term Loan.
+
+
+
+
+2.1.7           The Term Loan shall be evidenced by the Term Loan Note in the amount of $4,000,000 issued by the Borrower, payable to the Lender.
+
+
+
+
+
+
+  
+
+
+
+3
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+2.1.8           The outstanding principal of the Term Loan Note reflected by the notations (whether handwritten, electronic or otherwise) by the Lender on its records shall be deemed rebuttably presumptive evidence of the principal amount owing on the Term Loan Note.
+
+
+
+
+2.1.9           The Lender will record on its books the Term Loan and the particulars thereof (e.g., date and amount) and each payment of principal or interest made by the Borrower with respect thereto, and may, if the Lender so elects in connection with any transfer or enforcement of the Term thereof appropriate notations to evidence the foregoing information with respect to the Term Loan then outstanding; provided that the failure of the Lender to make any such recordation or endorsement shall not affect the obligations of the Borrower hereunder or under the Term Loan Note.  The Lender is hereby irrevocably authorized by the Borrower so to endorse the Term Loan Note and to attach to and make a part of the Term Loan Note a continuation of any such schedule (modified as such Lender shall deem advisable) as and when required.
+
+
+
+
+2.1.10           Subject to the other provisions of this Agreement, the principal of the Term Loan shall be due and payable in 18 consecutive monthly installments, with the first such monthly installment being due and payable on October 1, 2014, with subsequent installments of principal being due and payable on the first day of each month thereafter until fully paid.  The first 17 such monthly installments of principal shall be an amount equal to one-eighteenth (1/18th) of the principal amount of the Term Loan Note outstanding on October 1, 2014, and an 18th and final installment of principal shall be in the amount of the remaining Term Loan.
+
+
+
+
+2.1.11           The principal of the Term Loan Note shall bear interest for each day at a rate per annum equal to the Floating Rate on such day, or, if applicable, such higher rate as is specified in Section 2.1.13.
+
+
+
+
+2.1.12           Accrued interest on the Term Loan Note shall be payable in arrears on each Interest Payment Date and on the Final Maturity Date; provided that interest accrued pursuant to Section 2.1.13 shall be payable on demand.
+
+
+
+
+2.1.13           Unless waived by the Lender, the principal of the Term Loan Note shall bear interest at the Default Rate during any time an Event of Default exists and, to the extent not prohibited by Law, overdue interest on the Term Loan Note shall bear interest at the Default Rate.
+
+
+
+
+2.1.14           Each determination hereunder of interest and calculation of fees shall, unless specifically provided otherwise herein, be computed on the basis of a year of 360 days and paid for the actual number of days elapsed (including the first day but excluding the last day).  All interest rates applicable hereunder shall be determined by the Lender, and such determinations shall be conclusive absent manifest error, and be binding upon the parties hereto.
+
+
+
+
+2.1.15           Each change in the rate of interest charged under the Term Loan Note shall become effective automatically and without notice to the Borrower upon the effective date of each change in the Floating Rate or the Highest Lawful Rate, as the case may be.
+
+
+
+
+2.1.16           Calculations of interest include the date the Term Loan is made but exclude the date of repayment.
+
+
+
+
+2.1.17           The Term Loan Note shall finally mature no later than the Final Maturity Date, and any unpaid principal of the Term Loan Note and accrued, unpaid interest thereon shall be due and payable on such date.”
+
+
+
+
+
+
+  
+
+
+
+4
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+4.           Sections 2.6.3 and 2.6.4 of the Credit Agreement are hereby amended and restated as follows:
+
+ 
+
+“2.6.3           To compensate the Lender for the costs of the extension of credit hereunder and for the commitment to provide the credit facilities described herein, the Borrower shall pay to the Lender (i) on the closing date of the Second Amendment to Credit Agreement, a non-refundable commitment and facility fee in the amount of $40,000 for the increase in the Borrowing Base plus a non-refundable commitment and facility fee in the amount of $80,000 for the Term Loan and (ii) thereafter upon each increase in the Borrowing Base pursuant to Section2.8.1, a commitment and facility fee in the amount of one percent (1.00%) of the amount by which the Borrowing Base is increased over that in effect on the date of determination.
+
+
+
+
+2.6.4           The Borrower shall pay to the Lender at the time of each issuance of a letter of credit hereunder and at the time of each renewal (including extensions) of a Letter of Credit the greater of (i) a letter of credit fee equal to two percent (2.00%) per annum of the face amount of such letter of credit or Letter of Credit, as applicable, for the maximum number of days from such date of issuance or renewal, as applicable, to the expiry date of such letter of credit or Letter of Credit, as applicable, and (ii) $1,500.”
+
+
+
+
+5.           Section 7.1.1 of the Credit Agreement is amended and restated in its entirety as follows:
+
+
+
+
+“7.1.1           The Borrower will use the proceeds of the Loans under the Note solely to finance the acquisition of Oil and Gas Properties by the Borrower, to develop and maintain Oil and Gas Properties owned by the Borrower and for working capital purposes and will use the proceeds of the Term Loan solely for payment of the acquisition costs and expenses of the Acquisition Properties, which acquisition is set to close on or about March 26, 2014.”
+
+
+
+
+6.           Section 7.2.2 of the Credit Agreement is amended and restated in its entirety as follows:
+
+
+
+
+“7.2.2           (i) at the time of delivery of the engineering reports required by Section 7.2.2(iv) or Section 7.2.2(v) and, if requested by the Lender at any other time, within 60 days following each such request from the Lender, production reports in form and substance satisfactory to the Lender in its reasonable judgment and as of the date or for the periods specified in such request, prepared by the Borrower containing (a) data concerning pricing, quantities of oil, gas and liquid hydrocarbons production from the Oil and Gas Properties utilized in determining the Borrowing Base on a property-by-property basis, by major field and in total, for a period of at least six months, (b) purchasers of production, (c) gross revenues, (d) expenses, (e) production taxes, (f) engineering data, (g) geological data, and (h) such other information with respect thereto as the Lender may reasonably request.
+
+
+
+
+(ii)           within 15 days following each request from the Lender, a report setting forth all accounts receivable and accounts payable of the Borrower as of the date specified in such request, such report to show the age of such accounts and such other information as the Lender shall reasonably request.
+
+
+
+
+(iii)           within 30 days following each request of the Lender, copies for the PRs (the monthly production reports) and the P-1Bs (the producer’s monthly supplemental reports) as filed during such month just ended with the appropriate Governmental Authority in the State of Texas and with respect to states other than Texas, the equivalent production reports as filed with the appropriate Governmental Authority in such states.
+
+
+
+
+
+
+  
+
+
+
+5
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+(iv)           as soon as available, and in any event on or before March 31 of each year during the term of this Agreement, engineering reports in form and substance satisfactory to the Lender in its reasonable judgment, certified by an independent consulting petroleum engineers selected by the Borrower and acceptable to the Lender as fairly and accurately setting forth (a) the proven and producing, shut-in, behind-pipe, and undeveloped oil and gas reserves (separately classified as such) attributable to the Oil and Gas Properties of the Borrower as of January 1 of such year, (b) the aggregate present value of the future net income with respect to such Properties, discounted at a stated per annum discount rate of proven and producing reserves, (c) projections of the annual rate of production, gross income, and net income with respect to such proven and producing reserves, and (d) information with respect to the “take-or-pay,” “prepayment,” and gas-balancing liabilities of the Borrower and other Persons with respect to such Properties.  For purposes of this clause, the petroleum engineering firm of Forrest A. Garb and Associates shall be deemed to be acceptable to the Lender unless the Lender otherwise advises the Borrower in writing.
+
+
+
+
+(v)           as soon as available, and in any event on or before May 1, 2014 and August 1, 2014, respectively, engineering reports in form and substance satisfactory to the Lender in its reasonable judgment, certified by an independent consulting petroleum engineers selected by the Borrower and acceptable to the Lender as fairly and accurately setting forth (a) the proven and producing, shut-in, behind-pipe, and undeveloped oil and gas reserves (separately classified as such) attributable to the Oil and Gas Properties of the Borrower as of April 1, 2014 and July 1, 2014, respectively, (b) the aggregate present value of the future net income with respect to such Properties, discounted at a stated per annum discount rate of proven and producing reserves, (c) projections of the annual rate of production, gross income, and net income with respect to such proven and producing reserves, and (d) information with respect to the “take-or-pay,” “prepayment,” and gas-balancing liabilities of the Borrower and other Persons with respect to such Properties.  For purposes of this clause, the petroleum engineering firm of Forrest A. Garb and Associates shall be deemed to be acceptable to the Lender unless the Lender otherwise advises the Borrower in writing.
+
+
+
+
+(vi)           simultaneously with the delivery of such production and other reports under clauses (i) through (v) above, a Representative’s Certificate certifying  that, to the best of such signatory’s knowledge, such engineering and other reports are true, accurate and complete in all material respects for the periods covered in such reports; provided that to the extent such reports include projections of future volumes of production and future costs, it is understood that such estimates are necessarily based upon professional opinions, and the Borrower does not warrant that such opinions will ultimately prove to have been accurate.
+
+
+
+
+(vii)            within 10 days after any material change in insurance coverage by the Borrower from that previously disclosed to the Lender, a report describing such change, and, within 30 days after each request by the Lender, certificates of insurance from the insurance companies insuring the Borrower, describing the insurance coverage of the Borrower.
+
+
+
+
+(viii)           within 10 days after the Borrower’s incurring any Contingent Obligation or Guarantee, a report describing such Contingent Obligation or Guarantee in reasonable detail.”
+
+
+
+
+7.           A new Section 7.15.4 is hereby added to Section 7.15 of the Credit Agreement as follows:
+
+
+
+
+“7.15.4                                Second Lien Refinancing.                                           In the event of a refinancing of the Second Lien Obligations, the Borrower will, at the time of the closing of such refinancing, repay from the proceeds of such refinancing, no less than one-half of the then outstanding principal balance of the Term Loan Note.”
+
+ 
+
+
+
+  
+
+
+
+6
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+8.           A Section 7.21 is hereby added to Article VII of the Credit Agreement as follows:
+
+
+
+
+
+
+
+“7.21           Required Hedges.
+
+
+
+
+7.21.1           In addition to the requirements of Section 5.2.13, the Borrower shall have in place within 30 days following the date of the Second Amendment to Credit Agreement, Acceptable Commodity Hedging Transactions in at least the following quantities for at least the minimum swap prices and for the periods set forth below (or with the Administrative Agent’s written approval, Acceptable Commodity Hedging Transactions having substantially equal PW Value):
+
+
+
+
+
+
+
+
+Period
+
+
+Quantity
+
+
+Minimum Price
+
+
+
+April-December 2014
+
+
+4,000 bbl/mo.
+
+
+$90.00/bbl
+
+
+
+Calendar Year 2015
+
+
+2,800 bbl/mo.
+
+
+$80.00/bbl
+
+
+
+January-March 2016
+
+
+1,500 bbl/mo.
+
+
+$75.00/bbl
+
+
+
+
+
+
+
+9.           Conditions to Funding of Term Loan.                                                                The Lender shall have no obligation to fund the Term Loan unless the following conditions have been satisfied in a manner reasonably satisfactory to the Lender:
+
+
+
+
+(i)           The Term Loan Note has been duly executed by the Borrower and delivered to the Lender
+
+
+
+
+(ii)           Mortgages satisfactory to the Lender are being executed by the Borrower and delivered to the Lender covering the Acquisition Properties.
+
+
+
+
+(iii)           An updated certificate of ownership interests covering all Oil and Gas Properties of the Borrower is being executed and delivered to the Lender.
+
+
+
+
+(iv)           The form of assignment of the Acquisition Properties from White Oak Energy to the Borrower is acceptable to the Lender.
+
+
+
+
+(v)           Title to the Acquisition Properties is reasonably acceptable to the Lender.
+
+
+
+
+(vi)           The Borrower shall have delivered to the  Lender such certificates and resolutions as the Lender may require approving and authorizing the transactions described or contemplated hereby.
+
+
+
+
+(vii)           Immediately prior to the funding of the Term Loan, no Default exists.
+
+
+
+
+(viii)           A waiver of operator’s lien satisfactory to the Lender is being executed by ImPetro Operating, LLC and delivered to the Lender covering the Acquisition Properties.
+
+
+
+
+(ix)           The purchase by the Borrower of the Acquisition Properties occurs on or prior to March 31, 2014.
+
+
+
+
+10.           The Lender waives the processing fee payable pursuant to Section 2.6.6 of the Credit Agreement as applied to this Amendment.
+
+
+
+
+
+
+  
+
+
+
+7
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+11.           The Borrower agrees to execute and deliver or cause the appropriate Person to execute and deliver such certificates, mortgages, amendments to mortgages and other security instruments as the Lender may from time to time reasonably request to reflect the terms of this Amendment.
+
+
+
+
+12.           All of the conditions in this Amendment and the Credit Agreement are solely for the benefit of the Lender, and no Person other than the Lender may rely thereon or insist on compliance therewith.
+
+
+
+
+13.           Ratification.                      The Borrower hereby ratifies the Obligations and each of the Loan Documents to which it is a party, and agrees and acknowledges that the Credit Agreement and each of the other Loan Documents to which it is a party shall continue in full force and effect after giving effect to this Amendment.  Nothing in this Amendment extinguishes, novates or releases any right, claim, Lien, security interest or entitlement of the Lender created by or contained in any of such documents nor is the Borrower released from any covenant, warranty or obligation created by or contained therein.
+
+
+
+
+14.           Representations and Warranties.                                                      The Borrower hereby represents and warrants to the Lender that (a) this Amendment has been duly executed and delivered on behalf of the Borrower, (b) this Amendment constitutes a valid and legally binding agreement  enforceable against the Borrower in accordance with its terms and (c) the execution, delivery and performance of this Amendment has been duly authorized by the Borrower.
+
+
+
+
+15.           Conditions to Effectiveness.                                                       This Amendment shall be effective upon the execution by all parties of this Amendment and the receipt thereof by the Lender.
+
+
+
+
+16.           RELEASE OF CLAIMS.                                           The Borrower for itself, its successors and assigns and all those at interest therewith including, without limitation, each Guarantor (collectively, the “Releasing Parties”), jointly and severally, hereby voluntarily and forever, RELEASE, DISCHARGE AND ACQUIT the Lender and its officers, directors, shareholders, employees, agents, successors, assigns, representatives, affiliates and insurers (sometimes referred to below collectively as the “Released Parties”) and all those at interest therewith of and from any and all claims, causes of action, liabilities, damages, costs (including, without limitation, attorneys’ fees and all costs of court or other proceedings), and losses of every kind or nature at this time known or unknown, direct or indirect, fixed or contingent, which the Releasing Parties, have or hereafter may have arising out of any act, occurrence, transaction, or omission occurring from the beginning of time to the date of execution of this Amendment if related to the Note or the other Loan Documents (the “Released Claims”), except that (i) the future duties and obligations of the Lender under the Loan Documents and the rights of the Borrower to its funds on deposit with the Lender shall not be included in the term Released Claims and (ii) the right of the Borrower to require the correction of manifest accounting errors and similar administrative errors shall not be included in the term Released Claims.  IT IS THE EXPRESS INTENT OF THE RELEASING PARTIES THAT THE RELEASED CLAIMS SHALL INCLUDE ANY CLAIMS OR CAUSES OF ACTION ARISING FROM OR ATTRIBUTABLE TO THE NEGLIGENCE, GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF ANY OF THE RELEASED PARTIES.
+
+
+
+
+17.           Counterparts.                                For the convenience of the parties, this Amendment may be executed in multiple counterparts, each of which for all purposes shall be deemed to be an original, and all such counterparts shall together constitute but one and the same agreement.  Delivery of an executed counterpart of a signature page of this Amendment by telecopy, e-mail, facsimile transmission, electronic mail in “portable document format” (“.pdf”) form or other electronic means intended to preserve the original graphic and pictorial appearance of the item being sent shall be effective as a delivery of a manually executed counterpart of this Amendment.
+
+
+
+
+18.           Effect.           This Amendment is one of the Loan Documents.  Except as amended hereby, the Credit Agreement shall remain unchanged and in full force and effect, and the Borrower hereby ratifies the terms of the Credit Agreement (as amended hereby), including, without limitation, the provisions of Sections 9.7 and 9.8 thereof.
+
+
+
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+ 
+
+
+
+  
+
+
+
+8
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+19.           ENTIRE  AGREEMENT.                                                      THIS AMENDMENT CONSTITUTES THE ENTIRE AGREEMENT BETWEEN THE PARTIES HERETO WITH RESPECT TO THE SUBJECT HEREOF.  FURTHERMORE, IN THIS REGARD, THIS AMENDMENT AND THE OTHER WRITTEN LOAN DOCUMENTS REPRESENT, COLLECTIVELY, THE FINAL AGREEMENT AMONG THE PARTIES THERETO AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF SUCH PARTIES.
+
+
+
+
+THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG SUCH PARTIES.
+
+
+
+
+IN WITNESS WHEREOF, this Amendment is deemed executed effective as of the date first above written.
+
+
+
+
+BORROWER:
+
+STARBOARD RESOURCES, INC.
+
+ 
+
+By:
+
+Name:           Michael J. Pawelek
+
+Title:           Chief Executive Officer
+
+ 
+
+LENDER:
+
+INDEPENDENT BANK
+
+
+
+
+
+
+
+By:
+
+Name:           Miles Matter
+
+Title:           Vice President
+
+
+
+
+The Guarantor acknowledges and approves the foregoing Amendment, confirms that its Guaranty is in full force and effect and agrees to the release of claims in paragraph 16 of the foregoing Amendment.
+
+
+
+
+GUARANTOR:
+
+ImPetro Resources, LLC
+
+ 
+
+By:
+
+Name:           Michael J. Pawelek
+
+Title:           President and Chief Executive Officer
+
+ 
+
+ImPetro Operating, LLC
+
+ 
+
+By:           ______________________________
+
+Name:           Michael J. Pawelek
+
+Title:           Chief Executive Officer
+
+ 
+
+ 
+
+
+Signature Page to Second Amendment to Credit Agreement
+
+(Starboard Resources, Inc.)
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+FORM OF TERM NOTE
+
+TERM LOAN NOTE
+
+
+
+
+$4,000,000                                                      Dallas, Texas                                                                          March 26, 2014
+
+
+
+
+FOR VALUE RECEIVED and WITHOUT GRACE, the undersigned (“Maker”, whether one or more, and if more than one, with liability hereunder being joint and several) promises to pay to the order of Independent Bank (“Payee”), at its banking quarters in Dallas, Dallas County, Texas, the amount of FOUR MILLION AND NO/100 DOLLARS ($4,000,000) or so much thereof as may be advanced against this Term Loan Note and remains unpaid pursuant to the Credit Agreement dated June 27, 2013, by and among Maker and the Lender (as amended, supplemented, restated or otherwise modified from time to time, the “Credit Agreement”), together with interest at the rates and calculated as provided in the Credit Agreement.
+
+
+
+
+Reference is hereby made to the Credit Agreement for matters governed thereby, including, without limitation, certain events which will entitle the holder hereof to accelerate the maturity of all amounts due hereunder.  Capitalized terms used but not defined in this Term Loan Note shall have the respective meanings assigned to such terms in the Credit Agreement.
+
+
+
+
+This Term Loan Note is issued pursuant to, is the “Term Loan Note” under, and is payable as provided in the Credit Agreement.  Subject to compliance with applicable provisions of the Credit Agreement, Maker may at any time pay the full amount or any part of this Term Loan Note without the payment of any premium or fee other than as required by the Credit Agreement, but such payment shall not, until this Term Loan Note is fully paid and satisfied, excuse the payment as it becomes due of any payment on this Term Loan Note provided for in the Credit Agreement.
+
+
+
+
+The date and amount, interest rate, and maturity of the Term Loan made by the Lender to the Borrower, and each payment made on account of the principal thereof, shall be recorded by the Lender on its books and, prior to any transfer of this Term Loan Note, may be endorsed by the Lender on the schedules attached hereto or any continuation thereof or on any separate record maintained by the Lender.  Failure to make any such notation or to attach a schedule shall not affect the Lender’s or the Borrower’s rights or obligations in respect of such Term Loan.
+
+
+
+
+This Term Loan Note is issued pursuant to and shall be governed by the Credit Agreement and the holder of this Term Loan Note shall be entitled to the benefits of the Credit Agreement.  This Term Loan Note shall finally mature on the Final Maturity Date applicable to the Term Loan.
+
+
+
+
+Without being limited thereto or thereby, this Term Loan Note is secured by the Security Documents.
+
+
+
+
+The Borrower, and each surety, endorser, guarantor, and other party ever liable for payment of any sums of money payable on this Term Loan Note, jointly and severally waive presentment and demand for payment, protest, notice of protest and nonpayment, and notice of the intention to accelerate, and agree that their liability on this Term Loan Note shall not be affected by any renewal or extension in the time of payment hereof, by any indulgences, or by any release or change in any security for the payment of this Term Loan Note, and hereby consent to any and all renewals, extensions, indulgences, releases, or changes, regardless of the number of such renewals, extensions, indulgences, releases, or changes.
+
+
+
+
+THIS TERM LOAN NOTE SHALL BE GOVERNED AND CONTROLLED BY THE LAWS OF THE STATE OF TEXAS, WITHOUT GIVING EFFECT TO PRINCIPLES THEREOF RELATING TO CONFLICTS OF LAW.
+
+
+
+
+Starboard Resources, Inc.
+
+By:           ________________________________
+
+Name:           Michael J. Pawelek
+
+Title:           Chief Executive Officer
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+1
+
+
+Second Amendment to Credit Agreement – Starboard Resources, Inc. /Form of Term Note
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+LOANS AND PAYMENT OF
+
+PRINCIPAL AND INTEREST
+
+
+
+
+
+
+
+
+Date
+
+
+Amount of Loan
+
+
+Principal Paid or Prepaid
+
+
+Amount of Interest Paid
+
+
+Unpaid Principal Balance
+
+
+Interest Paid to
+
+
+
+
+ 
+
+
+
+
+  
+
+  
+
+
+
+ 
+
+
+
+
+  
+
+  
+
+
+
+ 
+
+
+
+
+  
+
+  
+
+
+
+ 
+
+
+
+
+  
+
+  
+
+
+
+ 
+
+
+
+
+  
+
+  
+
+
+
+ 
+
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+  
+
+
+
+
+2
+
+
+Second Amendment to Credit Agreement – Starboard Resources, Inc. /Form of Term Note
+
+
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+FORM OF NOTICE OF TERM LOAN BORROWING
+
+
+
+
+March 26, 2014
+
+
+
+
+Independent Bank
+
+2101 Cedar Springs Road, Suite 725
+
+Dallas, Texas 75201
+
+Attention: Energy Lending
+
+Facsimile: 214/740-9400
+
+
+
+
+Re:           Credit Agreement dated June 27, 2013, by and between Independent Bank, as lender, and Starboard Resources, Inc., as borrower, (as amended, restated, or supplemented from time to time, the “Credit Agreement”).  Terms defined in the Credit Agreement are used herein as therein defined unless otherwise defined herein.
+
+
+
+
+Ladies and Gentlemen:
+
+
+
+
+Pursuant to the Credit Agreement, the Borrower hereby makes the Advance request indicated below:
+
+
+
+
+(a)           Amount of Term Loan Borrowing requested: $4,000,000
+
+(b)           Requested Borrowing Date: March 26, 2014
+
+(c)           Request funding into Independent Bank Account Number: _________________
+
+
+
+
+The undersigned individual certifies that [s]he is the_____________________________ of the Borrower, has obtained all consents necessary, and as such [s]he is authorized to execute this request on behalf of the Borrower.  The undersigned individual further certifies, represents, and warrants on behalf of the Borrower, that the Borrower is entitled to receive the requested borrowing under the terms and conditions of the Credit Agreement and that, to the best knowledge of such undersigned individual, there exists as of the date hereof neither a Default nor an Event of Default under the Credit Agreement.
+
+
+
+
+Each capitalized term used but not defined herein shall have the meaning assigned to such term in the Credit Agreement.
+
+
+
+
+Very truly yours,
+
+
+
+
+
+
+
+_____________________________________
+
+Michael J. Pawelek, Chief Executive Officer of
+
+Starboard Resources, Inc.
+
+
+
+
+
+
+
+1
+
+
+Second Amendment to Credit Agreement – Starboard Resources, Inc./Form of Notice of Term Loan Borrowing
+
+
+
+
+
+
+ 
+
+
+

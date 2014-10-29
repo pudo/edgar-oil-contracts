@@ -1,0 +1,326 @@
+
+EX-10.1
+2
+ex10-1.htm
+EXHIBIT 10.1
+
+
+
+    ex10-1.htm
+    
+    
+    
+
+
+Exhibit 10.1
+
+ 
+
+BRITEWATER INTERNATIONAL, INC.
+
+
+ 
+
+2012 EQUITY COMPENSATION PLAN
+
+ 
+
+The purpose of the BriteWater International, Inc. 2012 Equity Compensation Plan (the “Plan”) is to provide designated employees of BriteWater International, Inc. (the “Company”) and of its parent and subsidiaries with the opportunity to receive grants of stock options.  The Company believes that the Plan will encourage the participants to contribute materially to the growth of the Company, thereby benefiting the Company’s shareholders, and will align the economic interests of the participants with those of the shareholders.  The Plan has been adopted by the Board of Directors of the Company (the “Board”) and by the sole shareholder of the Company on April 5, 2012.
+
+ 
+
+1.           Administration
+
+ 
+
+(a)           Compensation Committee. The Plan shall be administered and interpreted by the Compensation Committee of the HKN Board.
+
+ 
+
+(b)           Committee Authority. The Committee shall have the sole authority to (i) determine the individuals to whom grants shall be made under the Plan, (ii) determine the type, size and terms of the grants to be made to each such individual and (iii) determine the time when the grants will be made and the duration of any applicable exercise or restriction period, including the criteria for exercisability and the acceleration of exercisability.  The Committee shall also have full power and authority to administer and interpret the Plan, to make factual determinations and to adopt or amend such rules, regulations, agreements and instruments for implementing the Plan and for the conduct of its business as it deems necessary or advisable, in its sole discretion. The Committee’s interpretations of the Plan and all determinations made by the Committee pursuant to the powers vested in it hereunder shall be conclusive and binding on all persons having any interest in the Plan or in any awards granted hereunder. All powers of the Committee shall be executed in its sole discretion, in the best interest of the Company, not as a fiduciary, and in keeping with the objectives of the Plan and need not be uniform as to similarly situated individuals.
+
+ 
+
+2.           Grants.  Awards under the Plan will consist of grants of non-qualified stock options as described in Section 5 (“Non-Qualified Stock Options”) (hereinafter referred to as “Grants”).  All Grants shall be subject to the terms and conditions set forth herein and to such other terms and conditions consistent with this Plan as the Committee deems appropriate and as are specified in writing by the Committee to the individual in a grant instrument (the “Grant Instrument”) or an amendment to the Grant Instrument.  The Committee shall approve the form and provisions of each Grant Instrument. Grants under a particular Section of the Plan need not be uniform as among the grantees.
+
+ 
+
+3.           Shares Subject to the Plan
+
+ 
+
+(a)           Shares Authorized. Subject to the adjustment specified below, the aggregate number of shares of common stock of the Company (“Company Stock”) that may be issued or transferred under the Plan is 100,000 shares. The shares may be authorized but unissued shares of Company Stock or reacquired shares of Company Stock.  If and to the extent Options granted under the Plan terminate, expire, or are canceled, forfeited, exchanged or surrendered without having been exercised, the shares subject to such Grants shall again be available for purposes of the Plan.
+
+ 
+
+
+
+  
+
+
+
+ 
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+(b)           Adjustments.  If there is any change in the number or kind of shares of Company Stock outstanding (i) by reason of a stock dividend, spinoff, recapitalization, stock split, or combination or exchange of shares, (ii) by reason of a merger, reorganization or consolidation in which the Company is the surviving corporation, (iii) by reason of a reclassification or change in par value, or (iv) by reason of any other extraordinary or unusual event affecting the outstanding Company Stock as a class without the Company’s receipt of consideration, or if the value of outstanding shares of Company Stock is substantially reduced as a result of a spinoff or the Company’s payment of an extraordinary dividend or distribution, the maximum number of shares of Company Stock available for Grants, the maximum number of shares of Company Stock that any individual participating in the Plan may be granted in any year, the number of shares covered by outstanding Grants, and the price per share or the applicable market value of such Grants shall be appropriately adjusted by the Committee to reflect any increase or decrease in the number of issued shares of Company Stock to preclude, to the extent practicable, the enlargement or dilution of rights and benefits under such Grants; provided, however, that any fractional shares resulting from such adjustment shall be eliminated. Any adjustments determined by the Committee shall be final, binding and conclusive.
+
+ 
+
+4.           Eligibility for Participation
+
+ 
+
+(a)           Eligible Persons. All employees of the Company and its parent and subsidiaries (“Employees”), including Employees who are officers or members of the Board shall be eligible to participate in the Plan.
+
+ 
+
+(b)           Selection of Grantees. The Committee shall select the Employees to receive Grants and shall determine the number of shares of Company Stock subject to a particular Grant in such manner as the Committee determines. Employees who receive Grants under this Plan shall hereinafter be referred to as “Grantees.”
+
+ 
+
+5.           Granting of Options
+
+ 
+
+(a)           Number of Shares. The Committee shall determine the number of shares of Company Stock that will be subject to each Grant of Options to Employees.
+
+ 
+
+(b)           Type of Option and Price.
+
+ 
+
+(i)           The Committee may only grant Non-Qualified Stock Options hereunder that are not intended to qualify as “incentive stock options” within the meaning of section 422 of the Internal Revenue Code of 1986, as amended (the “Code”).
+
+ 
+
+
+
+  
+
+
+
+2
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+(ii)          The purchase price (the “Exercise Price”) of Company Stock subject to an Option shall be determined by the Committee.  Unless otherwise determined by the Committee, the Exercise Price in all cases shall be equal to, or greater than, the Fair Market Value of a share of Company Stock on the date the Option is granted.
+
+ 
+
+(iii)         So long as the Company Stock is not publicly traded, Fair Market Value per share shall be as determined by the Committee.  If the Company Stock is publicly traded, Fair Market Value per share shall be determined as follows: (x) if the principal trading market for the Company Stock is a securities exchange, the last reported sale price thereof on the relevant date or (if there were no trades on that date) the latest preceding date upon which a sale was reported, or (y) if the Company Stock is not principally traded on such exchange or market, the mean between the last reported “bid” and “asked” prices of Company Stock on the relevant date, as reported on such exchange or market or, if not so reported, as reported in a customary financial reporting service, as applicable and as the Committee determines. If the Company Stock is not publicly traded or, if publicly traded, is not subject to reported transactions or “bid” or “asked” quotations as set forth above, the Fair Market Value per share shall be as determined by the Committee.
+
+ 
+
+(c)           Option Term. The Committee shall determine the term of each Option. The term of any Option shall not exceed ten years from the date of grant.
+
+ 
+
+(d)           Exercisability of Options. Options shall become exercisable in accordance with such terms and conditions, consistent with the Plan, as may be determined by the Committee and specified in the Grant Instrument or an amendment to the Grant Instrument. The Committee may accelerate the exercisability of any or all outstanding Options at any time for any reason.
+
+ 
+
+(e)           Termination of Employment, Disability or Death.
+
+ 
+
+(i)           Except as provided below, an Option may only be exercised while the Grantee is employed by the Company as an Employee. In the event that a Grantee ceases to be employed by the Company for any reason other than a “disability” or death, any Option which is otherwise exercisable by the Grantee shall terminate unless exercised within 90 days after the date on which the Grantee ceases to be employed by the Company (or within such other period of time as may be specified by the Committee), but in any event no later than the date of expiration of the Option term. Any of the Grantee’s Options that are not otherwise exercisable as of the date on which the Grantee ceases to be employed by the Company shall terminate as of such date. Notwithstanding the foregoing provisions of this Section, in the event a Grant issued under the Plan is subject to Section 409A of the Code, then, to the extent necessary to comply with the requirements of Section 409A of the Code, a Grantee shall be considered to cease employment with the Company for any reason other than a disability or death, provided that such employment shall cease in accordance with the definition of “separation from service” provided for under Section 409A of the Code and the regulations or other guidance issued thereunder.
+
+ 
+
+
+
+  
+
+
+
+3
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+(ii)          In the event the Grantee ceases to be employed by the Company because the Grantee is “disabled”, any Option which is otherwise exercisable by the Grantee shall terminate unless exercised within one year after the date on which the Grantee ceases to be employed by the Company (or within such other period of time as may be specified by the Committee), but in any event no later than the date of expiration of the Option term. Any of the Grantee’s Options which are not otherwise exercisable as of the date on which the Grantee ceases to be employed by the Company shall terminate as of such date.
+
+ 
+
+(iii)         If the Grantee dies while employed by the Company or within 90 days after the date on which the Grantee ceases to be employed on account of a termination of employment specified in Section 5(e)(i) above (or within such other period of time as may be specified by the Committee), any Option that is otherwise exercisable by the Grantee shall terminate unless exercised within one year after the date on which the Grantee ceases to be employed by the Company (or within such other period of time as may be specified by the Committee), but in any event no later than the date of expiration of the Option term. Any of the Grantee’s Options that are not otherwise exercisable as of the date on which the Grantee ceases to be employed by the Company shall terminate as of such date.
+
+ 
+
+(iv)         As used herein:
+
+ 
+
+(A)           “Employed by the Company” shall mean employment or service as an Employee (so that, for purposes of exercising Options, a Grantee shall not be considered to have terminated employment until the Grantee ceases to be an Employee), unless the Committee determines otherwise.
+
+ 
+
+(B)           “Disability” shall mean a Grantee’s becoming disabled within the meaning of section 22(e)(3) of the Code. Notwithstanding the foregoing provisions of this Section 5(e)(iv)(B), in the event a Grant issued under the Plan is subject to Section 409A of the Code, then, in lieu of the foregoing definition and to the extent necessary to comply with the requirements of Section 409A of the Code, the definition of “disability” for purposes of such Grant shall be the definition of “disability” provided for under Section 409A of the Code and the regulations or other guidance issued thereunder.
+
+ 
+
+(v)           Notwithstanding anything to the contrary in this Plan, (i) if upon the date of a Grantee’s termination of employment with the Company, the Grantee is a “specified employee” within the meaning of Section 409A of the Code, and the delay of any amounts otherwise payable under this Plan as a result of the Grantee’s termination of employment is necessary in order to prevent any accelerated or additional tax to Grantee under Section 409A of the Code, then the Company will delay the payment of any such amounts hereunder until the date that is six (6) months following the date of Grantee’s termination of employment with the Company at which time any such delayed amounts will be paid to Grantee in a single lump sum.
+
+ 
+
+
+
+  
+
+
+
+4
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+(f)           Exercise of Options.  A Grantee may exercise an Option that has become exercisable, in whole or in part, by delivering a notice of exercise to the Company with payment of the Exercise Price. The Grantee shall pay the Exercise Price for an Option in cash or by such other method as the Committee may approve, including payment through a broker in accordance with procedures permitted by Regulation T of the Federal Reserve Board. The Grantee shall pay the Exercise Price and the amount of any withholding tax due at the time of exercise.
+
+ 
+
+6.           Withholding of Taxes. All Grants under the Plan shall be subject to applicable federal (including FICA), state and local tax withholding requirements.  The Company shall have the right to deduct from all Grants paid in cash, or from other wages paid to the Grantee, any federal, state or local taxes required by law to be withheld with respect to such Grants.
+
+ 
+
+7.           Transferability of Grants.  Except as provided below, only the Grantee may exercise rights under a Grant during the Grantee’s lifetime.  A Grantee may not transfer those rights except by will or by the laws of descent and distribution. When a Grantee dies, the personal representative or other person entitled to succeed to the rights of the Grantee (“Successor Grantee”) may exercise such rights.  A Successor Grantee must furnish proof satisfactory to the Company of his or her right to receive the Grant under the Grantee’s will or under the applicable laws of descent and distribution.
+
+ 
+
+8.           Amendment and Termination of the Plan
+
+ 
+
+(a)           Amendment.  The Board may amend or terminate the Plan at any time; provided, however, that the Board shall not amend the Plan without shareholder approval if the Committee determines that such approval is required by applicable law or regulation.
+
+ 
+
+(b)           Termination of Plan.  The Plan shall terminate on the day immediately preceding the tenth anniversary of its effective date, unless the Plan is terminated earlier by the Board or is extended by the Board.
+
+ 
+
+(c)           Termination and Amendment of Outstanding Grants.  A termination or amendment of the Plan that occurs after a Grant is made shall not materially impair the rights of a Grantee unless the Grantee consents. The termination of the Plan shall not impair the power and authority of the Committee with respect to an outstanding Grant. Whether or not the Plan has terminated, an outstanding Grant may be amended by agreement of the Company and the Grantee consistent with the Plan.
+
+ 
+
+(d)           Governing Document.  The Plan shall be the controlling document.  No other statements, representations, explanatory materials or examples, oral or written, may amend the Plan in any manner. The Plan shall be binding upon and enforceable against the Company and its successors and assigns.
+
+ 
+
+
+
+  
+
+
+
+5
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+9.           Funding of the Plan.  This Plan shall be unfunded. The Company shall not be required to establish any special or separate fund or to make any other segregation of assets to assure the payment of any Grants under this Plan.  In no event shall interest be paid or accrued on any Grant, including unpaid installments of Grants.
+
+ 
+
+10.         Rights of Participants.  Nothing in this Plan shall entitle any Employee or other person to any claim or right to be granted a Grant under this Plan.  Neither this Plan nor any action taken hereunder shall be construed as giving any individual any rights to be retained by or in the employ of the Company or any other employment rights.
+
+ 
+
+11.         No Fractional Shares.  No fractional shares of Company Stock shall be issued or delivered pursuant to the Plan or any Grant.  The Committee shall determine whether cash, other awards or other property shall be issued or paid in lieu of such fractional shares or whether such fractional shares or any rights thereto shall be forfeited or otherwise eliminated.
+
+ 
+
+12.         Miscellaneous
+
+ 
+
+(a)           Grants in Connection with Corporate Transactions and Otherwise. Nothing contained in this Plan shall be construed to (i) limit the right of the Committee to make Grants under this Plan in connection with the acquisition, by purchase, lease, merger, consolidation or otherwise, of the business or assets of any corporation, firm or association, including Grants to employees thereof who become Employees of the Company, or for other proper corporate purposes, or (ii) limit the right of the Company to grant stock options or make other awards outside of this Plan.  Without limiting the foregoing, the Committee may make a Grant to an employee of another corporation who becomes an Employee by reason of a corporate merger, consolidation, acquisition of stock or property, reorganization or liquidation involving the Company or any of its subsidiaries in substitution for a stock option or restricted stock grant made by such corporation.  The terms and conditions of the substitute grants may vary from the terms and conditions required by the Plan and from those of the substituted stock incentives.  The Committee shall prescribe the provisions of the substitute grants.
+
+ 
+
+(b)           Compliance with Law.  The Plan, the exercise of Options and the obligations of the Company to issue or transfer shares of Company Stock under Grants shall be subject to all applicable laws and to approvals by any governmental or regulatory agency as may be required.  With respect to persons subject to section 16 of the Securities Exchange Act of 1934, it is the intent of the Company that the Plan and all transactions under the Plan comply with all applicable provisions of Rule 16b-3 or its successors under such statute.  The Committee may revoke any Grant if it is contrary to law or modify a Grant to bring it into compliance with any valid and mandatory government regulation.  The Committee may also adopt rules regarding the withholding of taxes on payments to Grantees.  The Committee may, in its sole discretion, agree to limit its authority under this Section.
+
+ 
+
+
+
+  
+
+
+
+6
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+(c)           Governing Law.  The validity, construction, interpretation and effect of the Plan and Grant Instruments issued under the Plan shall exclusively be governed by and determined in accordance with the law of State of Delaware.
+
+ 
+
+15.           Section 409A.  To the extent this Plan provides for nonqualified deferred compensation, it is intended to satisfy the provisions of Section 409A of the Code and related regulations and Treasury pronouncements.  If any provision herein results in the imposition of an excise tax on any Grantee under Section 409A of the Code, any such provision will be reformed to avoid any such imposition in such manner as the Committee determines is appropriate to comply with Section 409A of the Code.
+
+ 
+
+ 
+
+7
+
+
+
+

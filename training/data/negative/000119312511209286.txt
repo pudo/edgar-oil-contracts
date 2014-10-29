@@ -1,0 +1,1341 @@
+
+EX-10.1
+2
+dex101.htm
+CRUDE OIL PURCHASE AGREEMENT
+
+
+CRUDE OIL PURCHASE AGREEMENT
+
+ 
+
+ Exhibit 10.1  CRUDE OIL PURCHASE AGREEMENT  by and between 
+PLAINS EXPLORATION & PRODUCTION COMPANY  and  CONOCOPHILLIPS COMPANY 
+Dated as of January 1, 2012 
+
+
+
+
+ TABLE OF CONTENTS 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ARTICLE I  DEFINITIONS AND CONSTRUCTION
+   
+
+
+
+
+
+ 1.1
+  
+Definitions
+  
+ 
+1
+  
+
+ 1.2
+  
+Construction
+  
+ 
+3
+  
+
+
+
+
+ ARTICLE II  QUANTITY
+  
+
+
+
+
+
+
+
+
+ 2.1
+  
+Delivery Amount
+  
+ 
+4
+  
+
+ 2.2
+  
+Disclaimer of Implied Warranties
+  
+ 
+9
+  
+
+
+
+
+ ARTICLE III  PRICING/TAXES
+  
+
+
+
+
+
+
+
+
+ 3.1
+  
+Delivery Amount Price
+  
+ 
+9
+  
+
+ 3.2
+  
+Adjustments
+  
+ 
+10
+  
+
+ 3.3
+  
+Taxes
+  
+ 
+13
+  
+
+
+
+
+ ARTICLE IV  PAYMENT
+  
+
+
+
+
+
+
+
+
+ 4.1
+  
+General
+  
+ 
+14
+  
+
+ 4.2
+  
+Interest
+  
+ 
+14
+  
+
+ 4.3
+  
+Accounting Address
+  
+ 
+14
+  
+
+
+
+
+ ARTICLE V  TITLE WARRANTIES AND TRANSFER
+  
+
+
+
+
+
+
+
+
+ 5.1
+  
+General
+  
+ 
+15
+  
+
+ 5.2
+  
+Specific Fields
+  
+ 
+15
+  
+
+
+
+
+ ARTICLE VI  MEASUREMENT
+  
+
+
+
+
+
+
+
+
+ 6.1
+  
+Measurement
+  
+ 
+15
+  
+
+ 6.2
+  
+Meters and Tests
+  
+ 
+16
+  
+
+
+
+
+ ARTICLE VII  TERM AND TERMINATION
+  
+
+
+
+
+
+
+
+
+ 7.1
+  
+Term
+  
+ 
+16
+  
+
+ 7.2
+  
+Suspension Rights
+  
+ 
+16
+  
+
+ 7.3
+  
+Termination Rights
+  
+ 
+17
+  
+
+
+
+
+ ARTICLE VIII  REPRESENTATIONS, WARRANTIES AND OTHER COVENANTS
+  
+
+
+
+
+
+
+
+
+ 8.1
+  
+PXP Representations and Warranties
+  
+ 
+17
+  
+
+ 8.2
+  
+CoP Representations and Warranties
+  
+ 
+18
+  
+
+ 8.3
+  
+Covenants
+  
+ 
+20
+  
+   i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ARTICLE IX  FINANCIAL MATTERS
+   
+
+
+
+
+
+ 9.1
+  
+Credit Requirements
+  
+ 
+20
+  
+
+ 9.2
+  
+Financial Responsibility
+  
+ 
+21
+  
+
+
+
+
+ ARTICLE X  DISPUTES
+  
+
+
+
+
+
+
+
+
+ 10.1
+  
+Pricing Disputes
+  
+ 
+21
+  
+
+ 10.2
+  
+Other Disputes
+  
+ 
+23
+  
+
+
+
+
+ ARTICLE XI  MISCELLANEOUS
+  
+
+
+
+
+
+
+
+
+ 11.1
+  
+Notices
+  
+ 
+23
+  
+
+ 11.2
+  
+Confidentiality
+  
+ 
+24
+  
+
+ 11.3
+  
+Assignment
+  
+ 
+25
+  
+
+ 11.4
+  
+Force Majeure
+  
+ 
+25
+  
+
+ 11.5
+  
+Waiver
+  
+ 
+25
+  
+
+ 11.6
+  
+Entire Agreement
+  
+ 
+25
+  
+
+ 11.7
+  
+Control
+  
+ 
+26
+  
+
+ 11.8
+  
+Severability
+  
+ 
+26
+  
+
+ 11.9
+  
+Audit
+  
+ 
+26
+  
+
+ 11.10
+  
+Safety
+  
+ 
+27
+  
+
+ 11.11
+  
+Business Practices
+  
+ 
+27
+  
+
+ 11.12
+  
+Governing Law
+  
+ 
+27
+  
+
+ 11.13
+  
+Entirety of Agreement and Amendments
+  
+ 
+28
+  
+
+ 11.14
+  
+Headings
+  
+ 
+28
+  
+
+ 11.15
+  
+General Provisions
+  
+ 
+28
+  
+
+ 11.16
+  
+Further Assurances
+  
+ 
+28
+  
+
+ 11.17
+  
+Time and Performance of the Essence
+  
+ 
+28
+  
+
+ 11.18
+  
+No Third Party Beneficiaries
+  
+ 
+28
+  
+
+ 11.19
+  
+Hazards and Risks
+  
+ 
+28
+  
+
+ 11.20
+  
+Inglewood
+  
+ 
+28
+  
+
+ 11.21
+  
+Arroyo Grande Pipeline
+  
+ 
+28
+  
+
+ 11.22
+  
+Public Announcements
+  
+ 
+29
+  
+
+ 11.23
+  
+Alternate Transportation from Point Pedernales
+  
+ 
+29
+  
+ EXHIBITS   
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 1
+  
+SUBJECT FIELDS
+
+EXHIBIT 2
+  
+PXP ESTIMATED AMOUNT NOTIFICATION
+
+EXHIBIT 3
+  
+BENCHMARK PRICE/SPECIFIED GRAVITY
+
+EXHIBIT 4
+  
+POSTING GROUP/SUBJECT FIELD PRICING DIFFERENTIALS
+
+EXHIBIT 5
+  
+ILLUSTRATIVE EXAMPLE OF MONTHLY PRICE CALCULATION FOR ***** AND *****
+
+   ii 
+
+
+
+
+
+
+ CRUDE OIL PURCHASE AGREEMENT  This Crude Oil Purchase Agreement (this Agreement) dated as of January 1, 2012, is entered into between Plains Exploration & Production Company
+(PXP) and ConocoPhillips Company (CoP). PXP and CoP are sometimes collectively referred to herein as the Parties or individually as a Party. 
+ARTICLE I 
+DEFINITIONS AND CONSTRUCTION  1.1 Definitions. When used in the Agreement, the terms listed below and any grammatical variation thereof have the following meanings: 
+Actual Pipeline Transport Cost means the published pipeline tariff rate for the relevant transportation segment on a
+common carrier pipeline excluding any quality-based adjustment but including any loss allowance and/or, if applicable, the actual cost of transportation over the relevant transportation segment on a proprietary pipeline. 
+API means the American Petroleum Institute.  Arbitrator shall have the meaning set forth in Section 10.1(a).  Argus means Argus Americas Crude Report, as currently published by Argus Media Ltd., or such replacement publication as the Parties may agree to in writing if such publication ceases to be
+published or such publication ceases to provide the information to be obtained therefrom pursuant to this Agreement. 
+ASME means the American Society of Mechanical Engineers. 
+ASTM means the American Society of Testing Materials. 
+Average Delivery Amount shall have the meaning set forth in Section 2.1(c). 
+Barrel means 42 U.S. gallons of 231 cubic inches per gallon corrected to 60 degrees Fahrenheit. 
+BS&W means basic sediment and water.  Business Day shall mean any calendar day other than a Saturday, Sunday or other calendar day on which banks are authorized to be closed in Texas. 
+Day means any complete 24-hour period during the term of this Agreement, commencing at 7:00 a.m. Pacific Time on a
+given calendar day and ending at 6:59 a.m. Pacific Time on the succeeding calendar day. The reference date for a given Day shall be the calendar day on which such Day begins. 
+   Page 1
+
+
+
+
+
+
+ Delivery Amount shall have the meaning set forth in Section 2.1(a).
+ Delivery Amount Price shall have the meaning set forth in Section 3.1(a). 
+Delivery Month means each complete monthly period during the term of this Agreement, commencing at 7:00 a.m. Pacific
+Time on the first calendar day of a given calendar month and ending at 6:59 a.m. Pacific Time on the first calendar day of the following calendar month. The reference date for a given Delivery Month shall be the calendar month in which such
+Delivery Month begins.  Estimated Amount shall have the meaning set forth in Section 2.1(b).
+ Event of Default shall mean any of the following: 
+(i) failure to make any payment within five (5) Business Days of when due under this Agreement; 
+(ii) failure by PXP to deliver the Delivery Amount for ten (10) consecutive calendar days beyond the time that such performance is
+due where such failure is not due to Force Majeure;  (iii) failure by CoP to provide financial assurance pursuant to
+Section 9.1 of this Agreement;  (iv) a material breach by a Party of any other covenant or provision of this Agreement by
+such Party;  (v) initiation of proceedings (voluntarily or involuntarily) by or with respect to a Party under the bankruptcy or
+insolvency laws of any jurisdiction, which proceedings are not dismissed within sixty (60) calendar days after filing; written admission of inability to pay debts generally as they come due; the making of an assignment for the benefit of
+creditors; an application of reappointment of a receiver, custodian or trustee; or the passing of a resolution for winding up or liquidation by or on behalf of a Party; or  (vi) any representation or warranty made in this Agreement by a Party being false or misleading in any material respect at the time it was made or deemed to have been made. 
+Force Majeure means any war, riots, insurrections, fire, explosions, sabotage, strikes, and other labor or industrial
+disturbances, acts of God or the elements, governmental laws or regulations, disruption or breakdown of production or transportation facilities, delays by unaffiliated pipeline carriers in receiving and delivering Sales Volumes tendered, or any
+other event reasonably beyond the control of a Party claiming such Force Majeure, but does not include mere economic loss or hardship to such Party or the shut down of facilities that are no longer considered economic to operate. 
+   Page 2
+
+
+
+
+
+
+ Major Poster means any of Chevron Corporation, Exxon Mobil Corporation,
+CoP (as published under its Union 76 posting), and Shell Trading (US) Company, or in each case such successor thereto or affiliate thereof or such joint venture with such company or its affiliate that provides crude oil postings. 
+***** 
+New Field Pre-Agreement Period shall have the meaning set forth in Section 2.1(d). 
+New Fields shall have the meaning set forth in Section 2.1(d). 
+New Volume Pre-Agreement Period shall have the meaning set forth in Section 2.1(e). 
+New Volumes shall have the meaning set forth in Section 2.1(e). 
+***** 
+Posting Group shall mean any one of the three groups of Subject Fields having the same designated Posting
+Group in Exhibit 4, which Posting Group shall have the name so designated in Exhibit 4.  Rules shall
+have the meaning set forth in Section 10.1(a).  Sales Volumes shall mean hydrocarbons in a liquid state
+under ordinary production and transportation operating conditions (e.g. not including natural gas or liquefied petroleum gas) produced and saved and not combined with other hydrocarbons except when such combining occurs in connection with ordinary
+or customary production, gathering or transportation operations.  Set Aside Volume shall have the meaning
+set forth in Section 2.1(c).  Subject Fields means, collectively (i) the fields and/or leases
+described in Exhibit 1 to this Agreement, and (ii) the fields and leases added to this Agreement pursuant to Section 2.1(d).  Year means a period of 12 consecutive calendar months according to the Gregorian calendar, beginning on the first calendar day of the first such calendar month and ending on the last
+calendar day of the twelfth such calendar month.  1.2 Construction. This agreement has been prepared jointly by the Parties with
+the advice and participation of counsel, and shall not be interpreted against one Party in favor of the other. 
+   Page 3
+
+
+
+
+
+
+ ARTICLE II  QUANTITY  2.1 Delivery Amount. 
+(a) Subject to the terms and conditions hereof and subject to PXPs rights under Section 2.1(c), PXP agrees to sell and deliver
+to CoP, and CoP agrees to receive and purchase from PXP, one hundred percent (100%) of PXPs owned and controlled interest in Sales Volumes produced from the Subject Fields, which production is currently estimated to be 45,000 Barrels per
+calendar day (the Delivery Amount).  (b) Not later than ten (10) calendar days prior to the
+commencement of each Delivery Month, PXP will notify CoP of its then current good faith, but non-binding, estimate of the Delivery Amount for such Delivery Month and the Delivery Month immediately thereafter, which notice shall generally be in the
+form of Exhibit 2 attached hereto (the Estimated Amount).  (c) Set Aside Volume. Notwithstanding
+Section 2.1(a), PXP shall be entitled, in accordance with the procedures set forth below, to retain a portion of the Delivery Amount and exclude same from this Agreement (the Set Aside Volume) for the period of time such Set
+Aside Volume is in effect as permitted by this Agreement. Upon agreement of the Parties pursuant to Section 2.1(c)(ii), or upon delivery of the Set Aside Volume Election pursuant to Section 2.1(c)(iii), such Set Aside Volume shall be
+excluded from this Agreement and CoP shall have no further rights under this Agreement with respect thereto, but such exclusion shall be only for the period of time such Set Aside Volume is in effect as permitted by this Agreement. The procedures
+for, and restrictions on, retaining a Set Aside Volume and excluding same from this Agreement are as follows:  (i) PXP shall
+have the right to notify CoP in writing no later than June 1 of any given calendar Year if it desires to have any Set Aside Volume (a Preliminary Set Aside Notice). Each such Preliminary Set Aside Notice shall set forth
+(A) the percentage (no greater than 10%) of the Delivery Amount that PXP desires to retain (the Election Percentage), (B) a calculation estimating the amount, in Barrels per Day, that such percentage is anticipated to
+represent (calculated in accordance with. Section 2.1(c)(iv) and (v)), (C) the Subject Fields from which such Set Aside Volume will be produced, and (D) the Delivery Months that will be subject to such Set Aside Volume. 
+(ii) Upon CoPs receipt of a Preliminary Set Aside Notice, the Parties shall endeavor in good faith to negotiate the terms and
+conditions upon which CoP would purchase such Set Aside Volume.  (iii) With respect to any given calendar Year in which PXP
+provides CoP with a Preliminary Set Aside Notice, if the Parties fail to agree upon the terms and conditions upon which CoP will purchase such Set Aside Volume pursuant to Section 2.1(c)(ii) on or before June 30 of such Year, then PXP
+shall have the right, on or before October 1 of such Year, to notify CoP in writing of its intent to sell such Set Aside Volume to a third party (a Set Aside Volume Election). The Set Aside Volume Election may only be made as
+to the same Election Percentage, Subject Fields, and Delivery Months as set forth in the Preliminary Set Aside Notice, but shall contain any updated estimated amount, in Barrels per Day, that such Election Percentage is anticipated to represent
+(calculated in accordance with Section 2.1 (c)(iv) and (v)). 
+   Page 4
+
+
+
+
+
+
+ (iv) In estimating the Set Aside Volume, in Barrels per Day, for purposes of the Preliminary
+Set Aside Notice and the Set Aside Volume Election, PXP shall multiply the Election Percentage in connection therewith times the average Daily Delivery Amount for the immediately preceding three (3) Delivery Months for which such information is
+available, rounding such product to the nearest 1,000 Barrels per Day. The actual Set Aside Volume, in Barrels per Day, for a given delivery Year shall equal the Election Percentage elected for such delivery Year multiplied by the Average Delivery
+Amount for the Year immediately preceding such delivery Year rounded to the nearest 1,000 Barrels per Day. For purposes of this Section, the term Average Delivery Amount shall, for a given Year, mean an amount calculated as follows:
+ (A) The Parties shall calculate an average of the Daily Delivery Amounts for each of the Delivery Months of June through
+November of such Year.  (B) The Parties shall determine the four Delivery Months of such six Delivery Months that have the
+highest average Daily Delivery Amount calculated pursuant to clause (A).  (C) The Parties shall calculate the average Daily
+Delivery Amount of all Days during the four Delivery Months determined pursuant to clause (B).  (D) The average Daily Delivery
+Amount calculated pursuant to clause (C) shall be the Average Delivery Amount for such Year.  In addition, in
+making a calculation for a Set Aside Volume, no deduction from the gross amount of average Daily Delivery Amount shall be made for any previous Set Aside Volume.  (v) In calculating the average Daily Delivery Amount for a given Delivery Month for purposes of Section 2.1 (c)(iv), the Parties 
+(A) shall not include Delivery Amounts attributable to Subject Fields or interests in Sales Volumes, which Subject Fields or interests in
+Sales Volumes were sold by PXP at any time during the period commencing as of the first Day from which such average is being calculated and ending on the last Day prior to the commencement of the relevant delivery Year, and 
+(B) shall include an amount, in Barrels per Day, normalized throughout the period over which such average is being calculated, equal to
+the average Daily Delivery Amounts attributable to Subject Fields or 
+   Page 5
+
+
+
+
+
+
+ 
+interests in Sales Volumes, which Subject Fields or interests in Sales Volumes were acquired by PXP at any time during the period commencing as of the first Day from which such average is being
+calculated and ending on the last Day prior to the commencement of the relevant delivery Year.  (vi) Notwithstanding the
+foregoing, the Set Aside Volume may not include amounts of Sales Volumes from Subject Fields belonging to the Posting Group referred to as Midway Sunset in Exhibit 4 in excess of 25% of the average Daily Delivery Amount (calculated in accordance
+with Section 2.1(c)(v) and with respect to the periods required pursuant to Section 2.1(c)(iv)) attributable to all Subject Fields belonging to such Posting Group.  (d) Additional Subject Fields. To the extent not otherwise restricted or prohibited by agreements existing or effective at the time of such acquisition or development, and in all cases subject to
+such agreements, all fields and leases in the State of California, or located in California state waters or Federal waters offshore of the State of California, that PXP acquires or develops during the term of this Agreement shall constitute Subject
+Fields effective as of the date of such acquisition or development, provided that PXP gives written notice of the pending acquisition or development of such a field or lease as soon as possible prior to its acquisition or development and CoP has
+thirty (30) Days from receipt of such notice to notify PXP in writing whether CoP elects to reject said field or lease based on its determination that notwithstanding its exercise of commercially reasonable efforts it will not be able to
+process the Sales Volume expected to be produced from such field or lease at, and/or transport such Sales Volume to, one of CoPs California refineries, in which case such field or lease shall not be deemed to be or have been a Subject
+Field. If CoP fails to respond in such time period the field or lease will be deemed to be a Subject Field. The pricing and delivery location for Delivery Amounts produced from such additional fields and leases shall be as mutually
+agreed by the Parties or as otherwise determined pursuant hereto. For purposes of the foregoing sentence, with respect to fields and leases located within the geographic boundaries of existing Subject Fields or that are otherwise considered by the
+applicable regulatory authority to be a part of a field included within a current Subject Field, and provided that the Sales Volumes produced from such fields and leases is of Substantially the Same Quality as that produced from such Subject Field,
+then the Parties shall be deemed to have agreed that the pricing and delivery location for Delivery Amounts produced from such fields and leases shall be the same as that for such Subject Field. For purposes of this Agreement, Sales Volumes shall
+have Substantially the Same Quality as other Sales Volumes if its sulfur content does not vary from the other by more than 1% by weight, its total acid number (or TAN) does not exceed 0.3 mg and if its gravity does not vary
+from the other by more than 5 degrees API. If the Parties fail to agree, and are not otherwise deemed to have agreed, on the pricing and/or delivery location for Delivery Amounts produced from such fields and leases on or before the 30th
+calendar day following the acquisition or development of such fields or leases by PXP, then the Parties shall refer the determination of such pricing and delivery location to arbitration pursuant to Section 10.1, and upon such determination,
+such pricing and/or delivery location shall thenceforth apply to such fields and leases. During the period, if any, commencing with 
+   Page 6
+
+
+
+
+
+
+ 
+the date such fields and leases constitute Subject Fields (the New Fields) and ending upon the last Day of the last Delivery Month ending prior to the agreement of the Parties (or the
+decision of the Arbitrator, as applicable) as to pricing and/or delivery location, as applicable (the New Field Pre-Agreement Period), the Parties shall use, for purposes of temporary payment for and delivery of Delivery Amounts from
+such New Fields, the pricing and/or delivery location, as applicable, set forth below:  (i) If the delivery location has not
+been so agreed or determined by arbitration, the delivery location during the New Field Pre-Agreement Period shall be the location at which Delivery Amounts produced from such New Field pass from equipment or locations owned or controlled by PXP, or
+owned or controlled by a third party designated to make delivery on behalf of PXP.  (ii) If the pricing has not been so agreed
+or determined by arbitration, the pricing during the New Field Pre-Agreement Period shall be determined as if such New Field belonged to the Posting Group whose Specified Gravity under Exhibit 3 is closest to the average gravity of the
+Delivery Amounts then being produced from such Subject Field (and if two such Posting Groups have Specified Gravities that are equally close to such average gravity, then the Posting Group with the higher Specified Gravity shall apply for purposes
+of this clause).  From and after the termination of such New Field Pre-Agreement Period, the pricing and delivery location
+agreed by the Parties (or selected by the Arbitrator, as applicable), shall thenceforth apply subject to the terms of this Agreement. If the pricing provisions applied during the New Field Pre-Agreement Period differ from those following the New
+Field Pre-Agreement Period as a result of the mutual agreement of the Parties or the decision of the Arbitrator, in each case pursuant to this Section, then the Parties shall account for such difference in pricing in the next invoice from CoP
+pursuant to this Agreement, which accounting shall be in the form of a credit or debit and which will include interest from the date such New Field Pre-Agreement Period prices were paid until the date of such invoice, calculated at the interest rate
+provided in Section 4.2. If any fields or leases acquired or developed by PXP would constitute a Subject Field pursuant to this Section 2.1(d) but for the existence of restrictions or prohibitions contained in agreements existing or
+effective at the time of such acquisition, then upon the termination of such restrictions, prohibitions or agreements, such fields and leases shall then be subject to this Section as if the date of such termination was the date of acquisition.
+ (e) Additional Interests in Sales Volumes. To the extent not otherwise committed, restricted or prohibited by
+agreements existing or effective at the time of such acquisition, and in all cases subject to such agreements, all interests in Sales Volumes production in the State of California, or in California state waters or Federal waters offshore of the
+State of California, that PXP acquires during the term of this Agreement shall be included in the Delivery Amount effective as of the date of such acquisition. The pricing and delivery location for such Delivery Amounts shall be mutually agreed by
+the Parties or as otherwise determined pursuant hereto. For purposes of the foregoing sentence, with respect to additional interests in Sales Volumes produced from a Subject Field, which Sales Volumes are of Substantially the Same Quality as that
+produced from such Subject 
+   Page 7
+
+
+
+
+
+
+ 
+Field, the Parties shall be deemed to have agreed that the pricing and delivery location for such Delivery Amounts shall be the same as that for such Subject Field. If the Parties fail to agree,
+and are not otherwise deemed to have agreed, on the pricing and delivery location for such additional Delivery Amounts on or before the 30th calendar day following the acquisition of such interest in Sales Volumes by PXP, then the Parties shall
+refer the determination of such pricing and delivery location to arbitration pursuant to Section 10.1, and upon such determination, such pricing and/or delivery location shall thenceforth apply to such Delivery Amounts. During the period, if
+any, commencing with the date such interest in Sales Volumes are included in the Delivery Amount (the New Volumes) and ending upon the last Day of the last Delivery Month ending prior to the agreement of the Parties (or the decision of
+the Arbitrator, as applicable) as to pricing and/or delivery location, as applicable (the New Volume Pre-Agreement Period), the Parties shall use, for purposes of temporary payment for and delivery of such Delivery Amounts, the pricing
+and/or delivery location, as applicable, set forth below:  (i) If the delivery location has not been so agreed or determined by
+arbitration, the delivery location during the New Volume Pre-Agreement Period shall be the location at which such Delivery Amounts pass from equipment or locations owned or controlled by PXP, or owned or controlled by a third party designated to
+make delivery on behalf of PXP.  (ii) If the pricing has not been so agreed or determined by arbitration, the pricing during
+the New Volume Pre-Agreement Period shall be determined as if such Delivery Amounts were produced from a Subject Field belonging to the Posting Group whose Specified Gravity under Exhibit 3 is closest to the average gravity of such
+Delivery Amounts (and if two such Posting Groups have Specified Gravities that are equally close to such average gravity, then the Posting Group with the higher Specified Gravity shall apply for purposes of this clause). 
+From and after the termination of such New Volume Pre-Agreement Period, the pricing and delivery location agreed by the Parties (or
+selected by the Arbitrator, as applicable), shall thenceforth apply subject to the terms of this Agreement. If the pricing provisions applied during the New Volume Pre-Agreement Period differ from those following the New Volume Pre-Agreement Period
+as a result of the mutual agreement of the Parties or the decision of the Arbitrator, in each case pursuant to this Section, then the Parties shall account for such difference in pricing in the next invoice from CoP pursuant to this Agreement, which
+accounting shall be in the form of a credit or debit and which will include interest from the date such New Volume Pre-Agreement Period prices were paid until the date of such invoice, calculated at the interest rate provided in Section 4.2. If
+any interest in Sales Volumes acquired by PXP would be included in the Delivery Amount pursuant to this Section 2.2(e) but for the existence of commitments, restrictions or prohibitions contained in agreements existing or effective at the time
+of such acquisition, then upon the termination of such commitments, restrictions, prohibitions or agreements, such interests in Sales Volumes shall then be subject to this Section as if the date of such termination was the date of acquisition.
+
+   Page 8
+
+
+
+
+
+
+ (f) Quality. The Delivery Amount delivered hereunder shall be merchantable, meeting
+the requirements of the approved tariff of the first common carrier pipeline involved.  (g) Planned Refinery
+Maintenance. CoP shall notify PXP in writing as far in advance as practical of the time and expected duration of planned maintenance of CoPs Santa Maria or Rodeo refineries that is reasonably expected to affect CoPs ability to
+transport and/or store Sales Volumes hereunder. During any such planned maintenance of which CoP has so notified PXP, CoP shall be excused from its obligation to accept delivery of or to pay for Sales Volume to the extent that: 
+(i) such Sales Volume includes a volume of barrels in excess of (A) 9,000 barrels/day, minus (B) the number of barrels that PXP
+is able to store in its own facilities consistent with past practices between the Parties, and  (ii) CoP is in fact unable to
+transport and/or store such Sales Volumes,  provided that the Parties shall cooperate in efforts to store excess production at
+a PXP facility and/or to arrange for alternate transportation so as to avoid or minimize the need to shut in any PXP production of the Sales Volumes.  2.2 Disclaimer of Implied Warranties. PXP AND COP EACH ACKNOWLEDGES THAT IT HAS ENTERED INTO THIS AGREEMENT BASED SOLELY ON THE EXPRESS REPRESENTATIONS, WARRANTIES,
+COVENANTS AND AGREEMENTS SET FORTH HEREIN AND, SUBJECT TO THE EXPRESS REPRESENTATIONS, WARRANTIES, COVENANTS AND AGREEMENTS SET FORTH HEREIN, COP ACCEPTS SALES VOLUMES DELIVERED HEREUNDER AS IS. EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN
+THIS AGREEMENT, COP EXPRESSLY NEGATES, AS TO THE DELIVERY AMOUNTS, ANY OTHER REPRESENTATION, WARRANTY, COVENANT OR AGREEMENT, WRITTEN OR ORAL, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY REPRESENTATION OR WARRANTY WITH RESPECT TO
+(A) CONFORMITY TO MODELS OR SAMPLES, (B) MERCHANTABILITY, OR (C) FITNESS FOR A PARTICULAR PURPOSE. 
+ARTICLE III 
+PRICING/TAXES  3.1
+Delivery Amount Price.   
+
+
+ 
+(a)
+Basic Calculation. The price to be paid by CoP for each Barrel of the Delivery Amount produced from a given Subject Field in a given Posting Group during a given
+Delivery Month (each, a Delivery Amount Price), subject to Section 3.2(a) and (b), shall be as follows:   
+
+
+ 
+(i)
+Buena Vista Posting Group. The price to be paid for the Buena Vista Posting Group shall be equal to *****. 
+   Page 9
+
+
+
+
+
+
+
+
+
+ 
+(ii)
+Midway Sunset Posting Group. The price to be paid for the Midway Sunset Posting Group shall be equal to *****. 
+ 
+
+
+ 
+(iii)
+OCS Posting Group. The price to be paid for the OCS Posting Group shall be equal to *****. 
+(b) Uniform Deliveries. In computing the Delivery Amount Price for the Delivery Amount hereunder for a given Delivery Month, it
+shall be assumed that such Delivery Amount was delivered in equal daily quantities during such Delivery Month.  (c) Truck
+Receipts. Subject to Section 3.2(a)(iii), the Delivery Amount Price for Delivery Amount shall be unaffected by whether such Delivery Amount is received by truck or by pipeline carrier. CoP shall arrange for the scheduling of trucks for
+receipt of Delivery Amounts that are not delivered to a pipeline carrier.  3.2 Adjustments. 
+(a) Delivery Amount Price. The following adjustments shall apply to the Delivery Amount Prices: 
+(i) Subject Field Pricing Differential. The Delivery Amount Price for a given Subject Field shall be adjusted by the Subject
+Field Pricing Differential set forth in Exhibit 4 for such Subject Field.  (ii) Additional Pricing Adjustment. The
+Delivery Amount Price for all Sales Volumes delivered to or for the benefit of CoP shall be increased by $.05 per Barrel. 
+(iii) Trucking Costs. Except as otherwise specifically provided herein, for Delivery Amounts received by truck, CoP may deduct the
+actual cost of trucking from the Delivery Amount Price payable pursuant to this Agreement with respect thereto; provided, however, that if any such Delivery Amount could have been delivered to a pipeline carrier and is delivered by truck at
+CoPs election, such cost of trucking shall not be deducted.  (iv) Gravity Adjustment. The Delivery Amount Price
+for a given Subject Field and Delivery Month shall be adjusted, upward or downward as applicable, by the product obtained by multiplying:  (A) the average of the gravity price adjustments (in $/barrel/degree API) published by each of the four Major Posters for such Delivery Month for crude oil of the gravity produced from such Subject Field,
+by  (B) the difference obtained by subtracting:  (x) the Specified API Gravity set forth in Exhibit 3 for the Posting Group to which such Subject Field belongs, from 
+   Page 10
+
+
+
+
+
+
+ (y) the average gravity (in degrees API) for Sales Volumes delivered from such Subject
+Field for each Day during such Delivery Month.  For purposes of Section 3.2(a)(iv)(A), if greater than one but fewer than
+four Major Posters have published gravity price adjustments for such Delivery Month for crude oil produced in California, then the Parties shall use the average of such Major Posters. If only one or less Major Posters have so published gravity price
+adjustments, then the Parties shall mutually agree upon the appropriate gravity adjustment for purposes of Section 3.2(a)(iv)(A) and failing such agreement, the gravity adjustment shall be determined pursuant to Section 3.2(b)(iii).
+ (v) Point Pedernales and Lompoc Adjustments. The Delivery Amount Price for Sales Volumes produced from the Subject
+Fields designated as Point Pedernales and Lompoc in Exhibit 1 shall be adjusted for location differential in accordance with Exhibit 4 and also for sulfur. The sulfur adjustment shall be *****. 
+(vi) Point Arguello Adjustment. The Delivery Amount Price for Sales Volumes produced from the Subject Field designated as Point
+Arguello shall not bear a Gravity Adjustment, nor shall it bear an adjustment for sulfur content.  (vii) Arroyo Grande
+Adjustment. The Delivery Amount Price for Sales Volumes produced from the Subject Field designated as Arroyo Grande shall not receive ***** but rather shall be based only on *****. 
+(b) Periodic Pricing Adjustment. The Parties acknowledge and agree that the pricing formulas set forth in this Agreement utilize
+appropriate pricing mechanisms and publications and fairly reflect the markets that are available for the Sales Volumes subject hereto. As the Parties recognize that such pricing mechanisms, publications or markets may change materially during the
+term of this Agreement, the Parties hereby agree to the following procedures for periodically evaluating (and potentially adjusting) such pricing formulas to reflect the fair market value of the Sales Volumes. 
+(i) In the event that, during the term of this Agreement, either Party determines, in good faith, that the pricing formulas set forth in
+this Agreement for one or more Subject Fields materially vary from the fair market pricing for the relevant Sales Volumes for such Subject Fields, then such Party may propose a change in the pricing under this Agreement for such Subject Fields to
+take effect commencing upon the 1st anniversary of this Agreement and each anniversary thereafter, by giving the other Party written notice of the proposed change no later than ninety (90) calendar days prior to such anniversary date. If a
+Party gives such notice in accordance herewith, and the Parties agree on any such change in the pricing for such Subject Fields, such change shall take effect as of such anniversary date. If the Parties fail to agree upon such new pricing for any
+such Subject Field by thirty (30) calendar days prior to such anniversary date, either 
+   Page 11
+
+
+
+
+
+
+ 
+Party may submit the issue for resolution in accordance with Section 10.1; provided that such Party submits such issue for resolution prior to such anniversary date. Although the Parties are
+encouraged to engage in dialogue, written or otherwise, regarding pricing and pricing changes under this Agreement, including under this Section, a Party may only formally invoke the provisions of this Section 3.2(b)(i) once per anniversary
+date listed above. Until a Party asserts in writing that it has formally invoked its rights under this Section, it shall in no way be limited in its rights to propose or discuss pricing changes hereunder. Either Party shall have the right to request
+that the other Party confirm in writing whether it has, through its written correspondence, formally invoked this Section with respect to a given anniversary date, and until receipt of an affirmative response to such request for confirmation, the
+requesting Party shall be under no obligation to respond to such correspondence.  (ii) In the event that, during the term of
+this Agreement, either Party determines, in good faith, that there has occurred a material change to the quality specifications attributable to, or any other material component used for determining, the price for one or more Subject Fields, then
+such Party may propose a change in the pricing for such Subject Fields under this Agreement to take effect commencing upon the 1st anniversary of this Agreement and each anniversary thereafter by giving the other Party written notice of the proposed
+change no later than ninety (90) calendar days prior to such anniversary date. If a Party gives such notice in accordance herewith, and the Parties agree on any such change in the pricing for such Subject Fields, such change shall take effect
+as of such anniversary date. If the Parties fail to agree upon such new pricing for any such Subject Field by thirty (30) calendar days prior to such anniversary date, either Party may submit the issue for resolution in accordance with
+Section 10.1; provided that such Party submits such issue for resolution prior to such anniversary date. Although the Parties are encouraged to engage in dialogue, written or otherwise, regarding pricing and pricing changes under this
+Agreement, including under this Section, a Party may only formally invoke the provisions of this Section 3.2(b)(ii) once per anniversary date listed above. Until a Party asserts in writing that it has formally invoked its rights under this
+Section, it shall in no way be limited in its rights to propose or discuss pricing changes hereunder. Either Party shall have the right to request that the other Party confirm in writing whether it has, through its written correspondence, formally
+invoked this Section with respect to a given anniversary date, and until receipt of an affirmative response to such request for confirmation, the requesting Party shall be under no obligation to respond to such correspondence. 
+(iii) In the event that, during the term of this Agreement, only one or fewer Major Posters are publishing gravity price adjustments for
+crude oil produced in California, and the Parties are unable to agree upon the gravity adjustment for purposes of Section 3.2(a)(iv)(A), then either Party may submit the issue for resolution in accordance with Section 10.1. 
+   Page 12
+
+
+
+
+
+
+ (iv) In the event of any dispute resolution pursuant to Section 10.1, the pricing
+formulas hereunder shall, subject hereto, remain in effect pending the written decision of the Arbitrator. If the decision of the Arbitrator results in a change in pricing,  (A) the change will be retroactive to the anniversary date on which the pricing change was to be effective pursuant to this Section 3.2(b), and 
+(B) the Parties shall make a cash settlement to reflect such retroactivity of the pricing change (together with interest at the rate
+calculated in accordance with Section 4.2) within twenty (20) calendar days after the Arbitrators written decision is delivered.  (v) Any pricing change in accordance with this Section shall constitute an amendment to this Agreement without further action, but the Parties shall take such steps as reasonably requested by either Party
+to further evidence such amendment.  (vi) Notwithstanding anything to the contrary herein, the Parties agree that if any
+material change to the pricing methodology results in a material disadvantage or harm to a Party, the Parties agree to immediately discuss and attempt to resolve such issue.  (vii) If for any reason pricing for the benchmark crudes of ***** stop being reported or another crude type becomes the benchmark, either Party has the right to renegotiate the affected pricing benchmark
+upon 30 days written notification to the other Party. The Parties agree to mutually review the applicability of the benchmarks on no less than a quarterly basis.  (viii) The price negotiated for future pricing periods should most closely reflect future expectations taking into consideration the current state of the market, recent trends that justify the current
+market, recent negotiated contracts with third parties (appropriately weighted and verified) and the impact of waterborne deliveries.  3.3
+Taxes. CoP shall reimburse PXP for all taxes imposed by federal, state or local governments, other than taxes on income, assessed on PXP, directly or indirectly in connection with and occasioned by the transfer of title of Sales
+Volumes delivered under this Agreement. Each Party shall be solely responsible for any taxes assessed on it pursuant to Sections 8670.40 or 8670.48, or applicable successor Sections, of the California Government Code. If CoP is entitled to purchase
+any such Delivery Amount free of any tax (state or federal), CoP shall furnish PXP the proper exemption certificate. 
+   Page 13
+
+
+
+
+
+
+ ARTICLE IV  PAYMENT  4.1 General. 
+(a) CoPs Obligation. CoP shall, except as expressly provided otherwise in this Agreement, pay PXP, by wire transfer in
+immediately available funds no later than twenty (20) calendar days after the end of each Delivery Month, the aggregate for all Subject Fields of (i) the Delivery Amount Price for each Subject Field and such Delivery Month multiplied by
+(ii) the Delivery Amount attributable to such Subject Field and such Delivery Month as reflected in the relevant delivery tickets. CoP shall wire amounts due PXP hereunder as follows: 
+Wells Fargo Bank 
+ABA#: 121000248 
+Credit: Plains Exploration & Production Company  Account #: 4945090041  Reference: Crude Oil Purchases 
+(b) Weekends/Holidays. Notwithstanding Section 4.1(a): 
+(i) if the deadline for payment under such provisions falls on a Saturday, such deadline shall be deemed to have instead fallen on the
+immediately preceding Business Day;  (ii) if the deadline for payment under such provisions falls on a Sunday, such deadline
+shall be deemed to have instead fallen on the immediately succeeding Business Day;  (iii) if the deadline for payment under
+such provisions falls on a Monday that is not a Business Day, such deadline shall be deemed to have instead fallen on the immediately succeeding Business Day; and  (iv) if the deadline for payment under such provisions falls on a Day that is neither a Business Day nor a Saturday, Sunday or Monday, such deadline shall be deemed to have instead fallen on the
+immediately preceding Business Day.  4.2 Interest. Any payments that are past due under this Agreement shall bear interest at
+the lesser of (i) a rate per annum equal to the rate published as the Prime Rate in the Money Rates section of The Wall Street Journal for the calendar day payment was due (or if not published on such calendar
+day, such rate as last published), plus two percent (2%), or (ii) the maximum rate of interest permitted by applicable law.  4.3
+Accounting Address. All accounting documentation delivered pursuant to or in connection with this Agreement shall be delivered to the following addresses:  To PXP:  Plains Exploration & Production Company 
+717 Texas, Suite 2100  Houston, Texas 77002  Attn:    Revenue Accounting 
+Fax:     713-579-6611 
+   Page 14
+
+
+
+
+
+
+ To CoP:  ConocoPhillips Company  600 North Dairy Ashford Road 
+Houston, TX 77079 
+Attn:    Supply Trader/West Coast Pipeline  Fax:     918-662-5908  ARTICLE V 
+TITLE WARRANTIES AND TRANSFER  5.1 General. PXP warrants good title to the Delivery Amount delivered by it hereunder and agrees to indemnify and hold harmless CoP from and against any and all loss, claim or demand by
+reason of any failure of such title to such Delivery Amount or failure or breach of this warranty. Title to, possession and risk of loss of the Delivery Amount shall, except as set forth in Section 5.2, pass to CoP as such Delivery Amount
+passes from equipment or locations owned or controlled by PXP, or owned or controlled by a third party designated to make delivery on behalf of PXP.  5.2 Specific Fields. Notwithstanding anything to the contrary in Section 5.1 above, for any Sales Volumes to be delivered to CoP hereunder that is produced from the Subject Field
+designated as Point Pedernales in Exhibit 1 hereto, title to, possession and risk of loss of such Sales Volumes shall pass to CoP as such Sales Volumes pass from PXPs Lompoc oil and gas plant into CoPs Unocap pipeline. 
+ARTICLE VI 
+MEASUREMENT  6.1
+Measurement.  (a) Method. Deliveries of the Delivery Amount shall be measured by means of automatic
+custody transfer unit as and when the Delivery Amount is produced, or by tank gauge as and when the Delivery Amount is produced and accumulated in tank lots. All tank measurements shall be made using certified gauge tables available to the receiving
+Party.  (b) LACT Pinning. CoP shall provide PXP with at least forty-eight (48) hours notice in advance of the
+pinning or other closure of any LACT meter other than in the case of an emergency, in which case CoP shall provide as much notice of such pinning or other closure as is practicable. PXP leases are recommended to have on-site
+crude oil storage capacity for at least forty-eight (48) hours of production, although it is recognized that some leases may have less capacity. 
+   Page 15
+
+
+
+
+
+
+ 6.2 Meters and Tests.  (a) Measurements in connection with this Agreement will be obtained using measurement equipment, standards and procedures as the Parties may mutually agree. Quantity measurement, quality sampling and
+testing, and deduction for BS&W content shall be conducted in accordance with the most current API or ASTM standards, as applicable. The delivering Party shall be responsible for all pipeline carrier charges due to failure to meet the
+specifications required of such Party under this Agreement.  (b) Either Party shall have the right to have a representative
+witness all meter provings, gaugings, samplings, tests and measurements. Each Party will provide not less than 48 hours notification (unless otherwise mutually agreed) to the other Party prior to conducting such activities. In the absence of the
+other Partys representative, such meter provings, gaugings, samplings, tests and measurements shall be deemed to be correct by the attendant representative.  ARTICLE VII  TERM AND TERMINATION 
+7.1 Term. This Agreement shall commence as of 7:00 a.m. Pacific Time January 1, 2012, and shall continue until 6:59 a.m. Pacific Time
+January 1, 2023, unless terminated earlier in accordance with this Agreement. Termination of this Agreement shall not relieve any Party from any liability arising hereunder prior to such termination. 
+7.2 Suspension Rights.   (a) If an Event of Default occurs and is continuing, the non-defaulting Party may, by giving five (5) calendar days written notice, suspend its obligation to deliver Sales Volumes hereunder or
+its obligation to purchase Sales Volumes hereunder, as applicable. While deliveries of Sales Volumes hereunder are suspended pursuant to this Section 7.2, PXP shall have the right, but not the obligation, to sell any undelivered volumes to
+other purchasers and shall, if PXP is the non-defaulting Party, be entitled to damages from CoP equal to the amount it would have received under the terms of this Agreement for such undelivered volumes less the amount received from other purchasers
+of the undelivered volumes, plus actual costs and expenses incurred by PXP in arranging sales to other purchasers. While any purchases of Sales Volumes hereunder are suspended pursuant to this Section 7.2, CoP may purchase Sales Volumes from
+other sellers and shall, if CoP is the non-defaulting Party, be entitled to damages from PXP equal to the amount paid to purchase the Sales Volumes from other sellers less the amount it would have paid for the Sales Volumes under the terms of this
+Agreement, plus actual costs and expenses incurred by CoP in arranging purchases from other sellers.  (b) The right of the
+non-defaulting Party to suspend performance under this Section 7.2 shall continue until the earlier of (i) the Event of Default is cured or (ii) this Agreement is terminated pursuant to Section 7.3. 
+(c) An election by a Party to suspend performance under this Section 7.2 shall not preclude that Party from later electing to
+terminate this Agreement under Section 7.3. 
+   Page 16
+
+
+
+
+
+
+ 7.3 Termination Rights. 
+(a) If an Event of Default occurs and is continuing, the non-defaulting Party may give the defaulting Party written notice of such Event
+of Default. If the Event of Default is not cured within 10 calendar days after receipt of such notice, the non-defaulting Party, in addition to all other rights and remedies available to the non-defaulting Party and notwithstanding Section 7.1,
+shall be entitled to terminate this Agreement.  (b) If this Agreement is terminated pursuant to this Section 7.3 the
+non-defaulting Party may provide the defaulting Party with a statement setting out in reasonable detail the computation of the (A) all amounts due and payable under this Agreement, including interest on any later payments, and (B) the
+amount of actual damages, losses or other directly related costs and expenses (including, but not limited to, reasonable attorneys fees and court costs) incurred by the non-defaulting Party arising out of or related to the Event of Default or
+the termination of this Agreement, excluding any punitive, consequential or indirect damages. In calculating such amounts, the non-defaulting Party may offset any sums due to the defaulting Party, whether hereunder or by reason of any other
+agreements or arrangements, against any amounts owed by the defaulting Party hereunder.  (c) No later than five Business Days
+after receiving the statement from the non-defaulting Party pursuant to Section 7.3(b), the defaulting Party shall pay the non-defaulting Party the sum of the amount set forth in such statement. 
+(d) Neither Party shall be liable under this Agreement to the other Party for any punitive, consequential, special or indirect damages, in
+tort or contract or otherwise, as a result of or related to, any breach of or default under this Agreement.  (e) The rights and
+obligations created by this Section 7.3 shall survive the termination of this Agreement.  ARTICLE VIII 
+REPRESENTATIONS, WARRANTIES AND OTHER COVENANTS  8.1 PXP Representations and Warranties. PXP represents and warrants to CoP that as of the date of execution of this Agreement: 
+(a) PXP is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware; 
+(b) PXP has all requisite power and authority to enter into and perform this Agreement; 
+(c) the execution, delivery and performance of this Agreement and the transactions contemplated hereby have been duly authorized by PXP;
+
+   Page 17
+
+
+
+
+
+
+ (d) this Agreement has been duly executed and delivered by PXP and constitutes the legal,
+valid and binding obligation of PXP, enforceable against PXP in accordance with its terms, subject, however, to applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting creditors rights generally and except as
+the enforceability thereof may be limited by general principles of equity (regardless of whether considered in a proceeding in equity or at law);  (e) the execution, delivery, and performance by PXP of this Agreement and the transactions contemplated hereby will not  (A) violate or conflict with any provision of PXPs organizational documents (including articles of incorporation and bylaws),  (B) violate or constitute a default under any agreement or instrument to which PXP is a party or by which PXP is bound, which violation will have a material and adverse effect on PXPs ability to
+perform its obligations hereunder,  (C) violate any statute or law or any judgment, decree, order, regulation or rule of any
+court or governmental authority applicable to PXP, which violation will have a material and adverse effect on PXPs ability to perform its obligations hereunder, or  (D) require any consent, approval or authorization of, or designation, declaration or filing with, any governmental authority on the part of PXP (except such governmental authorizations and filings as
+PXPs performance of this Agreement from and after the date hereof may then require in the ordinary course of business), under any law or any agreements to which PXP is a party or by which it is bound; and 
+(f) there are no suits, judicial or administrative actions, proceedings or investigations (including, without limitation, bankruptcy,
+reorganization or insolvency actions, proceedings or investigations) pending against PXP or its affiliates or, to PXPs knowledge, threatened, that  (A) challenge the validity of this Agreement or the transactions contemplated hereby,  (B) seek to restrain or prevent any action taken or to be taken by PXP in connection with this Agreement, or  (C) if adversely determined, would have a material and adverse effect upon PXPs ability to perform its obligations hereunder.  8.2 CoP Representations and Warranties. CoP represents and warrants to PXP that as of the date of execution of this Agreement: 
+(a) CoP is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware; 
+   Page 18
+
+
+
+
+
+
+ (b) CoP has all requisite power and authority to enter into and perform this Agreement;
+ (c) the execution, delivery and performance of this Agreement and the transactions contemplated hereby have been duly
+authorized by CoP;  (d) this Agreement has been duly executed and delivered by CoP and constitutes the legal, valid and binding
+obligation of CoP, enforceable against CoP in accordance with its terms, subject, however, to applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting creditors rights generally and except as the enforceability
+thereof may be limited by general principles of equity (regardless of whether considered in a proceeding in equity or at law); 
+(e) the execution, delivery, and performance by CoP of this Agreement and the transactions contemplated hereby will not 
+(A) violate or conflict with any provision of CoPs organizational documents (including articles of incorporation and bylaws),
+ (B) violate or constitute a default under any agreement or instrument to which CoP is a party or by which CoP is bound, which
+violation will have a material and adverse effect on CoPs ability to perform its obligations hereunder,  (C) violate any
+statute or law or any judgment, decree, order, regulation or rule of any court or governmental authority applicable to CoP, which violation will have a material and adverse effect on CoPs ability to perform its obligations hereunder, or
+ (D) require any consent, approval or authorization of, or designation, declaration or filing with, any governmental authority
+on the part of CoP (except such governmental authorizations and filings as CoPs performance of this Agreement from and after the date hereof may then require in the ordinary course of business), under any law or any agreements to which CoP is
+a party or by which it is bound; and  (f) there are no suits, judicial or administrative actions, proceedings or investigations
+(including, without limitation, bankruptcy, reorganization or insolvency actions, proceedings or investigations) pending against CoP or its affiliates or, to CoPs knowledge, threatened that 
+(A) challenge the validity of this Agreement or the transactions contemplated hereby, 
+   Page 19
+
+
+
+
+
+
+ (B) seek to restrain or prevent any action taken or to be taken by CoP in connection with
+this Agreement, or  (C) if adversely determined, would have a material and adverse effect upon CoPs ability to perform
+its obligations hereunder.  8.3 Covenants. Each Party shall through the term of this Agreement: 
+(a) preserve its corporate existence and good standing as necessary to perform its obligations hereunder; 
+(b) comply in all material respects with all statutes and laws applicable to performance of this Agreement and with all judgments,
+decrees, orders, regulations and rules of any court or governmental authority applicable to performance of this Agreement;  (c)
+give the other Party prompt written notice of the existence of any agreement or instrument to which the Party is a party or by which the Party is bound that may have a material and adverse effect in the Partys ability to perform its
+obligations hereunder; and  (d) give the other Party prompt written notice of any pending or threatened suits, judicial or
+administrative actions, proceedings or investigations that may have a material and adverse effect on the Partys ability to perform its obligations hereunder.  ARTICLE IX  FINANCIAL MATTERS 
+9.1 Credit Requirements.   (a) Credit Rating. Subject to Section 9.1(b), if CoP shall fail to maintain a long term issuer rating of BB or higher with Standard & Poors Ratings Group, then, within thirty
+(30) calendar days of receiving a written request from PXP for additional financial assurances, CoP shall provide PXP with (i) a guaranty of payment and performance from its ultimate direct or indirect parent corporation in a form
+acceptable to PXP, or (ii) if such parent corporation is unable or otherwise fails to issue such a guaranty or fails to maintain its credit rating at the level specified above, a standby letter of credit in a format and issued by a bank
+acceptable to PXP for an amount equal to the sum of the amounts due hereunder for the two prior Delivery Months.  (b) Lack
+of Rating Publication. If Standard & Poors Rating Group shall cease to publish a long term issuer rating for CoP, the Parties shall mutually agree to the use of a substitute rating service and shall require the maintenance of a
+rating by such substitute service that provides the closest approximation of the credit quality characterized by rating set forth in Section 9.1(a).  (c) Letters of Credit. Any letter of credit provided pursuant to this Section 9.1 shall, subject to this Section, be for a one-Year period and automatically renewable for
+
+   Page 20
+
+
+
+
+
+
+ 
+successive one-Year periods unless the issuing bank provides notice of non-renewal at least sixty (60) calendar days prior to maturity, in which case a substitute bank acceptable to PXP
+shall issue such letter of credit. Notwithstanding the foregoing, if the then remaining obligations to deliver Sales Volumes under this Agreement of PXP are for a period of less than one Year, then such letter of credit may be for a period ending
+forty-five (45) calendar days after the last such scheduled delivery of Sales Volumes. Provided that CoP or its ultimate direct or indirect parent maintains its credit rating at the level specified above, then a parent guaranty meeting the
+above requirements may be substituted for any letter of credit delivered hereunder. In the event that CoP is required to provide a parent guaranty or letter of credit hereunder and then subsequently re-establishes a credit rating at or above the
+level set forth above for a period of 12 consecutive months, the obligation to provide a parent guaranty or a letter of credit pursuant to this Section 9.1 shall be suspended so long as CoP maintains its credit rating at the level specified for
+CoP above.  9.2 Financial Responsibility. If during the term of this Agreement, the financial responsibility of a Party becomes
+such that such Partys ability to perform its obligations hereunder is impaired or unsatisfactory to the other Party, in its good faith, (the Demanding Party) then in any such case advance cash payment, properly endorsed negotiable
+bills of lading, or satisfactory security shall be given upon written demand, and performance hereunder may be withheld by the Demanding Party until such payment, bills of lading, or security is received. If such payment, bills of lading, or
+security is not received within fifteen (15) calendar days from demand therefor, the Demanding Party may terminate this Agreement. In the event either Party makes an assignment for the benefit of creditors or any general arrangement with
+creditors, or if there are instituted by or against either Party proceedings in bankruptcy or under any insolvency law or law for reorganization, receivership or dissolution, the other Party may withhold shipments or terminate this Agreement without
+notice. The exercise by either Party of any right under this paragraph shall be without prejudice to any claim for damages or any other right under this Agreement or applicable law. 
+ARTICLE X 
+DISPUTES  10.1
+Pricing Disputes. Any and all disputes related to pricing pursuant to Section 3.2(b), or pricing or delivery location of newly acquired leases, fields or interests in Sales Volumes pursuant to Section 2.1(d) or 2.1(e),
+or the pipeline price pursuant to Section 11.22, of this Agreement shall be finally settled by arbitration pursuant to this Section 10.1:  (a) The Parties hereby agree and consent to submit to the American Arbitration Association any and all such disputes for settlement by final and binding arbitration by one (1) arbitrator (the
+Arbitrator) pursuant to the Commercial Arbitration Rules of the American Arbitration Association in effect as of the date of this Agreement (the Rules). The resulting decision of the Arbitrator shall be
+the sole and exclusive remedy between the Parties regarding any and all such disputes.  (b) Arbitration proceedings pursuant to
+this Section shall be held in Los Angeles, California, or such other location as the Parties may agree. To the extent that it is 
+   Page 21
+
+
+
+
+
+
+ 
+necessary to apply substantive law, the substantive law of the State of California shall be applied, without reference to conflicts of law rules that would direct the matter to the law of another
+jurisdiction.  (c) The Parties shall initiate arbitration proceedings hereunder in accordance with Section 6 of the Rules.
+The Parties shall use commercially reasonable efforts to agree upon and appoint the Arbitrator, who shall have not less than fifteen (15) Years of experience (commercial or legal) related to the marketing of domestic crude oil (not less than
+five (5) Years of which shall relate to such marketing in California). In the event that the Parties fail to appoint the Arbitrator within fifteen (15) calendar days after the American Arbitration Association receives the notice of
+arbitration, each Party shall submit to the American Arbitration Association a list containing the names of three (3) persons who meet the qualifications set out above that it nominates to serve as the Arbitrator. The Parties shall instruct the
+American Arbitration Association to appoint the Arbitrator (from the names submitted by each Party in accordance herewith) within forty-five (45) calendar days after it receives the notice of arbitration. Should a Party fail to submit a list of
+names, the American Arbitration Association shall appoint the Arbitrator from the names submitted. Should both Parties fail to submit a list of names, the American Arbitration Association shall appoint the Arbitrator it deems appropriate within
+forty-five (45) calendar days after it receives the notice of arbitration.  (d) Within sixty (60) calendar days after
+the American Arbitration Association receives the notice of arbitration, each Party shall submit to the Arbitrator in writing its proposed resolution to such dispute and any information it considers relevant to the Arbitrators decision. The
+failure of a Party to make such a submission or the absence or default of a Party to the arbitration shall not prevent or hinder the arbitration procedure in any stage. The arbitration shall continue in accordance with Section 30 of the Rules.
+ (e) The Parties shall instruct the Arbitrator to select, as its decision, the resolution proposed by one of the Parties. If
+only one Party submits a proposed resolution in accordance with this Agreement, the Arbitrator shall select that resolution as its decision. The Parties shall instruct the Arbitrator to render its decision in writing to the Parties within ninety
+(90) calendar days after the American Arbitration Association receives the notice of arbitration. The decision of the Arbitrator shall be final and binding on all Parties. Notwithstanding any provision in this Agreement to the contrary, the
+Parties shall instruct the Arbitrator that the standard by which it shall resolve such disputes under this Section 10.1 shall be which Partys resolution of such pricing dispute best reflects the then current fair market pricing for the
+relevant production from the relevant Subject Fields.  (f) The Parties agree to exclude any right of application or appeal to
+the courts of any jurisdiction in connection with the arbitration proceedings, the subject matter of the arbitration proceedings or the decision of the Arbitrator, except for the purpose of enforcement of a decision of the Arbitrator to the extent
+providing for a change to the method for calculating the Delivery Amount Price hereunder, as provided in Section 10.1(g) below. 
+   Page 22
+
+
+
+
+
+
+ (g) Any written decision of the Arbitrator providing for a change to the method for
+calculating the Delivery Amount Price hereunder shall be deemed to constitute an amendment to this Agreement without the necessity of formally amending this Agreement. Any such decision of the Arbitrator effecting a pricing change shall be valid and
+enforceable in any court of competent jurisdiction.  (h) Nothing in this Section 10.1 shall limit the Parties
+remedies or rights to seek judicial resolution with respect to disputes under this Agreement to the extent not involving pricing or otherwise directed by this Agreement to be resolved by arbitration pursuant to this Agreement. 
+10.2 Other Disputes.  (a) Except for arbitration proceedings commenced in accordance with Section 10.1, any legal action taken in connection with this Agreement will be brought in a state court or U.S. Federal District
+Court having subject matter jurisdiction and sitting in Harris County, Texas. PXP and CoP each irrevocably submit to the jurisdiction of such courts.  (b) Each Party irrevocably waives, to the fullest extent permitted by law, any claim or objection that it may have, now or hereafter, that venue or personal jurisdiction is not proper with respect to any
+such legal action or legal proceeding brought in a court set out above, including, without limitation, any claim that such legal action or legal proceeding has been brought in an inconvenient forum and any claim that a Party is not subject to
+personal jurisdiction or service of process.  (c) EACH PARTY WAIVES THE RIGHT TO A TRIAL BY JURY IN ANY DISPUTE RELATING TO OR
+ARISING OUT OF THIS AGREEMENT, THE SUBJECT MATTER HEREOF OR THE TRANSACTIONS CONTEMPLATED HEREBY, AND AGREES TO TAKE ANY AND ALL ACTION NECESSARY OR APPROPRIATE TO EFFECT SUCH WAIVER. 
+ARTICLE XI 
+MISCELLANEOUS  11.1
+Notices. Notices, other than accounting documentation provided pursuant to this Agreement, shall be in writing and may be given by delivering same by hand at, or by sending the same by facsimile, express delivery service or
+first class mail to, the relevant address set forth below or such other address as each Party may notify the other Party in writing from time to time. Such notice or communication shall be deemed to have been given when delivered, if by hand; when
+actually received, if by first class mail or express delivery service; and upon receipt by the sender of electronic confirmation of transmission, if by facsimile.  To PXP:  Plains Exploration & Production Company 
+717 Texas, Suite 2100  Houston, Texas 77002  Attn:    Marketing Dept. 
+Fax:     713-579-6209 
+   Page 23
+
+
+
+
+
+
+ To CoP:  ConocoPhillips Company  600 North Dairy Ashford Road 
+Houston, TX 77079 
+Attn:    Manager/Americas Crude  Fax:     281-293-6328  11.2 Confidentiality. Each
+Party agrees that it will maintain this Agreement, all parts and contents hereof, and any information or data received hereunder, in strict confidence, and that it will not cause or permit disclosure of same to any third party without the express
+written consent of the other Party. Notwithstanding the foregoing, disclosure by a Party is permitted in the event and to the extent that  (a) such Party is required by a court or agency exercising jurisdiction over the subject matter hereof, by order or by regulation, to make such a disclosure (provided, however, that in the event either
+Party becomes aware of judicial or administrative proceeding that has resulted or may result in such an order requiring disclosure, it shall  (i) so notify the other Party immediately,  (ii) utilize all reasonably available
+means to limit the scope of the order or regulation requiring disclosure, and  (iii) take all actions reasonably necessary to
+prevent disclosure to the public as a result of disclosure to the court or administrative body),  (b) disclosure is required by
+law or regulation or order of governmental authority or by the rules of any stock exchange applicable to such Party or its affiliates, or as part of such Partys good faith attempt to comply with disclosure obligations under any of the same,
+ (c) disclosure is to such Partys affiliates, attorneys, financial or lending institutions, outside auditors and
+insurers, provided that the person or entity to which such information is disclosed executes an agreement to hold it confidential, and  (d) disclosure (other than with respect to Section 3.2(a)(viii) or 11.9) is to entities involved in the negotiation or bidding for the acquisition of a Party, its stock or assets, provided that the
+person or entity to which such information is disclosed executes an agreement to hold it confidential. 
+   Page 24
+
+
+
+
+
+
+ 11.3 Assignment.  (a) General. Except with respect to assignments in conjunction with an assignment of the Subject Fields as provided in Section 11.3(b), neither Party shall assign this Agreement without the
+prior written consent of the other. Any such purported assignment made without such consent shall be null and void. With respect to any assignment permitted hereunder, the assigning Party shall remain liable to the other Party for fulfillment of any
+existing obligation under this Agreement. Subject to the limitations on transfer contained herein, this Agreement shall inure to the benefit of and be binding upon the successors and assigns of the Parties. 
+(b) Producing Property Sales. Nothing in this Agreement shall limit PXPs right to sell, exchange or otherwise dispose of any
+interest in a Subject Field or any interest in production therefrom. PXP will notify CoP promptly following any sale of interests in any of the Subject Fields subject to this Agreement. Promptly after notification of such a sale by PXP, CoP shall
+use its best efforts to enter into an agreement with the assignee of the sold interests on the same terms and conditions set forth herein, to the extent such terms and conditions apply to such interests. Notwithstanding Section 11.3(a), with
+respect to any such interests that are sold, this Agreement (other than with respect to Section 3.2(a)(viii) and other than with respect to Section 11.9) shall be binding on CoP and the successors in interest to PXP of such interests
+without the prior written consent of CoP.  11.4 Force Majeure. If either Party is rendered unable, wholly or in part, by Force
+Majeure to perform its obligations hereunder, other than to make payments due hereunder, the affected Party shall give written notice to the other Party of such Force Majeure within forty-eight (48) hours after such failure to perform, and the
+obligations of the affected Party shall be suspended during the continuance and to the extent of the inability so caused, but for no longer period. In the event that any such period of suspension shall continue in excess of ninety (90) calendar
+days, this Agreement may be terminated as to the Subject Fields subject to such suspension at the option of either Party, without liability of either Party. Any such failure to perform shall be remedied with all reasonable dispatch, but PXP shall
+not be required to supply substitute quantities of Sales Volumes from other sources of supply. Failure to perform this Agreement due to events of Force Majeure shall not extend the term of this Agreement. 
+11.5 Waiver. No waiver by any Party of any one or more defaults by another Party in the performance of this Agreement shall operate or be
+construed as a waiver of any future default or defaults by the same Party, whether of a like or of a different character. Except as expressly provided in this Agreement, no Party shall be deemed to have waived, released or modified any of its rights
+under this Agreement unless such Party has expressly stated, in writing, that it does waive, release or modify such right.  11.6 Entire
+Agreement. The Parties agree that effective January 1, 2012, this Agreement contains the entire agreement of the Parties for the sale of the Delivery Amount from the Subject Fields, and supersedes and replaces in its entirety all prior
+agreements regarding crude oil sales, including the following:  (a) that certain Crude Oil Purchase Agreement dated
+January 1, 2000, between Nuevo Energy Company and Tosco Corp. d/b/a/ Tosco Refining, Co., as amended; 
+   Page 25
+
+
+
+
+
+
+ (b) that certain Crude Oil Outright Purchase Agreement dated November 21, 2006, as
+amended, between PXP and CoP;  (c) that certain Crude Oil Outright Purchase Agreement dated October 1, 2007, as amended,
+between PXP and CoP.  No statement or agreement, oral or written, made before or at the signing hereof, shall be offered or used to vary or
+modify the written terms of this Agreement.  11.7 Control. Nothing in this Agreement shall be construed or deemed to require PXP
+to take any action, or to prohibit PXP from taking any action, regarding operations of or with respect to the Subject Fields. Specifically, but not by way of limitation, CoP acknowledges and agrees that PXP shall have no obligation to drill,
+produce, or abandon any well, or to achieve any specific production volumes. CoP acknowledges and agrees that all decisions with respect to such actions and operations are expressly and exclusively within PXPs control. 
+11.8 Severability. If and for so long as any provision of this Agreement shall be deemed or judged to be invalid for any reason whatsoever,
+such invalidity shall not affect the validity or operation of any other provisions of this Agreement except only so far as shall be necessary to give effect to the construction of such invalidity, and any such invalid provision shall be deemed
+severed from this Agreement without affecting the validity of the balance of this Agreement.  11.9 Audit. Each Party and its
+duly authorized representatives shall have access to the accounting records and other documents maintained by the other Party that relate to Sales Volumes sold under this Agreement, and shall have the right to audit such records at any reasonable
+time prior to the third anniversary of the termination of this Agreement subject to the following conditions or restrictions: 
+(a) the auditing Party shall furnish the other Party written notice at least thirty (30) Business Days prior to the date of the
+audit;  (b) the notice shall specify what accounting period, records and other documents the auditing Party desires to review
+and/or photocopy;  (c) the audit shall be conducted at the offices of the Party being audited during the hours of 8:00 am and
+5:00 pm on a Business Day;  (d) a Party may not initiate an audit hereunder more often than once every two Years unless such
+additional audits are justified on the grounds of fraud or the occurrence of a catastrophic event;  (e) the duration of an
+audit shall not exceed seven (7) Business Days unless matters revealed during such audit reasonably justify an extension of such time period; 
+   Page 26
+
+
+
+
+
+
+ (f) the documents, reports and records prepared in the audited Partys ordinary course
+of business shall be furnished in sufficient form to substantiate the volumes, deliveries and pricing of the transactions contemplated hereunder;  (g) to the extent, if any, that the Party being audited must use internal or external accounting or electronic information systems person(s) to retrieve, produce or explain the documents and records
+requested, the auditing Party shall reimburse the other Party the full cost thereof;  (h) photocopying shall be done at the
+expense of the auditing Party (but photocopying in violation of copyrights shall not be required);  (i) the auditing Party
+shall be responsible for its own costs and expenses incurred in connection with the audit;  (j) the audit shall be limited to
+no more than the three (3) Years immediately preceding the date of the request to audit; and  (k) the auditing Party shall
+designate a single contact person from among the auditing personnel to be the person with whom the audited Party may limit its contacts. 
+11.10 Safety. Each Party agrees that its agents and employees will comply with all safety regulations of the other when such agents or
+employees are upon the premises of the other in connection with the performance of this Agreement.  11.11 Business Practices.
+ (a) Each Party shall in the performance of this Agreement comply with all applicable governmental laws and regulations.
+ (b) Each Party hereto agrees that all financial settlements, billings, and reports rendered to the other Party as provided for
+in this Agreement and/or any amendments to it will, to the best of its knowledge and belief, reflect properly the facts about all activities and transactions related to this Agreement, which data may be relied upon as being complete and accurate in
+any further recording and reporting made by such other Party for whatever purpose.  (c) Each Party hereto agrees to notify the
+other Party promptly upon discovery of any instance where the notifying Party fails to comply with Section 11.11(a) above, or where the notifying Party has reason to believe data covered by Section 11.11(b) above is no longer accurate and
+complete.  11.12 Governing Law. This Agreement and any disputes arising hereunder shall be construed, enforced, and governed by
+the laws of the State of Texas, without reference to conflicts of law rules which would direct the matter to the law of another jurisdiction. 
+   Page 27
+
+
+
+
+
+
+ 11.13 Entirety of Agreement and Amendments. This Agreement contains the entire Agreement of
+the Parties with respect to the subject matter hereof and there are no other promises, representations or warranties with respect thereto. Except as expressly provided otherwise in this Agreement, this Agreement may only be amended by a written
+instrument executed by authorized officers of the Parties specifically referencing this Agreement.  11.14 Headings. The
+Section headings used in this Agreement are for convenience only and shall not be construed as having any substantive significance or as indicating that all of the provisions of this Agreement relating to any topic are to be found in any particular
+Section.  11.15 General Provisions. To the extent not in conflict with the terms of this Agreement, Conocos General
+Provisions, Domestic Crude Oil Agreements, effective January 1, 1993 are incorporated herein and made a part hereof for all purposes. 
+11.16 Further Assurances. Each Party shall execute, acknowledge and deliver such other instruments or documents and shall take such
+other actions as may be necessary to carry out their respective obligations under this Agreement or to consummate or substantiate transactions contemplated by this Agreement.  11.17 Time and Performance of the Essence. Time and full performance hereunder by the Parties are of the essence of this Agreement.  11.18 No Third Party Beneficiaries. Other than with respect to permitted successors and assigns, nothing in this Agreement is intended to inure to the benefit of any third party and this
+Agreement shall not create any third party beneficiaries.  11.19 Hazards and Risks. Each Party acknowledges the hazards and
+risks in handling and using crude oil. Each Party shall advise its affiliates and its and their employees and third parties, who may purchase or come into contact with crude oil delivered under this Agreement, about the reasonable hazards and risks
+of crude oil, as well as precautionary procedures for handling such crude oil.  11.20 Inglewood. The primary term for the
+current Crude Oil contract covering Sales Volumes from the Subject Field designated as Inglewood is to expire December 1, 2011. It is expressly agreed between the Parties that the terms and conditions of this Agreement shall be effective for
+Inglewood Crude Oil Sales, and Inglewood only, as of 7:00 a.m. Pacific Time, December 1, 2011.  11.21 Arroyo Grande
+Pipeline. CoP hereby commits to use its commercially reasonable efforts to facilitate the completion of the Arroyo Grande pipeline project by the planned start-up date of PXPs water disposal plant (currently estimated to be
+June 1, 2014), but in no event later than August 31, 2014. If said pipeline is not so completed by this time, CoP agrees to bear the actual costs incurred to truck up to 4,000 barrels/day (but no more than is permitted by applicable law)
+of PXPs Arroyo Grande production until such time as the pipeline becomes operational. Upon the successful start-up of the pipeline, the Election Percentage as defined in Section 2.1 (c)(i) shall be reduced from no greater than 10% to 5%.
+
+   Page 28
+
+
+
+
+
+
+ 11.22 Public Announcements. Buyer and Seller shall consult with each other before issuing any
+press release or otherwise making any public statement with respect to this Agreement, the Transaction Documents or any of the transactions contemplated hereby or thereby and shall not issue any such press release or make any such public statement
+without the consent of the other Party, which consent shall not be unreasonably withheld, except as may be required by Laws or any listing agreement that such Party has entered into with a national securities exchange. 
+11.23 Alternate Transportation from Point Pedernales. Buyer and Seller agree to actively cooperate with the other in the study, development
+and implementation of potential alternate transportation for Point Pedernales origin crude oil. Among other things, each Party agrees to (a) consult with the other in identifying reasonable transportation alternatives, (b) develop the best
+alternative or alternatives, (c) coordinate timely filings, if any are required, to secure appropriate permit modifications necessary to pursue the transportation alternative, and (d) utilize its commercially reasonable efforts to pursue
+the transportation alternative, provided that each Party will not be required to incur any material expenses or capital costs in the performance of its obligations under this Section 11.23 unless a cost reimbursement agreement is entered into
+between the Parties.  [Signature page follows.] 
+   Page 29
+
+
+
+
+
+
+ IN WITNESS WHEREOF, this Agreement has been executed by the Parties on August 1, 2011, and is dated as of
+the date and year first above written.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONOCOPHILLIPS COMPANY
+ 
+
+ 
+PLAINS EXPLORATION & PRODUCTION COMPANY
+
+
+
+
+
+
+
+By:
+ 
+     /s/ Glenn E. Simpson
+ 
+
+ 
+By:
+ 
+     /s/ Winston M. Talbert
+
+
+ 
+Glenn E. Simpson
+ 
+
+ 
+
+ 
+Winston M. Talbert
+
+
+ 
+Manager/Americas Crude
+ 
+
+ 
+
+ 
+Executive Vice President & Chief Financial Officer
+ [This is the signature page of the January 1, 2012 Crude Oil Purchase Agreement 
+between ConocoPhillips Company and Plains Exploration & Production Company.] 
+   Page 30
+
+
+
+

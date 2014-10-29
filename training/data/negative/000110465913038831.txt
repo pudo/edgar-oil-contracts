@@ -1,0 +1,268 @@
+
+EX-10.1
+3
+a13-8413_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+  
+
+
+Exhibit 10.1
+ 
+SPECIFIC TERMS IN THIS EXHIBIT HAVE BEEN REDACTED BECAUSE CONFIDENTIAL TREATMENT FOR THOSE TERMS HAS BEEN REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPERATELY FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, AND THE TERMS HAVE BEEN MARKED AT THE APPROPRIATE PLACE WITH TWO ASTERISKS (**).
+ 
+AMENDMENT NO. 1 TO
+LIMITED LIABILITY COMPANY AGREEMENT OF
+MARKWEST UTICA EMG, L.L.C.
+ 
+This Amendment No. 1 dated January 30, 2013 (this Amendment), to the Limited Liability Company Agreement of MarkWest Utica EMG, L.L.C., dated as of December 29, 2011 and effective as of January 1, 2012 (as amended or restated from time to time, the Agreement), is made and entered into by the Company and the undersigned Members of the Company.  Capitalized terms not otherwise defined herein shall have the meaning set forth in the Agreement.
+ 
+RECITALS:
+ 
+A.            Pursuant to Sections 4.1(b)(i) and (ii) of the Agreement, the Class A Members have agreed to make cash Capital Contributions to the Company until such time as the Class A Members have an aggregate Investment Balance equal to the Minimum Class A Investment.
+ 
+B.            As of the date hereof, the aggregate amount of Capital Contributions that have been called from the Class A Members pursuant to duly issued Capital Calls issued in accordance with the Agreement equals $350,000,000, which is equal to the total amount of the Additional Class A Contributions.
+ 
+C.            The Class A Members are raising additional funds to fund the remaining balance of the Minimum Class A Investment, but the closing thereof has not occurred as of the date of this Amendment.
+ 
+D.            The Members desire to amend the Agreement to permit the Class B Members to make Capital Contributions to the Company during the Interim Period (as defined below), on the terms and conditions set forth herein.
+ 
+ 
+NOW THEREFORE, in consideration of the mutual promises made herein, the parties, intending to be legally bound, hereby agree as follows:
+ 
+1.             Section 1.1 of the Agreement is hereby amended to include the following new terms, which are inserted in alphabetical order in Section 1.1:
+ 
+Amendment Date means January 30, 2013.
+ 
+Class A Amount shall have the meaning set forth in Section 4.1(e)(ii).
+ 
+EMG Fund Closing means the date that members of the EMG Group have executed definitive agreements with limited partners or other investors or lenders pursuant to which such
+ 
+1
+
+
+
+
+
+
+ 
+SPECIFIC TERMS IN THIS EXHIBIT HAVE BEEN REDACTED BECAUSE CONFIDENTIAL TREATMENT FOR THOSE TERMS HAS BEEN REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPERATELY FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, AND THE TERMS HAVE BEEN MARKED AT THE APPROPRIATE PLACE WITH TWO ASTERISKS (**).
+ 
+investors or lenders have subscribed to make capital or loan proceeds commitments to EMG or another member of the EMG Group which would, upon the funding of such capital commitments or loan proceeds, be sufficient for the Class A Members to contribute to the Company the remaining balance of the Minimum Class A Investment that the Class A Members have not funded to the Company prior to the Amendment Date.  **
+ 
+Interim Period shall have the meaning set forth in Section 4.1(e)(ii).
+ 
+Make Up Contribution Amount shall have the meaning set forth in Section 4.1(e)(iii).
+ 
+Make Up Contribution Date shall have the meaning set forth in Section 4.1(e)(iv).
+ 
+Special Distribution shall have the meaning set forth in Section 4.1(e)(vi).
+ 
+2.             Section 4.1 of the Agreement is hereby amended by adding a new Section 4.1(e) thereto, which shall read as follows:
+ 
+(e)  Notwithstanding any provision of the Agreement to the contrary (including Section 4.1(b)(ii) and Section 4.1(b)(iii)):
+ 
+(i)            Cash that is contributed to the Company by the Members pursuant to this Section 4.1(e) shall be considered Capital Contributions under the Agreement for all purposes.
+ 
+(ii)           Commencing on the Amendment Date and through the earlier of (A) the date on which the EMG Fund Closing occurs and (B) March 15, 2013 (such period, the Interim Period), the Class B Members agree to make from time to time additional cash Capital Contributions to the Company, on an as needed basis and consistent with the applicable Approved Budget.  During the Interim Period, at each time when the Company requires additional Capital Contributions consistent with the Approved Budget, the Board, in accordance with this Agreement, shall issue a Capital Call to the Members which shall set forth the following information: (1) the aggregate amount of capital being called; (2) the portion of such called capital which would have otherwise been required to be contributed to the Company by the Class A Members pursuant to Section 4.1(b)(ii) had the Agreement not been amended to include this Section 4.1(e) (such amount, the Class A Amount); (3) a statement that the Class A Amount is being called from the Class B Members pursuant this Section 4.1(e); and (4) the aggregate Class A Amounts that have been contributed by the Class B Members as of the date of such Capital Call.  The Class B Members shall contribute to the Company the amount of Capital Contributions so requested, including the Class A Amount, in accordance with their respective Class B Percentage Interests, within fifteen Business Days after receipt of such Capital Call.
+ 
+2
+
+
+
+
+
+
+ 
+SPECIFIC TERMS IN THIS EXHIBIT HAVE BEEN REDACTED BECAUSE CONFIDENTIAL TREATMENT FOR THOSE TERMS HAS BEEN REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPERATELY FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, AND THE TERMS HAVE BEEN MARKED AT THE APPROPRIATE PLACE WITH TWO ASTERISKS (**).
+ 
+(iii)          Notwithstanding Section 4.7, the Investment Balance of the Class B Members shall be increased by the aggregate amount of Capital Contributions, including all Class A Amounts, contributed by the Class B Members pursuant to this Section 4.1(e) (such aggregate amount of Class A Amounts contributed by the Class B Members, the Make Up Contribution Amount).
+ 
+(iv)          On or no more than 15 Business Days prior to the end of the Interim Period, the Company shall send the Class A Members a written notice notifying the Class A Members of the Make Up Contribution Amount.  Within 15 Business Days following the delivery of such written notice, but in any event by no later than March 15, 2013 (the Make Up Contribution Date), the Class A Members shall, without the requirement of any further notice by the Company, make additional cash Capital Contributions to the Company in an amount equal to the Make Up Contribution Amount.  Notwithstanding Section 4.7, the Investment Balance of the Class A Members shall be increased by the Capital Contributions made pursuant to this Section 4.1(e)(iv).
+ 
+(v)           The provisions of Section 4.2 shall apply with respect to any Member who fails to contribute any capital to the Company that is required to be so contributed pursuant to this Section 4.1(e).
+ 
+(vi)          Notwithstanding any provision of the Agreement to the contrary, and without any further approval of the Board or the Members, including, without limitation, pursuant to Sections 6.1(b), 6.12(a) and 8.1, promptly following the contribution of the Make Up Contribution Amount to the Company by the Class A Members pursuant to Section 4.1(e)(iv), the Company shall make a special distribution to the Class B Members for capital reimbursement in an amount equal to the Make Up Contribution Amount less $15,000,000 (such distribution, the Special Distribution).  Upon completion of the Special Distribution, the Investment Balance of the Class B Members shall be reduced by the amount of the Special Distribution.
+ 
+(vii)         Following the end of the Interim Period, the existing provisions of the Agreement, without reference to this Section 4.1(e), shall continue to apply with respect to all additional cash Capital Contributions to the Company, after giving effect to any changes to the Members Investment Balances described in this Section 4.1(e), provided that the obligations of the Class A Members to contribute additional cash Capital Contributions equal to the Make Up Contribution Amount and the obligations of the Company to make the Special Distribution to the Class B Members shall remain in full force and effect until such obligations are fully satisfied.
+ 
+(viii)        Section 5.6 shall not apply to the Capital Contributions contemplated by this Section 4.1(e).
+ 
+(ix)           For the avoidance of doubt, during and after the Interim Period, the Overfunded Capital Amount, Overfunded Capital Base Amount, Overfunded Capital
+ 
+3
+
+
+
+
+
+
+ 
+SPECIFIC TERMS IN THIS EXHIBIT HAVE BEEN REDACTED BECAUSE CONFIDENTIAL TREATMENT FOR THOSE TERMS HAS BEEN REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPERATELY FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, AND THE TERMS HAVE BEEN MARKED AT THE APPROPRIATE PLACE WITH TWO ASTERISKS (**).
+ 
+Preference Amounts, Percentage Interests with respect to each Member, determinations as to whether the First Equalization Date or Second Equalization Date have occurred and all other matters set forth in the Agreement that are directly or indirectly determined by reference to Investment Balances, will be determined after giving effect to any changes to the Members Investment Balances described in this Section 4.1(e) that occur prior to the relevant time of determination.
+ 
+3.             Except as hereby expressly modified by this Amendment, all terms of the Agreement remain in full force and effect.  This Amendment shall bind and benefit the Company and its Members and their respective heirs, beneficiaries, administrators, executors, receivers, trustees, successors and assigns.
+ 
+4.             This Amendment may be executed in any number of counterparts, including by electronic transmission, with each such counterpart constituting an original and all of such counterparts constituting but one and the same instrument.
+ 
+[SIGNATURE PAGE FOLLOWS]
+ 
+4
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the Company and the Members have executed this Amendment as of the date first written above pursuant to and in accordance with Section 15.9 of the Agreement.
+ 
+ 
+
+
+
+COMPANY:    
+
+        
+
+
+     
+
+        
+
+
+MARKWEST   UTICA EMG, L.L.C.    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+By:    
+
+/s/   Frank M. Semple    
+
+     
+
+        
+
+
+Name:    
+
+Frank   M. Semple    
+
+     
+
+        
+
+
+Title:    
+
+Chairman,   President & CEO    
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+MEMBERS:    
+
+        
+
+
+     
+
+        
+
+
+MARKWEST   UTICA OPERATING COMPANY, L.L.C.    
+
+EMG   UTICA, LLC       
+
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+/s/   Frank M. Semple    
+
+     
+
+By:    
+
+/s/   John Raymond       
+
+
+Name:    
+
+Frank   M. Semple    
+
+     
+
+Name:    
+
+John   Raymond       
+
+
+Title:    
+
+Chairman,   President & CEO    
+
+     
+
+Title:    
+
+CEO         
+ 
+
+
+
+
+
+
+

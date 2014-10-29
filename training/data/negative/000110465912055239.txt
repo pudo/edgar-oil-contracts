@@ -1,0 +1,218 @@
+
+EX-10.3
+4
+a12-13782_1ex10d3.htm
+EX-10.3
+
+
+
+
+
+
+  
+
+
+Exhibit 10.3
+ 
+WARREN RESOURCES, INC.
+ 
+RESTRICTED STOCK UNIT AGREEMENT
+ 
+THIS AGREEMENT, dated as of             , 2012 (Grant Date) by and between Warren Resources, Inc., a Maryland Corporation (Corporation), and                    (Grantee), is entered into as follows:
+ 
+WHEREAS, the Corporation has established the 2010 Stock Incentive Plan, as amended from time to time (the Plan), a copy of which can be found on the Securities and Exchange Commission Web Site at:
+ 
+http://www.sec.gov/Archives/edgar/data/892986/000104746910003498/a2197906zdef14a.htm
+ 
+or by written or telephonic request to the Corporation Secretary, and which Plan is made a part hereof; and
+ 
+WHEREAS, the Compensation Committee of the Board of Directors of the Corporation (Committee) determined that the Grantee be granted stock units subject to the restrictions stated below, and as hereinafter set forth;
+ 
+NOW, THEREFORE, the parties hereby agree as follows:
+ 
+1.  Grant of Restricted Stock Units.
+ 
+Subject to the terms and conditions of this Agreement and of the Plan, the Corporation hereby issues to the Grantee on the Grant Date an Award consisting of, in the aggregate,                        Restricted Stock Units (the Restricted Stock Units). Each Restricted Stock Unit represents the right to receive one share of Common Stock (Shares), subject to the terms and conditions set forth in this Agreement and the Plan. The Restricted Stock Units shall be credited to a separate account maintained on the books and records of the Corporation (Account). All amounts credited to the Account shall continue for all purposes to be part of the general assets of the Corporation. Capitalized terms that are used but not defined herein have the meaning ascribed to them in the Plan. On any date, the value of each Unit shall equal the fair market value of a share of the Corporations Common Stock). For purposes of this Agreement, fair market value shall be deemed to be the mean of the highest and lowest quoted selling prices for a share of Stock on that date as reported on The NASDAQ Stock Market, Inc.
+ 
+2.  Vesting Schedule.
+ 
+Except as otherwise provided herein, the interest of the Grantee in the Restricted Stock Units shall vest (net of shares withheld for applicable tax withholdings):
+ 
+1/3rd on             , 2013,
+1/3rd on             , 2014, and
+1/3rd on             , 2015,
+ 
+so as to be 100% vested on           , 2015, conditioned upon the Grantees continued employment with the Corporation as of each vesting date. Notwithstanding the foregoing vesting schedule, if a Change in Control (as defined in the Plan) occurs and the Grantees employment is terminated by
+ 
+1
+
+
+
+
+
+
+ 
+the Corporation or an Affiliate within three (3) months following the Change in Control, all unvested Restricted Stock Units shall automatically become 100% vested on the Grantees date of termination.
+ 
+3.  Restrictions.
+ 
+(a)  The Restricted Stock Units granted hereunder may not be sold, pledged or otherwise transferred and may not be subject to lien, garnishment, attachment or other legal process. The period of time between the date hereof and the date the Restricted Stock Units become vested is referred to herein as the Restriction Period.
+ 
+(b)  If the Grantees employment with the Corporation is terminated by the Corporation for cause or voluntarily by the Grantee, the balance of the Restricted Stock Units subject to the provisions of this Agreement which have not vested at the time of the Grantees termination of employment shall be forfeited by the Grantee.
+ 
+4.  Dividends.
+ 
+If on any date the Corporation shall pay any dividend on the Stock (other than a dividend payable in Stock), the number of Restricted Stock Units credited to the Grantees Account shall as of such date be increased by an amount equal to: (a) the product of the number of Restricted Stock Units credited to the Grantees Account as of the record date for such dividend, multiplied by the per share amount of any dividend (or, in the case of any dividend payable in property other than cash, the per share value of such dividend, as determined in good faith by the Board of Directors of the Corporation), divided by (b) the fair market value of a share of Stock on the payment date of such dividend. In the case of any dividend declared on Stock which is payable in Stock, the number of Restricted Stock Units credited to the Grantee shall be increased by a number equal to the product of (x) the aggregate number of Restricted Stock Units that have been credited to the Grantees Account through the related dividend record date, multiplied by (y) the number of shares of Stock (including any fraction thereof) payable as a dividend on a share of Stock.
+ 
+5.  Changes in Stock.
+ 
+In the event of any change in the number and kind of outstanding shares of Stock by reason of any recapitalization, reorganization, merger, consolidation, stock split or any similar change affecting the Stock (other than a dividend payable in Stock) the Corporation shall make an appropriate adjustment in the number and terms of the Restricted Stock Units credited to the Grantees Account so that, after such adjustment, the Restricted Stock Units shall represent a right to receive the same consideration (or if such consideration is not available, other consideration of the same value) that the Grantee would have received in connection with such recapitalization, reorganization, merger, consolidation, stock split or any similar change if he had owned on the applicable record date a number of shares of Stock equal to the number of Restricted Stock Units credited to the Grantees Account prior to such adjustment.
+ 
+6.  Form and Timing of Payment.
+ 
+On the first to occur of the following, the Corporation shall pay to the Grantee a number of shares of Stock equal to the aggregate number of vested Restricted Stock Units credited to the Grantee as of such date:
+ 
+2
+
+
+
+
+
+
+ 
+(a)  On the vesting anniversaries of the Grant Date; or
+(b)  The Change of Control described in Section 2 above..
+ 
+7.  Taxes.
+ 
+The Grantee shall be liable for any and all taxes, including withholding taxes, arising out of this grant or the vesting of Restricted Stock Units hereunder. Unless the Grantee makes payment of the withholding in cash, a portion of the Stock subject to each Unit having a fair market value equal to the Corporations withholding obligation will be withheld to cover required taxes, and the net number of shares of Stock will be paid to the Grantee.
+ 
+8.  Application of Section 409A of the Internal Revenue Code.
+ 
+This Agreement, including the right to receive Corporation Stock upon satisfaction of the Vesting Schedule, is intended to be exempt from the requirements of section 409A of the Internal Revenue Code of 1986, as amended (the Code) pursuant to the short-term deferral exemption thereunder, and this Agreement, including the right to receive Corporation Stock upon the satisfaction of the Vesting Schedule, shall be interpreted on a basis consistent with such intent.
+ 
+Notwithstanding any provision in this Agreement to the contrary, if the Grantee is a specified employee (as defined in section 409A of the Code) and it is necessary to postpone the commencement of any payments otherwise payable under this Agreement to prevent any accelerated or additional tax under section 409A of the Code, then the Corporation will postpone the payment until five (5) days after the end of the six-month period following the original payment date. If the Grantee dies during the postponement period prior to the payment of postponed amount, the amounts withheld on account of section 409A of the Code shall be paid to the personal representative of the Grantees estate within sixty (60) days after the date of the Grantees death. The determination of who is a specified employee, including the number and identity of persons considered specified employees and the identification date, shall be made by the Committee in accordance with the provisions of sections 416(i) and 409A of the Code. In no event shall the Grantee, directly or indirectly, designate the calendar year of payment. This Agreement may be amended without the consent of the Grantee in any respect deemed by the Committee to be necessary in order to preserve compliance with section 409A of the Code or other applicable law
+ 
+9.  Grant Subject to Plan; Conflict
+ 
+This grant is subject to all the terms, conditions, limitations and restrictions contained in the Plan.  In the event of any conflict or inconsistency between the terms hereof and the terms of the Plan, the terms of the Plan shall be controlling
+ 
+10.  Miscellaneous.
+ 
+(a)  This grant is not a contract of employment and the terms of your employment shall not be affected hereby or by any agreement referred to herein except to the extent specifically so provided herein or therein.  Nothing herein shall be construed to impose any obligation on the Corporation, the Subsidiary or on any other subsidiary corporation or parent corporation thereof to continue your employment, and it shall not impose any obligation on your part to remain in the employ of the Subsidiary or of any subsidiary corporation or parent corporation thereof.
+ 
+3
+
+
+
+
+
+
+ 
+(b)  All amounts credited to the Grantees Account under this Agreement, until vested, shall continue for all purposes to be a part of the general assets of the Corporation. The Grantees interest in the Account shall make him only a general, unsecured creditor of the Corporation.
+ 
+(c)   The parties agree to execute such further instruments and to take such action as may reasonably be necessary to carry out the intent of this Agreement.
+ 
+(d)  Any notice required or permitted hereunder shall be given in writing and shall be deemed effectively given upon delivery to the Grantee at her address then on file with the Corporation.
+ 
+(e) You hereby represent that you have received a copy of the Plan and that you have had ample opportunity to review the Plan and ask questions with respect thereto.
+ 
+(f)  This Agreement and the Plan constitute the entire agreement of the parties with respect to the subject matter hereof.
+ 
+ 
+
+
+
+     
+
+     
+
+WARREN   RESOURCES, INC.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By    
+
+        
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:       
+
+
+     
+
+     
+
+        
+
+
+AGREED   TO AND ACCEPTED:    
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+Grantee    
+
+     
+
+          
+ 
+4
+
+
+
+
+
+
+

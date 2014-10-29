@@ -1,0 +1,1259 @@
+
+EX-10
+2
+rrc-10q_20130330108.htm
+EX-10.2
+
+
+
+
+
+
+
+ 
+EXHIBIT 10.2 
+    
+THIRD AMENDMENT TO FOURTH AMENDED AND RESTATED 
+CREDIT AGREEMENT 
+THIS THIRD AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT (this Amendment) is dated as of April 8, 2013, by and among RANGE RESOURCES CORPORATION, a Delaware corporation (the Borrower), CERTAIN SUBSIDIARIES OF THE BORROWER, as Guarantors (the Guarantors), the LENDERS party hereto and JPMORGAN CHASE BANK, N.A., as Administrative Agent for the Lenders (in such capacity, the Administrative Agent).  Unless the context otherwise requires or unless otherwise expressly defined herein, capitalized terms used but not defined in this Amendment have the meanings assigned to such terms in the Credit Agreement (as defined below). 
+WITNESSETH: 
+WHEREAS, the Borrower, the Guarantors, the Administrative Agent and the Lenders have entered into that certain Fourth Amended and Restated Credit Agreement, dated as of February 18, 2011 (as the same has been and may hereafter be amended, restated, amended and restated, supplemented or otherwise modified from time to time, the Credit Agreement); and 
+WHEREAS, the Borrower and the Guarantors have requested that the Administrative Agent and the Lenders amend the Credit Agreement as provided herein, and the Administrative Agent and the Lenders have agreed to do so on and subject to the terms and conditions hereinafter set forth. 
+NOW, THEREFORE, for and in consideration of the mutual covenants and agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged and confessed, the Borrower, the Guarantors, the Administrative Agent and the Lenders hereby agree as follows: 
+SECTION 1. Amendments to Credit Agreement.  Subject to the satisfaction or waiver in writing of each condition precedent set forth in Section 4 of this Amendment, and in reliance on the representations, warranties, covenants and agreements contained in this Amendment, the Credit Agreement shall be amended in the manner provided in this Section 1. 
+1.1 Additional Definitions.  The following definitions shall be and they hereby are added to Section 1.01 of the Credit Agreement in appropriate alphabetical order: 
+Commodity Exchange Act means the Commodity Exchange Act (7 U.S.C. § 1 et seq.), as amended from time to time, and any successor statute. 
+Eligible Contract Participant means an eligible contract participant as defined in the Commodity Exchange Act and the regulations thereunder. 
+Excluded Swap Obligation means, with respect to any Guarantor individually determined on a Guarantor by Guarantor basis, any Swap  
+Range Resources Third Amendment 
+ 
+65775202.6Page   
+ 
+ 
+Obligation if, and to the extent that, all or a portion of the Guarantee of such Guarantor of, or the grant by such Guarantor of a security interest to secure, such Swap Obligation (or any Guarantee thereof) is or becomes illegal under the Commodity Exchange Act or any rule, regulation or order of the Commodity Futures Trading Commission (or the application or official interpretation of any thereof) by virtue of such Guarantors failure for any reason to constitute an Eligible Contract Participant at the time the Guarantee of such Guarantor or the grant of such security interest becomes effective with respect to such Swap Obligation.  If a Swap Obligation arises under a master agreement governing more than one swap, such exclusion shall apply only to the portion of such Swap Obligation that is attributable to swaps for which such Guarantee or security interest is or becomes illegal. 
+Qualified ECP Guarantor means, in respect of any Swap Obligation, each Credit Party that has total assets exceeding $10,000,000 at the time the relevant Guarantee or grant of the relevant security interest becomes effective with respect to such Swap Obligation or such other person as constitutes an Eligible Contract Participant and can cause another person to qualify as an Eligible Contract Participant at such time by entering into a keepwell under Section 1a(18)(A)(v)(II) of the Commodity Exchange Act. 
+Swap Obligation means, with respect to any Guarantor, any obligation to pay or perform under any agreement, contract or transaction that constitutes a swap within the meaning of section 1a(47) of the Commodity Exchange Act. 
+1.2 Amended Definitions.  The following definitions set forth in Section 1.01 of the Credit Agreement shall be and they hereby are amended and restated in their respective entireties to read as follows: 
+Indenture means, collectively, (i) that certain Indenture dated May 6, 2008, among the Borrower, as issuer, certain of its Subsidiaries, as guarantors, and The Bank of New York Trust Company, N.A., as amended or supplemented from time to time as permitted under the terms hereof, (ii) that certain Indenture dated May 14, 2009, among the Borrower, as issuer, certain of its Subsidiaries, as guarantors, and The Bank of New York Mellon Trust Company, N.A., as amended or supplemented from time to time as permitted under the terms hereof, (iii) that certain Indenture dated August 12, 2010, among the Borrower, as issuer, certain of its Subsidiaries, as guarantors, and The Bank of New York Mellon Trust Company, N.A., as amended or supplemented from time to time as permitted under the terms hereof, (iv) that certain Indenture dated May 25, 2011, among the Borrower, as issuer, certain of its Subsidiaries, as guarantors, and The Bank of New York Mellon Trust Company, N.A., as amended or supplemented from time to time as permitted under the terms hereof, (v) that certain Indenture dated March 9, 2012, among the Borrower, as issuer, certain of its Subsidiaries, as guarantors, and The Bank of New York Mellon Trust Company, N.A., as amended or supplemented from time to time as permitted under the terms hereof, and (vi) that certain Indenture dated March 18, 2013, among the Borrower, as issuer, certain  
+Range Resources Third Amendment 
+ 
+65775202.6Page 2   
+ 
+ 
+of its Subsidiaries, as guarantors, and U.S. Bank National Association, as amended or supplemented from time to time as permitted under the terms hereof. 
+Net Cash Proceeds means, (A) with respect to the sale of Borrowing Base Properties by the Borrower or any Restricted Subsidiary, the excess, if any, of (a) the sum of cash and cash equivalents received in connection with such sale, but only as and when so received, over (b) the sum of (i) the principal amount of any Indebtedness that is secured by such asset and that is required to be repaid in connection with the sale thereof (other than the Loans), (ii) the out-of-pocket expenses incurred by the Borrower or such Restricted Subsidiary in connection with such sale, (iii) all legal, title and recording tax expense and all federal, state, provincial, foreign and local taxes required to be accrued as a liability under GAAP as a consequence of such sale, (iv) all distributions and other payments required to be made to minority interest holders in Restricted Subsidiaries as a result of such sale, (v) the deduction of appropriate amounts provided by the seller as a reserve, in accordance with GAAP, against any liabilities associated with the property or other assets disposed of in such sale and retained by the Borrower or any Restricted Subsidiary after such sale, (vi) cash payments made to satisfy obligations resulting from early termination of Swap Agreements in connection with or as a result of any such sale, and (vii) any portion of the purchase price from such sale placed in escrow, whether as a reserve for adjustment of the purchase price, for satisfaction of indemnities in respect of such sale or otherwise in connection with such sale; provided however, that upon the termination of that escrow, Net Cash Proceeds will be increased by any portion of funds in the escrow that are released to the Borrower or any Restricted Subsidiary and (B) with respect to any Permitted Refinancing or issuance of Senior Notes, the cash proceeds received from such Permitted Refinancing or issuance of Senior Notes, as the case may be, net of underwriting discounts and commissions and other reasonable costs and expenses associated therewith, including reasonable legal and accounting fees and expenses. 
+Obligations means (a) all obligations of every nature, contingent or otherwise, whether now existing or hereafter arising, of any Credit Party from time to time owed to the Administrative Agent, the Issuing Bank, the Lenders or any of them under any Loan Document, whether for principal, interest, reimbursement of amounts drawn under any Letter of Credit, funding indemnification amounts, fees, expenses, indemnification or otherwise, (b) Lender Hedging Obligations and (c) Cash Management Obligations; provided; however, that Obligations of a Credit Party shall not include any Excluded Swap Obligations of such Credit Party. 
+Senior Subordinated Notes means (i) the 7  1/4% Senior Subordinated Notes due 2018, issued pursuant to the Indenture, (ii) the 8.0 % Senior Subordinated Notes due 2019, issued pursuant to the Indenture, (iii) the 6  3/4% Senior Subordinated Notes due 2020, issued pursuant to the Indenture, (iv) the 5  3/4% Senior Subordinated Notes due 2021 issued pursuant to the Indenture, (v) the 5.0% Senior Subordinated Notes due 2022 issued pursuant to the Indenture, (vi)  
+Range Resources Third Amendment 
+ 
+65775202.6Page 3   
+ 
+ 
+the 5.0% Senior Subordinated Notes due 2023 issued pursuant to the Indenture and (vii) additional senior unsecured subordinated notes issued by the Borrower; provided that (a) the terms of such Senior Subordinated Notes do not provide for any scheduled repayment, mandatory redemption or sinking fund obligation prior to the date that is six months after the Maturity Date, (b) the covenant, default and remedy provisions of such Senior Subordinated Notes are substantially on the same terms and conditions as the Indenture or are not materially more restrictive, taken as a whole, than those set forth in this Agreement, (c) the mandatory prepayment, repurchase and redemption provisions of such Senior Subordinated Notes are substantially on the same terms and conditions as the Indenture or are not materially more onerous or expansive in scope, taken as a whole, than those set forth in this Agreement, and (d) the subordination provisions set forth in such Senior Subordinated Notes are at least as favorable to the Secured Parties as the subordination provisions set forth in the Indenture. 
+Senior Unsecured Notes means senior unsecured notes issued by the Borrower; provided that (i) the terms of such Senior Unsecured Notes do not provide for any scheduled repayment, mandatory redemption or sinking fund obligation prior to the date that is six months after the Maturity Date, (ii) the covenant, default and remedy provisions of such Senior Unsecured Notes are substantially on the same terms and conditions as the Indenture  (without giving effect to the subordination provisions) or are not materially more restrictive, taken as a whole, than those set forth in this Agreement and (iii) the mandatory prepayment, repurchase and redemption provisions of such Senior Unsecured Notes are substantially on the same terms and conditions as the Indenture (without giving effect to the subordination provisions) or are not materially more onerous or expansive in scope, taken as a whole, than those set forth in this Agreement. 
+1.3 Letters of Credit.  The last sentence of Section 2.07(b) of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows: 
+A Letter of Credit shall be issued, amended, renewed or extended only if (and upon issuance, amendment, renewal or extension of each Letter of Credit the Borrower shall be deemed to represent and warrant that), after giving effect to such issuance, amendment, renewal or extension (i) the LC Exposure shall not exceed $250,000,000 and (ii) the Aggregate Credit Exposure shall not exceed the lesser of (1) the Borrowing Base then in effect and (2) the Aggregate Commitment. 
+1.4 Payments Generally; Pro Rata Treatment; Sharing of Set-offs.  Section 2.19(b) of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows: 
+(b)If at any time insufficient funds are received by and available to the Administrative Agent to pay fully all amounts of principal, unreimbursed LC Disbursements, interest, fees and other Obligations then due hereunder, such  
+Range Resources Third Amendment 
+ 
+65775202.6Page 4   
+ 
+ 
+funds shall be applied (i) first, towards payment of interest and fees then due hereunder, ratably among the parties entitled thereto in accordance with the amounts of interest and fees then due to such parties, and (ii) second, towards payment of principal and unreimbursed LC Disbursements then due hereunder, ratably among the parties entitled thereto in accordance with the amounts of principal and unreimbursed LC Disbursements then due to such parties; provided that in the event such funds are received by and available to the Administrative Agent as a result of the exercise of any rights and remedies with respect to any Collateral under the Security Instruments, the parties entitled to a ratable share of such funds pursuant to the foregoing clause (ii) and the determination of each parties ratable share shall include, on a pari passu basis, (x) the Lender Counterparties with respect to Lender Hedging Obligations then due and owing to each Lender Counterparty by any Credit Party as a result of the early termination of any transactions under any Swap Agreements (after giving effect to any netting agreements) and (y) any Lender or any of its Affiliates with respect to Cash Management Obligations then due and owing to such Lender or any of its Affiliates by any Credit Party.  Notwithstanding the foregoing, amounts received from any Credit Party that is not an Eligible Contract Participant shall not be applied to any Excluded Swap Obligations owing to a Lender Counterparty (it being understood, that in the event that any amount is applied to Obligations other than Excluded Swap Obligations as a result of this clause, the Administrative Agent shall make such adjustments as it determines are appropriate to distributions pursuant to the foregoing clause (ii) from amounts received from Eligible Contract Participants to ensure, as nearly as possible, that the proportional aggregate recoveries with respect to Obligations described in the foregoing clause (ii) above by Lender Counterparties that are the holders of any Excluded Swap Obligations are the same as the proportional aggregate recoveries with respect to other Obligations pursuant to the foregoing clause (ii) above). 
+1.5 Indebtedness.  Section 7.01(h) of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows: 
+(h)unsecured Indebtedness under the Senior Notes (and any Permitted Refinancing thereof), including any Indebtedness constituting Guarantees thereof by any Credit Party; provided that at the time of and immediately after giving effect to each issuance of Senior Notes (and any Permitted Refinancing thereof), (i) no Default shall have occurred and be continuing or would be caused thereby and (ii) the Borrower is in pro forma compliance with the Consolidated Leverage Ratio set forth in Section 7.11(b) as of the end of the most recently ended fiscal quarter for which financial statements have been delivered to the Administrative Agent and the Lenders pursuant to Section 6.01, calculated as if such Senior Notes (and any Permitted Refinancing) were issued as of the last day of the trailing four fiscal quarter period ending on the date of such financial statements; and 
+Range Resources Third Amendment 
+ 
+65775202.6Page 5   
+ 
+ 
+    
+1.6 Restricted Payments.  Section 7.06 of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows: 
+Section 7.06Restricted Payments.  The Borrower will not, nor will it permit any of its Restricted Subsidiaries to, declare or make, or agree to pay or make, directly or indirectly, any Restricted Payment, except that (a) the Borrower may declare and pay dividends and make distributions with respect to its Equity Interests payable solely in additional Equity Interests of the Borrower, other than Disqualified Stock, (b) so long as no Default shall have occurred and be continuing or would be caused thereby, the Borrower may make Restricted Payments pursuant to and in accordance with stock option plans or other benefit plans for management or employees of the Borrower and its Restricted Subsidiaries; provided that any such Restricted Payments that are required to be made by the issuance of additional Equity Interests of the Borrower may be made regardless of whether a Default shall have occurred and is continuing, (c) any Restricted Subsidiary may make Restricted Payments to the Borrower or any Guarantor, (d) so long as no Default shall have occurred and be continuing or would be caused thereby, the Borrower may make Restricted Payments in an aggregate amount not to exceed $20,000,000, plus (i) 50% of cumulative Consolidated Net Income after December 31, 2001 (taken as one accounting period, but excluding any non-cash gains or losses associated with the application of FASB Statement 121 and Accounting Standards Codification Section 815-10), plus (ii) 66-2/3% of the aggregate net cash proceeds received by the Borrower from the issuance of its Equity Interests (other than Disqualified Stock) at any time after December 31, 2001, minus (iii) Restricted Payments made pursuant to Section 7.06(d) of the Original Credit Agreement (or pursuant to any equivalent section of any of its predecessor agreements) prior to the Effective Date, and (e) so long as no Default shall have occurred and be continuing or would be caused thereby, the Credit Parties may make Restricted Payments with respect to the Senior Notes (i) with the proceeds of any Permitted Refinancing permitted pursuant to Section 7.01(h) and (ii) at any other time that the Senior Notes are, by their terms, permitted or required to be retired, redeemed, defeased, repurchased, prepaid or repaid; provided that in the case of this clause (ii), (x) the Borrower issues (or has issued) Senior Notes within the ninety (90) day period following (or preceding) the date of such Restricted Payments (it being understood that if any such Restricted Payments are made prior to the issuance of such Senior Notes, such Restricted Payments shall otherwise be permitted under clause (d) of this Section 7.06 until such time as all conditions set forth in this clause (e)(ii) are satisfied, at which time such Restricted Payments shall be deemed to have been made as permitted by this clause (e), without any utilization of the clause (d) basket amount except as otherwise provided in clause (z) below), (y) all of the Net Cash Proceeds received by the Borrower from the issuance of the Senior Notes referred to in clause (x) above are used to prepay the Loans then outstanding, if any, and (z) without duplication, such Restricted Payments do not exceed the amount of the Net Cash Proceeds received by the Borrower from the issuance of the Senior Notes referred to in clause (x) above (unless the excess  
+Range Resources Third Amendment 
+ 
+65775202.6Page 6   
+ 
+ 
+amount of such Restricted Payments are otherwise permitted under clause (d) of this Section 7.06).   
+1.7 Guarantee of Obligations.  Article VIII of the Credit Agreement shall be and it hereby is amended by adding a new Section 8.11 to the end thereof to read as follows: 
+Section 8.11Keepwell.   
+(a)Each Qualified ECP Guarantor hereby jointly and severally absolutely, unconditionally and irrevocably undertakes to provide such funds or other support as may be needed from time to time by each other Credit Party to honor all of its obligations under this Agreement in respect of Swap Obligations (provided, however, that each Qualified ECP Guarantor shall only be liable under this Section 8.11 for the maximum amount of such liability that can be hereby incurred without rendering its obligations under this Section 8.11, or otherwise under this Agreement, voidable under applicable law relating to fraudulent conveyance or fraudulent transfer, and not for any greater amount). The obligations of each Qualified ECP Guarantor under this Section 8.11 shall remain in full force and effect until this Agreement is terminated, all Obligations are paid in full (other than contingent obligations for which no claim has been made) and all of the Lenders Commitments are terminated.  Each Qualified ECP Guarantor intends that this Section 8.11 constitute, and this Section 8.11 shall be deemed to constitute, a keepwell, support, or other agreement for the benefit of each other Credit Party for all purposes of Section 1a(18)(A)(v)(II) of the Commodity Exchange Act. 
+(b)Notwithstanding any other provisions of this Agreement or any other Loan Document, Obligations guaranteed by any Guarantor, or secured by the grant of any Lien by such Guarantor under any Security Instrument, shall exclude all Excluded Swap Obligations of such Guarantor. 
+SECTION 2. Redetermined Borrowing Base.  This Amendment shall constitute notice of a Scheduled Redetermination of the Borrowing Base pursuant to Section 3.04 of the Credit Agreement, and the Administrative Agent, the Required Lenders, the Borrower and the Guarantors hereby acknowledge that effective as of the date hereof, the Borrowing Base shall be reaffirmed at $2,000,000,000 and such redetermined Borrowing Base shall remain in effect until the earlier of (a) the next Redetermination of the Borrowing Base or (b) the date such Borrowing Base is otherwise adjusted pursuant to the terms of the Credit Agreement. 
+SECTION 3. Senior Notes Acknowledgment.  The Administrative Agent and the Lenders (or at least the required percentage hereof) hereby acknowledge and agree that the Borrowers redemption on or about December 28, 2012 of all of its outstanding $250.0 million 7.5% Senior Subordinated Notes due 2017 shall constitute a Restricted Payment permitted under Section 7.06(e)(ii) of the Credit Agreement (as amended by this Amendment) so long as (a) the Borrower issues Senior Notes on or prior to March 28, 2013 in an aggregate principal amount of at least $250,000,000 and (b) all of the Net Cash Proceeds received by the Borrower from the issuance of such Senior Notes are used to prepay the Loans then outstanding, if any. 
+Range Resources Third Amendment 
+ 
+65775202.6Page 7   
+ 
+ 
+    
+SECTION 4. Conditions.  The amendments to the Credit Agreement contained in Section 1 of this Amendment and the reaffirmation of the Borrowing Base contained in Section 2 of this Amendment shall be effective upon the satisfaction of each of the conditions set forth in this Section 4. 
+4.1 Execution and Delivery.  Each Credit Party, the Required Lenders, and the Administrative Agent shall have executed and delivered this Amendment and each other required document, all in form and substance satisfactory to the Administrative Agent. 
+4.2 No Default.  No Default shall have occurred and be continuing or shall result from the effectiveness of this Amendment. 
+4.3 Other Documents.  The Administrative Agent shall have received such other instruments and documents incidental and appropriate to the transactions provided for herein as the Administrative Agent or its special counsel may reasonably request, and all such documents shall be in form and substance satisfactory to the Administrative Agent. 
+SECTION 5. Representations and Warranties of Credit Parties.  To induce the Lenders to enter into this Amendment, each Credit Party hereby represents and warrants to the Lenders as follows: 
+5.1 Reaffirmation of Representations and Warranties/Further Assurances.  After giving effect to the amendments contained herein, each representation and warranty of such Credit Party contained in the Credit Agreement and in each of the other Loan Documents is true and correct in all material respects on the date hereof (except to the extent such representations and warranties relate solely to an earlier date, in which case they shall be true and correct as of such earlier date). 
+5.2 Corporate Authority; No Conflicts.  The execution, delivery and performance by such Credit Party of this Amendment and all documents, instruments and agreements contemplated herein (a) are within such Credit Partys corporate or other organizational powers, (b) have been duly authorized by all necessary action, (c) require no consent or approval of, or registration or filing with, or further action by, any Governmental Authority except such as have been obtained or made and are in full force and effect and, after the effective date of this Amendment, any required filings with the Securities and Exchange Commission, (d) do not violate any applicable law or regulation or the charter, by-laws or other Organizational Documents of such Credit Party or any order of any Governmental Authority, (e) do not violate or result in a default under any indenture, agreement or other instrument evidencing Material Indebtedness binding upon such Credit Party and (f) do not result in the creation or imposition of any Lien upon any of the assets of such Credit Party not otherwise permitted under Section 7.02 of the Credit Agreement. 
+5.3 Enforceability.  This Amendment has been duly executed and delivered by each Credit Party and constitutes the valid and binding obligation of such Credit Party enforceable in accordance with its terms, except as (i) the enforceability thereof may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting creditors rights generally,  
+    
+Range Resources Third Amendment 
+ 
+65775202.6Page 8   
+ 
+ 
+and (ii) the availability of equitable remedies may be limited by equitable principles of general application. 
+5.4 No Default.  As of the date of this Amendment, both before and immediately after giving effect to this Amendment, no Default or Event of Default has occurred and is continuing. 
+SECTION 6. Miscellaneous. 
+6.1 Reaffirmation of Loan Documents and Liens.  Except as amended and modified hereby, any and all of the terms and provisions of the Credit Agreement and the other Loan Documents shall remain in full force and effect and are hereby in all respects ratified and confirmed by each Credit Party.  Each Credit Party hereby agrees that the amendments and modifications herein contained shall in no manner affect or impair the liabilities, duties and obligations of any Credit Party under the Credit Agreement and the other Loan Documents or the Liens securing the payment and performance thereof. 
+6.2 Parties in Interest.  All of the terms and provisions of this Amendment shall bind and inure to the benefit of the parties hereto and their respective successors and assigns. 
+6.3 Counterparts.  This Amendment may be executed in one or more counterparts and by different parties hereto in separate counterparts each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument; signature pages may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are physically attached to the same document.  Delivery of an executed counterpart to this Amendment by facsimile or other electronic means shall be effective as delivery of manually executed counterparts of this Amendment. 
+6.4 Legal Expenses.  Each Credit Party hereby agrees to pay all reasonable fees and expenses of counsel to the Administrative Agent incurred by the Administrative Agent in connection with the preparation, negotiation and execution of this Amendment and all related documents. 
+6.5 Complete Agreement.  THIS AMENDMENT, THE CREDIT AGREEMENT, AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES. 
+6.6 Headings.  The headings, captions and arrangements used in this Amendment are, unless specified otherwise, for convenience only and shall not be deemed to limit, amplify or modify the terms of this Amendment, nor affect the meaning thereof. 
+6.7 Governing Law.  This Amendment shall be construed in accordance with and governed by the law of the State of Texas. 
+Range Resources Third Amendment 
+ 
+65775202.6Page 9   
+ 
+ 
+    
+6.8 Severability.  Any provision of this Amendment held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction. 
+6.9 Reference to and Effect on the Loan Documents. 
+(a)This Amendment shall be deemed to constitute a Loan Document for all purposes and in all respects.  Each reference in the Credit Agreement to this Agreement, hereunder, hereof, herein or words of like import, and each reference in the Credit Agreement or in any other Loan Document, or other agreements, documents or other instruments executed and delivered pursuant to the Credit Agreement to the Credit Agreement, shall mean and be a reference to the Credit Agreement as amended by this Amendment.   
+(b) The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of any Lender or the Administrative Agent under any of the Loan Documents, nor constitute a waiver of any provision of any of the Loan Documents. 
+[Remainder of Page Intentionally Blank.  Signature Pages Follow.] 
+    
+    
+    
+    
+Range Resources Third Amendment 
+ 
+65775202.6Page 10   
+ 
+ 
+ 
+    
+IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed as of the date first above written. 
+BORROWER: 
+RANGE RESOURCES CORPORATION 
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      ______________________________________ Name:  Roger S. Manny
+ Title:  Executive Vice President and Chief Financial Officer   
+GUARANTORS: 
+AMERICAN ENERGY SYSTEMS, LLC 
+ENERGY ASSETS OPERATING COMPANY, LLC 
+RANGE ENERGY SERVICES COMPANY, LLC 
+RANGE OPERATING NEW MEXICO, LLC 
+RANGE PRODUCTION COMPANY 
+RANGE RESOURCES  APPALACHIA, LLC 
+RANGE RESOURCES  MIDCONTINENT, LLC 
+RANGE RESOURCES  PINE MOUNTAIN, INC. 
+RANGE TEXAS PRODUCTION, LLC 
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      ____________________________________ Name: Roger S. Manny
+ Title: Executive Vice President of all of the foregoing Guarantors 
+    
+ 
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+    
+    
+ 
+ 
+    
+JPMORGAN CHASE BANK, N.A., as Administrative Agent, Issuing Bank and as a Lender 
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ David Morris
+ Name:  David Morris 
+Title:  Authorized Officer 
+ 
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+    
+    
+ 
+ 
+    
+ROYAL BANK OF CANADA, as a  Co-Syndication Agent and as a Lender 
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Kristan Spivay
+  
+
+
+   
+   
+
+   
+      Name:
+   
+       Kristan Spivay
+ Title:  Authorized Signatory 
+    
+    
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+    
+    
+ 
+ 
+ 
+    
+BANK OF AMERICA, N.A., as a  Co-Documentation Agent and as a Lender 
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Jeffrey H. Rathkamp
+ Name:  Jeffrey H. Rathkamp 
+Title:  Managing Director 
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+    
+    
+ 
+ 
+ 
+    
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, as a Co-Syndication Agent and as a Lender 
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Sharada Manne
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Sharada Manne
+  
+
+
+   
+   
+
+   
+      Title:
+   
+      Managing Director
+     
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Darrell Stanley
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Darrell Stanley
+ Title:   Managing Director 
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+    
+    
+ 
+ 
+    
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as a Co-Documentation Agent and as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Tom Martin
+ Name:  Tom K. Martin 
+Title:  Director 
+ 
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+    
+    
+ 
+ 
+    
+BANK OF MONTREAL, as a Co-Agent and as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ James V. Ducote
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      James V. Ducote
+ Title:  Director 
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+    
+    
+ 
+ 
+ 
+    
+BARCLAYS BANK PLC, as a Co-Agent and as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Vanessa A. Kurbatskiy
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Vanessa A. Kurbatskiy
+ Title:  Vice President 
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+    
+    
+ 
+ 
+ 
+    
+    
+CITIBANK, N.A., as a Co-Agent and as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Eamon Baqui
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Eamon Baqui
+ Title:  Vice President 
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+    
+    
+ 
+ 
+ 
+    
+COMPASS BANK, as a Co-Agent and as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Umar Hassan
+  
+
+
+   
+   
+
+   
+      Name:
+   
+       Umar Hassan
+ Title:  Vice President 
+    
+    
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+DEUTSCHE BANK TRUST COMPANY AMERICAS, as a Co-Agent and as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Marcus M. Tarkington
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Marcus M. Tarkington
+  
+
+
+   
+   
+
+   
+      Title:
+   
+      Director
+     
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Michael Getz
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Michael Getz
+  
+
+
+   
+   
+
+   
+      Title:
+   
+      Vice President
+     
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+NATIXIS, as a Co-Agent and as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Louis P. Laville, III
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Louis P. Laville, III
+  
+
+
+   
+   
+
+   
+      Title:
+   
+      Managing Director
+     
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Stuart Murray
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Stuart Murray
+ Title: Managing Director 
+ 
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+    
+THE BANK OF NOVA SCOTIA, as a Co-Agent and as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Terry Donovan
+ Name:  Terry Donovan 
+Title:  Managing Director 
+ 
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+    
+SUNTRUST BANK, as a Co-Agent and as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Shannon Juhan
+ Name:  Shannon Juhan 
+Title:  Vice President 
+ 
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+    
+UNION BANK, N.A., as a Co-Agent and as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ David Carter
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      David Carter
+  
+
+
+   
+   
+
+   
+      Title:
+   
+      Investment Banking Officer
+  
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+    
+CAPITAL ONE, N.A., as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Nancy M. Mak
+ Name:  Nancy M. Mak 
+Title:  Senior Vice President 
+    
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+COMERICA BANK, as a Lender 
+    
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Katya Evseev
+  
+
+
+   
+   
+
+   
+      Name:
+   
+       Katya Evseev
+ Title:  Assistant Vice President 
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+CREDIT SUISSE AG, Cayman Islands Branch, as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Vipul Dhadda
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Vipul Dhadda
+  
+
+
+   
+   
+
+   
+      Title:
+   
+      Vice President
+     
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Wei-Jen Yuan
+ Name:  Wei-Jen Yuan 
+Title:  Associate 
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+KEYBANK NATIONAL ASSOCIATION, as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Paul J. Paco
+ Name:  Paul J. Paco 
+  Title:  Senior Vice President 
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+SOCIÉTÉ GÉNÉRALE, as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ David M. Bornstein
+ Name:  David M. Bornstein 
+Title:  Director 
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+UBS LOAN FINANCE LLC, as a Lender 
+    
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Lana Gifas
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Lana Gifas
+ Title:  Director 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Joselin Fernandes
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Joselin Fernandes
+ Title:   Associate Director 
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+U.S. BANK NATIONAL ASSOCIATION, as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Daria Mahoney
+ Name:  Daria Mahoney 
+Title:  Vice President 
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+SOVEREIGN BANK, N.A., as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ David ODriscoll
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      David ODriscoll
+ Title:  Senior Vice President 
+    
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Mark Connelly
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Mark Connelly
+ Title:  Senior Vice President 
+    
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+BOKF, NA dba BANK OF TEXAS, as a Lender 
+    
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Colin Watson
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Colin Watson
+ Title:   Banking Officer 
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+AMEGY BANK NATIONAL ASSOCIATION, as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Kevin A. James
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Kevin A. James
+ Title:  Vice President 
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+THE FROST NATIONAL BANK, as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Alex Zemkoski
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Alex Zemkoski
+ Title:  Vice President 
+    
+    
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+PNC BANK, NATIONAL ASSOCIATION, as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ M. Colin Warman
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      M. Colin Warman
+ Title:  Vice President 
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+BRANCH BANKING AND TRUST COMPANY, as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ James Giordano
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      James Giordano
+ Title:  Vice President 
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+ 
+ 
+    
+CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK AGENCY, as a Lender 
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Trudy W. Nelson
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Trudy W. Nelson
+ Title:  Managing Director 
+    
+    
+    
+ 
+
+
+   
+   
+
+   
+      By:
+   
+      /s/ Richard Antl
+  
+
+
+   
+   
+
+   
+      Name:
+   
+      Richard Antl
+ Title:  Director 
+    
+    
+    
+    
+    
+Range Resources Third Amendment 
+65775202Signature Page 
+ 
+

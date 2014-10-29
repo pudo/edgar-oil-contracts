@@ -1,0 +1,3629 @@
+
+EX-10.1
+2
+d573350dex101.htm
+EX-10.1
+
+
+EX-10.1
+
+ 
+ Exhibit 10.1   
+   
+  
+
+
+
+  SIXTH AMENDMENT TO CREDIT
+AGREEMENT  dated as of September 26, 2013 
+among  Memorial
+Production Operating LLC,  as Borrower, 
+The Guarantors Party Hereto, 
+Wells Fargo Bank, National Association, 
+as Administrative Agent, 
+JPMorgan Chase Bank, N.A., 
+as Syndication Agent, 
+Royal Bank of Canada, The Royal Bank of Scotland plc, Union Bank, N.A., and 
+Comerica Bank,  as
+Co-Documentation Agents,  and 
+The Lenders Party Hereto   
+  Wells Fargo
+Securities, LLC and J.P. Morgan Securities LLC  Co-Lead Arrangers and Joint Bookrunners 
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ SIXTH
+AMENDMENT TO CREDIT AGREEMENT
+ This SIXTH AMENDMENT TO CREDIT
+AGREEMENT (this Sixth Amendment), dated as of September 26, 2013 (the Sixth Amendment Effective Date), is among MEMORIAL PRODUCTION OPERATING LLC,
+a limited liability company formed under the laws of the State of Delaware (the Borrower); MEMORIAL PRODUCTION PARTNERS LP, a limited partnership formed under the laws of the State of
+Delaware (the Parent); each of the other undersigned guarantors (the Other Guarantors, and together with the Borrower and the Parent, the Loan Parties); each of the Lenders that is a signatory
+hereto; and WELLS FARGO BANK, NATIONAL ASSOCIATION, as administrative agent for the Lenders (in such capacity, together with its successors, the Administrative
+Agent).  Recitals 
+A.        The Borrower, the Parent, the Administrative Agent and the Lenders are
+parties to that certain Credit Agreement dated as of December 14, 2011 (as amended prior to the date hereof, the Credit Agreement), pursuant to which the Lenders have, subject to the terms and conditions set forth therein,
+made certain credit available to and on behalf of the Borrower.  B.        The
+Borrower has advised the Administrative Agent and the Lenders that the Borrower has entered into the Subject Acquisition Agreements (as defined on Schedule 1 hereto) pursuant to which the Borrower will acquire, directly or indirectly, as
+applicable, the Subject Acquisition Assets (as defined on Schedule 1 hereto), in each case, as more particularly described in the Subject Acquisition Agreements. 
+C.         The parties hereto desire to (i) amend the Credit Agreement in certain
+respects including, without limitation, to increase the Aggregate Maximum Credit Amounts to $2,000,000,000, to be effective as of the Sixth Amendment Effective Date, and (ii) provide for the automatic increase of the Borrowing Base to an amount
+equal to the sum of (a) the Borrowing Base in effect immediately prior to the effectiveness of the increase in the Borrowing Base provided for in Section 3 hereof upon the consummation of each of the Subject Acquisitions (as defined
+on Schedule 1 hereto) plus (b) $440,000,000, which increase is to be effective immediately prior to the consummation of each of the Subject Acquisitions on the Subject Acquisition Closing Date (as defined below). 
+D.        The Borrower has requested that Branch Banking and Trust Company, Compass
+Bank, Canadian Imperial Bank of Commerce, New York Branch, and UBS Loan Finance LLC (each a New Lender and, collectively, the New Lenders) become Lenders hereunder with Maximum Credit Amounts and Elected
+Commitments in the amounts as shown on Annex I to the Credit Agreement (as amended hereby). 
+E.        The Borrower has advised the Administrative Agent and the Lenders that,
+substantially contemporaneously with the consummation of the Subject Acquisitions, (i) Tanos Exploration, LLC, a Texas limited liability company, will merge with Tanos Energy, LLC, a Delaware limited liability company (Tanos
+Energy), with Tanos Energy being the surviving entity following such merger, (ii) Tanos Energy Holdings, LLC, a Delaware limited liability company, will merge with Tanos Energy with Tanos Energy being the surviving entity, and
+(iii)
+   Page 1 
+
+
+
+
+ 
+after giving effect to the mergers referred to in the foregoing clauses (i) and (ii), the following entities will merge with the Borrower with the Borrower being the surviving entity
+following each such merger: Boaz Energy, LLC, a Delaware limited liability company, Crown Energy Partners, LLC, a Delaware limited liability company, Propel SPV, Stanolind SPV, and Tanos Energy (such entities, collectively, the Subject
+Acquisition Merger Entities, and such mergers referred to in the foregoing clauses (i) through (iii), collectively, the Subject Acquisition Closing Date Mergers). 
+NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+Section 1.        Defined Terms. Certain capitalized terms used herein
+shall have the meanings given to such terms on Schedule 1 hereto. Each capitalized term which is defined in the Credit Agreement, but which is not defined in this Sixth Amendment, shall have the meaning ascribed such term in the Credit
+Agreement, as amended hereby. Unless otherwise indicated, all section references in this Sixth Amendment refer to the Credit Agreement. 
+Section 2.        Amendments as of Sixth Amendment Effective Date. In
+reliance on the representations, warranties, covenants and agreements contained in this Sixth Amendment, and subject to the satisfaction of the conditions precedent set forth in Section 4 hereof, the Credit Agreement shall be amended
+effective as of the Sixth Amendment Effective Date in the manner provided in this Section 2. 
+2.1        Additional Definitions. Section 1.02 of the Credit Agreement is
+hereby amended to add thereto in alphabetical order the following definitions which shall read in full as follows: 
+Additional Lender has the meaning given to such term in
+Section 2.06(c)(i).  Additional Lender Certificate has the
+meaning given to such term in Section 2.06(c)(ii)(G).  Affiliated
+Acquisition means any Acquisition pursuant to which a Loan Party will directly or indirectly acquire Oil and Gas Properties from an Affiliate of the Borrower (other than a Loan Party). 
+Aggregate Elected Commitment Amounts at any time shall equal the sum of
+the Elected Commitments, as the same may be increased, reduced or terminated pursuant to Section 2.06(c). As of the Sixth Amendment Effective Date, the Aggregate Elected Commitment Amounts are $480,000,000. 
+Elected Commitment means, as to each Lender, the amount set forth opposite
+such Lenders name on Annex I under the caption Elected Commitment, as the same may be increased, reduced or terminated from time to time in connection with an optional increase, reduction or termination of the Aggregate Elected
+Commitment Amounts pursuant to Section 2.06(c). 
+   Page 2 
+
+
+
+
+ Elected Commitment Increase
+Certificate has the meaning given to such term in Section 2.06(c)(ii)(F). 
+LIBOR Market Index, when used in reference to any Loan or Borrowing, means
+that such Loan is, or the Loans comprising such Borrowing are, bearing interest at a rate determined by reference to the LIBOR Market Index Rate. 
+LIBOR Market Index Rate means, for any day with respect to any LIBOR
+Market Index Loan, a rate per annum equal to the greater of: (a) 0% and (b) the rate appearing on Reuters Screen LIBOR01 Page (or on any successor or substitute page of such service, or any successor to or substitute for such service,
+providing rate quotations comparable to those currently provided on such page of such service, as determined by the Administrative Agent from time to time for purposes of providing quotations of interest rates applicable to dollar deposits in the
+London interbank market) at approximately 11:00 a.m., London time on such day (or if such day is not a Business Day, then the immediately preceding Business Day), as the rate for dollar deposits with a one-month maturity. In the event that such rate
+is not available at such time for any reason, then the LIBOR Market Index Rate with respect to such LIBOR Market Index Loan shall be the rate (rounded upwards, if necessary, to the next 1/100 of 1%) at which dollar deposits of an amount
+comparable to such Loan and for a one-month maturity are offered by the principal London office of the Administrative Agent in immediately available funds in the London interbank market at approximately 11:00 a.m. on such day (or if such day is not
+a Business Day, then the immediately preceding Business Day).  Sixth
+Amendment means that certain Sixth Amendment to Credit Agreement dated as of September 26, 2013, among the Borrower, the Parent, the other Guarantors, the Administrative Agent and the Lenders. 
+Sixth Amendment Effective Date means September 26, 2013. 
+Total Commitments Utilization Percentage means, as of any day, the
+fraction expressed as a percentage, the numerator of which is the sum of the Revolving Credit Exposures of the Lenders on such day, and the denominator of which is the total Commitments of the Lenders in effect on such day. 
+2.2        Amended Definitions. The definitions of Applicable
+Margin, Availability, Commitment, Interest Payment Date, Lenders, Loan Documents, Maximum Credit Amount, Permitted
+Additional Debt, Specified Acquisition, Type and Unused Commitment contained in Section 1.02 of the Credit Agreement are hereby amended and restated in their entirety to read in
+full as follows:  Applicable Margin means, for any day, with respect
+to any ABR Loan, LIBOR Market Index Loan or Eurodollar Loan, or with respect to the Commitment Fee Rate, as the case may be, the rate per annum set forth in the Total Commitments Utilization Grid below based upon the Total Commitments Utilization
+Percentage then in effect: 
+   Page 3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Commitments Utilization Grid
+
+ Total
+Commitments Utilization
+Percentage
+  
+  <25%
+  
+
+  ³ 25%
+  <50%
+  
+
+  ³ 50%
+  <75%
+  
+
+  ³ 75%
+  <90%
+  
+  ³90%
+
+Eurodollar Loans
+  
+1.500%
+  
+1.750%
+  
+2.000%
+  
+2.250%
+  
+2.500%
+
+ LIBOR Market
+Index Loans
+  
+1.500%
+  
+1.750%
+  
+2.000%
+  
+2.250%
+  
+2.500%
+
+ABR Loans
+  
+0.500%
+  
+0.750%
+  
+1.000%
+  
+1.250%
+  
+1.500%
+
+ Commitment Fee
+Rate
+  
+0.375%
+  
+0.375%
+  
+0.375%
+  
+0.500%
+  
+0.500%
+ Each change in the Applicable Margin shall apply during the
+period commencing on the effective date of such change and ending on the date immediately preceding the effective date of the next such change; provided that if at any time the Borrower fails to deliver a Reserve Report pursuant to Section 8.12
+and such failure continues for more than 10 Business Days from the date when such Reserve Report is due, then the Applicable Margin means the rate per annum set forth on the grid when the Total Commitments Utilization Percentage is at
+its highest level until such Reserve Report is delivered. 
+Availability means, at any time, (a) the then effective total
+Commitments minus (b) the total Revolving Credit Exposures. 
+Commitment means, with respect to each Lender, the commitment of such
+Lender to make Loans and to acquire participations in Letters of Credit hereunder, expressed as an amount representing the maximum aggregate amount of such Lenders Revolving Credit Exposure hereunder, as such commitment may be
+(a) modified from time to time pursuant to Section 2.06 and (b) modified from time to time pursuant to assignments by or to such Lender pursuant to Section 12.04(a). The amount representing each Lenders Commitment shall at
+any time be the least of (i) such Lenders Maximum Credit Amount, (ii) such Lenders Applicable Percentage of the then effective Borrowing Base and (iii) such Lenders Elected Commitment. 
+Interest Payment Date means (a) with respect to any ABR Loan and any
+LIBOR Market Index Loan, the last day of each March, June, September and December, and (b) with respect to any Eurodollar Loan, the last day of the Interest Period applicable to the Borrowing of which such Loan is a part and, in the case of a
+Eurodollar Borrowing with an Interest Period of more than three months duration, each day prior to the last day of such Interest Period that occurs at intervals of three months duration after the first day of such Interest Period. 
+   Page 4 
+
+
+
+
+ Lenders means the Persons
+listed on Annex I, any Person that shall have become a party hereto pursuant to an Assignment and Assumption, and any Person that shall have become a party hereto as an Additional Lender pursuant to Section 2.06(c), other than, in each case,
+any such Person that ceases to be a party hereto pursuant to an Assignment and Assumption. 
+Loan Documents means this Agreement, the First Amendment, the Second
+Amendment, the Third Amendment, the Fourth Amendment, the Fifth Amendment, the Sixth Amendment, the Notes, the Letter of Credit Agreements, the Letters of Credit, the Agency Fee Letter, and the Security Instruments. 
+Maximum Credit Amount means, as to each Lender, the amount set forth
+opposite such Lenders name on Annex I under the caption Maximum Credit Amounts, as the same may be (a) reduced or terminated from time to time in connection with a reduction or termination of the Aggregate Maximum Credit
+Amounts pursuant to Section 2.06(b), (b) modified from time to time pursuant to Section 2.06(c) or (c) modified from time to time pursuant to any assignment permitted by Section 12.04(a). 
+Permitted Additional Debt means, at any time, the Debt evidenced by the
+Permitted Senior Unsecured Notes, if Permitted Senior Unsecured Notes are then outstanding. 
+Specified Acquisition means (a) any Affiliated Acquisition so long
+as, (i) at the time any Loan Party enters into any Swap Agreements with respect to the reasonably anticipated projected production from proved Oil and Gas Properties to be acquired in such Affiliated Acquisition, the ratio of Availability to
+the then effective total Commitments is at least 0.10 to 1.0, (ii) the Borrower has delivered written notice to the Administrative Agent of the Loan Parties intent to enter into such Swap Agreements not less than five Business Days prior
+to entering into any Swap Agreements with respect to the reasonably anticipated projected production from proved Oil and Gas Properties to be acquired in such Affiliated Acquisition (which written notice shall include reserve engineering data and
+such other information regarding such to-be-acquired Oil and Gas Properties and such Affiliated Acquisition as the Administrative Agent may reasonably request), and (iii) at the time any Loan Party enters into any Swap Agreements with respect
+to the reasonably anticipated projected production from proved Oil and Gas Properties to be acquired in such Affiliated Acquisition, no Swap Agreements have been required to be Liquidated pursuant to Section 9.18(a)(ii) in the immediately
+preceding 365-day period, and (b) any Acquisition (other than an Affiliated Acquisition) for which: (i) a binding and enforceable purchase and sale agreement has been signed by a Loan Party; and (ii) at the time of the signing of the
+applicable purchase and sale agreement, the ratio of Availability to the then effective total Commitments is at least 0.10 to 1.0. 
+Type, when used in reference to any Loan or Borrowing, refers to whether
+the rate of interest on such Loan, or on the Loans comprising such Borrowing, is determined by reference to the Alternate Base Rate, the LIBOR Market Index Rate or the Adjusted LIBO Rate. 
+   Page 5 
+
+
+
+
+ Unused Commitment means
+(a) the then effective total Commitments minus (b) the total Revolving Credit Exposures. With respect to each Lender, such Lenders Unused Commitment is such Lenders Applicable Percentage of the Unused Commitment. 
+2.3        Deletion of Definitions. The definitions of Borrowing Base
+Utilization Percentage, Intercreditor Agreement, Permitted Second Lien Debt, Permitted Second Lien Debt Term Sheet and Permitted Second Lien Documents contained in
+Section 1.02 of the Credit Agreement are each hereby deleted in their entirety. 
+2.4        Amendment to Section 2.02(b) of the Credit Agreement.
+Section 2.02(b) of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+(b)       Subject to Section 3.03 and Section 5.06,
+each Borrowing shall be comprised entirely of ABR Loans, LIBOR Market Index Loans or Eurodollar Loans as the Borrower may request in accordance herewith. Each Lender at its option may make any Eurodollar Loan by causing any domestic or foreign
+branch or Affiliate of such Lender to make such Loan; provided that any exercise of such option shall not affect the obligation of the Borrower to repay such Loan in accordance with the terms of this Agreement. 
+2.5        Amendment to Section 2.02(c) of the Credit Agreement. The first
+reference to ABR Borrowing contained in Section 2.02(c) of the Credit Agreement is hereby deleted and replaced with a reference to ABR Borrowing or LIBOR Market Index Borrowing. 
+2.6        Amendment to Section 2.02(d) of the Credit Agreement. The first
+sentence of Section 2.02(d) of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+The Loans made by each Lender shall be evidenced by a single promissory note of the Borrower
+in substantially the form of Exhibit A, dated, in the case of (i) any Lender party hereto as of the date of this Agreement, as of the date of this Agreement, (ii) any Lender that becomes a party hereto pursuant to an Assignment and
+Assumption, as of the effective date of the Assignment and Assumption or (iii) any Lender that increases its Elected Commitment or becomes a party hereto in connection with an increase in the Aggregate Elected Commitment Amounts pursuant to
+Section 2.06(c), as of the effective date of such increase, payable to such Lender in a principal amount equal to its Maximum Credit Amount as in effect on such date, and otherwise duly completed. 
+2.7        Amendments to Sections 2.03 of the Credit Agreement. 
+(a)       The first reference to ABR Borrowing contained in Section 2.03 of
+the Credit Agreement is hereby deleted and replaced with a reference to ABR Borrowing or a LIBOR Market Index Borrowing. 
+   Page 6 
+
+
+
+
+ (b)      Clause (iii) of Section 2.03 of
+the Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+ (iii)      whether such Borrowing is to be an ABR
+Borrowing, a LIBOR Market Index Borrowing or a Eurodollar Borrowing;  (c)      Clause
+(v) of Section 2.03 of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+ (v)        the amount of the then effective
+Borrowing Base, the amount of the then effective Aggregate Elected Commitment Amounts, the current total Revolving Credit Exposures (without regard to the requested Borrowing) and the pro forma total Revolving Credit Exposures (giving effect to the
+requested Borrowing); and  (d)      The parenthetical at the end of the second to last
+paragraph of Section 2.03 of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+ (i.e. the least of (x) the Aggregate Maximum Credit Amounts, (y) the then
+effective Borrowing Base and (z) the Aggregate Elected Commitment Amounts). 
+2.8      Amendment to Section 2.04(c) of the Credit Agreement. Clause (iii) of
+Section 2.04(c) of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+(iii)        whether the resulting Borrowing is to be
+an ABR Borrowing, a LIBOR Market Index Borrowing or a Eurodollar Borrowing; and 
+2.9      Amendments to Section 2.06 of the Credit Agreement. 
+(a)        The title of Section 2.06 is hereby deleted and replaced with the
+following:      Termination and Reduction of Aggregate Maximum
+Credit Amounts; Optional Increase and Reduction of Aggregate Elected Commitment Amounts. 
+(b)        The second sentence of Section 2.06(a) of the Credit Agreement is
+hereby amended and restated in its entirety to read in full as follows: 
+    If at any time the Aggregate Maximum Credit Amounts, the Borrowing
+Base or the Aggregate Elected Commitment Amounts is terminated or reduced to zero, then the Commitments shall terminate on the effective date of such termination or reduction. 
+(c)        Section 2.06(b)(i) of the Credit Agreement is hereby amended and
+restated in its entirety to read in full as follows: 
+   Page 7 
+
+
+
+
+
+(i)        The Borrower may at any time terminate, or
+from time to time reduce, the Aggregate Maximum Credit Amounts; provided that (A) each reduction of the Aggregate Maximum Credit Amounts shall be in an amount that is an integral multiple of $1,000,000 and not less than $5,000,000,
+(B) the Borrower shall not terminate or reduce the Aggregate Maximum Credit Amounts if (1) after giving effect to any concurrent prepayment of the Loans in accordance with Section 3.04(c), the total Revolving Credit Exposures would
+exceed the total Commitments or (2) the Aggregate Maximum Credit Amounts would be less than $10,000,000 (unless with respect to this clause (2), the Aggregate Maximum Credit Amounts are reduced to $0), and (C) upon any reduction of the
+Aggregate Maximum Credit Amounts that would otherwise result in the Aggregate Maximum Credit Amounts being less than the Aggregate Elected Commitment Amounts, the Aggregate Elected Commitment Amounts shall be automatically reduced (ratably among the
+Lenders in accordance with each Lenders Applicable Percentage) so that they equal the Aggregate Maximum Credit Amounts as so reduced. 
+(d)      A new Section 2.06(c) is hereby added to the Credit Agreement immediately
+following Section 2.06(b), which Section 2.06(c) shall read in full as follows: 
+  (c)        Increases, Reductions and
+Terminations of Aggregate Elected Commitment Amounts. 
+     (i)      Subject to the
+conditions set forth in Section 2.06(c)(ii), the Borrower may increase the Aggregate Elected Commitment Amounts then in effect by increasing the Elected Commitment of a Lender or by causing a Person that is acceptable to the Administrative
+Agent that at such time is not a Lender to become a Lender (any such Person that is not at such time a Lender and becomes a Lender, an Additional Lender). Notwithstanding anything to the contrary contained in this Agreement, in no
+case shall an Additional Lender be the Parent, an Affiliate of the Parent or a natural person. 
+     (ii)      Any increase in the
+Aggregate Elected Commitment Amounts shall be subject to the following additional conditions: 
+      (A)      such increase
+shall not be less than $50,000,000 unless the Administrative Agent otherwise consents, and no such increase shall be permitted if after giving effect thereto the Aggregate Elected Commitment Amounts exceed the Borrowing Base then in effect; 
+      (B)      following any
+Scheduled Redetermination Date, the Borrower may not increase the Aggregate Elected Commitment Amounts more than once before the next Scheduled Redetermination Date (for the sake of clarity, all increases in the
+
+   Page 8 
+
+
+
+
+ 
+Aggregate Elected Commitment Amount effective on a single date shall be deemed a single increase in the Aggregate Elected Commitment Amount for purposes of this Section 2.06(c)(ii)(B)); 
+      (C)        no
+Default shall have occurred and be continuing on the effective date of such increase; 
+      (D)        on
+the effective date of such increase, no Eurodollar Borrowings shall be outstanding or if any Eurodollar Borrowings are outstanding, then the effective date of such increase shall be the last day of the Interest Period in respect of such Eurodollar
+Borrowings unless the Borrower pays compensation required by Section 5.02; 
+      (E)        no
+Lenders Elected Commitment may be increased without the consent of such Lender; 
+      (F)        if
+the Borrower elects to increase the Aggregate Elected Commitment Amounts by increasing the Elected Commitment of a Lender, the Borrower and such Lender shall execute and deliver to the Administrative Agent a certificate substantially in the form of
+Exhibit H (an Elected Commitment Increase Certificate); and 
+      (G)        if
+the Borrower elects to increase the Aggregate Elected Commitment Amounts by causing an Additional Lender to become a party to this Agreement, then the Borrower and such Additional Lender shall execute and deliver to the Administrative Agent a
+certificate substantially in the form of Exhibit I (an Additional Lender Certificate), together with an Administrative Questionnaire and a processing and recordation fee of $3,500, and the Borrower shall (1) if requested by
+the Additional Lender, deliver a Note payable to the order of such Additional Lender in a principal amount equal to its Maximum Credit Amount, and otherwise duly completed and (2) pay any applicable fees as may have been agreed to between the
+Borrower, the Additional Lender and/or the Administrative Agent. 
+   (iii)      Subject to acceptance and
+recording thereof pursuant to Section 2.06(c)(iv), from and after the effective date specified in the Elected Commitment Increase Certificate or the Additional Lender Certificate (or if any Eurodollar Borrowings are outstanding, then the last
+day of the Interest Period in respect of such Eurodollar Borrowings, unless the Borrower has paid compensation required by Section 5.02): (A) the amount of the Aggregate Elected Commitment Amounts shall be increased as set forth therein,
+and (B) in the case of an Additional Lender Certificate, any Additional Lender party thereto shall be a party to this 
+   Page 9 
+
+
+
+
+ 
+Agreement and have the rights and obligations of a Lender under this Agreement and the other Loan Documents. In addition, the Lender or the Additional Lender, as applicable, shall purchase a pro
+rata portion of the outstanding Loans (and participation interests in Letters of Credit) of each of the other Lenders (and such Lenders hereby agree to sell and to take all such further action to effectuate such sale) such that each Lender
+(including any Additional Lender, if applicable) shall hold its Applicable Percentage of the outstanding Loans (and participation interests) after giving effect to the increase in the Aggregate Elected Commitment Amounts (and the resulting
+modifications of each Lenders Maximum Credit Amount pursuant to Section 2.06(c)(v)). 
+     (iv)      Upon its receipt of a
+duly completed Elected Commitment Increase Certificate or an Additional Lender Certificate, executed by the Borrower and the Lender or by the Borrower and the Additional Lender party thereto, as applicable, the processing and recording fee referred
+to in Section 2.06(c)(ii), the Administrative Questionnaire referred to in Section 2.06(c)(ii) and the break-funding payments from the Borrower, if any, required by Section 5.02, if applicable, the Administrative Agent shall accept
+such Elected Commitment Increase Certificate or Additional Lender Certificate and record the information contained therein in the Register required to be maintained by the Administrative Agent pursuant to Section 12.04(b)(iv). No increase in
+the Aggregate Elected Commitment Amounts shall be effective for purposes of this Agreement unless it has been recorded in the Register as provided in this Section 2.06(c)(iv). 
+     (v)      Upon any increase in
+the Aggregate Elected Commitment Amounts pursuant to this Section 2.06(c), (A) each Lenders Maximum Credit Amount shall be automatically deemed amended to the extent necessary so that each such Lenders Applicable Percentage
+equals the percentage of the Aggregate Elected Commitment Amounts represented by such Lenders Elected Commitment, in each case after giving effect to such increase, and (B) Annex I to this Agreement shall be deemed amended to reflect the
+Elected Commitment of each Lender (including any Additional Lender) as thereby increased, any changes in the Lenders Maximum Credit Amounts pursuant to the foregoing clause (A), and any resulting changes in the Lenders Applicable
+Percentages.       (vi)      The
+Borrower may from time to time terminate or reduce the Aggregate Elected Commitment Amounts; provided that (A) each reduction of the Aggregate Elected Commitment Amounts shall be in an amount that is an integral multiple of $1,000,000 and not
+less than $1,000,000 and (B) the Borrower shall not reduce the Aggregate Elected Commitment Amounts if, after giving effect to any concurrent prepayment of the Loans in accordance with Section 3.04(c), the total Revolving Credit Exposures
+would exceed the Aggregate Elected Commitment Amounts. 
+   Page 10 
+
+
+
+
+
+     (vii)      The Borrower shall
+notify the Administrative Agent of any election to terminate or reduce the Aggregate Elected Commitment Amounts under Section 2.06(c)(vi) at least three Business Days prior to the effective date of such termination or reduction, specifying such
+election and the effective date thereof. Promptly following receipt of any notice, the Administrative Agent shall advise the Lenders of the contents thereof. Each notice delivered by the Borrower pursuant to this Section 2.06(c)(vii) shall be
+irrevocable. Any termination or reduction of the Aggregate Elected Commitment Amounts shall be permanent and may not be reinstated, except pursuant to Section 2.06(c)(i). Each reduction of the Aggregate Elected Commitment Amounts shall be made
+ratably among the Lenders in accordance with each Lenders Applicable Percentage. 
+     (viii)      Upon any
+redetermination or other adjustment in the Borrowing Base pursuant to the Credit Agreement that would otherwise result in the Borrowing Base becoming less than the Aggregate Elected Commitment Amounts, the Aggregate Elected Commitment Amounts shall
+be automatically reduced (ratably among the Lenders in accordance with each Lenders Applicable Percentage) so that they equal such redetermined Borrowing Base (and Annex I shall be deemed amended to reflect such amendments to each
+Lenders Elected Commitment and the Aggregate Elected Commitment Amounts).  2.10    Deletion
+of Section 2.07(g) of the Credit Agreement. (a) Section 2.07(g) of the Credit Agreement is hereby deleted in its entirety, (b) the references to Section 2.07(g) contained in Section 2.07(a) and 2.07(d) are
+hereby deleted in each instance, and (c) the references to Section 2.07(f) or Section 2.07(g) contained in Section 3.04(c)(ii) and Section 3.04(c)(iii) are hereby deleted in each instance and replaced in each instance
+with a reference to or Section 2.07(f).  2.11    Amendments to Section 2.08
+of the Credit Agreement.  (a)      Clause (vi) of Section 2.08(b) of the
+Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+  (vi)      specifying the amount of the then
+effective Borrowing Base and the then effective Aggregate Elected Commitment Amounts and whether a Borrowing Base Deficiency exists at such time, the current total Revolving Credit Exposures (without regard to the requested Letter of Credit or the
+requested amendment, renewal or extension of an outstanding Letter of Credit) and the pro forma total Revolving Credit Exposures (giving effect to the requested Letter of Credit or the requested amendment, renewal or extension of an outstanding
+Letter of Credit). 
+   Page 11 
+
+
+
+
+ (b)      The first parenthetical in the second to
+last paragraph of Section 2.08(b) of the Credit Agreement is hereby amended and restated as follows: 
+  (i.e. the least of (A) the Aggregate Maximum Credit Amounts, (B) the
+then effective Borrowing Base and (C) the Aggregate Elected Commitment Amounts). 
+2.12    Amendment to Section 3.02(a) of the Credit Agreement. Section 3.02(a) of the
+Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+  (a)    ABR Loans and LIBOR Market Index Loans. The
+Loans comprising each ABR Borrowing shall bear interest at the Alternate Base Rate plus the Applicable Margin, but in no event to exceed the Highest Lawful Rate. The Loans comprising each LIBOR Market Index Borrowing shall bear interest at the LIBOR
+Market Index Rate plus the Applicable Margin, but in no event to exceed the Highest Lawful Rate. 
+2.13    Amendment to Section 3.02(e) of the Credit Agreement. The last sentence of
+Section 3.02(e) of the Credit Agreement is hereby amended and restated in its entirety as follows: 
+  The applicable Alternate Base Rate, LIBOR Market Index Rate, Adjusted LIBO Rate
+or LIBO Rate shall be determined by the Administrative Agent, and such determination shall be conclusive absent manifest error, and be binding upon the parties hereto. 
+2.14    Amendment to Section 3.04(b) of the Credit Agreement. The reference to ABR
+Borrowing contained in Section 3.04(b) of the Credit Agreement is hereby deleted and replaced with a reference to ABR Borrowing or a LIBOR Market Index Borrowing. 
+2.15    Amendments to Section 3.04(c) of the Credit Agreement. 
+  (a)        Clause (i) of Section 3.04(c) of the
+Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+    (i)      If, after giving effect to
+any termination or reduction of the Aggregate Maximum Credit Amounts pursuant to Section 2.06(b), or any reduction in the Aggregate Elected Commitment Amounts pursuant to Section 2.06(c), the total Revolving Credit Exposures exceeds the
+total Commitments, then the Borrower shall (A) prepay the Borrowings on the date of such termination or reduction in an aggregate principal amount equal to such excess, and (B) if any excess remains after prepaying all of the Borrowings as
+a result of an LC Exposure, pay to the Administrative Agent on behalf of the Lenders an amount equal to such excess to be held as cash collateral as provided in Section 2.08(j). 
+  (b)      Clause (iv) of Section 3.04(c) of the Credit
+Agreement is hereby amended and restated in its entirety to read in full as follows: 
+   Page 12 
+
+
+
+
+ (iv)      Each
+prepayment of Borrowings pursuant to this Section 3.04(c) shall be applied, first, ratably to any ABR Borrowings then outstanding, second, ratably to any LIBOR Market Index Borrowings then outstanding, and third to any Eurodollar Borrowings
+then outstanding, and if more than one Eurodollar Borrowing is then outstanding, to such Eurodollar Borrowing in such order as the Borrower may direct. 
+2.16    Amendment to Section 5.02 of the Credit Agreement. The reference to ABR
+Loan contained in Section 5.02 of the Credit Agreement is hereby deleted and replaced with a reference to ABR Loan or a LIBOR Market Index Loan. 
+2.17    New Section 5.06 of the Credit Agreement. A new Section 5.06 is hereby added to
+the Credit Agreement immediately following Section 5.05 thereof, which Section 5.06 shall read in full as follows: 
+Section 5.06    Availability of LIBOR Market Index Loans.
+Notwithstanding any other provision of this Agreement, in the event that any Lender determines in its sole discretion that LIBOR Market Index Loans are not available to be made by it for any reason (including, without limitation, as a result of such
+Loans becoming illegal or such Lender determining that adequate and reasonable means do not exist for determining the LIBOR Market Index Rate), then (a) such Lender shall promptly notify the Borrower and the Administrative Agent thereof,
+(b) no Lender shall be required to make LIBOR Market Index Loans (and the Borrower shall not be entitled to request LIBOR Market Index Loans or convert any other Loans into LIBOR Market Index Loans) until such Lender notifies the Borrower and
+the Administrative Agent that LIBOR Market Index Loans are again available to be made by such Lender, and (c) if such Lender so requests by notice to the Borrower and the Administrative Agent, all LIBOR Market Index Loans of such Lender then
+outstanding shall be automatically converted into ABR Loans on the date specified by such Lender in such notice. 
+2.18    Amendment to Section 8.01(m) of the Credit Agreement. Section 8.01(m) of the
+Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+(m)      Issuance of Permitted Senior Unsecured Notes.
+In the event the Parent or the Borrower intends to issue Permitted Senior Unsecured Notes, prior written notice of such intended offering of such Permitted Senior Unsecured Notes, the amount thereof, and the anticipated date of closing and promptly
+when available will furnish a copy of the preliminary offering memorandum (if any) and the final offering memorandum (if any). 
+2.19    Deletion of Section 8.01(t) of the Credit Agreement. Section 8.01(t) of the
+Credit Agreement is hereby deleted in its entirety.  2.20    Deletion of Section 8.18 of the
+Credit Agreement. Section 8.18 of the Credit Agreement is hereby deleted in its entirety. 
+   Page 13 
+
+
+
+
+ 2.21    Deletion of Section 9.01(c) of the Credit
+Agreement. Section 9.01(c) of the Credit Agreement is hereby deleted in its entirety. 
+2.22    Amendment to Section 9.02 of the Credit Agreement. Clauses (f), (g), and (h) of
+Section 9.02 of the Credit Agreement are hereby deleted and replaced with the following: 
+(f)      Debt under the Permitted Senior Unsecured Notes and
+guarantees thereof by any Loan Party; and  (g)      other
+Debt not to exceed $15,000,000 in the aggregate at any one time outstanding.  2.23    Amendments to
+Section 9.03 of the Credit Agreement. Section 9.03 of the Credit Agreement is hereby amended by (a) amending and restating clause (d) thereof to read in its entirety as (d) [reserved.] and (b) deleting the
+reference to (other than Liens securing the Indebtedness, Excepted Liens and Liens permitted by Section 9.03(d)) contained in the last paragraph of such Section and inserting in lieu thereof a reference to (other than Liens
+securing the Indebtedness and Excepted Liens).  2.24    Amendment to Section 9.04(b) of
+the Credit Agreement. Section 9.04(b) of the Credit Agreement is hereby amended and restated in its entirety as follows: 
+(b)      Repayment of Permitted Senior Unsecured Notes;
+Amendment of Terms of Permitted Senior Unsecured Notes Documents. The Borrower will not, and will not permit any other Loan Party to, prior to the date that is 180 days after the Maturity Date: 
+ (i)      call, make or offer to make any optional or
+voluntary Redemption of or otherwise optionally or voluntarily Redeem (whether in whole or in part) any Permitted Senior Unsecured Notes, except that, so long as no Default exists, the Borrower may, substantially contemporaneously with its receipt
+of any cash proceeds from (A) any issuance of Permitted Senior Unsecured Notes or (B) any sale of Equity Interests in the Borrower or the Parent (other than Disqualified Capital Stock), prepay or otherwise Redeem Permitted Senior Unsecured
+Notes in an amount equal to the amount of the net cash proceeds of such issuance of Permitted Senior Unsecured Notes or such sale of Equity Interests of the Borrower or the Parent; or 
+ (ii)      amend, modify, waive or otherwise change,
+consent or agree to any amendment, modification, waiver or other change to, any of the terms of the Permitted Senior Unsecured Notes Documents (except to the extent a new issuance of Permitted Senior Unsecured Notes, the proceeds of which were used
+to Redeem existing Permitted Senior Unsecured Notes pursuant to the foregoing clause (i), would be permitted to have such terms as so amended, modified, waived or otherwise changed) if the effect thereof would be to (A) shorten its maturity or
+average life, (B) increase the amount of any payment of principal thereof, (C) increase the rate or shorten any period for payment of interest thereon, or (D) modify or amend covenants or events of default such that
+
+   Page 14 
+
+
+
+
+ 
+the resulting covenants and events of default in respect thereof, taken as a whole, are more restrictive with respect to the Loan Parties than the covenants and Events of Default in this
+Agreement without this Agreement being contemporaneously amended to add similar provisions (as determined in good faith by senior management of the General Partner). 
+2.25     Amendment to Section 9.16 of the Credit Agreement. Section 9.16 of the Credit
+Agreement is hereby amended to delete the phrase or contracts, agreements or understandings creating Liens permitted by Section 9.03(d) from such Section. 
+2.26     Amendments to Section 9.18 of the Credit Agreement. 
+  (a)     Clause (a)(i) of Section 9.18 of the Credit Agreement is hereby amended by
+deleting the reference to 25% contained in such clause and inserting in lieu thereof a reference to 40%. 
+  (b)     Clause (a)(ii) of Section 9.18 of the Credit Agreement is hereby amended and
+restated in its entirety as follows:    (ii)     Swap
+Agreements that would be permitted by clause (i) hereof pertaining to Oil and Gas Properties to be acquired pursuant to a Specified Acquisition; provided that Swap Agreements pursuant to this Section 9.18(a)(ii) must be Liquidated
+upon the earlier to occur of: (A) the date that is 90 days after the execution of the purchase and sale agreement relating to the Specified Acquisition to the extent that such Specified Acquisition has not been consummated by such date,
+(B) any Loan Party knows with reasonable certainty that the Specified Acquisition will not be consummated, and (C) in the case of any Affiliated Acquisition, the date that is 20 days following the date any Loan Party enters into any such
+Swap Agreement with respect to the expected production from the Oil and Gas Properties to be acquired in such Affiliated Acquisition if, as of such date, no binding and enforceable purchase and sale agreement has been entered into by and between a
+Loan Party and an Affiliate thereof (other than another Loan Party) with respect to such Affiliated Acquisition,  2.27
+    Amendment to Section 10.01(d) of the Credit Agreement. Section 10.01(d) of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+    (d)     any Loan Party shall fail to observe or
+perform any covenant, condition or agreement contained in Section 8.01(i), Section 8.01(n), Section 8.02, Section 8.03, Section 8.14, Section 8.15 or in Article IX of this Agreement. 
+2.28     Amendment to Section 10.01(l) of the Credit Agreement. Section 10.01(l) of the
+Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+    (l)     the Loan Documents after delivery thereof
+shall for any reason, except to the extent permitted by the terms thereof, cease to be in full force and effect and valid, binding and enforceable in accordance with their terms against 
+   Page 15 
+
+
+
+
+ 
+any Loan Party party thereto, or shall be repudiated by any of them, or cease to create a valid and perfected Lien of the priority required thereby on any material part of the collateral
+purported to be covered thereby, except to the extent permitted by the terms of this Agreement, or the Borrower or any other Loan Party or any of their Affiliates shall so state in writing; 
+2.29     Amendment to Section 11.10 of the Credit Agreement. The first sentence of
+Section 11.10 of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+    Each Lender and the Issuing Bank hereby authorizes the Administrative
+Agent to release (a) any collateral that is permitted to be sold or released pursuant to the terms of the Loan Documents and (b) any Guarantor if 100% of the Equity Interests in such Guarantor are sold in a transaction permitted under the
+Loan Documents.  2.30     Amendment to Section 11.12 of the Credit Agreement.
+Section 11.12 of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows: 
+    Section 11.12 Intercreditor Agreements. The Lenders
+hereby authorize the Administrative Agent to enter into any intercreditor agreement with any Secured Swap Provider and to amend any such agreements in accordance with the provisions of Section 12.02. Each Lender (by receiving the benefits
+thereunder and of the collateral pledged pursuant to the Security Instruments) agrees that the terms of each such intercreditor agreement shall be binding on such Lender and its successors and assigns, as if it were a party thereto. 
+2.31     Amendments to Section 12.02(b) of the Credit Agreement. 
+  (a)     Clause (i) of Section 12.02(b) of the Credit Agreement is hereby amended
+and restated in its entirety to read in full as follows:  (i)
+    increase the Commitment, Elected Commitment or the Maximum Credit Amount of any Lender without the written consent of such Lender, 
+  (b)     Clause (ix) of Section 12.02(b) of the Credit Agreement is hereby amended
+and restated in its entirety to read in full as follows:    (ix)
+    release any Guarantor (except as set forth in Section 11.10 or in the Guaranty Agreement), release all or substantially all of the collateral (other than as provided in Section 11.10), or reduce the percentage set
+forth in Section 8.14(a) to less than 80%, without the written consent of each Lender (other than any Defaulting Lender), or 
+2.32     Amendments to Section 12.04 of the Credit Agreement. 
+   Page 16 
+
+
+
+
+ (a)     Clause (b)(ii) of Section 12.04 of the Credit
+Agreement is hereby amended by deleting the word and at the end of Clause (D) therein and restating clause (E) and inserting a clause (F) therein such that clauses (E) and (F) read in full as follows: 
+(E)     in no event may any Lender assign all or a portion of its rights
+and obligations under this Agreement to the Parent, any Affiliate of the Parent or a natural person; and 
+(F)     the Applicable Percentage of Maximum Credit Amount and Elected
+Commitment assigned are equal.  (b)     The first two sentences of clause (b)(iv) of
+Section 12.04 of the Credit Agreement are hereby amended and restated in their entirety to read in full as follows: 
+(iv)     The Administrative Agent, acting solely for this purpose as an
+agent of the Borrower, shall maintain at one of its offices a copy of each Assignment and Assumption delivered to it and a register for the recordation of the names and addresses of the Lenders, and the Maximum Credit Amount and Elected Commitment
+of, and principal amount of the Loans and LC Disbursements owing to, each Lender pursuant to the terms hereof from time to time (the Register). The entries in the Register shall be conclusive absent manifest error, and the
+Borrower, the Administrative Agent, the Issuing Bank and the Lenders may treat each Person whose name is recorded in the Register pursuant to the terms hereof as a Lender hereunder for all purposes of this Agreement, notwithstanding notice to the
+contrary.  (c)     The first sentence of clause (c)(i) of Section 12.04 of the Credit Agreement
+is hereby amended and restated in its entirety to read in full as follows:  (i)
+    Any Lender may, without the consent of the Borrower, the Administrative Agent or the Issuing Bank, sell participations to one or more banks or other Person (other than the Parent, any Affiliate of the Parent or a natural
+person) (a Participant) in all or a portion of such Lenders rights and obligations under this Agreement (including all or a portion of its Commitment and the Loans owing to it); provided that (A) such
+Lenders obligations under this Agreement shall remain unchanged, (B) such Lender shall remain solely responsible to the other parties hereto for the performance of such obligations and (C) the Borrower, the Administrative Agent, the
+Issuing Bank and the other Lenders shall continue to deal solely and directly with such Lender in connection with such Lenders rights and obligations under this Agreement 
+2.33     Replacement of Annex I. Annex I to the Credit Agreement is hereby replaced in its entirety
+with Annex I attached hereto and Annex I attached hereto shall be deemed to be attached as Annex I to the Credit Agreement. 
+   Page 17 
+
+
+
+
+ 2.34     Replacement of Exhibit B. Exhibit B to the
+Credit Agreement is hereby replaced in its entirety with Exhibit B attached hereto and Exhibit B attached hereto shall be deemed to be attached as Exhibit B to the Credit Agreement. 
+2.35     Amendment to Exhibit C. Clause (iii) in Exhibit C to the Credit Agreement is hereby
+amended and restated in its entirety to read in full as follows:     (iii)
+    The resulting Borrowing is to be [an ABR Borrowing] [a LIBOR Market Index Borrowing] [a Eurodollar Borrowing][; and] 
+2.36     New Exhibits. Exhibit H and Exhibit I attached hereto are hereby added as
+Exhibit H and Exhibit I to the Credit Agreement and Exhibit H and Exhibit I attached hereto shall be deemed to be attached as Exhibit H and Exhibit I to the Credit Agreement, respectively. 
+Section 3.     Borrowing Base Increase upon Consummation of each of the Subject Acquisitions.
+In reliance on the representations, warranties, covenants and agreements contained in this Sixth Amendment, and subject to the satisfaction of the conditions precedent set forth in Section 5 hereof, the Loan Parties, Administrative
+Agent, and Lenders hereby agree that the Borrowing Base shall be redetermined and automatically increased to an amount equal to the sum of (x) the Borrowing Base in effect immediately prior to giving effect to the increase in the Borrowing Base
+provided for in this Section 3 plus (y) $440,000,000, which increase is to be effective immediately prior to the consummation of each of the Subject Acquisitions on the Subject Acquisition Closing Date. The Borrowing Base shall
+remain at such level until the next Scheduled Redetermination, the next Interim Redetermination or other adjustment to the Borrowing Base thereafter, whichever occurs first pursuant to the Credit Agreement as amended hereby. The redetermination of
+the Borrowing Base provided for in this Section 3, if it occurs, shall be deemed to be the Scheduled Redetermination scheduled for on or about October 1, 2013 for purposes of Section 2.07 of the Credit Agreement. If the
+conditions to the effectiveness of the redetermination of the Borrowing Base provided for in this Section 3 that are set forth in Section 5 hereof are not satisfied on or before October 31, 2013, the Borrower and the
+Lenders agree that, notwithstanding Section 2.07(b) of the Credit Agreement to the contrary, the Scheduled Redetermination scheduled for on or about October 1, 2013 shall occur as soon as reasonably practicable following October 31,
+2013.  Section 4.     Conditions Precedent to this Sixth Amendment. The effectiveness of
+the amendments to the Credit Agreement contained in Section 2 and Section 7 hereof, and the increase of the Borrowing Base set forth in Section 3 hereof is subject to the following: 
+4.1     The Administrative Agent shall have received counterparts of this Sixth Amendment from the Loan
+Parties and each of the Lenders.  4.2     The Administrative Agent shall have received all fees and
+other amounts due and payable on or prior to the Sixth Amendment Effective Date.  4.3     The
+Administrative Agent shall have received duly executed amendments to the Security Instruments comprised of mortgages and deeds of trust, each in form and substance reasonably acceptable to the Administrative Agent. 
+   Page 18 
+
+
+
+
+ 4.4     The Administrative Agent shall have received a
+certificate of the Secretary or an Assistant Secretary of the Borrower and each Guarantor setting forth (a) resolutions of its board of directors (or comparable governing body) with respect to the authorization of the Borrower or such Guarantor
+to execute and deliver this Sixth Amendment and to enter into the transactions contemplated herein, and (b) the Organizational Documents of the Borrower and such Guarantor, certified as being true and complete. 
+4.5     The Administrative Agent shall have received certificates of the appropriate State agencies with
+respect to the existence, qualification and good standing of the Loan Parties.  4.6     The
+Administrative Agent shall have received an opinion of Akin Gump Strauss Hauer & Feld L.L.P., special counsel to the Loan Parties, in form and substance reasonably acceptable to the Administrative Agent and its counsel. 
+4.7     The Administrative Agent shall have received duly executed Notes payable to each Lender requesting
+a Note in a principal amount equal to its Maximum Credit Amount (as amended by Section 2.33 hereof) dated as of the Sixth Amendment Effective Date. 
+4.8     The Administrative Agent shall have received such other documents as the Administrative Agent or
+counsel to the Administrative Agent may reasonably request.  The Administrative Agent shall notify the Borrower and the
+Lenders of the effectiveness of this Sixth Amendment, and such notice shall be conclusive and binding. 
+Section 5.     Conditions to Borrowing Base Increase upon Consummation of each of the Subject
+Acquisitions. The increase of the Borrowing Base provided for in Section 3 hereof shall only occur to the extent that each of the following conditions is satisfied: 
+5.1     Each of the conditions set forth in Section 4 hereof shall have been satisfied. 
+5.2     The closing date of each of the Subject Acquisitions (the Subject Acquisition Closing
+Date) occurs on or prior to October 31, 2013.  5.3     The Administrative Agent shall
+have received (a) a certificate of a Responsible Officer of the Borrower certifying: (i) that the Borrower is concurrently consummating each of the Subject Acquisitions and directly or indirectly acquiring all of the Subject Acquisition
+Assets in accordance with all Governmental Requirements and the terms of the Subject Acquisition Documents, with all of the material conditions precedent thereto having been satisfied in all material respects by the parties thereto and with no
+provision of such Subject Acquisition Documents having been waived, amended, supplemented or otherwise modified in any material respect without the approval of the Administrative Agent (such approval not to be unreasonably withheld, conditioned or
+delayed; provided, that, for the avoidance of doubt, it shall be reasonable for the Administrative Agent to withhold its consent to any such waiver or amendment that removes any Oil and Gas Properties (other than a waiver or amendment which removes
+up to $6,000,000 of Oil and Gas Properties (as determined by the Administrative Agent) from the Subject Acquisition Assets)); and (ii) as to the final purchase price for each of the Subject Acquisitions after giving effect to all adjustments as
+of the Subject Acquisition Closing Date and specifying, by category, the amount of such adjustments; (b) original counterparts or 
+   Page 19 
+
+
+
+
+ 
+copies, certified as true and complete by a Responsible Officer of the Borrower, of each of the Subject Acquisition Documents not previously delivered and certified to the Administrative Agent,
+which Subject Acquisition Documents shall have terms and conditions reasonably satisfactory to the Administrative Agent; and (c) such other related documents and information as the Administrative Agent shall have reasonably requested. 
+5.4     No Default, Event of Default, or Borrowing Base Deficiency exists immediately prior to or after
+giving effect to such increase in the Borrowing Base.  5.5     After giving effect to the Subject
+Acquisitions and any additional title information and Security Instruments delivered by the Borrower to the Administrative Agent in connection therewith, (A) the Administrative Agent shall have received title information satisfactory to it on
+at least 80% of the total value of the Oil and Gas Properties evaluated in the most recent Reserve Report (as supplemented by any applicable Reserve Reports relating to the Subject Acquisition Assets) and (B) the Mortgaged Properties shall
+represent at least 80% of the total value of the Oil and Gas Properties evaluated in the most recent Reserve Report (as supplemented by any applicable Reserve Reports relating to the Subject Acquisition Assets). 
+5.6     The Administrative Agent shall have received all fees and other amounts due and payable on or
+prior to the Subject Acquisition Closing Date including, without limitation, a Commitment increase fee for the benefit of each Increasing Lender (as defined below), in an amount for each such Increasing Lender equal to forty-five (45) basis
+points (0.45%) of the amount of such Increasing Lenders Increased Commitment (as defined below). As used herein, Increasing Lender means each Lender (including the New Lenders) whose Commitment after giving effect to
+Section 3 and Section 7 hereof exceeds such Lenders Commitment, if any, that was in effect on March 28, 2013 (after giving effect to the increase in the Borrowing Base to $580,000,000 on such date), and
+Increased Commitment means the amount of such excess.  5.7     The Administrative Agent
+shall be satisfied with the environmental condition of the Subject Acquisition Assets.  5.8     The
+Administrative Agent shall have received evidence reasonably satisfactory to the Administrative Agent that, concurrently with the funding of any Loans on the Subject Acquisition Closing Date and application of the proceeds thereof, (a) any
+amounts due under any existing credit facilities of the Subject Acquisition Loan Parties (other than Prospect Energy and the Tanos Entities) and the Subject Acquisition Merger Entities have been paid in full, (b) all commitments to lend under
+such credit facilities have been terminated, (c) Prospect Energy and the Tanos Entities shall each have been released from all obligations as Guarantors under any applicable credit facilities of their respective corporate parents,
+(d) to the extent necessary, all Swap Agreements constituting part of the Subject Acquisition Assets have been novated on terms and conditions reasonably acceptable to the Administrative Agent and (e) all Liens encumbering (i) the
+Equity Interests in the Subject Acquisition Loan Parties and the Subject Acquisition Merger Entities, (ii) the Subject Acquisition Assets, and (iii) all other Property of the Subject Acquisition Loan Parties and the Subject Acquisition
+Merger Entities will be released (other than the Liens securing the Indebtedness and created pursuant to the Security Instruments and Excepted Liens identified in clauses (a) to (d) and (f) of the definition thereof, subject to the
+provisos at the end of such definition). 
+   Page 20 
+
+
+
+
+ 5.9       The Administrative Agent shall have
+received (a) such duly executed Security Instruments including, without limitation, such supplements and amendments to the Security Agreement and the Guaranty Agreement as necessary pursuant to which (i) each Subject Acquisition Loan Party
+becomes a Guarantor, (ii) each Subject Acquisition Loan Party grants to the Administrative Agent a perfected, first-priority security interest in substantially all of the material tangible and intangible personal property assets owned by it,
+(iii) the Loan Parties grant to the Administrative Agent a perfected, first-priority security interest in the Equity Interests in each Subject Acquisition Loan Party owned by each such Loan Party, (b) evidence of the consummation of the
+Subject Acquisition Closing Date Mergers, and (c) such other stock certificates, stock powers, closing documents, certificates, authorizing resolutions, Organizational Documents and legal opinions, in each case as shall be reasonably requested
+by, and in form and substance reasonably satisfactory to, the Administrative Agent.  5.10     The
+Administrative Agent shall have received duly executed Notes payable to each Lender requesting a Note in a principal amount equal to its Maximum Credit Amount (as amended by Section 7 hereof) dated as of the Subject Acquisition Closing
+Date.  5.11     The Administrative Agent shall have received such other documents as the
+Administrative Agent or counsel to the Administrative Agent may reasonably request. 
+Section 6.     Return of Promissory Notes. Promptly upon receipt of any replacement Note under
+Section 5.10 hereof, each Lender shall return to the Administrative Agent (for delivery to the Borrower for cancellation) any other Note in such Lenders possession that was previously delivered to such Lender under the Credit
+Agreement.  Section 7.     Amendment to Annex I of the Credit Agreement as of Subject
+Acquisition Closing Date. In reliance on the representations, warranties, covenants and agreements contained in this Sixth Amendment, and subject to the satisfaction of the conditions precedent set forth in Section 5 hereof,
+effective as of the Subject Acquisition Closing Date, Annex I to the Credit Agreement shall be automatically replaced in its entirety with Annex I-A attached hereto (without any further action required by any party) and Annex I-A
+attached hereto shall be deemed to be attached as Annex I to the Credit Agreement. After giving effect to this Section 7 and any Borrowings made on the Subject Acquisition Closing Date, (a) each Lender who holds Loans in an
+aggregate amount less than its Applicable Percentage (after giving effect to this Section 7) of all Loans shall advance new Loans which shall be disbursed to the Administrative Agent and used to repay Loans outstanding to each Lender who
+holds Loans in an aggregate amount greater than its Applicable Percentage of all Loans, (b) each Lenders participation in each Letter of Credit, if any, shall be automatically adjusted to equal its Applicable Percentage (after giving
+effect to this Section 7), (c) such other adjustments shall be made as the Administrative Agent shall specify so that the Revolving Credit Exposure applicable to each Lender equals its Applicable Percentage (after giving effect to
+this Section 7) of the aggregate Revolving Credit Exposure of all Lenders and (d) the Borrower shall be required to make any break-funding payments required under Section 5.02 of the Credit Agreement resulting from the Loans
+and adjustments described in this Section 7. 
+   Page 21 
+
+
+
+
+ Section 8.     New Lenders. Each New Lender
+hereby joins in, becomes a party to, and agrees to comply with and be bound by the terms and conditions of the Credit Agreement as a Lender thereunder and under each and every other Loan Document to which any Lender is required to be bound by the
+Credit Agreement as amended hereby, to the same extent as if such New Lender were an original signatory thereto. Each New Lender hereby appoints and authorizes the Administrative Agent to take such action as agent on its behalf and to exercise such
+powers and discretion under the Credit Agreement as amended hereby as are delegated to the Administrative Agent by the terms thereof, together with such powers and discretion as are reasonably incidental thereto. Each New Lender represents and
+warrants that (a) it has full power and authority, and has taken all action necessary, to execute and deliver this Sixth Amendment, to consummate the transactions contemplated hereby and to become a party to, and a Lender under, the Credit
+Agreement as amended hereby, (b) it has received a copy of the Credit Agreement and copies of the most recent financial statements delivered pursuant to Section 8.01 thereof, and such other documents and information as it has deemed
+appropriate to make its own credit analysis and decision to enter into this Sixth Amendment and to become a Lender on the basis of which it has made such analysis and decision independently and without reliance on the Administrative Agent or any
+other Lender, and (c) from and after the Sixth Amendment Effective Date, it shall be a party to and be bound by the provisions of the Credit Agreement as amended hereby and the other Loan Documents and have the rights and obligations of a
+Lender thereunder. If the Subject Acquisition Closing Date does not occur, and the conditions set forth in Section 5 hereof are not satisfied, in each case, on or prior to October 31, 2013, any New Lender with a Maximum Credit
+Amount of $0.00 shall automatically cease to be a Lender for all purposes under the Credit Agreement and the other Loan Documents as of November 1, 2013. 
+Section 9.     Representations and Warranties; Etc. Each Loan Party hereby affirms:
+(a) that as of the date hereof, all of the representations and warranties contained in each Loan Document to which such Loan Party is a party are true and correct in all material respects as though made on and as of the date hereof (unless made
+as of a specific earlier date, in which case, was true as of such date and except to the extent that any such representation and warranty is qualified by materiality, in which case such representation and warranty shall continue to be true and
+correct in all respects), (b) no Defaults exist under the Loan Documents or will, after giving effect to this Sixth Amendment, exist under the Loan Documents and (c) no Material Adverse Effect has occurred. 
+Section 10.     Miscellaneous. 
+10.1     Confirmation and Effect. The provisions of the Credit Agreement (as amended by this Sixth
+Amendment) shall remain in full force and effect in accordance with its terms following the effectiveness of this Sixth Amendment. Each reference in the Credit Agreement to this Agreement, hereunder, hereof,
+herein, or words of like import shall mean and be a reference to the Credit Agreement as amended hereby, and each reference to the Credit Agreement in any other document, instrument or agreement executed and/or delivered in connection
+with the Credit Agreement shall mean and be a reference to the Credit Agreement as amended hereby. 
+10.2     Ratification and Affirmation of Loan Parties. Each of the Loan Parties hereby expressly
+(a) acknowledges the terms of this Sixth Amendment, (b) ratifies and affirms its obligations under the Guaranty Agreement and the other Loan Documents to which it is a party, 
+   Page 22 
+
+
+
+
+ 
+as amended hereby, (c) acknowledges, renews and extends its continued liability under the Guaranty Agreement and the other Loan Documents to which it is a party, as amended hereby and
+(d) agrees that its guarantee under the Guaranty Agreement and the other Loan Documents to which it is a party remains in full force and effect with respect to the Indebtedness, as amended hereby. 
+10.3     Counterparts. This Sixth Amendment may be executed by one or more of the parties hereto in
+any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of this Sixth Amendment by facsimile or electronic (e.g. pdf) transmission shall be effective as
+delivery of a manually executed original counterpart hereof.  10.4     No Oral Agreement.
+THIS WRITTEN SIXTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN
+DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL
+AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE
+OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE
+ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES. 
+10.5     Governing Law. THIS SIXTH AMENDMENT
+(INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL
+BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE
+STATE OF NEW YORK.  10.6     Payment of
+Expenses. The Borrower agrees to pay or reimburse the Administrative Agent for all of its out-of-pocket costs and expenses incurred in connection with this Sixth Amendment, any other documents prepared in connection herewith and the transactions
+contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent. 
+10.7     Severability. Any provision of this Sixth Amendment which is prohibited or unenforceable
+in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not
+invalidate or render unenforceable such provision in any other jurisdiction.  10.8     Successors
+and Assigns. This Sixth Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns. 
+[signature pages follow] 
+   Page 23 
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Sixth Amendment to be duly executed
+effective as of the date first written above.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BORROWER: 
+ 
+
+ 
+ MEMORIAL PRODUCTION OPERATING LLC,
+a Delaware limited liability company
+
+
+
+
+
+
+
+
+ 
+
+ 
+            
+ 
+By:    
+ 
+ Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+ Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+By:
+ 
+/s/ Andrew J. Cozby
+
+
+ 
+
+ 
+
+ 
+
+ 
+Name:
+ 
+Andrew J. Cozby
+
+
+ 
+
+ 
+
+ 
+
+ 
+Title:
+ 
+ Vice President & Chief Financial
+Officer
+
+
+
+
+
+ GUARANTORS:
+ 
+
+ 
+MEMORIAL PRODUCTION PARTNERS LP, a Delaware limited partnership
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+ Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+By:
+ 
+/s/ Andrew J. Cozby
+
+
+ 
+
+ 
+
+ 
+
+ 
+Name:
+ 
+Andrew J. Cozby
+
+
+ 
+
+ 
+
+ 
+
+ 
+Title:
+ 
+ Vice President & Chief Financial
+Officer
+
+
+
+
+
+
+ 
+
+ 
+ COLUMBUS ENERGY, LLC, a
+Delaware limited liability company
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+ Memorial Production Operating LLC, its sole member
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+ Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+ Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+By:
+ 
+/s/ Andrew J. Cozby
+
+
+ 
+
+ 
+
+ 
+
+ 
+Name:
+ 
+Andrew J. Cozby
+
+
+ 
+
+ 
+
+ 
+
+ 
+Title:
+ 
+ Vice President & Chief Financial
+Officer
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHT ENERGY PARTNERS LLC, a Delaware limited liability company
+
+
+
+
+
+            
+ 
+By:      
+ 
+ Memorial Production Operating LLC, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Andrew J. Cozby
+
+
+ 
+
+ 
+Name: 
+ 
+Andrew J. Cozby
+
+
+ 
+
+ 
+Title:
+ 
+ Vice President & Chief Financial Officer
+
+
+
+RISE ENERGY OPERATING, LLC, a Delaware limited liability company
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Operating LLC, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Andrew J. Cozby
+
+
+ 
+
+ 
+Name:
+ 
+Andrew J. Cozby
+
+
+ 
+
+ 
+Title:
+ 
+ Vice President & Chief Financial Officer
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RISE ENERGY MINERALS, LLC, a Delaware limited liability company
+
+
+
+
+
+            
+ 
+By:      
+ 
+ Rise Energy Operating, LLC, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Operating LLC, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Andrew J. Cozby
+
+
+ 
+
+ 
+Name: 
+ 
+Andrew J. Cozby
+
+
+ 
+
+ 
+Title:
+ 
+ Vice President & Chief Financial Officer
+
+
+
+RISE ENERGY BETA, LLC, a Delaware limited liability company
+
+
+
+
+
+
+ 
+By:
+ 
+ Rise Energy Operating, LLC, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Operating LLC, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Andrew J. Cozby
+
+
+ 
+
+ 
+Name:
+ 
+Andrew J. Cozby
+
+
+ 
+
+ 
+Title:
+ 
+ Vice President & Chief Financial Officer
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ MEMORIAL PRODUCTION FINANCE
+CORPORATION, a Delaware corporation
+
+
+
+
+
+
+ 
+By:
+ 
+ /s/ Andrew J. Cozby
+
+
+ 
+Name:
+ 
+Andrew J. Cozby
+
+
+ 
+Title:
+ 
+ Vice President & Chief Financial Officer
+
+
+
+WHT CARTHAGE LLC, a Delaware limited liability company
+
+
+
+
+
+
+ 
+By:    
+ 
+ WHT Energy Partners LLC, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Operating LLC, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+ Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Andrew J. Cozby
+
+
+ 
+
+ 
+Name:
+ 
+Andrew J. Cozby
+
+
+ 
+
+ 
+Title:
+ 
+ Vice President & Chief Financial Officer
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+ ADMINISTRATIVE AGENT AND LENDER: 
+ 
+
+
+
+
+
+
+
+
+
+
+ WELLS FARGO BANK, NATIONAL ASSOCIATION, as Administrative Agent, Issuing Bank and a Lender
+
+
+
+
+ By:
+ 
+ /s/ Shiloh Davila
+
+ Name:  Shiloh Davila
+
+ Title:    Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDER:
+ 
+
+ 
+ JPMORGAN CHASE BANK, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+ By:
+ 
+ /s/ Ryan Aman
+
+
+ 
+
+ 
+ Name: Ryan Aman
+
+
+ 
+
+ 
+ Title: Authorized Officer
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDER:
+ 
+
+ 
+ CITIBANK, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+ By:
+ 
+ /s/ Peter Kardos
+
+
+ 
+
+ 
+ Name: Peter Kardos
+
+
+ 
+
+ 
+ Title: Vice-President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDER:
+ 
+
+ 
+ COMERICA BANK, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+ By:
+ 
+ /s/ Jeff Treadway
+
+
+ 
+
+ 
+ Name: Jeff Treadway
+
+
+ 
+
+ 
+ Title: Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ ROYAL BANK OF CANADA, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Mark Lumpkin, Jr.
+
+
+ 
+
+ 
+ Name: Mark Lumpkin, Jr.
+
+
+ 
+
+ 
+ Title: Authorized Signatory
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ THE ROYAL BANK OF SCOTLAND PLC, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Sanjay Remond
+
+
+ 
+
+ 
+ Name: Sanjay Remond
+
+
+ 
+
+ 
+ Title: Director
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ U.S. BANK NATIONAL ASSOCIATION, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ John C. Lozano
+
+
+ 
+
+ 
+ Name: John C. Lozano
+
+
+ 
+
+ 
+ Title: Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+UNION BANK, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Haylee Dallas
+
+
+ 
+
+ 
+ Name: Haylee Dallas
+
+
+ 
+
+ 
+ Title: Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BARCLAYS BANK PLC, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Sreedhar R. Kona
+
+
+ 
+
+ 
+ Name: Sreedhar R. Kona
+
+
+ 
+
+ 
+ Title: Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF AMERICA, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Elizabeth Gallagher
+
+
+ 
+
+ 
+ Name: Elizabeth Gallagher
+
+
+ 
+
+ 
+ Title: Assistant Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+NATIXIS, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Louis P. Laville III
+
+
+ 
+
+ 
+ Name: Louis P. Laville III
+
+
+ 
+
+ 
+ Title: Managing Director
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Stuart Murray
+
+
+ 
+
+ 
+ Name: Stuart Murray
+
+
+ 
+
+ 
+ Title: Managing Director
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ AMEGY BANK NATIONAL ASSOCIATION, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Kevin A. James
+
+
+ 
+
+ 
+ Name: Kevin A. James
+
+
+ 
+
+ 
+ Title: Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Sharada Manne
+
+
+ 
+
+ 
+ Name: Sharada Manne
+
+
+ 
+
+ 
+ Title: Managing Director
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Michael Willis
+
+
+ 
+
+ 
+ Name: Michael Willis
+
+
+ 
+
+ 
+ Title: Managing Director
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ING CAPITAL LLC, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Juli Bieser
+
+
+ 
+
+ 
+ Name: Juli Bieser
+
+
+ 
+
+ 
+ Title: Director
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+REGIONS BANK, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Daniel G. Steele
+
+
+ 
+
+ 
+Name: Daniel G. Steele
+
+
+ 
+
+ 
+Title: Senior Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+SOVEREIGN BANK, N.A. as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Puiki Lok
+
+
+ 
+
+ 
+Name: Puiki Lok
+
+
+ 
+
+ 
+Title: Vice President
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Vaughn Buck
+
+
+ 
+
+ 
+Name: Vaughn Buck
+
+
+ 
+
+ 
+Title: Executive Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ GOLDMAN SACHS BANK USA, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Mark Walton
+
+
+ 
+
+ 
+Name: Mark Walton
+
+
+ 
+
+ 
+Title: Authorized Signatory
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ BRANCH BANKING AND TRUST COMPANY, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ James Giordano
+
+
+ 
+
+ 
+Name: James Giordano
+
+
+ 
+
+ 
+Title: Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+COMPASS BANK, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Ian Payne
+
+
+ 
+
+ 
+Name: Ian Payne
+
+
+ 
+
+ 
+Title: Vice President
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK BRANCH, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Trudy Nelson
+
+
+ 
+
+ 
+Name: Trudy Nelson
+
+
+ 
+
+ 
+Title: Managing Director
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Daria Mahoney
+
+
+ 
+
+ 
+Name: Daria Mahoney
+
+
+ 
+
+ 
+Title: Executive Director
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+UBS LOAN FINANCE LLC, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Lana Gifas
+
+
+ 
+
+ 
+Name: Lana Gifas
+
+
+ 
+
+ 
+Title: Director
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Joselin Fernandes
+
+
+ 
+
+ 
+Name: Joselin Fernandes
+
+
+ 
+
+ 
+Title: Associate Director
+
+  
+[SIGNATURE PAGE TO SIXTH AMENDMENT TO
+CREDIT AGREEMENT -  MEMORIAL PRODUCTION OPERATING LLC] 
+
+
+
+
+ Annex I 
+LIST OF MAXIMUM CREDIT AMOUNTS AND ELECTED COMMITMENTS 
+Aggregate Maximum Credit Amounts and Elected Commitments   
+
+
+
+
+
+
+
+
+
+
+
+
+Name of Lender
+ 
+
+Applicable
+Percentage
+ 
+
+Maximum Credit
+Amount
+ 
+
+Elected
+Commitment
+
+
+
+Wells Fargo Bank, National Association
+ 
+12.50000000%
+ 
+$250,000,000.00
+ 
+$60,000,000.00
+
+JPMorgan Chase Bank, N.A.
+ 
+12.50000000%
+ 
+$250,000,000.00
+ 
+$60,000,000.00
+
+The Royal Bank of Scotland plc
+ 
+7.75862069%
+ 
+$155,172,413.82
+ 
+$37,241,379.30
+
+Comerica Bank
+ 
+7.75862069%
+ 
+$155,172,413.82
+ 
+$37,241,379.30
+
+Union Bank, N.A.
+ 
+7.75862069%
+ 
+$155,172,413.82
+ 
+$37,241,379.30
+
+Royal Bank of Canada
+ 
+7.75862069%
+ 
+$155,172,413.82
+ 
+$37,241,379.30
+
+Citibank, N.A.
+ 
+7.75862069%
+ 
+$155,172,413.82
+ 
+$37,241,379.30
+
+Natixis
+ 
+5.60344828%
+ 
+$112,068,965.50
+ 
+$26,896,551.73
+
+Barclays Bank PLC
+ 
+5.60344828%
+ 
+$112,068,965.50
+ 
+$26,896,551.73
+
+Bank of America, N.A.
+ 
+5.60344828%
+ 
+$112,068,965.50
+ 
+$26,896,551.73
+
+U.S. Bank National Association
+ 
+5.60344828%
+ 
+$112,068,965.50
+ 
+$26,896,551.73
+
+Amegy Bank National Association
+ 
+2.58620690%
+ 
+$51,724,137.92
+ 
+$12,413,793.11
+
+Credit Agricole Corporate and Investment Bank
+ 
+2.58620690%
+ 
+$51,724,137.92
+ 
+$12,413,793.11
+
+ING Capital LLC
+ 
+2.58620690%
+ 
+$51,724,137.92
+ 
+$12,413,793.11
+
+Regions Bank
+ 
+2.58620690%
+ 
+$51,724,137.92
+ 
+$12,413,793.11
+
+Sovereign Bank, N.A.
+ 
+2.58620690%
+ 
+$51,724,137.92
+ 
+$12,413,793.11
+
+Goldman Sachs Bank USA
+ 
+0.86206897%
+ 
+$17,241,379.30
+ 
+$4,137,931.03
+
+Branch Banking and Trust Company
+ 
+0.00000000%
+ 
+$0.00
+ 
+$0.00
+
+Compass Bank
+ 
+0.00000000%
+ 
+$0.00
+ 
+$0.00
+
+Canadian Imperial Bank of Commerce, New York Branch
+ 
+0.00000000%
+ 
+$0.00
+ 
+$0.00
+
+UBS Loan Finance LLC
+ 
+0.00000000%
+ 
+$0.00
+ 
+$0.00
+
+TOTAL
+ 
+100.00%
+ 
+$2,000,000,000.00
+ 
+$480,000,000.00
+
+
+
+
+ Annex I-A 
+LIST OF MAXIMUM CREDIT AMOUNTS 
+Aggregate Maximum Credit Amounts   
+
+
+
+
+
+
+
+
+
+
+
+
+Name of Lender
+ 
+ApplicablePercentage
+ 
+Maximum Credit Amount
+ 
+Elected Commitment
+
+
+
+Wells Fargo Bank, National Association
+ 
+10.32608697%
+ 
+$206,521,739.13
+ 
+$95,000,000.00
+
+JPMorgan Chase Bank, N.A.
+ 
+10.32608697%
+ 
+$206,521,739.13
+ 
+$95,000,000.00
+
+The Royal Bank of Scotland plc
+ 
+5.97826087%
+ 
+$119,565,217.39
+ 
+$55,000,000.00
+
+Comerica Bank
+ 
+5.97826087%
+ 
+$119,565,217.39
+ 
+$55,000,000.00
+
+Union Bank, N.A.
+ 
+5.97826087%
+ 
+$119,565,217.39
+ 
+$55,000,000.00
+
+Royal Bank of Canada
+ 
+5.97826087%
+ 
+$119,565,217.39
+ 
+$55,000,000.00
+
+Citibank, N.A.
+ 
+5.97826087%
+ 
+$119,565,217.39
+ 
+$55,000,000.00
+
+Barclays Bank PLC
+ 
+5.97826087%
+ 
+$119,565,217.39
+ 
+$55,000,000.00
+
+Bank of America, N.A.
+ 
+5.97826087%
+ 
+$119,565,217.39
+ 
+$55,000,000.00
+
+Natixis
+ 
+4.02173913%
+ 
+$80,434,782.61
+ 
+$37,000,000.00
+
+U.S. Bank National Association
+ 
+4.02173913%
+ 
+$80,434,782.61
+ 
+$37,000,000.00
+
+Credit Agricole Corporate and Investment Bank
+ 
+4.02173913%
+ 
+$80,434,782.61
+ 
+$37,000,000.00
+
+ING Capital LLC
+ 
+4.02173913%
+ 
+$80,434,782.61
+ 
+$37,000,000.00
+
+Regions Bank
+ 
+4.02173913%
+ 
+$80,434,782.61
+ 
+$37,000,000.00
+
+Amegy Bank National Association
+ 
+2.71739130%
+ 
+$54,347,826.09
+ 
+$25,000,000.00
+
+Sovereign Bank, N.A.
+ 
+2.71739130%
+ 
+$54,347,826.09
+ 
+$25,000,000.00
+
+Branch Banking and Trust Company
+ 
+2.71739130%
+ 
+$54,347,826.09
+ 
+$25,000,000.00
+
+Compass Bank
+ 
+2.71739130%
+ 
+$54,347,826.09
+ 
+$25,000,000.00
+
+Canadian Imperial Bank of Commerce, New York Branch
+ 
+2.71739130%
+ 
+$54,347,826.09
+ 
+$25,000,000.00
+
+UBS Loan Finance LLC
+ 
+2.71739130%
+ 
+$54,347,826.09
+ 
+$25,000,000.00
+
+Goldman Sachs Bank USA
+ 
+1.08695652%
+ 
+$21,739,130.42
+ 
+$10,000,000.00
+
+TOTAL
+ 
+100.00%
+ 
+$2,000,000,000.00
+ 
+$920,000,000.00
+
+
+
+
+ EXHIBIT B 
+FORM OF BORROWING REQUEST 
+[[                    ]],
+20[        ]  Memorial Production Operating LLC, a Delaware limited liability company (the
+Borrower), pursuant to Section 2.03 of the Credit Agreement dated as of December 14, 2011 (together with all amendments, restatements, supplements or other modifications thereto, the Credit Agreement)
+among the Borrower, Wells Fargo Bank, National Association, as Administrative Agent and the other agents and lenders (the Lenders) which are or become parties thereto (unless otherwise defined herein, each capitalized term used
+herein is defined in the Credit Agreement), hereby requests a Borrowing as follows: 
+(i)          Aggregate amount of the requested Borrowing is
+$[                    ]; 
+(ii)         Date of such Borrowing is
+[                    ], 20[        ]; 
+(iii)        Requested Borrowing is to be [an ABR Borrowing] [a LIBOR Market Index Borrowing] [a
+Eurodollar Borrowing];  (iv)        In the case of a Eurodollar Borrowing, the initial Interest
+Period applicable thereto is [                    ]; 
+(v)         Amount of Borrowing Base in effect on the date hereof is
+$[                    ] and the Aggregate Elected Commitment Amounts in effect on the date hereof is
+$[                    ]; 
+(vi)        Total Revolving Credit Exposures on the date hereof (i.e., outstanding principal amount of
+Loans and total LC Exposure) is $[                    ]; and 
+(vii)        Pro forma total Revolving Credit Exposures (giving effect to the requested
+Borrowing) is $[                    ]; and 
+(viii)      Location and number of the Borrowers account to which funds are to be disbursed, which shall
+comply with the requirements of Section 2.05 of the Credit Agreement, is as follows: 
+[                         
+                       ] 
+[                          
+                      ] 
+[                          
+                      ] 
+[                          
+                      ] 
+[                          
+                      ] 
+   Exhibit B - 1 
+
+
+
+
+ The undersigned certifies that he/she is the
+[                    ] of the Borrower, and that as such he/she is authorized to execute this certificate on behalf of the Borrower. The
+undersigned further certifies, represents and warrants on behalf of the Borrower that all conditions precedent to such Borrowing set forth in Section 6.02 of the Credit Agreement including, without limitation, the absence of any Default at the
+time of and immediately after giving effect to such Borrowing, are satisfied and that the Borrower is entitled to receive the requested Borrowing under the terms and conditions of the Credit Agreement. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ MEMORIAL PRODUCTION OPERATING LLC,
+a Delaware limited liability company
+
+
+
+
+
+
+
+ 
+
+ 
+       By:    
+ 
+ Memorial Production Partners LP,
+its sole member
+
+
+
+
+
+
+
+ 
+
+ 
+       By:    
+ 
+ Memorial Production Partners GP LLC,
+its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+By:                            
+                                         
+        
+
+
+ 
+
+ 
+
+ 
+
+Name:                            
+                                         
+   
+
+
+ 
+
+ 
+
+ 
+
+Title:                            
+                                         
+     
+
+   Exhibit B - 2 
+
+
+
+
+ EXHIBIT H 
+FORM OF ELECTED COMMITMENT INCREASE CERTIFICATE 
+[            ], 20[    ] 
+ 
+
+
+To:
+ Wells Fargo Bank, National Association, as Administrative Agent 
+The Borrower, the Administrative Agent and certain Lenders and other agents have heretofore entered into a Credit Agreement,
+dated as of December 14, 2011 (as amended, restated, supplemented or otherwise modified from time to time, the Credit Agreement). Capitalized terms not otherwise defined herein shall have the meaning given to such terms in
+the Credit Agreement.  This Elected Commitment Increase Certificate is being delivered pursuant to Section 2.06(c) of
+the Credit Agreement.  Please be advised that the undersigned Lender has agreed (a) to increase its Elected
+Commitment under the Credit Agreement effective [            ], 20[    ] (the Increase Effective Date) from
+$[            ] to $[            ] and (b) that it shall continue to be a party in all respects to the Credit Agreement and
+the other Loan Documents.  With reference to Section 2.06(c)(ii)(D) of the Credit Agreement, the Borrower hereby
+confirms that [Check Applicable Box]:   
+
+
+ 
+[  ]
+ There are, or if the Increase Effective Date is after the date hereof, there will be no Eurodollar Borrowings outstanding on the Increase Effective
+Date.   
+
+
+ 
+[  ]
+ There are, or if the Increase Effective Date is after the date hereof, there will be Eurodollar Borrowings outstanding on the Increase Effective
+Date and the Borrower will pay any compensation required by Section 5.02 of the Credit Agreement on the Increase Effective Date.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ Very truly yours,  
+MEMORIAL PRODUCTION OPERATING LLC, a Delaware limited liability
+company
+
+
+
+
+
+
+
+ 
+
+ 
+       By:    
+ 
+ Memorial Production Partners LP,
+its sole member
+
+
+
+
+
+
+
+ 
+
+ 
+       By:    
+ 
+ Memorial Production Partners GP LLC,
+its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+By:                            
+                                         
+        
+
+
+ 
+
+ 
+
+ 
+
+Name:                            
+                                         
+   
+
+
+ 
+
+ 
+
+ 
+
+Title:                            
+                                         
+     
+
+   Exhibit H - 1 
+
+
+
+
+ Accepted and Agreed: 
+WELLS FARGO BANK, NATIONAL ASSOCIATION,  as Administrative Agent
+  
+
+
+
+
+
+
+
+
+By:                                     
+                              
+
+
+
+Name:                                     
+                        
+
+
+
+Title:                                     
+                           
+    
+Accepted and Agreed:  [Name of Increasing Lender] 
+ 
+
+
+
+
+
+
+
+
+By:                                     
+                              
+
+
+
+Name:                                     
+                        
+
+
+
+Title:                                     
+                           
+
+   Exhibit H - 2 
+
+
+
+
+ EXHIBIT I 
+FORM OF ADDITIONAL LENDER CERTIFICATE 
+[            ], 20[    ] 
+ 
+
+
+To:
+ Wells Fargo Bank, National Association, 
+
+
+  
+ as Administrative Agent 
+The Borrower, the Administrative Agent and certain Lenders and other agents have heretofore entered into a Credit Agreement,
+dated as of December 14, 2011 (as amended, restated, supplemented or otherwise modified from time to time, the Credit Agreement). Capitalized terms not otherwise defined herein shall have the meaning given to such terms in
+the Credit Agreement.  This Additional Lender Certificate is being delivered pursuant to Section 2.06(c) of the
+Credit Agreement.  Please be advised that the undersigned Additional Lender has agreed (a) to become a Lender under
+the Credit Agreement effective [                    ], 20[    ] (the Additional Lender Effective Date) with a
+Maximum Aggregate Credit Amount of $[                ] and an Elected Commitment of $[            ] and
+(b) that it shall be a party in all respects to the Credit Agreement and the other Loan Documents.  This Additional
+Lender Certificate is being delivered to the Administrative Agent together with (i) if the Additional Lender is a Foreign Lender, any documentation required to be delivered by such Additional Lender pursuant to Section 5.03(f) of the
+Credit Agreement, duly completed and executed by the Additional Lender, and (ii) an Administrative Questionnaire in the form supplied by the Administrative Agent, duly completed by the Additional Lender. The [Borrower/Additional Lender]
+shall pay the processing and recordation fee payable to the Administrative Agent pursuant to Section 2.06(c)(ii)(G) of the Credit Agreement. 
+With reference to Section 2.06(c)(ii)(D) of the Credit Agreement, the Borrower hereby confirms that [Check Applicable
+Box]:   
+
+
+ 
+[  ]
+ There are, or if the Additional Lender Effective Date is after the date hereof, there will be no Eurodollar Borrowings outstanding on the
+Additional Lender Effective Date.  [  ]         There
+are, or if the Additional Lender Effective Date is after the date hereof, there will be Eurodollar Borrowings outstanding on the Additional Lender Effective Date and the Borrower will pay any compensation required by Section 5.02 of the Credit
+Agreement on the Additional Lender Effective Date. 
+   Exhibit I - 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ Very truly yours,  
+MEMORIAL PRODUCTION OPERATING LLC, a Delaware limited liability
+company
+
+
+
+
+
+
+
+ 
+
+ 
+       By:    
+ 
+ Memorial Production Partners LP,
+its sole member
+
+
+
+
+
+
+
+ 
+
+ 
+       By:    
+ 
+ Memorial Production Partners GP LLC,
+its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+By:                            
+                                         
+        
+
+
+ 
+
+ 
+
+ 
+
+Name:                            
+                                         
+   
+
+
+ 
+
+ 
+
+ 
+
+Title:                            
+                                         
+     
+
+   Exhibit I - 2 
+
+
+
+
+ Accepted and Agreed: 
+WELLS FARGO BANK, NATIONAL ASSOCIATION,  as Administrative Agent
+  
+
+
+
+
+
+
+
+
+By:                                     
+                              
+
+
+
+Name:                                     
+                        
+
+
+
+Title:                                     
+                           
+ Accepted and Agreed: 
+[Additional Lender]   
+
+
+
+
+
+
+
+
+By:                                     
+                              
+
+
+
+Name:                                     
+                        
+
+
+
+Title:                                     
+                           
+
+   Exhibit I - 3 
+
+
+
+
+ Schedule 1 
+Certain Defined Terms 
+Boaz Acquisition means the Borrowers (a) direct acquisition of all of the Equity Interests in
+Boaz Energy, LLC, a Delaware limited liability company, and (b) indirect acquisition of all of the Boaz Assets, in each case pursuant to the Boaz Acquisition Agreement. 
+Boaz Acquisition Agreement means the Purchase and Sale Agreement dated as of July 15, 2013 between
+Boaz Energy Partners, LLC, a Delaware limited liability company, as seller, and the Borrower, as buyer.  Boaz
+Assets means, collectively, the Oil and Gas Properties listed on Exhibit A, Exhibit B and Exhibit D of the Boaz Acquisition Agreement, and the Swap Agreements listed on Exhibit E of the Boaz Acquisition Agreement. 
+Crown Acquisition means the Borrowers (a) direct acquisition of all of the Equity Interests in
+Crown Energy Partners, LLC, a Delaware limited liability company, and (b) indirect acquisition of all of the Crown Assets, in each case pursuant to the Crown Acquisition Agreement. 
+Crown Acquisition Agreement means the Purchase and Sale Agreement dated as of July 15, 2013 between
+Crown Energy Partners Holdings, LLC, a Delaware limited liability company, as seller, and the Borrower, as buyer. 
+Crown Assets means, collectively, the Oil and Gas Properties listed on Exhibit A, Exhibit B and Exhibit D
+of the Crown Acquisition Agreement, and the Swap Agreements listed on Exhibit E of the Crown Acquisition Agreement. 
+MRD Operating Acquisition means the Borrowers acquisition of all of the MRD Operating Assets pursuant
+to the MRD Operating Acquisition Agreement.  MRD Operating Acquisition Agreement means the Purchase and
+Sale Agreement dated as of July 15, 2013 among Memorial Resource Development LLC, a Delaware limited liability company, MRD Operating LLC, a Delaware limited liability company, as seller, and the Borrower, as buyer. 
+MRD Operating Assets means, collectively, the Oil and Gas Properties listed on Exhibit A and Exhibit B of
+the MRD Operating Acquisition Agreement.  Propel Acquisition means the Borrowers (a) direct
+acquisition of all of the Equity Interests in Propel SPV and (b) indirect acquisition of (i) all of the Equity Interests in Propel Energy Services, LLC, a Delaware limited liability company, and (ii) all of the Propel Assets, in each
+case pursuant to the Propel Acquisition Agreement. 
+
+
+
+ Propel Acquisition Agreement means the Purchase and Sale
+Agreement dated as of July 15, 2013 between Propel Energy, LLC, a Delaware limited liability company, as seller, and the Borrower, as buyer. 
+Propel Assets means, collectively, the Oil and Gas Properties listed on Exhibit A, Exhibit B and Exhibit D
+of the Propel Acquisition Agreement, and the Swap Agreements listed on Exhibit E of the Propel Acquisition Agreement. 
+Propel SPV means the wholly-owned subsidiary of Propel Energy, LLC, a Delaware limited liability company,
+that is to be formed pursuant to Section 6.9 of the Propel Acquisition Agreement.  Prospect
+Acquisition means the Borrowers (a) direct acquisition of all of the Equity Interests in Prospect Energy and (b) indirect acquisition of all of the Prospect Assets, in each case pursuant to the Prospect Acquisition
+Agreement.  Prospect Acquisition Agreement means the Purchase and Sale Agreement dated as of
+July 15, 2013 among Memorial Resource Development LLC, a Delaware limited liability company, Black Diamond Minerals, LLC, a Delaware limited liability company, as seller, and the Borrower, as buyer. 
+Prospect Assets means, collectively, the Oil and Gas Properties listed on Exhibit A and Exhibit B of the
+Prospect Acquisition Agreement, and all of the Swap Agreements to which Prospect Energy is a party.  Prospect
+Energy means Prospect Energy, LLC, a Colorado limited liability company.  Stanolind
+Acquisition means the Borrowers (a) direct acquisition of all of the Equity Interests in the Stanolind SPV, and (b) indirect acquisition of all of the Stanolind Assets, in each case pursuant to the Stanolind Acquisition
+Agreement.  Stanolind Acquisition Agreement means the Purchase and Sale Agreement dated as of
+July 15, 2013 between Stanolind Oil and Gas LP, a Texas limited partnership, as seller, and the Borrower, as buyer. 
+Stanolind Assets means, collectively, the Oil and Gas Properties listed on Exhibit A, Exhibit B and Exhibit
+D of the Stanolind Acquisition Agreement, and the Swap Agreements listed on Exhibit E of the Stanolind Acquisition Agreement. 
+Stanolind SPV means the wholly-owned subsidiary of Stanolind Oil and Gas LP, a Texas limited partnership,
+that is to be formed pursuant to Section 6.9 of the Stanolind Acquisition Agreement.  Subject Acquisition
+Agreements means, collectively, the Boaz Acquisition Agreement, the Crown Acquisition Agreement, the MRD Operating Acquisition Agreement, the Propel Acquisition Agreement, the Prospect Acquisition Agreement, the Stanolind Acquisition
+Agreement and the Tanos Acquisition Agreement, and Subject Acquisition Agreement means any of them individually. 
+
+
+
+ Subject Acquisition Assets means, collectively, the Boaz
+Assets, the Crown Assets, the MRD Operating Assets, the Propel Assets, the Prospect Assets, the Stanolind Assets and the Tanos Assets. 
+Subject Acquisition Documents means, collectively, the Subject Acquisition Agreements together with all
+agreements, instruments, bills of sale, assignments, and documents executed in connection therewith.  Subject
+Acquisition Loan Parties means, collectively, (a) Tanos Midstream, LLC, a Texas limited liability company that will be changing its name to Memorial Midstream LLC contemporaneously with the closing of the Tanos Acquisition,
+(b) Propel Energy Services, LLC, a Delaware limited liability company that will be changing its name to Memorial Energy Services LLC contemporaneously with the closing of the Propel Acquisition, and (c) Prospect Energy, and
+Subject Acquisition Loan Party means any of them individually.  Subject Acquisitions
+means, collectively, the Boaz Acquisition, the Crown Acquisition, the MRD Operating Acquisition, the Propel Acquisition, the Prospect Acquisition, the Stanolind Acquisition and the Tanos Acquisition, and Subject Acquisition means
+any of them individually.  Tanos Acquisition means the Borrowers (a) direct acquisition of
+all of the Equity Interests in Tanos Energy and (b) indirect acquisition of (i) all of the Equity Interests in (A) Tanos Energy Holdings, LLC, a Delaware limited liability company, (B) Tanos Exploration, LLC, a Texas limited
+liability company, and (C) Tanos Midstream, LLC, a Texas limited liability company, and (ii) all of the Tanos Assets, in each case pursuant to the Tanos Acquisition Agreement. 
+Tanos Acquisition Agreement means the Purchase and Sale Agreement dated as of July 15, 2013 between
+Memorial Resource Development LLC, a Delaware limited liability company, as seller, and the Borrower, as buyer. 
+Tanos Assets means, collectively, the Oil and Gas Properties listed on Exhibit A and Exhibit B of the Tanos
+Acquisition Agreement, and all Swap Agreements to which any Tanos Entity is a party.  Tanos Entities
+means, collectively, Tanos Energy, Tanos Energy Holdings, LLC, a Delaware limited liability company, Tanos Exploration, LLC, a Texas limited liability company, and Tanos Midstream, LLC, a Texas limited liability company, and Tanos
+Entity means any of them individually. 
+
+

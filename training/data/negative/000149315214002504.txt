@@ -1,0 +1,1181 @@
+
+EX-10.2
+2
+ex10-2.htm
+EXHIBIT 10.2
+
+
+
+     EXHIBIT 10.2
+
+
+
+
+
+ 
+
+
+
+PETRO
+RIVER OIL CORP.
+
+AMENDED
+AND RESTATED
+
+2012
+Equity Compensation Plan
+
+ 
+
+1.
+Purposes.
+
+ 
+
+(a)
+Eligible Stock Award Recipients. The persons eligible to receive Stock Awards are the Employees, Directors and Consultants
+of the Company and its Affiliates.
+
+ 
+
+(b)
+Available Stock Awards. The purpose of the Plan is to provide a means by which eligible recipients of Stock Awards may be
+given an opportunity to benefit from increases in value of the Common Stock through the granting of the following Stock Awards:
+(i) Stock Options, (iii) Common Stock, (iv) Restricted Stock, and (v) Restricted Stock Units.
+
+ 
+
+(c)
+General Purpose. The Company, by means of the Plan, seeks to retain the services of the group of persons eligible to receive
+Stock Awards, to secure and retain the services of new members of this group and to provide incentives for such persons to exert
+maximum efforts for the success of the Company and its Affiliates.
+
+ 
+
+2.
+Definitions.
+
+ 
+
+(a)
+“Affiliate” means any parent corporation or subsidiary corporation of the Company, whether now or
+hereafter existing, as those terms are defined in Sections 424(e) and (f), respectively, of the Code.
+
+ 
+
+(b)
+“Board” means the Board of Directors of the Company.
+
+ 
+
+(c)	“Cause”
+for termination of Continuous Service means there exists (i) a reasonable and good faith finding by the Company as determined
+by it in its sole discretion, of a material and repeated failure of the Participant to provide his or her full business time and
+attention to his reasonably assigned duties for the Company (including, without limitation, unexcused failure to report for work)
+for reasons other than the Participant’s death or disability, or the Participant’s gross negligence or willful misconduct;
+which failure or deficiency remains uncured (if curable) for a period of thirty (30) days following written notice by the Company
+to the Participant which specifies the reasons for the potential cause determination; (ii) the material breach by the Participant
+of any of the provisions of his or her employment agreement (if the Participant has an employment agreement with the Company)
+for reasons other than the Participant’s death or disability, which breach remains uncured (if curable) for a period of
+thirty (30) days following written notice by the Company to the Participant which specifies the reasons for the potential cause
+determination; (iii) the conviction of the Participant of, or the entry of a pleading of guilty or nolo contendere by
+the Participant to, any felony; (iv) the Participant having committed any theft, embezzlement, fraud or other intentional act
+of dishonesty involving the business of the Company; or (v) any adjudication in any civil suit, or written acknowledgment by the
+Participant in any agreement or stipulation of the commission of any theft, embezzlement, fraud or other intentional act of dishonesty
+involving any other person.
+
+ 
+
+(d)	“Change
+of Control” an event or series of events resulting in the current holders of more than 50% of the Common Stock of
+the Company (inclusive of their affiliates) thereafter holding less than 50% of the Common Stock of the Company.
+
+ 
+
+(e)
+“Code” means the Internal Revenue Code of 1986, as amended. Reference to a specific section of the
+Code or regulation thereunder shall include such section or regulation, any valid regulation promulgated under such section, and
+any comparable provision of any future legislation or regulation amending, supplementing or superseding such section or regulation.
+
+  
+
+(f)
+“Committee” means a committee of one or more members of the Board appointed by the Board in accordance
+with subsection 3(c).
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+(g)
+“Common Stock” means the common stock of the Company.
+
+ 
+
+(h)
+“Company” means Petro River Oil Corp, a Delaware corporation.
+
+ 
+
+(i)
+“Consultant” means any person, including an advisor, (i) engaged by the Company or an Affiliate
+to render consulting or advisory services and who is compensated for such services or(ii) who is a member of the Board of Directors
+of an Affiliate. However, the term “Consultant” shall not include either Directors who are not compensated by the
+Company for their services as Directors or Directors who are merely paid a director’s fee by the Company for their services
+as Directors.
+
+ 
+
+(j)
+“Continuous Service” means that the Participant’s service with the Company or an Affiliate,
+whether as an Employee, Director or Consultant, is not interrupted or terminated. The Participant’s Continuous Service shall
+not be deemed to have terminated merely because of a change in the capacity in which the Participant renders service to the Company
+or an Affiliate as an Employee, Consultant or Director or a change in the entity for which the Participant renders such service,
+provided that there is no interruption or termination of the Participant’s Continuous Service. For example, a change in
+status from an Employee of the Company to a Consultant of an Affiliate or a Director will not constitute an interruption of Continuous
+Service. The Board or the chief executive officer of the Company, in that party’s sole discretion, may determine whether
+Continuous Service shall be considered interrupted in the case of any leave of absence approved by that party, including sick
+leave, military leave or any other personal leave.
+
+ 
+
+(k)
+“Covered Employee” means the chief executive officer and the four (4) other highest compensated
+officers of the Company for whom total compensation is required to be reported to stockholders under the Exchange Act, as determined
+for purposes of Section 162(m) of the Code.
+
+ 
+
+(l)
+“Director” means a member of the Board of Directors of the Company.
+
+ 
+
+(m)
+“Disability” means the permanent and total disability of a person within the meaning of Section
+22(e)(3) of the Code.
+
+ 
+
+(n)
+“Employee” means any person employed by the Company or an Affiliate. Mere service as a Director
+or payment of a director’s fee by the Company or an Affiliate shall not be sufficient to constitute “employment”
+by the Company or an Affiliate.
+
+ 
+
+(o)
+“Exchange Act” means the Securities Exchange Act of 1934, as amended.
+
+ 
+
+(p)
+“Fair Market Value” means, as of any date, the value of the Common Stock determined as follows:
+
+ 
+
+(i)
+If the Common Stock is listed on any established stock exchange or traded on a NASDAQ Market or quoted on the Over the Counter
+Bulletin Board, the Fair Market Value of a share of Common Stock shall be the closing sales price (last trade) for such stock
+as quoted on such exchange or market (or the exchange or market with the greatest volume of trading in the Common Stock) on the
+last market trading day prior to the day of determination, as reported in The Wall Street Journal or such other source
+as the Board deems reliable.
+
+ 
+
+(ii)
+In the absence of such markets for the Common Stock, the Fair Market Value shall be determined in good faith by the Board.
+
+ 
+
+(q)	“Good
+Reason” means, without the written consent of the Participant, (i) a material reduction by the Company in the Participant’s
+duties or position, (ii) a reduction of the Participant’s compensation or benefits as set forth in the Company’s benefits
+policies as of the date hereof or in Participant’s employment agreement, (iii) the relocation of the Participant’s
+principal place of employment by more than 50 miles, or (iv) any material breach by the Company of the Participant’s employment
+agreement, if any. Prior to a termination of Continuous Service with good reason, the Company shall have thirty (30) days to cure
+the deficiency or deficiencies related to the potential good reason determination.
+
+ 
+
+
+
+    2
+     
+    
+
+
+ 
+
+(r)
+	 Not used.
+
+ 
+
+(s)
+“Non-Employee Director” means a Director who either (i) is not a current Employee or Officer of
+the Company or its parent or a subsidiary, does not receive compensation (directly or indirectly) from the Company or its parent
+or a subsidiary for services rendered as a consultant or in any capacity other than as a Director (except for an amount as to
+which disclosure would not be required under Item 404(a) of Regulation S-K promulgated pursuant to the Securities Act (“Regulation
+S-K”)), does not possess an interest in any other transaction as to which disclosure would be required under Item 404(a)
+of Regulation S-K and is not engaged in a business relationship as to which disclosure would be required under Item 404(b) of
+Regulation S-K; or (ii) is otherwise considered a “non-employee director” for purposes of Rule 16b-3.
+
+ 
+
+(t)
+“Non-statutory Stock Option” means an Option not intended to qualify as an Incentive Stock Option.
+
+ 
+
+(u)
+“Officer” means a person who is an officer of the Company within the meaning of Section 16 of the
+Exchange Act and the rules and regulations promulgated thereunder.
+
+ 
+
+(v)
+“Option” means a Stock Option granted pursuant to the Plan.
+
+ 
+
+(w)
+“Option Agreement” means a written agreement between the Company and an Optionholder evidencing
+the terms and conditions of an individual Option grant. Each Option Agreement shall be subject to the terms and conditions of
+the Plan.
+
+ 
+
+(x)
+“Optionholder” means a person to whom an Option is granted pursuant to the Plan or, if applicable,
+such other person who holds an outstanding Option.
+
+ 
+
+(y)
+“Outside Director” means a Director who either (i) is not a current employee of the Company or an
+“affiliated corporation” (within the meaning of Treasury Regulations promulgated under Section 162(m) of the Code),
+is not a former employee of the Company or an “affiliated corporation” receiving compensation for prior services (other
+than benefits under a tax-qualified pension plan), was not an officer of the Company or an “affiliated corporation”
+at any time and is not currently receiving direct or indirect remuneration from the Company or an “affiliated corporation”
+for services in any capacity other than as a Director or (ii) is otherwise considered an “outside director” for purposes
+of Section 162(m) of the Code.
+
+ 
+
+(z)
+“Participant” means a person to whom a Stock Award is granted pursuant to the Plan or, if applicable,
+such other person who holds an outstanding Stock Award.
+
+ 
+
+(aa)
+“Plan” means this Petro River Oil Corp. 2012 Equity Compensation Plan.
+
+ 
+
+(bb)
+“Restricted Stock” means shares of Common Stock issued pursuant to a Restricted Stock award under
+Section 7(b) of the Plan.
+
+ 
+
+(cc)
+“Restricted Stock Unit” means a bookkeeping entry representing an amount equal to the Fair Market
+Value of one share of Common Stock, granted pursuant to Section 7(c). Each Restricted Stock Unit represents an unfunded and unsecured
+obligation of the Company.
+
+ 
+
+(dd)
+“Rule 16b-3” means Rule 16b-3 promulgated under the Exchange Act or any successor to Rule 16b-3,
+as in effect from time to time.
+
+ 
+
+(ee)
+“Securities Act” means the Securities Act of 1933, as amended.
+
+ 
+
+(ff)
+“Stock Award” means any equity grant under the Plan, including any grant of an Option, a Restricted
+Stock Unit, Common Stock, or Restricted Stock.
+
+ 
+
+
+
+    3
+     
+    
+
+
+ 
+
+(gg)
+“Stock Award Agreement” means a written agreement between the Company and a holder of a Stock Award
+evidencing the terms and conditions of an individual Stock Award grant. Each Stock Award Agreement shall be subject to the terms
+and conditions of the Plan. In the case of a Stock Award consisting of Restricted Stock, it shall mean a written agreement between
+the Company and a Participant evidencing the terms and restrictions applying to an individual grant of Restricted Stock, and in
+the case of a Stock Award consisting of Restricted Stock Units, it shall mean a written agreement between the Company and a Participant
+evidencing the terms and restrictions applying to an individual grant of Restricted Stock Units.
+
+ 
+
+(hh)
+“Stock Award Transfer Program” means any program instituted by the Board which would
+permit Participants the opportunity to transfer any outstanding Stock Awards to a financial institution or other person or entity
+approved by the Board.
+
+ 
+
+(ii)
+“Ten Percent Stockholder” means a person who owns (or is deemed to own pursuant to Section 424(d)
+of the Code) stock possessing more than ten percent (10%) of the total combined voting power of all classes of stock of the Company
+or of any of its Affiliates.
+
+ 
+
+3.
+Administration.
+
+ 
+
+(a)
+Administration by Board. The Board shall administer the Plan unless and until the Board delegates administration to a Committee,
+as provided in subsection 3(c).
+
+ 
+
+(b)
+Powers of Board. The Board shall have the power, subject to, and within the limitations of, the express provisions of the
+Plan:
+
+ 
+
+(i)
+	To determine the Fair Market Value;
+
+ 
+
+(ii)
+	To select the persons to whom Stock Awards may be granted hereunder;
+
+ 
+
+(iii)
+	To determine the number of shares of Common Stock to be covered by each Stock Award granted hereunder;
+
+ 
+
+(iv)
+	To approve forms of Stock Award Agreements for use under the Plan;
+
+ 
+
+(v)
+	To determine the terms and conditions, not inconsistent with the terms of the Plan, of any Stock Award granted hereunder.
+Such terms and conditions include, but are not limited to, the exercise price, the time or times when Stock Awards may be exercised
+(which may be based on performance criteria), any vesting acceleration or waiver of forfeiture restrictions, and any restriction
+or limitation regarding any Stock Award or the shares of Common Stock relating thereto, based in each case on such factors as
+the Board will determine;
+
+ 
+
+(vi)
+	To determine the terms and conditions of any, and to institute any, Stock Award
+Transfer Program in accordance with Section 10(b);
+
+ 
+
+(vii)
+	To construe and interpret the terms of the Plan and Stock Awards granted pursuant to the Plan;
+
+ 
+
+(viii)
+	To prescribe, amend and rescind rules and regulations relating to the Plan, including rules and regulations relating to
+sub-plans established for the purpose of satisfying applicable foreign laws;
+
+ 
+
+(ix)
+	To modify or amend each Stock Award (subject to Section 13(e) of the Plan), including
+but not limited to the discretionary authority to extend the post-termination exercisability period of Stock Awards and to extend
+the maximum term of an Option (subject to Section 6(a) regarding Incentive Stock Options);
+
+ 
+
+(x)	To
+allow Participants to satisfy withholding tax obligations in such manner as prescribed in Section 11(f);
+
+ 
+
+(xi)	To
+authorize any person to execute on behalf of the Company any instrument required to effect the grant of a Stock Award previously
+granted by the Board;
+
+ 
+
+
+
+    4
+     
+    
+
+
+ 
+
+(xii)	To
+allow a Participant to defer the receipt of the payment of cash or the delivery of shares of Common Stock that would otherwise
+be due to such Participant under a Stock Award pursuant to such procedures as the Board may determine; and
+
+ 
+
+(xiii)
+	To make all other determinations deemed necessary or advisable for administering the Plan.
+
+ 
+
+(c)
+Delegation to Committee.
+
+ 
+
+(i)
+General. The Board may delegate administration of the Plan to a Committee or Committees of one (1) or more members of the
+Board, and the term “Committee” shall apply to any person or persons to whom such authority has been delegated. If
+administration is delegated to a Committee, the Committee shall have, in connection with the administration of the Plan, the powers
+theretofore possessed by the Board, including the power to delegate to a subcommittee any of the administrative powers the Committee
+is authorized to exercise (and references in this Plan to the Board shall thereafter be to the Committee or subcommittee), subject,
+however, to such resolutions, not inconsistent with the provisions of the Plan, as may be adopted from time to time by the Board.
+The Board may abolish the Committee at any time and revest in the Board the administration of the Plan.
+
+ 
+
+(ii)
+Committee Composition. In the discretion of the Board, a Committee may consist solely of two or more Outside Directors, in
+accordance with Section 162(m) of the Code, and/or solely of two or more Non-Employee Directors, in accordance with Rule 16b-3.
+Within the scope of such authority, the Board or the Committee may (1) delegate to a committee of one or more members of the Board
+who are not Outside Directors the authority to grant Stock Awards to eligible persons who are either (a) not then Covered Employees
+and are not expected to be Covered Employees at the time of recognition of income resulting from such Stock Award or (b) not persons
+with respect to whom the Company wishes to comply with Section 162(m) of the Code and/or) (2) delegate to a committee of one or
+more members of the Board who are not Non-Employee Directors the authority to grant Stock Awards to eligible persons who are not
+then subject to Section 16 of the Exchange Act.
+
+ 
+
+(d)
+Effect of Board’s and/or Committee’s Decision. All determinations, interpretations and constructions made by the
+Board or the Committee in good faith shall not be subject to review by any person and shall be final, binding and conclusive on
+all persons.
+
+ 
+
+4.
+Shares Subject To The Plan.
+
+ 
+
+(a)
+Share Reserve. Subject to the provisions of Section 12 relating to adjustments upon changes in Common Stock, the total number
+of shares of Common Stock that may be issued pursuant to Stock Awards shall not exceed in the aggregate of 120,000,000 shares
+(the “Reserved Shares”).
+
+ 
+
+(b)
+Reversion of Shares to the Share Reserve. Subject to the provisions of 4(a) above, if any Stock Award shall for any reason
+expire or otherwise terminate, in whole or in part, without having been exercised in full, the shares of Common Stock not acquired
+under such Stock Award shall revert to and again become available for issuance under the Plan.
+
+ 
+
+(c)	
+Source of Shares. The shares of Common Stock subject to the Plan may be unissued shares or reacquired shares, bought on the
+market or otherwise.
+
+ 
+
+5.
+Eligibility.
+
+ 
+
+(a)
+Not used.
+
+ 
+
+(b)
+Not used
+
+ 
+
+(c)
+Section 162(m) Limitation. Subject to the provisions of Section 12 relating to adjustments upon changes in the shares of Common
+Stock, no Employee shall be eligible to be granted Options covering more than nine million (9,000,000) shares of Common Stock
+during any calendar year.
+
+ 
+
+
+
+    5
+     
+    
+
+
+ 
+
+(d)
+Consultants.
+
+ 
+
+(i)
+A Consultant shall not be eligible for the grant of a Stock Award if, at the time of grant, either the offer or the sale of
+the Company’s securities to such Consultant is not exempt under Rule 701 of the Securities Act (“Rule 701”)
+because of the nature of the services that the Consultant is providing to the Company, or because the Consultant is not a natural
+person, or as otherwise provided by Rule 701, unless the Company determines that such grant need not comply with the requirements
+of Rule 701 and will satisfy another exemption under the Securities Act as well as comply with the securities laws of all other
+relevant jurisdictions.
+
+ 
+
+(ii)
+A Consultant shall not be eligible for the grant of a Stock Award if, at the time of grant, a Form S-8 Registration Statement
+under the Securities Act (“Form S-8”) is not available to register either the offer or the sale of the Company’s
+securities to such Consultant because of the nature of the services that the Consultant is providing to the Company, or because
+the Consultant is not a natural person, or as otherwise provided by the rules governing the use of Form S-8, unless the Company
+determines both (i) that such grant (A) shall be registered in another manner under the Securities Act (e.g., on a Form S-3 Registration
+Statement) or (B) does not require registration under the Securities Act in order to comply with the requirements of the Securities
+Act, if applicable, and (ii) that such grant complies with the securities laws of all other relevant jurisdictions.
+
+ 
+
+(iii)
+Rule 701 and Form S-8 generally are available to consultants and advisors only if (i) they are natural persons; (ii) they
+provide bona fide services to the issuer, its parents, its majority-owned subsidiaries or majority-owned subsidiaries of the issuer’s
+parent; and (iii) the services are not in connection with the offer or sale of securities in a capital-raising transaction, and
+do not directly or indirectly promote or maintain a market for the issuer’s securities.
+
+ 
+
+6.
+Option Provisions.
+
+ 
+
+Each
+Option shall be in such form and shall contain such terms and conditions as the Board shall deem appropriate. All Options shall
+be non-statutory Stock Options at the time of grant. The provisions of separate Options need not be identical, but each Option
+shall include (through incorporation of provisions hereof by reference in the Option or otherwise) the substance of each of the
+following provisions:
+
+ 
+
+(a)
+Term. No Stock Option shall be exercisable after the expiration of ten (10) years from the date it was granted.
+
+ 
+
+(b)
+Not used.
+
+ 
+
+(c)
+Exercise Price of a Stock Option. The exercise price of each Stock Option shall be not less than one hundred percent (100%)
+of the Fair Market Value of the Common Stock subject to the Option on the date the Option is granted. Notwithstanding the foregoing,
+a Stock Option may be granted with an exercise price lower than that set forth in the preceding sentence if such Option is granted
+pursuant to an assumption or substitution for another option in a manner satisfying the provisions of Section 424(a) of the Code.
+
+ 
+
+(d)
+Consideration. The purchase price of Common Stock acquired pursuant to an Option shall be paid, to the extent permitted by
+applicable statutes and regulations, either (i) in cash at the time the Option is exercised or (ii) at the discretion of the Board
+at the time of the grant of the Option (or subsequently in the case of a Non-statutory Stock Option) (1) by delivery to the Company
+of other Common Stock, (2) according to a deferred payment or other similar arrangement with the Optionholder or (3) in any other
+form of legal consideration that may be acceptable to the Board (which includes a cashless exercise election). Unless otherwise
+specifically provided in the Option, the purchase price of Common Stock acquired pursuant to an Option that is paid by delivery
+to the Company of other Common Stock acquired, directly or indirectly from the Company, shall be paid only by shares of the Common
+Stock of the Company that have been held for more than six (6) months (or such longer or shorter period of time required to avoid
+a charge to earnings for financial accounting purposes). At any time that the Company is incorporated in Delaware, payment of
+the Common Stock’s “par value,” as defined in the Delaware General Corporation Law, shall not be made by deferred
+payment.
+
+ 
+
+
+
+    6
+     
+    
+
+
+ 
+
+In
+the case of any deferred payment arrangement, interest shall be compounded at least annually and shall be charged at the market
+rate of interest necessary to avoid a charge to earnings for financial accounting purposes.
+
+ 
+
+In
+the case of a cashless exercise, the following formula will be used:
+
+ 
+
+If
+elected by the Holder, the Holder shall be entitled to receive a certificate for the number of Option Shares equal to the quotient
+obtained by dividing [(A-B) (X)] by (A), where:
+
+ 
+
+	(A)
+= the closing stock price (trade) on the Trading Day immediately 	preceding the date of such election;
+
+ 
+
+(B)
+= the Exercise Price of the Option, as adjusted; and
+
+ 
+
+(X)
+= the number of Option Shares issuable upon exercise of the Option in accordance with the terms of the Option by means of a cash
+exercise rather than a cashless exercise.
+
+ 
+
+
+
+	Notwithstanding
+anything herein to the contrary, on the Termination Date, unexercised vested Options shall be automatically exercised via cashless
+exercise pursuant to this Section 6(d).
+
+ 
+
+	(e)
+Vesting. (i)	The total number of shares of Common Stock subject to an Option may, but need not, vest and therefore become
+exercisable in periodic installments that may, but need not, be equal. The Option may be subject to such other terms and conditions
+on the time or times when it may be exercised (which may be based on performance or other criteria) as the Board may deem appropriate.
+The vesting provisions of individual Options may vary. The provisions of this subsection 6(e) are subject to any Option provisions
+governing the minimum number of shares of Common Stock as to which an Option may be exercised.
+
+ 
+
+(f)
+Termination of Continuous Service. In the event an Optionholder’s Continuous Service terminates, the Optionholder (or
+the Optionholder’s heirs, executor or successors) may exercise his or her Option (to the extent that the Optionholder was
+entitled to exercise such Option as of the date of termination) but only within such period of time ending on the earlier of (i)
+the date six (6) months following the termination of the Optionholder’s Continuous Service (or such longer period specified
+in the Option Agreement), or (ii) the expiration of the term of the Option as set forth in the Option Agreement. If, after termination,
+the Optionholder does not exercise his or her Option within the time specified in the Option Agreement, the Option shall be exercised
+on a cashless basis per section 6(d) or terminate.
+
+ 
+
+(g)
+Extension of Termination Date. An Optionholder’s Option Agreement may also provide that if the exercise of the Option
+following the termination of the Optionholder’s Employment and/or Continuous Service would be prohibited at any time solely
+because the issuance of shares of Common Stock would violate the registration requirements under the Securities Act, then the
+Option shall terminate on the earlier of (i) the expiration of the term of the Option set forth in Section 6(a) or (ii) the expiration
+of a period of six (6) months after the termination of the Optionholder’s Continuous Service during which the exercise of
+the Option would not be in violation of such registration requirements.
+
+ 
+
+(h)
+Not used.
+
+ 
+
+(i)
+Not used.
+
+ 
+
+(j)
+Early Exercise. The Option may, but need not, include a provision whereby the Optionholder may elect at any time before the
+Optionholder’s Continuous Service terminates to exercise the Option as to any part or all of the shares of Common Stock
+subject to the Option prior to the full vesting of the Option.
+
+ 
+
+
+
+    7
+     
+    
+
+
+ 
+
+7.
+Provisions of Stock Awards other than Options.
+
+ 
+
+(a)
+Stock Awards. Each Stock Award Agreement with regard to Common Stock shall be in such form and shall contain such terms and
+conditions as the Board shall deem appropriate. The terms and conditions of Stock Award Agreements for Common Stock may change
+from time to time, and the terms and conditions of separate Stock Award Agreements for Common Stock need not be identical, but
+each Stock Award Agreement shall include (through incorporation of provisions hereof by reference in the agreement or otherwise)
+the substance of each of the following provisions:
+
+ 
+
+(i)
+Consideration. A Stock Award of Common Stock may be awarded in consideration for past services actually rendered to the Company
+or an Affiliate for its benefit.
+
+ 
+
+(ii)
+Vesting. Stock Awards other than Options shall vest in accordance with the schedule determined by the Board, which shall be
+set forth in the applicable Stock Award Agreement.
+
+ 
+
+(iii)
+Termination of Participant’s Continuous Service. In the event a Participant’s Continuous Service terminates, the
+Company may reacquire any or all of the shares of Common Stock held by the Participant which have not vested as of the date of
+termination under the terms of the Stock Award Agreement.
+
+ 
+
+(b)
+Restricted Stock Awards. Each Stock Award Agreement with regard to Restricted Stock shall be in such form and shall contain
+such terms and conditions as the Board shall deem appropriate. The terms and conditions of the Stock Award Agreement may change
+from time to time, and the terms and conditions of separate Stock Award Agreement for Restricted Stock need not be identical,
+but each Stock Award Agreement regarding Restricted Stock shall include (through incorporation of provisions hereof by reference
+in the agreement or otherwise) the substance of each of the following provisions:
+
+ 
+
+(i)
+Transferability. Except as provided in this Section 7(b) or Section 10, shares of Restricted Stock may not be sold, transferred,
+pledged, assigned, or otherwise alienated or hypothecated until such time as the shares of Restricted Stock have vested.
+
+ 
+
+(ii)
+Other Restrictions. The Board, in its sole discretion, may impose such other restrictions on shares of Restricted Stock as
+it may deem advisable or appropriate.
+
+ 
+
+(iii)
+Removal of Restrictions. Except as otherwise provided in this Section 7(b), shares of Restricted Stock covered by each Restricted
+Stock grant made under the Plan will be released from escrow as soon as practicable after the date the shares of Restricted Stock
+vest or at such other time as the Board may determine. The Board, in its discretion, may accelerate the time at which any restrictions
+will lapse or be removed.
+
+ 
+
+(iv)
+Voting Rights. During the period in which the shares of Restricted Stock are not transferable, Participants holding shares
+of Restricted Stock granted hereunder may exercise full voting rights with respect to those Shares, unless the Board determines
+otherwise.
+
+ 
+
+(v)
+Dividends and Other Distributions. During the period in which the shares of Restricted Stock are not transferable, Participants
+holding shares of Restricted Stock will be entitled to receive all dividends and other distributions paid with respect to such
+shares, unless the Board provides otherwise. If any such dividends or distributions are paid in shares, the shares will be subject
+to the same restrictions on transferability and forfeitability as the shares of Restricted Stock with respect to which they were
+paid.
+
+ 
+
+(vi)
+Return of Restricted Stock to the Company. On the date set forth in the Stock Award Agreement, the Restricted Stock for which
+restrictions have not lapsed will revert to the Company and again will become available for grant under the Plan.
+
+ 
+
+(c)
+Restricted Stock Units. Restricted Stock Units may be granted at any time and from time to time as determined by the Board.
+After the Board determines that it will grant Restricted Stock Units under the Plan, it shall advise the Participant in a Stock
+Award Agreement for Restricted Stock Units of the terms, conditions, and restrictions related to the grant, including the number
+of Restricted Stock Units.
+
+ 
+
+
+
+    8
+     
+    
+
+
+ 
+
+(i)
+Vesting Criteria and Other Terms. The Board shall set vesting criteria in its discretion, which, depending on the extent to
+which the criteria are met, will determine the number of Restricted Stock Units that will be paid out to the Participant. The
+Board may set vesting criteria based upon the achievement of Company-wide, business unit, or individual goals (including, but
+not limited to, continued employment), or any other basis determined by the Board in its discretion.
+
+ 
+
+(ii)
+	Settlement of Restricted Stock Units. Restricted Stock Units shall be settled
+within 10 business days after vesting, either by delivery to the Participant of shares of Common Stock (with appropriate Securities
+Act restrictive legends) or, at the election of the Company, by delivery to the Participant of a cash payment based upon the Fair
+Market Value of the Company’s Common Stock on the date of vesting for each Restricted Stock Unit vested.
+
+ 
+
+8.
+Covenants of the Company.
+
+ 
+
+(a)
+Availability of Shares. During the terms of the Stock Awards, the Company shall keep available at all times the number of
+shares of Common Stock required to satisfy such Stock Awards.
+
+ 
+
+(b)
+Securities Law Compliance. The Company shall seek to obtain from each regulatory commission or agency having jurisdiction
+over the Plan such authority as may be required to grant Stock Awards and to issue and sell shares of Common Stock upon exercise
+of the Stock Awards; provided, however, that this undertaking shall not require the Company to register under the Securities Act
+the Plan, any Stock Award or any Common Stock issued or issuable pursuant to any such Stock Award. If, after reasonable efforts,
+the Company is unable to obtain from any such regulatory commission or agency the authority which counsel for the Company deems
+necessary for the lawful issuance and sale of Common Stock under the Plan, the Company shall be relieved from any liability for
+failure to issue and sell Common Stock upon exercise of such Stock Awards unless and until such authority is obtained.
+
+ 
+
+9.
+Use of Proceeds from Stock
+
+ 
+
+Proceeds
+from the sale of Common Stock pursuant to Stock Awards shall constitute general funds of the Company.
+
+ 
+
+10.
+Transferability of Awards.
+
+ 
+
+(a)
+General. Unless determined otherwise by the Board, a Stock Award may not be sold, pledged, assigned, hypothecated, transferred,
+or disposed of in any manner other than by will, by the laws of descent or distribution, to a revocable trust, or as permitted
+by Rule 701, and may be exercised, during the lifetime of the Participant, only by the Participant. If the Board makes a Stock
+Award transferable, such Stock Award will contain such additional terms and conditions as the Board deems appropriate.
+
+ 
+
+(b)
+Stock Award Transfer Program. Notwithstanding any contrary provision of the Plan, the Board shall have all discretion and
+authority to determine and implement the terms and conditions of any Stock Award Transfer Program instituted pursuant to this
+Section 10(b) and shall have the authority to amend the terms of any Stock Award participating, or otherwise eligible to participate
+in, the Stock Award Transfer Program, including (but not limited to) the authority to (i) amend (including to extend) the expiration
+date, post-termination exercise period and/or forfeiture conditions of any such Stock Award, (ii) amend or remove any provisions
+of the Stock Award relating to the Stock Award holder’s continued service to the Company, (iii) amend the permissible payment
+methods with respect to the exercise or purchase of any such Stock Award, (iv) amend the adjustments to be implemented in the
+event of changes in the capitalization and other similar events with respect to such Stock Award, and (v) make such other changes
+to the terms of such Stock Award as the Board deems necessary or appropriate in its sole discretion.
+
+ 
+
+
+
+    9
+     
+    
+
+
+ 
+
+11.
+Miscellaneous.
+
+ 
+
+(a)
+Acceleration of Exercisability and Vesting. The Board shall have the power to accelerate the time at which a Stock Award may
+first be exercised or the time during which a Stock Award or any part thereof will vest in accordance with the Plan, notwithstanding
+the provisions in the Stock Award stating the time at which it may first be exercised or the time during which it will vest.
+
+ 
+
+(b)
+Stockholder Rights. Except to the limited extent provided in Section 7(b), no Participant (nor any beneficiary) shall have
+any of the rights or privileges of a stockholder of the Company with respect to any shares of Common Stock issuable pursuant to
+a Stock Award (or exercise thereof), unless and until certificates representing such shares shall have been issued, recorded on
+the records of the Company or its transfer agents or registrars, and delivered to the Participant (or beneficiary).
+
+ 
+
+(c)
+No Employment or other Service Rights. Nothing in the Plan or any instrument executed or Stock Award granted pursuant thereto
+shall confer upon any Participant any right to continue to serve the Company or an Affiliate in the capacity in effect at the
+time the Stock Award was granted or shall affect the right of the Company or an Affiliate to terminate (i) the employment of an
+Employee with or without notice and with or without cause, (ii) the service of a Consultant pursuant to the terms of such Consultant’s
+agreement with the Company or an Affiliate or (iii) the service of a Director pursuant to the Bylaws of the Company or an Affiliate,
+and any applicable provisions of the corporate law of the state in which the Company or the Affiliate is incorporated, as the
+case may be.
+
+ 
+
+(d)
+Not used. 
+
+ 
+
+(e)
+Investment Assurances. The Company may require a Participant, as a condition of exercising or acquiring Common Stock under
+any Stock Award, (i) to give written assurances satisfactory to the Company as to the Participant’s knowledge and experience
+in financial and business matters and/or to employ a purchaser representative reasonably satisfactory to the Company who is knowledgeable
+and experienced in financial and business matters and that he or she is capable of evaluating, alone or together with the purchaser
+representative, the merits and risks of exercising the Stock Award; and (ii) to give written assurances satisfactory to the Company
+stating that the Participant is acquiring Common Stock subject to the Stock Award for the Participant’s own account and
+not with any present intention of selling or otherwise distributing the Common Stock. The foregoing requirements, and any assurances
+given pursuant to such requirements, shall be inoperative if (1) the issuance of the shares of Common Stock upon the exercise
+or acquisition of Common Stock under the Stock Award has been registered under a then currently effective registration statement
+under the Securities Act or (2) as to any particular requirement, a determination is made by counsel for the Company that such
+requirement need not be met in the circumstances under the then applicable securities laws. The Company may, upon advice of counsel
+to the Company, place legends on stock certificates issued under the Plan as such counsel deems necessary or appropriate in order
+to comply with applicable securities laws, including, but not limited to, legends restricting the transfer of the Common Stock.
+
+ 
+
+(f)
+Withholding Obligations. To the extent provided by the terms of a Stock Award Agreement, the Participant may satisfy any federal,
+state or local tax withholding obligation relating to the exercise or acquisition of Common Stock under a Stock Award by any of
+the following means (in addition to the Company’s right to withhold from any compensation paid to the Participant by the
+Company) or by a combination of such means: (i) tendering a cash payment; (ii) authorizing the Company to withhold shares of Common
+Stock from the shares of Common Stock otherwise issuable to the Participant as a result of the exercise or acquisition of Common
+Stock under the Stock Award, provided, however, that no shares of Common Stock are withheld with a value exceeding the minimum
+amount of tax required to be withheld by law; or (iii) delivering to the Company owned and unencumbered shares of Common Stock.
+
+ 
+
+(g)
+Information Obligation. To the extent required by applicable state law, the Company shall deliver financial statements to
+Participants at least annually. This subsection 10(g) shall not apply to key Employees whose duties in connection with the Company
+assure them access to equivalent information.
+
+ 
+
+
+
+    10
+     
+    
+
+
+ 
+
+12.
+Adjustments upon Changes in Stock.
+
+ 
+
+(a)
+Capitalization Adjustments. If any change is made in the Common Stock subject to the Plan, or subject to any Stock Award,
+without the receipt of consideration by the Company (through merger, consolidation, reorganization, recapitalization, reincorporation,
+stock dividend, dividend in property other than cash, stock split, liquidating dividend, combination of shares, exchange of shares,
+change in corporate structure or other transaction not involving the receipt of consideration by the Company), the Plan will be
+appropriately adjusted in the class(es) and maximum number of securities subject to the Plan pursuant to Section 4(a) and the
+maximum number of securities subject to award to any person pursuant to Section 5(c), and the outstanding Stock Awards will be
+appropriately adjusted in the class(es) and number of securities and price per share of Common Stock subject to such outstanding
+Stock Awards. The Board shall make such adjustments, and its determination shall be final, binding and conclusive. (The conversion
+of any convertible securities of the Company shall not be treated as a transaction “without receipt of consideration”
+by the Company.)
+
+ 
+
+(b)
+Dissolution or Liquidation. In the event of a dissolution or liquidation of the Company, then all outstanding Stock Awards
+shall terminate immediately prior to such event.
+
+ 
+
+(c)
+Asset Sale, Merger, Consolidation or Reverse Merger. In the event of (i) a sale, lease or other disposition of all or substantially
+all of the assets of the Company, (ii) a merger or consolidation in which the Company is not the surviving corporation or (iii)
+a reverse merger in which the Company is the surviving corporation but the shares of Common Stock outstanding immediately preceding
+the merger are converted by virtue of the merger into other property, whether in the form of securities, cash or otherwise (individually,
+a “Corporate Transaction”), then any surviving corporation or acquiring corporation shall assume any Stock Awards
+outstanding under the Plan or shall substitute similar stock awards (including an award to acquire the same consideration paid
+to the stockholders in the Corporate Transaction) for those outstanding under the Plan. In the event any surviving corporation
+or acquiring corporation refuses to assume such Stock Awards or to substitute similar stock awards for those outstanding under
+the Plan, then with respect to Stock Awards held by Participants whose Continuous Service has not terminated, the vesting of such
+Stock Awards (and, if applicable, the time during which such Stock Awards may be exercised) shall be accelerated in full, and
+the Stock Awards shall terminate if not exercised (if applicable) at or prior to the Corporate Transaction. With respect to any
+other Stock Awards outstanding under the Plan, such Stock Awards shall terminate if not exercised (if applicable) prior to the
+Corporate Transaction. Notwithstanding the foregoing provisions of this paragraph, Participants shall be allowed not less than
+six (6) months to exercise Stock Awards so vested.
+
+ 
+
+13.
+Amendment of the Plan and Stock Awards.
+
+ 
+
+(a)
+Amendment of Plan. The Board at any time, and from time to time, may amend the Plan. However, except as provided in Section
+12 relating to adjustments upon changes in Common Stock, no amendment shall be effective unless approved by the stockholders of
+the Company to the extent stockholder approval is necessary to satisfy the requirements of Section 422 of the Code, Rule 16b-3
+or any NASDAQ or securities exchange listing requirements.
+
+ 
+
+(b)
+Stockholder Approval. The Board may, in its sole discretion, submit any other amendment to the Plan for stockholder approval,
+including, but not limited to, amendments to the Plan intended to satisfy the requirements of Section 162(m) of the Code and the
+regulations thereunder regarding the exclusion of performance-based compensation from the limit on corporate deductibility of
+compensation paid to certain executive officers.
+
+ 
+
+(c)
+Contemplated Amendments. It is expressly contemplated that the Board may amend the Plan in any respect the Board deems necessary
+or advisable to provide eligible Employees with the maximum benefits provided or to be provided under the provisions of the Code
+and the regulations promulgated thereunder relating to Incentive Stock Options and/or to bring the Plan and/or Incentive Stock
+Options granted under it into compliance therewith.
+
+ 
+
+(d)
+No Impairment of Rights. Rights under any Stock Award granted before amendment of the Plan shall not be impaired by any amendment
+of the Plan unless (i) the Company requests the consent of the Participant and (ii) the Participant consents in writing.
+
+ 
+
+(e)
+Amendment of Stock Awards. The Board at any time, and from time to time, may amend the terms of any one or more Stock Awards;
+provided, however, that the rights under any Stock Award shall not be impaired by any such amendment unless (i) the Company requests
+the consent of the Participant and (ii) the Participant consents in writing.
+
+ 
+
+
+
+    11
+     
+    
+
+
+ 
+
+14.
+Termination or Suspension of the Plan.
+
+ 
+
+(a)
+Plan Term. The Board may suspend or terminate the Plan at any time. Unless sooner terminated, the Plan shall terminate on
+the day before the tenth (10th) anniversary of the date the Plan is adopted by the Board. No Stock Awards may be granted under
+the Plan while the Plan is suspended or after it is terminated.
+
+ 
+
+(b)
+No Impairment of Rights. Suspension or termination of the Plan shall not impair rights and obligations under any Stock Award
+granted while the Plan is in effect except with the written consent of the Participant.
+
+ 
+
+15.
+Effective Date of Plan.
+
+ 
+
+The
+Plan shall become effective as of the date of approval by the Board.
+
+ 
+
+16.
+Choice of Law.
+
+ 
+
+The
+law of the State of Delaware shall govern all questions concerning the construction, validity and interpretation of this Plan,
+without regard to such state’s conflict of laws rules.
+
+ 
+
+IN
+WITNESS WHEREOF, the Company, by its duly authorized officer, has executed this Plan on the date indicated below.
+
+ 
+
+
+
+     
+    PETRO
+    RIVER OIL CORP. 
+
+     
+     
+
+    Dated:
+    August 10, 2012
+    /s/
+    Jeffrey Freedman 
+
+     
+    Name:
+    Jeffrey Freedman 
+
+     
+    Title:
+    Chief Executive Officer
+
+ 
+
+Adopted
+By the Board of Directors on August 10, 2012
+
+Approved
+By Stockholders: September 7, 2012
+
+Amended
+By the Board of Directors on February 12, 2014
+
+Approved
+By Stockholders: April 16, 2014
+
+Termination
+Date: August 10, 2022
+
+ 
+
+
+
+    12
+     
+    
+
+
+
+
+
+
+
+
+

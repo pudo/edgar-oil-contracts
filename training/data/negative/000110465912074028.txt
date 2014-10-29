@@ -1,0 +1,275 @@
+
+EX-10.1
+2
+a12-20083_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+  
+
+
+Exhibit 10.1
+ 
+ KOSMOS ENERGY LTD.
+LONG TERM INCENTIVE PLAN
+ 
+RSU Award Agreement
+[Service Vesting  for Directors]
+ 
+You have been granted a restricted share unit award (this Award) on the following terms and subject to the provisions of Attachment A and the Kosmos Energy Ltd. Long Term Incentive Plan (the Plan).  Unless defined in this Award agreement (including Attachment A, this Agreement), capitalized terms will have the meanings assigned to them in the Plan.  In the event of a conflict among the provisions of the Plan, this Agreement and any descriptive materials provided to you, the provisions of the Plan will prevail.
+ 
+
+
+
+Participant    
+
+     
+
+[Full name]       
+
+
+     
+
+     
+
+        
+
+
+Number of   Restricted Share Units    
+
+     
+
+[·] Restricted Share Units (the RSUs or Restricted Share Units)       
+
+
+     
+
+     
+
+        
+
+
+Grant   Date    
+
+     
+
+[Insert date]       
+
+
+     
+
+     
+
+        
+
+
+Vesting    
+
+     
+
+Subject to   Section 3 of Attachment A, one-fourth of the RSUs shall vest on [insert   applicable vesting portion] if the Participant does not experience a   Termination of Service at any time prior to the applicable vesting date.   Further, subject to Section 3 of Attachment A, if a Change in Control   occurs and the Participant does not experience a Termination of Service from   the Grant Date to [insert date], then the RSUs that have not vested pursuant   to the preceding sentence shall fully vest on such [insert date].         
+ 
+
+
+
+
+
+
+ 
+Attachment A
+ 
+RSU Award Agreement
+Terms and Conditions
+ 
+Grant to:  [Full name]
+ 
+Section 1.  Grant of RSU Award.  Subject to the terms and conditions of the Plan and this Agreement, the Company hereby grants this Award to the Participant on the Grant Date on the terms set forth on the cover page of this Agreement, as more fully described in this Attachment A.  This Award is granted under the Plan, which is incorporated herein by this reference and made a part of this Agreement.
+ 
+Section 2.  Issuance of RSUs.
+ 
+(a)           Issuance.  Each RSU shall represent the right to receive one Share upon the vesting of such RSU in accordance with this Agreement.
+ 
+(b)           Voting Rights.  The Participant shall have no voting rights with respect to the RSUs unless and until the Participant becomes the record owner of the Shares, including Dividend Shares (as defined below) to the extent applicable, underlying such RSUs.
+ 
+(c)           Dividend Equivalents.  If a dividend is paid on Shares during the period commencing on the Grant Date and ending on the date on which the Shares underlying RSUs are distributed to the Participant, the Participant shall be eligible to receive an amount equal to the amount of the dividend that the Participant would have received had the Shares underlying the RSUs been distributed to the Participant as of the time at which such dividend is paid; it being understood that no such amount shall be payable with respect to any RSUs that are forfeited.  Such amount shall be paid to the Participant on the date on which the Shares underlying the RSUs are distributed to the Participant in the same form (cash, Shares or other property) in which such dividend is paid to holders of Shares generally.  Any Shares that the Participant is eligible to receive pursuant to this Section 2 are referred to herein as Dividend Shares.
+ 
+(d)           Transferability.  The RSUs shall not be assigned, sold, transferred or otherwise be subject to alienation by the Participant.  Any assignment, sale, transfer or other alienation with respect to the Shares issuable upon the vesting of the RSUs shall be in accordance with applicable securities laws.
+ 
+(e)           Withholding Requirements.  The Company may withhold any tax (or other governmental obligation) that becomes due with respect to the RSUs (or any dividend or distribution thereon), and the Participant shall make arrangements satisfactory to the Company to enable the Company to satisfy all such withholding requirements. Notwithstanding the foregoing, the Committee, in its
+ 
+2
+
+
+
+
+
+
+ 
+sole discretion, may permit the Participant to satisfy any such withholding requirement by transferring to the Company pursuant to such procedures as the Committee may require, effective as of the date on which such requirement arises, a number of vested Shares owned and designated by the Participant having an aggregate Fair Market Value as of such date that is equal to the minimum amount required to be withheld.  If the Committee permits the Participant to satisfy any such withholding requirement pursuant to the preceding sentence, the Company shall remit to the Internal Revenue Service and appropriate state and local revenue agencies, for the credit of the Participant, an amount of cash withholding equal to the Fair Market Value of the Shares transferred to the Company as provided above.
+ 
+Section 3.  Accelerated Vesting, Forfeiture upon Termination of Service and Distribution.
+ 
+(a)           Death or Disability.  In the event of the Participants Termination of Service at any time due to the Participants death or Disability, the RSUs shall fully vest.
+ 
+(b)           For Cause.  In the event of the Participants Termination of Service at any time for cause (as defined in the Companys Bye-Laws, as may be amended from time to time), any unvested RSUs shall be forfeited in their entirety without any payment to the Participant or, in the Committees sole discretion, if required pursuant to applicable law to effect such forfeiture, the Company may repurchase the RSUs at their par value.
+ 
+(c)           For Any Other Reason.  In the event of the Participants Termination of Service at any time under circumstances not described in Sections 3(a) or 3(b), (i) the portion of the RSUs that is scheduled to vest on the next applicable vesting date shall vest on the date of such Termination of Service and (ii) the portion of the RSUs that is not scheduled to vest in accordance with clause (i) shall be forfeited in its entirety without any payment to the Participant or, in the Committees sole discretion, if required pursuant to applicable law to effect such forfeiture, the Company may repurchase the RSUs at their par value.
+ 
+(d)           Distribution on Vesting.  Subject to the provisions of this Agreement, upon the vesting of any of the RSUs, the Company shall distribute to the Participant, on or within 30 days after the date of such vesting, one Share for each such RSU and the number of Dividend Shares determined in accordance with Section 2(c) of this Attachment A.  Subject to any applicable Lock Up Agreement, on such distribution, such Shares (including Dividend Shares) shall be fully assignable, saleable and transferable by the Participant, and the Company shall deliver such Shares to the Participant by transfer or issuance to the Depository Trust Company for the benefit of the Participant or by delivery of a share certificate registered in the Participants name and such transfer or issuance shall be evidenced in the register of members of the Company.
+ 
+3
+
+
+
+
+
+
+ 
+Section 4.  Miscellaneous Provisions.
+ 
+(a)           Notices.  All notices, requests and other communications under this Agreement shall be in writing and shall be delivered in person (by courier or otherwise), mailed by certified or registered mail, return receipt requested, or sent by facsimile transmission, as follows:
+ 
+if to the Company, to:
+ 
+Kosmos Energy Ltd.
+c/o Kosmos Energy, LLC
+8176 Park Lane, Suite 500
+Dallas, Texas 75231
+Attention:  [·]
+ 
+if to the Participant, to the address that the Participant most recently provided to the Company,
+ 
+or to such other address or facsimile number as such party may hereafter specify for the purpose by notice to the other parties hereto.  All such notices, requests and other communications shall be deemed received on the date of receipt by the recipient thereof if received prior to 5:00 p.m. on a business day in the place of receipt.  Otherwise, any such notice, request or communication shall be deemed received on the next succeeding business day in the place of receipt.
+ 
+(b)           Entire Agreement.  This Agreement, the Plan and any other agreements, schedules, exhibits and other documents referred to herein or therein constitute the entire agreement and understanding between the parties in respect of the subject matter hereof and supersede all prior and contemporaneous arrangements, agreements and understandings, both oral and written, whether in term sheets, presentations or otherwise, between the parties with respect to the subject matter hereof.
+ 
+(c)           Amendment; Waiver.  No amendment or modification of any provision of this Agreement shall be effective unless signed in writing by or on behalf of the Company and the Participant, except that the Company may amend or modify this Agreement without the Participants consent in accordance with the provisions of the Plan or as otherwise set forth in this Agreement.  No waiver of any breach or condition of this Agreement shall be deemed to be a waiver of any other or subsequent breach or condition whether of like or different nature.  Any amendment or modification of or to any provision of this Agreement, or any waiver of any provision of this Agreement, shall be effective only in the specific instance and for the specific purpose for which made or given.
+ 
+4
+
+
+
+
+
+
+ 
+(d)           Assignment.  Neither this Agreement nor any right, remedy, obligation or liability arising hereunder or by reason hereof shall be assignable by the Participant.
+ 
+(e)           Successors and Assigns; No Third Party Beneficiaries.  This Agreement shall inure to the benefit of and be binding upon the Company and the Participant and their respective heirs, successors, legal representatives and permitted assigns.  Nothing in this Agreement, expressed or implied, is intended to confer on any Person other than the Company and the Participant, and their respective heirs, successors, legal representatives and permitted assigns, any rights, remedies, obligations or liabilities under or by reason of this Agreement.
+ 
+(f)            Counterparts.  This Agreement may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.
+ 
+(g)           Participant Undertaking.  The Participant agrees to take whatever additional action and execute whatever additional documents the Company may deem necessary or advisable to carry out or give effect to any of the obligations or restrictions imposed on either the Participant or the RSUs pursuant to the provisions of this Agreement.
+ 
+(h)           Plan.  The Participant acknowledges and understands that material definitions and provisions concerning the RSUs and the Participants rights and obligations with respect thereto are set forth in the Plan.  The Participant has read carefully, and understands, the provisions of the Plan.
+ 
+(i)            Dispute Resolution.  If any dispute arising out of or relating to this Agreement or the Plan, or the breach thereof, cannot be settled through negotiation, the parties agree first to try in good faith to settle such dispute by mediation administered by the American Arbitration Association under its Commercial Mediation Rules.  If the parties fail to settle such dispute within 30 days after the commencement of such mediation, such dispute shall be settled by arbitration administered by the American Arbitration Association under its Commercial Arbitration Rules, and judgment on the arbitral award rendered may be entered in any court having jurisdiction thereof.
+ 
+5
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the day and year first written above.
+ 
+
+
+
+     
+
+     
+
+KOSMOS ENERGY LTD.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+        
+
+
+     
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+     
+
+Title:       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+[Name of   Participant]         
+ 
+6
+
+
+
+
+
+
+

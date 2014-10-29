@@ -1,0 +1,566 @@
+
+EX-10.2
+2
+v200993_ex10-2.htm
+
+
+  
+    Unassociated Document
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    Exhibit 10.2 
+     
+    FIRST
+AMENDMENT
+     
+    TO
+     
+    CREDIT
+AGREEMENT
+     
+    dated
+as of
+     
+    August
+31, 2010
+     
+    among
+    
+    SOLANA
+RESOURCES LIMITED,
+    as
+Borrower,
+    
+    GRAN
+TIERRA ENERGY INC.,
+    
+    BNP
+PARIBAS,
+    as
+Administrative Agent and Global Coordinator,
+    
+    and
+     
+    The
+Lenders Party Hereto
+     
+     
+    
+      
+      
+    
+    
+      
+        
+        
+      
+      
+        
+        
+        
+          
+        
+      
+      
+        
+        
+      
+    
+    
+    FIRST
+AMENDMENT TO CREDIT AGREEMENT
+    
+    THIS FIRST
+AMENDMENT TO CREDIT AGREEMENT (this “First Amendment”)
+dated as of August 31, 2010, is among SOLANA RESOURCES LIMITED, a
+corporation duly formed and existing under the laws of the Province of Alberta,
+Canada (the “Borrower”); GRAN TIERRA ENERGY INC., a
+corporation formed and existing under the laws of the State of Nevada (the
+“Parent”);
+BNP
+PARIBAS, as administrative agent (in such capacity, together with its
+successors in such capacity, the “Administrative
+Agent”) for the lenders party to the Credit Agreement referred to below
+(collectively, the “Lenders”) and as
+global coordinator; and the undersigned Lenders.
+     
+    R E C I T A L
+S
+     
+    A.           The
+Borrower, the Parent, the Administrative Agent and the Lenders are parties to
+that certain Credit Agreement dated as of July 30, 2010 (the “Credit Agreement”),
+pursuant to which the Lenders have made certain extensions of credit available
+to the Borrower.
+     
+    B.           The
+Borrower has requested and the Lenders have agreed to amend certain provisions
+of the Credit Agreement.
+     
+    C.           NOW,
+THEREFORE, in consideration of the premises and the mutual covenants herein
+contained, for good and valuable consideration, the receipt and sufficiency of
+which are hereby acknowledged, the parties hereto agree as follows:
+     
+    Section
+1. Defined
+Terms.  Each capitalized term used herein but not otherwise
+defined herein has the meaning given such term in the Credit
+Agreement.  Unless otherwise indicated, all references to Sections in
+this First Amendment refer to Sections of the Credit Agreement.
+     
+    Section
+2. Amendments to Credit
+Agreement.
+     
+    2.1 Amendment to Section
+1.02.  The definition of “Indebtedness” contained in Section
+1.02 is hereby amended and restated in its entirety to read as
+follows:
+     
+    ““Indebtedness”
+means the collective reference to all obligations, liabilities and amounts owing
+or to be owing by any Credit Party or any other obligor (whether direct or
+indirect (including those acquired by assumption), absolute or contingent, due
+or to become due, now existing or hereafter arising or incurred): (a) to the
+Administrative Agent, the Global Coordinator, the Arranger, the Bookrunner, the
+Issuing Bank or any Lender, which may arise under, out of, in, or in connection
+with this Agreement or any other Loan Document, including, without limitation,
+the unpaid principal of and interest on the Loans and reimbursement obligations
+in respect of Letters of Credit  (including, without limitation,
+interest accruing at the then applicable rate provided in this Agreement after
+the maturity of the Loans and LC Exposure and interest accruing at the then
+applicable rate provided in this Agreement after the filing of any petition in
+bankruptcy, or the commencement of any insolvency, liquidation, reorganization
+or like proceeding, relating to the Borrower, whether or not a claim for
+post-filing or post-petition interest is allowed in such proceeding); (b) to any
+Secured Swap Party under any Secured Swap Agreement; and (c) all renewals,
+extensions and/or rearrangements of any of the above; in each case, whether on
+account of principal, interest, premium, reimbursement obligations, guaranty
+obligations, payments in respect of an early termination date, fees,
+indemnities, costs, expenses or otherwise (including, without limitation, all
+fees and disbursements of counsel to the Secured Parties that are required to be
+paid by the Borrower, any other Credit Party or any obligor pursuant to the
+terms of this Agreement, any other Loan Document or any Secured Swap
+Agreement).”
+     
+    
+      
+        
+        
+      
+      
+        
+        
+        
+          
+        
+      
+      
+        
+        
+      
+    
+     
+    2.2 Amendments to Section
+6.01(g).  Clauses (iv) and (v) of Section 6.01(g) are hereby
+amended and restated in their entirety to read as follows:
+     
+    “(iv)                      evidence
+satisfactory to it that (A) each Guarantor has guaranteed the Indebtedness
+pursuant to the Guaranty Agreement and (B) the Security Instruments create first
+priority, perfected Liens on all of the economic rights of Solana Petroleum
+Exploration and Gran Tierra Energy Colombia under each Concession Agreement to
+which each is a party;
+     
+    (v)           a
+duly executed agreement of the Offtaker under each Offtake Agreement to which
+any Credit Party is a party, in form and substance satisfactory to the
+Administrative Agent, pursuant to which such Person (and any other Person
+obligated to make payments thereunder) shall agree to make all payments under
+such Offtake Agreement to the relevant Collection Account.”
+     
+    2.3 Amendment to Last Paragraph
+of Section 6.01.  The last paragraph of Section 6.01 is hereby
+amended by replacing “August 31, 2010” with “September 10, 2010”.
+     
+    2.4 Amendments to Section
+8.14(b).  Section 8.14(b) is hereby amended as
+follows:
+     
+    (a) Clause
+(i) of Section 8.14(b) is hereby amended and restated in its entirety to read as
+follows:
+     
+    “(i)           on
+or prior to the date that such Credit Party enters into any Swap Agreement or
+Offtake Agreement, a first priority, perfected Lien on all of its right, title
+and interest in and to such Swap Agreement or Offtake Agreement (but in the case
+of an Offtake Agreement, only if the Administrative Agent determines in its sole
+discretion that obtaining such Lien is practicable under the circumstances and
+the benefits of doing so outweighs the burdens of doing so), and”
+     
+    (b) The last
+sentence of Section 8.14(b) is hereby amended and restated in its entirety to
+read as  follows:
+     
+    “In
+connection therewith, on or prior to the execution and delivery by any Credit
+Party of any Swap Agreement or Offtake Agreement, the Parent shall, and shall
+cause such Credit Party to, deliver to the Administrative Agent a duly executed
+agreement of the counterparty to such Swap Agreement or the Offtaker under such
+Offtake Agreement (and in either case, any other Person that is obligated
+(whether contingently or otherwise) to make payments thereunder), as applicable,
+in form and substance satisfactory to the Administrative Agent, pursuant to
+which such Person shall agree to make all payments under such Swap Agreement and
+Offtake Agreement to the relevant Collection Account.”
+     
+    
+      
+        
+        
+      
+      
+        2
+        
+          
+        
+      
+      
+        
+        
+      
+    
+     
+    2.5 Amendment to Section
+12.09(e).  Section 12.09(e) is hereby amended by replacing
+“this Section 12.01” with “this Section 12.09”.
+     
+    Section
+3. Conditions
+Precedent.  This First Amendment shall not become effective
+until the date on which each of the following conditions is satisfied (or waived
+in accordance with Section 12.02 of the Credit Agreement) (the “Effective
+Date”):
+     
+    3.1 The
+Administrative Agent shall have received from the Required Lenders, the Borrower
+and the Parent, counterparts (in such number as may be requested by the
+Administrative Agent) of this First Amendment signed on behalf of such
+Persons.
+     
+    3.2 No
+Default shall have occurred and be continuing, after giving effect to the terms
+of this First Amendment.
+     
+    Section
+4. Miscellaneous.
+     
+    4.1 Confirmation.  The
+provisions of the Credit Agreement, as amended by this First Amendment, shall
+remain in full force and effect following the effectiveness of this First
+Amendment.
+     
+    4.2 Ratification and
+Affirmation; Representations and Warranties.  The Borrower and
+the Parent each hereby: (a) acknowledges the terms of this First Amendment; (b)
+ratifies and affirms its obligations under, and acknowledges, renews and extends
+its continued liability under, each Loan Document to which it is a party and
+agrees that each Loan Document to which it is a party remains in full force and
+effect, except as expressly amended hereby, after giving effect to the
+amendments contained herein; (c) agrees that from and after the Effective Date
+each reference to the Credit Agreement in the Loan Documents shall be deemed to
+be a reference to the Credit Agreement, as amended by this First Amendment; and
+(d) represents and warrants to the Lenders that as of the date hereof, after
+giving effect to the terms of this First Amendment:  (i) all of the
+representations and warranties contained in each Loan Document to which it is a
+party are true and correct, unless such representations and warranties are
+stated to relate to a specific earlier date, in which case, such representations
+and warranties shall continue to be true and correct as of such earlier date and
+(ii) no Default has occurred and is continuing.
+     
+    4.3 Loan
+Document.  This First Amendment is a “Loan Document” as defined
+and described in the Credit Agreement and all of the terms and provisions of the
+Credit Agreement relating to Loan Documents shall apply hereto.
+     
+    4.4 Counterparts.  This
+First Amendment may be executed by one or more of the parties hereto in any
+number of separate counterparts, and all of such counterparts taken together
+shall be deemed to constitute one and the same instrument.  Delivery
+of this First Amendment by facsimile transmission shall be effective as delivery
+of a manually executed counterpart hereof.
+     
+    4.5 NO ORAL
+AGREEMENT.  THIS FIRST AMENDMENT,
+THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION
+HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY
+NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL
+AGREEMENTS OF THE PARTIES.  THERE ARE NO ORAL AGREEMENTS BETWEEN THE
+PARTIES.
+     
+    
+      
+        
+        
+      
+      
+        3
+        
+          
+        
+      
+      
+        
+        
+      
+    
+     
+    4.6 GOVERNING
+LAW.  THIS FIRST AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE
+VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN
+ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+     
+    [SIGNATURES
+BEGIN NEXT PAGE]
+     
+    
+      
+        
+        
+      
+      
+        4
+        
+          
+        
+      
+      
+        
+        
+      
+    
+     
+    IN
+WITNESS WHEREOF, the parties hereto have caused this First Amendment to be duly
+executed as of the date first written above.
+    
+    
+      
+        
+            
+              BORROWER:    
+              SOLANA RESOURCES
+      LIMITED
+               
+            
+            
+               
+               
+               
+               
+            
+            
+              
+                 
+              
+              
+                By:
+      
+              
+              /s/ Martin
+      H. Eden
+               
+            
+            
+               
+               
+              Name:
+      Martin H. Eden
+               
+            
+            
+               
+               
+              Title:
+      Director & CFO
+               
+            
+            
+               
+               
+               
+               
+            
+        
+      
+    
+    
+      
+        
+          
+            
+                
+                   
+                   
+                   
+                
+                
+                   
+                   
+                   
+                
+                
+                  
+
+                    PARENT:
+                  
+                  GRAN TIERRA ENERGY
+      INC.
+                   
+                
+                
+                   
+                   
+                   
+                   
+                
+                
+                  
+                  
+                  
+                    By:
+      
+                  
+                  /s/ Martin
+      H. Eden
+                   
+                
+                
+                   
+                   
+                  Name:
+      Martin H. Eden
+                   
+                
+                
+                   
+                   
+                  Title:
+      CFO
+                   
+                
+                
+                   
+                   
+                   
+                   
+                
+            
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        S-1
+        
+          
+        
+      
+      
+        
+        
+      
+    
+    
+    
+      
+        
+            
+              ADMINISTRATIVE
+      AGENT:  
+              
+                BNP PARIBAS,
+                as Administrative Agent and a Lender
+              
+               
+            
+            
+               
+               
+               
+               
+            
+            
+              
+                 
+              
+              
+                By:
+      
+              
+              /s/ Betsy
+      Jocher
+               
+            
+            
+               
+               
+              Name:
+      Betsy Jocher
+               
+            
+            
+               
+               
+              Title:
+      Director
+               
+            
+            
+               
+               
+               
+               
+            
+            
+               
+              By: 
+              /s/
+      Polly Schott
+               
+            
+            
+               
+               
+              Name:
+      Polly Schott
+               
+            
+            
+               
+               
+              Title: Director
+               
+            
+        
+      
+                                                                  
+     
+    S-2
+  
+
+

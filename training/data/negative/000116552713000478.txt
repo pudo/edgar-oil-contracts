@@ -1,0 +1,741 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10-1.txt
+<TEXT>
+                                                                    EXHIBIT 10.1
+
+                    STOCK PURCHASE AND CONTRIBUTION AGREEMENT
+
+     This Stock Purchase and  Contribution  Agreement  ("Agreement") is made and
+entered into as of March 20, 2013 (the "Effective  Date"),  by and among Pimovi,
+Inc., a Nevada  corporation (the "Company"),  Chancellor  Group,  Inc., a Nevada
+corporation  ("Chancellor")  and Kasian Franks ("Franks" and  collectively  with
+Chancellor, the "Stockholders").
+
+                                    RECITALS
+
+     WHEREAS,  the  predecessor  to the Company,  a corporation of the same name
+that was  incorporated in the State of Delaware on November 16, 2012 pursuant to
+such  corporation's  Certificate  of  Incorporation  executed by James Shafer as
+Incorporator  and filed in the office of the  Secretary of State of the State of
+Delaware on November 16, 2012 (the "Former Pimovi");
+
+     WHEREAS,  the Board of Directors  of Former  Pimovi felt it was in the best
+interest of Former Pimovi that it be  incorporated in the State of Nevada rather
+than the State of Delaware;
+
+     WHEREAS, the Board of Directors of Former Pimovi caused Former Pimovi to be
+dissolved  pursuant to that  certain  Certificate  of  Dissolution  filed in the
+office of the Secretary of State of Delaware on or about March 13, 2013;
+
+     WHEREAS, Former Pimovi and the Company entered into that certain Assignment
+and Assumption  Agreement (the "Former Pimovi  Agreement") to be effective as of
+March 13, 2013, pursuant to which Former Pimovi assigned to the Company, and the
+Company  accepted  and  assumed  from  Former  Pimovi,  all  of the  assets  and
+liabilities of Former Pimovi (including,  without  limitation,  all contracts to
+which  Former  Pimovi  was a  party  and  all  rights  and  obligations  arising
+therefrom);
+
+     WHEREAS,  the Company was  incorporated in the State of Nevada on March 13,
+2013  pursuant to the Articles of  Incorporation  of the Company that were filed
+with the Secretary of State of the State of Nevada on March 13, 2013;
+
+     WHEREAS,  other than conducting  matters  relating to its  organization and
+incorporation  and  the  approval  of  this  Agreement  and  the  Former  Pimovi
+Agreement, the Company has not actively conducted business or owned any material
+assets or properties;
+
+     WHEREAS,  Franks and Chancellor  have formed the Company for the purpose of
+engaging in the following business activities:  (a) using proprietary algorithms
+to create matches  between what  consumers want and media such as music,  movies
+and pictures  located on or downloadable  to mobile  devices,  including but not
+limited to through the development and distribution of APIs,  voice  recognition
+modules,  websites  and mobile apps for,  but not limited to,  Windows 8 mobile,
+Apple iOS and Google Android supported by cloud service environments,  including
+by means of big data  analysis,  predictive  analysis,  pattern  extraction  and
+pattern matching,  including powering third-party media distributors and content
+producers   primarily   on  the   mobile   Internet,   including   by  means  of
+transaction-sharing,  licensing, white-labeling, subscriptions, virtual currency
+and virtual goods; (b) creating photographic and other records of the activities
+of the user and editing and assembling such records in a proprietary format; (c)
+First Person Video Feed  (FPVF(TM))  for sporting and other events from the eyes
+
+                                       1
+<PAGE>
+and different  points of view of the athletes or other  participants,  including
+but not limited to deploying a proprietary  method of implementing  existing app
+based mobile technology (CamFusion); and (d) engaging in any related activities,
+including mobile and computer gaming (collectively, the "Business");
+
+     WHEREAS,  Franks and  Chancellor  entered  into that certain Term Sheet for
+Investment in Pimovi,  Inc. effective as of January 11, 2013 (the "Term Sheet"),
+which  provided  for,  among other  things,  the  issuance by the Company to the
+Stockholders  of shares of capital  stock of Company in the amount and class set
+forth next to such  Stockholder's name on Schedule 1 hereto  (collectively,  the
+"Shares"), for the consideration and on the terms set forth in this Agreement;
+
+     WHEREAS,  as  consideration  for the Shares and the  Chancellor  Shares (as
+defined  below),  Franks  has  agreed  to  contribute  to  the  Company  certain
+intellectual  property  rights  and  assets as set  forth in more  detail in the
+Co-Founder   Agreement   (as   defined   below)  (all  such  rights  and  assets
+collectively, the "Assets");
+
+     WHEREAS,  as  consideration  for  the  Shares,  Chancellor  has  agreed  to
+contribute  to the Company  $250,000.00  (less (i) $143,035 in fees and expenses
+already paid by  Chancellor  on behalf of the Company  prior to Closing and (ii)
+subject to the terms of Section 1.6 below, less certain  additional patent fees,
+attorneys'  fees and  filing  fees paid by  Chancellor  in  connection  with the
+Company's  formation and certain  related matters for the benefit of the Company
+(collectively,  the  "Reimbursable  Expenses"))  on the terms and conditions set
+forth herein; and
+
+     WHEREAS, in connection with the aforementioned transactions,  Chancellor is
+issuing to Franks 1,000,000 shares of common stock in Chancellor Group Inc. (the
+"Primary  Chancellor-Issued  Shares") at the  Closing  (as  defined  below) and,
+subject to the  completion by Franks of certain  milestones  set by the Board of
+Directors  of  Chancellor  (the  "Chancellor  Board"),  in its sole and absolute
+discretion  after good faith  negotiations  with Franks,  which  milestones  may
+pertain  to  such  things  as  first  regular   revenue  stream  for  any  phone
+application,   website  or  other  IT  business  activity,  licensing  or  other
+agreements  which, in the reasonable  determination of the Chancellor Board, may
+add value to  Chancellor,  promptly  after the date  Franks has  completed  such
+milestone to the satisfaction of the Chancellor  Board,  Chancellor may issue to
+Franks such  additional  Chancellor-Issued  Shares as the  Chancellor  Board may
+determine to be appropriate, in its sole and absolute discretion (the "Secondary
+Chancellor-Issued  Shares" and collectively  with the Primary  Chancellor-Issued
+Shares, the "Chancellor Shares").
+
+     NOW,  THEREFORE,  in  consideration  of the premises,  mutual covenants and
+agreements  set  forth  and for  other  good  and  valuable  consideration,  the
+adequacy,  sufficiency and receipt of which are hereby acknowledged, the parties
+agree as follows:
+
+                ARTICLE I. SALE AND TRANSFER OF SHARES; CLOSING
+
+     1.1 Shares.  Effective as of the Effective Time, Franks and Chancellor will
+purchase the Shares from the Company, and Company will issue and sell the Shares
+to Franks and  Chancellor  for the  consideration  and on the terms set forth in
+this  Agreement.   The  Parties  hereto   acknowledge  and  agree  that,   until
+Chancellor's  entire  contribution of $250,000 (less $143.035 in consulting fees
+and  expenses  already  paid by  Chancellor  on behalf of the  Company  prior to
+
+                                       2
+<PAGE>
+Closing) to the Company is complete, the Shares delivered to Chancellor shall be
+subject to the terms of Section  78.220 of the Nevada Revised  Statutes  ("NRS")
+and all other  applicable  provisions  of the NRS  until  such  contribution  is
+complete.
+
+     1.2  Chancellor  Closing  Deliveries.  At the Closing  (as defined  below),
+Chancellor  will deliver to Franks,  a stock  certificate  evidencing  1,000,000
+shares of common stock of Chancellor Group Inc.
+
+     1.3 Franks Closing Deliveries. At the Closing, Franks will deliver:
+
+     (a) to the  Company,  a  Co-Founder  Agreement  in  substantially  the form
+attached  hereto as Exhibit A (the  "Co-Founder  Agreement")  that has been duly
+executed by Franks; and
+
+     (b) to the Company and Chancellor, such subscription materials (and any and
+all other instruments or documents) as the Company and Chancellor may reasonably
+require in connection with the issuance of the Shares or the Chancellor Shares.
+
+     1.4 Company Closing Deliverables. At the Closing, the Company will deliver
+
+     (a) to Franks,  a Co-Founder  Agreement  that has been duly executed by the
+Company;
+
+     (b) to Franks,  a stock  certificate  representing  3,900  shares of common
+stock, $0.0001 par value per share, of the Company; and
+
+     (c) to Chancellor,  a stock certificate representing 6,100 shares of Series
+A Preferred Stock, $0.0001 par value per share, of the Company.
+
+     1.5 Closing. The closing of the transactions contemplated by this Agreement
+(the  "Closing")  shall take place  electronically  via  facsimile  or  portable
+document format (pdf), as agreed by the Parties, at 10:00 a.m. (Central time) on
+March  20,  2013 or at such  other  time and date as may be  agreed  upon by the
+parties hereto (the time and date upon which the Closing  actually  occurs being
+referred  to  herein  as the  "Closing  Date"),  provided  that if such  Parties
+mutually agree to a physical closing then the Closing shall occur on the Closing
+Date at the offices of Kelly Hart & Hallman LLP,  201 Main  Street,  Fort Worth,
+Texas 76102. The Closing shall be effective at 11:59 p.m.  (Central time) on the
+Closing  Date  (the  "Effective  Time").  All  proceedings  to be taken  and all
+documents  to be executed  and  delivered  by the Parties at the Closing will be
+deemed to have been taken and executed  simultaneously,  and no proceedings will
+be deemed to have been taken nor documents  executed or delivered until all have
+been taken, executed and delivered.
+
+     1.6 Post-Closing Deliverables.
+
+     (a) Chancellor  shall contribute to the Company $250,000 (less (i) $143,035
+in fees and expenses  already paid by  Chancellor on behalf of the Company prior
+to  Closing  and (ii) the  Reimbursable  Expenses;  provided,  however  that the
+Reimbursable  Expenses shall only be deducted from Chancellor's  contribution at
+such time as  Chancellor  and Franks  have  reasonably  agreed  after good faith
+negotiations that they reasonably expect the Company to generate a profit in the
+
+                                       3
+<PAGE>
+30 day period following the date of such negotiations) to be provided as funding
+in tranches of not more than $30,000 per month over  approximately  eight months
+after the  Effective  Time or in such smaller or larger  tranches as the parties
+shall agree subject to good faith negotiations.
+
+     (b) To the extent all or a portion of the  Reimbursable  Expenses  were not
+deducted from  Chancellor's  contribution in Section  1.6(a),  the Company shall
+reimburse  Chancellor for those Reimbursable  Expenses that were not so deducted
+promptly  after the date upon which  Chancellor  and Franks  notify the Board of
+Directors of the Company that they  reasonably  expect the Company to generate a
+profit  in the  30  day  period  following  the  date  of  negotiations  between
+Chancellor  and Franks with respect to such matters.  Franks agrees to engage in
+such negotiations upon Chancellor's reasonable request at any time.
+
+     (c) Subject to the  completion by Franks of certain  milestones  set by the
+Chancellor  Board,  in  its  sole  and  absolute  discretion  after  good  faith
+negotiations  with Franks,  which milestones may pertain to such things as first
+regular revenue stream for any phone  application,  website or other IT business
+activity,  licensing or other agreements which, in the reasonable  determination
+of the Chancellor  Board,  may add value to Chancellor,  promptly after the date
+Franks has completed such milestone to the satisfaction of the Chancellor Board,
+Chancellor may issue to Franks such additional  Chancellor-Issued  Shares as the
+Chancellor  Board may  determine  to be  appropriate,  in its sole and  absolute
+discretion.  Notwithstanding anything to the contrary in this Agreement, if any,
+Chancellor shall not be required to issue any Chancellor-Issued Shares to Franks
+to the extent  such  issuance  could,  in the  reasonable  determination  of the
+Chancellor Board or its advisors,  constitute a violation of any applicable law,
+rule or regulation  or otherwise  cause  Chancellor  to lose any exemption  from
+registration it may have under applicable laws, rules and regulations.
+
+              ARTICLE II. REPRESENTATIONS AND WARRANTIES OF FRANKS
+
+     Franks hereby  represents  and warrants to Chancellor and the Company that,
+as of the Closing Date:
+
+     2.1 Franks has all  requisite  power and  authority  to execute and deliver
+this Agreement and the Assets and to perform all of his  obligations  under this
+Agreement and the Co-Founder Agreement.
+
+     2.2 The execution  and delivery by Franks of this  Agreement and such other
+instruments,  agreements and  transactions as may be contemplated  hereunder and
+the  consummation  by  Franks  of  the  transactions   contemplated  hereby  and
+thereunder  will  not (i)  violate  any  law,  statute,  rule or  regulation  or
+judgment, order, writ, injunction or decree of any court,  administrative agency
+or  governmental  body,  or (ii)  conflict  with,  result in any  breach  of, or
+constitute  a default  (or an event  which with  notice or lapse of time or both
+would become a default) under any agreement to which Franks is a party.
+
+     2.3 Franks is the sole owner and  holder of the  Assets,  free and clear of
+all liens and other encumbrances, and that Franks has not (a) transferred, sold,
+pledged,  hypothecated or otherwise  encumbered any of the Assets or (b) entered
+
+                                       4
+<PAGE>
+into any agreement,  arrangement or understanding (written or oral) to transfer,
+sell, pledge, hypothecate or otherwise encumber any of the Assets.
+
+     2.4 The Assets do not, and the transfer  thereof to the Company and the use
+thereof by the Company in its  business  will not,  directly or  indirectly,  in
+whole or in part,  infringe upon the  intellectual  property rights of any third
+party or violate any applicable laws, rules or regulations.
+
+     2.5 Franks has not incurred and will not incur, directly or indirectly,  as
+a result of any action taken or permitted to be taken by or on behalf of Franks,
+any liability or obligation to pay any fees or commissions to any broker, finder
+or agent in connection  with the execution and  performance of the  transactions
+contemplated  herein for which  Chancellor or the Company could become liable or
+obligated.
+
+     2.6 Franks does not, directly or indirectly, own any equity interest in any
+business  that  competes with the  Company's  business  other than  ownership of
+shares of stock of any corporation having a class of equity securities  actively
+traded on a national  securities  exchange or on the NASDAQ  Stock  Market which
+represent,   in  the  aggregate,   not  more  than  one  percent  (1%)  of  such
+corporation's  issued and  outstanding  shares as  determined on a fully diluted
+basis.
+
+     2.7 Franks is aware and  understands  that:  (i) neither the Shares nor the
+Chancellor Shares have been registered under the U.S. Securities Act of 1933, as
+amended (the "Securities Act" or the "Act"), the securities laws of any state or
+the  securities  laws  of  any  other  jurisdiction,  nor is  such  registration
+contemplated;  and (ii) no governmental or regulatory  agency has passed upon or
+will pass upon the Shares or the Chancellor  Shares or has made or will make any
+finding or  determination  as to the fairness of investment in the Shares or the
+Chancellor Shares.
+
+     2.8  Franks  is aware and  understands  that the  issuance  and sale of the
+Shares and the  Chancellor  Shares are  intended to be exempt from  registration
+under the Act by virtue of Section 4(2) of the Act and/or the  provisions of the
+regulations  promulgated  thereunder.   In  particular,   Franks  is  aware  and
+understands that:
+
+     (a) Franks must bear the economic  risk of an  investment in the Shares and
+Chancellor Shares for an indefinite period of time because,  among other things,
+(A) the Shares and Chancellor Shares have not been registered under the Act and,
+therefore,  cannot be sold unless they are subsequently registered under the Act
+or an  exemption  from  such  registration  is  available,  (B) the  Shares  and
+Chancellor  Shares have not been registered  under  applicable  state securities
+laws and, therefore,  cannot be sold unless they are registered under applicable
+state securities laws or an exemption from such  registration is available,  and
+(C) there are substantial  restrictions on the transferability of the Shares and
+Chancellor  Shares under the governing  documents of the Company and  Chancellor
+(including,  without  limitation,  with respect to the Company,  its Articles of
+Incorporation,  as amended  from time to time,  and the  Stockholders  Agreement
+entered  into on or about the date hereof by and among the  Company,  Chancellor
+and Franks;  and with respect to Chancellor,  its Articles of Incorporation,  as
+amended, and Bylaws) (all such governing documents collectively,  the "Governing
+Documents") and applicable law;
+
+     (b) there is no established  market for the Shares and no market (public or
+otherwise) for the Shares will develop in the foreseeable future, if ever;
+
+                                       5
+<PAGE>
+     (c)  Franks  has no rights to  require  that the  Shares or the  Chancellor
+Shares be registered under the Act or the securities laws of various states, and
+Franks will not be able to avail  himself of the  provisions of Rule 144 adopted
+by the Securities and Exchange Commission under the Act with respect to sales of
+the Shares; and
+
+     (d)  the  Company  and   Chancellor   will  rely  upon  an  exemption  from
+registration which requires Franks to be an "accredited investor" (as defined in
+Rule  501(a)  of  Regulation  D  promulgated   under  the  Act,  an  "Accredited
+Investor").
+
+     2.9 Franks is an Accredited  Investor  within the meaning of Rule 501(a) of
+Regulation D promulgated under the Act.
+
+     2.10 Franks has been advised and  understands  that his  investment  in the
+Shares and the Chancellor Shares is illiquid and involves a high degree of risk.
+Franks  is  solvent  and not  under  receivership,  has not  become  subject  to
+bankruptcy  or  any  similar  proceeding,  has  no  need  for  liquidity  in his
+investment in the Shares and/or the  Chancellor  Shares,  has adequate  means of
+providing for his current liabilities or other contingencies, has the ability to
+bear the economic risk of his  investment  in the Shares  and/or the  Chancellor
+Shares  and at the  present  time and in the  foreseeable  future  can  afford a
+complete  loss of his  investment in the Shares  and/or the  Chancellor  Shares.
+There are no actions,  suits or  proceedings  pending,  or, to the  knowledge of
+Franks,  threatened  against or affecting  Franks or the assets of Franks in any
+court or before  or by any U.S.  federal,  state,  municipal,  foreign  or other
+governmental  department,  commission,  board, bureau, agency or instrumentality
+which,  if adversely  determined,  would impair the ability of Franks to perform
+his  obligations  in  this  Agreement  as  provided  herein.   Franks's  overall
+commitment   to   investments   that   are  not   readily   marketable   is  not
+disproportionate to Franks's net worth, and his investment in the Shares and the
+Chancellor  Shares will not cause such overall  commitment to become  excessive.
+Franks has the capacity to protect his own interest in purchasing the Shares and
+the Chancellor  Shares and has determined that the Shares and Chancellor  Shares
+are suitable investments for him.
+
+     2.11 Franks has been furnished with, and has read, understands and is fully
+familiar  with,  this  Agreement and the Governing  Documents of the Company and
+Chancellor,  has  received no general  solicitation  or  advertisements  and has
+attended  no public  seminar or other  public  promotional  meeting  relating to
+investments  in the  Shares or the  Chancellor  Shares.  No  representations  or
+warranties  have been made to Franks by the Company,  Chancellor or any partner,
+member,  officer,  employee,  agent,  affiliate or subsidiary of either of them,
+other than the  representations of the Company and Chancellor in this Agreement.
+Franks has not  reproduced,  duplicated or delivered this  Agreement  and/or any
+other  documents  which may have been made  available  upon request to any other
+person, except Franks's professional advisors.
+
+     2.12 Except as specifically  stated in this Agreement,  Franks is acquiring
+the Shares and the  Chancellor  Shares solely for investment for his own account
+and not for the  benefit or account  of any other  person or entity,  and has no
+present  agreement,  understanding,  intention or arrangement  to sell,  resell,
+assign,  transfer  or  otherwise  dispose  of all or any part of the  Shares  or
+Chancellor  Shares to any other person or entity  notwithstanding  any financing
+arrangement  entered into by Franks to acquire the Shares or Chancellor  Shares.
+Notwithstanding  any other provision of this  Agreement,  Franks shall not sell,
+exchange,  transfer,  assign, pledge, hypothecate or otherwise dispose of all or
+any part of the Shares or the Chancellor  Shares (or purport to do so) except as
+
+                                       6
+<PAGE>
+permitted by applicable  securities  laws and by the Governing  Documents of the
+Company and Chancellor, as the same may be amended from time to time.
+
+     2.13 In  formulating a decision to invest in the Shares and the  Chancellor
+Shares,  Franks has not relied or acted on the basis of any  representations  or
+other  information,  including,  without  limitation,  any  outside  information
+purported  to be given on  behalf  of the  Company,  Chancellor  or any of their
+respective   affiliates,    officers,   directors,    partners,   employees   or
+representatives  (it being  understood that no person has been authorized by the
+Company or Chancellor to furnish any representations or other information).
+
+     2.14 Franks has, or has been  given,  access to or has been  furnished  all
+information  regarding the Company and Chancellor and their proposed  businesses
+that  Franks  desires to receive or review in order to  evaluate  the merits and
+risks of  investing in the Shares and  Chancellor  Shares and has been given the
+opportunity  to ask  questions  of, and receive  answers  from,  the Company and
+Chancellor and its representatives concerning the terms of the investment in the
+Shares and Chancellor Shares.
+
+     2.15 With  respect to any  financial  projections  or  estimates  regarding
+possible  future  operations  of the Company  and/or  Chancellor  that have been
+furnished to Franks, Franks is aware and understands that:
+
+     (a) the Company is a "start-up" and has no financial or operating history;
+
+     (b) such projections and estimates were developed using certain assumptions
+for which the Company,  Chancellor or their respective  representatives believed
+they had a reasonable basis at the time of preparation;
+
+     (c) such  projections and estimates,  and the underlying  assumptions,  are
+inherently subject to significant uncertainties and contingencies, many of which
+are beyond the  Company's,  Chancellor's  or their  respective  representatives'
+control, and therefore actual results are likely to vary considerably from those
+projected or estimated;
+
+     (d)  such  projections  and  estimates  were  not  prepared  with a view to
+compliance  with  published  guidelines  of the American  Institute of Certified
+Public Accountants  regarding  forecasts or with generally  accepted  accounting
+principles; and
+
+     (e) such  projections  and estimates  have not been reviewed by independent
+accountants.
+
+     2.16 Franks is aware and understands  that there are  substantial  risks of
+loss of  investment  incidental  to the  purchase  of the Shares and  Chancellor
+Shares,  including  those  summarized  in this  Agreement  and,  with respect to
+Chancellor,  those in Chancellor's filings with the U.S. Securities and Exchange
+Commission.
+
+                                       7
+<PAGE>
+           ARTICLE III. REPRESENTATIONS AND WARRANTIES OF CHANCELLOR
+
+     Chancellor  hereby  represents and warrants to Franks and the Company that,
+as of the Closing  Date,  Chancellor  has all  corporate  power and authority to
+execute and deliver this  Agreement  and to perform its  obligations  under this
+Agreement.
+
+     Chancellor  hereby further  represents  and warrants  solely to the Company
+that, as of the Closing Date:
+
+     3.1 Chancellor is aware and understands  that: (i) the Shares have not been
+registered  under the U.S.  Securities Act of 1933, as amended (the  "Securities
+Act" or the "Act"),  the securities  laws of any state or the securities laws of
+any  other  jurisdiction,  nor is such  registration  contemplated;  and (ii) no
+governmental  or regulatory  agency has passed upon or will pass upon the Shares
+or has made or will make any  finding or  determination  as to the  fairness  of
+investment in the Shares.
+
+     3.2 Chancellor is aware and  understands  that the issuance and sale of the
+Shares are  intended to be exempt from  registration  under the Act by virtue of
+Section 4(2) of the Act and/or the  provisions  of the  regulations  promulgated
+thereunder. In particular, Chancellor is aware and understands that:
+
+     (a)  Chancellor  must bear the economic risk of an investment in the Shares
+for an  indefinite  period of time because,  among other things,  (A) the Shares
+have not been  registered  under the Act and,  therefore,  cannot be sold unless
+they  are  subsequently  registered  under  the Act or an  exemption  from  such
+registration  is  available,  (B) the  Shares  have  not been  registered  under
+applicable state securities laws and, therefore,  cannot be sold unless they are
+registered  under  applicable  state  securities  laws or an exemption from such
+registration  is available,  and (C) there are  substantial  restrictions on the
+transferability  of the Shares under the Governing  Documents of the Company and
+applicable law;
+
+     (b) there is no established  market for the Shares and no market (public or
+otherwise) for the Shares will develop in the foreseeable future, if ever;
+
+     (c) Chancellor and the other  stockholders in the Company have no rights to
+require that the Shares be registered  under the Act or the  securities  laws of
+various  states,  and  Chancellor  will  not be  able  to  avail  itself  of the
+provisions of Rule 144 adopted by the Securities and Exchange  Commission  under
+the Act; and
+
+     (d) the  Company  will  rely  upon an  exemption  from  registration  which
+requires each investor in the Company to be an "accredited investor" (as defined
+in Rule  501(a)  of  Regulation  D  promulgated  under the Act,  an  "Accredited
+Investor").
+
+     3.3 Chancellor is an Accredited  Investor within the meaning of Rule 501(a)
+of Regulation D promulgated under the Act.
+
+     3.4 Chancellor has been advised and understands  that its investment in the
+Shares is illiquid and involves a high degree of risk. Chancellor is solvent and
+not under  receivership,  has not become  subject to  bankruptcy  or any similar
+proceeding,  has no need for  liquidity  in its  investment  in the Shares,  has
+adequate means of providing for its current liabilities or other  contingencies,
+
+                                       8
+<PAGE>
+has the ability to bear the economic risk of its investment in the Shares and at
+the present time and in the foreseeable future can afford a complete loss of its
+investment in the Shares.  There are no actions,  suits or proceedings  pending,
+or, to the knowledge of Chancellor,  threatened against or affecting  Chancellor
+or the  assets of  Chancellor  in any  court or  before or by any U.S.  federal,
+state, municipal, foreign or other governmental department,  commission,  board,
+bureau, agency or instrumentality  which, if adversely determined,  would impair
+the ability of Chancellor  to perform its  obligations  under this  Agreement as
+provided  herein.  Chancellor  has the  capacity to protect its own  interest in
+purchasing the Shares and has determined that the Shares are suitable for it.
+
+     3.5 Chancellor has been furnished  with, and has read,  understands  and is
+fully familiar with, this Agreement and the Governing  Documents of the Company,
+has  received no general  solicitation  or  advertisements  and has  attended no
+public seminar or other public  promotional  meeting  relating to investments in
+the Shares. No representations or warranties have been made to Chancellor by the
+Company  or  any  partner,  member,  officer,   employee,  agent,  affiliate  or
+subsidiary  of it,  other  than  the  representations  of the  Company  in  this
+Agreement.
+
+     3.6  Except  as  specifically  stated  in  this  Agreement,  Chancellor  is
+acquiring the Shares solely for  investment  for its own account and not for the
+benefit or account of any other person or entity,  and has no present agreement,
+understanding,  intention or arrangement to sell,  resell,  assign,  transfer or
+otherwise dispose of all or any part of the Shares to any other person or entity
+notwithstanding any financing  arrangement entered into by Chancellor to acquire
+the Shares.  Notwithstanding  any other provision of this Agreement,  Chancellor
+shall not sell, exchange,  transfer,  assign,  pledge,  hypothecate or otherwise
+dispose  of all or any  part of the  Shares  (or  purport  to do so)  except  as
+permitted by applicable  securities  laws and by the Governing  Documents of the
+Company, as the same may be amended from time to time.
+
+     3.7 Chancellor has, or has been given,  access to or has been furnished all
+information  regarding  the Company and its proposed  business  that  Chancellor
+desires  to  receive  or review in order to  evaluate  the  merits  and risks of
+purchasing  the Shares and has been given the  opportunity  to ask questions of,
+and receive  answers from,  the Company and its  representatives  concerning the
+terms of purchasing the Shares.
+
+     3.8 With  respect  to any  financial  projections  or  estimates  regarding
+possible  future   operations  of  the  Company  that  have  been  furnished  to
+Chancellor, Chancellor is aware and understands that:
+
+     (a) the Company is a "start-up" and has no financial or operating history;
+
+     (b) such projections and estimates were developed using certain assumptions
+for which the  Company or its  respective  representatives  believed  they had a
+reasonable basis at the time of preparation;
+
+     (c) such  projections and estimates,  and the underlying  assumptions,  are
+inherently subject to significant uncertainties and contingencies, many of which
+are beyond the Company's or its  representatives'  control, and therefore actual
+results are likely to vary considerably from those projected or estimated;
+
+                                       9
+<PAGE>
+     (d)  such  projections  and  estimates  were  not  prepared  with a view to
+compliance  with  published  guidelines  of the American  Institute of Certified
+Public Accountants  regarding  forecasts or with generally  accepted  accounting
+principles; and
+
+     (e) such  projections  and estimates  have not been reviewed by independent
+accountants.
+
+     3.9 Chancellor is aware and understands that there are substantial risks of
+loss  incidental to the purchase of the Shares,  including  those  summarized in
+this Agreement.
+
+             ARTICLE IV. REPRESENTATIONS AND WARRANTIES OF COMPANY
+
+     The Company  hereby  represents and warrants to Chancellor and Franks that,
+as of the  Closing  Date:
+
+     4.1  Organization  and  Authority.   The  Company  is  a  corporation  duly
+organized,  validly existing and in good standing under the laws of the State of
+Nevada.  The  Company  has full  corporate  power and  authority  to execute and
+deliver this Agreement and such other  instruments,  agreements and transactions
+as may be contemplated  hereunder,  and to perform its obligations hereunder and
+thereunder.  All corporate acts and other proceedings required to be taken by or
+on the part of Company to authorize Company to execute, deliver and perform this
+Agreement and such other  instruments,  agreements  and  transactions  as may be
+contemplated  hereunder,  have been duly and properly taken.  This Agreement has
+been duly executed and delivered by Company and constitutes the legal, valid and
+binding obligation of Company  enforceable in accordance with its terms subject,
+as to  enforcement  of  remedies,  to  bankruptcy,  insolvency,  reorganization,
+moratorium  or other  laws  affecting  creditors'  rights  generally  or general
+equitable principles.
+
+     4.2 No Conflict or Violation. The execution and delivery by Company of this
+Agreement and such other  instruments,  agreements  and  transactions  as may be
+contemplated  hereunder  and the  consummation  by Company  of the  transactions
+contemplated  hereby and thereunder will not (i) violate any law, statute,  rule
+or  regulation  or judgment,  order,  writ,  injunction  or decree of any court,
+administrative agency or governmental body, or (ii) conflict with, result in any
+breach of, or  constitute  a default  (or an event which with notice or lapse of
+time or both would  become a default)  under the  Articles of  Incorporation  or
+by-laws of Company or, to Company's knowledge, any agreement to which Company is
+a party.
+
+     4.3  Consents  and  Approvals.   No  notice  to,  declaration,   filing  or
+registration with, or authorization, consent or approval of, or permit from, any
+domestic or foreign  governmental or regulatory body or authority,  or any other
+person or entity,  is required  to be made or obtained by Company in  connection
+with  the  execution,  delivery  and  performance  of  this  Agreement  and  the
+consummation of the transactions contemplated hereby.
+
+     4.4 Company  Securities.  The Shares have been duly  authorized  and,  when
+issued and fully paid for in  accordance  with this  Agreement,  will be validly
+issued,  fully paid and nonassessable,  with no personal liability  attaching to
+the ownership thereof and will be free and clear of any encumbrances  imposed by
+or through Company except as set forth in this Agreement and applicable  federal
+and state securities laws.
+
+                                       10
+<PAGE>
+     4.5 Conduct of  Business.  Other than  conducting  matters  relating to its
+organization and incorporation  and the approval of this Agreement,  Company has
+not actively conducted business or owned any material assets or properties.
+
+                           ARTICLE V. INDEMNIFICATION
+
+     5.1 FRANKS RELEASE AND INDEMNIFICATION.  Franks hereby  unconditionally and
+irrevocably releases,  relinquishes,  remises and forever discharges, AND AGREES
+TO INDEMNIFY  AND HOLD  HARMLESS,  each of Chancellor  and the Company,  and its
+affiliates,  and its and their  respective  shareholders,  officers,  directors,
+employees, agents and other representatives  (collectively,  "Franks Indemnified
+Parties") from and against any and all claims,  complaints,  demands,  causes of
+actions, suits, charges,  damages,  debts,  obligations and liabilities of every
+kind and nature,  whether  known or unknown,  both at law  (whether  common law,
+statutory  or  otherwise)  arising  from or  relating  in any way,  directly  or
+indirectly,  to (a) the Assets, (b) any breach by Franks of this Agreement,  the
+Co-Founder  Agreement or any of the  representations  and  warranties  contained
+therein,  or (c) any claim that any of the Assets or any technology  based on or
+incorporating, in whole or in part, any of the Assets, violates the intellectual
+property rights of any third party.
+
+     5.2   CHANCELLOR   RELEASE   AND    INDEMNIFICATION.    Chancellor   hereby
+unconditionally  and  irrevocably  releases,  relinquishes,  remises and forever
+discharges,  AND AGREES TO INDEMNIFY,  DEFEND AND HOLD HARMLESS,  each of Franks
+and the Company from and against any and all claims, complaints, demands, causes
+of actions, suits, charges, damages, debts, obligations and liabilities of every
+kind and nature,  whether  known or unknown,  both at law  (whether  common law,
+statutory  or  otherwise),  arising  from or  relating  in any way,  directly or
+indirectly,  to  any  breach  by  Chancellor  of  this  Agreement  or any of the
+representations  and warranties  made herein by Chancellor;  provided,  however,
+that  Chancellor  shall not have any liability to Franks arising out of a breach
+of the  representations and warranties made solely to the Company in Article III
+hereof.
+
+     5.3 COMPANY RELEASE AND INDEMNIFICATION. Company hereby unconditionally and
+irrevocably releases,  relinquishes,  remises and forever discharges, AND AGREES
+TO INDEMNIFY,  DEFEND AND HOLD HARMLESS, each of Franks and Chancellor,  and its
+affiliates,  and  its  and  their  respective  directors,  officers,  employees,
+partners,  members  and  shareholders  from  and  against  any and  all  claims,
+complaints,   demands,  causes  of  actions,  suits,  charges,  damages,  debts,
+obligations and liabilities of every kind and nature,  whether known or unknown,
+both at law  (whether  common law,  statutory  or  otherwise),  arising  from or
+relating  in any way,  directly or  indirectly,  to any breach by the Company of
+this Agreement or any of the  representations  and warranties made herein by the
+Company.
+
+                         ARTICLE VI. GENERAL PROVISIONS
+
+     6.1 Further  Assurances.  The parties  agree (a) to furnish upon request to
+each other such  further  information,  (b) to execute and deliver to each other
+such other documents, and (c) to do such other acts and things, all as the other
+party may reasonably  request for the purpose of carrying out the intent of this
+Agreement and the documents referred to in this Agreement.
+
+                                       11
+<PAGE>
+     6.2 Survival.  The terms of this Agreement (including,  without limitation,
+the  indemnification  obligations,  covenants and representations and warranties
+contained herein) will survive the Closing.
+
+     6.3 Expenses.  Franks and  Chancellor  will each pay all of their own fees,
+costs and expenses (including,  without limitation,  fees, costs and expenses of
+legal counsel, accountants, investment bankers, brokers or other representatives
+and consultants and appraisal fees,  costs and expenses)  incurred in connection
+with the  negotiation of this Agreement,  the  performance of their  obligations
+hereunder and the consummation of the transactions contemplated herein.
+
+     6.4  Severability.  If any  provision of this  Agreement is held invalid or
+unenforceable  by any court of competent  jurisdiction,  the other provisions of
+this  Agreement  will remain in full force and  effect.  Any  provision  of this
+Agreement  held invalid or  unenforceable  only in part or degree will remain in
+full force and effect to the extent not held invalid or unenforceable.
+
+     6.5 Governing Law. This Agreement will be governed by the laws of the State
+of Texas  without  regard to  conflicts  of laws  principles.  Each party hereto
+agrees  that  all  disputes  relating  to the  subject  matter  hereof  shall be
+initiated and maintained exclusively in the courts of Reno, Nevada, which courts
+shall  have  exclusive  jurisdiction,  and each  party  agrees  to submit to the
+personal jurisdiction of such courts with respect to all such disputes.
+
+     6.6   Counterparts.   This  Agreement  may  be  executed  in  one  or  more
+counterparts,  each of  which  will be  deemed  to be an  original  copy of this
+Agreement and all of which,  when taken  together,  will be deemed to constitute
+one and the same agreement.
+
+     6.7 Entire Agreement. This Agreement, the Exhibits and Schedules hereto and
+the ancillary documents referenced herein constitute the entire agreement of the
+parties hereto with respect to the subject matter hereof.
+
+                                       12
+<PAGE>
+     IN WITNESS WHEREOF,  the parties have executed and delivered this Agreement
+effective as of the date first written above.
+
+                                 COMPANY:
+
+                                 PIMOVI, INC.,
+                                 a Nevada corporation
+
+
+                                 By: /s/ Maxwell Grant
+                                    --------------------------------------------
+                                 Name: Maxwell Grant
+                                      ------------------------------------------
+                                 Title: Chief Executive Officer
+                                       -----------------------------------------
+
+                                 STOCKHOLDERS:
+
+                                 CHANCELLOR GROUP, INC.,
+                                 a Nevada corporation
+
+                                 By: /s/ Maxwell Grant
+                                    --------------------------------------------
+                                 Name: Maxwell Grant
+                                      ------------------------------------------
+                                 Title: Chief Executive Officer
+                                       -----------------------------------------
+
+
+                                 Address for notices:
+
+                                 -----------------------------------------------
+
+                                 -----------------------------------------------
+
+
+                                 /s/ Kasian Franks
+                                 -----------------------------------------------
+                                 Kasian Franks
+
+                                 Address for notices:
+
+                                 -----------------------------------------------
+
+                                 -----------------------------------------------
+
+
+
+                   Signature Page to Stock Purchase Agreement
+<PAGE>
+                                    EXHIBIT A
+
+                          Form of Co-Founder Agreement
+
+                                   [Attached]
+
+
+
+<PAGE>
+                                   SCHEDULE 1
+
+                                  Pimovi Shares
+
+    Stockholder                  Class of Shares               Number of Shares
+    -----------                  ---------------               ----------------
+
+Chancellor Group, Inc.       Series A Preferred Stock               6,100
+Kasian Franks                Common Stock                           3,900
+</TEXT>
+</DOCUMENT>

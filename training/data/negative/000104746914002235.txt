@@ -1,0 +1,1513 @@
+
+EX-10.18
+2
+a2218881zex-10_18.htm
+EX-10.18
+
+
+
+
+
+
+
+EXHIBIT 10.18
+ 
+FOURTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+THIS FOURTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this Fourth Amendment), dated as of November 18, 2013, is entered into by and among SANCHEZ ENERGY CORPORATION, a Delaware corporation (Sanchez), SEP HOLDINGS III, LLC, a Delaware limited liability company (SEP), SN MARQUIS LLC, a Delaware limited liability company (SN Marquis), and SN COTULLA ASSETS, LLC, a Texas limited liability company (SN Cotulla; together with Sanchez, SEP and SN Marquis, collectively, the Borrowers and each, a Borrower), the Lenders party hereto, and ROYAL BANK OF CANADA, as Administrative Agent for the Lenders (in such capacity, together with its successors in such capacity, the Administrative Agent).
+ 
+RECITALS
+ 
+A.                                    The Borrowers, the Lenders and the Administrative Agent previously entered into that certain Amended and Restated Credit Agreement dated as of May 31, 2013, as amended by that certain First Amendment to Amended and Restated Credit Agreement dated as of June 30, 2013, as amended by that certain waiver letter and amendment dated July 30, 2013 and as amended by that certain Third Amendment to Amended and Restated Credit Agreement dated as of September 11, 2013 (as amended, restated, supplemented or modified from time to time, the Credit Agreement) and certain other Loan Documents (as defined in the Credit Agreement) in connection therewith.
+ 
+B.                                    The Borrowers have requested that the Administrative Agent and the Lenders amend the Credit Agreement to (i) decrease the pricing reflected in the definition of Applicable Margin, (ii) allow for Liens in an amount not to exceed $10,000,000 in the aggregate on assets acquired by the Borrowers or any of their Restricted Subsidiaries (or on assets of any Person acquired by Borrowers or any of their Subsidiaries which Person then becomes a Restricted Subsidiary), (iii) permit as a Restricted Payment the issuance or sale of Sanchez Equity Interests in exchange for, or purchase or redemption of, Sanchez Preferred Stock and (iv) increase to 75% from 50% the maximum percentage of the Borrowers total Proved Reserves that may be hedged, and the Administrative Agent and the Lenders are willing to amend the Credit Agreement on the terms and conditions contained in this Fourth Amendment.
+ 
+C.                                    In connection with the Fourth Amendment the Borrowing Base will be increased from $175,000,000 to $300,000,000, representing an increase of $125,000,000.  Since not every Lender desires to increase its Commitment by its Applicable Percentage of the $125,000,000 increase in the Borrowing Base, the Lenders have agreed to adjust their respective Applicable Percentages of the Maximum Credit Amount from and after the Fourth Amendment Effective Date as herein provided.
+ 
+1
+
+
+
+
+
+
+ 
+AGREEMENT
+ 
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants set forth in this Fourth Amendment and other good and valuable consideration, the receipt and sufficiency of which are acknowledged by the parties hereto, the Borrowers, the Lenders and the Administrative Agent agree as follows:
+ 
+1.                                      Defined Terms.  Unless otherwise defined herein, capitalized terms used herein have the meanings assigned to them in the Credit Agreement.
+ 
+2.                                      Specific Amendments to Credit Agreement.      The Credit Agreement is hereby amended as follows:
+ 
+(i)                                     The cover page of the Credit Agreement is hereby amended by adding after the words Syndication Agent and before the name RBC CAPITAL MARKETS the following:
+ 
+COMPASS BANK and SUNTRUST BANK
+as Documentation Agents
+ 
+(ii)                                  The Table of Contents to the Credit Agreement is amended by adding a new Section 11.11 thereto captioned Syndication Agent; Documentation Agents; Arranger.
+ 
+(iii)                               The following defined terms are hereby added to Section 1.02 of the Credit Agreement in the proper alphabetical order:
+ 
+Documentation Agents means collectively Compass Bank and SunTrust Bank in their respective capacities as documentation agents hereunder.
+ 
+Fourth Amendment means that certain Fourth Amendment to Amended and Restated Credit Agreement dated the Fourth Amendment Effective Date among the Borrowers, the Lenders and the Administrative Agent.
+ 
+Fourth Amendment Effective Date means November 18,  2013.
+ 
+Syndication Agent means Capital One, National Association in its capacity as syndication agent hereunder.
+ 
+(iv)                              The defined term Agreement in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+Agreement means this Credit Agreement, as amended by the First Amendment, Second Amendment, Third Amendment and Fourth Amendment, and as the same may from time to time be amended, modified, supplemented or restated.
+ 
+(v)                                 The defined term Applicable Margin in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+2
+
+
+
+
+
+
+ 
+Applicable Margin means, for any day prior to the Fourth Amendment Effective Date, with respect to any ABR Loan or Eurodollar Loan, or with respect to the Letter of Credit Fee Rate or Commitment Fee Rate, as the case may be, the rate per annum set forth in the Borrowing Base Utilization Grid below based upon the Borrowing Base Utilization Percentage then in effect:
+ 
+Borrowing Base Utilization Grid
+ 
+
+
+
+Borrowing Base Utilization Percentage    
+
+     
+
+<25%    
+
+     
+
+>25% and   <50%    
+
+     
+
+>50% and   <75%    
+
+     
+
+>75%       
+
+
+ABR   Loans    
+
+     
+
+1.00%    
+
+     
+
+1.25%    
+
+     
+
+1.50%    
+
+     
+
+1.75%       
+
+
+Eurodollar   Loans    
+
+     
+
+2.00%    
+
+     
+
+2.25%    
+
+     
+
+2.50%    
+
+     
+
+2.75%       
+
+
+Letter   of Credit Fee Rate    
+
+     
+
+2.00%    
+
+     
+
+2.25%    
+
+     
+
+2.50%    
+
+     
+
+2.75%       
+
+
+Commitment   Fee Rate    
+
+     
+
+0.375%    
+
+     
+
+0.375%    
+
+     
+
+0.50%    
+
+     
+
+0.50%         
+ 
+For any day on or after the Fourth Amendment Effective Date, Applicable Margin means, with respect to any ABR Loan or Eurodollar Loan, or with respect to the Letter of Credit Fee Rate or Commitment Fee Rate, as the case may be, the rate per annum set forth in the Borrowing Base Utilization Grid below based upon the Borrowing Base Utilization Percentage then in effect:
+ 
+Borrowing Base Utilization Grid
+ 
+
+
+
+Borrowing Base Utilization Percentage    
+
+     
+
+<25%    
+
+     
+
+>25% and   <50%    
+
+     
+
+>50% and   <75%    
+
+     
+
+>75% and   <90%    
+
+     
+
+>90%       
+
+
+ABR   Loans    
+
+     
+
+0.50%    
+
+     
+
+0.75%    
+
+     
+
+1.00%    
+
+     
+
+1.25%    
+
+     
+
+1.50%       
+
+
+Eurodollar   Loans    
+
+     
+
+1.50%    
+
+     
+
+1.75%    
+
+     
+
+2.00%    
+
+     
+
+2.25%    
+
+     
+
+2.50%       
+
+
+Letter   of Credit Fee Rate    
+
+     
+
+1.50%    
+
+     
+
+1.75%    
+
+     
+
+2.00%    
+
+     
+
+2.25%    
+
+     
+
+2.50%       
+
+
+Commitment   Fee Rate    
+
+     
+
+0.375%    
+
+     
+
+0.375%    
+
+     
+
+0.50%    
+
+     
+
+0.50%    
+
+     
+
+0.50%         
+ 
+Each change in the Applicable Margin shall apply during the period commencing on the effective date of such change and ending on the date immediately preceding the effective date of the next such change; provided, however, that if at any time the Borrowers fail to deliver a Reserve Report pursuant to Section 8.12(a), then the Applicable Margin means the rate per annum set forth on the then applicable grid above when the Borrowing Base Utilization Percentage is at its highest level; provided further that the Applicable Margin shall be the Applicable Margin determined without regard to the preceding proviso upon the Borrowers delivery of such Reserve Report.
+ 
+(vi)                              The defined term Excepted Liens in Section 1.02 of the Credit Agreement is hereby amended by deleting the word and after clause (h) and inserting the following new clauses (j) and (k) immediately before the proviso:
+ 
+(j) any Lien existing on any Property at the time of the acquisition of such Property by a Borrower or any Restricted Subsidiary, provided such Lien was not created in contemplation of such acquisition by a Borrower or a Restricted Subsidiary; and (k) any
+ 
+3
+
+
+
+
+
+
+ 
+Lien existing on any Property of a Person at the time such Person becomes a Restricted Subsidiary of Sanchez;
+ 
+(vii)                           Section 2.07(c)(i) of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+(i)                               Each Scheduled Redetermination and each Interim Redetermination shall be effectuated as follows:  upon receipt by the Administrative Agent of (1) the Reserve Report and the certificate required to be delivered by the Borrowers, in the case of a Scheduled Redetermination, pursuant to Section 8.12(a) and (c), and, in the case of an Interim Redetermination, pursuant to Section 8.12(b) and (c), and (2) such other reports, data and supplemental information, including, without limitation, the information provided pursuant to Section 8.12(c), as may, from time to time, be reasonably requested by the Required Lenders (the Reserve Report, such certificate and such other reports, data and supplemental information being the Engineering Reports), the Administrative Agent shall evaluate the information contained in the Engineering Reports and shall, in good faith, propose a new Borrowing Base (the Proposed Borrowing Base) based upon such information and such other information (including, without limitation, the status of title information with respect to the Oil and Gas Properties as described in the Engineering Reports and the existence of any other Debt; provided if the Debt is Debt described in Section 9.02(j) and is secured by an Excepted Lien described in clauses (j) or (k) of the definition of Excepted Liens, then such Oil and Gas Properties shall not be included in calculating the Borrowing Base until such Excepted Lien is released or evidence, satisfactory in form and substance, is delivered to the Administrative Agent that such Excepted Lien is no longer valid or enforceable) as the Administrative Agent deems appropriate in its sole discretion and consistent with its normal oil and gas lending criteria as it exists at the particular time.  In no event shall the Proposed Borrowing Base exceed the Aggregate Maximum Credit Amounts.
+ 
+(viii)                        Section 9.02 of the Credit Agreement is hereby amended by deleting the word and after Section 9.02(i), designating current Section 9.02(j) as new Section 9.02(k) and inserting in lieu of the prior Section 9.02(j) the following:
+ 
+(j) Debt in an aggregate amount not to exceed $10,000,000 at any time outstanding secured by Excepted Liens described in clauses (j) and (k) of the definition of Excepted Liens; and
+ 
+(ix)                              Section 9.04 of the Credit Agreement is hereby amended by deleting clause (d) of Section 9.04 and the proviso at the end of Section 9.04 and inserting in lieu thereof the following:
+ 
+(d) Permitted Preferred Stock Distributions, and (e) issuances and/or sales of Equity Interests in Sanchez in exchange for, or purchase or redemption of, Preferred Stock; provided, Restricted Payments made under this Section 9.04, other than (x) pursuant to clauses (c) and (e) above and (y) Permitted Preferred Stock Distributions
+ 
+4
+
+
+
+
+
+
+ 
+comprised solely of common stock of Sanchez, may be made only so long as no Default or Event of Default exists or will exist after giving effect to such Restricted Payment.
+ 
+(x)                                 Section 9.17 of the Credit Agreement is hereby amended by deleting clauses (b)(i) and (b)(ii) thereof and substituting the following therefor:
+ 
+(i) during the first two years following such time the greater of (x) ninety percent (90%) of the volume of proved developed producing reserves included in the then most recently delivered Reserve Report (plus, if the Borrowers (or one of their Subsidiaries) acquire the Rock Oil Properties, for purposes of determinations of compliance with this Section 9.17(b) based on the Reserve Report preceding the acquisition of the Rock Oil Properties, ninety percent (90%) of the volume of proved developed producing reserves included in the reserve report for the Rock Oil Properties, as calculated by the Borrowers chief petroleum engineer) and (y) seventy-five percent (75%) of the volume of Borrowers total Proved Reserves (plus, if the Borrowers (or one of their Subsidiaries) acquire the Rock Oil Properties, for purposes of determinations based on the Reserve Report preceding the acquisition of the Rock Oil Properties, seventy-five percent (75%) of the volume of total Proved Reserves included in the reserve report for the Rock Oil Properties, as calculated by the Borrowers chief petroleum engineer) (such amounts computed on a semi-annual basis and calculated on a product-by-product basis), (ii) during the third and fourth years following such time the greater of (x) eighty-five percent (85%) of the volume of proved developed producing reserves included in the then most recently delivered Reserve Report and (y) seventy-five percent (75%) of the volume of Borrowers total Proved Reserves (such amounts computed on a semi-annual basis and calculated on a product-by-product basis), and
+ 
+(xi)                              The second sentence of Section 11.02 of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+Without limiting the generality of the foregoing, the Administrative Agent, Syndication Agent and Documentation Agents(a) shall not be subject to any fiduciary or other implied duties, regardless of whether a Default has occurred and is continuing (the use of the term agent herein and in the other Loan Documents with reference to the Administrative Agent, Syndication Agent and Documentation Agents is not intended to connote any fiduciary or other implied (or express) obligations arising under agency doctrine of any applicable law; rather, such term is used merely as a matter of market custom, and is intended to create or reflect only an administrative relationship between independent contracting parties), (b) shall not have any duty to take any discretionary action or exercise any discretionary powers, except, with respect to the Administrative Agent, as provided in Section 11.03, and (c) except as expressly set forth herein with respect to the Administrative Agent, shall not have any duty to disclose, and shall not be liable for the failure to disclose, any information relating to the Borrowers or any of their Subsidiaries that is communicated to or obtained by the bank serving as the Administrative Agent or any of its Affiliates in any capacity.
+ 
+5
+
+
+
+
+
+ 
+(xii)                           A new Section 11.11  Syndication Agent, Documentation Agents and Arranger  is added to the Credit Agreement to read as follows:
+ 
+Section 11.11  Syndication Agent, Documentation Agents; Arranger.  None of the Lenders or other Persons identified on the cover page or signature pages of this Agreement as a syndication agent, as a documentation agent, any other type of agent (other than the Administrative Agent), arranger, or book runner shall have any right, power, obligation, liability, responsibility or duty under this Agreement other than those applicable to all Lenders as such.  Without limiting the foregoing, none of the Lenders so identified shall have or be deemed to have any fiduciary relationship with any Lender.  Each Lender acknowledges that it has not relied, and will not rely, on any of the Lenders so identified in deciding to enter into this Agreement or in taking or not taking action hereunder.
+ 
+(xiii)                        Annex I  List of Maximum Credit Amounts  which is attached to the Credit Agreement is hereby replaced in its entirety with Annex I that is attached hereto.
+ 
+3.                                      Redetermined Borrowing Base. Pursuant to Section 2.07(c) of the Credit Agreement and notwithstanding any requirement in the Credit Agreement that in connection with the Scheduled Redetermination of the Borrowing Base to be effective January 1, 2014 based on the Reserve Report required to be delivered by November 15, 2013 evaluating the Oil and Gas Properties of the Borrowers and their Subsidiaries as of September 30, 2013 (or October 1, 2013) and any requirement that the Administrative Agent notify the Borrowers and Lenders of the Proposed Borrowing Base in a Proposed Borrowing Base Notice or advise the Borrowers and Lenders of a redetermined Borrowing Base in a New Borrowing Base Notice, the Administrative Agent hereby notifies the Borrowers that, from the Fourth Amendment Effective Date until the next Borrowing Base has been approved in accordance with Section 2.07(c) of the Credit Agreement, the Borrowing Base shall be $300,000,000. This Fourth Amendment constitutes notice to the Borrowers of the redetermined Borrowing Base for purposes of Section 2.07(c) and by its signature to this Agreement each Lender consents to the $300,000,000 redetermined Borrowing Base and acknowledges that from the Fourth Amendment Effective Date until the next Borrowing Base redetermination such Lenders Commitment is such Lenders Applicable Percentage of the redetermined Borrowing Base. For the sake of clarity, the next Scheduled Determination of the Borrowing Base shall be based on a Reserve Report as of December 31, 2013 (or January 1, 2014), which Reserve Report shall be delivered by March 1, 2014 in accordance with Section 8.12(a)(i) of the Credit Agreement.
+ 
+4.                                      Adjustment of Applicable Percentages.
+ 
+(a)                                 To effect the adjustment of the Applicable Percentages reflected on Annex I to this Fourth Amendment, (i) Royal Bank of Canada has agreed to adjust or maintain its Applicable Percentage to the percentage reflected on Annex I to this Fourth Amendment, (ii) Capital One, National Association has agreed to adjust or maintain its Applicable Percentage to the percentage reflected on Annex I to this Fourth Amendment, (iii) Credit Suisse AG, Cayman Islands Branch has agreed to adjust or maintain its Applicable Percentage to the percentage reflected on Annex I to this Fourth Amendment, (iv) Compass Bank has agreed to adjust or
+ 
+6
+
+
+
+
+
+
+ 
+maintain its Applicable Percentage to the percentage reflected on Annex I to this Fourth Amendment, (v) SunTrust Bank has agreed to adjust or maintain its Applicable Percentage to the percentage reflected on Annex I to this Fourth Amendment, (vi) ING Capital LLC has agreed to adjust or maintain its Applicable Percentage to the percentage reflected on Annex I to this Fourth Amendment, (vii) Branch Banking and Trust Company has agreed to adjust or maintain its Applicable Percentage to the percentage reflected on Annex I to this Fourth Amendment, (viii) IBERIABANK has agreed to adjust or maintain its Applicable Percentage to the percentage reflected on Annex I to this Fourth Amendment, (ix) Union Bank, N.A. has agreed to adjust or maintain its Applicable Percentage to the percentage reflected on Annex I to this Fourth Amendment, and (x) Sociètè Genèralè has agreed to adjust or maintain its Applicable Percentage to the percentage reflected on Annex I to this Fourth Amendment,.
+ 
+(b)                                 For good and valuable consideration, receipt of which is hereby acknowledged, each Lender decreasing its Applicable Percentage (herein called a Reducing Lender) hereby sells and assigns, without recourse, to each Lender increasing its respective Applicable Percentage (herein called an Increasing Lender), and each Increasing Lender hereby purchases and assumes, without recourse, from each Reducing Lender, effective as of the Fourth Amendment Effective Date and subject to and in accordance with the terms and conditions of this Section 4 and Section 12.04(b) of the Credit Agreement, as modified hereby, such portion of such Reducing Lenders rights and obligations as a Lender under the Credit Agreement and the other Loan Documents as is necessary to result in the Increasing Lenders having the Applicable Percentage and Maximum Credit Amount on and after the Fourth Amendment Effective Date identified on Annex 1 attached to this Fourth Agreement (including, without limitation, the Letters of Credit, if any) (the Assigned Interest and the portion of the total Assigned Interest sold and assigned by a particular Reducing Lender or purchased and assumed by a particular Increasing Lender being the Assigned Interest of such Reducing Lender or Increasing Lender, as applicable) including, without limitation, the interests in the Commitments of the Reducing Lenders on the Fourth Amendment Effective Date and Loans owing to the Reducing Lenders which are outstanding on the Fourth Amendment Effective Date, together with the participations in Letters of Credit and LC Disbursements held by the Reducing Lenders on the Fourth Amendment Effective Date, but excluding accrued interest and fees to and excluding the Fourth Amendment Effective Date.  From and after the Fourth Amendment Effective Date (i) each Increasing Lender shall, to the extent of the Assigned Interest of such Increasing Lender, have the rights and obligations of a Lender under the Credit Agreement and (ii) each Reducing Lender shall, to the extent of the Assigned Interest of such Reducing Lender, relinquish its rights and be released from its obligations under the Credit Agreement. The Assigned Interest of a particular Reducing Lender shall be allocated to the Increasing Lenders proportionately in accordance with the Assigned Interest of each Increasing Lender.
+ 
+(c)                                  The sale and assignment provided for in this Section 4 is without recourse to the Reducing Lenders and, except as expressly provided in this Section 4, without representation or warranty by the Reducing Lenders.
+ 
+(d)                                 Each Reducing Lender:
+ 
+7
+
+
+
+
+
+
+ 
+(i)                                     represents and warrants that (i) it is the legal and beneficial owner of the Assigned Interest being assigned by it to Increasing Lenders, (ii) the Assigned Interest being assigned by such Reducing Lender to Increasing Lenders is free and clear of any lien, encumbrance or other adverse claim created by such Reducing Lender and (iii) it has full power and authority, and has taken all action necessary, to execute and deliver this Fourth Amendment and to consummate the transactions contemplated by this Section 4; and
+ 
+(ii)                                  assumes no responsibility with respect to (i) any statements, warranties or representations made in or in connection with the Credit Agreement or any other Loan Document, (ii) the execution, legality, validity, enforceability, genuineness, sufficiency or value of the Loan Documents or any Collateral thereunder, (iii) the financial condition of any Borrower, any of their Subsidiaries or Affiliates or any other Person obligated in respect of any Loan Document or (iv) the performance or observance by any Borrower, any of their Subsidiaries or Affiliates or any other Person of any of their respective obligations under any Loan Document.
+ 
+(e)                                  From and after the Fourth Amendment Effective Date, the Administrative Agent shall make all payments in respect of the Assigned Interest (including payments of principal, interest, fees and other amounts) to the respective Reducing Lenders for amounts which have accrued to but excluding the Fourth Amendment Effective Date and to the Increasing Lenders for amounts which have accrued from and after the Fourth Amendment Effective Date.
+ 
+(f)                                   By their execution of this Fourth Amendment, Administrative Agent and the Borrowers consent to the sale and assignment provided in this Section 4.  The parties hereto agree that the requirement of Section 12.04(b)(ii) of the Credit Agreement that an Assignment and Assumption be executed and delivered is satisfied by the execution and delivery of this Fourth Amendment.  The Administrative Agent hereby (i) waives the requirement for the payment of the processing and recordation fee of $3,500 in connection with the sales and assignments effected by this Section 4 and (ii) agrees to reflect the sales and assignments effected by this Fourth Amendment in the Register as of the Fourth Amendment Effective Date.
+ 
+5.                                      Borrowers Ratification.  Each of the Borrowers hereby ratifies all of its Obligations under the Credit Agreement and each of the Loan Documents to which it is a party, and agrees and acknowledges that the Credit Agreement and each of the Loan Documents to which it is a party are and shall continue to be in full force and effect. Nothing in this Fourth Amendment extinguishes, novates or releases any right, claim, Lien, security interest or entitlement of any of the Lenders, the Issuing Bank or the Administrative Agent created by or contained in any of such documents nor is any Borrower released from any covenant, warranty or obligation created by or contained herein or therein.
+ 
+8
+
+
+
+
+
+
+ 
+6.                                      Guarantors Ratification.  Each Guarantor by its execution in the space provided below under ACKNOWLEDGED for purposes of Section 6 hereby ratifies, confirms, acknowledges and agrees that its obligations under the Guaranty are in full force and effect and that such Guarantor continues to unconditionally and irrevocably guarantee the full and punctual payment, when due, whether at stated maturity or earlier by acceleration or otherwise, of the Obligations, and its execution and delivery of this Fourth Amendment does not indicate or establish an approval or consent requirement by any Guarantor under the Guaranty in connection with the execution and delivery of amendments to the Credit Agreement, the Notes or any of the other Loan Documents (other than the Guaranty or any other Loan Document to which a Guarantor is a party).
+ 
+7.                                      Conditions to Effectiveness of Fourth Amendment.  This Fourth Amendment shall be effective upon the satisfaction, in the Administrative Agents sole discretion, of the following conditions precedent:
+ 
+(i)                                     The Administrative Agent shall have executed, and shall have received from each of the Borrowers and the Lenders duly executed signature pages to, this Fourth Amendment, and shall have received a duly executed acknowledgement of Section 5 of this Fourth Amendment from each Guarantor;
+ 
+(ii)                                  the Administrative Agent shall have received such other documents as the Administrative Agent or its counsel may reasonably request; and
+ 
+(iii)                               the Administrative Agent and the Lenders shall have received all fees and other amounts due and payable, including, to the extent invoiced, reimbursement or payment of all out-of-pocket expenses required to be reimbursed or paid by the Borrowers hereunder.
+ 
+8.                                      No Implied Amendment, Waiver or Consent. This Fourth Amendment shall not constitute an amendment or waiver of any provision not expressly referred to herein and shall not be construed as a consent to any action on the part of the Borrowers that would require a waiver or consent of the Lenders or Required Lenders, as applicable, or an amendment or modification to any term of the Loan Documents except as expressly stated herein.
+ 
+9.                                      Miscellaneous.  This Fourth Amendment is a Loan Document.  Except as affected by this Fourth Amendment, the Loan Documents are unchanged and continue in full force and effect.  However, in the event of any inconsistency between the terms of the Credit Agreement, as amended by this Fourth Amendment, and any other Loan Document, the terms of the Credit Agreement will control and the other document will be deemed to be amended to conform to the terms of the Credit Agreement.  All references to the Credit Agreement will refer to the Credit Agreement as amended by this Fourth Amendment and any other amendments properly executed among the parties.  Borrowers agree that all Loan Documents to which they are a party (whether as an original signatory or by assumption of the Obligations) remain in full force and effect and continue to evidence their respective legal, valid and binding obligations enforceable in accordance with their terms (as the same are affected by this Fourth Amendment or are amended in connection with this Fourth Amendment).  AS A MATERIAL INDUCEMENT TO THE
+ 
+9
+
+
+
+
+
+
+ 
+ADMINISTRATIVE AGENT AND LENDERS PARTY HERETO TO ENTER INTO THIS FOURTH AMENDMENT, BORROWERS RELEASE THE ADMINISTRATIVE AGENT, THE ISSUING BANK, THE LENDERS AND THEIR RESPECTIVE PREDECESSORS, SUCCESSORS, ASSIGNS, DIRECTORS, OFFICERS, EMPLOYEES, TRUSTEES, AGENTS AND ATTORNEYS FROM ANY LIABILITY FOR ACTIONS OR FAILURES TO ACT IN CONNECTION WITH THE LOAN DOCUMENTS PRIOR TO THE FOURTH AMENDMENT EFFECTIVE DATE.  NO COURSE OF DEALING BETWEEN BORROWERS OR ANY OTHER PERSON, ON THE ONE HAND, AND THE ADMINISTRATIVE AGENT, ISSUING BANK AND THE LENDERS, ON THE OTHER, WILL BE DEEMED TO HAVE ALTERED OR AMENDED THE CREDIT AGREEMENT OR AFFECTED EITHER BORROWERS, THE ADMINISTRATIVE AGENTS, THE ISSUING BANKS OR THE LENDERS RIGHT TO ENFORCE THE CREDIT AGREEMENT AS WRITTEN.  This Fourth Amendment will be binding upon and inure to the benefit of each of the undersigned and their respective successors and permitted assigns.
+ 
+10.                               Form.  Each agreement, document, instrument or other writing to be furnished to the Administrative Agent and/or the Lenders under any provision of this instrument must be in form and substance satisfactory to the Administrative Agent and its counsel.
+ 
+11.                               Headings. The headings and captions used in this Fourth Amendment are for convenience only and will not be deemed to limit, amplify or modify the terms of this Fourth Amendment, the Credit Agreement, or the other Loan Documents.
+ 
+12.                               Interpretation. Wherever possible each provision of this Fourth Amendment shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Fourth Amendment shall be prohibited by or invalid under such law, such provision shall be ineffective to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Fourth Amendment.
+ 
+13.                               Multiple Counterparts.  This Fourth Amendment may be separately executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to constitute one and the same agreement.  This Fourth Amendment may be transmitted and/or signed by facsimile, telecopy or electronic mail.  The effectiveness of any such documents and signatures shall, subject to applicable law, have the same force and effect as manually-signed originals and shall be binding on all Loan Parties, all Lenders, the Administrative Agent and the Issuing Bank.  The Administrative Agent may also require that any such documents and signatures be confirmed by a manually-signed original thereof; provided, however, that the failure to request or deliver the same shall not limit the effectiveness of any facsimile document or signature.
+ 
+14.                               Governing Law.  THIS FOURTH AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK WITHOUT REGARD TO ANY CHOICE-OF-LAW PROVISIONS THAT WOULD REQUIRE THE APPLICATION OF THE LAW OF ANOTHER JURISDICTION.
+ 
+[Signature Pages Follow]
+ 
+10
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Fourth Amendment to be executed by their respective officers thereunto duly authorized as of the date first above written.
+ 
+
+
+
+     
+
+BORROWERS:       
+
+
+     
+
+        
+
+
+     
+
+SANCHEZ   ENERGY CORPORATION,       
+
+
+     
+
+a   Delaware corporation       
+
+
+     
+
+        
+
+
+     
+
+SEP   HOLDINGS III, LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+SN   MARQUIS LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+SN   COTULLA ASSETS, LLC,       
+
+
+     
+
+a   Texas limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael G. Long       
+
+
+     
+
+Name:    
+
+Michael   G. Long       
+
+
+     
+
+Title:    
+
+Senior   Vice President  Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+ACKNOWLEDGED   for the purposes stated in Section 6:       
+
+
+     
+
+        
+
+
+     
+
+GUARANTORS:       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SN   OPERATING, LLC,       
+
+
+     
+
+a   Texas limited liability company       
+
+
+     
+
+        
+
+
+     
+
+SN   TMS, LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael G. Long       
+
+
+     
+
+Name:    
+
+Michael   G. Long       
+
+
+     
+
+Title:    
+
+Senior   Vice President  Chief Financial Officer         
+ 
+Signature Page 1 to Fourth Amendment
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+ADMINISTRATIVE AGENT:       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+ROYAL   BANK OF CANADA, as Administrative Agent       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Ann Hurley       
+
+
+     
+
+Name:    
+
+Ann   Hurley       
+
+
+     
+
+Title:    
+
+Manager,   Agency       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+LENDERS:       
+
+
+     
+
+        
+
+
+     
+
+ISSUING BANK AND LENDER:       
+
+
+     
+
+        
+
+
+     
+
+ROYAL BANK OF CANADA       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Mark Lumpkin, Jr.       
+
+
+     
+
+Name:    
+
+Mark   Lumpkin, Jr.       
+
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+CAPITAL   ONE, NATIONAL ASSOCIATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael Higgins       
+
+
+     
+
+Name:    
+
+Michael   Higgins       
+
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Kevin Buddhdew    
+
+/s/   Michael Spaight       
+
+
+     
+
+Name:    
+
+Kevin   Buddhdew    
+
+Michael   Spaight       
+
+
+     
+
+Title:    
+
+Authorized   Signatory     
+
+Authorized   Signatory         
+ 
+Signature Page 2 to Fourth Amendment
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMPASS   BANK       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Les Werme       
+
+
+     
+
+Name:    
+
+Les   Werme       
+
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+SUNTRUST BANK       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Chulley Bogle       
+
+
+     
+
+Name:    
+
+Chulley   Bogle       
+
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+ING   CAPITAL LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Charles Hall       
+
+
+     
+
+Name:    
+
+Charles   Hall       
+
+
+     
+
+Title:    
+
+Managing   Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+BRANCH BANKING AND TRUST COMPANY       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Ryan K. Michael       
+
+
+     
+
+Name:    
+
+Ryan   K. Michael       
+
+
+     
+
+Title:    
+
+Senior   Vice President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+IBERIABANK       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   W. Bryan Chapman       
+
+
+     
+
+Name:    
+
+W.   Bryan Chapman       
+
+
+     
+
+Title:    
+
+Executive   Vice President         
+ 
+Signature Page 3 to Fourth Amendment
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+UNION BANK, N.A.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Haylee Dallas       
+
+
+     
+
+Name:    
+
+Haylee   Dallas       
+
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+SOCIÉTÉ   GENÉRALÉ       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Graeme Bullen       
+
+
+     
+
+Name:    
+
+Graeme   Bullen       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page 4 to Fourth Amendment
+ 
+
+
+
+
+
+ 
+ANNEX I
+ 
+LIST OF MAXIMUM CREDIT AMOUNTS
+ 
+
+
+
+Name of Lender    
+
+     
+
+Applicable   Percentage Before   Fourth Amendment   Effective Date    
+
+     
+
+Applicable   Percentage on   and After Fourth   Amendment   Effective Date    
+
+     
+
+Maximum Credit   Amount   Before Fourth   Amendment   Effective Date    
+
+     
+
+Maximum Credit   Amount on and   After Fourth   Amendment   Effective Date    
+
+        
+
+
+Royal Bank of Canada    
+
+     
+
+15.7142857    
+
+%    
+
+13.333333333    
+
+     
+
+$    
+
+78,571,428.56    
+
+     
+
+$    
+
+66,666,666.67    
+
+        
+
+
+Capital One, National Association    
+
+     
+
+15.7142857    
+
+%    
+
+13.333333333    
+
+     
+
+$    
+
+78,571,428.56    
+
+     
+
+$    
+
+66,666,666.67    
+
+        
+
+
+SunTrust Bank     
+
+     
+
+8.5714286    
+
+%    
+
+11.666666667    
+
+     
+
+$    
+
+42,857,142.86    
+
+     
+
+$    
+
+58,333,333.34    
+
+        
+
+
+Compass Bank    
+
+     
+
+8.5714286    
+
+%    
+
+11.666666667    
+
+     
+
+$    
+
+42,857,142.86    
+
+     
+
+$    
+
+58,333,333.34    
+
+        
+
+
+Credit Suisse AG, Cayman Islands Branch    
+
+     
+
+8.5714286    
+
+%    
+
+8.333333333    
+
+     
+
+$    
+
+42,857,142.86    
+
+     
+
+$    
+
+41,666,666.67    
+
+        
+
+
+ING Capital LLC    
+
+     
+
+8.5714286    
+
+%    
+
+8.333333333    
+
+     
+
+$    
+
+42,857,142.86    
+
+     
+
+$    
+
+41,666,666.67    
+
+        
+
+
+Branch Banking and Trust Company    
+
+     
+
+8.5714286    
+
+%    
+
+8.333333333    
+
+     
+
+$    
+
+42,857,142.86    
+
+     
+
+$    
+
+41,666,666.67    
+
+        
+
+
+IBERIABANK    
+
+     
+
+8.5714286    
+
+%    
+
+8.333333333    
+
+     
+
+$    
+
+42,857,142.86    
+
+     
+
+$    
+
+41,666,666.67    
+
+        
+
+
+Union Bank, N.A.    
+
+     
+
+8.5714286    
+
+%    
+
+8.333333333    
+
+     
+
+$    
+
+42,857,142.86    
+
+     
+
+$    
+
+41,666,666.67    
+
+        
+
+
+Sociètè Genèralè    
+
+     
+
+8.5714286    
+
+%    
+
+8.333333333    
+
+     
+
+$    
+
+42,857,142.86    
+
+     
+
+$    
+
+41,666,666.67    
+
+        
+
+
+TOTAL    
+
+     
+
+100    
+
+%    
+
+100    
+
+%    
+
+$    
+
+500,000,000.00    
+
+     
+
+$    
+
+500,000,000.00    
+
+          
+ 
+Annex I to Fourth Amendment
+ 
+
+
+
+
+
+
+
+
+

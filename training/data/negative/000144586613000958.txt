@@ -1,0 +1,858 @@
+
+EX-10.2
+3
+ex102.htm
+EXHIBIT 10.2
+
+
+
+    ex102.htm
+    
+    
+    
+
+
+Exhibit 10.2
+
+
+ 
+
+FIFTH AMENDMENT TO DELAYED
+
+DRAW TERM LOAN CREDIT AGREEMENT
+
+ 
+
+FIFTH AMENDMENT TO DELAYED DRAW TERM LOAN CREDIT AGREEMENT (this “Amendment”), dated June 4, 2013 but effective as of 4:00 pm ET on June 4, 2013, by and among Par Petroleum Corporation, a Delaware corporation (the “Borrower”), the Guarantors party hereto (the “Guarantors” and together with the Borrower, each a “Credit Party” and collectively, the “Credit Parties”), the undersigned Lenders party hereto, and Jefferies Finance LLC, as administrative agent (the “Administrative Agent”).
+
+ 
+
+WHEREAS, the Credit Parties, Jefferies Finance LLC, as administrative agent, and the Lenders party thereto from time to time, entered into that certain Delayed Draw Term Loan Credit Agreement dated as of August 31, 2012 (as amended by the First Amendment dated as of September 28, 2012, as amended by the Second Amendment dated as of November 29, 2012, as amended by the Third Amendment dated as of December 28, 2012, as amended by the Fourth Amendment dated as of April 19, 2013, and as may be further amended, amended and restated, modified, supplemented, extended, renewed, restated or replaced from time to time, the “Credit Agreement”);
+
+ 
+
+WHEREAS, the Borrower would like to form a new Subsidiary named Hawaii Pacific Energy, LLC, a Delaware limited liability company (“NewCo”), in connection with a contemplated acquisition to occur later this year (“New Acquisition”) pursuant to a Target Purchase Agreement (hereinafter defined) and has asked the Lenders for various consents, amendments and waivers to the Loan Documents in connection therewith;
+
+ 
+
+WHEREAS, the Requisite Lenders and the Requisite Tranche B Lenders have agreed to such consents, amendments and waivers subject to the terms and conditions hereof.
+
+ 
+
+NOW, THEREFORE, in consideration of the mutual promises contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+ 
+
+1.           Defined Terms.  All capitalized terms used herein (including the recitals hereto) shall have the respective meaning assigned to such terms in the Credit Agreement as amended by this Amendment, unless otherwise defined herein.
+
+ 
+
+2.           Amendments.
+
+ 
+
+(a)         Amendments to Loan Documents.  Notwithstanding any other provisions set forth in the Credit Agreement, the Pledge and Security Agreement and the other Loan Documents, (i) NewCo shall not be required to (A) become a Guarantor or Credit Party under the Credit Agreement or the Loan Documents or otherwise guarantee any of the Obligations under the Credit Agreement and the Loan Documents (or be required to take any action in regards to joining the Loan Documents as a Guarantor, including without limitation, under Section 5.12 of the Credit Agreement), or (B) become a Grantor under the Pledge and Security Agreement or any other Security Instrument or otherwise grant a lien or security interest in any of its property or assets to secure the Obligations (or be required take any action in regards to granting or perfecting such
+
+ 
+
+
+
+
+  
+
+
+
+1
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+liens, including without limitation, under Section 5.12 of the Credit Agreement); and (ii) Borrower shall not be required to pledge any of the Equity Interests issued by NewCo to Borrower to secure the Obligations (or be required to take any action in regards to pledging such Equity Interests, including without limitation, under Section 5.12 of the Credit Agreement), provided that, in each case, (A) the New Acquisition is consummated in accordance with the Target Purchase Agreement (hereinafter defined) on or before September 30, 2013 (“Target Closing”) and immediately prior to the consummation of the Target Closing, the Administrative Agent shall have received a certificate from a Responsible Officer of Borrower that the Exclusion Conditions (as defined below) all remain satisfied at the time of, and immediately after giving effect to, the Target Closing, (B) NewCo obtains secured financing on terms and conditions satisfactory to the Requisite Lenders and the Requisite Tranche B Lenders and such financing is evidenced by documentation in form and substance satisfactory to Requisite Lenders and the Requisite Tranche B Lenders in conjunction with the Target Closing (“NewCo Financing”), (C) after the Target Closing, the NewCo Financing remains in full force and effect or is refinanced with secured financing on terms and conditions and evidenced by documentation satisfactory to Requisite Lenders and the Requisite Tranche B Lenders, (D) the Credit Parties shall not remit any identifiable proceeds of the Tranche B Loans and any other Loans to NewCo for any purpose, (E) none of the Credit Parties shall be permitted to make loans, advances, or capital contributions to, guaranty any obligations of, or make any investment in, or purchase or commit to purchase any stock or other securities or evidences of Debt of or interests in NewCo other than as expressly contemplated to occur at or prior to the Target Closing in accordance with the Target Purchase Agreement, and (F) NewCo does not own any right, title or interest in property and/or assets having a fair market value of in excess of $50,000 at any time prior to the Target Closing (excluding NewCo’s rights and interests under the Target Purchase Agreement and any financing commitment letters that it enters into in connection therewith) (the conditions in clauses (A), (B), (C), (D), (E) and (F) above, collectively, the “Exclusion Conditions”).  If any of the Exclusion Conditions are not satisfied on or before the date required or are no longer satisfied at any time thereafter, this Section 2 shall immediately become null and void ab initio and the Credit Parties and NewCo shall be required to comply with all applicable provisions in the Loan Documents, including without limitation Section 5.12 of the Credit Agreement, in regards to Borrower’s obligation to pledge NewCo’s Equity Interests to secure the Obligations and NewCo’s obligation to become a Guarantor and Credit Party under the Credit Agreement and the other Loan Documents and a Grantor under the Pledge and Security Agreement and to grant a security interest under each applicable Security Instrument.  For purposes hereof, the “Target Purchase Agreement” shall mean that certain Membership Interest Purchase Agreement, in the form approved by the Borrower’s board of directors (or a special committee thereof) and consented to by the Requisite Lenders and Requisite Tranche B Lenders, in each case, after the date hereof but prior to the execution of the Membership Interest Purchase Agreement, which Membership Interest Purchase Agreement shall not be amended, restated, modified or supplemented without the consent of the Requisite Lenders and the Requisite Tranche B Lenders.
+
+ 
+
+
+
+
+  
+
+
+
+2
+
+
+
+
+
+
+
+  
+
+
+
+
+(b)         Amendments to Pledge and Security Agreement.  The definition of “Excluded Property” in Section 2 to the Pledge and Security Agreement is hereby amended to include the Equity Interests issued by NewCo, subject to the Exclusion Conditions.
+
+ 
+
+(c)              The Lenders’ entry into this Amendment shall not obligate or commit any Lender(s) to provide any other consents or waivers under the Credit Agreement or the other Loan Documents in the future, whether for purposes similar to those described herein or otherwise.
+
+ 
+
+3.           Consent.
+
+ 
+
+(a)         Administrative Agent, the Requisite Lenders and the Requisite Tranche B Lenders hereby consent to the Borrower’s formation of NewCo, as a new Subsidiary, for the sole purpose of consummating the New Acquisition.
+
+ 
+
+(b)         Administrative Agent, the Requisite Lenders and the Requisite Tranche B Lenders waive any notice requirements under Sections 5.17(a)(iii) and 6.16 of the Credit Agreement related to the formation of NewCo.
+
+ 
+
+4.           Representations and Warranties.  Each of the Borrower and each of the Guarantors hereby confirms, reaffirms and restates the representations and warranties made by it in the Credit Agreement, as amended hereby, and confirms that all such representations and warranties are true and correct in all material respects as of the date hereof.  The Borrower and each Guarantor further represent and warrant (which representations and warranties shall survive the execution and delivery of this Amendment) to the Lenders that:
+
+ 
+
+(a)           The execution, delivery, and performance by each Credit Party of this Amendment and the consummation of the transactions contemplated hereby, (i) are within such Credit Party’s governing powers, (ii) have been duly authorized by all necessary governing action, (iii) do not contravene (x) such Credit Party’s Organizational Documents or (y) any law or any contractual restriction binding on or affecting such Credit Party, and (iv) will not result in or require the creation or imposition of any Lien prohibited by the Loan Documents;
+
+ 
+
+(b)           No consent, order, authorization, or approval or other action by, and no notice to or filing with, any Governmental Authority or any other Person is required for the due execution, delivery, and performance by any Credit Party of this Amendment, or the consummation of the transactions contemplated hereby, except for those consents and approvals that have been obtained,  made or waived on or prior to the date hereof and that are in full force and effect;
+
+ 
+
+(c)           This Amendment has been duly executed and delivered by such Credit Party and is the legal, valid, and binding obligation of each Credit Party enforceable against such Credit Party in accordance with its terms, except as such enforceability may be limited by any applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance or transfer, or similar law affecting creditors' rights generally and by general principles of equity; and
+
+ 
+
+(d)           No Default or Event of Default has occurred and is continuing.
+
+ 
+
+
+
+
+  
+
+
+
+3
+
+
+
+
+
+
+
+  
+
+
+
+
+5.           Effect of this Amendment. Except as expressly amended, consented to or waived hereby, the Credit Agreement and the other Loan Documents are ratified and confirmed in all respects and shall remain in full force and effect in accordance with their respective terms.  Except as expressly set forth herein, the terms of this Amendment shall not be deemed (i) a waiver of any Default or Event of Default, (ii) a consent, waiver or modification with respect to any term, condition, or obligation of the Borrower or any other Credit Party in the Credit Agreement or any other Loan Document, (iii) a consent, waiver or modification with respect to any other event, condition (whether now existing or hereafter occurring) or provision of the Loan Documents or (iv) to prejudice any right or remedy which the Administrative Agent or any Lender may now or in the future have under or in connection with the Credit Agreement or any other Loan Document.
+
+ 
+
+6.           Conditions Precedent.
+
+ 
+
+(a)              To Effectiveness of this Amendment.  This Amendment shall become effective when, and only when, all Requisite Lenders and Requisite Tranche B Lenders shall have executed this Amendment and the Administrative Agent has received counterparts of this Amendment, duly executed by each Requisite Lender and Requisite Tranche B Lender, the Borrower and each Guarantor ("Amendment Effective Date").
+
+ 
+
+7.           Miscellaneous.
+
+ 
+
+(a)           Survival of Representations and Warranties.  All representations and warranties made in this Amendment or any other document furnished in connection with this Amendment shall survive the execution and delivery of this Amendment and such other documents, and no investigation by the Administrative Agent or the Lenders or any closing of any transaction shall affect the representations and warranties or the right of the Administrative Agent or the Lenders to rely upon them.
+
+ 
+
+(b)           Notices.  All notices required to be made under this Amendment shall be made in the manner and at the address set forth in Section 10.2 of the Credit Agreement.
+
+ 
+
+(c)           Expenses.  The Borrower agrees to pay or reimburse the Administrative Agent and the Lenders for all reasonable fees and out-of-pocket disbursements incurred by the Administrative Agent or the Lenders in connection with the preparation, execution, delivery, administration and enforcement of this Amendment, including without limitation the reasonable fees and disbursements of counsel for the Administrative Agent and the Lenders, to the same extent that the Borrower would be required to do so pursuant to Section 10.4 of the Credit Agreement.
+
+ 
+
+(d)           Reference to Credit Agreement. From and after the effectiveness of this Amendment, all references herein to the Credit Agreement shall mean the Credit Agreement as amended hereby and as hereafter modified, amended, restated or supplemented from time to time, and each reference in any other Loan Document to the Credit Agreement shall mean the Credit Agreement as amended hereby and as hereafter modified, amended, restated or supplemented from time to time.  The Amendment shall constitute a Loan Document under the Credit Agreement for all purposes.
+
+ 
+
+
+
+
+  
+
+
+
+4
+
+
+
+
+
+
+
+  
+
+
+
+
+(e)           Reference to Pledge and Security Agreement.  From and after the effectiveness of this Amendment, all references herein to the Pledge and Security Agreement shall mean the Pledge and Security Agreement as amended hereby and as hereafter modified, amended, restated or supplemented from time to time, and each reference in any other Loan Document to the Pledge and Security Agreement shall mean the Pledge and Security Agreement as amended hereby and as hereafter modified, amended, restated or supplemented from time to time.
+
+ 
+
+(f)           Severability. If any provision of this Amendment is held by a court of competent jurisdiction to be invalid or unenforceable, such provision shall be inapplicable to the extent of such invalidity without affecting the validity or enforceability of the remainder of this Amendment and the effect thereof shall be confined to the provision so held to be invalid or unenforceable.
+
+ 
+
+(g)           Section Headings. Section headings herein are included for convenience of reference only and shall not affect the meaning or interpretation of this Amendment.
+
+ 
+
+(h)           Entire Agreement. This Amendment shall be deemed to be a Loan Document and, together with the other Loan Documents and the agreements, documents and instruments contemplated hereby, constitutes the entire understanding of the parties with respect to the subject matter hereof and thereof, and any other prior or contemporaneous agreements, whether written or oral, with respect hereto or thereto are expressly superseded hereby and thereby.
+
+ 
+
+(i)           Counterparts. This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, each of which, when executed and delivered, shall be deemed to be an original, and all of which, when taken together, shall constitute but one and the same Amendment.  Delivery of an executed counterpart of this Amendment by facsimile or .pdf shall be equally as effective as delivery of an original executed counterpart of this Amendment.  Any party delivering an executed counterpart of this Amendment by facsimile or .pdf also shall deliver an original executed counterpart of this Amendment but the failure to deliver an original executed counterpart shall not affect the validity, enforceability, and binding effect of this Amendment.
+
+ 
+
+(j)           Successors and Assigns.  This Amendment shall be binding on and inure to the benefit of the parties hereto and their heirs, beneficiaries, successors and assigns.  The Credit Parties may not assign this Amendment or any of their respective rights or obligations hereunder to any Person without the prior written consent of the Requisite Lenders and the Requisite Tranche B Lenders, which consent may be withheld or given in each such Lender’s sole discretion.
+
+ 
+
+(k)           Governing Law; Venue; Jury Trial. THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE CHOICE OF LAW AND VENUE PROVISIONS SET FORTH IN SECTION 10.12 OF THE CREDIT AGREEMENT, AND SHALL BE SUBJECT TO THE JURY TRIAL WAIVER SET FORTH IN SECTION 10.14 OF THE CREDIT AGREEMENT.
+
+ 
+
+
+
+
+  
+
+
+
+5
+
+
+
+
+
+
+
+  
+
+
+
+
+(l)           Guarantors. Each Guarantor, for value received, hereby expressly consents and agrees to the Borrower’s execution and delivery of this Amendment, and to the performance by the Borrower of its agreements and obligations hereunder.  This Amendment and the performance or consummation of any transaction or matter contemplated under this Amendment, shall not limit, restrict, extinguish or otherwise impair any Guarantor’s liability to the Administrative Agent and Lenders with respect to the payment and other performance obligations of such Guarantor pursuant to the Guarantees.  Each Guarantor hereby ratifies, confirms and approves its Guarantee and acknowledges that it is unconditionally liable to the Administrative Agent and Lenders for the full and timely payment of the Guaranteed Obligations (on a joint and several basis with the other Guarantors).  Each Guarantor hereby acknowledges that it has no defenses, counterclaims or set-offs with respect to the full and timely payment of any or all Guaranteed Obligations.
+
+ 
+
+[Remainder of Page Intentionally Left Blank; Signature Pages to Follow]
+
+
+
+
+
+
+
+  
+
+
+
+6
+
+
+
+
+
+
+
+  
+
+
+
+
+IN WITNESS WHEREOF, each of the parties hereto has duly executed this Fifth Amendment to Delayed Draw Term Loan Credit Agreement as of the date first written above.
+
+ 
+
+
+
+
+
+
+
+  
+
+BORROWER:
+
+PAR PETROLEUM CORPORATION,
+
+a Delaware corporation
+
+By: R. Seth Bullock                           
+
+       R. Seth Bullock
+
+       Chief Financial Officer
+
+ 
+
+
+  
+
+GUARANTORS:
+
+TEXADIAN ENERGY, INC., a Delaware corporation
+
+By:  R. Seth Bullock                            
+
+        R. Seth Bullock
+
+        Vice President and Treasurer
+
+ 
+
+
+  
+
+PAR PICEANCE ENERGY EQUITY LLC,
+
+a Delaware limited liability company
+
+ 
+
+PAR UTAH LLC,
+
+a Delaware limited liability company
+
+ 
+
+EWI LLC, a Delaware limited liability company
+
+ 
+
+PAR WASHINGTON LLC,
+
+a Delaware limited liability company
+
+ 
+
+PAR NEW MEXICO LLC,
+
+a Delaware limited liability company
+
+ 
+
+HEWW EQUIPMENT LLC,
+
+a Delaware limited liability company
+
+ 
+
+PAR POINT ARGUELLO LLC,
+
+a Delaware limited liability company
+
+ 
+
+By: PAR PETROLEUM CORPORATION,
+
+a Delaware corporation, as Sole Member ofeach of the foregoing companies
+
+ 
+
+By: /s/  R. Seth Bullock                
+
+R. Seth Bullock
+
+Chief Financial Officer
+
+
+
+ 
+
+ 
+
+
+
+Signature Page to Fifth Amendment to Delayed Draw Term Loan Credit Agreement
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+ADMINISTRATIVE AGENT:
+
+  
+
+
+JEFFERIES FINANCE LLC
+
+By: /s/ J. Paul McDonnell                
+
+Name: J. Paul McDonnell
+
+Title: Managing Director
+
+ 
+
+  
+
+
+
+
+
+
+Signature Page to Fifth Amendment to Delayed Draw Term Loan Credit Agreement
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+LENDERS(EACH EXECUTING WITH RESPECT TO ITS LOANS AND TRANCHE B LOANS):
+
+ 
+
+WB DELTA, LTD.,
+
+as a Lender
+
+ 
+
+By: /s/ Mark Strefling                 
+
+Name: Mark Strefling 
+
+Title: Director
+
+ 
+
+
+
+
+
+
+
+Signature Page to Fifth Amendment to Delayed Draw Term Loan Credit Agreement
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+ZCOF PAR PETROLEUM HOLDINGS, L.L.C.,
+
+as a Lender
+
+ 
+
+
+
+
+ 
+
+By: /s/ Jon Wasserman               
+
+Name: Jon Wasserman
+
+Title: Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signature Page to Fifth Amendment to Delayed Draw Term Loan Credit Agreement
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+WATERSTONE OFFSHORE ER FUND, LTD.,
+
+as a Lender
+
+
+
+
+By: Waterstone Capital Management, L.P.
+
+
+
+
+By: /s/ Jeffrey C. Erb                  
+
+Name:  Jeffrey C. Erb
+
+Title:  General Counsel
+
+
+
+
+
+
+
+PRIME CAPITAL MASTER SPC, GOT WAT
+
+ 
+
+MAC SEGREGATED PORTFOLIO, as a Lender
+
+ 
+
+By: Waterstone Capital Management, L.P.
+
+ 
+
+By: /s/ Jeffrey C. Erb                  
+
+Name:  Jeffrey C. Erb
+
+Title:  General Counsel
+
+
+
+
+
+
+
+WATERSTONE MARKET NEUTRAL MAC51, LTD.,
+
+as a Lender
+
+
+
+
+By: Waterstone Capital Management, L.P.
+
+
+
+
+By:  /s/ Jeffrey C. Erb                  
+
+Name:  Jeffrey C. Erb
+
+Title:  General Counsel
+
+
+
+
+
+
+
+WATERSTONE MARKET NEUTRAL MASTER
+
+ 
+
+FUND, LTD., as a Lender
+
+ 
+
+By: Waterstone Capital Management, L.P.
+
+
+
+
+By:/s/ Jeffrey C. Erb                  
+
+Name: Jeffrey C. Erb
+
+Title: General Counsel
+
+
+
+
+
+
+
+WATERSTONE MF FUND, LTD., as a Lender
+
+ 
+
+By: Waterstone Capital Management, L.P.
+
+ 
+
+By: /s/ Jeffrey C. Erb                  
+
+Name: Jeffrey C. Erb
+
+Title: General Counsel
+
+
+
+
+
+
+
+Signature Page to Fifth Amendment to Delayed Draw Term Loan Credit Agreement
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+NOMURA WATERSTONE MARKET
+
+NEUTRAL FUND LTD., as a Lender
+
+
+
+
+ 
+
+By: Waterstone Capital Management, L.P.
+
+ 
+
+By: /s/ Jeffrey C. Erb                  
+
+Name:  Jeffrey C. Erb
+
+Title:  General Counsel
+
+
+
+
+ 
+
+WATERSTONE OFFSHORE BLR FUND, LTD.,
+
+as a Lender
+
+
+
+
+By: Waterstone Capital Management, L.P.
+
+By: /s/ Jeffrey C. Erb                  
+
+Name:  Jeffrey C. Erb
+
+Title:  General Counsel
+
+
+
+
+
+
+
+WATERSTONE DISTRESSED OPPORTUNITIES BLR FUND, LTD.,
+
+as a Lender
+
+
+
+
+By: Waterstone Capital Management, L.P.
+
+
+
+
+By: /s/ Jeffrey C. Erb                  
+
+Name:  Jeffrey C. Erb
+
+Title:  General Counsel
+
+
+
+
+
+
+
+WATERSTONE OFFSHORE AD BLR FUND LTD.,
+
+as a Lender
+
+ 
+
+By: Waterstone Capital Management, L.P.
+
+ 
+
+By: /s/ Jeffrey C. Erb                  
+
+Name:  Jeffrey C. Erb
+
+Title:  General Counsel
+
+
+
+
+
+
+
+
+
+
+Signature Page to Fifth Amendment to Delayed Draw Term Loan Credit Agreement
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+HIGHBRIDGE INTERNATIONAL, LLC,
+
+as a Lender
+
+By: Highbridge Capital Management, LLC,
+
+as Trading Manager
+
+
+
+
+
+
+
+
+
+
+By: /s/ Jonathan Segal            
+
+Name: Jonathan Segal
+
+Title: Managing Director
+
+
+
+
+Signature Page to Fifth Amendment to Delayed Draw Term Loan Credit Agreement
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+

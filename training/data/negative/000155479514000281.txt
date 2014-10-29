@@ -1,0 +1,4417 @@
+
+EX-10.24
+6
+reservereport.htm
+EXHIBIT 10.24
+
+
+
+     
+
+
+
+
+
+ Exhibit
+10.24
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESTIMATED
+PROVED
+RESERVES AND
+FUTURE
+NET REVENUE
+AS OF
+
+DECEMBER
+31, 2013
+
+ 
+
+ATTRIBUTABLE
+TO INTERESTS
+OWNED
+BY
+
+PETRON
+ENERGY
+II, INC. IN CERTAIN
+PROPERTIES
+LOCATED
+IN
+
+OKLAHOMA
+AND TEXAS
+
+ 
+
+(SEC
+CASE)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FORREST
+A. GARB
+& ASSOCIATES,
+INC.
+
+ 
+
+INTERNATIONAL
+PETROLEUM
+CONSULTANTS
+
+
+     
+     
+    
+
+
+
+FORREST A.
+GARB & ASSOCIATES, INC. 
+
+ 
+
+INTERNATIONAL
+PETROLEUM
+CONSULTANTS
+
+5310
+HARVEST
+HILL
+ROAD,
+SUITE
+275, LB 152
+
+DALLAS,
+TEXAS
+75230 - 5805
+
+(972)788-1110
+ Telefax
+(972)991-3160
+ (E
+MAIL)
+forgarb@forgarb.com
+
+ 
+
+ 
+
+ 
+
+ 
+
+March
+18, 2014
+
+ 
+
+ 
+
+ 
+
+Mr.
+Floyd
+Smith
+
+Petron
+Energy
+II,
+Inc.
+
+12850
+Preston
+Road,
+Suite
+960
+
+Dallas,
+TX 75252
+
+ 
+
+ 
+
+Dear
+Mr.
+Smith:
+
+ 
+
+At
+your request,
+Forrest
+A. Garb
+& Associates,
+Inc.
+(FGA) has
+estimated
+the proved
+reserves
+and future
+net revenue,
+as of
+December
+31, 2013, attributable
+to interests
+owned by
+Petron
+Energy
+II,
+Inc.
+(Petron)
+in certain
+oil and
+gas properties
+located
+in Oklahoma
+and Texas.
+It is our understanding
+that the
+reserves
+in this
+report constitute
+100 percent of
+the reserves
+owned by
+Petron.
+ The
+purpose of
+this
+report
+is to
+furnish
+data
+to Petron
+regarding
+their
+reserves
+for inclusion
+in their
+U.S. Securities
+and Exchange
+Commission
+(SEC)
+filings.
+
+ 
+
+This
+report
+has been
+prepared
+using
+the definitions
+and guidelines
+of the
+SEC,
+and with
+the  exception
+of the 
+exclusion
+of future
+income
+taxes,
+conforms
+to  the
+ FASB
+Accounting
+Standards
+Codification
+Topic 932, Extractive
+Industries
+– Oil
+and Gas.
+ These
+guidelines
+specify
+the use of
+a 12-month
+first-day-of-the-month
+average
+benchmark
+price,
+a ten percent
+discount factor,
+ and constant
+ oil 
+and gas prices
+ and costs.
+The  assumptions,
+data,
+methods,
+ and procedures
+used in
+this
+report
+are appropriate
+for the
+purposed of
+this
+report
+as described
+above.
+
+ 
+
+The
+following
+table
+summarizes
+the estimated
+total
+net reserves
+and future
+net revenue,
+as of
+December
+31, 2013:
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+     
+    Estimated Net Reserves 1
+    Estimated Future Net Revenue 
+
+
+
+     
+     
+        Oil
+     
+     
+        Gas
+     
+        Undiscounted
+     
+    Discounted
+        at
+        10% Per
+        Year3
+
+      Reserve
+    Category  
+           (MBbl)2
+    	
+     
+        (MMcf)2
+    	
+             (M$)2
+    	
+     
+                 (M$)2
+    	
+
+    Proved
+    Developed
+     
+     
+     
+     
+     
+     
+
+    Producing
+    25.520
+     
+    193.611
+    1,838.544
+     
+    1,246.813
+
+    Non-producing
+                   10.158
+     
+               0.000
+
+                679.690
+     
+                546.010
+
+    Total
+    Proved4
+    35.678
+     
+    193.611
+    2,518.234
+     
+    1,792.823
+
+ 
+
+1 The
+definitions
+for
+all reserves
+incorporated
+in this
+study
+have
+been
+set forth
+in this
+report.
+
+2
+MBbl
+= thousands
+of barrels,
+MMcf
+= millions
+of cubic
+feet, M$
+= thousands
+of dollars.
+
+3
+The
+discounted
+future
+net revenue
+is not
+represented
+to be
+the
+fair market
+value
+of these
+reserves.
+
+4
+ The
+reserves
+and
+revenues
+in the
+summary
+table
+were
+estimated
+using
+the Aries
+economics
+program.
+Due to
+the
+rounding
+procedures
+used
+in this
+program,
+there
+may
+be slight
+differences
+in the
+calculated
+and
+summed
+values.
+
+
+
+     
+     
+    
+
+ 
+
+ENGINEERING
+
+ 
+
+Proved
+oil and
+gas
+reserves
+are
+those quantities
+of oil
+and gas
+which,
+by analysis
+of engineering
+and geoscience
+data,
+can be
+estimated
+with reasonable
+certainty
+to be economically
+producible
+from a
+given
+date
+forward.
+ The basis
+for estimating
+the proved
+producing
+reserves
+was the
+extrapolation
+of historical
+production
+having
+an established
+decline trend.
+Volumetrics
+and/or analogy
+were used
+for forecasting
+properties
+where insufficient
+data
+were
+present
+for production
+decline
+extrapolation.
+Production
+histories
+were obtained
+from published
+production
+data
+and state
+reporting
+records
+purchased
+from a third
+party
+provider,
+HPDI,
+LLC, and
+supplemented
+with data
+provided
+by Petron.
+ The reserves
+for other
+reserve
+categories
+were
+estimated
+by analogy
+to adjacent
+comparable
+wells. Petron
+provided
+the available
+geologic
+and engineering
+data for
+FGA's
+review.
+FGA has
+accepted
+Petron’s
+intent
+to recomplete
+the proved
+developed
+non-producing
+properties.
+
+ 
+
+The
+analysis
+and findings
+presented
+in this
+report,
+represent
+FGA’s informed
+judgments
+based
+on accepted
+standards
+of professional
+engineering
+practice,
+but are
+subject to
+the generally
+recognized
+and unforeseen
+risks
+associated
+with the
+interpretation
+of geological,
+geophysical,
+and engineering
+data.
+ Estimates
+of reserves
+were
+prepared
+by the
+use of
+appropriate
+geologic,
+petroleum
+engineering,
+and evaluation
+principles
+and techniques
+which
+are
+in accordance
+with practices
+generally
+recognized
+by the petroleum
+industry.
+Future
+changes
+in federal,
+state,
+or local
+regulations
+may
+adversely
+impact
+the ability
+to recover
+the future
+oil and gas
+volumes
+expected.
+Changes
+in economic
+and market
+conditions
+from the
+assumptions
+and parameters
+used in
+this
+study may
+cause
+the total
+quantity
+of future
+oil or
+gas recovered,
+actual
+production
+rates,
+prices
+received,
+operating
+expenses
+and capital
+costs
+to vary
+from the
+results
+presented
+in this
+report.
+
+ 
+
+Gas
+volumes
+are expressed
+in millions
+of cubic
+feet (MMcf)
+at standard
+temperature
+and pressure.
+ Gas
+sales
+imbalances
+have not
+been taken
+into
+account in
+the reserve
+estimates.
+ The oil
+reserves
+shown in this
+study
+include
+crude
+oil and/or
+condensate.
+Oil volumes
+are expressed
+in thousands
+of barrels
+(MBbl),
+with one
+barrel
+equivalent
+to 42
+United
+States
+gallons.
+
+ 
+
+ECONOMIC
+CONSIDERATIONS
+
+ 
+
+The
+benchmark
+oil and
+gas
+prices
+used in
+this
+study are
+the average
+of the
+first-
+day-of-the-month
+spot prices
+posted
+for the
+West
+Texas
+Intermediate
+(WTI) oil
+and Henry
+Hub natural
+gas, per
+SEC guidelines.
+Oil prices
+are based
+on a benchmark
+price
+of
+
+$96.90
+per barrel
+and have
+been
+adjusted
+by lease
+for
+gravity,
+transportation
+fees, and
+regional
+price
+differentials.
+ Gas
+prices
+per thousand
+cubic
+feet
+(MCF)
+are based
+on a
+
+benchmark
+price
+of $3.67 per
+million British
+thermal
+units (MMBtu)
+and have
+been adjusted
+by lease
+for
+Btu
+content,
+transportation
+fees, and regional
+price
+differentials.
+The average
+realized
+prices
+were
+$96.90 per barrel
+for oil
+and $3.67
+per MMBtu
+for gas.
+The oil and gas
+prices
+are held constant
+for the economic
+life of the
+properties as specified
+by the
+SEC.
+
+ 
+
+Lease
+operating
+costs
+and
+capital
+expenditures,
+as required
+for workovers,
+future
+development
+of new
+wells,
+and for
+production
+equipment,
+were provided
+by Petron
+for FGA’s
+review.
+ All
+costs have
+been
+held
+constant
+in this
+evaluation.
+Existing
+or potential
+liabilities
+stemming
+from
+environmental
+conditions
+caused
+by current
+or past
+operating
+practices
+have
+not been
+considered
+in this
+report.
+ No costs
+were included
+for abandonment,
+as these
+not considered
+material.
+No costs are
+included
+in the projections
+
+
+
+     
+     
+    
+
+ 
+
+of
+future
+net
+revenue
+or in
+our economic
+analyses
+to restore,
+repair,
+or improve
+the environmental
+conditions
+of the
+properties
+studied
+to meet
+existing
+or future
+local,
+state,
+or federal
+regulations.
+
+ 
+
+Petron
+provided
+ownership
+interests
+in the
+properties,
+and FGA
+accepted
+the extent
+and character
+of ownership
+(working
+interest
+and net
+revenue
+interest)
+as represented.
+Our staff
+conducted
+no independent
+well tests,
+property
+inspections,
+or audits of completion
+and operating
+expenses
+as part
+of this study.
+
+ 
+
+The
+estimated
+future
+net
+revenues
+shown are
+those
+which
+should be realized
+from the
+sale
+of estimated
+oil and
+gas
+reserves
+after
+the deduction
+of severance
+taxes,
+ad valorem
+taxes,
+direct
+operating
+costs,
+and future
+capital
+expenditures.
+ No deductions
+have been made
+for overhead,
+federal
+income
+taxes,
+or other indirect
+costs, such
+as interest
+expense
+and loan
+repayments.
+Surface
+and well
+equipment
+salvage
+values
+have not been
+considered
+in the
+revenue
+projections.
+The estimated
+reserves
+included
+in the
+cash flow
+projections
+have not
+been adjusted
+for risk.
+ The reserves
+included
+in this
+study are
+estimates
+only and should
+not be construed
+as exact
+quantities.
+Future
+conditions may
+affect
+recovery
+of estimated
+reserves
+and revenue,
+and all
+categories
+of reserves
+may be
+subject
+to revision
+as more
+performance
+data
+become
+available.
+
+ 
+
+Grand
+total
+summary
+economic
+projections
+by reserve
+category
+and category
+summaries
+(including
+one-line
+summaries
+for the
+individual
+properties)
+are presented
+in Attachment
+A.
+
+ 
+
+Attachment
+ B  presents
+ the  definitions
+of  proved
+ oil 
+and  gas
+ reserves
+ in accordance
+with the
+SEC. 
+General
+comments
+regarding
+this
+report
+and the
+estimation
+of future
+reserves
+and revenue
+are presented
+in Attachment
+C.  Attachment
+D contains
+the consulting
+firm
+profile.
+
+ 
+
+FGA
+is an
+independent
+firm
+of geologists
+and petroleum
+engineers.
+ Neither
+the firm
+nor its
+employees
+own any
+interest
+in the
+properties
+studied,
+nor have
+we been
+employed
+on a contingency
+basis. FGA
+has used
+all necessary
+methods
+and procedures
+in the
+preparation
+of this
+report for
+the
+evaluation
+of these
+properties.
+
+ 
+
+We
+appreciate
+the opportunity
+to submit
+this
+evaluation.
+ Should
+you have
+any questions,
+please
+do not hesitate
+to call.
+
+ 
+
+This
+report
+was
+prepared
+under the
+supervision
+of W.D.
+Harris
+III,
+Registered
+
+Professional
+Engineer
+No. 75222,
+State
+of Texas
+and completed
+on March
+18, 2014.
+
+ 
+
+Yours
+truly,
+
+ 
+
+ 
+
+ 
+
+Forrest
+A. Garb
+& Associates,
+Inc.
+
+Texas
+Registered
+Engineering
+Firm
+F-629
+
+ 
+
+ 
+
+ 
+
+W. D.
+Harris III
+
+Chief
+Executive
+Officer
+
+Forrest
+A. Garb
+& Associates,
+Inc.
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATTACHMENTS
+
+ 
+
+ 
+
+A. CATEGORY
+AND ONE-LINE SUMMARIES
+
+ 
+
+B. DEFINITIONS
+FOR OIL AND GAS RESERVES C.  GENERAL COMMENTS
+
+D. CONSULTING
+FIRM PROFILE
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATTACHMENT
+A
+
+ 
+
+ 
+
+CATEGORY
+AND ONE-LINE SUMMARIES
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROVED
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATTACHMENT A-1
+
+
+
+     
+     
+    
+
+ 
+
+  
+
+ 
+
+ATTACHMENT A-2
+
+
+
+
+
+     
+     
+    
+
+FORREST
+A. GARB & ASSOCIATES, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROVED DEVELOPED
+PRODUCING
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+FORREST
+A. GARB & ASSOCIATES, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROVED
+DEVELOPED NON-PRODUCING
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATTACHMENT
+B
+
+ 
+
+ 
+
+DEFINITIONS
+FOR OIL AND GAS RESERVES
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+DEFINITIONS
+FOR OIL AND GAS RESERVES*
+
+ 
+
+ 
+
+ 
+
+(1)
+Acquisition of properties.
+Costs incurred to
+purchase, lease
+or otherwise acquire
+a property, including costs of
+lease bonuses and options
+to purchase
+or lease properties, the
+portion of costs
+applicable to minerals
+when land
+including mineral
+rights is
+purchased in
+fee, brokers' fees,
+recording fees, legal costs,
+and other costs
+incurred in acquiring
+properties.
+
+ 
+
+(2)
+Analogous reservoir.
+Analogous reservoirs, as
+used in resources
+assessments, have similar
+rock and fluid
+properties, reservoir
+conditions (depth, temperature,
+and pressure) and
+drive mechanisms, but
+are typically
+at a more advanced
+stage of
+development than the
+reservoir of interest and
+thus may
+provide concepts to
+assist in the
+interpretation of more
+limited data
+and estimation of
+recovery. When
+used to support
+proved reserves,
+an “analogous reservoir”
+refers to a reservoir that shares
+the following
+characteristics with
+the reservoir of
+interest:
+
+ 
+
+(i)
+Same
+geological formation
+(but not necessarily
+in pressure communication
+with the reservoir of
+interest);
+
+ 
+
+(ii)
+Same environment
+of deposition;
+
+(iii) Similar
+geological structure; and
+
+(iv)
+Same drive mechanism.
+
+(3)
+Bitumen. Bitumen, sometimes
+referred to as
+natural bitumen,
+is petroleum
+in a solid or
+semi- solid state in
+natural deposits with
+a viscosity greater
+than 10,000
+centipoise measured
+at original temperature
+in the deposit
+and atmospheric
+pressure, on a gas
+free basis. In
+its natural state it usually contains
+sulfur, metals,
+and other non-hydrocarbons.
+
+ 
+
+(4)
+Condensate. Condensate
+is a mixture
+of hydrocarbons that exists
+in the gaseous
+phase at original reservoir
+temperature
+and pressure, but
+that,
+when produced,
+is in the
+liquid phase
+at surface pressure
+and temperature.
+
+ 
+
+(5)
+Deterministic estimate.
+The method of
+estimating
+reserves or
+resources is called
+deterministic when
+a single value for
+each parameter
+(from the
+geoscience, engineering, or
+economic data)
+in the reserves
+calculation is
+used in the
+reserves estimation
+procedure.
+
+ 
+
+(6)
+Developed oil and
+gas reserves.
+Developed oil and
+gas reserves
+are reserves
+of any category that can
+be expected to
+be recovered:
+
+ 
+
+(i)
+Through existing
+wells with existing
+equipment
+and operating
+methods or
+in which the cost
+of the required
+equipment is
+relatively minor
+compared
+to the cost
+of a new well; and
+
+ 
+
+(ii) Through
+installed
+extraction equipment
+and infrastructure
+operational at the time
+of the reserves estimate
+if the extraction
+is by means
+not involving a well.
+
+ 
+
+ 
+
+ 
+
+ 
+
+*These
+Reserves Definitions
+are those included
+in the Securities
+and Exchange
+Commission
+Regulation S-X as
+of January 1,
+2010.
+
+ 
+
+ATTACHMENT
+B-1
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+(7)
+Development costs.
+Costs incurred to
+obtain access to
+proved reserves and
+to provide facilities for
+extracting, treating, gathering
+and storing
+the oil and
+gas. More specifically,
+development costs, including
+depreciation and applicable
+operating costs
+of support equipment
+and facilities
+and other costs
+of development activities, are
+costs incurred
+to:
+
+ 
+
+(i)
+Gain access to
+and prepare
+well locations
+for drilling,
+including surveying
+well locations for the
+purpose of determining
+specific development
+drilling sites, clearing ground,
+draining, road
+building,
+and relocating
+public roads, gas
+lines, and
+power lines, to the
+extent necessary in
+developing the proved
+reserves.
+
+ 
+
+(ii)
+Drill and equip
+development wells, development-type
+stratigraphic test wells,
+and service wells,
+including the costs
+of platforms and
+of well equipment
+such as casing,
+tubing, pumping
+equipment,
+and the wellhead
+assembly.
+
+ 
+
+(iii) Acquire,
+construct, and install production
+facilities such as lease flow
+lines, separators, treaters,
+heaters,
+manifolds, measuring
+devices, and production
+storage
+tanks, natural gas cycling
+and processing plants,
+and central utility and
+waste disposal systems.
+
+ 
+
+(iv)
+Provide improved
+recovery systems.
+
+ 
+
+(8)
+Development project.
+A development
+project is the
+means by which petroleum
+resources are brought
+to the
+status of economically
+producible.
+As examples,
+the development
+of a single reservoir or
+field, an incremental
+development
+in a producing field,
+or the
+integrated development of a group
+of several fields
+and associated facilities
+with a common
+ownership may constitute
+a development project.
+
+ 
+
+(9)
+Development well.
+A well drilled
+within the proved
+area of an
+oil or gas reservoir
+to the depth
+of a stratigraphic horizon
+known to
+be productive.
+
+ 
+
+(10)
+Economically producible.
+The term economically
+producible, as
+it relates to a resource, means a
+resource which
+generates revenue
+that exceeds, or is
+reasonably expected
+to exceed, the costs
+of the operation.
+The value of
+the products
+that generate
+revenue
+shall be determined
+at the terminal
+point of oil and
+gas producing
+activities as defined in
+paragraph (a)(16) of
+this section.
+
+ 
+
+(11)
+Estimated ultimate recovery
+(EUR). Estimated
+ultimate recovery
+is the sum
+of reserves remaining
+as of a given date
+and cumulative
+production
+as of that date.
+
+ 
+
+(12)
+Exploration costs.
+Costs incurred in
+identifying
+areas that may
+warrant examination
+and in examining
+specific areas
+that are
+considered to
+have prospects
+of containing oil and
+gas reserves, including costs
+of drilling exploratory
+wells and
+exploratory-type
+stratigraphic test wells. Exploration
+costs may
+be incurred
+both before acquiring
+the related property
+(sometimes referred to
+in part as
+prospecting costs) and
+after acquiring
+the property.
+Principal types
+of exploration costs, which
+include depreciation and
+applicable
+operating costs of
+support equipment
+and facilities and other costs
+of exploration activities,
+are:
+
+ 
+
+(i)
+Costs of topographical,
+geographical and geophysical
+studies, rights of
+access to properties to
+conduct those
+studies, and salaries
+and other expenses
+of geologists,
+geophysical crews,
+and others conducting
+those studies.
+Collectively, these are sometimes
+referred to
+as geological and
+geophysical or
+G&G
+costs.
+
+ 
+
+ATTACHMENT
+B-2
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+(ii)
+Costs of carrying
+and retaining
+undeveloped
+properties, such as
+delay rentals, ad valorem
+taxes on properties,
+legal costs for title
+defense, and the
+maintenance
+of land and lease records.
+
+ 
+
+(iii)
+Dry hole contributions and bottom
+hole contributions.
+
+(iv) Costs of drilling
+and equipping exploratory
+wells.
+
+(v)
+Costs of drilling
+exploratory-type
+stratigraphic test wells.
+
+ 
+
+(13)
+Exploratory well. An
+exploratory well
+is a well drilled
+to find a new
+field or to
+find a new reservoir in
+a field previously
+found to be
+productive of
+oil or gas in
+another reservoir.
+Generally, an exploratory
+well is any
+well that is not
+a development well,
+an extension well, a service
+well, or a stratigraphic test
+well as
+those items
+are defined in
+this section.
+
+ 
+
+(14)
+Extension well. An extension
+well is a well
+drilled to extend
+the limits
+of a known reservoir.
+
+(15)
+Field. An area consisting of a single reservoir or mutiple reservoirs all grouped on or related to
+the same
+individual geological
+structural feature and/or
+stratigraphic condition.
+There may be two
+or more
+reservoirs in
+a field that are separated
+vertically by
+intervening impervious,
+strata, or laterally by
+local geologic barriers, or
+by both.
+Reservoirs that are associated
+by being in overlapping
+or adjacent fields
+may be treated as
+a single or
+common operational field.
+The geological terms structural
+feature and stratigraphic
+condition
+are intended to
+identify localized geological
+features as opposed
+to the broader
+terms
+of basins,
+trends, provinces,
+plays,
+areas-of- interest, etc.
+
+ 
+
+(16)
+Oil and
+gas producing
+activities. (i) Oil
+and gas producing
+activities include:
+
+ 
+
+(A) The search for crude oil,
+including condensate
+and natural gas liquids, or natural
+gas (“oil and gas”) in their natural states and original locations;
+
+ 
+
+(B)
+The acquisition of
+property
+rights or
+properties for the
+purpose
+of further exploration
+or for the
+purpose
+of removing
+the
+oil or gas
+from such properties;
+
+ 
+
+(C)
+The construction, drilling,
+and production activities necessary
+to retrieve oil and
+gas from their natural
+reservoirs, including the
+acquisition, construction, installation,
+and maintenance of field
+gathering and
+storage
+systems,
+such as:
+
+ 
+
+(
+1 ) Lifting the
+oil and gas to
+the surface; and
+
+ 
+
+(
+2 ) Gathering, treating,
+and field processing
+(as in the
+case of processing
+gas to extract liquid hydrocarbons);
+and
+
+ 
+
+(D)
+Extraction of saleable hydrocarbons,
+in the solid,
+liquid, or gaseous
+state, from oil sands, shale,
+coalbeds, or other
+nonrenewable natural
+resources which
+are intended to
+be upgraded into synthetic
+oil or gas,
+and activities undertaken
+with a view to
+such extraction.
+
+ 
+
+ATTACHMENT
+B-3 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+(17)
+Possible reserves.
+Possible reserves are
+those additional reserves
+that are less certain to
+be recovered than probable
+reserves.
+
+ 
+
+(i)
+When deterministic
+methods are used,
+the total quantities
+ultimately recovered
+from a project have
+a low probability of
+exceeding proved
+plus probable plus
+possible reserves. When
+probabilistic methods
+are used, there
+should be at least a 10%
+probability that
+the total quantities ultimately
+recovered will
+equal or exceed
+the proved plus
+probable plus possible reserves
+estimates.
+
+ 
+
+(ii)
+Possible reserves
+may be
+assigned to areas
+of a reservoir
+adjacent to
+probable reserves where
+data control
+and interpretations of
+available data are progressively
+less certain. Frequently,
+this will be in
+areas where geoscience
+and engineering data
+are unable to define clearly
+the area and
+vertical limits of
+commercial production
+from the reservoir
+by
+
+a defined
+project.
+
+ 
+
+(iii) Possible
+reserves also include
+incremental quantities associated
+with a greater percentage recovery
+of the hydrocarbons
+in place than the
+recovery quantities assumed for
+probable reserves.
+
+ 
+
+(iv)
+The proved plus
+probable and proved
+plus probable plus
+possible reserves
+estimates must
+be based
+on reasonable alternative
+technical and
+commercial interpretations
+within the reservoir or
+subject project that are
+clearly
+documented, including comparisons
+to results in successful
+similar
+projects.
+
+ 
+
+(v)
+Possible reserves
+may be
+assigned where geoscience
+and engineering data
+identify directly adjacent
+portions of a reservoir
+within the same
+accumulation
+that may be separated
+from proved
+areas by faults
+with displacement
+less than formation
+thickness or other geological
+discontinuities and
+that have not been
+penetrated by a wellbore,
+and the registrant believes
+that such adjacent
+portions are
+in communication with
+the known (proved) reservoir.
+Possible reserves
+may be
+assigned to areas
+that are structurally
+higher or lower than
+the proved area
+if these areas
+are in communication
+with the proved reservoir.
+
+ 
+
+(vi)
+Pursuant to paragraph
+(a)(22)(iii) of this
+section, where direct
+observation has defined a highest
+known oil (HKO) elevation
+and the potential
+exists for an
+associated gas cap, proved
+oil reserves should be
+assigned in the
+structurally higher portions
+of the reservoir above
+the HKO only
+if the higher
+contact can be
+established with reasonable certainty
+through reliable technology.
+Portions of the
+reservoir that do not
+meet
+this reasonable certainty
+criterion may
+be assigned as
+probable and possible
+oil or gas
+based on reservoir fluid
+properties and pressure
+gradient interpretations.
+
+ 
+
+(18)
+Probable reserves.
+Probable reserves
+are those additional
+reserves that are
+less certain to
+be recovered than proved
+reserves but
+which, together with
+proved reserves, are
+as likely
+as not to
+be recovered.
+
+ 
+
+(i)
+When deterministic
+methods are used,
+it is as
+likely as not
+that actual remaining quantities
+recovered will exceed the
+sum of estimated
+proved plus probable
+reserves. When probabilistic methods
+are used, there
+should be at least a 50%
+probability that
+the actual quantities recovered will
+equal or exceed
+the proved plus
+probable reserves estimates.
+
+ 
+
+ATTACHMENT
+B-4 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+(ii)
+Probable reserves
+may be
+assigned to areas
+of a reservoir
+adjacent to
+proved reserves where
+data control
+or interpretations
+of available data
+are less
+certain, even
+if the interpreted reservoir
+continuity of structure
+or productivity does
+not meet the reasonable
+certainty criterion. Probable
+reserves may
+be assigned to
+areas that are structurally
+higher than the proved
+area if these
+areas are
+in communication
+with the proved
+reservoir.
+
+ 
+
+(iii) Probable
+reserves estimates
+also include potential
+incremental quantities
+associated with a greater percentage
+recovery of
+the hydrocarbons
+in place than assumed
+for proved reserves.
+
+ 
+
+(iv)
+See also guidelines
+in paragraphs (a)(17)(iv)
+and (a)(17)(vi) of
+this section. 
+
+(19) Probabilistic
+estimate. The method of estimation of reserves or resources is called probabilistic when
+the full range
+of values that could
+reasonably occur for
+each unknown parameter (from
+the geoscience and
+engineering data) is
+used to generate
+a full range of
+possible outcomes
+and their associated
+probabilities of occurrence.
+
+ 
+
+(20)
+Production costs.
+(i) Costs incurred
+to operate and
+maintain wells
+and related equipment
+and facilities, including depreciation and
+applicable operating
+costs of support
+equipment and facilities and other
+costs of operating
+and maintaining
+those wells and
+related equipment and facilities.
+They become part
+of the cost
+of oil and gas
+produced. Examples
+of production costs (sometimes
+called lifting costs)
+are:
+
+ 
+
+(A)
+Costs of labor
+to operate the
+wells and
+related equipment and facilities.
+
+(B) Repairs and maintenance.
+
+(C)
+Materials, supplies,
+and fuel consumed
+and supplies utilized in
+operating the
+wells and related equipment
+and facilities.
+
+ 
+
+(D)
+Property taxes and
+insurance applicable to
+proved properties
+and wells and
+related equipment and
+facilities.
+
+ 
+
+(E)
+Severance taxes.
+
+ 
+
+(ii)
+Some support
+equipment
+or facilities may serve
+two or more
+oil and gas producing
+activities and may
+also serve transportation,
+refining, and
+marketing activities. To
+the extent that the support
+equipment and facilities are
+used in oil and
+gas producing
+activities, their depreciation and applicable
+operating costs become
+exploration, development
+or production
+costs, as appropriate. Depreciation,
+depletion, and amortization
+of capitalized acquisition, exploration,
+and development costs
+are not production
+costs but
+also become
+part of the
+cost of oil
+and gas produced along
+with production
+(lifting) costs
+identified above.
+
+ 
+
+(21)
+Proved area. The
+part of a property
+to which proved
+reserves have
+been specifically attributed.
+
+ 
+
+ATTACHMENT
+B-5 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+(22)
+Proved oil and gas
+reserves. Proved oil and
+gas reserves are
+those quantities
+of oil and gas,
+which, by analysis
+of geoscience and
+engineering data, can
+be estimated
+with reasonable
+certainty to be
+economically producible—from
+a given date
+forward, from
+known reservoirs,
+and under existing economic
+conditions, operating methods,
+and government
+regulations—prior to the
+time at which
+contracts providing the
+right to operate
+expire, unless evidence
+indicates that renewal
+is reasonably certain, regardless
+of whether deterministic
+or probabilistic
+methods are
+used for the estimation.
+The
+project to extract the
+hydrocarbons must have commenced
+or the operator
+must be reasonably
+certain that it will commence the project
+within a reasonable time.
+
+ 
+
+(i)
+The area of
+the reservoir considered
+as proved includes:
+
+(A)
+The area identified
+by drilling and
+limited by
+fluid contacts,
+if any,
+and
+
+ 
+
+(B)
+Adjacent undrilled portions
+of the reservoir
+that can, with reasonable certainty,
+be judged
+to be continuous
+with it and
+to contain
+economically producible oil or
+gas on the
+basis of available geoscience
+and engineering data.
+
+ 
+
+(ii)
+In the absence
+of data on
+fluid contacts, proved
+quantities in a reservoir
+are limited
+by the lowest known
+hydrocarbons
+(LKH) as seen
+in a well penetration
+unless geoscience, engineering, or
+performance
+data and reliable technology
+establishes a lower
+contact with reasonable
+certainty.
+
+ 
+
+(iii) Where
+direct observation
+from well penetrations
+has defined a highest
+known oil (HKO) elevation
+and the potential
+exists for
+an associated gas
+cap, proved oil reserves may
+be assigned in
+the structurally higher
+portions of
+the reservoir only
+if geoscience, engineering, or
+performance
+data and reliable technology
+establish the higher
+contact with reasonable
+certainty.
+
+ 
+
+(iv)
+Reserves which can
+be produced economically
+through application
+of improved recovery
+techniques (including,
+but not limited
+to, fluid
+injection) are
+included in the proved
+classification when:
+
+ 
+
+(A)
+Successful
+testing by a pilot
+project in an
+area of the
+reservoir with properties no
+more favorable
+than in the
+reservoir as
+a whole, the operation
+of an installed program
+in the reservoir
+or an analogous
+reservoir, or other evidence
+using reliable technology
+establishes the
+reasonable certainty
+of the
+engineering analysis
+on which
+the project or
+program
+was based; and
+
+ 
+
+(B)
+The project has
+been approved
+for development by
+all necessary parties
+and entities, including governmental
+entities.
+
+ 
+
+(v)
+Existing economic
+conditions
+include prices and
+costs at which economic
+producibility
+from a reservoir is
+to be determined.
+The price shall
+be the average
+price during the 12-month
+period prior
+to the ending
+date of the
+period covered
+by the
+report, determined
+as an unweighted
+arithmetic average of
+the first-day-of-the-month
+price for each
+month within
+such period, unless
+prices are defined
+by contractual arrangements,
+excluding escalations based
+upon future
+conditions.
+
+ 
+
+ATTACHMENT
+B-6 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+(23)
+Proved properties. Properties
+with proved reserves.
+
+ 
+
+(24)
+Reasonable certainty. If
+deterministic
+methods are
+used, reasonable
+certainty means
+a high degree of confidence
+that the quantities will be
+recovered. If probabilistic
+methods are used,
+there should be at least a 90%
+probability
+that
+the quantities actually
+recovered will equal or
+exceed the estimate.
+A high degree
+of confidence exists
+if the
+quantity is
+much
+more
+likely to be
+achieved than not, and, as
+changes due to
+increased availability of
+geoscience (geological, geophysical,
+and geochemical), engineering,
+and economic
+data are made
+to estimated ultimate recovery
+(EUR) with time, reasonably certain EUR
+is much
+more
+likely to increase
+or remain
+constant than to decrease.
+
+ 
+
+(25)
+Reliable technology. Reliable
+technology is
+a grouping
+of one or
+more technologies (including
+computational
+methods) that has been
+field tested and
+has been
+demonstrated
+to provide reasonably
+certain results with consistency
+and repeatability in
+the formation
+being evaluated or in
+an analogous
+formation.
+
+ 
+
+(26)
+Reserves. Reserves
+are estimated
+remaining quantities of
+oil and gas and
+related substances anticipated to be economically
+producible,
+as of a given
+date, by application
+of development projects
+to known accumulations.
+In addition, there
+must exist, or
+there must
+be a reasonable expectation that there
+will exist, the legal right
+to produce
+or a revenue interest
+in the production,
+installed means
+of delivering oil and
+gas or related
+substances to market,
+and all permits
+and financing required
+to implement
+the project.
+
+ 
+
+Note
+to paragraph
+(a)(26): Reserves
+should not be
+assigned to adjacent
+reservoirs isolated
+by major, potentially sealing,
+faults until those
+reservoirs are penetrated
+and evaluated as economically
+producible.
+Reserves should not
+be assigned to
+areas that are clearly
+separated from a known accumulation
+by a non-productive
+reservoir ( i.e.
+, absence of
+reservoir, structurally low reservoir,
+or negative test results).
+Such areas may
+contain prospective resources
+( i.e. ,
+
+potentially
+recoverable resources
+from undiscovered
+accumulations).
+
+ 
+
+(27)
+Reservoir. A
+porous and
+permeable underground
+formation containing a natural
+accumulation
+of producible oil and/or
+gas that is confined
+by impermeable rock
+or water barriers
+and is individual
+and separate from
+other reservoirs.
+
+ 
+
+(28)
+Resources. Resources are
+quantities of oil and
+gas estimated
+to exist in
+naturally
+occurring accumulations.
+A portion of
+the resources
+may be
+estimated to be recoverable,
+and another portion
+may be
+considered to be
+unrecoverable. Resources
+include both discovered
+and undiscovered accumulations.
+
+ 
+
+(29)
+Service well. A well
+drilled or completed
+for the purpose
+of supporting
+production in an
+existing field. Specific
+purposes of service
+wells include
+gas injection, water
+injection, steam injection,
+air injection,
+salt-water disposal, water
+supply for injection,
+observation, or
+injection
+for in-situ combustion.
+
+ 
+
+(30)
+Stratigraphic
+test well. A stratigraphic test
+well is a drilling effort,
+geologically directed,
+to obtain information
+pertaining to
+a specific geologic
+condition. Such
+wells customarily are
+drilled without the intent
+of being completed
+for hydrocarbon
+production. The
+classification
+also includes tests identified as
+core tests and
+all types of
+expendable holes
+related to hydrocarbon
+exploration. Stratigraphic tests
+are classified as
+“exploratory type”
+if not drilled
+in a known area
+or “development type”
+if drilled
+in a known area.
+
+ 
+
+ATTACHMENT
+B-7 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+(31)
+Undeveloped oil and
+gas reserves.
+Undeveloped oil and gas
+reserves are
+reserves of
+any category that are
+expected to be
+recovered from
+new wells on
+undrilled
+acreage, or from
+existing wells where
+a relatively major
+expenditure is
+required for recompletion.
+
+ 
+
+(i)
+Reserves on undrilled
+acreage shall be
+limited
+to those directly
+offsetting development spacing
+areas that are reasonably
+certain of production
+when drilled, unless
+evidence using reliable technology exists
+that establishes reasonable
+certainty of economic
+producibility
+at greater distances.
+
+ 
+
+(ii)
+Undrilled locations can
+be classified
+as having undeveloped
+reserves only if
+a development plan
+has been adopted
+indicating
+that they
+are scheduled to
+be drilled
+within five years,
+unless the specific
+circumstances, justify
+a longer time.
+
+ 
+
+(iii) Under
+no circumstances
+shall estimates
+for undeveloped reserves
+be attributable to any
+acreage for which
+an application of
+fluid injection
+or other
+improved recovery technique
+is contemplated,
+unless such techniques
+have been proved
+effective by actual projects
+in the same
+reservoir or
+an analogous
+reservoir, as defined
+in paragraph (a)(2)
+of this section, or
+by other evidence
+using reliable
+technology establishing reasonable certainty.
+
+ 
+
+(32)
+Unproved properties. Properties
+with no proved
+reserves.
+
+ 
+
+ATTACHMENT
+B-8 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATTACHMENT
+C
+
+GENERAL COMMENTS
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+GENERAL
+COMMENTS
+
+ 
+
+ 
+
+(1)
+The reserve estimates
+presented in
+this report
+have been calculated
+using deterministic
+procedures. The reserves
+shown in this
+report are those
+estimated to
+be recoverable under the
+new guidelines of the Securities
+and Exchange
+Commission (SEC). 
+The definitions for
+oil and gas reserves in accordance with
+SEC Regulation S-X are set
+forth in this report.
+
+ 
+
+(2)
+ The estimated
+future net revenue
+shown in the
+cash flow projections is
+that revenue
+which should be realized
+from the
+sale of the
+estimated net
+reserves.  Surface and
+well equipment
+salvage values have
+not been considered in
+the revenue projections. 
+Future net revenue
+as stated in this report
+is before the
+deduction of federal income tax.
+
+ 
+
+(3)
+ The discounted
+future net revenue
+is not represented
+to be the
+fair market
+value of these
+reserves. The  estimated
+ reserves 
+included  in 
+the  cash  flow 
+projections have 
+not  been adjusted for
+risk.
+
+ 
+
+(4)
+ The reserves
+included in this study
+are estimates
+only and
+should not be
+construed as exact quantities.
+ Future conditions
+may affect recovery
+of estimated reserves
+and revenue, and
+all categories  of  reserves 
+may  be  subject
+ to  revision 
+as  more
+ performance data  become available.
+
+ 
+
+(5)
+ Extent and
+character
+of ownership, oil
+and gas prices,
+production data, direct
+operating costs, required capital
+expenditures, and other
+data furnished have been
+accepted as represented.	No independent
+well tests, property inspections, or
+audits of operating expenses were conducted by
+our staff in conjunction with this study.
+
+ 
+
+(6)
+ If investments
+or business decisions are
+to be made
+in reliance on
+these estimates
+by anyone
+other than our
+client, such a
+person, with the
+approval of
+our client, is
+invited to visit our offices
+at his
+own expense so
+that he can
+evaluate the
+assumptions made
+and the completeness
+and extent of
+the data available
+on which our
+estimates
+are based.
+
+ 
+
+(7) 
+Gas contract differences,
+including take
+or pay
+claims, are not
+considered in this
+report. (8)  Gas sales
+imbalances
+have not been
+taken into
+account in the
+reserve estimates.
+
+(9)
+Unless otherwise stated
+in the text,
+existing or potential
+liabilities stemming from environmental
+conditions caused  by 
+current  or  past 
+operating practices have 
+not  been considered in
+this report. No
+costs are included
+in the
+projections of future
+net revenue or
+in our economic
+analyses to restore,
+repair, or improve the
+environmental conditions of the properties studied to
+meet existing or future
+local, state, or federal regulations.
+
+ 
+
+(10)
+Any distribution of this
+report or
+any part thereof
+must include these
+general comments
+and the cover letter in
+their entirety.
+
+ 
+
+(11)
+This report was
+prepared under
+the supervision
+of W.D. Harris
+III, Registered Professional
+
+Engineer
+No. 75222,
+State of Texas.
+
+ 
+
+ATTACHMENT
+C-1 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATTACHMENT
+D
+
+CONSULTING FIRM PROFILE
+
+
+
+     
+     
+    
+
+FORREST
+A. GARB
+& ASSOCIATES,
+INC.
+
+ 
+
+INTERNATIONAL
+PETROLEUM
+CONSULTANTS
+
+5310
+HARVEST
+HILL ROAD,
+SUITE
+275, LB 152
+
+DALLAS,
+TEXAS
+75230 –
+5805 (972) 788-1110
+Fax (972)
+991-3160
+
+E-Mail:
+forgarb@forgarb.com
+
+
+Web
+Site: www.forgarb.com
+
+
+ 
+
+ 
+
+ 
+
+We
+are pleased
+to present
+this
+profile of
+Forrest
+A. Garb
+& Associates,
+Inc.
+(FGA).  FGA
+is an
+international
+petroleum
+engineering
+and geologic
+consulting firm
+staffed
+by experienced
+engineers
+and geologists.
+Collectively
+our staff
+has more
+than
+a century
+of world-wide
+experience.
+ FGA 
+has 
+no  outside
+ ownership.
+And  the 
+firm  has
+ no 
+direct 
+or  contingent
+participation
+in oil
+or gas
+ventures.
+ There
+are
+no conflicts
+of interest
+or concerns
+about maintaining
+the confidentiality
+of our
+client’s
+data.
+The company
+is dedicated
+to providing
+the highest
+level
+of integrity,
+technology,
+and service.
+
+ 
+
+FGA
+expertise
+includes:
+
+ 
+
+• 
+Exploration
+and Prospect
+Evaluations
+
+• 
+Reserve
+Estimation
+and Evaluation
+Studies
+
+• 
+Fair
+Market
+Value
+Analyses
+
+• 
+Economic
+and Market
+Analyses
+
+• 
+Forensic
+Engineering
+and Expert
+Witness
+Testimony
+
+• 
+Reservoir
+Engineering
+
+• 
+Regional
+and Detailed
+Geological
+Studies
+
+• 
+Numeric
+Simulation
+Studies
+
+• 
+Special
+Computer
+Applications
+
+• 
+Pressure
+Transient
+Test Design,
+Supervision,
+and Evaluation
+
+• 
+Reservoir
+Characterization
+
+• 
+Geostatistical
+Studies
+
+• 
+Oil &
+Gas Production
+Environmental
+Studies
+
+• 
+Minerals
+Evaluations
+
+• 
+Petrophysical
+Analyses
+
+ 
+
+ 
+
+ 
+
+OUR
+SENIOR
+STAFF
+
+
+ 
+
+ 
+
+ 
+
+Mr.
+Forrest
+A. Garb,
+Founder, Chairman
+of the
+Board
+and Chief
+Engineer
+Emeritus,
+with more
+than
+50 years
+of practical
+petroleum
+industry
+experience,
+was a
+staff
+member
+and then
+a principal
+of a major
+consulting
+firm for
+over
+30 years,
+serving
+as president
+and chief
+operating
+officer of this
+firm for the last
+14 of those years.
+During his tenure,
+he supervised
+or prepared
+over 12,500 assignments
+varying
+from simple
+evaluations
+to complex
+reservoir
+simulations.
+Using this
+experience
+as a
+base,
+he assembled
+the
+best work
+system
+offered
+to the
+oil and
+gas industry.
+The  use 
+of  state
+ of  the
+ art 
+computers
+and  office
+ equipment,
+together
+ with 
+an experienced
+staff,
+ensures
+economic service
+to the
+client.
+
+ 
+
+ATTACHMENT
+D-1 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+Mr.
+William D. Harris
+III, P.E.,
+joined
+FGA in
+August 1998,
+and is
+now the
+Chief
+Executive
+Officer. 
+Previously,
+he was
+a Vice
+President
+with DeGolyer
+and
+MacNaughton
+where he
+prepared
+and supervised
+engineering
+studies
+and reserve
+and appraisal
+reports
+for fields
+in many
+countries.
+ Mr.
+Harris
+holds a B.S.
+in Petroleum
+Engineering
+from Texas
+A&M University
+and a
+M.B.A. from
+Southern
+Methodist
+University.
+ He is
+a member
+of the
+Society
+of Petroleum
+Engineers
+and is
+a registered
+professional
+engineer
+in the
+state
+of Texas.
+
+ 
+
+Mr.
+John Cooper,
+Senior
+Geologist,
+joined
+Forrest
+A. Garb
+& Associates,
+Inc.
+in 2007. Mr.
+Cooper
+received
+his Bachelor's
+degree
+in Geology
+from the
+University
+of Louisiana
+- Lafayette
+(formerly
+the University
+of Southwestern
+Louisiana)
+and holds
+an MBA
+from Tulane
+University.
+He was
+employed
+at Great
+Southern
+Oil and
+Gas, Innex
+Energy,
+and Hunt
+Petroleum
+in various
+geological
+and
+technical
+positions, and
+is experienced
+in log
+analysis,
+geological
+interpretations,
+and reserves
+evaluations
+using the
+latest
+technologies.
+Mr. Cooper
+is a member
+of the American
+Association
+of Petroleum
+Geologists,
+the Society
+of Economic
+Geophysicists,
+and the
+Dallas
+Geological
+& Geophysical
+Society.
+
+ 
+
+Mr.
+Gerald
+K. Ebanks,
+Senior
+Geologist,
+received
+his M.A.
+degree
+in geology
+from the University
+of Texas
+at Austin
+and has
+more than
+35 years
+of experience
+in petroleum
+geology.
+He was employed
+with Mobil
+Oil Corporation,
+and subsequently
+with Ray
+Holifield
+and Associates,
+and PXI,
+Incorporated,
+in various
+geological
+positions.  Mr.
+Ebanks
+is a member
+of the American
+Association
+of Petroleum
+Geologists,
+Dallas
+Geological
+Society,
+Houston Geological
+Society,
+and is
+a certified
+petroleum
+geologist.
+
+ 
+
+Ms.
+Stacy
+M. Light,
+P.E.,
+Senior
+Vice
+President
+Petroleum
+Engineering,
+joined
+Forrest A.
+Garb &
+Associates,
+Inc. in
+May
+2010 as
+a reservoir
+engineer.
+Ms. Light
+previously
+worked for ARCO
+Oil  and
+ Gas 
+as  a 
+reservoir/operations
+engineer
+and  crude
+ oil 
+risk  management
+director.
+ She performed
+detailed
+production, reservoir
+and economic
+analyses
+for both onshore and
+offshore properties,
+and supervised
+engineers
+in the same
+capacity.
+ She
+also performed
+risk management
+duties, trading
+crude oil
+futures
+and options
+on the
+New York
+Mercantile
+Exchange.
+Areas worked
+include
+onshore and offshore
+Gulf Coast
+and the mid-continent
+area.
+Ms. Light
+received
+a B.S. in
+Petroleum
+Engineering
+from Texas
+A&M University
+and is a registered
+professional
+engineer
+in the state
+of Texas
+and a member
+of the Society
+of Petroleum
+Engineers
+(SPE).
+
+ 
+
+Mr.
+Claude
+M. (Mike)
+Rightmire,
+Senior
+Vice
+President
+Petroleum
+Engineering,
+joined
+Forrest
+A. Garb
+& Associates,
+Inc.
+in December
+2007, as a
+reservoir
+engineer.
+ Mr.
+Rightmire
+previously
+worked for
+ARCO
+Alaska and
+ARCO Exploration
+& Production
+Technologies
+as a reservoir
+and operations
+engineer
+and most recently
+for Pinnacle
+Technologies
+as  a 
+senior engineer
+and project
+manager.
+His work
+experience
+includes
+over
+25 years
+of operations
+and reservoir
+engineering
+assignments,
+reservoir
+engineering
+research
+and applications
+development
+work, and
+fracture
+stimulation
+engineering.
+Mr. Rightmire
+holds a
+B.S. in
+Petroleum
+Engineering
+from Texas
+A&M University,
+a  B.S.
+in Biological
+Science
+from the  University
+of Alaska Anchorage,
+and is
+a member
+of the
+Society
+of Petroleum
+Engineers
+(SPE).
+
+ 
+
+Ms.
+Sandra
+W. Wall,
+Senior
+Vice
+President
+Petroleum
+Engineering,
+joined
+Forrest
+A. Garb &
+Associates,
+Inc.
+in August
+2006.  Ms.
+Wall
+previously
+worked
+for Texas
+Eastern
+Corp., Exploration
+ and 
+Production
+ Division,
+ and 
+Transwestern
+ Pipeline
+ Company
+as  a 
+reservoir
+engineer
+and project
+manager.
+ She
+performed
+detailed
+reservoir
+and economic
+analyses
+for both onshore and
+offshore properties,
+ran 3D computer
+simulation
+studies
+for massive
+hydraulic
+
+ 
+
+ATTACHMENT
+D-2 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+fracturing,
+water
+floods, and
+CO2 floods,
+and coordinated
+the development
+of exploration
+projects.
+Areas
+worked include
+onshore and offshore
+Gulf Coast,
+Alaska
+North Slope,
+Rocky
+Mountains,
+offshore California,
+offshore Australia,
+Indonesia,
+and North
+Sea. 
+Ms. Wall
+holds a B.S.
+in Petroleum
+Engineering
+from Texas
+A&M University,
+a M.B.A.
+from Houston
+Baptist University,
+and is
+a member
+of the
+Society
+of Petroleum
+Engineers
+(SPE).
+
+ 
+
+ 
+
+THE
+COMPANY
+
+
+ 
+
+Forrest
+A. Garb
+& Associates,
+Inc.
+(FGA)
+is a
+consulting
+firm comprised
+of professional
+petroleum
+engineers,
+geologists,
+and technical
+support personnel
+with diversified
+backgrounds
+in all
+phases
+of the petroleum
+and energy
+industries.
+The group prides
+itself
+in offering
+the highest
+level
+of ethics,
+state
+of the
+art technology,
+and prompt
+dedicated
+service
+to our
+clients.
+
+ 
+
+FGA
+professionals
+have extensive
+experience
+in the
+world's important
+hydrocarbon
+producing
+areas,
+including
+North and
+South
+America,
+the Middle
+East,
+Australia,
+New  Zealand,
+ Indonesia,
+Turkey, North
+Africa,
+Russia,
+China,
+Thailand,
+ Myanmar,
+West 
+Africa,
+ India,
+the North
+Sea,
+Alaska,
+and
+Mexico.
+
+ 
+
+ 
+
+The
+firm offers
+a complete
+range
+of geological
+and
+engineering
+services
+- from
+screening
+exploration
+prospects
+and designing
+development
+drilling projects
+to estimating
+reserves,
+forecasting
+future
+production,
+and presenting
+economic analyses.
+Major
+financial
+institutions
+accept
+the validity
+of our studies,
+particularly
+in the areas
+of reserve
+estimation
+and appraisal.
+The fair market
+value 
+analysis
+technique
+developed
+by FGA is
+ being
+applied
+by some of industry’s
+largest
+players.
+
+ 
+
+Major
+integrated
+and independent
+oil and
+gas
+companies
+have used
+our estimates
+of future production
+rates
+and available
+hydrocarbon
+resources
+to design
+facilities,
+and to
+establish
+contract
+terms.
+
+ 
+
+FGA
+ is 
+a  leader
+ in 
+the  development
+and  application
+ of  computers
+to  the
+ daily
+requirements
+of petroleum
+engineering.
+Mainframe
+programs,
+hand-held
+computer
+programs,
+and  personal
+computer
+systems
+designed
+by Mr. 
+Garb  have
+ been
+ installed
+ in  many
+major
+integrated
+oil company
+offices
+around the
+world.
+
+ 
+
+ 
+
+ 
+
+Associations
+with facilities
+design,
+seismic
+interpretation,
+petrology,
+and environmental
+firms,
+renowned
+in their
+own right,
+enable
+the FGA
+organization
+to offer
+a complete
+service
+to its
+clients
+under one
+master
+contract.
+
+ 
+
+Because
+the
+company
+has
+no hydrocarbon
+production
+and because
+it has
+no outside
+ownership
+to dictate
+opinions,
+the determinations
+of the firm
+are independent.
+Its
+studies
+are without
+bias and
+are based
+on the best
+interpretation
+of all
+available
+data
+after
+processing
+with "state
+of the
+art" methods
+and equipment.
+
+ 
+
+ATTACHMENT
+D-3 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+FGA
+restricts
+its activities
+exclusively
+to consultation;
+it does
+not accept
+contingent
+fees nor does
+it own
+operating
+interests
+in any
+oil, gas,
+or mineral
+properties.
+The firm
+subscribes
+to a code
+of professional
+conduct,
+and its
+employees
+actively
+support their
+related
+technical
+and professional
+societies.
+
+ 
+
+The
+entire
+FGA
+staff
+is dedicated
+to providing
+each
+client
+with a
+personalized
+and cost-
+efficient
+approach
+to serve
+their
+individual
+needs.
+
+ 
+
+ATTACHMENT
+D-4
+
+
+
+
+
+
+
+

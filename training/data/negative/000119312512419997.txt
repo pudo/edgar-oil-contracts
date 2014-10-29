@@ -1,0 +1,1780 @@
+
+EX-10.31
+2
+d348030dex1031.htm
+FOURTH AMENDMENT TO FIFTH AMENDED & RESTATED CREDIT AGREEMENT
+
+
+<![CDATA[Fourth Amendment to Fifth Amended & Restated Credit Agreement]]>
+
+ 
+ Exhibit 10.31  FOURTH AMENDMENT AND CONSENT  TO  FIFTH AMENDED
+AND RESTATED CREDIT AGREEMENT  DATED
+AS OF SEPTEMBER 28, 2012  AMONG 
+LINN ENERGY, LLC,  AS BORROWER,  THE
+GUARANTORS,  WELLS FARGO BANK,
+NATIONAL ASSOCIATION,  AS ADMINISTRATIVE
+AGENT,  ROYAL BANK OF CANADA,
+ AS SYNDICATION AGENT, 
+THE ROYAL BANK OF SCOTLAND PLC,
+CREDIT AGRICOLE CORPORATE AND INVESTMENT 
+BANK, CITIBANK, NA AND BARCLAYS BANK PLC,
+ AS CO-DOCUMENTATION AGENTS 
+AND  THE LENDERS PARTY HERETO  JOINT BOOK RUNNERS AND JOINT LEAD ARRANGERS 
+   
+ 
+
+
+
+
+
+
+
+
+
+
+WELLS FARGO SECURITIES, LLC
+  
+RBC CAPITAL MARKETS
+
+
+
+
+ FOURTH AMENDMENT AND
+CONSENT TO FIFTH AMENDED AND RESTATED CREDIT  AGREEMENT  THIS
+FOURTH AMENDMENT AND CONSENT TO FIFTH AMENDED AND RESTATED CREDIT AGREEMENT
+(this Fourth Amendment) dated as of September 28, 2012, among LINN ENERGY, LLC, a Delaware limited liability company, (the Borrower); the Guarantors
+signatory hereto, each of the Lenders party to the Credit Agreement referred to below; and WELLS FARGO BANK, NATIONAL ASSOCIATION (Wells), as
+administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the Administrative Agent).  R E C I T A L S  A. The Borrower, BNP Paribas (predecessor
+to the Administrative Agent) as the initial administrative agent, the Lenders and the other Agents party thereto entered into that certain Fifth Amended and Restated Credit Agreement dated as of May 2, 2011 as amended by that certain First
+Amendment dated as of February 29, 2012, that certain Second Amendment dated as of May 10, 2012 and that certain Third Amendment dated as of July 25, 2012 (the Credit Agreement), pursuant to which the Lenders have
+made certain credit and other financial accommodations available to and on behalf of the Borrower and its Subsidiaries.  B.
+The Borrower has informed the Administrative Agent and the Lenders of its entrance into and/or intent to enter into a series of transactions described in clauses (a) through (e) below (collectively, and together with any other actions related
+thereto, including the ongoing performance by the Borrower or any of its Affiliates of their obligations under any agreements, documents, instruments or other transactions related thereto, as more fully described in the Registration Statement on
+Form S-1 filed with the SEC on June 25, 2012 of the Borrower and LinnCo, LLC, a Delaware limited liability company and Subsidiary of the Borrower (LinnCo), including all exhibits filed therewith, and any subsequent amendments
+filed thereto and subsequent exhibits filed therewith prior to the date hereof, the LinnCo Transactions): 
+(a) The formation of LinnCo by the Borrower and the ownership by the Borrower of all of the voting Equity Interests of LinnCo.
+ (b) The purchase by public investors for cash, pursuant to an underwritten initial public offering, of limited liability
+company interests in LinnCo (the IPO), and purchases by public investors, for cash, of additional limited liability company interests in LinnCo from time to time pursuant to future equity offerings. 
+(c) The purchase by LinnCo of a number of Equity Interests in the Borrower equal to the number of LinnCo limited liability company
+interests sold in the IPO and in future equity offerings.  (d) The exclusion of LinnCo from the definition of
+Subsidiary set forth in the Credit Agreement, as amended hereby, and from all restrictions, conditions and obligations under the Credit Agreement, as amended hereby and other Loan Documents applicable to Subsidiaries. 
+
+
+
+ (e) The entering into of, and performance of obligations under, an omnibus agreement and
+other management, services and administrative agreements between the Borrower and LinnCo.  C. The Borrower has requested and
+the Administrative Agent and the Lenders have agreed to amend certain provisions of the Credit Agreement.  D. NOW, THEREFORE,
+to induce the Administrative Agent and the Lenders to enter into this Fourth Amendment and in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are
+hereby acknowledged, the parties hereto agree as follows:  Section 1. Defined Terms. Each capitalized term used
+herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this Fourth Amendment. Unless otherwise indicated, all section or article references in this Fourth Amendment refer to sections or
+articles of the Credit Agreement.  Section 2. Amendments to Credit Agreement. 
+2.1 Amendment to Section 1.02.  (a) Section 1.02 is hereby amended by deleting the defined terms Agreement, Subsidiary and Swap Agreement in their entirety and replacing them with the following
+respective terms:  Agreement means this Credit Agreement, as amended by that certain
+First Amendment dated as of February 29, 2012, that certain Second Amendment dated as of May 10, 2012 , that certain Third Amendment dated as of July 25, 2012 and that certain Fourth Amendment dated as of September 28, 2012 as
+the same may from time to time be further amended, modified, supplemented or restated. 
+Subsidiary of a Person means (a) a corporation, partnership, joint venture, limited liability
+company or other business entity of which Equity Interests representing more than 50% of the ordinary voting power to elect a majority of the board of directors, managers or other governing body (irrespective of whether or not at the time Equity
+Interests of any other class or classes of such Person shall have or might have voting power by reason of the happening of any contingency) are at the time owned or controlled by such Person or one or more of its Subsidiaries or by such Person and
+one or more of its Subsidiaries, and (b) any partnership of which such Person or any of its Subsidiaries is a general partner. Unless otherwise indicated herein, each reference to the term Subsidiary means a Subsidiary of the Borrower.
+Notwithstanding the foregoing, in no event shall the terms Subsidiary, Subsidiaries or subsidiary contained in this Agreement or any other Loan Document include the Excluded Subsidiary unless expressly specified
+otherwise. 
+   2 
+
+
+
+
+ Swap Agreement means any agreement with respect to any
+swap, forward, future or derivative transaction or option or similar agreement, whether exchange traded, over-the-counter or otherwise, involving, or settled by reference to, one or more rates, currencies, commodities, emissions
+reduction, carbon sequestration or other environmental protection credits, equity or debt instruments or securities, or economic, financial or pricing indices or measures of economic, financial or pricing risk or value or any similar transaction or
+any combination of these transactions; provided that no phantom stock or similar plan providing for payments only on account of services provided by current or former directors, officers, employees or consultants of the Borrower or any of its
+Subsidiaries shall be a Swap Agreement.  (b) Section 1.02 is hereby amended by adding the defined terms
+Affiliate Services and Excluded Subsidiary in the appropriate alphabetical order: 
+Affiliate Services means the provision by the Borrower or any of its Subsidiaries to the Excluded
+Subsidiary of, and/or the procurement and payment by the Borrower or any of its Subsidiaries on behalf of the Excluded Subsidiary for, the following:  (a) legal, accounting, tax advisory, financial advisory, engineering and other professional or advisory services;  (b) administrative and management services;  (c) costs, fees and
+expenses incurred in connection with any public offering of Equity Interests in the Excluded Subsidiary, or incurred as a result of the Excluded Subsidiary being a publicly traded Person; 
+(d) cash management services, including treasury services, and the procurement of and payment for any insurance covering
+the Excluded Subsidiary;  (e) payment of usual and customary costs, fees and expenses of officers and
+directors, and provision of officers and directors indemnification and insurance in the ordinary course of business to the extent permitted by law; and 
+(f) indemnification for any costs, fees, expenses, damages or liabilities (other than liabilities for income Taxes)
+arising from (i) the ownership by the Excluded Subsidiary of Equity Interests in the Borrower or (ii) the Excluded Subsidiary carrying out its activities as described in the Registration Statement on Form S-1 of the Excluded Subsidiary and
+the Borrower filed with the SEC on June 25, 2012, including all exhibits filed therewith, and any subsequent amendments filed thereto and subsequent exhibits filed therewith prior to the date of the Fourth Amendment described in the definition
+of Agreement. 
+   3 
+
+
+
+
+ Excluded Subsidiary means LinnCo, LLC, a Delaware limited
+liability company, so long as it holds no assets, incurs no Debt and has no operations other than (a) its ownership of Equity Interests in the Borrower, and assets and operations incidental thereto and (b) other assets not to exceed
+$1,000,000 in the aggregate at any time outstanding.  2.2 Amendment to Section 8.01(d). Section 8.01(d) is
+hereby amended by deleting the period at the end of the first sentence thereof and replacing it with the following:  ;
+provided that the Borrower shall not be required to provide any mark-to-market value for any emission credit Swap Agreements, but the Borrower shall provide the aggregate amount owing by the Borrower and its Subsidiaries under such emission
+credit Swap Agreements as of such date.  2.3 Amendment to Section 9.05. Section 9.05 is hereby amended
+by adding the following as a new clause (p) thereto:  (p) Investments in the Excluded Subsidiary consisting of any
+Affiliate Services.  2.4 Amendment to Section 9.13. Section 9.13 is hereby amended by (a) removing
+the and from the end of clause (c) thereof, (b) removing the period at the end of clause (d) thereof and replacing such period with the following: ; and and (c) adding the following as a new clause
+(e) thereto:  (e) any Affiliate Services. 
+2.5 Amendment to Section 9.14. Section 9.14 is hereby amended by (a) replacing the word or from the end
+of clause (d) thereof with a comma, (b) removing the period at the end of clause (e) thereof and replacing such period with the word or and (c) adding the following as a new clause (f) thereto: 
+(f) any prohibition or restriction howsoever arising or created on the granting, conveying, creation or imposition
+of any Lien on the Equity Interests in the Excluded Subsidiary.  2.6 Amendment to Section 9.16(a).
+Section 9.16(a) is hereby amended by adding the following subclause (iii) thereto:  (iii) Swap
+Agreements in respect of carbon dioxide emission credits; provided that the aggregate amount that is owing but unpaid by the Borrower and its Subsidiaries under all such Swap Agreements shall not exceed $10,000,000 in the aggregate at any
+time.  2.7 Amendment to Section 12.02(b)(vi). Section 12.02(b)(vi) is hereby amended by deleting the
+phrase or change the definition of the terms Domestic Subsidiary, Foreign Subsidiary, Material Domestic Subsidiary or Subsidiary, therefrom. 
+   4 
+
+
+
+
+ Section 3. Consent. Subject to the conditions precedent set forth in
+Section 4 of this Fourth Amendment and the ratification and affirmation set forth in Section 5.2 of this Fourth Amendment, the Administrative Agent and the Lenders (which such Lenders constitute all of the Lenders under the Credit
+Agreement) hereby consent to the LinnCo Transaction.  Section 4. Conditions Precedent. This Fourth Amendment shall
+become effective on the date (such date, the Fourth Amendment Effective Date), when each of the following conditions is satisfied (or waived in accordance with Section 12.02 of the Credit Agreement): 
+4.1 The Administrative Agent shall have received (a) all fees and other amounts due and payable on or prior to the Fourth Amendment
+Effective Date and all other fees the Borrower has agreed to pay in connection with this Fourth Amendment and (b) to the extent invoiced, reimbursement or payment of all out-of-pocket expenses required to be reimbursed or paid by the Borrower
+under the Original Agreement.  4.2 The Administrative Agent shall have received from all of the Lenders and the Borrower,
+counterparts (in such number as may be requested by the Administrative Agent) of this Fourth Amendment signed on behalf of such Person.  4.3 No Default shall have occurred and be continuing as of the date hereof, after giving effect to the terms of this Fourth Amendment. 
+The Administrative Agent is hereby authorized and directed to declare this Fourth Amendment to be effective when it has received
+documents confirming or certifying, to the satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section 4 or the waiver of such conditions as permitted in Section 12.02 of the Credit Agreement. Such
+declaration shall be final, conclusive and binding upon all parties to the Agreement for all purposes.  Section 5.
+Miscellaneous.  5.1 Confirmation. The provisions of the Credit Agreement, as amended by this Fourth Amendment,
+shall remain in full force and effect following the effectiveness of this Fourth Amendment.  5.2 Ratification and
+Affirmation; Representations and Warranties. Each of the Borrower and the Guarantors hereby (a) acknowledges the terms of this Fourth Amendment; (b) ratifies and affirms its obligations under, and acknowledges its continued liability under,
+each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect as expressly amended hereby and (c) represents and warrants to the Lenders that as of the date hereof, after
+giving effect to the terms of this Fourth Amendment:  (i) all of the representations and warranties contained
+in each Loan Document to which it is a party are true and correct in all material respects (except those which have a materiality qualifier, which shall be true and correct as so qualified), except to the extent any such representations and
+warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct as of such specified earlier date, 
+   5 
+
+
+
+
+ (ii) no Default or Event of Default has occurred and is continuing, and
+ (iii) no event or events have occurred which individually or in the aggregate could reasonably be expected to
+have a Material Adverse Effect.  5.3 Loan Document. This Fourth Amendment is a Loan Document. 
+5.4 Counterparts. This Fourth Amendment may be executed by one or more of the parties hereto in any number of separate
+counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of this Fourth Amendment by facsimile transmission shall be effective as delivery of a manually executed counterpart
+hereof.  5.5 NO ORAL AGREEMENT. THIS FOURTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN
+DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL
+AGREEMENTS BETWEEN THE PARTIES.  5.6 GOVERNING LAW. THIS FOURTH AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED
+IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.  5.7 Payment of Expenses. In accordance with Section 12.03 of
+the Credit Agreement, the Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable outof- pocket costs and reasonable expenses incurred in connection with this Fourth Amendment, any other documents prepared in
+connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.  5.8 Severability. Any provision of this Fourth Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or
+unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction. 
+5.9 Successors and Assigns. This Fourth Amendment shall be binding upon and inure to the benefit of the parties hereto and their
+respective successors and assigns.  [SIGNATURES BEGIN NEXT PAGE] 
+   6 
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Fourth Amendment to be duly executed
+as of the date first written above.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BORROWER:
+ 
+
+ 
+LINN ENERGY, LLC
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ David B. Rottino
+
+
+ 
+
+ 
+Name:
+ 
+David B. Rottino
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President of Finance, Business Development and Chief Accounting Officer
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GUARANTORS:
+ 
+
+ 
+LINN ENERGY HOLDINGS, LLC
+
+
+
+
+
+
+ 
+
+ 
+LINN OPERATING, INC.
+
+
+
+
+
+
+ 
+
+ 
+MID-CONTINENT HOLDINGS I, LLC
+
+
+
+
+
+
+ 
+
+ 
+MID-CONTINENT HOLDINGS II, LLC
+
+
+
+
+
+
+ 
+
+ 
+MID-CONTINENT I, LLC
+
+
+
+
+
+
+ 
+
+ 
+MID-CONTINENT II, LLC
+
+
+
+
+
+
+ 
+
+ 
+LINN GAS MARKETING, LLC
+
+
+
+
+
+
+ 
+
+ 
+LINN EXPLORATION & PRODUCTION MICHIGAN LLC
+
+
+
+
+
+
+ 
+
+ 
+LINN MIDWEST ENERGY LLC
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ David B. Rottino        
+
+
+ 
+
+ 
+Name:
+ 
+David B. Rottino
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President of Finance, Business Development and Chief Accounting Officer
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ LINN EXPLORATION MIDCONTINENT, LLC
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+Mid-Continent Holdings II, LLC, its sole member, as Member/Manager
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ David B. Rottino
+
+
+ 
+
+ 
+Name:
+ 
+David B. Rottino
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President of Finance, Business Development and Chief Accounting Officer
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDERS:
+ 
+
+ 
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as Administrative Agent and a Lender
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+/s/ Patrick J. Fults
+
+
+ 
+
+ 
+
+ 
+Name:
+ 
+Patrick J. Fults
+
+
+ 
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ROYAL BANK OF CANADA
+
+
+
+
+By:
+ 
+/s/ Don J. McKinnerney             
+
+Name:
+ 
+Don J. McKinnerney
+
+Title:
+ 
+Authorized Signatory
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BARCLAYS BANK PLC
+
+
+
+
+By:
+ 
+/s/ Vanessa A. Kurbatskiy
+
+Name:
+ 
+Vanessa A. Kurbatskiy
+
+Title:
+ 
+Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CITIBANK, N.A.
+
+
+
+
+By:
+ 
+/s/ John Miller
+
+Name:
+ 
+John Miller
+
+Title:
+ 
+Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+
+
+
+
+By:
+ 
+/s/ Tom Byargeon
+
+Name:
+ 
+Tom Byargeon
+
+Title:
+ 
+Managing Director
+
+
+
+
+
+
+By:
+ 
+/s/ Sharada Manne
+
+Name:
+ 
+Sharada Manne
+
+Title:
+ 
+Managing Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CREDIT SUISSE AG, CAYMAN ISLAND BRANCH
+
+
+
+
+By:
+ 
+/s/ Doreen Barr
+
+Name:
+ 
+Doreen Barr
+
+Title:
+ 
+Director
+
+
+
+
+
+
+By:
+ 
+/s/ Michael Spaight
+
+Name:
+ 
+Michael Spaight
+
+Title:
+ 
+Associate
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+THE ROYAL BANK OF SCOTLAND PLC
+
+
+
+
+By:
+ 
+/s/ Sanjay Remond
+
+Name:
+ 
+Sanjay Remond
+
+Title:
+ 
+Authorised Signatory
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+THE BANK OF NOVA SCOTIA
+
+
+
+
+By:
+ 
+/s/ Terry Donovan
+
+Name:
+ 
+Terry Donovan
+
+Title:
+ 
+Managing Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BANK OF MONTREAL
+
+
+
+
+By:
+ 
+/s/ James V. Ducote
+
+Name:
+ 
+James V. Ducote
+
+Title:
+ 
+Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK AGENCY
+
+
+
+
+By:
+ 
+/s/ Dominic DAlessandro
+
+Name:
+ 
+Dominic DAlessandro
+
+Title:
+ 
+Executive Director
+
+
+
+
+
+
+By:
+ 
+/s/ Trudy W. Nelson
+
+Name:
+ 
+Trudy W. Nelson
+
+Title:
+ 
+Executive Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+UBS AG, STAMFORD BRANCH
+
+
+
+
+By:
+ 
+/s/ Irja R. Otsa
+
+Name:
+ 
+Irja R. Otsa
+
+Title:
+ 
+Associate Director
+
+
+
+
+
+
+By:
+ 
+/s/ Joselin Fernandes
+
+Name:
+ 
+Joselin Fernandes
+
+Title:
+ 
+Associate Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+COMERICA BANK
+
+
+
+
+By:
+ 
+/s/ Justin Crawford
+
+
+ 
+Justin Crawford
+
+
+ 
+Senior Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ING CAPITAL LLC
+
+
+
+
+By:
+ 
+/s/ Juli Bieser
+
+Name: Juli Bieser
+
+Title: Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+SOCIETE GENERALE
+
+
+
+
+By:
+ 
+/s/ Graeme Bullen
+
+Name: Graeme Bullen
+
+Title: Managing Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+U.S. BANK NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+/s/ Jonathan H. Lee
+
+Name: Jonathan H. Lee
+
+Title: Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ABN AMRO CAPITAL USA LLC
+
+
+
+
+By:
+ 
+/s/ David L. Montgomery
+
+Name:
+ 
+David L. Montgomery
+
+Title:
+ 
+Director
+
+
+
+
+By:
+ 
+/s/ Darrell Holley
+
+Name:
+ 
+Darrell Holley
+
+Title:
+ 
+Managing Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+COMPASS BANK
+
+
+
+
+By:
+ 
+/s/ Kathleen J. Bowen
+
+Name: Kathleen J. Bowen
+
+Title: Senior Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+DNB BANK ASA, GRAND CAYMAN
+
+BRANCH (f/k/a DnB NOR Bank ASA)
+
+
+
+
+By:
+ 
+/s/ Cathleen Buckley
+
+Name:
+ 
+Cathleen Buckley
+
+Title:
+ 
+Senior Vice President
+
+
+
+
+By:
+ 
+/s/ Colleen Durkin
+
+Name:
+ 
+Colleen Durkin
+
+Title:
+ 
+Senior Vice President
+
+
+ 
+Shipping, Offshore & Logistics
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+UNION BANK, N.A.
+
+
+
+
+By:
+ 
+/s/ Stephen W. Warfel
+
+Name: Stephen W. Warfel
+
+Title: Senior Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CAPITAL ONE, N.A.
+
+
+
+
+By:
+ 
+/s/ Matthew L. Molero
+
+Name: Matthew L. Molero
+
+Title: Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+SUNTRUST BANK
+
+
+
+
+By:
+ 
+/s/ Yann Pirio
+
+Name: Yann Pirio
+
+Title: Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BANK OF AMERICA, N.A.
+
+
+
+
+By:
+ 
+/s/ Joseph Scott        
+
+Name:
+ 
+Joseph Scott
+
+Title:
+ 
+Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A.
+
+
+
+
+By:
+ 
+/s/ Michael A. Kamauf
+
+Name:
+ 
+Michael A. Kamauf
+
+Title:
+ 
+Authorized Officer
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+DEUTSCHE BANK TRUST COMPANY AMERICAS
+
+
+
+
+By:
+ 
+/s/ Michael Getz
+
+Name:
+ 
+Michael Getz
+
+Title:
+ 
+Vice President
+
+
+
+
+By:
+ 
+/s/ Marcus M. Tarkington
+
+Name:
+ 
+Marcus M. Tarkington
+
+Title:
+ 
+Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+GOLDMAN SACHS BANK USA
+
+
+
+
+By:
+ 
+/s/ Michelle Latzoni
+
+Name:
+ 
+Michelle Latzoni
+
+Title:
+ 
+Authorized Signatory
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+MACQUARIE BANK LIMITED
+
+
+
+
+By:
+ 
+/s/ Christian Coles
+
+Name:
+ 
+Christian Coles
+
+Title:
+ 
+Division Director
+
+
+
+
+By:
+ 
+/s/ Joel Outlaw
+
+Name:
+ 
+Joel Outlaw
+
+Title:
+ 
+ Associate Director Legal
+Risk Management
+
+
+
+
+
+ 
+(Macquarie POA Ref: # 594/10
+
+
+ 
+dated 25 November 2010)
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MORGAN STANLEY BANK, N.A.
+
+
+
+
+By:
+ 
+/s/ Scott Taylor
+
+Name:
+ 
+Scott Taylor
+
+Title:
+ 
+Authorized Signatory
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BP ENERGY COMPANY
+
+
+
+
+By:
+ 
+/s/ Sharon Weintraub
+
+Name:
+ 
+Sharon Weintraub
+
+Title:
+ 
+Head of Mid-Office Control
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BNP PARIBAS
+
+
+
+
+By:
+ 
+/s/ David Dodd
+
+Name:
+ 
+David Dodd
+
+Title:
+ 
+Managing Director
+
+
+
+
+By:
+ 
+/s/ Sriram Chandrasekaran
+
+Name:
+ 
+Sriram Chandrasekaran
+
+Title:
+ 
+Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BRANCH BANKING AND TRUST COMPANY
+
+
+
+
+By:
+ 
+/s/ Parul June
+
+Name:
+ 
+Parul June
+
+Title:
+ 
+Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+SUMITOMO MITSUI BANKING CORPORATION
+
+
+
+
+By:
+ 
+/s/ Shuji Yabe        
+
+Name:
+ 
+Shuji Yabe
+
+Title:
+ 
+Managing Director
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+WHITNEY BANK
+
+
+
+
+By:
+ 
+/s/ Liana Tchernysheya
+
+
+ 
+Liana Tchernysheya
+
+
+ 
+Senior Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+AMEGY BANK NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+/s/ William B. Robinson
+
+Name:
+ 
+William B. Robinson
+
+Title:
+ 
+Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ASSOCIATED BANK, N.A.
+
+
+
+
+By:
+ 
+/s/ Farhan Iqbal
+
+Name:
+ 
+Farhan Iqbal
+
+Title:
+ 
+Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+KEYBANK NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+/s/ Chulley Bogle
+
+Name:
+ 
+Chulley Bogle
+
+Title:
+ 
+Vice President
+
+   Signature Page
+to Fourth Amendment 
+
+
+

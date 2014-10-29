@@ -1,0 +1,1016 @@
+
+EX-10.18
+2
+ex10-18.htm
+
+
+
+    ex10-18.htm
+    
+    
+    
+
+
+EXHIBIT 10.18
+
+
+
+
+ 
+
+LOAN AGREEMENT
+
+ 
+
+$1,500,000
+
+ 
+
+ 
+
+Dated as of
+
+ 
+
+February 13, 2013
+
+ 
+
+ 
+
+by and between
+
+ 
+
+ISRAMCO, INC.
+
+A Delaware corporation
+
+ 
+
+And JAY MANAGEMENT COMPANY LLC,
+
+ 
+
+as the “Borrower”,
+
+ 
+
+and
+
+ 
+
+I. O. C. - ISRAEL OIL COMPANY, LTD.
+
+ 
+
+As the “Lender”
+
+ 
+
+ 
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+ LOAN AGREEMENT
+
+ 
+
+THIS LOAN AGREEMENT (the “Agreement”), dated as of February 13, 2013, is made and entered into by and between ISRAMCO, INC., a Delaware corporation and JAY MANAGEMENT COMPANY LLC(collectively the “Borrower or "Isramco”) and I. O. C. - ISRAEL OIL COMPANY, LTD. (the “Lender”).
+
+ 
+
+WITNESSETH:
+
+ 
+
+WHEREAS, Isramco Inc, a Delaware Corporation (“Isramco”);
+
+ 
+
+WHEREAS, the Isramco desires to obtain financing in the amount of One Million and Five Hundred Thousand Dollars ($1,500,000) from the Lender for any lawful corporate purposes;
+
+ 
+
+WHEREAS, the Lender is willing to extend the financing to Borrower upon the terms and conditions herein set forth.
+
+ 
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, and other good and valuable consideration, receipt of which is acknowledged by the parties hereto, the parties agree, as follows:
+
+ 
+
+ARTICLE I
+
+
+ 
+
+CERTAIN DEFINITIONS
+
+ 
+
+When used herein, the following terms shall have the following meanings:
+
+ 
+
+1.1 Business Day shall mean a day other than a Saturday, Sunday or a day upon which banks in the State of Texas are closed to business generally.
+
+ 
+
+1.2 Default Rate shall mean the Stated Rate plus 12 percentage points (12%) per annum.
+
+ 
+
+1.3 Effective Date shall mean February 13, 2013.
+
+ 
+
+1.4 Event of Default shall mean any of the events specified in Section 7.1 of this Agreement, and Default shall mean any event, which together with any lapse of time or giving of any notice, or both, would constitute an Event of Default.
+
+ 
+
+1.5 Governmental Authority shall include the country, the state, county, city and political subdivisions in which any Person or such Person’s property is located or which exercises valid jurisdiction over any such Person or such Person’s property, and any Tribunal of any of them, including monetary authorities, which exercises valid jurisdiction over any such Person or such Person’s property.  Unless otherwise specified, all references to Governmental Authority herein shall mean a Governmental Authority having jurisdiction over, where applicable, Borrower, any of its Subsidiaries, any of Borrower’s properties or the Lender.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+1.6 Governmental Requirement shall mean any Law, or other directive or requirement (whether or not having the force of law), including, without limitation, environmental laws, energy regulations and occupational, safety and health standards or controls, of any Governmental Authority.
+
+ 
+
+1.7 Indebtedness shall mean any and all: (i) indebtedness, obligations and liabilities of the Borrower to the Lender  incurred or which may be incurred hereafter pursuant to the terms of this  Agreement or any of the other Loan Documents, and any extensions, renewals, substitutions, amendments and increases in amount thereof, including such amounts as may be evidenced by the Note and all lawful interest thereon and other charges, and all reasonable costs and expenses incurred by the Lender in connection with the preparation, filing and recording of the Loan Documents, including attorneys fees (ii) all reasonable costs and expenses, including attorneys’ fees, paid or incurred by the Lender in enforcing or attempting to enforce collection of any Indebtedness and in enforcing or realizing upon or attempting to enforce or realize upon any collateral or security for any Indebtedness and in protecting and preserving the Lender’s interest in the Indebtedness or any collateral or security for any Indebtedness in any bankruptcy or reorganization proceeding, including interest on all sums so expended by the Lender accruing from the date upon which such expenditures are made until paid, at an annual rate equal to the Default Rate; and (iii) sums expended by the Lender in curing any Event of Default or Default of the Borrower under the terms of this  Agreement, the other Loan Documents or any other security agreement or other writing evidencing or securing the payment of the Indebtedness described herein, including the Note.
+
+ 
+
+1.8 Law(s) shall mean all statutes, laws, ordinances, regulations, orders, rules, codes, permits, franchises, licenses, certificates, writs, injunctions, or decrees of the United States, any state or commonwealth, any municipality, any foreign country, any territory or possession, or any Tribunal.
+
+ 
+
+1.9 Loan shall mean the funds owing to the Lender by the Borrower pursuant to the Loan Agreements.
+
+ 
+
+1.10 Loan Documents means, on any date, this Agreement, the Note and all other agreements relating to this Agreement entered into from time to time between Borrower and the Lender and all other documents and certificates executed and delivered to the Lender by the Borrower in connection with any of the foregoing, as from time to time amended, supplemented, or otherwise modified and in effect on such date.
+
+ 
+
+1.11 Material Adverse Effect shall mean any material and adverse effect on (i) the assets, liabilities, financial condition, business, operations, prospects or affairs of the Borrower and its Subsidiaries taken as a whole; or (ii) the ability of the Borrower and its Subsidiaries, taken as a whole, to carry out their business on and after the Effective Date or as proposed as of the Effective Date to be conducted or meet its obligations under the Loan Documents on a timely basis.
+
+ 
+
+1.12 Maturity Date shall mean, unless the Note is sooner accelerated pursuant to this Agreement, February 13, 2018.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+1.13 Maximum Rate shall mean at any particular in question, the maximum rate of interest which, under applicable law, may then be charged.  If such maximum rate changes after the date hereof, the Maximum Rate shall be automatically increased or decreased, as the case may be, without notice to Borrower from time to time as the effective date of each change in such maximum rate period.
+
+ 
+
+1.14 Note shall mean the Note as described and defined in Article II and attached as Exhibit A of this  Agreement, together with each and every extension, renewal, modification, replacement, substitution and change in form thereof which may be from time to time and for any term or terms effected.
+
+ 
+
+1.15 Person shall mean and include an individual, a partnership, a limited partnership, a limited liability company, a joint venture, a corporation, a trust, an unincorporated organization, and a government or any department, agency or political subdivision thereof.
+
+ 
+
+1.16 Responsible Officer shall mean the chief executive officer, chief operating officer, chief financial officer, president or managing director of the Borrower.
+
+ 
+
+1.17 Subsidiary shall mean (i) any corporation, at least 50% of the total combined voting power of all classes of Voting Stock of which shall, at the time as of which any determination is being made, be owned by the Borrower either directly or through Subsidiaries; and (ii) any partnership, joint venture or similar entity if at least a 50% interest in the profits or capital thereof is owned by the Borrower, either directly or through Subsidiaries.
+
+ 
+
+1.18 Stated Rate shall mean a rate per annum equal to LIBOR plus 6%; provided, however, that if the Stated Rate ever exceeds the Maximum Rate, the Stated Rate shall then and thereafter be fixed at a rate per annum equal to the Maximum Rate then and from time to time thereafter in effect until the total amount of interest accrued at the Stated Rate on the unpaid balance of this Note equals the total amount of interest which would have accrued at the Maximum Rate from time to time in effect.
+
+ 
+
+1.19 Taxes shall mean all taxes, assessments, fees, or other charges or levies from time to time or at any time imposed by any Laws or by any Tribunal as hereafter defined.
+
+ 
+
+1.20 Tribunal shall mean any municipal, state, commonwealth, Federal, foreign, territorial or other sovereign, governmental entity, governmental department, court, commission, board, bureau, agency or instrumentality.
+
+ 
+
+1.21 Other Definitional Provisions. References to Sections, subsections, Exhibits and Schedules shall be to Sections, subsections, Exhibits and Schedules, respectively, of this Agreement unless otherwise specifically provided.  Any of the terms defined in Article I may, unless the content otherwise requires, be used in the singular or the plural depending on the reference.  In this  Agreement, words importing any gender include the other genders; the words including, includes and include shall be deemed to be followed by the words without limitation; references to agreements and other contractual instruments shall be deemed to include subsequent amendments, assignments, and other modifications thereto, but only to the extent such amendments, assignments and other modifications are not prohibited by the terms of this  Agreement or any other Loan Document; references to Persons include their respective permitted successors and assigns or, in the case of governmental Persons, Persons succeeding to the relevant functions of such Persons; and all references to statutes and related regulations shall include any amendments of same and any successor statutes and regulations.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+ARTICLE II
+
+ 
+
+LOAN
+
+ 
+
+2.1 Loan.  Upon the terms and subject to the conditions hereinafter set forth, the Lender agrees to loan to Borrower and/or Jay Management Company, LLC the sum of ONE MILLION FIVE HUNDRED THOUSAND US Dollars ($1,500,000) (the “Loan”).  The Loan will be funded on or before the Effective Date. The unpaid principal balance and all accrued interest of the Loan are due and payable on the Maturity Date.
+
+ 
+
+2.2 Payments by Lender.  The Lender shall fund the Loan to Borrower, as requested by Borrower, by wire transfer of immediately available funds by 11:00 a.m. Houston, Texas time to the account of the Borrower as designated by the Borrower for such purpose by written notice to the Lender.
+
+ 
+
+2.3  Note.  The Borrower shall execute and deliver to the order of the Lender a promissory note in the original principal amount the Loan, the form of which is annexed hereto as Exhibit A and hereby made a part hereof (hereinafter referred to as the “Note”).  The Note shall be dated as of the Effective Date, and shall provide for payment of principal and accrued interest on the Maturity Date.  The Note shall bear interest on the unpaid balance of principal from time to time outstanding and on any past due interest at an annual interest rate determined pursuant to Section 2.6 hereof, but in no event at a rate greater than permitted by applicable Law.  All payments received shall be applied first to accrued interest and then to the outstanding principal amount owing on the Note.  All payments and prepayments shall be made in lawful money of the United States of America.  After maturity (whether by acceleration or otherwise) the Note shall bear interest at the Default Rate, payable on demand.  Interest shall be calculated on the basis of a year of 365 days, but assessed for the actual number of days elapsed before full payment.
+
+ 
+
+2.4 Proceeds of Loan.  Proceeds of the Loan shall be used for any other lawful purpose.
+
+ 
+
+2.5 Responsible Officer.  A Responsible Officer may, from time to time, notify the Lender in writing of a change in the Responsible Officer.  From and after the Lender’s receipt of such written notice, the Lender may rely on any such request or certificate purportedly signed by any individual who has been so designated as a Responsible Officer pursuant to this  Agreement unless or until it receives written notice from a Responsible Officer of the deletion of a Responsible Officer.
+
+ 
+
+2.6 Interest Rates.
+
+ 
+
+(a)           Interest Prior to Maturity.  Subject to the provisions and limitations hereof, the outstanding principal balance of the Loan hereunder shall accrue interest at the Stated Rate.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+(b)           Interest After Maturity.  After the outstanding principal amount of the Loan shall have become past due (by acceleration or past the stated maturity date), such Loan shall bear interest for each day until paid (before and after judgment) at the Default Rate.
+
+ 
+
+2.7 Prepayments.  Borrower shall have the right at its option, from time to time, to prepay the Loan in whole or part without premium or penalty at any time.
+
+ 
+
+2.8 Payments.  Accrued interest shall be payable annually on December 31, 2014, December 31, 2015, December 31, 2016, December 31, 2017. All Principal and accrued interest shall be payable on or before the Maturity Date.
+
+ 
+
+2.9  Payments From Borrower.  All payments shall be payable to the Lender on the day when due without presentment, demand, protest or notice of any kind, all of which are hereby expressly waived, and an action therefor shall immediately accrue if not timely paid within applicable grace or curative periods herein specified.  Such payments shall be made to the Lender at such location as Lender may from time to time designate in writing in U.S. Dollars in funds immediately available at such office without set off, counterclaim or other deduction of any nature.  To the extent permitted by law, after there shall have become due (by acceleration or otherwise), interest or any other amounts due from the Borrower hereunder or under the Note (excluding overdue principal, which shall bear interest as described in Section 2.6(b) hereof), such amounts shall bear interest for each day until paid (before and after judgment), payable on demand, at the Default Rate.
+
+ 
+
+2.10 Full Payment.  All outstanding principal and accrued but unpaid interest on the Note shall be due and payable at the Maturity Date.
+
+ 
+
+ARTICLE III
+
+
+ 
+
+CONDITIONS PRECEDENT TO LOANS
+
+ 
+
+3.1 Conditions Precedent to Funding.  The effectiveness of this Agreement is subject to the satisfaction of all of the following conditions on or prior to the Effective Date (in addition to the other terms and conditions set forth herein):
+
+ 
+
+(a) Representations and Warranties.  The covenants, representations and warranties set forth herein and in the other Loan Documents shall be true and correct in all material respects on and as of the Effective Date, with the same effect as though made on and as of the Effective Date.
+
+ 
+
+(b) Note. The Borrower shall have executed and delivered to the Lender the Note payable to the order of the Lender.
+
+ 
+
+(c)  Other Information.  The Lender shall have received such other information, documents and assurances as shall be reasonably requested by the Lender.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+ARTICLE IV
+
+
+ 
+
+AFFIRMATIVE COVENANTS
+
+ 
+
+The Borrower covenants and agrees with the Lender that from the date hereof and so long as this Agreement is in effect (by extension, amendment or otherwise) and until payment in full of all Indebtedness and the performance of all other obligations of the Borrower under this Agreement, unless the Lender shall otherwise consent in writing:
+
+ 
+
+4.1 Payment of Taxes and Claims.  The Borrower will pay and discharge or cause to be paid and discharged all Taxes imposed upon the income or profits of the Borrower or upon the property, real, personal or mixed, or upon any part thereof, belonging to Borrower before the same shall be in default, and all lawful claims for labor, rentals, materials and supplies which, if unpaid, might become a Lien upon its property or any part thereof; provided, however, that the Borrower shall not be required to pay and discharge or cause to be paid or discharged any such Tax, assessment or claim so long as the validity thereof shall be contested in good faith by appropriate proceedings, and adequate book reserves shall be established with respect thereto, and the Borrower shall pay such Tax, charge or claim before any property subject thereto shall become subject to levy of attachment or execution.
+
+ 
+
+4.2 Maintenance of Existence.  The Borrower will do or cause to be done all things necessary to preserve and keep in full force and effect its organizational existence, rights and franchises and good standing in the State of Delaware and as a foreign corporation qualified in such other jurisdiction(s) in which the failure to maintain such qualification would have a Material Adverse Effect.
+
+ 
+
+4.3 Payment of Indebtedness/Performance of Obligations.  The Borrower will pay the obligations under the Note according to the reading, tenor and effect thereof and the Borrower hereby agrees to pay, when due and owing, all Indebtedness, whether or not evidenced by the Note.
+
+ 
+
+ARTICLE V
+
+
+ 
+
+NEGATIVE COVENANTS
+
+ 
+
+The Borrower covenants and agrees with the Lender that from the date hereof and so long as this Agreement is in effect (by extension, amendment or otherwise) and until payment in full of all Indebtedness, unless the Lender shall otherwise consent in writing:
+
+ 
+
+5.1 Use of Loan Proceeds.  The Borrower shall not use any proceeds of the Loan for any purpose other than those expressly permitted and contemplated by this  Agreement, and in no event shall any loan proceeds be used for any purpose that would create or cause a breach, violation or default or event of default hereunder or under any of the other Loan Documents or violation of Regulations T, U or X or any other regulation of the Board of Governors of the Federal Reserve System or to violate Section 7 of the Securities Exchange Act of 1934 or any rule or regulation thereunder, in each case as now in effect or as the same may hereinafter be in effect.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+ARTICLE VI
+
+
+ 
+
+REPRESENTATIONS AND WARRANTIES
+
+ 
+
+To induce the Lender to enter into this Agreement, and in consideration thereof, the Borrower represents, warrants, and covenants as follows:
+
+ 
+
+6.1 Good Standing, and Due Qualification.  The Borrower (a) is a limited liability company duly formed, validly existing, and in good standing under the laws of the State of Delaware; (b) has the power and authority to own its assets and to transact the business in which it is now engaged or in which it is proposed to be engaged; and (c) is duly qualified as a foreign corporation and in good standing under the laws of each other jurisdiction in which such qualification is required, except where the failure to so qualify could not reasonably be expected to have a Material Adverse Effect.  The initial Responsible Officer of the Borrower has all necessary corporate power and authority to execute and deliver this Agreement, the Note, and the other Loan Documents to the Lender.
+
+ 
+
+6.2 Litigation.  There is no action, suit, investigation or proceeding threatened or pending before any Tribunal against or affecting the Borrower or any properties or rights of the Borrower, which, if adversely determined, would result in any material adverse change in the business or condition, financial or otherwise, of the Borrower, or otherwise materially adversely affect the ability of the Borrower to perform its obligations under this Agreement.  The Borrower is not in default with respect to any judgment, order, writ, injunction, decree, rule or regulation of any Tribunal.
+
+ 
+
+6.3 Conflicting Agreements and Other Matters.  To the best of Borrower’s knowledge and belief, the Borrower is not in default in the performance of any material obligation, covenant, or condition in any material agreement to which it is a party or by which it is bound.  Neither the execution nor delivery of any of the Loan Documents, nor fulfillment of, nor compliance with their respective terms and provisions will conflict with, or result in a material breach of the terms, conditions or provisions of, or constitute a default under, or result in any material violation of, or result in the creation of any Lien (except those created by the Loan Documents) upon any of the properties or assets of the Borrower pursuant to, or require any consent, approval or other action by or any notice to or filing with any Tribunal (other than routine filings after the Effective Date with the Securities and Exchange Commission, any securities exchange and/or state blue sky authorities) pursuant to any award of any arbitrator, or any agreement, instrument or Laws to which the Borrower is subject.
+
+ 
+
+6.4 Corporate Authorization.  The Borrower has duly authorized the execution and delivery of each of the Loan Documents and the performance of their respective terms.  No other authorizations, approvals, consents or actions of any other Person are required as a prerequisite to the validity and enforceability of the Loan Documents.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+ARTICLE VII
+
+
+ 
+
+EVENTS OF DEFAULT
+
+ 
+
+7.1 Events of Default.  The occurrence of any one or more of the following events shall constitute an Event of Default (whether such occurrence shall be voluntary or involuntary or come about or be effected by operation of Law or otherwise):
+
+ 
+
+(a) Borrower shall fail to make any annual or other payment due on the Note, or fail to pay any other fee, charge or assessment within thirty (30) days after the same shall become due and payable (whether by extension, renewal, acceleration, maturity or otherwise); or
+
+ 
+
+(b) Any representation, warranty or certification of the Borrower made herein, or in any other writing furnished in connection with or pursuant to any of the Loan Documents shall have been incorrect, false or misleading in any material respect on the date when made; or
+
+ 
+
+(c) The Borrower shall fail to duly observe, perform or comply with any covenant, agreement or term (other than payment provisions which are governed by subparagraph (a) hereof) contained in this Agreement or any of the Loan Documents and such default or breach shall have not been cured or remedied within thirty (30) days following the date the Lender first notifies the Borrower in writing; or
+
+ 
+
+(d) Any of the following: (i) the Borrower shall be unable to pay its debts as they mature, or shall make an assignment for the benefit of creditors or admit in writing its inability to pay its debts generally as they become due or fail generally to pay its debts as they mature; or (ii) an order, judgment or decree is entered adjudicating the Borrower insolvent or an order for relief under the United States Bankruptcy Code is entered with respect to the Borrower; or (iii) the Borrower shall petition or apply to any Tribunal for the appointment of a trustee, receiver, custodian or liquidator of the Borrower or of any substantial part of the assets of the Borrower or shall commence any proceedings relating to the Borrower under any bankruptcy, reorganization, compromise, arrangement, insolvency, readjustment of debts, dissolution, or liquidation Law of any jurisdiction, whether now or hereafter in effect; or (iv) any such petition or application shall be filed, or any such proceedings shall be commenced, against the Borrower and the Borrower by any act shall indicate its approval thereof, consent thereto or acquiescence therein, or an order, judgment or decree shall be entered appointing any such trustee, receiver, custodian or liquidator, or approving the petition in any such proceedings, and such order, judgment or decree shall remain unstayed and in effect for more than thirty (30) days; or (v) the Borrower shall fail to make timely payment or deposit of any amount of tax required to be withheld by such Borrower and paid to or deposited to or to the credit of the United States of America pursuant to the provisions of the Internal Revenue Code of 1986, as amended, in respect of any and all wages and salaries paid to employees of the Borrower; or
+
+ 
+
+(e) Any default or event of default under any of the other Loan Documents following the lapse of any applicable curative or grace period provided therein.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+7.2 Remedies.  Upon the occurrence of any Event of Default referred to in Section 7.1, the Note and all other Indebtedness shall be immediately due and payable, without notice of any kind.  Upon the occurrence of any other Event of Default, and without prejudice to any right or remedy of the Lender under this  Agreement or the Loan Documents or under applicable Law or under any other instrument or document delivered in connection herewith, the Lender may declare the Note and the Indebtedness, or any part thereof, to be forthwith due and payable, whereupon the Note and the other Indebtedness, or such portion as is designated by the Lender shall forthwith become due and payable, without presentment, demand, notice or protest of any kind, all of which are hereby expressly waived by the Borrower.  No delay or omission on the part of the Lender in exercising any power or right hereunder or under the Note, the Loan Documents or under applicable law shall impair such right or power or be construed to be a waiver of any default or any acquiescence therein, nor shall any single or partial exercise by Lender of any such power or right preclude other or further exercise thereof or the exercise of any other such power or right by such Person.  In the event that all or part of the Indebtedness becomes or is declared to be forthwith due and payable as herein provided, Lender shall have the right to set off the amount of all the Indebtedness of the Borrower owing to such Person against, and shall have a lien upon and security interest in, all property of the Borrower in such Person’s possession at or subsequent to such default, regardless of the capacity in which such property is held, including but not limited to any balance or share of any deposit, demand, collection or agency account.  At any time after the occurrence of any Event of Default, the Lender may, at its option, cause an audit of any and/or all of the books, records and documents of the Borrower to be made by auditors satisfactory to the Lender at the expense of the Borrower.  The Lender also shall have, and may exercise, each and every right and remedy granted to it for default under the terms of the other Loan Documents.
+
+ 
+
+7.3 Application of Proceeds.  After the exercise of remedies provided for in Section 7.2 (or after the Indebtedness automatically becomes immediately due and payable as set forth in Section 7.2), any amounts received on account of such Indebtedness shall be applied in the following order:
+
+ 
+
+First:  to payment of that portion of the Indebtedness constituting fees, indemnities, expenses or other amounts (other than principal and interest) payable to the Lender (including fees, charges and disbursements of counsel);
+
+ 
+
+Second:  to payment of accrued and unpaid interest on the Indebtedness;
+
+ 
+
+Third:  to payment of unpaid principal of the Indebtedness;
+
+ 
+
+and
+
+ 
+
+Last: the balance, if any, after all of the Indebtedness has been indefeasibly paid in full, to Borrower or as otherwise required by applicable Laws.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+ARTICLE VIII
+
+
+ 
+
+MISCELLANEOUS
+
+ 
+
+8.1 Notices.  Unless otherwise provided herein, all notices, requests, consents and demands shall be in writing and shall be either hand-delivered (by courier or otherwise), mailed by certified mail, postage prepaid, or transmitted via telex or facsimile to the respective addresses specified below, or, as to any party, to such other address as may be designated by it in written notice to the other parties:
+
+ 
+
+If to the Borrower, to:
+
+
+
+
+Isramco, Inc.
+
+2425 West Loop South, Suite 810
+
+Houston, TX 77027
+
+Telephone No.:  713-621-6785
+
+Facsimile No.:  (713) 621 – 3988
+
+e – mail edyf@isramco-jay.com
+
+
+
+
+If to the Lender, to:
+
+
+
+
+I. O. C. - ISRAEL OIL COMPANY, LTD.
+
+8 Granit St.
+
+P.O.B. 10188
+
+Petach-Tikva 49002
+
+Israel
+
+Phone:  972-3-922-922-5
+
+e-mail:  office@isramco.com
+
+
+
+
+All notices, requests, consents and demands hereunder will be effective when hand-delivered or transmitted by telecopier or sent, answer-back received, respectively, by the Lender to the notice address of the Borrower, or two (2) Business Days after the date when mailed by certified mail, postage prepaid, in each case given or addressed as aforesaid by either party hereto.
+
+ 
+
+8.2 Place of Payment.  All sums payable hereunder shall be paid in immediately available funds, at such location as may be designated from time to time in writing by Lender.  If any interest, principal or other payment falls due on a date other than a Business Day, then (unless otherwise provided herein) such due date shall be extended to the next succeeding Business Day, and such extension of time will, in such case, be included in computing interest, if any, in connection with such payment.
+
+ 
+
+8.3 Survival of Agreements.  All covenants, agreements, representations and warranties made herein shall survive the execution and the delivery of Loan Documents.
+
+ 
+
+8.4 Parties in Interest.  All covenants, agreements and obligations contained in this  Agreement shall bind and inure to the benefit of the parties hereto and the respective successors and permitted assigns of the parties hereto, except that the Borrower may not assign any of its rights or obligations hereunder or under the Note without the prior written consent of the Lender.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+8.5 Governing Law.  This  Agreement and the Note shall be deemed to have been made or incurred under the Laws of the State of Texas and shall be construed and enforced in accordance with and governed by the Laws of Texas except only where the applicable remedial or procedural laws of the other jurisdictions are situated are applicable thereto.  Tex. Rev. Civ. Stat. Ann. Art. 5069, Ch 15 (which regulates certain revolving credit loan accounts and revolving tri-party accounts) shall not apply to this Agreement or the Note.
+
+ 
+
+8.6 Interest.  It is the intention of the parties hereto that the Lender shall conform strictly to usury laws applicable to them.  Accordingly, if the transactions contemplated hereby would be usurious as to the Lender under laws applicable to it (including the laws of the United States of America or any other jurisdiction whose laws may be mandatorily applicable the Lender notwithstanding the other provisions of this  Agreement), then, in that event, notwithstanding anything to the contrary in any of the Loan Documents, it is agreed as follows:  (i) the aggregate of all consideration which constitutes interest under law applicable to the Lender that is contracted for, taken, reserved, charged or received by the Lender under any of the Loan Documents or agreements or otherwise in connection with the Note shall under no circumstances exceed the Maximum Rate, and any excess shall be canceled automatically and if theretofore paid shall be credited by such Lender on the principal amount of the Indebtedness (or, to the extent that the principal amount of the Indebtedness shall have been or would thereby be paid in full, refunded by any Lender to the Borrower); and (ii) in the event that the maturity of the Note is accelerated by reason of an election of the holder thereof resulting from any Event of Default under this  Agreement or otherwise, or in the event of any required or permitted prepayment, then such consideration that constitutes interest under law applicable to the Lender may never include interest greater than the Maximum Rate, and excess interest, if any, provided for in this  Agreement or otherwise shall be canceled automatically as of the date of such acceleration or prepayment and, if theretofore paid, shall be credited by the Lender on the principal amount of the Indebtedness (or, to the extent that the principal amount of the Indebtedness shall have been or would thereby be paid in full, refunded by the Lender to the Borrower).  All sums paid or agreed to be paid to the Lender for the use, forbearance or detention of sums due hereunder shall, to the extent permitted by law, be amortized, prorated, allocated and spread throughout the full term of the Loans evidenced by the Note until payment in full so that the rate or amount of interest on account of any Loans hereunder does not exceed the Maximum Rate.  If at any time and from time to time (i) the amount of interest payable to the Lender on any date shall be computed at the highest lawful rate applicable to the Lender pursuant to this Section 8.6; and (ii) in respect of any subsequent interest computation period the amount of interest otherwise payable to Lender would be less than the amount of interest payable to the Lender computed at the highest lawful rate applicable to the Lender, then the amount of interest payable to the Lender in respect of such subsequent interest computation period shall continue to be computed at the highest lawful rate applicable to the Lender until the total amount of interest payable to the Lender shall equal the total amount of interest which would have been payable to the Lender if the total amount of interest had been computed without giving effect to this Section 8.6.  To the extent that the Texas Credit Title (V.T.C.A., Texas Finance Code  §§ 301.001 et seq.) is relevant to the Lender for the purpose of determining the highest lawful rate, the Lender hereby elects to determine the applicable ceiling rate under the Texas Credit Title by the weekly ceiling from time to time in effect.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+8.7 No Waiver, Cumulative Remedies.  No failure to exercise, and no delay in exercising, on the part of the Lender, any right, power or privilege hereunder or under any other Loan Document or applicable Law shall preclude any other or further exercise thereof or the exercise of any other right, power or privilege of the Lender.  The rights and remedies herein provided are cumulative and not exclusive of any other rights or remedies provided by any other instrument or by law.  No notice to or demand on the Borrower in any case shall entitle the Borrower to any other or further notice or demand in similar or other circumstances.
+
+ 
+
+8.8 Costs.  The Borrower agrees to pay to the Lender on demand all recording fees and filing costs, all reasonable attorneys fees and reasonable legal expenses incurred or accrued by the Lender in connection with and preparation, negotiation, closing, administration, perfection, enforcement, refinancing, renegotiation, restructuring, amendment, waiver or other modifications of this Agreement and the Loan Documents or any amendment, waiver, consent or modification to and of the Loan Documents.  In any action to enforce or construe the provisions of this Agreement or any of the Loan Documents, the Lender shall be entitled to recover its reasonable attorneys’ fees, disbursements of counsel and all costs and expenses related thereto.
+
+ 
+
+8.9 Right of Set - Off.  The Borrower hereby grants to the Lender a lien, security interest and right of setoff as security for all Indebtedness and obligations of the Borrower upon and against all deposits, credit, and property of the Borrower, now or hereafter in the possession, custody, safekeeping or control of such Person; and upon (a) the occurrence and during the continuance of any Event of Default; and (b) the decision by the Lender to declare the Note due and payable pursuant to the provisions of Article VII, the Lender is hereby authorized at any time and from time to time, to set off and otherwise apply any and all deposits (general or special, time or demand, provisional or final, other than trust funds) at any time held and other indebtedness at any time owing by the Lender to or for the credit or the account of the Borrower against any and all of the Indebtedness of the Borrower now or hereafter existing under this  Agreement and the Note, irrespective of whether demand under this  Agreement or the Note shall have been made and although such Indebtedness may be unmatured.  The Lender shall promptly notify the Borrower after any such set off and application; provided, however, that the failure to give such notice shall not affect the validity of such setoff and application.  The rights of the Lender under this Section are in addition to other rights and remedies (including, without limitation, other rights of set - off) that such Persons may have at law, in equity or otherwise.
+
+ 
+
+8.10 Headings.  The article and section headings of this Agreement are for convenience of reference only and shall not constitute a part of the text hereof nor alter or otherwise affect the meaning or interpretation of any provision hereof.
+
+ 
+
+8.11 Severability.  The unenforceability or invalidity as determined by a Tribunal of competent jurisdiction, of any provision or provisions of this  Agreement shall not render unenforceable or invalid any other provision or provisions hereof.
+
+ 
+
+8.12 Survival.  To the extent that any payments on the Indebtedness are subsequently invalidated, declared to be fraudulent or preferential, set aside or required to be repaid to a trustee, debtor-in-possession, receiver or other Person under any bankruptcy law, common law or equitable cause, then to such extent, the Indebtedness so satisfied shall be revived and continue as if such payment or proceeds had not been received and the Liens, security interests, rights, powers and remedies under this  Agreement shall continue in full force and effect.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+NO ORAL AGREEMENTS.  THE LOAN DOCUMENTS EMBODY THE ENTIRE AGREEMENT AND UNDERSTANDING BETWEEN THE PARTIES AND SUPERSEDE ALL OTHER AGREEMENTS AND UNDERSTANDINGS BETWEEN SUCH PARTIES RELATING TO THE SUBJECT MATTER HEREOF AND THEREOF THE LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+
+ 
+
+8.13 Counterparts.  This Agreement may be executed in any number of counterparts, all of which taken together shall constitute one and the same instrument and any of the parties hereto may execute this Agreement by signing any such counterpart.  Delivery of an executed counterpart of a signature page to this Agreement by telecopier shall be as effective as delivery of a manually executed counterpart of this Agreement.
+
+ 
+
+8.14 Amendments.  No amendment or waiver of any provision of this  Agreement, the Note, or any other Loan Document to which the Borrower is a party, nor any consent to any departure by the Borrower therefrom, shall in any event be effective unless the same shall be agreed or consented to by the Lender and the Borrower, and each such waiver or consent shall be effective only in the specific instance and for the specific purpose for which given; provided, that no amendment, waiver, or consent shall, unless in writing and signed by the Lender and the Borrower, do any of the following:  (a) reduce the principal of, or interest on, the Note or any fees or other amounts payable hereunder; (b) postpone any date fixed for any payment of principal of, or interest on, the Note or any fees or other amounts payable hereunder; (c) change the percentage of the Commitment or of the aggregate unpaid principal amount of the Note; or (d) change any provision contained in this Section 8.15.
+
+ 
+
+8.15  Successors and Assigns.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.  The Borrower may not assign or transfer any of its rights or obligations hereunder without the prior written consent of the Lender.
+
+ 
+
+IN WITNESS WHEREOF, the Borrower has caused this Agreement to be executed and delivered to the Lender, effective as of the day and year first above written by the undersigned duly authorized corporate officer of the Borrower.
+
+ 
+
+BORROWER:
+
+
+
+
+ISRAMCO, INC.
+
+
+
+
+By:                                                                                          
+
+Haim Tsuff, Chief Executive Officer
+
+ 
+ 
+
+LENDER:
+
+
+
+
+I. O. C. - ISRAEL OIL COMPANY, LTD.
+
+
+
+
+By:                                                                                          
+
+Name: ____________________________________
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+Exhibit A
+
+ 
+
+PROMISSORY NOTE
+
+ 
+
+ 
+
+
+
+
+US $1,500,000.00
+Houston, Texas 
+February 13, 2013
+
+
+
+ 
+
+ 
+
+FOR VALUE RECEIVED, ISRAMCO, INC., a Delaware corporation with offices at 2425 West Loop South, Suite 810, Houston, Texas 77027 (herein called the “Maker”), promises to pay to the order of I. O. C. - ISRAEL OIL COMPANY, LTD. (herein called the “Payee”) at its main office at 8 Granit St., P. O. B. 10188, Petach – Tikva, 49002, Israel, or such other place as Payee may designate in writing from time to time, in lawful money of the United States of America, the sum of ONE MILLION FIVE HUNDRED THOUSAND AND NO/100 DOLLARS (US $1,500,000.00), payable as follows:
+
+ 
+
+(a)           Principal.  Principal shall be due and payable on the Maturity Date (as defined below).
+
+ 
+
+(b)           Interest.  All accrued interest shall be payable annually on December 31, 2014, December 31, 2015, December 31, 2016 and December 31, 2017 until final maturity, when the entire unpaid principal balance and all accrued interest shall be paid.  Interest shall accrue at the Stated Rate.
+
+ 
+
+If any payment shall be due on a day that is not a business day, such payment shall be due and payable on the next business day and interest shall accrue to such day.
+
+ 
+
+This Note shall be due and payable on or before February 13, 2018, being the final maturity date of this Note (the “Maturity Date”) when the entire unpaid principal balance and all unpaid accrued interest owing, together with all other fees and charges, if any, will be due and payable in full.
+
+ 
+
+"Stated Rate" means a rate per annum equal to LIBOR plus 6%; provided, however, that if the Stated Rate ever exceeds the Highest Lawful Rate, the Stated Rate shall then and thereafter be fixed at a rate per annum equal to the Highest Lawful Rate then and from time to time thereafter in effect until the total amount of interest accrued at the Stated Rate on the unpaid balance of this Note equals the total amount of interest which would have accrued at the Highest Lawful Rate from time to time in effect.
+
+ 
+
+"Highest Lawful Rate" means, on any day, the maximum nonusurious rate of interest permitted for that day by whichever of applicable federal or Texas laws permits the higher interest rate, stated as a rate per annum.  On each day, if any, that the Texas Credit Title (V.T.C.A., Texas Finance Code §§ 301.001 et seq.) establishes the Ceiling Rate, the Ceiling Rate shall be the “weekly ceiling” (as defined in the Texas Credit Title) for that day.  Payee may from time to time, as to current and future balances, implement any other ceiling under the Texas Credit Title by notice to Maker, if and to the extent permitted by the Texas Finance Code.  Without notice to Maker or any other person or entity, the Ceiling Rate shall automatically fluctuate upward and downward as and in the amount by which such maximum nonusurious rate of interest permitted by applicable law fluctuates.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+“Interest Period” shall mean shall mean the period commencing on the Effective Date and ending on the numerically corresponding day every year thereafter.
+
+ 
+
+Interest on this Note shall be computed for the actual number of days elapsed and on the basis of a year consisting of 365 days, unless the Highest Lawful Rate would thereby be exceeded, in which event, to the extent necessary to avoid exceeding the Highest Lawful Rate, interest shall be computed on the basis of the actual number of days elapsed in the applicable calendar year in which accrued.
+
+ 
+
+The payment of this Note is unsecured.
+
+ 
+
+The Maker may at any time pay the full amount or any part of this Note without the payment of any premium or fee.  All payments and prepayments hereon shall be applied first to accrued interest and the balance to principal in the inverse order of maturity.
+
+ 
+
+All past due principal and interest on this Note shall bear interest at the Highest Lawful Rate, or only if applicable law shall not provide a maximum nonusurious rate of interest, then at the Stated Rate plus an additional twelve percent (12%) per annum.
+
+ 
+
+The Maker and any and all co-makers, endorsers, guarantors and sureties jointly and severally waive notice (including, but not limited to, notice of intent to accelerate and notice of acceleration), demand, presentment for payment, protest and the filing of suit for the purpose of fixing liability and consent that the time of payment hereof may be extended and re-extended from time to time without notice to them or any of them, and each agree that his, her or its liability on or with respect to this Note shall not be affected by any release of or change in any security at any time existing or by any failure to perfect or to maintain perfection of any lien on or security interest in any such security.
+
+ 
+
+This Note shall be governed by and construed in accordance with the laws of the State of Texas and of the United States of America from time to time in effect.
+
+ 
+
+If (i) any installment or payment of principal or interest of this Note is not paid when due; or (ii) Maker or any drawer, accepter, endorser, guarantor, surety, accommodation party or other person now or hereafter primarily or secondarily liable upon or for payment of all or any part of this Note or any person or entity which has pledged any security for the indebtedness evidenced by this Note (hereinafter collectively called an “other liable party”) shall die, or become insolvent (however such insolvency may be evidenced); or (iii) any proceeding, procedure or remedy supplementary to or in enforcement of judgment shall be resorted to or commenced against Maker or any other liable party, or with respect to any property of any of them; or (iv) any governmental authority or any court at the instance thereof shall take possession of any substantial part of the property of or assume control over the affairs or operations of, or a receiver shall be appointed for or take possession of the property of, or a writ or order of attachment or garnishment shall be issued or made against any of the property of Maker or any other liable party; or (v) any indebtedness for which Maker or any other liable party is primarily or secondarily liable shall not be paid when due or shall become due and payable by acceleration of maturity thereof; or (vi) there is any occurrence of any event of default under any security instrument or guaranty at any time securing or guaranteeing payment of this or any other indebtedness of the Maker to the Payee, whether now existing or which may exist in the future, or (vii) any event or condition shall occur which shall permit the holder of any such indebtedness to declare it due and payable upon the lapse of time, giving of notice or otherwise; or (viii)  Maker of any other liable party (if other than a natural person) shall be dissolved, wound up, liquidated or otherwise terminated, or a party to any merger or consolidation without the written consent of Payee; or (ix) if Maker or any other liable party shall sell substantially all or an integral portion of its assets without the written consent of Payee; or (x) Maker or any other liable party fails to furnish financial information requested by Payee or if Maker or any other liable party furnishes or has furnished any financial or other information or statements which are misleading in any respect; or (xi) if Payee in good faith either believes the prospect of repayment of this Note is impaired or deems itself insecure; thereupon, at the option of Payee, this Note and any and all other indebtedness of Maker to Payee shall become and be due and payable forthwith without demand, notice of default or of intent to accelerate the maturity hereof, notice of acceleration of the maturity hereof, notice of nonpayment, presentment, protest or notice of dishonor, all of which are hereby expressly waived by Maker and each other liable party.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+In addition to all principal and accrued interest on this Note, Maker agrees to pay (a) all reasonable costs and expenses incurred by Payee in collecting this Note to abate probate, reorganization, bankruptcy or any other proceedings, and (b) reasonable attorneys fees when and if this Note is placed in the hands of an attorney for collection after default.
+
+ 
+
+Each Maker and all sureties and endorsers of this Note, and each party hereafter assuming or otherwise becoming liable hereon: (i) agree to any substitution, exchange or release of any such security or the release of any party primarily or secondarily liable hereon; (ii) agree that the Payee or other holder hereof shall not be required first to institute suit or exhaust its remedies hereon against the Maker or others liable or to become liable hereon or enforce its rights against any security herefor in order to enforce payment of this Note by it; and (iii) consent to any extensions or postponement of time of payment of this Note and to any other indulgence with respect hereto without notice thereof to any of them.
+
+ 
+
+All agreements between the Maker hereof and the Payee, whether now existing or hereafter arising and whether written or oral, are hereby expressly limited so that in no event, whether by reason of acceleration of maturity hereof or otherwise, shall the amount paid or agreed to be paid to the Payee for the use, forbearance, or detention of the money to be loaned hereunder or otherwise exceed the Highest Lawful Rate.  If fulfillment of any provision hereof or of any mortgage, loan agreement, or other document evidencing or securing the indebtedness evidenced hereby, at the time performance of such provision shall be due, shall involve transcending the limit of validity prescribed by law, then, ipso facto, the obligation to be fulfilled shall be reduced to the limit of such validity; and if the Payee shall ever receive anything of value deemed interest under applicable law which would exceed interest at the Highest Lawful Rate, an amount equal to any excessive interest shall be applied to the reduction of the principal amount owing hereunder and not to the payment of interest, or if such excessive interest exceeds the unpaid balance of principal hereof, such excess shall be refunded to the Maker.  All sums paid or agreed to be paid to the Payee for the use, forbearance, or detention of the indebtedness of the Maker to the Payee shall, to the extent permitted by applicable law, be amortized, prorated, allocated, and spread throughout the full term of such indebtedness until payment in full so that the rate of interest on account of such indebtedness is uniform throughout the term thereof.  The provisions of this paragraph shall control all agreements between the Maker and the Payee.
+
+ 
+
+IN WITNESS WHEREOF, the undersigned Maker has duly executed this Note effective as of the day and year above first written.
+
+ 
+
+
+ 
+
+ 
+
+ISRAMCO, INC.
+
+ 
+
+
+
+
+ 
+
+By: _________________________________
+
+ 
+
+Haim Tsuff, Chief Executive Officer
+
+ 
+
+ 
+
+
+ 
+
+
+

@@ -1,0 +1,2328 @@
+
+EX-10.19
+2
+a2213202zex-10_19.htm
+EX-10.19
+
+
+
+
+
+
+
+Exhibit 10.19
+ 
+Execution Version
+ 
+$750,000,000
+ 
+HALCÓN RESOURCES CORPORATION
+9.75% SENIOR NOTES DUE 2020
+ 
+PURCHASE AGREEMENT
+ 
+June 29, 2012
+ 
+BARCLAYS CAPITAL INC.
+ 
+As Representative of the several Initial Purchasers named in Schedule I attached hereto,
+ 
+c/o Barclays Capital Inc. 745 Seventh Avenue New York, New York 10019
+ 
+Ladies and Gentlemen:
+ 
+Halcón Resources Corporation, a Delaware corporation (the Company), proposes, upon the terms and conditions set forth in this agreement (this Agreement), to issue and sell to you, as the initial purchasers (the Initial Purchasers), $750,000,000 in aggregate principal amount of its 9.75% Senior Notes due 2020 (the Notes).  The Notes will (i) have terms and provisions that are summarized in the Offering Memorandum (as defined below), and (ii) are to be issued pursuant to an Indenture (the Indenture) to be entered into among the Company, the Guarantors (as defined below) and U.S. Bank Trust National Association, as trustee (the Trustee).  The Companys obligations under the Notes, including the due and punctual payment of interest on the Notes, will be irrevocably and unconditionally guaranteed (the Guarantees) by the guarantors listed in Schedule II hereto (together the Guarantors).  As used herein, the term Notes shall include the Guarantees, unless the context otherwise requires.  This Agreement is to confirm the agreement concerning the purchase of the Notes from the Company by the Initial Purchasers.
+ 
+1.             Purchase and Resale of the Notes.  The Notes will be offered and sold to the Initial Purchasers without registration under the Securities Act of 1933, as amended (the Securities Act), in reliance on an exemption pursuant to Section 4(2) under the Securities Act.  The Company and the Guarantors have prepared a preliminary offering memorandum, dated June 25, 2012 (the Preliminary Offering Memorandum), a pricing term sheet substantially in the form attached hereto as Schedule III (the Pricing Term Sheet) setting forth the terms of the Notes omitted from the Preliminary Offering Memorandum and certain other information and an offering memorandum, dated June 29, 2012 (the Offering Memorandum), setting forth information regarding the Company, the Guarantors, the Notes and the Exchange Notes (as defined herein) and the Guarantees and the Exchange Guarantees (as defined herein).  The
+ 
+
+
+
+
+
+
+ 
+Preliminary Offering Memorandum, as supplemented and amended as of the Applicable Time (as defined below), together with the Pricing Term Sheet and any of the documents listed on Schedule IV(A) hereto are collectively referred to as the Pricing Disclosure Package.  The Company and the Guarantors hereby confirm that they  have authorized the use of the Pricing Disclosure Package and the Offering Memorandum in connection with the offering and resale of the Notes by the Initial Purchasers. Applicable Time means 3:00 p.m. (New York City time) on the date of this Agreement.
+ 
+Any reference to the Preliminary Offering Memorandum, the Pricing Disclosure Package or the  Offering Memorandum shall be deemed to refer to and include each of the Companys and GeoResources most recent Annual Report on Form 10-K and all subsequent documents filed with the United States Securities and Exchange Commission (the Commission) pursuant to Section 13(a), 13(c) or 15(d) of the United States Securities Exchange Act of 1934, as amended (the Exchange Act), on or prior to the date of the Preliminary Offering Memorandum, the Pricing Disclosure Package or the Offering Memorandum, as the case may be that are incorporated by reference therein.  Any reference to the Preliminary Offering Memorandum, Pricing Disclosure Package or the  Offering Memorandum, as the case may be, as amended or supplemented, as of any specified date, shall be deemed to include any documents filed with the Commission by the Company pursuant to Section 13(a), 13(c) or 15(d) of the Exchange Act after the date of the Preliminary Offering Memorandum, Pricing Disclosure Package or the Offering Memorandum, as the case may be, and prior to such specified date.  All documents filed under the Exchange Act that are incorporated by reference therein shall be deemed to be included in the Preliminary Offering Memorandum, Pricing Disclosure Package or the Offering Memorandum, as the case may be, or any amendment or supplement thereto are hereinafter called the Exchange Act Reports.
+ 
+You have advised the Company that you will offer and resell (the Exempt Resales) the Notes purchased by you hereunder on the terms set forth in each of the Pricing Disclosure Package and the Offering Memorandum, as amended or supplemented, solely to (i) persons whom you reasonably believe to be qualified institutional buyers as defined in Rule 144A under the Securities Act (QIBs), and (ii) outside the United States to certain persons who are not U.S. Persons (as defined in Regulation S under the Securities Act (Regulation S)) (such persons, Non-U.S. Persons) in offshore transactions in reliance on Regulation S.  As used herein, the terms offshore transaction and United States have the meanings assigned to them in Regulation S.  Those persons specified in clauses (i) and (ii) are referred to herein as Eligible Purchasers.
+ 
+The Notes are being issued to finance a portion of the consideration for the acquisition of all the issued and outstanding shares of GeoResources, Inc. (GeoResources) common stock pursuant to the Merger Agreement (the Merger Agreement) between the Company and GeoResources, effective April 24, 2012 which provides, among other things, for the merger of GeoResources with a wholly-owned subsidiary of the Company (the GeoResources Merger).  On or prior to the Closing Date, the Company and U.S. Bank Trust National Association, as escrow agent (the Escrow Agent) will execute an escrow agreement, in form and substance to be agreed between the Escrow Agent, the Trustee and the Initial Purchasers, which shall conform in all material respects with the description thereof included in the Pricing Disclosure Package and the Offering Memorandum (the Escrow Agreement), and will direct the deposit in an
+ 
+2
+
+
+
+
+
+
+ 
+escrow account (the Escrow Account) with the Escrow Agent, of the aggregate purchase price of the Notes.  The Escrow Agreement shall provide that the escrowed funds shall only be released and paid out pursuant to the terms of the Escrow Agreement.
+ 
+In addition, immediately following the consummation of the GeoResources Merger, the Representative and each entity acquired in the GeoResources Merger that will become a Guarantor under the Indenture pursuant to the terms thereof (the Acquired Guarantors) shall execute and deliver a joinder agreement in the form attached hereto as Exhibit A (the Joinder Agreement) whereby each such Acquired Guarantor will agree to observe and fully perform all of the rights, obligations and liabilities contemplated herein as if it were an original signatory hereto.
+ 
+Holders (including subsequent transferees) of the Notes will have the registration rights set forth in the registration rights agreement in a form satisfactory to the Initial Purchasers (the Registration Rights Agreement) between the Company, the Guarantors and the Initial Purchasers to be dated the Closing Date (as defined herein), for so long as such Notes constitute Transfer Restricted Securities (as defined in the Registration Rights Agreement).  Pursuant to the Registration Rights Agreement, the Company and the Guarantors will agree to file with the Commission under the circumstances set forth therein, a registration statement under the Securities Act relating to the Companys 9.75% Senior Notes due 2020 (the Exchange Notes) and the Guarantors Exchange Guarantees (the Exchange Guarantees to be offered in exchange for the Notes and the Guarantees.  Such portion of the offering is referred to as the Exchange Offer.
+ 
+2.
+ 
+(A)          Representations, Warranties and Agreements of the Company and the Guarantors.  The Company and each of the Guarantors, jointly and severally, represent, warrant and agree as follows:
+ 
+(a)           When the Notes and Guarantees are issued and delivered pursuant to this Agreement, such Notes and Guarantees will not be of the same class (within the meaning of Rule 144A under the Securities Act) as securities of the Company or the Guarantors that are listed on a national securities exchange registered under Section 6 of the Exchange Act or that are quoted in a United States automated inter-dealer quotation system.
+ 
+(b)           Neither the Company nor any subsidiary of the Company is or, after giving effect to the offer and sale of the Notes and the application of the proceeds therefrom as described under Use of Proceeds in each of the Pricing Disclosure Package and the Offering Memorandum, will be an investment company or a company controlled by an investment company within the meaning of the Investment Company Act of 1940, as amended, and the rules and regulations of the Commission thereunder.
+ 
+(c)           Assuming the accuracy of your representations and warranties in Section 3(b), the purchase and resale of the Notes pursuant hereto (including pursuant to the Exempt Resales) are exempt from the registration requirements of the Securities Act.  No form of general solicitation or general advertising within the meaning of Regulation D (including, but not limited
+ 
+3
+
+
+
+
+
+
+ 
+to, advertisements, articles, notices or other communications published in any newspaper, magazine or similar medium or broadcast over television or radio, or any seminar or meeting whose attendees have been invited by any general solicitation or general advertising) was used by the Company, the Guarantors, or any person acting on behalf of the Company or the Guarantors (other than you, as to whom the Company and the Guarantors make no representation) in connection with the offer and sale of the Notes.
+ 
+(d)           No directed selling efforts within the meaning of Rule 902 under the Securities Act were used by the Company, the Guarantors, any affiliate of the Company or the Guarantors or any person acting on behalf of the Company or the Guarantors (other than you, as to whom the Company and the Guarantors make no representation) with respect to Notes sold outside the United States to Non-U.S. Persons, and the Company and any person acting on its behalf (other than you, as to whom the Company and the Guarantors make no representation) has complied with and will implement the offering restrictions required by Rule 902 under the Securities Act.
+ 
+(e)           Each of the Preliminary Offering Memorandum, the Pricing Disclosure Package and the Offering Memorandum, each as of its respective date, contains all the information specified in, and meeting the requirements of, Rule 144A(d)(4) under the Securities Act.
+ 
+(f)            The Preliminary Offering Memorandum, the Pricing Disclosure Package and the Offering Memorandum have been prepared by the Company and the Guarantors for use by the Initial Purchasers in connection with the Exempt Resales.  No order or decree preventing the use of the Preliminary Offering Memorandum, the Pricing Disclosure Package or the Offering Memorandum, or any order asserting that the transactions contemplated by this Agreement are subject to the registration requirements of the Securities Act has been issued, and no proceeding for that purpose has commenced or is pending or, to the knowledge of the Company or any of the Guarantors is contemplated.
+ 
+(g)           The Pricing Disclosure Package did not, as of the Applicable Time, and will not, as of the Closing Date, contain an untrue statement of a material fact or omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided that no representation or warranty is made as to information contained in or omitted from the Pricing Disclosure Package in reliance upon and in conformity with written information furnished to the Company through the Representatives by or on behalf of any Initial Purchaser specifically for inclusion therein, which information is specified in Section 8(e).
+ 
+(h)           The Offering Memorandum will not, as of its date or as of the Closing Date, contain an untrue statement of a material fact or omit to state a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided that no representation or warranty is made as to information contained in or omitted from the Offering Memorandum in reliance upon and in conformity with written information furnished to the Company through the Representatives by or on behalf of any Initial Purchaser specifically for inclusion therein, which information is specified in Section 8(e).
+ 
+4
+
+
+
+
+
+
+ 
+(i)            Neither the Company nor any Guarantor has made any offer to sell or solicitation of an offer to buy the Notes that would constitute a free writing prospectus (if the offering of the Notes was made pursuant to a registered offering under the Securities Act), as defined in Rule 405 under the Securities Act (a Free Writing Offering Document) without the prior consent of the Representatives; any such Free Writing Offering Document the use of which has been previously consented to by the Initial Purchasers is listed on Schedule IV.
+ 
+(j)            The Pricing Disclosure Package, when taken together with each Free Writing Offering Document listed in Schedule IV(B) hereto, did not, as of the Applicable Time, and will not, as of the Closing Date, contain an untrue statement of a material fact or omit to state a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided that no representation or warranty is made as to information contained in or omitted from the Pricing Disclosure Package (or Free Writing Offering Document listed in Schedule IV(B) hereto) in reliance upon and in conformity with written information furnished to the Company through the Representatives by or on behalf of any Initial Purchaser specifically for inclusion therein, which information is specified in Section 8(e).
+ 
+(k)           The Companys Exchange Act Reports, when they were or are filed with the Commission, conformed or will conform in all material respects to the applicable requirements of the Exchange Act and the applicable rules and regulations of the Commission thereunder.  The Companys Exchange Act Reports did not and will not, when filed with the Commission, contain an untrue statement of material fact or omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+ 
+(l)            The statistical and market-related data relating to the Company included in the Pricing Disclosure Package and the Offering Memorandum and the consolidated financial statements of the Company and its subsidiaries and the financial statements of the East Texas Assets included and incorporated by reference in the Pricing Disclosure Package and the Offering Memorandum are based on or derived from sources that the Company believes to be reliable in all material respects.
+ 
+(m)          The Company has been duly incorporated, is validly existing and is in good standing under the laws of State of Delaware, with corporate power and authority to own, lease and operate its properties and conduct its business as described in the Pricing Disclosure Package and the Offering Memorandum; the Company is duly qualified as a foreign corporation to transact business and is in good standing in each other jurisdiction in which such qualification is required, whether by reason of the ownership or leasing of property or the conduct of business, except where the failure to qualify or to be in good standing would not have a material adverse effect on the business, properties, prospects, financial condition, stockholders equity or results of operations of the Company and its subsidiaries taken as a whole (a Material Adverse Effect); each subsidiary of the Company other than those subsidiaries which would not, individually or in the aggregate, constitute a significant subsidiary as defined in Item 1-02(w) of Regulation S-X (each such significant subsidiary, a Subsidiary) is a corporation, partnership, limited liability company or business trust duly incorporated or organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation or
+ 
+5
+
+
+
+
+
+
+ 
+organization, with the requisite entity power and authority to own, lease and operate its properties.  The Company does not own or control, directly or indirectly, any corporation, association or other corporate entity that, individually or in the aggregate would constitute a Subsidiary, other than the subsidiaries listed on Schedule II hereof.  On a consolidated basis, the Company and its subsidiaries conduct their business as described in the Preliminary Offering Memorandum and the Pricing Disclosure Package and each Subsidiary is duly qualified as a foreign corporation, partnership, limited liability company, business trust or other organization to transact business and is in good standing in each jurisdiction in which such qualification is required, whether by reason of the ownership or leasing of property or the conduct of business, except where the failure to qualify or to be in good standing would not result in a Material Adverse Effect.
+ 
+(n)           The Company has the authorized equity capitalization as set forth in the Preliminary Offering Memorandum and the Pricing Disclosure Package, and all of the issued and outstanding shares of capital stock of the Company have been duly authorized and validly issued and are fully paid and non-assessable.  Except as otherwise disclosed in the Preliminary Offering Memorandum and the Pricing Disclosure Package, all of the issued and outstanding capital stock or other ownership interests of each subsidiary of the Company (i) have been duly authorized and validly issued, (ii) are fully paid and non-assessable and (iii) are owned by the Company directly or through subsidiaries, free and clear of any security interest, mortgage, pledge, lien, encumbrance, claim or equity except as described in the Preliminary Offering Memorandum and the Pricing Disclosure Package and except for such security interests, mortgages, pledges, liens, encumbrances, claims or equities that would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+ 
+(o)           The Company and each Guarantor has all requisite corporate power, partnership or limited liability company and authority, as applicable, to execute, deliver and perform its obligations under the Indenture.  The Indenture has been duly and validly authorized by the Company and the Guarantors, and upon its execution and delivery and, assuming due authorization, execution and delivery by the Trustee, will constitute the valid and binding agreement of the Company and the Guarantors, enforceable against the Company and the Guarantors in accordance with its terms, except as such enforceability may be limited by bankruptcy, fraudulent conveyance, insolvency, reorganization, moratorium, and other laws relating to or affecting creditors rights generally and by general equitable principles (regardless of whether such enforceability is considered in a proceeding in equity or at law).  No qualification of the Indenture under the Trust Indenture Act of 1939 (the Trust Indenture Act) is required in connection with the offer and sale of the Notes contemplated hereby or in connection with the Exempt Resales.  The Indenture will conform to the description thereof in each of the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(p)           The Company has all requisite corporate power and authority to execute, issue, sell and perform its obligations under the Notes.  The Notes have been duly authorized by the Company and, when duly executed by the Company in accordance with the terms of the Indenture, assuming due authentication of the Notes by the Trustee, upon delivery to the Initial Purchasers against payment therefor in accordance with the terms hereof, will be validly issued and delivered and will constitute valid and binding obligations of the Company entitled to the benefits of the Indenture, enforceable against the Company in accordance with their terms,
+ 
+6
+
+
+
+
+
+
+ 
+except as such enforceability may be limited by bankruptcy, fraudulent conveyance, insolvency, reorganization, moratorium, and other laws relating to or affecting creditors rights generally and by general equitable principles (regardless of whether such enforceability is considered in a proceeding in equity or at law).  The Notes will conform in all material respects to the description thereof in each of the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(q)           The Company has all requisite corporate power and authority to execute, issue and perform its obligations under the Exchange Notes.  The Exchange Notes have been duly and validly authorized by the Company and if and when issued and authenticated in accordance with the terms of the Indenture and delivered in accordance with the Exchange Offer provided for in the Registration Rights Agreement, will be validly issued and delivered and will constitute valid and binding obligations of the Company entitled to the benefits of the Indenture, enforceable against the Company in accordance with their terms, except as such enforceability may be limited by bankruptcy, fraudulent conveyance, insolvency, reorganization, moratorium, and other laws relating to or affecting creditors rights generally and by general equitable principles (regardless of whether such enforceability is considered in a proceeding in equity or at law).
+ 
+(r)            Each Guarantor has all requisite corporate, partnership or limited liability company power and authority, as applicable, to execute, issue and perform its obligations under the Guarantees.  The Guarantees have been duly and validly authorized by the Guarantors and when the Indenture is duly executed and delivered by the Guarantors in accordance with its terms and upon the due execution, authentication and delivery of the Notes in accordance with the Indenture and the issuance of the Notes in the sale to the Initial Purchasers contemplated by this Agreement, will constitute valid and binding obligations of the Guarantors, enforceable against the Guarantors in accordance with their terms, except as such enforceability may be limited by bankruptcy, fraudulent conveyance, insolvency, reorganization, moratorium, and other laws relating to or affecting creditors rights generally and by general equitable principles (regardless of whether such enforceability is considered in a proceeding in equity or at law).  The Guarantees will conform in all material respects to the description thereof in each of the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(s)            Each Guarantor has all requisite corporate, partnership or limited liability company power and authority, as applicable, to execute, issue and perform its obligations under the Exchange Guarantees.  The Exchange Guarantees have been duly and validly authorized by the Guarantors and if and when executed and delivered by the Guarantors in accordance with the terms of the Indenture and upon the due execution and authentication of the Exchange Notes in accordance with the Indenture and the issuance and delivery of the Exchange Notes in the Exchange Offer contemplated by the Registration Rights Agreement, will be validly issued and delivered and will constitute valid and binding obligations of the Guarantors entitled to the benefits of the Indenture, enforceable against the Guarantors in accordance with their terms, except as such enforceability may be limited by bankruptcy, fraudulent conveyance, insolvency, reorganization, moratorium, and other laws relating to or affecting creditors rights generally and by general equitable principles (regardless of whether such enforceability is considered in a proceeding in equity or at law).
+ 
+7
+
+
+
+
+
+
+ 
+(t)            The Company and each Guarantor has all requisite corporate, partnership or limited liability company power and authority, as applicable, to execute, deliver and perform its obligations under the Registration Rights Agreement.  The Registration Rights Agreement has been duly authorized by the Company and each Guarantor and, when executed and delivered by the Company and each Guarantor in accordance with the terms hereof and thereof, will be validly executed and delivered and (assuming the due authorization, execution and delivery thereof by you) will be the legally valid and binding obligation of the Company and each Guarantor in accordance with the terms thereof, enforceable against the Company and each Guarantor in accordance with its terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium and other similar laws relating to or affecting creditors rights generally, by general equitable principles (regardless of whether such enforceability is considered in a proceeding in equity or at law) and, as to rights of indemnification and contribution, by principles of public policy.  The Registration Rights Agreement will conform in all material respects to the description thereof in each of the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(u)           The Company has all requisite corporate, partnership or limited liability company power and authority, as applicable, to execute, deliver and perform its obligations under the Escrow Agreement.  The Escrow Agreement has been duly authorized by the Company and, when executed and delivered by the Company in accordance with the terms hereof and thereof, will be validly executed and delivered and (assuming the due authorization, execution and delivery thereof by the Escrow Agent and the Trustee) will be the legally valid and binding obligation of the Company in accordance with the terms thereof, enforceable against the Company in accordance with its terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium and other similar laws relating to or affecting creditors rights generally, by general equitable principles (regardless of whether such enforceability is considered in a proceeding in equity or at law).  The Escrow Agreement will conform in all material respects to the description thereof in each of the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(v)           Prior to or contemporaneously with the consummation of the GeoResources Merger, the Joinder Agreement will have been duly authorized, executed and delivered by each Acquired Guarantor and, when executed and delivered by such Acquired Guarantors, will be a valid and binding agreement of such Acquired Guarantors, enforceable in accordance with its terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium and other similar laws relating to or affecting creditors rights generally, by general equitable principles (regardless of whether such enforceability is considered in a proceeding in equity or at law).
+ 
+(w)          The Company and each Guarantor has all requisite corporate power to execute, deliver and perform its obligations under this Agreement.  This Agreement has been duly and validly authorized, executed and delivered by the Company and each of the Guarantors.
+ 
+(x)           The issue and sale of the Notes and the Guarantees, the execution, delivery and performance by the Company and the Guarantors of the Notes, the Guarantees, the Exchange Notes, the Exchange Guarantees, the Indenture, the Registration Rights Agreement, the Escrow Agreement, the Joinder Agreement and this Agreement, the application of the proceeds from the
+ 
+8
+
+
+
+
+
+
+ 
+sale of the Notes as described under Use of Proceeds in each of the Pricing Disclosure Package and the Offering Memorandum, the consummation of the transactions contemplated hereby and thereby and the execution, delivery and performance of the Merger Agreement (assuming the satisfaction of all conditions to closing set forth therein), will not (i) conflict with or result in a breach or violation of any of the terms or provisions of, impose any lien, charge or encumbrance upon any property or assets of the Company, the Guarantors or their respective subsidiaries, or constitute a default under, any indenture, mortgage, deed of trust, loan agreement, license, lease or other agreement or instrument to which the Company, the Guarantors or any of their respective subsidiaries is a party or by which the Company, the Guarantors or any of their respective subsidiaries is bound or to which any of the property or assets of the Company, the Guarantors or any of their respective subsidiaries is subject, (ii) result in any violation of the provisions of the charter or by-laws (or similar organizational documents) of the Company, the Guarantors or any of their respective subsidiaries, or (iii) result in any violation of any statute or any judgment, order, decree, rule or regulation of any court or governmental agency or body having jurisdiction over the Company, the Guarantors or any of their respective subsidiaries or any of their properties or assets, except, with respect to clauses (i) and (iii), conflicts or violations that would not reasonably be expected to have a Material Adverse Effect.
+ 
+(y)           No consent, approval, authorization or order of, or filing, registration or qualification with, any court or governmental agency or body, domestic or foreign, having jurisdiction over the Company is required for the offering and sale of the Notes or the consummation by the Company of the other transactions contemplated by this Agreement or the Registration Rights Agreement, except for the filing of the registration statement by the Company with the Commission pursuant to the Securities Act, as required by the Registration Rights Agreement, and such consents, approvals, authorizations, orders, registrations, filings or qualifications which shall have been obtained or made prior to the Closing Date as described in this Agreement or as may be required by the securities or blue sky laws of the various states, the Securities Act and the securities laws of any jurisdiction outside the United States in which the Notes are offered.
+ 
+(z)           Except for the Registration Rights Agreement and as disclosed in the Preliminary Offering Memorandum and the Pricing Disclosure Package, there are no contracts, agreements or understandings between the Company, any Guarantor and any person granting such person the right to require the Company or any Guarantor to file a registration statement under the Securities Act with respect to any securities of the Company or any Guarantor owned or to be owned by such person or to require the Company or any Guarantor to include such securities in the securities registered pursuant to the Registration Rights Agreement or in any securities being registered pursuant to any other registration statement filed by the Company or any Guarantor under the Securities Act.
+ 
+(aa)         To the knowledge of the Company, there is no condition under the Merger Agreement that is not expected to be satisfied prior to the Termination Date (as defined in the Merger Agreement).
+ 
+(bb)         To the knowledge of the Company, there is no material breach of any representation under the Merger Agreement by GeoResources.
+ 
+9
+
+
+
+
+
+
+ 
+(cc)         Neither the Company, any Guarantor nor any other person acting on behalf of the Company or any Guarantor has sold or issued any securities that would be integrated with the offering of the Notes contemplated by this Agreement pursuant to the Securities Act, the rules and regulations thereunder or the interpretations thereof by the Commission.
+ 
+(dd)         Neither the Company, the Guarantors nor any of their respective subsidiaries has sustained, since the date of the latest audited financial statements included and incorporated by reference in the Pricing Disclosure Package and the Offering Memorandum, any loss or interference with its business from fire, explosion, flood or other calamity, whether or not covered by insurance, or from any labor dispute or court or governmental action, order or decree, and, since such date, there has not been any change in the capital stock, partnership or limited liability interests, as applicable, or long-term debt, of the Company, the Guarantors or any of their respective subsidiaries or any adverse change, or any development involving a prospective adverse change, in or affecting the business, properties, prospects, financial condition, stockholders equity or results of operations of the Company and its subsidiaries, taken as a whole, in each case except as could not, in the aggregate, reasonably be expected to have a Material Adverse Effect.
+ 
+(ee)         The historical financial statements (including the related notes and supporting schedules) of each of the Company, GeoResources and the East Texas Assets included and incorporated by reference in the Pricing Disclosure Package and the Offering Memorandum present fairly in all material respects the financial condition, results of operations and cash flows of the entities purported to be shown thereby, at the dates and for the periods indicated, and have been prepared in conformity with accounting principles generally accepted in the United States applied on a consistent basis throughout the periods involved.
+ 
+(ff)          The pro forma financial statements included in the Pricing Disclosure Package and the Offering Memorandum include assumptions that provide a reasonable basis for presenting the significant effects directly attributable to the transactions and events described therein, the related pro forma adjustments give appropriate effect to those assumptions, and the pro forma adjustments reflect the proper application of those adjustments to the historical financial statement amounts in the pro forma financial statements included in the Pricing Disclosure Package.  The pro forma financial statements included in the Pricing Disclosure Package have been prepared in accordance with the Commissions rules and guidance with respect to pro forma financial information.  The pro forma financial statements included in the Pricing Disclosure Package and the Offering Memorandum have been prepared on the basis consistent with such historical financial statements, except for the pro forma adjustments specified therein, and include all material adjustments to the historical financial data required by Rule 11-02 of Regulation S-X to reflect the GeoResources Merger and the acquisition of the East Texas Assets (as defined in the Pricing Disclosure Package and the Offering Memorandum) and to give effect to the offering of the Notes, and give effect to assumptions made on a reasonable basis and in good faith and present fairly in all material respects the historical and proposed transactions reflected therein. The other financial information and data included and incorporated by reference in the Offering Memorandum, historical and pro forma, are, in all material respects, accurately presented and prepared on a basis consistent with such financial statements and the books and records of the Company.
+ 
+10
+
+
+
+
+
+ 
+(gg)         Deloitte & Touche LLP, who have delivered the initial letter referred to in Section 7(f) hereof, are independent registered public accountants as required by the Securities Act and the rules and regulations thereunder and the rules and regulations of the Public Company Accounting Oversight Board (the PCAOB) during the periods covered by the financial statements on which they reported contained in and incorporated by reference in the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(hh)         UHY LLP, who have certified certain financial statements of the Company and the East Texas Assets, whose reports appear in the Pricing Disclosure Package and the Offering Memorandum or are incorporated by reference therein and who have delivered the initial letter referred to in Section 7(f) hereof, are independent registered public accountants as required by the Securities Act and the rules and regulations thereunder and the rules and regulations of the PCAOB during the periods covered by the financial statements on which they reported contained in and incorporated by reference in the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(ii)           The Company and its subsidiaries have defensible title to all of their interests in oil and gas properties (other than interests earned under farm-out, participation or similar agreements in which an assignment or transfer is pending) and all their interests in other real property and good title to all other properties owned by them, in each case, free and clear of all mortgages, pledges, liens, security interests, claims, restrictions or encumbrances of any kind except such as (i) are described in the Preliminary Offering Memorandum and the Pricing Disclosure Package, (ii) liens and encumbrances under operating agreements, unitization and pooling agreements, production sales contracts, farm-out agreements and other oil and gas exploration participation and production agreements, in each case that secure payment of amounts not yet due and payable for the performance of other unmatured obligations and are of a scope and nature customary in the oil and gas industry or arise in connection with drilling and production operations, or (iii) would not have a Material Adverse Effect; except as described in the Preliminary Offering Memorandum or the Pricing Disclosure Package or as would not have a Material Adverse Effect, all of the leases and subleases of real property of the Company or any of its subsidiaries and under which the Company or any of its subsidiaries holds properties described in the Preliminary Offering Memorandum and the Pricing Disclosure Package, are in full force and effect.
+ 
+(jj)           Forrest A. Garb & Associates (the Company  Reservoir Engineer), whose report dated February 7, 2012, is summarized or excerpted in reports incorporated by reference, or included, in the Preliminary Offering Memorandum and the Pricing Disclosure Package, was, as of the date of such report, and is, as of the date hereof, an independent petroleum engineer with respect to the Company.  The written engineering report prepared by the Company Reservoir Engineer dated February 7, 2012 setting forth the proved reserves attributed to the oil and gas properties of the Company and its subsidiaries accurately reflects in all material respects the interests of the Company its subsidiaries in the properties therein as of December 31, 2011 and was prepared in accordance with the SECs rules and regulations relating to the reporting of oil and natural gas reserves; the information furnished by the Company to the Company Reservoir Engineer for purposes of preparing its report, including, without limitation, production, costs of operation and development, current prices for production, agreements relating to current and future operations and sales of production, was true, correct and complete
+ 
+11
+
+
+
+
+
+
+ 
+in all material respects on the date supplied and was prepared in accordance with customary industry practices, as indicated in the letter of the Company Reservoir Engineer dated February 7, 2012. The estimates of proved reserves and related information relating to the East Texas Assets prepared by the Companys internal reserve engineering staff as of April 1, 2012 accurately reflect in all material respects the interests that the Company expects to acquire therein following closing of such acquisition and were prepared in a manner consistent with the rules and regulations of the SEC relating to the reporting of oil and gas reserves; the information used by the Companys internal reserve engineers for purposes of preparing such estimates of proved reserves, including, without limitation, production, costs of operation and development, current prices for production, agreements relating to current and future operations and sales of production, was true, correct and complete in all material respects as of the date of such reserves.
+ 
+(kk)         The Company and each of its subsidiaries have such permits, licenses, patents, franchises, certificates of need and other approvals or authorizations of governmental or regulatory authorities (Permits) as are necessary under applicable law to own their properties and conduct their businesses in the manner described in the Pricing Disclosure Package and the Offering Memorandum, except for any of the foregoing that could not, in the aggregate, reasonably be expected to have a Material Adverse Effect; each of the Company and its subsidiaries has fulfilled and performed all of its obligations with respect to the Permits, and no event has occurred that allows, or after notice or lapse of time would allow, revocation or termination thereof or results in any other impairment of the rights of the holder or any such Permits, except for any of the foregoing that could not reasonably be expected to have a Material Adverse Effect.
+ 
+(ll)           The Company and each of its subsidiaries own or possess adequate rights to use all material patents, patent applications, trademarks, service marks, trade names, trademark registrations, service mark registrations, copyrights, licenses, know-how, software, systems and technology (including trade secrets and other unpatented and/or unpatentable proprietary or confidential information, systems or procedures) necessary for the conduct of their respective businesses and have no reason to believe that the conduct of their respective businesses will conflict with, and have not received any notice of any claim of conflict with, any such rights of others.
+ 
+(mm)      Other than as set forth in the Preliminary Offering Memorandum and the Pricing Disclosure Package, there are no legal or governmental proceedings pending to which the Company or any of its subsidiaries is a party or of which any property of the Company or any of its subsidiaries is the subject which if determined adversely to the Company, or such subsidiary, would individually or in the aggregate, have a Material Adverse Effect or which would materially and adversely affect the consummation of the transactions contemplated under this Agreement, the Registration Rights Agreement, the Escrow Agreement, the Joinder Agreement, the Merger Agreement or the performance by the Company or any Guarantor of their obligations hereunder or thereunder; and, to the Companys and the Guarantors knowledge, no such proceedings are threatened or contemplated by governmental authorities or threatened by others.
+ 
+(nn)         There are no contracts or other documents that would be required to be described in a registration statement filed under the Securities Act or filed as exhibits to a registration statement of the Company pursuant to Item 601(10) of Regulation S-K that have not
+ 
+12
+
+
+
+
+
+
+ 
+been described in the Pricing Disclosure Package and the Offering Memorandum.  The statements made in the Pricing Disclosure Package and the Offering Memorandum, insofar as they purport to constitute summaries of the terms of the contracts and other documents that are so described, constitute accurate summaries of the terms of such contracts and documents in all material respects.  Neither the Company, the Guarantors nor any of their respective subsidiaries has knowledge that any other party to any such contract or other document has any intention not to render full performance as contemplated by the terms thereof.
+ 
+(oo)         The statements made in the Pricing Disclosure Package and the Offering Memorandum under the captions Business (as incorporated by reference from the Companys Exchange Act Reports), Certain U.S. Federal Income Tax Considerations and Certain ERISA Considerations, insofar as they purport to constitute summaries of the terms of statutes, rules or regulations, legal or governmental proceedings or contracts and other documents, constitute accurate summaries of the terms of such statutes, rules and regulations, legal and governmental proceedings and contracts and other documents in all material respects.
+ 
+(pp)         No relationship, direct or indirect, that would be required to be described in a registration statement of the Company pursuant to Item 404 of Regulation S-K, exists between or among the Company or any Guarantor and their respective subsidiaries, on the one hand, and the directors, officers, stockholders, customers or suppliers of the Company or any Guarantor and their respective subsidiaries, on the other hand, that has not been described in the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(qq)         No labor disturbance by or dispute with the employees of the Company or any of its subsidiaries exists or, to the knowledge of the Company or any Guarantor, is imminent that could reasonably be expected to have a Material Adverse Effect.
+ 
+(rr)           (i) Each employee benefit plan (within the meaning of Section 3(3) of the Employee Retirement Security Act of 1974, as amended (ERISA)) for which the Company or any member of its Controlled Group (defined as any organization which is a member of a controlled group of corporations within the meaning of Section 414 of the Internal Revenue Code of 1986, as amended (the Code)) would have any liability (each a Plan) has been maintained in compliance with its terms and with the requirements of all applicable statutes, rules and regulations including ERISA and the Code; (ii) with respect to each Plan subject to Title IV of ERISA (a) no reportable event (within the meaning of Section 4043(c) of ERISA) has occurred or is reasonably expected to occur, (b) no accumulated funding deficiency (within the meaning of Section 302 of ERISA or Section 412 of the Code), whether or not waived, has occurred or is reasonably expected to occur, (c) the fair market value of the assets under each Plan exceeds the present value of all benefits accrued under such Plan (determined based on those assumptions used to fund such Plan) and (d) neither the Company or any member of its Controlled Group has incurred, or reasonably expects to incur, any liability under Title IV of ERISA (other than contributions to the Plan or premiums to the PBGC in the ordinary course and without default) in respect of a Plan (including a multiemployer plan, within the meaning of Section 4001(c)(3) of ERISA); and (iii) each Plan that is intended to be qualified under Section 401(a) of the Code is so qualified and nothing has occurred, whether by action or by failure to act, which would cause the loss of such qualification.
+ 
+13
+
+
+
+
+
+
+ 
+(ss)          The Company and each of its subsidiaries has filed all federal, state, local and foreign income and franchise tax returns required to be filed through the date hereof, subject to permitted extensions, and paid all taxes due thereon, and (i) no tax deficiency has been determined adversely to the Company, the Guarantors or any of their respective subsidiaries, nor (ii) does the Company or any Guarantor have any knowledge of any tax deficiencies that could, in the case of clause (i) or (ii) in the aggregate, reasonably be expected to have a Material Adverse Effect.
+ 
+(tt)           There are no transfer taxes or other similar fees or charges under Federal law or the laws of any state, or any political subdivision thereof, required to be paid in connection with the execution and delivery of this Agreement or the issuance by the Company or sale by the Company of the Notes.
+ 
+(uu)         Since the date as of which information is given in the Pricing Disclosure Package and the Offering Memorandum and except as may otherwise be described in the Pricing Disclosure Package and the Offering Memorandum, neither the Company nor any Guarantor has (i) incurred any liability or obligation, direct or contingent, other than liabilities and obligations that were incurred in the ordinary course of business, (ii) entered into any material transaction not in the ordinary course of business or (iii) declared or paid any dividend on its capital stock.
+ 
+(vv)         Neither the Company nor any of its subsidiaries (i) is in violation of its charter or by-laws (or similar organizational documents), (ii) is in default, and no event has occurred that, with notice or lapse of time or both, would constitute such a default, in the due performance or observance of any term, covenant, condition or other obligation contained in any indenture, mortgage, deed of trust, loan agreement, license or other agreement or instrument to which it is a party or by which it is bound or to which any of its properties or assets is subject, or (iii) is in violation of any statute or any order, rule or regulation of any court or governmental agency or body having jurisdiction over it or its property or assets or has failed to obtain any license, permit, certificate, franchise or other governmental authorization or permit necessary to the ownership of its property or to the conduct of its business, except in the case of clauses (ii) and (iii), to the extent any such conflict, breach, violation or default could not, in the aggregate, reasonably be expected to have a Material Adverse Effect or would not materially impair the ability of the Company or any Guarantor to perform their obligations under this Agreement or the transactions contemplated by the Merger Agreement.
+ 
+(ww)       Neither the Company nor any of its subsidiaries, nor, to the knowledge of the Company and the Guarantors, any director, officer, agent, employee or other person associated with or acting on behalf of the Company, the Guarantors or any of their respective subsidiaries, has (i) used any corporate funds for any unlawful contribution, gift, entertainment or other unlawful expense relating to political activity; (ii) made any direct or indirect unlawful payment to any foreign or domestic government official or employee from corporate funds; (iii) violated or is in violation of any provision of the Foreign Corrupt Practices Act of 1977; or (iv) made any bribe, rebate, payoff, influence payment, kickback or other unlawful payment.
+ 
+(xx)         The Company and each of its subsidiaries (i) are, and at all times prior hereto were, in compliance with all laws, regulations, ordinances, rules, orders, judgments, decrees, permits or other legal requirements of any governmental authority, including without
+ 
+14
+
+
+
+
+
+
+ 
+limitation any international, national, state, provincial, regional, or local authority, relating to the protection of human health or safety, the environment, or natural resources, or to hazardous or toxic substances or wastes, pollutants or contaminants (Environmental Laws) applicable to such entity, which compliance includes, without limitation, obtaining, maintaining and complying with all permits and authorizations and approvals required by Environmental Laws to conduct their respective businesses, and (ii) have not received notice of any actual or alleged violation of Environmental Laws, or of any potential liability for or other obligation concerning the presence, disposal or release of hazardous or toxic substances or wastes, pollutants or contaminants, except in the case of clause (i) or (ii) where such non-compliance, violation, liability, or other obligation could not, in the aggregate, reasonably be expected to have a Material Adverse Effect.  Except as described in the Pricing Disclosure Package, (A) there are no proceedings that are pending, or known to be contemplated, against the Company or any of its subsidiaries under Environmental Laws in which a governmental authority is also a party, other than such proceedings regarding which it is reasonably believed no monetary sanctions of $100,000 or more will be imposed, (B) the Company, the Guarantors and their respective subsidiaries are not aware of any issues regarding compliance with Environmental Laws, or liabilities or other obligations under Environmental Laws or concerning hazardous or toxic substances or wastes, pollutants or contaminants, that could reasonably be expected to have a Material Adverse Effect, and (C) none of the Company, the Guarantors, GeoResources and their respective subsidiaries anticipates material capital expenditures other than in the ordinary course of business relating to Environmental Laws.
+ 
+(yy)         None of the transactions contemplated by this Agreement (including, without limitation, the use of the proceeds from the sale of the Notes), will violate or result in a violation of Section 7 of the Exchange Act, or any regulation promulgated thereunder, including, without limitation, Regulations T, U and X of the Board of Governors of the Federal Reserve System.
+ 
+(zz)         The statements contained in the Pricing Disclosure Package and the Preliminary Offering Memorandum under the caption Description of the Notes, insofar as they purport to constitute a summary of the terms of the Indenture, the Notes, the Registration Rights Agreement, the Escrow Agreement and the Guarantees and under the captions Description of Other Indebtedness and Plan of Distribution insofar as they purport to describe the provisions of the documents referred to therein, are accurate in all material respects.
+ 
+(aaa)      The Company and its affiliates have not taken, directly or indirectly, any action designed to or that has constituted or that could reasonably be expected to cause or result in the stabilization or manipulation of the price of any security of the Company or the Guarantors in connection with the offering of the Notes.
+ 
+(bbb)      The Company and each of its subsidiaries maintain a system of internal control over financial reporting (as such term is defined in Rule 13a-15(f) of the Exchange Act) that complies with the requirements of the Exchange Act and that has been designed by, or under the supervision of, the Companys principal executive and principal financial officers, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles in the United States.  The Company and each of its subsidiaries maintains internal
+ 
+15
+
+
+
+
+
+
+ 
+accounting controls that are sufficient to provide reasonable assurance that (i) transactions are executed in accordance with managements general or specific authorization, (ii) transactions are recorded as necessary to permit preparation of the Companys financial statements in conformity with accounting principles generally accepted in the United States and to maintain accountability for its assets, (iii) access to the Companys assets is permitted only in accordance with managements general or specific authorization, and (iv) the recorded accountability for the Companys assets is compared with existing assets at reasonable intervals and appropriate action is taken with respect to any differences.
+ 
+(ccc)       (i) The Company and each of its subsidiaries have established and maintain disclosure controls and procedures (as such term is defined in Rule 13a-15 under the Exchange Act), (ii) such disclosure controls and procedures are designed to ensure that the information required to be disclosed by the Company in the reports they file or submit under the Exchange Act (assuming the Company was required to file or submit such reports under the Exchange Act) is accumulated and communicated to management of the Company and its subsidiaries, including their respective principal executive officers and principal financial officers, as appropriate, to allow timely decisions regarding required disclosure to be made; and (iii) such disclosure controls and procedures are effective in all material respects to perform the functions for which they were established.
+ 
+(ddd)      Since the date of the most recent balance sheet of the Company and its consolidated subsidiaries audited by UHY LLC and reviewed by the audit committee of the board of directors of the Company, (i) the Company has not been advised of by its auditors, nor has it identified (A) any significant deficiencies in the design or operation of internal controls, that would adversely affect the ability of the Company or any of its subsidiaries to record, process, summarize and report financial data, or any material weaknesses in internal controls, and (B) any fraud, whether or not material, that involves management or other employees who have a significant role in the internal controls of the Company and each of its subsidiaries; and (ii) there have been no changes in internal controls or in other factors that have materially affected or are reasonably likely to materially affect internal controls, including any corrective actions with regard to significant deficiencies and material weaknesses.
+ 
+(eee)       No subsidiary of the Company is currently prohibited, directly or indirectly, from paying any dividends to the Company, from making any other distribution on such subsidiarys capital stock, from repaying to the Company any loans or advances to such subsidiary from the Company or from transferring any of such subsidiarys property or assets to the Company or any other subsidiary of the Company, except as described in the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(fff)        There is and has been no failure on the part of the Company and any of the Companys directors or officers, in their capacities as such, to comply with the provisions of the Sarbanes-Oxley Act of 2002 and the rules and regulations promulgated in connection therewith.
+ 
+(ggg)       The section entitled Managements Discussion and Analysis of Financial Condition and Results of OperationsCritical Accounting Policies and Estimates as incorporated by reference from the Companys Exchange Act Reports in the Pricing Disclosure Package and the Offering Memorandum accurately and fully describes in all material respects
+ 
+16
+
+
+
+
+
+
+ 
+(A) the accounting policies that the Company believed as of the date thereof were the most important in the portrayal of the Companys financial condition and results of operations and that required managements most difficult, subjective or complex judgments; (B) the judgments and uncertainties affecting the application of critical accounting policies; and (C) the likelihood that materially different amounts would be reported under different conditions or using different assumptions and an explanation thereof.
+ 
+(hhh)      The operations of the Company and its subsidiaries are and have been conducted at all times in compliance with applicable financial recordkeeping and reporting requirements of the Currency and Foreign Transactions Reporting Act of 1970, as amended, the money laundering statutes of all jurisdictions, the rules and regulations thereunder and any related or similar rules, regulations or guidelines, issued, administered or enforced by any governmental agency (collectively, the Money Laundering Laws) and no action, suit or proceeding by or before any court or governmental agency, authority or body or any arbitrator involving the Company or any of its subsidiaries with respect to the Money Laundering Laws is pending or, to the knowledge of the Company or any Guarantor, threatened, except, in each case, as would not reasonably be expected to have a Material Adverse Effect.
+ 
+(iii)          Neither the Company nor any of its subsidiaries nor, to the knowledge of the Company or any Guarantor, any director, officer, agent, employee or affiliate of the Company or any of its subsidiaries is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department (OFAC); and the Company will not directly or indirectly use the proceeds of the offering, or lend, contribute or otherwise make available such proceeds to any subsidiary, joint venture partner or other person or entity, for the purpose of financing the activities of any person currently subject to any U.S. sanctions administered by OFAC.
+ 
+(jjj)         The Company has not taken any action or omitted to take any action (such as issuing any press release relating to any Notes without an appropriate legend) which may result in the loss by any of the Initial Purchasers of the ability to rely on any stabilization safe harbor provided by the Financial Services Authority under the Financial Services and Markets Act 2000 (the FSMA). The Company has been informed of the guidance relating to stabilization provided by the Financial Services Authority, in particular in Section MAR 2 Annex 2G of the Financial Services Handbook.
+ 
+(kkk)      Immediately after the consummation of the issuance and sale of the Notes in accordance with the terms of this Agreement and the consummation of the GeoResources Merger, each of the Company and each of the Guarantors will be Solvent. As used in this paragraph, the term Solvent means, with respect to a particular date, that on such date (i) the present fair market value (or present fair saleable value) of the assets of the Company and its subsidiaries and the Guarantors and their subsidiaries are not less than the total amount required to pay the probable liabilities of the Company and its subsidiaries and the Guarantors and their subsidiaries on their total existing debts and liabilities (including contingent liabilities) as they become absolute and matured, (ii) the Company and its subsidiaries and the Guarantors and their subsidiaries are able to realize upon their assets and pay their debts and other liabilities, contingent obligations and commitments as they mature and become due in the normal course of business, (iii) assuming the sale of the Notes as contemplated by this Agreement and the
+ 
+17
+
+
+
+
+
+
+ 
+consummation of the GeoResources Merger, the Pricing Disclosure Package and the Offering Memorandum, the Company and its subsidiaries and the Guarantors and their subsidiaries are not incurring debts or liabilities beyond their ability to pay as such debts and liabilities mature and (iv) the Company and its subsidiaries and the Guarantors and their subsidiaries are not engaged in any business or transaction, and are not about to engage in any business or transaction, for which their property would constitute unreasonably small capital after giving due consideration to the prevailing practice in the industry in which the Company and its subsidiaries and the Guarantors and their subsidiaries are engaged. In computing the amount of such contingent liabilities at any time, it is intended that such liabilities will be computed at the amount that, in the light of all the facts and circumstances existing at such time, represents the amount that can reasonably be expected to become an actual or matured liability.
+ 
+(lll)          As of the date hereof, (i) all royalties, rentals, deposits and other amounts owed under the oil and gas leases constituting the oil and gas properties of the Company, the Guarantors and their respective subsidiaries have been properly and timely paid (other than amounts held in suspense accounts pending routine payments or related to disputes about the proper identification of royalty owners), and no amount of proceeds from the sale or production attributable to the oil and gas properties of the Company, the Guarantors and their respective subsidiaries are currently being held in suspense by any purchaser thereof, except where such amounts due could not, individually or in the aggregate, have a Material Adverse Effect, and (ii) there are no claims under take-or-pay contracts pursuant to which natural gas purchasers have any make-up rights affecting the interests of the Company, the Guarantors or their respective subsidiaries in their oil and gas properties, except where such claims could not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+ 
+(mmm)  Neither the Company nor any of its subsidiaries is a party to any contract, agreement or understanding with any person (other than this Agreement) that could give rise to a valid claim against the Initial Purchasers for a brokerage commission, finders fee or like payment in connection with the offering and sale of the Notes.
+ 
+(nnn)      Neither the Company nor any of its subsidiaries is in violation of or has received notice of any violation with respect to any federal or state law relating to discrimination in the hiring, promotion or pay of employees, nor any applicable federal or state wage and hour laws, the violation of any of which could reasonably be expected to have a Material Adverse Effect.
+ 
+(ooo)      Any certificate signed by any officer of the Company or any Guarantor and delivered to the Representatives or counsel for the Initial Purchasers in connection with the offering of the Notes shall be deemed a representation and warranty by the Company or any such Guarantor, jointly and severally, as to matters covered thereby, to each Initial Purchaser.
+ 
+(B)          Certain Representations, Warranties and Agreements of the Company and the Guarantors with Respect to GeoResources and its Subsidiaries.  The Company and each of the Guarantors, jointly and severally, represent, warrant and agree, that to their knowledge after due inquiry of the executive officers of GeoResources:
+ 
+18
+
+
+
+
+
+
+ 
+(a)           GeoResources Exchange Act Reports, when they were filed with the Commission, conformed in all material respects to the applicable requirements of the Exchange Act and the applicable rules and regulations of the Commission thereunder, and the GeoResources Exchange Act Reports did not, when filed with the Commission, contain an untrue statement of material fact or omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+ 
+(b)           The statistical and market-related data relating to GeoResources included in the Pricing Disclosure Package and the Offering Memorandum are based on or derived from sources that GeoResources believes to be reliable in all material respects, and the consolidated financial statements of GeoResources and its subsidiaries included and incorporated by reference in the Pricing Disclosure Package and the Offering Memorandum are based on or derived from sources that GeoResources believes to be reliable in all material respects.
+ 
+(c)           GeoResources has been duly incorporated, is validly existing and is in good standing under the laws of State of Colorado, with corporate power and authority to own, lease and operate its properties and conduct its business as described in the Pricing Disclosure Package and the Offering Memorandum; GeoResources is duly qualified as a foreign corporation to transact business and is in good standing in each other jurisdiction in which such qualification is required, whether by reason of the ownership or leasing of property or the conduct of business, except where the failure to qualify or to be in good standing would not have a material adverse effect on the business, properties, prospects, financial condition, stockholders equity or results of operations of the Company and its subsidiaries and GeoResources and its subsidiaries taken as a whole (a Pro Forma Material Adverse Effect). Each subsidiary of GeoResources other than those subsidiaries which would not, individually or in the aggregate, constitute a significant subsidiary as defined in Item 1-02(w) of Regulation S-X (each such significant subsidiary, a GeoResources Subsidiary) is a corporation, partnership, limited liability company or business trust duly incorporated or organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation or organization, with the requisite entity power and authority to own, lease and operate its properties, except where the failure to be duly incorporated or organized, validly existing or to be in good standing would not result in a Pro Forma Material Adverse Effect.  GeoResources and its subsidiaries conduct their business as described in the Preliminary Offering Memorandum and the Pricing Disclosure Package and each GeoResources Subsidiary is duly qualified as a foreign corporation, partnership, limited liability company, business trust or other organization to transact business and is in good standing in each jurisdiction in which such qualification is required, whether by reason of the ownership or leasing of property or the conduct of business, except where the failure to qualify or to be in good standing would not result in a Pro Forma Material Adverse Effect.
+ 
+(d)           Grant Thornton LLP, who have certified certain financial statements of GeoResources, whose reports appear in the Pricing Disclosure Package and the Offering Memorandum or are incorporated by reference therein and who have delivered the initial letter referred to in Section 7(f) hereof, are independent registered public accountants of GeoResources as required by the Securities Act and the rules and regulations thereunder and the rules and regulations of the PCAOB during the periods covered by the financial statements on which they
+ 
+19
+
+
+
+
+
+
+ 
+reported contained in and incorporated by reference in the Pricing Disclosure Package and the Offering Memorandum
+ 
+(e)           GeoResources and its subsidiaries have defensible title to all of their interests in oil and gas properties (other than interests earned under farm-out, participation or similar agreements in which an assignment or transfer is pending) and all their interests in other real property and good title to all other properties owned by them, in each case, free and clear of all mortgages, pledges, liens, security interests, claims, restrictions or encumbrances of any kind except such as (i) are described in the Preliminary Offering Memorandum and the Pricing Disclosure Package, (ii) liens and encumbrances under operating agreements, unitization and pooling agreements, production sales contracts, farm-out agreements and other oil and gas exploration participation and production agreements, in each case that secure payment of amounts not yet due and payable for the performance of other unmatured obligations and are of a scope and nature customary in the oil and gas industry or arise in connection with drilling and production operations, or (iii) would not have a Pro Forma Material Adverse Effect; except as described in the Preliminary Offering Memorandum or the Pricing Disclosure Package or as would not have a Pro Forma Material Adverse Effect, all of the leases and subleases of real property of GeoResoures or any of its subsidiaries and under which GeoResources or any of its subsidiaries holds properties described in the Preliminary Offering Memorandum and the Pricing Disclosure Package, are in full force and effect.
+ 
+(f)            Cawley, Gillespie & Associates, Inc. (the GeoResources Reservoir Engineer), whose report dated February 27, 2012, is summarized or excerpted in reports incorporated by reference, or included, in the Preliminary Offering Memorandum and the Pricing Disclosure Package, was, as of the date of such report, and is, as of the date hereof, an independent petroleum engineer with respect to GeoResources.  The written engineering report prepared by the GeoResources Reservoir Engineer dated February 27, 2012 setting forth the proved reserves attributed to the oil and gas properties of GeoResources and its subsidiaries accurately reflects in all material respects the interests of GeoResources and its subsidiaries in the properties therein as of December 31, 2011 and was prepared in accordance with the SECs rules and regulations relating to the reporting of oil and natural gas reserves; the information furnished by GeoResources to the GeoResources Reservoir Engineer for purposes of preparing its report, including, without limitation, production, costs of operation and development, current prices for production, agreements relating to current and future operations and sales of production, was true, correct and complete in all material respects on the date supplied and was prepared in accordance with customary industry practices, as indicated in the letter of the GeoResources Reservoir Engineer dated February 27, 2012.  The estimates of proved reserves and related information relating to the Brookeland fields prepared by GeoResources internal reserve engineering staff as of December 31, 2011 accurately reflect in all material respects the interests that GeoResources has therein and were prepared in a manner consistent with the rules and regulations of the SEC relating to the reporting of oil and gas reserves; the information used by GeoResources internal reserve engineers for purposes of preparing such estimates of proved reserves, including, without limitation, production, costs of operation and development, current prices for production, agreements relating to current and future operations and sales of production, was true, correct and complete in all material respects as of the date of such reserves.
+ 
+20
+
+
+
+
+
+ 
+(g)           GeoResources and each of its subsidiaries have such permits, licenses, patents, franchises, certificates of need and other approvals or authorizations of governmental or regulatory authorities (GeoResources Permits) as are necessary under applicable law to own their properties and conduct their businesses in the manner described in the Pricing Disclosure Package and the Offering Memorandum, except for any of the foregoing that could not, in the aggregate, reasonably be expected to have a Pro Forma Material Adverse Effect; each of GeoResources and its subsidiaries has fulfilled and performed all of its obligations with respect to the GeoResources Permits, and no event has occurred that allows, or after notice or lapse of time would allow, revocation or termination thereof or results in any other impairment of the rights of the holder or any such GeoResources Permits, except for any of the foregoing that could not reasonably be expected to have a Pro Forma Material Adverse Effect.
+ 
+(h)           GeoResources and each of its subsidiaries own or possess adequate rights to use all material patents, patent applications, trademarks, service marks, trade names, trademark registrations, service mark registrations, copyrights, licenses, know-how, software, systems and technology (including trade secrets and other unpatented and/or unpatentable proprietary or confidential information, systems or procedures) necessary for the conduct of their respective businesses and have no reason to believe that the conduct of their respective businesses will conflict with, and have not received any notice of any claim of conflict with, any such rights of others, except as could not reasonably be expected to have a Pro Forma Material Adverse Effect.
+ 
+(i)            Other than as set forth in the Preliminary Offering Memorandum and the Pricing Disclosure Package, there are no legal or governmental proceedings pending to which GeoResources or any of its subsidiaries is a party or of which any property of GeoResources or any of its subsidiaries is the subject which if determined adversely to GeoResources, or such subsidiary, would individually or in the aggregate, have a Pro Forma Material Adverse Effect or which would materially and adversely affect the consummation of the transactions contemplated under this Agreement, the Registration Rights Agreement, the Escrow Agreement, the Joinder Agreement, the Merger Agreement or the performance by the Company or any Guarantor or GeoResources or any of its subsidiaries of their obligations hereunder or thereunder; and, no such proceedings are threatened or contemplated by governmental authorities or threatened by others.
+ 
+(j)            The statements made in the Pricing Disclosure Package and the Offering Memorandum, insofar as they purport to constitute summaries of the terms of the contracts and other documents relating to GeoResources and its subsidiaries that are so described, constitute accurate summaries of the terms of such contracts and documents in all material respects.  Neither GeoResources nor any of its subsidiaries has knowledge that any other party to any such contract or other document has any intention not to render full performance as contemplated by the terms thereof.
+ 
+(k)           No labor disturbance by or dispute with the employees of GeoResources or any of its subsidiaries exists or is imminent that would reasonably be expected to have a Pro Forma Material Adverse Effect.
+ 
+21
+
+
+
+
+
+
+ 
+(l)            GeoResources and each of its subsidiaries has filed all federal, state, local and foreign income and franchise tax returns required to be filed through the date hereof, subject to permitted extensions, and paid all taxes due thereon, and (i) no tax deficiency has been determined adversely to the GeoResources or its subsidiaries, nor (ii) are there any tax deficiencies relating to GeoResources and its subsidiaries that would, in the case of clause (i) or (ii) in the aggregate, reasonably be expected to have a Pro Forma Material Adverse Effect.
+ 
+(m)          Since the date as of which information is given in the Pricing Disclosure Package and the Offering Memorandum and except as may otherwise be described in the Pricing Disclosure Package and the Offering Memorandum, neither GeoResources nor any of its subsidiaries has (i) issued or granted any material amount of securities, except (A) pursuant to the exercise of outstanding options described therein, (B) as permitted or contemplated by the Merger Agreement as of the date of this Agreement or (C)  as would not reasonably be expected to have a Pro Forma Material Adverse Effect, (ii) incurred any material liability or obligation, direct or contingent, other than liabilities and obligations that were incurred in the ordinary course of business or (iii) entered into any material transaction not in the ordinary course of business.  Since the date as of which information is given in the Pricing Disclosure Package and the Offering Memorandum and except as may otherwise be described in the Pricing Disclosure Package and the Offering Memorandum, GeoResources has not declared or paid any dividend on its capital stock.
+ 
+(n)           Neither GeoResources nor any GeoResources Subsidiary is in violation of its charter (or similar organizational documents). Neither GeoResources nor any of its subsidiaries (i) is in default, and no event has occurred that, with notice or lapse of time or both, would constitute such a default, in the due performance or observance of any term, covenant, condition or other obligation contained in any indenture, mortgage, deed of trust, loan agreement, license or other agreement or instrument to which it is a party or by which it is bound or to which any of its properties or assets is subject, or (ii) is in violation of any statute or any order, rule or regulation of any court or governmental agency or body having jurisdiction over it or its property or assets or has failed to obtain any license, permit, certificate, franchise or other governmental authorization or permit necessary to the ownership of its property or to the conduct of its business, except in the case of clauses (i) and (ii), to the extent any such conflict, breach, violation or default would not, in the aggregate, reasonably be expected to have a Pro Forma Material Adverse Effect or would not materially impair the ability of the Company or any Guarantor to perform their obligations under this Agreement or the transactions contemplated by the Merger Agreement.
+ 
+(o)           Neither GeoResources nor any of its subsidiaries, nor any director, officer, agent, employee or other person associated with or acting on behalf of GeoResources or any of its subsidiaries, has (i) used any corporate funds for any unlawful contribution, gift, entertainment or other unlawful expense relating to political activity; (ii) made any direct or indirect unlawful payment to any foreign or domestic government official or employee from corporate funds; (iii) violated or is in violation of any provision of the Foreign Corrupt Practices Act of 1977; or (iv) made any bribe, rebate, payoff, influence payment, kickback or other unlawful payment.
+ 
+22
+
+
+
+
+
+
+ 
+(p)           GeoResources and each of its subsidiaries (i) are, and at all times prior hereto were, in compliance with all laws, regulations, ordinances, rules, orders, judgments, decrees, permits or other legal requirements of any governmental authority, including without limitation any international, national, state, provincial, regional, or local authority, relating to the protection of human health or safety, the environment, or natural resources, or to hazardous or toxic substances or wastes, pollutants or contaminants (Environmental Laws) applicable to such entity, which compliance includes, without limitation, obtaining, maintaining and complying with all permits and authorizations and approvals required by Environmental Laws to conduct their respective businesses, and (ii) have not received notice of any actual or alleged violation of Environmental Laws, or of any potential liability for or other obligation concerning the presence, disposal or release of hazardous or toxic substances or wastes, pollutants or contaminants, except in the case of clause (i) or (ii) where such non-compliance, violation, liability, or other obligation would not, in the aggregate, reasonably be expected to have a Pro Forma Material Adverse Effect.  Except as described in the Pricing Disclosure Package, there are no issues regarding compliance with Environmental Laws, or liabilities or other obligations under Environmental Laws or concerning hazardous or toxic substances or wastes, pollutants or contaminants, that would reasonably be expected to have a Pro Forma Material Adverse Effect.
+ 
+(q)           GeoResources and each of its subsidiaries maintain a system of internal control over financial reporting (as such term is defined in Rule 13a-15(f) of the Exchange Act) that complies with the requirements of the Exchange Act and that has been designed by, or under the supervision of, GeoResources principal executive and principal financial officers, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles in the United States.  GeoResources and each of its subsidiaries maintains internal accounting controls that are sufficient to provide reasonable assurance that (i) transactions are executed in accordance with managements general or specific authorization, (ii) transactions are recorded as necessary to permit preparation of GeoResources financial statements in conformity with accounting principles generally accepted in the United States and to maintain accountability for its assets, (iii) access to GeoResources assets is permitted only in accordance with managements general or specific authorization, and (iv) the recorded accountability for GeoResources assets is compared with existing assets at reasonable intervals and appropriate action is taken with respect to any differences.
+ 
+(r)            (i) GeoResources and each of its subsidiaries have established and maintain disclosure controls and procedures (as such term is defined in Rule 13a-15 under the Exchange Act), (ii) such disclosure controls and procedures are designed to ensure that the information required to be disclosed by the GeoResources in the reports they file or submit under the Exchange Act (assuming GeoResources was required to file or submit such reports under the Exchange Act) is accumulated and communicated to management of GeoResources and its subsidiaries, including their respective principal executive officers and principal financial officers, as appropriate, to allow timely decisions regarding required disclosure to be made; and (iii) such disclosure controls and procedures are effective in all material respects to perform the functions for which they were established, except in each case as would not reasonably be expected to have a Pro Forma Material Adverse Effect.
+ 
+23
+
+
+
+
+
+
+ 
+(s)            Since the date of the most recent balance sheet of GeoResources and its consolidated subsidiaries audited by Grant Thornton and reviewed by the audit committee of the board of directors of GeoResources, (i) GeoResources has not been advised of by its auditors nor has it identified (A) any material weaknesses in internal controls, and (B) any fraud, whether or not material, that involves management or other employees who have a significant role in the internal controls of GeoResources and each of its subsidiaries; and (ii) there have been no changes in internal controls or in other factors that have materially affected or are reasonably likely to materially affect internal controls, including any corrective actions with regard to significant deficiencies and material weaknesses, except in each case as would not reasonably be expected to have a Pro Forma Material Adverse Effect.
+ 
+(t)            No subsidiary of GeoResources is currently prohibited, directly or indirectly, from paying any dividends to the GeoResources, from making any other distribution on such subsidiarys capital stock, from repaying to GeoResources any loans or advances to such subsidiary from GeoResources or from transferring any of such subsidiarys property or assets to GeoResources or any other subsidiary of GeoResources, except as described in the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(u)           There is and has been no failure on the part of GeoResources and any of its directors or officers, in their capacities as such, to comply with the provisions of the Sarbanes-Oxley Act of 2002 and the rules and regulations promulgated in connection therewith.
+ 
+(v)           The operations of GeoResources and its subsidiaries are and have been conducted at all times in compliance with applicable financial recordkeeping and reporting requirements of the Currency and Foreign Transactions Reporting Act of 1970, as amended, the money laundering statutes of all jurisdictions, the rules and regulations thereunder and any related or similar rules, regulations or guidelines, issued, administered or enforced by any governmental agency (collectively, the Money Laundering Laws) and no action, suit or proceeding by or before any court or governmental agency, authority or body or any arbitrator involving GeoResources or any of its subsidiaries with respect to the Money Laundering Laws is pending or threatened, except, in each case, as would not reasonably be expected to have a Pro Forma Material Adverse Effect.
+ 
+(w)          Neither GeoResources nor any of its subsidiaries nor any director, officer, agent, employee or affiliate of the GeoResources or any of its subsidiaries is currently subject to any U.S. sanctions administered by OFAC.
+ 
+(x)           As of the date hereof, (i) all royalties, rentals, deposits and other amounts owed under the oil and gas leases constituting the oil and gas properties of GeoResources and its subsidiaries have been properly and timely paid (other than amounts held in suspense accounts pending routine payments or related to disputes about the proper identification of royalty owners), and no amount of proceeds from the sale or production attributable to the oil and gas properties of GeoResources and its subsidiaries are currently being held in suspense by any purchaser thereof, except where such amounts due would not, individually or in the aggregate, have a Pro Forma Material Adverse Effect, and (ii) there are no claims under take-or-pay contracts pursuant to which natural gas purchasers have any make-up rights affecting the interests of GeoResources or its subsidiaries in their oil and gas properties, except where such
+ 
+24
+
+
+
+
+
+
+ 
+claims would not, individually or in the aggregate, reasonably be expected to have a Pro Forma Material Adverse Effect.
+ 
+(y)           Neither GeoResources nor any of its subsidiaries is in violation of or has received notice of any violation with respect to any federal or state law relating to discrimination in the hiring, promotion or pay of employees, nor any applicable federal or state wage and hour laws, the violation of any of which would reasonably be expected to have a Pro Forma Material Adverse Effect.
+ 
+3.                                      Purchase of the Notes by the Initial Purchasers, Agreements to Sell, Purchase and Resell.
+ 
+(a)           The Company and the Guarantors, jointly and severally hereby agree, on the basis of the representations, warranties, covenants and agreements of the Initial Purchasers contained herein and subject to all the terms and conditions set forth herein, to issue and sell to the Initial Purchasers and, upon the basis of the representations, warranties and agreements of the Company and the Guarantors herein contained and subject to all the terms and conditions set forth herein, each Initial Purchaser agrees, severally and not jointly, to purchase from the Company, at a purchase price of 96.646% of the principal amount thereof, the total principal amount of Notes set forth opposite the name of such Initial Purchaser in Schedule I hereto.  The Company and the Guarantors  shall not be obligated to deliver any of the securities to be delivered hereunder except upon transfer of immediately available funds to the Escrow Account for all of the securities to be purchased as provided herein.
+ 
+(b)           Each of the Initial Purchasers, severally and not jointly hereby represents and warrants to the Company that it will offer the Notes for sale upon the terms and conditions set forth in this Agreement and in the Pricing Disclosure Package.  Each of the Initial Purchasers, severally and not jointly, hereby represents and warrants to, and agrees with, the Company, on the basis of the representations, warranties and agreements of the Company and the Guarantors, that such Initial Purchaser: (i) is a QIB with such knowledge and experience in financial and business matters as are necessary in order to evaluate the merits and risks of an investment in the Notes; (ii) in connection with the Exempt Resales, will solicit offers to buy the Notes only from, and will offer to sell the Notes only to, the Eligible Purchasers in accordance with this Agreement and on the terms contemplated by the Pricing Disclosure Package; and (iii) will not offer or sell the Notes, nor has it offered or sold the Notes by, or otherwise engaged in, any form of general solicitation or general advertising (within the meaning of Regulation D, including, but not limited to, advertisements, articles, notices or other communications published in any newspaper, magazine, or similar medium or broadcast over television or radio, or any seminar or meeting whose attendees have been invited by any general solicitation or general advertising) and will not engage in any directed selling efforts within the meaning of Rule 902 under the Securities Act, in connection with the offering of the Notes.  The Initial Purchasers have advised the Company that they will offer the Notes to Eligible Purchasers at a price initially equal to 98.646% of the principal amount thereof, plus accrued interest, if any, from the date of issuance of the Notes.  Such price may be changed by the Initial Purchasers at any time without notice.
+ 
+(c)           Each of the Initial Purchasers, severally and not jointly, represents and warrants to the Company that:
+ 
+25
+
+
+
+
+
+
+ 
+(i)                                     it has complied and will comply with all applicable provisions of the FSMA with respect to anything done by it in relation to the Notes in, from or otherwise involving the United Kingdom, and it has only communicated or caused to be communicated and it will only communicate or cause to be communicated any invitation or inducement to engage in investment activity (within the meaning of section 21 of the FSMA) received by it in connection with the issue or sale of any Notes, in circumstances in which section 21(1) of the FSMA does not apply to the Company; and
+ 
+(ii)                                  in relation to each Member State of the European Economic Area which has implemented the Prospectus Directive (each, a Relevant Member State), with effect from and including the date on which the Prospectus Directive is implemented in that Relevant Member State (the Relevant Implementation Date), it has not made and will not make an offer of the Notes to the public in that Relevant Member State prior to the publication of a prospectus in relation to the Notes which has been approved by the competent authority in that Relevant Member State or, where appropriate, approved in another Relevant Member State and notified to the competent authority in that Relevant Member State, all in accordance with the Prospectus Directive, except that it may, with effect from and including the Relevant Implementation Date, make an offer of the Notes to the public in that Relevant Member State at any time:
+ 
+(A)                               to legal entities which are authorized or regulated to operate in the financial markets or, if not so authorized or regulated, whose corporate purpose is solely to invest in securities;
+ 
+(B)                               to any legal entity which has two or more of (1) an average of at least 250 employees during the last financial year; (2) a total balance sheet of more than 43,000,000 and (3) an annual net turnover of more than 50,000,000, as shown in its last annual or consolidated accounts;
+ 
+(C)                               to fewer than 100, or if the Relevant Member State has implemented the relevant provision of the 2010 Prospectus Directive Amending Directive 150, natural or legal persons (other than qualified investors) subject to obtaining the prior consent of the representatives for any offer; or
+ 
+(D)                               in any other circumstances which do not require the publication by the issuer of a prospectus pursuant to Article 3 of the Prospectus Directive;
+ 
+For the purposes of this representation, the expression an offer of securities to the public in any Relevant Member State means the
+ 
+26
+
+
+
+
+
+
+ 
+communication in any form and by any means of sufficient information on the terms of the offer and the Notes to be offered so as to enable an investor to decide to purchase or subscribe the Notes, as the same may be varied in that Relevant Member State by any measure implementing the Prospectus Directive in that Relevant Member State and the expression Prospectus Directive means Directive 2003/71/EC (and amendments thereto, including the 2010 Prospectus Directive Amendment Directive to the extent implemented in the Relevant Member State) and includes any relevant implementing measure in each Relevant Member State.
+ 
+(d)           The Initial Purchasers have not nor, prior to the later to occur of (A) the Closing Date and (B) completion of the distribution of the Notes, will not, use, authorize use of, refer to or distribute any material in connection with the offering and sale of the Notes other than (i) the Preliminary Offering Memorandum, the Pricing Disclosure Package, the Offering Memorandum, (ii) any written communication that contains no issuer information (as defined in Rule 433(h)(2) under the Act) that was not included (including through incorporation by reference) in the Preliminary Offering Memorandum or any Free Writing Offering Document listed on Schedule IV hereto, (iii) the Free Writing Offering Documents listed on Schedule IV hereto, (iv) any written communication prepared by such Initial Purchaser and approved by the Company in writing, or (v) any written communication relating to or that contains the terms of the Notes and/or other information that was included (including through incorporation by reference) in the Preliminary Offering Memorandum, the Pricing Disclosure Package or the Offering Memorandum.
+ 
+Each of the Initial Purchasers understands that the Company and, for purposes of the opinions to be delivered to the Initial Purchasers pursuant to Sections 7(c) and 7(d) hereof, counsel to the Company and counsel to the Initial Purchasers, will rely upon the accuracy and truth of the foregoing representations, warranties and agreements, and the Initial Purchasers hereby consents to such reliance.
+ 
+4.             Delivery of the Notes and Payment Therefor.  Delivery to the Initial Purchasers of and payment for the Notes shall be made at the office of Vinson & Elkins LLP, at 10:00 A.M., New York City time, on July 16, 2012 (the Closing Date).  The place of closing for the Notes and the Closing Date may be varied by agreement between the Initial Purchasers and the Company.
+ 
+The Notes will be delivered to the Initial Purchasers, or the Trustee as custodian for The Depository Trust Company (DTC), against payment by or on behalf of the Initial Purchasers of the purchase price therefor by wire transfer in immediately available funds in accordance with the terms of the Escrow Agreement, by causing DTC to credit the Notes to the account of the Initial Purchasers at DTC.  The Notes will be evidenced by one or more global securities in definitive form (the Global Notes) and will be registered, in the case of the Global Notes, in the name of Cede & Co. as nominee of DTC, and in the other cases, in such names and in such denominations as the Initial Purchasers shall request prior to 10:00 A.M., New York City time, on the second business day preceding the Closing Date.  The Notes to be delivered to the Initial Purchasers shall be made available to the Initial Purchasers in New York City for
+ 
+27
+
+
+
+
+
+
+ 
+inspection and packaging not later than 10:00 A.M., New York City time, on the business day next preceding the Closing Date.
+ 
+5.             Agreements of the Company and the Guarantors.  The Company and the Guarantors (in the case of the Acquired Guarantors, upon execution of the Joinder Agreement), jointly and severally, agree with each of the Initial Purchasers as follows:
+ 
+(a)           The Company and the Guarantors will furnish to the Initial Purchasers, without charge, within one business day of the date of the Offering Memorandum, such number of copies of the Offering Memorandum as may then be amended or supplemented as they may reasonably request.
+ 
+(b)           The Company and the Guarantors will not make any amendment or supplement to the Pricing Disclosure Package or to the Offering Memorandum of which the Initial Purchasers shall not previously have been advised or to which they shall reasonably object after being so advised.
+ 
+(c)           The Company and each of the Guarantors consents to the use of the Pricing Disclosure Package and the Offering Memorandum in accordance with the securities or Blue Sky laws of the jurisdictions in which the Notes are offered by the Initial Purchasers and by all dealers to whom Notes may be sold, in connection with the offering and sale of the Notes.
+ 
+(d)           If, at any time prior to completion of the distribution of the Notes by the Initial Purchasers to Eligible Purchasers, any event occurs or information becomes known that, in the judgment of the Company or any of the Guarantors or in the opinion of counsel for the Initial Purchasers, should be set forth in the Pricing Disclosure Package or the Offering Memorandum so that the Pricing Disclosure Package or the Offering Memorandum, as then amended or supplemented, does not include any untrue statement of material fact or omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading, or if it is necessary to supplement or amend the Pricing Disclosure Package or the Offering Memorandum in order to comply with any law, the Company and the Guarantors will forthwith prepare an appropriate supplement or amendment thereto, and will expeditiously furnish to the Initial Purchasers and dealers a reasonable number of copies thereof.
+ 
+(e)           None of the Company nor any Guarantor will make any offer to sell or solicitation of an offer to buy the Notes that would constitute a Free Writing Offering Document without the prior consent of the Representatives, which consent shall not be unreasonably withheld or delayed.  If at any time following issuance of a Free Writing Offering Document any event occurred or occurs as a result of which such Free Writing Offering Document conflicts with the information in the Preliminary Offering Memorandum, the Pricing Disclosure Package or the Offering Memorandum or, when taken together with the information in the Preliminary Offering Memorandum, the Pricing Disclosure Package or the Offering Memorandum, includes an untrue statement of a material fact or omits to state any material fact necessary in order to make the statements therein, in the light of the circumstances then prevailing, not misleading, as promptly as practicable after becoming aware thereof, the Company will give notice thereof to the Initial Purchasers through the Representatives and, if requested by the Representatives, will
+ 
+28
+
+
+
+
+
+
+ 
+prepare and furnish without charge to each Initial Purchaser a Free Writing Offering Document or other document which will correct such conflict, statement or omission.
+ 
+(f)            Promptly from time to time to take such action as the Initial Purchasers may reasonably request to qualify the Notes for offering and sale under the securities or Blue Sky laws of such jurisdictions as the Initial Purchasers may request and to comply with such laws so as to permit the continuance of sales and dealings therein in such jurisdictions for as long as may be necessary to complete the distribution of the Notes; provided that in connection therewith the Company shall not be required to (i) qualify as a foreign corporation in any jurisdiction in which it would not otherwise be required to so qualify, (ii) file a general consent to service of process in any such jurisdiction, or (iii) subject itself to taxation in any jurisdiction in which it would not otherwise be subject.
+ 
+(g)           For a period commencing on the date hereof and ending on the 90th day after the date of the Offering Memorandum, the Company and the Guarantors agree not to, directly or indirectly, (i) offer for sale, sell, or otherwise dispose of (or enter into any transaction or device that is designed to, or would be expected to, result in the disposition by any person at any time in the future of) any debt securities of the Company substantially similar to the Notes or securities convertible into or exchangeable for such debt securities of the Company, or sell or grant options, rights or warrants with respect to such debt securities of the Company or securities convertible into or exchangeable for such debt securities of the Company, (ii) enter into any swap or other derivatives transaction that transfers to another, in whole or in part, any of the economic benefits or risks of ownership of such debt securities of the Company, whether any such transaction described in clause (i) or (ii) above is to be settled by delivery of debt securities of the Company or other securities, in cash or otherwise, (iii) file or cause to be filed a registration statement, including any amendments, with respect to the registration of debt securities of the Company substantially similar to the Notes or securities convertible, exercisable or exchangeable into debt securities of the Company substantially similar to the Notes, or (iv) publicly announce an offering of any debt securities of the Company substantially similar to the Notes or securities convertible or exchangeable into debt securities substantially similar to the Notes, in each case without the prior written consent of Barclays Capital Inc., on behalf of the Initial Purchasers, except in exchange for the Exchange Notes and the Exchange Guarantees in connection with the Exchange Offer.
+ 
+(h)           Upon request, so long as any of the Notes are outstanding, the Company and the Guarantors will, furnish at their expense to the Initial Purchasers and to the holders of the Notes the information required by Rule 144A(d)(4) under the Securities Act (if any).
+ 
+(i)            The Company and the Guarantors will apply the net proceeds from the sale of the Notes to be sold by it hereunder substantially in accordance with the description set forth in the Pricing Disclosure Package and the Offering Memorandum under the caption Use of Proceeds.
+ 
+(j)            The Company, the Guarantors and their respective affiliates will not take, directly or indirectly, any action designed to or that has constituted or that reasonably could be expected to cause or result in the stabilization or manipulation of the price of any security of the Company or the Guarantors in connection with the offering of the Notes.
+ 
+29
+
+
+
+
+
+
+ 
+(k)           The Company and the Guarantors will use their best efforts to permit the Notes to be eligible for clearance and settlement through DTC.
+ 
+(l)            The Company and the Guarantors will not, and will not permit any of their respective affiliates (as defined in Rule 144 under the Securities Act) to, resell any of the Notes that have been acquired by any of them, except for Notes purchased by the Company, the Guarantors or any of their respective affiliates and resold in a transaction registered under the Securities Act.
+ 
+(m)          The Company and the Guarantors will take precautions designed to insure that any offer or sale, direct or indirect, in the United States or to any U.S. person (as defined in Rule 902 under the Securities Act), of any Notes or any substantially similar security issued by the Company or any Guarantor, within six months subsequent to the date on which the distribution of the Notes has been completed (as notified to the Company by the Initial Purchasers), is made under restrictions and other circumstances reasonably designed not to affect the status of the offer and sale of the Notes in the United States and to U.S. persons contemplated by this Agreement as transactions exempt from the registration provisions of the Securities Act, including any sales pursuant to Rule 144A under, or Regulations D or S of, the Securities Act.
+ 
+(n)           None of the Company or any of the Guarantors or any other person on its or their behalf (other than the Initial Purchasers, as to which no covenant is given) will (i) solicit offers for, or offer or sell, the Notes by means of any form of general solicitation or general advertising within the meaning of Rule 502(c) of Regulation D or in any manner involving a public offering within the meaning of Section 4(2) of the Securities Act or (ii) engage in any directed selling efforts within the meaning of Regulation S, and all such persons will comply with the offering restrictions requirement of Regulation S.
+ 
+(o)           The Company and the Guarantors agree to comply with all the terms and conditions of the Registration Rights Agreement and all agreements set forth in the representation letters of the Company and the Guarantors to DTC relating to the approval of the Notes by DTC for book entry transfer.
+ 
+(p)           Concurrent with the closing of the GeoResources Merger, the Company and the Guarantors shall cause the Acquired Guarantors to (i) execute and deliver the Joinder Agreement and (ii) execute and deliver supplemental indentures to the Indenture and/or take all necessary actions to become Guarantors under the Indenture.
+ 
+(q)           The Company and the Guarantors will use their best efforts to (i) do and perform all things required or necessary to be done and performed under this Agreement by them prior to the Closing Date, and (ii) satisfy all conditions precedent to the Initial Purchasers obligations hereunder to purchase the Notes.
+ 
+6.             Expenses.  Whether or not the transactions contemplated by this Agreement are consummated or this Agreement is terminated, the Company and the Guarantors, jointly and severally, agree, to pay all expenses, costs, fees and taxes incident to and in connection with: (a) the preparation, printing, filing and distribution of the Preliminary Offering Memorandum, the Pricing Disclosure Package and the Offering Memorandum (including, without limitation,
+ 
+30
+
+ 
+
+
+
+
+ 
+financial statements and exhibits) and all amendments and supplements thereto (including the fees, disbursements and expenses of the Companys and the Guarantors accountants and counsel, but not, however, legal fees and expenses of the Initial Purchasers counsel incurred in connection therewith); (b) the preparation, printing (including, without limitation, word processing and duplication costs) and delivery of this Agreement, the Indenture, the Registration Rights Agreement, the Joinder Agreement, all Blue Sky memoranda and all other agreements, memoranda, correspondence and other documents printed and delivered in connection therewith and with the Exempt Resales (but not, however, legal fees and expenses of the Initial Purchasers counsel incurred in connection with any of the foregoing other than fees of such counsel plus reasonable disbursements incurred in connection with the preparation, printing and delivery of such Blue Sky memoranda); (c) the issuance and delivery by the Company of the Notes and by the Guarantors of the Guarantees and any taxes payable in connection therewith; (d) the qualification of the Notes and Exchange Notes for offer and sale under the securities or Blue Sky laws of the several states and any foreign jurisdictions as the Initial Purchasers may designate (including, without limitation, the reasonable fees and disbursements of the Initial Purchasers counsel relating to such registration or qualification); (e) the furnishing of such copies of the Preliminary Offering Memorandum, the Pricing Disclosure Package and the Offering Memorandum, and all amendments and supplements thereto, as may be reasonably requested for use in connection with the Exempt Resales; (f) the preparation of certificates for the Notes (including, without limitation, printing and engraving thereof); (g) the approval of the Notes by DTC for book-entry transfer (including fees and expenses of counsel for the Initial Purchasers reasonably incurred in connection therewith); (h) the rating of the Notes and the Exchange Notes; (i) the obligations of the Trustee, any agent of the Trustee and the counsel for the Trustee in connection with the Indenture, the Notes and the Guarantees, the Exchange Notes; and the Exchange Guarantees; (j) the performance by the Company and the Guarantors of their other obligations under this Agreement; and (k) all travel expenses (including expenses related to chartered aircraft) of each Initial Purchaser and the Companys officers and employees and any other expenses of each Initial Purchaser and the Company in connection with attending or hosting meetings with prospective purchasers of the Notes, and expenses associated with any electronic road show.
+ 
+7.             Conditions to Initial Purchasers Obligations.  The respective obligations of the Initial Purchasers hereunder are subject to the accuracy, when made and on and as of the Closing Date, of the representations and warranties of the Company and the Guarantors contained herein, to the performance by the Company and the Guarantors of their respective obligations hereunder, and to each of the following additional terms and conditions:
+ 
+(a)           The Initial Purchasers shall not have discovered and disclosed to the Company on or prior to the Closing Date that the Pricing Disclosure Package or the Offering Memorandum, or any amendment or supplement thereto, contains an untrue statement of a fact which, in the opinion of Vinson & Elkins LLP, counsel to the Initial Purchasers, is material or omits to state a fact which, in the opinion of such counsel, is material and is necessary in order to make the statements therein, in the light of the circumstances then prevailing, not misleading.
+ 
+(b)           All corporate proceedings and other legal matters incident to the authorization, form and validity of this Agreement, the Notes, the Guarantees, the Exchange Notes, the Exchange Guarantees, the Registration Rights Agreement, the Escrow Agreement, the
+ 
+31
+
+
+
+
+
+
+ 
+Indenture, the Pricing Disclosure Package and the Offering Memorandum, and all other legal matters relating to this Agreement and the transactions contemplated hereby shall be reasonably satisfactory in all material respects to counsel for the Initial Purchasers, and the Company and the Guarantors shall have furnished to such counsel all documents and information that they may reasonably request to enable them to pass upon such matters.
+ 
+(c)           Thompson & Knight LLP shall have furnished to the Initial Purchasers its written opinion, as counsel to the Company and the Guarantors, addressed to the Initial Purchasers and dated the Closing Date, in form and substance reasonably satisfactory to the Initial Purchasers, substantially in the form of Exhibit B hereto.
+ 
+(d)           David Elkouri, General Counsel of the Company, shall have furnished to the Initial Purchasers his written opinion, as counsel to the Company and the Guarantors and dated the Closing Date, in form and substance reasonably satisfactory to the Initial Purchasers, substantially in the form of Exhibit C hereto.
+ 
+(e)           The Initial Purchasers shall have received from Vinson & Elkins LLP, counsel for the Initial Purchasers, such opinion or opinions, dated the Closing Date, with respect to the issuance and sale of the Notes, the Pricing Disclosure Package, the Offering Memorandum and other related matters as the Initial Purchasers may reasonably require, and the Company shall have furnished to such counsel such documents and information as such counsel reasonably requests for the purpose of enabling them to pass upon such matters.
+ 
+(f)            At the time of execution of this Agreement, the Initial Purchasers shall have received from each of (a) Deloitte & Touche LLP, (b) UHY LLC and (c) Grant Thornton LLP a letter, in form and substance satisfactory to the Initial Purchasers, addressed to the Initial Purchasers and dated the date hereof (i) confirming that they are independent public accountants within the meaning of the Securities Act and are in compliance with the applicable requirements relating to the qualification of accountants under Rule 2-01 of Regulation S-X of the Commission and (ii) stating, as of the date hereof (or, with respect to matters involving changes or developments since the respective dates as of which specified financial information is given in the Pricing Disclosure Package, as of a date not more than three days prior to the date hereof), the conclusions and findings of such firm with respect to the financial information and (iii) covering such other matters as are ordinarily covered by accountants comfort letters to underwriters in connection with registered public offerings.
+ 
+(g)           With respect to the letters of each of (a) Deloitte & Touche LLP, (b) UHY LLC and (c) Grant Thorton LLP referred to in the preceding paragraph and delivered to the Initial Purchasers concurrently with the execution of this Agreement (the initial letter), the Company shall have furnished to the Initial Purchasers a bring-down letter of such accountants, addressed to the Initial Purchasers and dated the Closing Date (i) confirming that they are independent public accountants within the meaning of the Securities Act and are in compliance with the applicable requirements relating to the qualification of accountants under Rule 2-01 of Regulation S-X of the Commission, (ii) stating, as of the Closing Date (or, with respect to matters involving changes or developments since the respective dates as of which specified financial information is given in each of the Pricing Disclosure Package or the Offering Memorandum, as of a date not more than three days prior to the date of the Closing Date), the
+ 
+32
+
+
+
+
+
+
+ 
+conclusions and findings of such firm with respect to the financial information and other matters covered by the initial letter, and (iii) confirming in all material respects the conclusions and findings set forth in the initial letter.
+ 
+(h)           Except as described in the Pricing Disclosure Package and the Offering Memorandum, (i) neither the Company, any Guarantor nor any of their respective subsidiaries shall have sustained, since the date of the latest audited financial statements included and incorporated by reference in the Pricing Disclosure Package and the Offering Memorandum, any loss or interference with its business from fire, explosion, flood or other calamity, whether or not covered by insurance, or from any labor dispute or court or governmental action, order or decree, or (ii) since such date, there shall not have been any change in the capital stock or long-term debt of the Company, any Guarantor or any of their respective subsidiaries or any change, or any development involving a prospective change, in or affecting the business, properties, prospects, financial condition, stockholders equity or results of operations of the Company, the Guarantors and their respective subsidiaries, taken as a whole, the effect of which, in any such case described in clause (i) or (ii), is, individually or in the aggregate, in the judgment of the Representatives, so material and adverse as to make it impracticable or inadvisable to proceed with the offering or the delivery of the Notes being delivered on the Closing Date on the terms and in the manner contemplated in the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(i)            Except as described in the Pricing Disclosure Package and the Offering Memorandum, (i) neither GeoResources nor any of its subsidiaries shall have sustained, since the date of the latest audited financial statements included and incorporated by reference in the Pricing Disclosure Package and the Offering Memorandum, any loss or interference with its business from fire, explosion, flood or other calamity, whether or not covered by insurance, or from any labor dispute or court or governmental action, order or decree, or (ii) since such date, there shall not have been any change in the capital stock or long-term debt of GeoResources or any of its subsidiaries or any change, or any development involving a prospective change, in or affecting the business, properties, prospects, financial condition, stockholders equity or results of operations of the Company, GeoResources and their respective subsidiaries, taken as a whole, the effect of which, in any such case described in clause (i) or (ii), is, individually or in the aggregate, in the judgment of the Representatives, so material and adverse as it relates to the Company, GeoResources and their respective subsidiaries, taken as a whole, as to make it impracticable or inadvisable to proceed with the offering or the delivery of the Notes being delivered on the Closing Date on the terms and in the manner contemplated in the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(j)            At the time of execution of this Agreement, the Initial Purchasers shall have received from each of (a) Forrest A. Garb & Associates and (b) Cawley Gillespie & Associates, Inc. an initial letter (the initial expert letter), in form and substance satisfactory to the Initial Purchasers, addressed to the Initial Purchasers and dated the date hereof and a subsequent letter dated as of the Closing Date, which such letter shall cover the period from any initial expert letter to the Closing Date, confirming that they are independent with respect to the Company and stating the conclusions and findings of such firm with respect to matters pertaining to the Companys use of the reports of proved reserves from Forrest A. Garb & Associates and
+ 
+33
+
+
+
+
+
+
+ 
+GeoResources use of the reports of proved reserves from Cawley Gillespie & Associates, Inc. as is customary to initial purchasers in connection with similar transactions.
+ 
+(k)           The Company and each Guarantor shall have furnished or caused to be furnished to the Initial Purchasers dated as of the Closing Date a certificate of the Chief Executive Officer and Chief Financial Officer of the Company and each Guarantor, or other officers satisfactory to the Initial Purchasers, as to such matters as the Representatives may reasonably request, including, without limitation, a statement that:
+ 
+(i)            The representations, warranties and agreements of the Company and the Guarantors in Section 2 are true and correct on and as of the Closing Date, and the Company and the Guarantors have complied with all its agreements contained herein and satisfied all the conditions on its part to be performed or satisfied hereunder at or prior to the Closing Date; and
+ 
+(ii)           They have examined the Pricing Disclosure Package and the Offering Memorandum, and, in their opinion, (A) the Pricing Disclosure Package, as of the Applicable Time and as of the Closing Date, and the Offering Memorandum, as of its date and as of the Closing Date, did not and do not contain any untrue statement of a material fact and did not and do not omit to state a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading and (B) since the date of the Pricing Disclosure Package and the Offering Memorandum, no event has occurred which should have been set forth in a supplement or amendment to the Pricing Disclosure Package and the Offering Memorandum.
+ 
+(l)            Subsequent to the earlier of the Applicable Time and the execution and delivery of this Agreement (i) no downgrading shall have occurred in the rating accorded the Companys debt securities by any nationally recognized statistical rating organization, as such term is used in Section 15E of the Exchange Act, and (ii) no such organization shall have publicly announced that it has under surveillance or review, or has changed its outlook with respect to, its rating of the Notes or of any other debt securities issued or guaranteed by the Company or any of the Guarantors (in each case, other than an announcement with positive implications of a possible upgrading).
+ 
+(m)          The Notes shall be eligible for clearance and settlement through DTC.
+ 
+(n)           The Company and the Guarantors shall have executed and delivered the Registration Rights Agreement, and the Initial Purchasers shall have received an original copy thereof, duly executed by the Company and the Guarantors.
+ 
+(o)           The Company, the Escrow Agent and the Trustee shall have executed and delivered the Escrow Agreement, and the Initial Purchasers shall have received an original copy thereof, duly executed by the Company, the Escrow Agent and the Trustee.
+ 
+(p)           The Company, the Guarantors and the Trustee shall have executed and delivered the Indenture, and the Initial Purchasers shall have received an original copy thereof, duly executed by the Company, the Guarantors and the Trustee.
+ 
+34
+
+
+
+
+
+
+ 
+(q)           Subsequent to the execution and delivery of this Agreement there shall not have occurred any of the following:  (i) trading in securities generally on the New York Stock Exchange or the NYSE Amex Equities or in the over-the-counter market, or trading in any securities of the Company or GeoResources on any exchange or in the over-the-counter market, shall have been suspended or materially limited or the settlement of such trading generally shall have been materially disrupted or minimum prices shall have been established on any such exchange or such market by the Commission, by such exchange or by any other regulatory body or governmental authority having jurisdiction, (ii) a general moratorium on commercial banking activities shall have been declared by federal or state authorities, (iii) the United States shall have become engaged in hostilities, there shall have been an escalation in hostilities involving the United States or there shall have been a declaration of a national emergency or war by the United States, (iv) a material disruption in commercial banking or securities settlement or clearance services in the United States, or (v) there shall have occurred such a material adverse change in general economic, political or financial conditions, including, without limitation, as a result of terrorist activities after the date hereof (or the effect of international conditions on the financial markets in the United States shall be such), as to make it, in the judgment of the Representatives, impracticable or inadvisable to proceed with the offering or delivery of the Notes being delivered on the Closing Date on the terms and in the manner contemplated in the Offering Memorandum or that, in the judgment of the Representatives, could materially and adversely affect the financial markets or the markets for the Notes and other debt securities.
+ 
+(r)            There shall exist at and as of the Closing Date no condition that would constitute a default (or an event that with notice or the lapse of time, or both, would constitute a default) under the Indenture or a material breach under the Merger Agreement as in effect at the Closing Date (or an event that with notice or lapse of time, or both, would constitute such a default or material breach).
+ 
+All opinions, letters, evidence and certificates mentioned above or elsewhere in this Agreement shall be deemed to be in compliance with the provisions hereof only if they are in form and substance reasonably satisfactory to counsel for the Initial Purchasers.
+ 
+8.             Indemnification and Contribution.
+ 
+(a)           The Company and each Guarantor (in the case of the Acquired Guarantors, upon execution and delivery of the Joinder Agreement), hereby agrees, jointly and severally, to indemnify and hold harmless each Initial Purchaser, its affiliates, directors, officers and employees and each person, if any, who controls any Initial Purchaser within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act, from and against any loss, claim, damage or liability, joint or several, or any action in respect thereof (including, but not limited to, any loss, claim, damage, liability or action relating to purchases and sales of Notes), to which that Initial Purchaser, affiliate, director, officer, employee or controlling person may become subject, under the Securities Act or otherwise, insofar as such loss, claim, damage, liability or action arises out of, or is based upon, (i) any untrue statement or alleged untrue statement of a material fact contained (A) in any Free Writing Offering Document, the Preliminary Offering Memorandum, the Pricing Disclosure Package or the Offering Memorandum or in any amendment or supplement thereto, (B) in any Blue Sky application or other document prepared or executed by the Company or any Guarantor (or based upon any
+ 
+35
+
+
+
+
+
+
+ 
+written information furnished by the Company or any Guarantor) specifically for the purpose of qualifying any or all of the Notes under the securities laws of any state or other jurisdiction (any such application, document or information being hereinafter called a Blue Sky Application), or (C) in any materials or information provided to investors by, or with the approval of, the Company or any Guarantor in connection with the marketing of the offering of the Notes (Marketing Materials), including any road show or investor presentations made to investors by the Company (whether in person or electronically) or any materials prepared for the purpose of compliance with the Canadian securities laws, or (ii) the omission or alleged omission to state in any Free Writing Offering Document, the Preliminary Offering Memorandum, the Pricing Disclosure Package or the Offering Memorandum, or in any amendment or supplement thereto, or in any Blue Sky Application or in any Marketing Materials, any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading, and shall reimburse each Initial Purchaser and each such affiliate, director, officer, employee or controlling person promptly upon demand for any legal or other expenses reasonably incurred by that Initial Purchaser, affiliate, director, officer, employee or controlling person in connection with investigating or defending or preparing to defend against any such loss, claim, damage, liability or action as such expenses are incurred; provided, however, that the Company and the Guarantors shall not be liable in any such case to the extent that any such loss, claim, damage, liability or action arises out of, or is based upon, any untrue statement or alleged untrue statement or omission or alleged omission made in any Preliminary Offering Memorandum, the Pricing Disclosure Package or Offering Memorandum, or in any such amendment or supplement thereto, or in any Blue Sky Application or in any Marketing Materials, in reliance upon and in conformity with written information concerning such Initial Purchaser furnished to the Company through the Representatives by or on behalf of any Initial Purchaser specifically for inclusion therein, which information consists solely of the information specified in Section 8(e).  The foregoing indemnity agreement is in addition to any liability that the Company or the Guarantors may otherwise have to any Initial Purchaser or to any affiliate, director, officer, employee or controlling person of that Initial Purchaser.
+ 
+(b)           Each Initial Purchaser, severally and not jointly, hereby agrees to indemnify and hold harmless the Company, each Guarantor (in the case of the Acquired Guarantors, only upon execution and delivery of the Joinder Agreement), their respective officers and employees, each of their respective directors, and each person, if any, who controls the Company or any Guarantor within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act, from and against any loss, claim, damage or liability, joint or several, or any action in respect thereof, to which the Company, any Guarantor or any such director, officer, employee or controlling person may become subject, under the Securities Act or otherwise, insofar as such loss, claim, damage, liability or action arises out of, or is based upon, (i) any untrue statement or alleged untrue statement of a material fact contained (A) in any Free Writing Offering Document, Preliminary Offering Memorandum, the Pricing Disclosure Package or the Offering Memorandum or in any amendment or supplement thereto, (B) in any Blue Sky Application, or (C) in any Marketing Materials, or (ii) the omission or alleged omission to state in any Free Writing Offering Document, Preliminary Offering Memorandum, the Pricing Disclosure Package or the Offering Memorandum, or in any amendment or supplement thereto, or in any Blue Sky Application or in any Marketing Materials any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading, but in each case only to the extent that the untrue statement or alleged
+ 
+36
+
+
+
+
+
+
+ 
+untrue statement or omission or alleged omission was made in reliance upon and in conformity with written information concerning such Initial Purchaser furnished to the Company through the Representatives by or on behalf of that Initial Purchaser specifically for inclusion therein, which information is limited to the information set forth in Section 8(e).  The foregoing indemnity agreement is in addition to any liability that any Initial Purchaser may otherwise have to the Company, any Guarantor or any such director, officer, employee or controlling person.
+ 
+(c)           Promptly after receipt by an indemnified party under this Section 8 of notice of any claim or the commencement of any action, the indemnified party shall, if a claim in respect thereof is to be made against the indemnifying party under this Section 8, notify the indemnifying party in writing of the claim or the commencement of that action; provided, however, that the failure to notify the indemnifying party shall not relieve it from any liability that it may have under this Section 8 except to the extent it has been materially prejudiced (through the forfeiture of substantive rights or defenses) by such failure and; provided, further, that the failure to notify the indemnifying party shall not relieve it from any liability that it may have to an indemnified party otherwise than under this paragraph (a) or (b) of this Section 8.  If any such claim or action shall be brought against an indemnified party, and it shall notify the indemnifying party thereof, the indemnifying party shall be entitled to participate therein and, to the extent that it wishes, jointly with any other similarly notified indemnifying party, to assume the defense thereof with counsel reasonably satisfactory to the indemnified party.  After notice from the indemnifying party to the indemnified party of its election to assume the defense of such claim or action, the indemnifying party shall not be liable to the indemnified party under this Section 8 for any legal or other expenses subsequently incurred by the indemnified party in connection with the defense thereof other than reasonable costs of investigation; provided, however, that the Initial Purchasers shall have the right to employ counsel to represent jointly the Initial Purchasers and their respective affiliates, directors, officers, employees and controlling persons who may be subject to liability arising out of any claim in respect of which indemnity may be sought by the Initial Purchasers against the Company or any Guarantor under this Section 8, if (i) the Company, the Guarantors and the Initial Purchasers shall have so mutually agreed; (ii) the Company and the Guarantors have failed within a reasonable time to retain counsel reasonably satisfactory to the Initial Purchasers; (iii) the Initial Purchasers and their respective affiliates, directors, officers, employees and controlling persons shall have reasonably concluded, based on the advice of counsel, that there may be legal defenses available to them that are different from or in addition to those available to the Company and the Guarantors; or (iv) the named parties in any such proceeding (including any impleaded parties) include both the Initial Purchasers or their respective affiliates, directors, officers, employees or controlling persons, on the one hand, and the Company and the Guarantors, on the other hand, and representation of both sets of parties by the same counsel would present a conflict due to actual or potential differing interests between them, and in any such event the fees and expenses of such separate counsel shall be paid by the Company and the Guarantors.  No indemnifying party shall (x) without the prior written consent of the indemnified parties (which consent shall not be unreasonably withheld), settle or compromise or consent to the entry of any judgment with respect to any pending or threatened claim, action, suit or proceeding in respect of which indemnification or contribution may be sought hereunder (whether or not the indemnified parties are actual or potential parties to such claim or action) unless such settlement, compromise or consent includes an unconditional release of each indemnified party from all liability arising out of such claim, action, suit or proceeding and does not include a statement as to, or an admission
+ 
+37
+
+
+
+
+
+
+ 
+of fault, culpability or a failure to act by or on behalf of any indemnified party, or (y) be liable for any settlement of any such action effected without its written consent (which consent shall not be unreasonably withheld), but if settled with the consent of the indemnifying party or if there be a final judgment of the plaintiff in any such action, the indemnifying party agrees to indemnify and hold harmless any indemnified party from and against any loss or liability by reason of such settlement or judgment.
+ 
+(d)           If the indemnification provided for in this Section 8 shall for any reason be unavailable to or insufficient to hold harmless an indemnified party under Section 8(a) or 8(b) in respect of any loss, claim, damage or liability, or any action in respect thereof, referred to therein, then each indemnifying party shall, in lieu of indemnifying such indemnified party, contribute to the amount paid or payable by such indemnified party as a result of such loss, claim, damage or liability, or action in respect thereof, (i) in such proportion as shall be appropriate to reflect the relative benefits received by the Company and the Guarantors, on the one hand, and the Initial Purchasers, on the other, from the offering of the Notes, or (ii) if the allocation provided by clause (i) above is not permitted by applicable law, in such proportion as is appropriate to reflect not only the relative benefits referred to in clause (i) above but also the relative fault of the Company and the Guarantors, on the one hand, and the Initial Purchasers, on the other, with respect to the statements or omissions that resulted in such loss, claim, damage or liability, or action in respect thereof, as well as any other relevant equitable considerations.  The relative benefits received by the Company and the Guarantors, on the one hand, and the Initial Purchasers, on the other, with respect to such offering shall be deemed to be in the same proportion as the total net proceeds from the offering of the Notes purchased under this Agreement (before deducting expenses) received by the Company and the Guarantors, on the one hand, and the total discounts and commissions received by the Initial Purchasers with respect to the Notes purchased under this Agreement, on the other hand, bear to the total gross proceeds from the offering of the Notes under this Agreement as set forth on the cover page of the Offering Memorandum.  The relative fault shall be determined by reference to whether the untrue or alleged untrue statement of a material fact or omission or alleged omission to state a material fact relates to information supplied by the Company, the Guarantors, or the Initial Purchasers, the intent of the parties and their relative knowledge, access to information and opportunity to correct or prevent such statement or omission.  For purposes of the preceding two sentences, the net proceeds deemed to be received by the Company shall be deemed to be also for the benefit of the Guarantors, and information supplied by the Company shall also be deemed to have been supplied by the Guarantors.  The Company, the Guarantors, and the Initial Purchasers agree that it would not be just and equitable if contributions pursuant to this Section 8(d) were to be determined by pro rata allocation (even if the Initial Purchasers were treated as one entity for such purpose) or by any other method of allocation that does not take into account the equitable considerations referred to herein.  The amount paid or payable by an indemnified party as a result of the loss, claim, damage or liability, or action in respect thereof, referred to above in this Section 8(d) shall be deemed to include, for purposes of this Section 8(d), any legal or other expenses reasonably incurred by such indemnified party in connection with investigating or defending any such action or claim.  Notwithstanding the provisions of this Section 8(d), no Initial Purchaser shall be required to contribute any amount in excess of the amount by which the net proceeds from the sale to Eligible Purchasers of the Notes initially purchased by it exceeds the amount of any damages that such Initial Purchaser has otherwise paid or become liable to pay by reason of any untrue or alleged untrue statement or omission or alleged omission.  No person
+ 
+38
+
+
+
+
+
+
+ 
+guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation.  The Initial Purchasers obligations to contribute as provided in this Section 8(d) are several in proportion to their respective purchase obligations and not joint.
+ 
+(e)           The Initial Purchasers severally confirm and the Company and the Guarantors acknowledge and agree that the statements contained in the second sentence under the heading Plan of DistributionRule 144A and Regulation S in the Pricing Disclosure Package and the Offering Memorandum are correct and constitute the only information concerning such Initial Purchasers furnished in writing to the Company or any Guarantor by or on behalf of the Initial Purchasers specifically for inclusion in any Free Writing Offering Document, the Preliminary Offering Memorandum, the Pricing Disclosure Package, the Offering Memorandum, or in any amendment or supplement thereto or in any Blue Sky Application or in any Marketing Materials.
+ 
+9.             Defaulting Initial Purchasers.
+ 
+(a)           If, on the Closing Date, any Initial Purchaser defaults in its obligations to purchase the Notes that it has agreed to purchase under this Agreement, the remaining non-defaulting Initial Purchasers may in their discretion arrange for the purchase of such Notes by the non-defaulting Initial Purchasers or other persons satisfactory to the Company on the terms contained in this Agreement.  If, within 36 hours after any such default by any Initial Purchaser, the non-defaulting Initial Purchasers do not arrange for the purchase of such Notes, then the Company shall be entitled to a further period of 36 hours within which to procure other persons satisfactory to the non-defaulting Initial Purchasers to purchase such Notes on such terms.  In the event that within the respective prescribed periods, the non-defaulting Initial Purchasers notify the Company that they have so arranged for the purchase of such Notes, or the Company notifies the non-defaulting Initial Purchasers that it has so arranged for the purchase of such Notes, either the non-defaulting Initial Purchasers or the Company may postpone the Closing Date for up to seven full business days in order to effect any changes that in the opinion of counsel for the Company or counsel for the Initial Purchasers may be necessary in the Pricing Disclosure Package, the Offering Memorandum or in any other document or arrangement, and the Company agrees to promptly prepare any amendment or supplement to the Pricing Disclosure Package or the Offering Memorandum that effects any such changes.  As used in this Agreement, the term Initial Purchaser includes, for all purposes of this Agreement unless the context requires otherwise, any party not listed in Schedule I hereto that, pursuant to this Section 9, purchases Notes that a defaulting Initial Purchaser agreed but failed to purchase.
+ 
+(b)           If, after giving effect to any arrangements for the purchase of the Notes of a defaulting Initial Purchaser or Initial Purchasers by the non-defaulting Initial Purchasers and the Company as provided in paragraph (a) above, the aggregate principal amount of such Notes that remains unpurchased does not exceed one-eleventh of the aggregate principal amount of all the Notes, then the Company shall have the right to require each non-defaulting Initial Purchaser to purchase the principal amount of Notes that such Initial Purchaser agreed to purchase hereunder plus such Initial Purchasers pro rata share (based on the principal amount of Notes that such Initial Purchaser agreed to purchase hereunder) of the Notes of such defaulting Initial Purchaser or Initial Purchasers for which such arrangements have not been made; provided that
+ 
+39
+
+
+
+
+
+
+ 
+the non-defaulting Initial Purchasers shall not be obligated to purchase more than 110% of the aggregate principal amount of Notes that it agreed to purchase on the Closing Date pursuant to the terms of Section 3.
+ 
+(c)           If, after giving effect to any arrangements for the purchase of the Notes of a defaulting Initial Purchaser or Initial Purchasers by the non-defaulting Initial Purchasers and the Company as provided in paragraph (a) above, the aggregate principal amount of such Notes that remains unpurchased exceeds one-eleventh of the aggregate principal amount of all the Notes, or if the Company shall not exercise the right described in paragraph (b) above, then this Agreement shall terminate without liability on the part of the non-defaulting Initial Purchasers.  Any termination of this Agreement pursuant to this Section 9 shall be without liability on the part of the Company or the Guarantors, except that the Company and each of the Guarantors will continue to be liable for the payment of expenses as set forth in Sections 6 and 11 to the non-defaulting Initial Purchasers and except that the provisions of Section 8 shall not terminate and shall remain in effect.
+ 
+(d)           Nothing contained herein shall relieve a defaulting Initial Purchaser of any liability it may have to the Company, the Guarantors or any non-defaulting Initial Purchaser for damages caused by its default.
+ 
+10.          Termination.  The obligations of the Initial Purchasers hereunder may be terminated by the Initial Purchasers by notice given to and received by the Company prior to delivery of and payment for the Notes if, prior to that time, any of the events described in Sections 7(h), (i), (l) or (q) shall have occurred or if the Initial Purchasers shall decline to purchase the Notes for any reason permitted under this Agreement.
+ 
+11.          Reimbursement of Initial Purchasers Expenses.  If (a) the Company for any reason fails to tender the Notes for delivery to the Initial Purchasers, or (b) the Initial Purchasers shall decline to purchase the Notes for any reason permitted under this Agreement, the Company and the Guarantors shall jointly and severally reimburse the Initial Purchasers for all reasonable out-of-pocket expenses (including fees and disbursements of counsel for the Initial Purchasers) incurred by the Initial Purchasers in connection with this Agreement and the proposed purchase of the Notes, and upon demand the Company and the Guarantors shall pay the full amount thereof to the Initial Purchasers.  If this Agreement is terminated pursuant to Section 9 by reason of the default of one or more Initial Purchasers, the Company and the Guarantors shall not be obligated to reimburse any defaulting Initial Purchaser on account of those expenses.
+ 
+12.          Notices, etc.  All statements, requests, notices and agreements hereunder shall be in writing, and:
+ 
+(a)           if to any Initial Purchasers, shall be delivered or sent by hand delivery, mail, telex, overnight courier or facsimile transmission to Barclays Capital Inc., 745 Seventh Avenue, New York, New York 10019, Attention: Syndicate Registration with a copy to Vinson & Elkins LLP, 1001 Fannin Street, Suite 2500, Houston, Texas 77002, Attention: Kathryn Wilson (Fax: (713) 615-5792), and with a copy, in the case of any notice pursuant to Section 8(c), to the Director of Litigation, Office of the General Counsel, Barclays Capital Inc., 745 Seventh Ave., New York, New York 10019;
+ 
+40
+
+
+
+
+
+ 
+(b)           if to the Company or any Guarantor, shall be delivered or sent by mail, telex, overnight courier or facsimile transmission to Halcón Resources Corporation, 1000 Louisiana Street, Suite 6700, Houston, Texas 77002, Attention: Floyd Wilson, with a copy to Thompson & Knight LLP, 333 Clay Street, Suite 3300, Houston, Texas 77002, Attention: William T. Heller IV; 
+ 
+provided, however, that any notice to an Initial Purchaser pursuant to Section 8(c) shall be delivered or sent by hand delivery, mail, telex or facsimile or electronic transmission to such Initial Purchaser at its address set forth in its acceptance telex to Barclays Capital Inc., which address will be supplied to any other party hereto by Barclays Capital Inc. upon request. Any such statements, requests, notices or agreements shall take effect at the time of receipt thereof. The Company shall be entitled to act and rely upon any request, consent, notice or agreement given or made on behalf of the Initial Purchasers by Barclays Capital Inc.
+ 
+(c)           In accordance with the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)), the Initial Purchasers are required to obtain, verify and record information that identifies their respective clients, including the Company, which information may include the name and address of their respective clients, as well as other information that will allow  the Initial Purchasers to properly identify their respective clients.
+ 
+13.          Persons Entitled to Benefit of Agreement. This Agreement shall inure to the benefit of and be binding upon the Initial Purchasers, the Company, the Guarantors and their respective successors. This Agreement and the terms and provisions hereof are for the sole benefit of only those persons, except that the representations, warranties, indemnities and agreements of the Company and the Guarantors contained in this Agreement shall also be deemed to be for the benefit of the affiliates, directors, officers and employees of the Initial Purchasers and each person or persons, if any, controlling any Initial Purchaser within the meaning of Section 15 of the Securities Act. Nothing in this Agreement is intended or shall be construed to give any person, other than the persons referred to in this Section 13, any legal or equitable right, remedy or claim under or in respect of this Agreement or any provision contained herein.
+ 
+14.          Survival. The respective indemnities, rights of contribution, representations, warranties and agreements of the Company, the Guarantors and the Initial Purchasers contained in this Agreement or made by or on behalf of them, respectively, pursuant to this Agreement, shall survive the delivery of and payment for the Notes and shall remain in full force and effect, regardless of any termination of this Agreement or any investigation made by or on behalf of any of them or any person controlling any of them.
+ 
+15.          Definition of the Terms Business Day, Affiliate, and Subsidiary. For purposes of this Agreement, (a) business day means any day on which the New York Stock Exchange, Inc. is open for trading, and (b) affiliate and subsidiary have the meanings set forth in Rule 405 under the Securities Act.
+ 
+16.          Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New York.
+ 
+41
+
+
+
+
+
+
+ 
+17.          Waiver of Jury Trial. The Company and each of the Initial Purchasers hereby irrevocably waives, to the fullest extent permitted by applicable law, any and all right to trial by jury in any legal proceeding arising out of or relating to this Agreement or the transactions contemplated hereby.
+ 
+18.          No Fiduciary Duty. The Company and the Guarantors acknowledge and agree that in connection with this offering, or any other services the Initial Purchasers may be deemed to be providing hereunder, notwithstanding any preexisting relationship, advisory or otherwise, between the parties or any oral representations or assurances previously or subsequently made by the Initial Purchasers: (a) no fiduciary or agency relationship between the Company, any Guarantor and any other person, on the one hand, and the Initial Purchasers, on the other, exists; (b) the Initial Purchasers are not acting as advisors, expert or otherwise, to the Company or the Guarantors, including, without limitation, with respect to the determination of the purchase price of the Notes, and such relationship between the Company and the Guarantors, on the one hand, and the Initial Purchasers, on the other, is entirely and solely commercial, based on arms-length negotiations; (c) any duties and obligations that the Initial Purchasers may have to the Company and the Guarantors shall be limited to those duties and obligations specifically stated herein; (d) the Initial Purchasers and their respective affiliates may have interests that differ from those of the Company and the Guarantors; and (e) the Company and the Guarantors have consulted their own legal and financial advisors to the extent they deemed appropriate. The Company and the Guarantors hereby waive any claims that the Company and the Guarantors may have against the Initial Purchasers with respect to any breach of fiduciary duty in connection with the Notes.
+ 
+19.          Counterparts. This Agreement may be executed in one or more counterparts and, if executed in more than one counterpart, the executed counterparts shall each be deemed to be an original but all such counterparts shall together constitute one and the same instrument.
+ 
+20.          Headings. The headings herein are inserted for convenience of reference only and are not intended to be part of, or to affect the meaning or interpretation of, this Agreement.
+ 
+42
+
+
+
+
+
+
+ 
+If the foregoing correctly sets forth the agreement between the Company, the Guarantors, and the Initial Purchasers, please indicate your acceptance in the space provided for that purpose below.
+ 
+
+
+
+     
+
+Very   truly yours,       
+
+
+     
+
+     
+
+        
+
+
+     
+
+HALCÓN RESOURCES CORPORATION       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Floyd C. Wilson       
+
+
+     
+
+     
+
+Name:    
+
+Floyd   C. Wilson       
+
+
+     
+
+     
+
+Title:    
+
+Chief   Executive Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+GREAT PLAINS PIPELINE COMPANY       
+
+
+     
+
+HALCÓN ENERGY PROPERTIES, INC.       
+
+
+     
+
+HALCÓN FIELD SERVICES, LLC       
+
+
+     
+
+HALCÓN HOLDINGS, INC.       
+
+
+     
+
+HALCÓN OPERATING CO., INC.       
+
+
+     
+
+HALCÓN RESOURCES OPERATING, INC.       
+
+
+     
+
+HALCÓN LOUISIANA OPERATING, L.P.       
+
+
+     
+
+     
+
+By    
+
+HLP GULF STATES, LLC,       
+
+
+     
+
+     
+
+its General Partner       
+
+
+     
+
+HLP GULF STATES, LLC       
+
+
+     
+
+HRC ENERGY HOLDINGS (LA), INC.       
+
+
+     
+
+HRC ENERGY LOUISIANA, LLC       
+
+
+     
+
+HRC ENERGY RESOURCES (LAFOURCHE), INC.       
+
+
+     
+
+HRC ENERGY RESOURCES (WV), INC.   LEOPARD SUB I, INC.       
+
+
+     
+
+LEOPARD SUB II, LLC       
+
+
+     
+
+PONTOTOC PRODUCTION COMPANY, INC.       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Floyd C. Wilson       
+
+
+     
+
+     
+
+     
+
+Name:    
+
+Floyd   C. Wilson       
+
+
+     
+
+     
+
+     
+
+Title:    
+
+Chief   Executive Officer       
+
+
+
+
+
+
+
+
+
+    
+ 
+43
+
+
+
+
+
+
+ 
+
+
+
+Accepted:    
+
+        
+
+
+     
+
+        
+
+
+BARCLAYS   CAPITAL INC.    
+
+        
+
+
+For   itself and as Representative of the several    
+
+        
+
+
+Initial   Purchasers named on Schedule I hereto.    
+
+        
+
+
+     
+
+        
+
+
+By:       
+
+/s/   Paul Cugano    
+
+        
+
+
+     
+
+Authorized   Signatory    
+
+          
+ 
+44
+
+
+
+
+
+
+ 
+SCHEDULE I
+ 
+
+
+
+     
+
+     
+
+Principal    
+
+        
+
+
+     
+
+     
+
+Amount of    
+
+        
+
+
+     
+
+     
+
+Notes    
+
+        
+
+
+     
+
+     
+
+to be    
+
+        
+
+
+Initial Purchasers    
+
+     
+
+Purchased    
+
+        
+
+
+Barclays Capital Inc.     
+
+     
+
+$    
+
+281,250,000    
+
+        
+
+
+Goldman,   Sachs & Co.     
+
+     
+
+105,000,000    
+
+        
+
+
+J.P. Morgan Securities   LLC     
+
+     
+
+105,000,000    
+
+        
+
+
+Wells Fargo Securities,   LLC     
+
+     
+
+75,000,000    
+
+        
+
+
+BMO Capital Markets   Corp.     
+
+     
+
+67,500,000    
+
+        
+
+
+RBC Capital Markets, LLC       
+
+     
+
+37,500,000    
+
+        
+
+
+Capital One   Southcoast, Inc.     
+
+     
+
+37,500,000    
+
+        
+
+
+SunTrust Robinson   Humphrey, Inc.     
+
+     
+
+33,750,000    
+
+        
+
+
+Global Hunter   Securities, LLC     
+
+     
+
+7,500,000    
+
+        
+
+
+Total     
+
+     
+
+$    
+
+750,000,000    
+
+          
+ 
+
+
+
+
+
+
+ 
+SCHEDULE II
+ 
+LIST OF GUARANTORS
+ 
+
+
+
+     
+
+     
+
+State of Incorporation       
+
+
+Subsidiary    
+
+     
+
+or Organization       
+
+
+     
+
+     
+
+        
+
+
+Halcón   Resources Operating, Inc.    
+
+     
+
+     
+
+Delaware       
+
+
+     
+
+     
+
+     
+
+        
+
+
+Halcón   Holdings, Inc.    
+
+     
+
+     
+
+Delaware       
+
+
+     
+
+     
+
+     
+
+        
+
+
+HRC   Energy Resources (WV), Inc.    
+
+     
+
+     
+
+Delaware       
+
+
+     
+
+     
+
+     
+
+        
+
+
+HRC   Energy Holdings (LA), Inc.    
+
+     
+
+     
+
+Delaware       
+
+
+     
+
+     
+
+     
+
+        
+
+
+HRC   Energy Resources (Lafourche), Inc.    
+
+     
+
+     
+
+Louisiana       
+
+
+     
+
+     
+
+     
+
+        
+
+
+HRC   Energy Louisiana, LLC    
+
+     
+
+     
+
+Delaware       
+
+
+     
+
+     
+
+     
+
+        
+
+
+Pontotoc   Production Company, Inc.    
+
+     
+
+     
+
+Texas       
+
+
+     
+
+     
+
+     
+
+        
+
+
+Halcón   Energy Properties, Inc.    
+
+     
+
+     
+
+Delaware       
+
+
+     
+
+     
+
+     
+
+        
+
+
+Halcón   Operating Co., Inc.    
+
+     
+
+     
+
+Texas       
+
+
+     
+
+     
+
+     
+
+        
+
+
+HLP   Gulf States, LLC    
+
+     
+
+     
+
+Oklahoma       
+
+
+     
+
+     
+
+     
+
+        
+
+
+Great   Plains Pipeline Company    
+
+     
+
+     
+
+Delaware       
+
+
+     
+
+     
+
+     
+
+        
+
+
+Leopard   Sub I, Inc.    
+
+     
+
+     
+
+Colorado       
+
+
+     
+
+     
+
+     
+
+        
+
+
+Leopard   Sub II, LLC    
+
+     
+
+     
+
+Delaware       
+
+
+     
+
+     
+
+     
+
+        
+
+
+Halcón   Field Services, LLC    
+
+     
+
+     
+
+Delaware       
+
+
+     
+
+     
+
+     
+
+        
+
+
+Halcón   Louisiana Operating, L.P.    
+
+     
+
+     
+
+Delaware         
+ 
+
+
+
+
+
+
+ 
+SCHEDULE III
+ 
+
+ 
+HALCÓN RESOURCES CORPORATION
+ 
+$750,000,000 9.75% Senior Notes due 2020
+ 
+June 29, 2012
+ 
+Pricing Supplement
+ 
+Pricing Supplement dated June 29, 2012 to the Preliminary Offering Memorandum dated June 25, 2012 of Halcón Resources Corporation. This Pricing Supplement is qualified in its entirety by reference to the Preliminary Offering Memorandum. The information in this Pricing Supplement supplements the Preliminary Offering Memorandum and supersedes the information in the Preliminary Offering Memorandum to the extent it is inconsistent with the information in the Preliminary Offering Memorandum. Capitalized terms used in this Pricing Supplement but not defined have the meanings given them in the Preliminary Offering Memorandum.
+ 
+
+
+
+Issuer    
+
+     
+
+Halcón Resources Corporation       
+
+
+     
+
+     
+
+        
+
+
+Guarantors    
+
+     
+
+The notes will be guaranteed on a   senior unsecured basis by the Issuers current subsidiaries and by any future   restricted subsidiaries that guarantee the Issuers indebtedness under a   credit facility.       
+
+
+     
+
+     
+
+        
+
+
+Title of Securities    
+
+     
+
+9.75% Senior Notes due 2020 (the   Notes)       
+
+
+     
+
+     
+
+        
+
+
+Aggregate Principal Amount    
+
+     
+
+$750,000,000       
+
+
+     
+
+     
+
+        
+
+
+Distribution    
+
+     
+
+144A / Regulation S with Registration Rights       
+
+
+     
+
+     
+
+        
+
+
+Maturity Date    
+
+     
+
+July 15, 2020       
+
+
+     
+
+     
+
+        
+
+
+Issue Price    
+
+     
+
+98.646%       
+
+
+     
+
+     
+
+        
+
+
+Coupon    
+
+     
+
+9.75%       
+
+
+     
+
+     
+
+        
+
+
+Yield to Maturity    
+
+     
+
+10.00%       
+
+
+     
+
+     
+
+        
+
+
+Interest Payment Dates    
+
+     
+
+January 15 and July 15 of each year, beginning on January 15,   2013       
+
+
+     
+
+     
+
+        
+
+
+Record Dates    
+
+     
+
+January 1 and July 1 of each year       
+
+
+     
+
+     
+
+        
+
+
+Ratings*    
+
+     
+
+B3 (Moodys) / CCC+ (S&P)       
+
+
+     
+
+     
+
+        
+
+
+Trade Date    
+
+     
+
+June 29, 2012       
+
+
+     
+
+     
+
+        
+
+
+Settlement Date    
+
+     
+
+July 16, 2012 (T+10) 
+ 
+We expect that delivery of the Notes will be made against payment   therefor on or about the 10th business day following the   date of confirmation of orders with respect to the Notes (this settlement   cycle being referred to as T+10). Under Rule 15c6-1 of the Commission   under the Exchange Act, trades in the secondary market generally are required   to settle in three business days, unless the parties to any such trade   expressly agree otherwise. Accordingly, purchasers who wish to trade the   Notes on the trade date or the following six trading days will be required,   by virtue of the fact that the Notes initially will settle in T+10, to   specify an alternative settlement cycle at the time of any such trade to   prevent a failed settlement. Purchasers of the Notes who wish to trade the   Notes before their delivery should          
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+     
+
+consult their own advisor.       
+
+
+     
+
+     
+
+        
+
+
+Optional Redemption    
+
+     
+
+On or after July 15, 2016, at the following redemption prices   (expressed as a percentage of principal amount), plus accrued and unpaid   interest, if any, on the Notes redeemed during the twelve-month period   indicated beginning on July 15 of the years indicated below:       
+
+
+ 
+
+     
+
+     
+
+     
+
+     
+
+    
+
+
+ 
+
+Year    
+
+     
+
+ Price    
+
+     
+
+    
+
+
+ 
+
+     
+
+     
+
+     
+
+     
+
+    
+
+
+ 
+
+2016     
+
+     
+
+104.875    
+
+%    
+
+    
+
+
+ 
+
+     
+
+     
+
+     
+
+     
+
+    
+
+
+ 
+
+2017     
+
+     
+
+102.438    
+
+%    
+
+    
+
+
+ 
+
+     
+
+     
+
+     
+
+     
+
+    
+
+
+ 
+
+2018 and thereafter     
+
+     
+
+100.000    
+
+%    
+
+    
+
+
+     
+
+     
+
+        
+
+
+Equity Clawback    
+
+     
+
+Up to 35% at 109.750% prior to July 15, 2015       
+
+
+     
+
+     
+
+        
+
+
+Make-Whole Redemption    
+
+     
+
+Make-whole redemption at Treasury Rate + 50 basis points prior to   July 15, 2016       
+
+
+     
+
+     
+
+        
+
+
+Change of Control Put    
+
+     
+
+101% plus accrued and unpaid interest (following a Rating Decline)       
+
+
+     
+
+     
+
+        
+
+
+Joint Book-Running Managers    
+
+     
+
+Barclays Capital Inc. Goldman, Sachs & Co. J.P. Morgan   Securities LLC Wells Fargo Securities, LLC BMO Capital Markets Corp. RBC   Capital Markets, LLC       
+
+
+     
+
+     
+
+        
+
+
+Co-Managers    
+
+     
+
+Capital One Southcoast, Inc. SunTrust Robinson   Humphrey, Inc. Global Hunter Securities, LLC       
+
+
+     
+
+     
+
+        
+
+
+CUSIP Numbers    
+
+     
+
+Rule 144A: 40537Q AA8 Regulation S: U4057P AA3       
+
+
+     
+
+     
+
+        
+
+
+ISIN Numbers    
+
+     
+
+Rule 144A: US40537QAA85 Regulation S: USU4057PAA31       
+
+
+     
+
+     
+
+        
+
+
+Denominations    
+
+     
+
+Minimum denominations of $2,000 and integral multiples of $1,000 in   excess thereof         
+ 
+
+*Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+ 
+
+ 
+Additional Changes to the Preliminary Offering Memorandum:
+ 
+Covenant Changes
+ 
+The following changes will be made to the covenants described under the heading Description of the Notes on the specified pages in the Preliminary Offering Memorandum:
+ 
+·                  On page 63, deleting the third paragraph under  Optional Redemption, which provided for optional redemption of the notes at 110% of par plus accrued interest in the event of specified change of control events.
+ 
+·                  On page 71, changing the ACNTA percentage in clause (1)(b) of the definition of Permitted Indebtedness from 25.0% to 30.0%.
+ 
+·                  On page 72, changing the ACNTA percentage in clause (14) of the definition of Permitted Indebtedness from 1.5% to 2.0%.
+ 
+2
+
+
+
+
+
+
+ 
+·                  On page 73, changing the ACNTA percentage in clause (15) of the definition of Permitted Indebtedness from 1.5% to 2.0%.
+ 
+·                  On page 100, changing the ACNTA percentage in clause (16) of the definition of Permitted Investments from 1.5% to 2.0%.
+ 
+·                  On page 102, changing the ACNTA percentage in clause (17) of the definition of Permitted Liens from 0.5% to 1.0%.
+ 
+Use of Proceeds
+ 
+We estimate the net proceeds of this offering will be approximately $725 million after deducting the initial purchasers discounts and commissions and before estimated offering expenses. We intend to use the net proceeds from this offering to fund the cash consideration for the GeoResources Merger and for general corporate purposes, including to fund acquisitions and capital expenditures.
+ 
+Capitalization
+ 
+The Capitalization table on page 42 of the Preliminary Offering Memorandum is amended to read as follows:
+ 
+
+
+
+     
+
+     
+
+As of March 31, 2012    
+
+        
+
+
+     
+
+     
+
+Historical    
+
+     
+
+Pro Forma    
+
+        
+
+
+     
+
+     
+
+(In millions)    
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Cash and cash   equivalents (1)(2)     
+
+     
+
+$    
+
+685.8    
+
+     
+
+$    
+
+539.7    
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Long-term debt    
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Revolving credit   facility (3)     
+
+     
+
+$    
+
+    
+
+     
+
+$    
+
+    
+
+        
+
+
+8.0% senior   unsecured convertible note due 2017 (4)     
+
+     
+
+235.5    
+
+     
+
+235.5    
+
+        
+
+
+9.75% senior notes   due 2020 offered hereby     
+
+     
+
+    
+
+     
+
+739.8    
+
+        
+
+
+Total long-term   debt     
+
+     
+
+$    
+
+235.5    
+
+     
+
+$    
+
+975.3    
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Stockholders   Equity    
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Preferred stock   (5)     
+
+     
+
+$    
+
+298.2    
+
+     
+
+$    
+
+298.2    
+
+        
+
+
+Common stock,   $0.0001 par value, 99.4 million shares outstanding actual and 171.6 million   shares outstanding pro forma     
+
+     
+
+    
+
+     
+
+    
+
+        
+
+
+Additional paid-in   capital     
+
+     
+
+633.6    
+
+     
+
+1,427.6    
+
+        
+
+
+Treasury stock     
+
+     
+
+(9.3    
+
+)    
+
+(9.3    
+
+)       
+
+
+Accumulated   deficit     
+
+     
+
+(249.6    
+
+)    
+
+(276.4    
+
+)       
+
+
+Total   stockholders equity     
+
+     
+
+$    
+
+672.9    
+
+     
+
+$    
+
+1,440.2    
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Total   capitalization     
+
+     
+
+$    
+
+908.3    
+
+     
+
+$    
+
+2,415.5    
+
+          
+ 
+
+ 
+ 
+This material is strictly confidential and has been prepared by the Issuer solely for use in connection with the proposed offering of the securities described in the Preliminary Offering Memorandum. This material is personal to each offeree and does not constitute an offer to any other person or the public generally to subscribe for or otherwise acquire the securities. Please refer to the Preliminary Offering Memorandum for a complete description.
+ 
+The securities have not been registered under the Securities Act of 1933, as amended (the Securities Act), and are being offered only to (1) qualified institutional buyers as defined in Rule 144A under the Securities Act and (2) outside the United States to non-U.S. persons in compliance with Regulation S under the Securities Act, and this communication is only being distributed to such persons.
+ 
+This communication is not an offer to sell the securities and it is not a solicitation of an offer to buy the securities in any jurisdiction to any person to whom it is unlawful to make such offer or soliciation in such jurisdiction.
+ 
+Any disclaimers or notices that may appear on this Pricing Supplement below the text of this legend are not applicable to this Pricing Supplement and should be disregarded. Such disclaimers may have been electronically generated as a result of this Pricing Supplement having been sent via, or posted on, Bloomberg or another electronic mail system.
+ 
+3
+
+
+
+
+
+
+ 
+SCHEDULE IV
+ 
+A.                                    Insert list of each document provided as an amendment or supplement to the Preliminary Offering Memorandum.
+ 
+B.                                    Insert list of any road show materials that are Free Writing Offering Documents.
+ 
+
+
+
+
+
+
+
+
+

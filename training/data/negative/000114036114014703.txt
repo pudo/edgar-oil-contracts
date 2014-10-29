@@ -1,0 +1,674 @@
+
+EX-10.16
+2
+ex10_16.htm
+EXHIBIT 10.16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.16  Fourteenth Amendment to Loan and Security Agreement
+
+ 
+
+FOURTEENTH AMENDMENT TO LOAN AND SECURITY AGREEMENT
+
+ 
+
+
+This Fourteenth Amendment to Loan and Security Agreement (this "Amendment") is made and entered into as of October 24, 2013 ("Effective Date"), by and between THE F&M BANK & TRUST  COMPANY ("Lender"), acting as a lender on its own behalf, as Agent under the Loan Agreement (as defined below), and as collateral agent on behalf of CARGILL, INCORPORATED, a Delaware corporation ("Cargill")  as a Hedge Provider, and TENGASCO, INC., a Delaware corporation ("Borrower''), TENNESSEE LAND & MINERAL CORPORATION ("TLMC"), TENGASCO PIPELINE CORPORATION ("TPC") and MANUFACTURED METHANE CORPORATION (" MMC") (each of TLMC, TPC, and MMC are a "Guarantor" and collectively "Guarantors")  (collectively referred to herein as the "Parties").
+
+ 
+
+
+RECITALS
+
+ 
+
+
+A.          Borrower and Lender's predecessor-in-interest, Citibank, N.A., a national banking association formerly known as Citibank Texas, N.A., as Agent and as a Bank ("Citibank"), (which was succeeded by Sovereign Bank ("Sovereign") and Lender) previously entered into that certain Loan and Security Agreement dated effective June 29, 2006, (as assigned, assumed, amended, supplemented, or restated to the date hereof, the "Loan Agreement");  whereby the Banks party to the Credit Agreement agreed to extend a Line of Credit to Borrower equal to the Commitment Amount, pursuant to the terms and conditions set forth in the Loan Agreement (the "Loan");
+
+ 
+
+
+B.          To evidence the Loan, Borrower executed and delivered to Citibank that certain Promissory Note dated June 29, 2006 (as amended and replaced the "Note"), payable to the order of Citibank in the original principal sum of Fifty  Million and No/!00  Dollars ($50,000,000), bearing interest and being payable as therein provided, and such Note has been (i) assigned to Sovereign by that certain Assignment of Note and Liens, dated as of December 17, 2007, by and between Citibank (as assignor) and Sovereign (as assignee) and (ii) further assigned to Lender by that certain Assignment of Note and Liens dated as of July 30, 2010, by and between Sovereign (as assignor) and Lender (as assignee); and
+
+
+
+
+C.       The Parties now desire to further amend the Loan Agreement to decrease the current Revolving Credit Borrowing Base and to modify the interest rate on the Note and to modify various other provisions of the Loan Agreement, as herein set forth.
+
+
+
+
+NOW, THEREFORE, for and in consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:
+
+
+
+
+
+ARTICLE I CAPITALIZED TERMS; DEFINITIONS
+
+
+
+
+Section 1.0 I       Definitions. Capitalized terms used in this Amendment, to the extent not otherwise defined herein, shall have the same definitions assigned to such tern1s in the Loan Agreement, as amended hereby. To the extent applicable, the term "Lender" as used in this Amendment shall also refer to Lender in its capacity as Agent and as a Bank under the Loan Agreement.
+
+
+
+
+ARTICLE II
+
+AMENDMENTS TO THE LOAN AGREEMENT
+
+
+
+
+Section 2.01        Section 1.3 of the Loan Agreement (Stated Rate). As of the Effective Date, and subject to the conditions precedent required by the provisions of Article Ill of this Amendment, Section 1.3 of the Loan Agreement is deleted in its entirety and replaced with the following:
+
+
+
+
+"1.3     Stated Rate shall mean the Prime Rate, plus one half of one percent (0.50%). The 'Prime Rate' is the prime rate of interest published by the Wall Street Journal, Southwest Edition, in its Money Rates columns as the prime rate or base rate on corporate loans at large U.S. money center commercial banks or a similar rate if such rate ceases to be published. If the Prime Rate is no longer announced or established for any reason, the Bank may select as the alternate rate such other announced and established prime or base rate for corporate loans of a New York, New York money center bank that Bank deems in its sole discretion to be most comparable to the no longer announced or established rate."
+
+
+
+
+Section 2.02         Section 1.15 of the Loan Agreement (Commitment Amount). As of the Effective Date, and subject to the conditions precedent required by the provisions of Article III of this Amendment, Section l.l5 of the Loan Agreement is deleted in its entirety and replaced with the following:
+
+
+
+
+"1.15.  Commitment Amount shall mean, as of the Fourteenth Amendment Effective Date, Seventeen Million Five Hundred Thousand Dollars ($17,500,000), or such other amount as agreed to in writing by Borrower, Banks, and Agent, but in no event in excess of the lesser of (a) the Maximum Line of Credit Amount of (b) the Revolving Credit Borrowing Base, as adjusted and redetermined from time to time pursuant to the provisions of Article III."
+
+
+
+
+Section 2.03         Section 1.45.5 of the Loan Agreement (Fourteenth Amendment Effective Date). As of the Effective Date, and subject to the conditions precedent required by the provisions of Article Ill of this Amendment, Section 1.45.5 is added to the Loan Agreement to read as follows:
+
+
+
+
+
+"1.45.5  Fourteenth Amendment Effective Date shall mean the effective date of that certain Fourteenth Amendment to Loan and Security Agreement amending the Agreement."
+
+
+
+
+Section 2.04         Section 3.1 of the Loan Agreement (Borrowing Base). As of the Effective Date, and subject to the conditions precedent required by the provisions of Article III of this Amendment, Section 3.1 of the Loan Agreement is hereby amended by deleting the last sentence at the end of Section 3.1 and replacing it with the following:
+
+
+
+
+"Until further determination by Agent pursuant to the semiannual determinations or otherwise pursuant to the terms hereof, Agent and Borrower agree and stipulate that the Revolving Credit Borrowing Base as of the Fourteenth Amendment Effective Date shall be $17,500,000."
+
+
+
+
+ARTICLE III
+
+CONDITIONS PRECEDENT
+
+
+
+
+Section 3.01         Conditions Precedent. When all of the following conditions precedent have been fulfilled to the satisfaction of Lender, this Amendment shall become effective:
+
+
+
+
+(a)      The representations and warranties contained herein and in each of the other Loan Documents shall be true and correct as of the date hereof as if made on the date hereof;
+
+ 
+
+(b)          No Default or Event of Default shall have occurred and be continuing; 
+
+ 
+
+(c)          Borrower and each Guarantor shall have executed and delivered this Amendment and such other documents and agreements as Lender may reasonably request;
+
+ 
+
+(d)          All corporate proceedings taken in connection with the transactions contemplated by this Amendment and all documents, instruments, and other legal matters incident thereto shall be satisfactory to Lender and its legal counsel in their sole discretion;
+
+
+
+
+(e)          Lender shall have received such other documents, instruments, or agreements as Lender shall reasonably request in connection with the execution of this Amendment; and
+
+
+
+
+(f)          Borrower shall pay the legal fees and expenses of Lender's counsel in connection with the preparation, negotiation, and execution of this Amendment.
+
+
+
+
+
+ARTICLE IV
+
+RATIFICATIONS, REPRESENTATIONS, AND WARRANTIES
+
+
+
+
+Section 4.01       Ratifications by Borrower. The terms and provisions set forth in this Amendment shall modify and supersede all inconsistent terms and provisions set forth in the Loan Agreement and, except as expressly modified and superceded by this Amendment, the terms and provisions of the Loan Agreement arc ratified and confirmed and shall continue in full force and effect. The Loan Agreement as amended by this Amendment shall continue to be legal, valid, binding, and enforceable in accordance with its terms. Borrower acknowledges and agrees
+
+that there are no claims or offsets against, or defenses or counterclaims to, the terms and provisions of the Loan Agreement or any Note or the indebtedness, obligations, and liabilities of Borrower to Lender or the liens and security interests securing such indebtedness (including without limitation any defenses or offsets resulting from or arising out of breach of contract or duty, the amounts of interest charged, collected or received heretofore on any Note or other indebtedness, or breach of any commitments or promises of any type).
+
+
+
+
+Section 4.02         Renewal and Extension of Security Interests and Liens. Each of Borrower and Guarantors hereby renews, affirms, and ratifies all security interests and liens created and granted by it to secure the indebtedness, obligations and liabilities of Borrower and Guarantors to Lender. Each of Borrower and Guarantors agrees that this Amendment shall in no manner affect or impair the liens and security interests securing such indebtedness, obligations, and liabilities, and that such liens and security interests shall not in any manner be waived, the purposes of this Amendment begin to modify the Loan Agreement as herein provided, and to carry forward all liens and security interests securing the indebtedness, obligations and liabilities of Borrower and Guarantors to Lender, which security interests and liens are acknowledged by Borrower and Guarantors to be valid and subsisting. Further, Borrower and Guarantors hereby covenant and agree that Lender may, without the signature of Borrower, file UCC Financing Statements in any jurisdiction to perfect any security interest now or hereafter granted to Lender.
+
+
+
+
+Section 4.03         Representations and Warranties. Borrower represents and warrants to Lender as follows: (i) the execution, delivery, and performance of this Amendment and any and all documents, agreements, and instruments executed and/or delivered in connection herewith have been authorized by all requisite corporate action on the part of Borrower and will not violate the Articles of Incorporation or bylaws of Borrower or any agreement to which Borrower is a party; (ii) the representations and warranties contained in the Loan Agreement as amended hereby and in each of such other documents, agreements, and instruments are true and correct on and as of the date hereof as though made on and as of the date hereof; (iii) except as disclosed to Lender, no default or Event of Default under the Loan Agreement has occurred and is continuing, and (iv) except as disclosed to Lender, Borrower is in full compliance with all covenants and agreements contained in the Loan Agreement, as amended hereby.
+
+
+
+
+
+ARTICLE V
+
+ MISCELLANEOUS
+
+
+
+
+Section 5.01         Survival of Representations and Warranties. All representations and warranties made in the Loan Agreement or any other documents, agreements, or instruments executed in connection therewith, shall survive the execution and delivery of this Amendment, and no investigation by Lender or any closing shall affect such representations and warranties or the right of Lender to rely thereon.
+
+
+
+
+Section 5.02          Reference to Loan Agreement. Each of the Loan Documents and the Loan Agreement and any and all other agreements, documents, or instruments now or hereafter executed and delivered pursuant to the terms hereof or pursuant to the terms of the Loan Agreement as amended hereby, are hereby amended so that any reference in such documents, agreements, and instruments to the Loan Agreement shall mean a reference to the Loan Agreement as amended hereby.
+
+
+
+
+Section 5.03          Severability. Any provision of this Amendment held by a court of competent jurisdiction to be invalid or unenforceable shall not impair or invalidate the remainder of this Amendment and the effect thereof shall be confined to the provision so held to be invalid or unenforceable.
+
+
+
+
+Section 5.04          APPLICABLE LAW. THIS AMENDMENT SHALL BE DEEMED TO HAVE BEEN MADE AND TO BE PERFORM ABLE IN AND SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS.
+
+
+
+
+Section 5.05           Successors and Assigns. This Amendment is binding upon and shall inure to the benefit of the Parties and their respective successors, assigns, heirs, executors, and legal representatives, except that none of the Parties other than Lender may assign or transfer any of its rights or obligations hereunder without the prior written consent of Lender.
+
+
+
+
+Section 5.06         Counterparts. This Amendment may be executed in one or more counterparts, each of which when so executed shall be deemed to be an original, but all of which, when taken together, shall constitute one and the same instrument.
+
+
+
+
+Section 5.07         Effect of Waiver. No consent or waiver, express or implied, by Lender to or for any breach of or deviation from any covenant, condition, or duty by Borrower, shall be deemed a consent to or waiver of any other breach of the same or any other covenant, condition, or duty.
+
+ 
+
+Section 5.08      Headings. The headings, captions, and arrangements used in this Amendment are for convenience only and shall not affect the interpretation of this Amendment.
+
+
+
+
+
+Section 5.09         Conflicting Provisions. If any provision of the Loan Agreement as amended hereby conflicts with any provision of any other Loan Document, the provision in the Loan Agreement shall control.
+
+
+
+
+Section 5.10         RELEASE. FOR AND IN CONSIDERATION OF THIS AMENDMENT AND OTHER GOOD AND VALUABLE CONSIDERATION, THE RECEIPT AND SUFFICIENCY OF WHICH ARE HEREBY ACKNOWLEDGED, BORROWER HEREBY VOLUNTARILY AND KNOWINGLY RELEASES AND FOREVER DISCHARGES LENDER, ITS AGENTS, EMPLOYEES, SUCCESSORS, AND ASSIGNS, FROM ALL POSSIBLE CLAIMS, DEMANDS, ACTIONS, CAUSES OF ACTION, DAMAGES, COSTS, EXPENSES, AND LIABILITIES WHATSOEVER, KNOWN OR UNKNOWN, ANTICIPATED OR UNANTICIPATED, SUSPECTED OR UNSUSPECTED, FIXED, CONTINGENT, OR CONDITIONAL, AT LAW OR IN EQUITY, ORIGINATING IN WHOLE ORIN PART ON OR BEFORE THE DATE THIS AMENDMENT IS EXECUTED, WHICH BORROWER MAY NOW OR HEREAFTER HAVE AGAINST LENDER, ITS AGENTS, EMPLOYEES, SUCCESSORS AND ASSIGNS, IF ANY, AND IRRESPECTIVE OF WHETHER ANY SUCH CLAIMS ARISE OUT OF (I) CONTRACT, TORT, VIOLATION OF LAW OR REGULATIONS, OR OTHERWISE, (II) ANY LOAN, (III) ANY CONTRACTING FOR, CHARGING, TAKING, RESERVING, COLLECTING, OR RECEIVING INTEREST IN EXCESS OF THE HIGHEST LAWFUL RATE APPLICABLE, (IV) THE EXERCISE OF ANY RIGHTS AND REMEDIES UNDER THIS AMENDMENT, THE LOAN AGREEMENT OR THE OTHER LOAN DOCUMENTS, OR (V) THE NEGOTIATION, EXECUTION, OR DELIVERY OF THIS AMENDMENT, THE LOAN AGREEMENT, OR ANY OTHER LOAN DOCUMENTS.
+
+
+
+
+Section 5.11         ENTIRE AGREEMENT. THIS AMENDMENT, THE LOAN AGREEMENT AS AMENDED HEREBY, AND ALL OTHER LOAN DOCUMENTS EXECUTED AND DELIVERED IN CONNECTION WITH AND PURSUANT TO THIS AMENDMENT AND THE LOAN AGREEMENT, REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+
+
+
+
+Section 5.12          Legal Fees and Expenses. Notwithstanding anything contained in the Loan Agreement, as amended, to the contrary, Borrower shall pay all costs, fees, and expenses (including legal fees and expenses) incurred by Lender arising out of or in connection with (i) the Loan Agreement, this Amendment, and the Loan, (ii) the negotiation, preparation, execution, delivery, and enforcement of the Loan Agreement, as amended, and (iii) the collection of the Loan. Borrower hereby authorizes Lender to deduct from Borrower's accounts maintained with Lender, the amount of any costs, fees, and expenses owed by Borrower when due.
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, Borrower and Lender have caused this Amendment to be executed as on the day and date first above written.
+
+ 
+
+
+
+
+
+
+ 
+
+
+LENDER:
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+THE F&M BANK & TRUST COMPANY, in 
+
+
+
+
+
+ 
+
+
+its capacity as Agent, as a Bank, and as Collateral Agent
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+BY: 
+
+
+/s/Wes Webb
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+Wes Webb,
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+Senior Vice President
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+BORROWER:
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+TENGASCO, INC., a Delaware corporation
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+BY:
+
+
+/s/ Michael J. Rugen
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+Michael J. Rugen
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+Chief Executive Officer
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Acknowledged and Accepted this  24th day
+
+of October, 2013, by the following Loan Parties:
+
+
+
+
+
+
+
+TENNESSEE LAND  & MINERAL CORPORATION,
+
+
+
+
+
+a Tennessee corporation
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+BY: 
+
+
+/s/ Michael J. Rugen
+
+
+
+
+
+ 
+
+
+Michael J. Rugen
+
+
+
+
+
+ 
+
+
+President
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+TENGASCO PIPELINE CORPORATION,
+
+
+
+
+
+a Tennessee corporation
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+BY: /s/ Michael J. Rugen
+
+
+
+
+
+Michael J. Rugen
+
+
+
+
+
+President
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+MANUFACTURED METHANE CORPORATION,
+
+
+
+
+
+a Tennessee corporation
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+BY: /s/ Michael J. Rugen
+
+
+
+
+
+Michael J. Rugen
+
+
+
+
+
+Vice President
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+

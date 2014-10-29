@@ -1,0 +1,942 @@
+
+EX-10.12
+7
+v244434_ex10-12.htm
+EX-10.12
+
+
+
+     
+
+
+
+ 
+
+
+
+Exhibit 10.12
+
+PENN VIRGINIA CORPORATION
+
+AMENDED AND RESTATED
+EMPLOYEE CHANGE OF CONTROL SEVERANCE AGREEMENT
+
+This Amended and
+Restated Employee Change of Control Severance Agreement (“Agreement”) between Penn Virginia Corporation, a Virginia
+corporation (the “Company”), and Michael E. Stamper (“Employee”) is made and entered into effective as
+of October 17, 2008 (the “Effective Date”).
+
+WHEREAS,
+Employee is a key employee of the Company; and
+
+WHEREAS,
+the Company and Employee previously entered into that certain Employee Change of Control Severance Agreement dated February 28,
+2006 (the “Prior Agreement”); and
+
+WHEREAS,
+the Company and Employee desire to amend and restate the Prior Agreement to comply with section 409A of the Internal Revenue Code,
+as amended, and the regulations promulgated thereunder (the “Code”); and
+
+WHEREAS,
+the Board of Directors of the Company (the “Board”) has authorized and directed the Company to enter into this Agreement;
+
+THEREFORE,
+for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Company and Employee agree
+as follows:
+
+
+1.Term of Agreement.
+
+
+A.The term of this Agreement (the “Term”) shall commence on the Effective Date and shall
+continue in effect through the first anniversary of the Effective Date; provided, however, that commencing on the first day following
+the Effective Date and on each day thereafter, the Term of this Agreement shall automatically be extended for one additional day
+unless the Company shall give written notice to Employee that the Term shall cease to be so extended, in which event this Agreement
+shall terminate on the first anniversary of the date such notice is given.
+
+
+B.Notwithstanding anything in this Agreement to the contrary, if a Change of Control occurs during
+the Term of this Agreement, the Term shall automatically be extended until, and shall terminate on, the 12-month anniversary of
+the date of the Change of Control.
+
+
+C.Termination of this Agreement shall not alter or impair any rights of Employee arising hereunder
+on or before such termination.
+
+
+
+
+     
+     
+    
+
+
+ 
+
+
+2.Certain Definitions.
+
+
+A.“Affiliate” shall mean, with respect to any Person, any other Person that directly
+or indirectly through one or more intermediaries controls, is controlled by or is under common control with, the Person in question.
+As used herein, the term “control” means the possession, direct or indirect, of the power to direct or cause the direction
+of the management and policies of a Person, whether through ownership of voting securities, by contract or otherwise.
+
+
+B.“Cause” shall mean (i) the willful and continued failure by Employee to substantially
+perform Employee’s duties with the Company or any Affiliate (other than any such failure resulting from Employee’s
+incapacity due to physical or mental illness), (ii) Employee is convicted of a felony, (iii) Employee willfully engages in gross
+misconduct materially and demonstrably injurious to the Company or any Affiliate or (iv) Employee commits one or more significant
+acts of dishonesty as regards the Company or any Affiliate. For purposes of clause (i) of this definition, no act, or failure to
+act, on Employee’s part shall be deemed “willful” unless done, or omitted to be done, by Employee not in good
+faith and without reasonable belief that Employee’s act, or failure to act, was in the best interest of the Company.
+
+
+C.“Change of Control” shall mean the occurrence of any of the following:
+
+
+(i)any Person or group (within the meaning of Section 13(d)(3) or 14(d)(2) of the Securities Exchange
+Act of 1934, as amended (the “Exchange Act”)), other than a trustee or other fiduciary holding securities under an
+employee benefit plan of the Company, becomes the “beneficial owner” (as defined in Rule 13d-3 under the Exchange Act),
+directly or indirectly, of securities of the Company representing 25% or more of the combined voting power of the Company’s
+then outstanding voting securities;
+
+
+(ii)during any period of two consecutive years (not including any period prior to the effective date
+of the Prior Agreement), individuals who at the beginning of such period constitute the Board, and any new director (other than
+a director designated by a person who has entered into an agreement with the Company to effect a transaction described in clause
+(i), (iii) or (v) of this Change of Control definition and excluding any individual whose initial assumption of office occurs as
+a result of either (a) an actual or threatened election contest (as such terms are used in Rule 14a-11 of Regulation 14A promulgated
+under the Exchange Act) or (b) an actual or threatened solicitation of proxies or consents by or on behalf of a Person other than
+the Board) whose election by the Board or nomination for election by the Company’s shareholders was approved by a vote of
+at least two-thirds of the directors then still in office who either were directors at the beginning of the period or whose election
+or nomination for election was previously so approved, cease for any reason (other than retirement) to constitute at least a majority
+thereof;
+
+
+
+
+    2
+     
+    
+
+
+ 
+
+
+(iii)the shareholders of the Company approve the consummation of a merger or consolidation of the Company
+with any other corporation, other than a merger or consolidation which would result in the voting securities of the Company outstanding
+immediately prior thereto continuing to represent (either by remaining outstanding or by being converted into voting securities
+of the surviving entity) at least 75% of the combined voting power of the voting securities of the Company (or such surviving entity
+or parent entity, as the case may be) outstanding immediately after such merger or consolidation;
+
+
+(iv)the shareholders of the Company approve a plan of complete liquidation of the Company; or
+
+
+(v)the sale or disposition by the Company of all or substantially all of the assets of the Company,
+it being acknowledged for purposes of clarity that the sale or disposition by the Company of all or substantially all of its interest
+in PVG GP, LLC, a Delaware limited liability company, Penn Virginia GP Holdings, L.P., a Delaware limited partnership (“PVG”),
+Penn Virginia Resource GP, LLC, a Delaware limited liability company, or Penn Virginia Resource Partners, L.P., a Delaware limited
+partnership (“PVR”), does not constitute a sale or disposition of all or substantially all of the assets of the Company.
+
+
+D.“Person” shall mean an individual or a corporation, limited liability company,
+partnership, joint venture, trust, unincorporated organization, association, government agency or political subdivision thereof
+or other entity.
+
+
+E.“Protected Period” shall mean the 12-month period beginning on the effective
+date of a Change of Control.
+
+
+F.“Termination Base Salary” shall mean that amount equal to Employee’s annual
+base salary with the Company at the rate in effect immediately prior to the Change of Control or, if a greater amount, Employee’s
+annual base salary at the rate in effect at any time thereafter.
+
+
+3.Change of Control Severance Benefits.
+
+If the Company
+terminates Employee’s employment during the Protected Period other than (i) for Cause or (ii) due to Employee’s inability
+to perform the primary duties of his position for at least 180 consecutive days due to a physical or mental impairment, Employee
+shall receive the following compensation and benefits from the Company subject to the execution (and non-revocation within eight
+days thereafter) and delivery to the Company of a release, substantially in the form attached as Exhibit A hereto, with such changes
+as the Company reasonably determines must be made to comply with applicable law at the time of such execution (the “Release”):
+
+
+    3
+     
+    
+
+
+
+A.The Company shall, at the time provided in Section 3E, pay to Employee in a lump sum, in cash,
+an amount equal to Employee’s Termination Base Salary.
+
+
+B.Except to the extent any awards related to Company stock, PVG common units or PVR common units
+have already vested or become exercisable, as the case may be, under the Company’s Fifth Amended and Restated 1999 Employee
+Stock Incentive Plan (the “Plan”), the PVG GP, LLC Amended and Restated Long-Term Incentive Plan (the “PVG LTIP”)
+or the Penn Virginia Resource GP, LLC Fourth Amended and Restated Long-Term Incentive Plan (the “PVR LTIP”), or under
+any successor or other similar plan, as of the date of Employee’s termination of employment (i) all restricted shares of
+Company stock, all restricted PVG units and all restricted PVR units of Employee shall become 100% vested and all restrictions
+thereon shall lapse and the Company, PVG and PVR shall promptly deliver to Employee unrestricted shares of Company stock, unrestricted
+PVG common units and unrestricted PVR common units, (ii) all Company restricted stock units, all PVG phantom units and all
+PVR phantom units of Employee shall become 100% vested and all restrictions thereon shall lapse and the Company, PVG and PVR shall
+promptly deliver to Employee cash or unrestricted shares of Company stock, unrestricted PVG common units or unrestricted PVR common
+units, as applicable, and (iii) each outstanding Company stock option, PVG unit option and PVR unit option of Employee shall become
+100% exercisable and shall, notwithstanding anything stated to the contrary in the Plan, the PVG LTIP, the PVR LTIP, any successor
+or other similar plan or any option agreement related thereto, remain exercisable for the remainder of such option’s term
+or three years, whichever is less. To the extent payment with respect to any restricted or phantom unit award under clause (i)
+or clause (ii) above constitutes a payment event for purposes of section 409A of the Code, payment shall be made at the time specified
+hereunder only if the transaction constituting a Change of Control is a “change in control event” within the meaning
+given such term under section 409A of the Code and the regulations thereunder. If the transaction constituting a Change of Control
+is not a “change in control event” within the meaning given such term under section 409A of the Code and the regulations
+thereunder, payment with respect to any restricted or phantom unit award under clause (i) or clause (ii) above shall be made at
+such time or times as set forth in the Plan, the PVG LTIP or the PVR LTIP, or any successor or other similar plan or any grant
+agreement related thereto.
+
+
+
+
+    4
+     
+    
+
+
+ 
+
+
+C.Within one week following the eighth day after the execution (without revocation) of the Release,
+the Company shall provide to Employee a release substantially in the form attached hereto as Exhibit B, with such changes as the
+Company reasonably determines must be made to comply with applicable law at the time of such execution. If the Company does not
+provide the release required pursuant to this subsection C, the Release shall be null, void and without effect, and Employee shall
+still receive all of the payments and benefits described in subsections A and B above.
+
+
+D.The Company may withhold from any amounts or benefits payable under this Agreement all such amounts
+as it shall be required to withhold pursuant to any applicable law or regulation.
+
+
+E.Payment of the amounts described in subsections A and B above shall be made within 30 days of Employee’s
+date of termination (provided that the Release has been executed and has not been revoked) and shall be made by mail to the last
+address provided for notices to Employee pursuant to Section 9 of this Agreement. Any payment not timely made by the Company under
+this Agreement shall bear interest at 18% per annum or, if less, at the highest nonusurious rate permitted by applicable law.
+
+
+This Agreement shall be interpreted to avoid any penalty sanctions under section 409A of the Code.
+If any payment or benefit cannot be provided or made at the time specified herein without incurring sanctions under section 409A
+of the Code, then such benefit or payment shall be provided in full at the earliest time thereafter when such sanctions will not
+be imposed. For purposes of section 409A of the Code, all payments to be made upon a termination of employment under this Agreement
+may only be made upon a “separation from service” within the meaning of such term under section 409A of the Code and
+each payment under this Agreement shall be treated as a separate payment. All reimbursements and in-kind benefits provided under
+this Agreement shall be made or provided in accordance with the requirements of section 409A of the Code, including, where applicable,
+the requirement that (i) any reimbursement shall be for expenses incurred during Employee’s lifetime (or during a shorter
+period of time specified in this Agreement), (ii) the amount of expenses eligible for reimbursement, or in-kind benefits provided,
+during a calendar year may not affect the expenses eligible for reimbursement, or in-kind benefits to be provided, in any other
+calendar year, (iii) the reimbursement of an eligible expense will be made on or before the last day of the calendar year following
+the year in which the expense is incurred and (iv) the right to reimbursement or in-kind benefits is not subject to liquidation
+or exchange for another benefit.
+
+
+
+
+    5
+     
+    
+
+
+ 
+
+
+Notwithstanding any provision of this Agreement to the contrary, if, at the time of Employee’s
+“separation from service” with the Company, the Company has securities which are publicly traded on an established
+securities market and Employee is a “specified employee” (as defined in section 409A of the Code) and it is necessary
+to postpone the commencement of any compensation payments or benefits otherwise payable pursuant to this Agreement as a result
+of such “separation from service” to prevent any accelerated or additional tax under section 409A of the Code, then
+the Company will postpone the commencement of the payment of any such compensation payments or benefits hereunder (without any
+reduction in such payments or benefits ultimately paid or provided to Employee) that are not otherwise paid within the “short-term
+deferral exception” under Treas. Reg. section 1.409A-1(b)(4) and the “separation pay exception” under Treas.
+Reg. section 1.409A-1(b)(9)(iii), until the first payroll date that occurs after the date that is six months following Employee’s
+“separation from service” with the Company. If any payments are postponed due to such requirements, such amounts will
+be paid in a lump sum to Employee on the first payroll date that occurs after the date that is six months following Employee’s
+“separation from service” with the Company. If Employee dies during the postponement period prior to the payment of
+the postponed amount, the amounts postponed on account of section 409A of the Code shall be paid to the personal representative
+of Employee’s estate within 60 days after the date of Employee’s death. In no event shall Employee, directly or indirectly,
+designate the calendar year of payment.
+
+
+4.Restrictive Covenants.
+
+
+A.Confidential Information. Employee recognizes and acknowledges that, by reason of his employment
+by and service to the Company, he has had and will continue to have access to confidential information of the Company and its Affiliates,
+including, without limitation, analyses, interpretations, compilations, reports, reservoir data, geologic and geophysical data,
+maps, models, financial data, environmental data, information and knowledge pertaining to products and services offered, plans,
+trade secrets, proprietary information, customer lists and relationships among the Company and its Affiliates and distributors,
+customers, suppliers and others who have business dealings with the Company and its Affiliates (“Confidential Information”).
+Employee acknowledges that such Confidential Information is a valuable and unique asset and covenants that he will not, either
+during or after his employment by the Company, disclose any such Confidential Information to any Person for any reason whatsoever
+without the prior written consent of the Board, unless such information is in the public domain through no fault of Employee or
+except as may be required by law.
+
+
+B.Non-Solicitation. Employee shall not, directly or indirectly, during his employment by the
+Company and for a period of two years thereafter, solicit or divert business from, or attempt to convert any account or customer
+of the Company or any of its Affiliates, whether existing at the date hereof or acquired during Employee’s employment.
+
+
+
+
+    6
+     
+    
+
+
+ 
+
+
+5.Equitable Relief.
+
+
+A.Employee acknowledges that the restrictions contained in Section 4 hereof are reasonable and necessary
+to protect the legitimate interests of the Company and its Affiliates, that the Company would not have entered into this Agreement
+in the absence of such restrictions and that any violation of any provision of those Sections will result in irreparable injury
+to the Company. Employee further represents and acknowledges that (i) he has been advised by the Company to consult his own legal
+counsel in respect of this Agreement and (ii) he has had full opportunity, prior to execution of this Agreement, to review thoroughly
+this Agreement with his counsel.
+
+
+B.Employee agrees that the Company or any Affiliate shall be entitled to preliminary and permanent
+injunctive relief, without the necessity of proving actual damages or posting a bond, as well as to an equitable accounting of
+all earnings, profits and other benefits arising from any violation of Section 4 hereof, which rights shall be cumulative and in
+addition to any other rights or remedies to which the Company or any Affiliate may be entitled. In the event that any of the provisions
+of Section 4 hereof should ever be adjudicated to exceed any limitations permitted by applicable law in any jurisdiction, then
+such provisions shall be deemed reformed in such jurisdiction to the maximum limitations permitted by applicable law.
+
+
+C.Employee irrevocably and unconditionally (i) agrees that any suit, action or other legal proceeding
+arising out of Section 4 hereof, including without limitation, any action commenced by the Company or any Affiliate for preliminary
+and permanent injunctive relief or other equitable relief, may be brought in the United States District Court for the Eastern District
+of Pennsylvania, or if such court does not have jurisdiction or will not accept jurisdiction, in any court of general jurisdiction
+in Philadelphia, Pennsylvania, (ii) consents to the non-exclusive jurisdiction of any such court in any such suit, action or proceeding
+and (iii) waives any objection which Employee may have to the laying of venue of any such suit, action or proceeding in any such
+court. Employee also irrevocably and unconditionally consents to the service of any process, pleadings, notices or other papers
+in a manner permitted by the notice provisions of Section 9 hereof. In the event of a lawsuit by either party to enforce the provisions
+of Section 4 of this Agreement, the prevailing party shall be entitled to recover reasonable costs, expenses and attorneys’
+fees from the other party.
+
+
+6.No Mitigation.
+
+Employee shall not be required
+to mitigate the amount of any payment provided for in this Agreement by seeking other employment or otherwise nor shall the amount
+of any payment or benefit provided for in this Agreement be reduced as the result of employment by another employer or self-employment
+or offset against any amount claimed to be owed by Employee to the Company or otherwise, except that Employee shall waive, in
+a manner acceptable to the Company in its reasonable judgment, all rights to receive any severance payments or benefits that Employee
+is entitled to receive pursuant to any other Company severance plan or program.
+
+
+
+
+    7
+     
+    
+
+
+
+7.Successor Agreement.
+
+The Company will require any successor
+(whether direct or indirect, by purchase, merger, consolidation or otherwise) to all or substantially all of the business and/or
+assets of the Company to, and each successor shall, assume expressly in writing prior to the effective date of such succession
+and agree to perform this Agreement in the same manner and to the same extent that the Company would be required to perform if
+no succession had taken place. Failure of the successor to so assume as provided herein shall constitute a breach of this Agreement
+and entitle Employee to the payments and benefits hereunder as if triggered by a termination of Employee by the Company other than
+for Cause on the date of such succession.
+
+
+8.Indemnity.
+
+In any situation where under applicable
+law the Company has the power to indemnify, advance expenses to and defend Employee in respect of any judgments, fines, settlements,
+losses, costs or expenses (including attorneys’ fees) of any nature related to or arising out of Employee’s activities
+as an agent, employee, officer or director of the Company or any Affiliate or in any other capacity on behalf of or at the request
+of the Company or any Affiliate, then the Company or any Affiliate shall promptly on written request, fully indemnify Employee,
+advance expenses (including attorneys’ fees) to Employee and defend Employee to the fullest extent permitted by applicable
+law, including but not limited to making such findings and determinations and taking any and all such actions as the Company or
+any Affiliate may, under applicable law, be permitted to take so as to effectuate such indemnification, advancement or defense.
+Such agreement by the Company shall not be deemed to impair any other obligation of the Company respecting Employee’s indemnification
+or defense otherwise arising out of this or any other agreement or promise of the Company under any statute.
+
+
+9.Notices.
+
+All notices and other communications
+hereunder shall be in writing and shall be given by hand delivery to the other party or by registered or certified mail, return
+receipt requested, postage prepaid, addressed as set forth below or to such other address as either party shall have furnished
+to the other in writing in accordance herewith. Notices and communications shall be effective when actually received by the addressee.
+
+
+    8
+     
+    
+
+
+If to the Company:
+
+Three Radnor Corporate Center
+
+Suite 300
+
+100 Matsonford Road
+
+Radnor, Pennsylvania 19087
+
+If to Employee:
+
+The address included in the Company’s
+records for purposes of delivering Employee’s Form W-2s.
+
+
+10.Arbitration.
+
+Any dispute about the validity,
+interpretation, effect or alleged violation of this Agreement, other than with respect to Section 4 or 5 (an “arbitrable
+dispute”), must be submitted to confidential arbitration in Philadelphia, Pennsylvania.
+Arbitration shall take place before an experienced employment arbitrator licensed to practice law in such state and selected in
+accordance with the Model Employment Arbitration Procedures of the American Arbitration Association. Arbitration shall be the exclusive
+remedy of any arbitrable dispute. The Company shall bear all fees, costs and expenses of arbitration, including its own, those
+of the arbitrator and those of Employee unless the arbitrator provides otherwise with respect to the fees, costs and expenses of
+Employee; in no event shall Employee be chargeable with the fees, costs and expenses of the Company or the arbitrator. The Company
+shall advance to Employee all expenses incurred by Employee in connection with an arbitrable dispute and, if the arbitrator determines
+that Employee is the losing party in such dispute, Employee shall reimburse such expenses to the Company unless the arbitrator
+provides otherwise. Should any party to this Agreement pursue any arbitrable dispute by any method other than arbitration, the
+other party shall be entitled to recover from the party initiating the use of such method all damages, costs, expenses and attorneys’
+fees incurred as a result of the use of such method. Notwithstanding anything herein to the contrary, nothing in this Agreement
+shall purport to waive or in any way limit the right of any party to seek to enforce any judgment or decision on an arbitrable
+dispute in a court of competent jurisdiction. Each party hereby irrevocably submits to the exclusive jurisdiction of the state
+and federal courts in Philadelphia, Pennsylvania for the purposes of any proceeding arising
+out of this Agreement.
+
+
+11.Governing Law.
+
+This Agreement will be governed
+by and construed in accordance with the laws of the Commonwealth of Virginia without regard to conflicts of law principles.
+
+
+    9
+     
+    
+
+
+
+12.Entire Agreement.
+
+This Agreement is an integration
+of the parties’ agreement and no agreements or representations, oral or otherwise, express or implied, with respect to the
+subject matter hereof have been made by either party which are not set forth expressly in this Agreement.
+
+
+13.Severability.
+
+The invalidity or unenforceability
+of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, which
+shall remain in full force and effect.
+
+
+14.Amendment and Waivers.
+
+No provision of this Agreement may
+be modified, waived or discharged unless such waiver, modification or discharge is (a) agreed to in writing and signed by Employee
+and the Company and (b) approved by the Chairperson of the Company’s Compensation and Benefits Committee. No waiver by either
+party hereto at any time of any breach by the other party hereto of, or of compliance with, any condition or provision of this
+Agreement to be performed by such other party shall be deemed a waiver of similar or dissimilar provisions or conditions at the
+same or at any prior or subsequent time.
+
+ 
+
+[Signature Page Follows]
+
+ 
+
+
+
+
+    10
+     
+    
+
+
+ 
+
+IN WITNESS WHEREOF,
+the Company and Employee have executed this Agreement effective for all purposes as of the Effective Date.
+
+ 
+
+
+
+     
+    PENN VIRGINIA CORPORATION
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+     
+    By:
+    /s/ Nancy M. Snyder
+
+     
+     
+    Name:
+    Nancy M. Snyder
+
+     
+     
+    Title:
+    Executive Vice President and Chief Administrative Officer
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+     
+    EMPLOYEE
+
+     
+     
+     
+     
+
+     
+     
+
+     
+    /s/ Michael E. Stamper
+
+     
+    Michael E. Stamper
+
+ 
+
+JOINDER:
+
+PVG GP, LLC and
+Penn Virginia Resource GP, LLC hereby agree to comply with the provisions of Section 3B hereof.
+
+ 
+
+
+
+     
+    PVG GP, LLC
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+     
+    By:
+    /s/ Nancy M. Snyder
+
+     
+     
+    Name:
+    Nancy M. Snyder
+
+     
+     
+    Title:
+    Vice President and Chief Administrative Officer
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+     
+    PENN VIRGINIA RESOURCE GP, LLC
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+     
+    By:
+    /s/ Nancy M. Snyder
+
+     
+     
+    Name:
+    Nancy M. Snyder
+
+     
+     
+    Title:
+    Vice President and Chief Administrative Officer
+
+
+ 
+
+
+
+
+    11
+     
+    
+
+
+ 
+
+Exhibit A
+
+RELEASE OF EMPLOYER
+
+ 
+
+ 
+
+ 
+
+THIS RELEASE, made and entered into on this
+______ day of __________, 20_, by __________________________, of ____________________________ (“Employee”).
+
+ 
+
+ 
+
+WITNESSETH:
+
+ 
+
+ 
+
+WHEREAS, Penn Virginia Corporation (hereinafter
+“Employer”) currently employs Employee as its ___________________________, but Employee’s employment [will terminate/has
+terminated] effective as of _______________, 20__; and
+
+ 
+
+WHEREAS, Employer and Employee have entered
+into an Employee Change of Control Severance Agreement dated as of _______________, 20__ (the “Severance Agreement”)
+in connection with the termination of Employee’s employment;
+
+ 
+
+NOW, THEREFORE, for the consideration described
+herein, Employee, intending to be legally bound, hereby agrees as follows:
+
+ 
+
+1.	For
+and in consideration of (a) the benefits to be paid to Employee under the Severance Agreement and (b) the Release executed by
+Employer pursuant to Section 3.C. of the Severance Agreement (the “Employee Release”),
+Employee does hereby REMISE, RELEASE, AND FOREVER DISCHARGE Employer and each of its subsidiaries
+and affiliates, and each of their respective officers, directors, shareholders, unitholders, partners, employees and agents and
+their respective successors and assigns, heirs, executors and administrators (hereinafter in this paragraph collectively referred
+to as “Employer”), acting in any capacity whatsoever, of and from any and all manner of actions and causes of actions,
+suits, debts, claims and demands whatsoever in law or in equity, which he ever had, now has, or hereafter may have, or which his
+heirs, executors or administrators hereafter may have, by reason of any matter, cause or thing whatsoever from the beginning of
+time to the date of this Release including and arising from or relating in any way to his employment relationship or the termination
+of that employment relationship with Employer, including but not limited to, any claims which
+have been asserted, could have been asserted, or could be asserted now or in the future under any federal, state or local laws,
+including any claims under the Age Discrimination in Employment Act (“ADEA”), 29 U.S.C. §621 et seq.,
+Title VII of the Civil Rights Act of 1964, 42 U.S.C. §2000e et seq., the Pennsylvania Human Relations Act,
+the Employee Retirement Income Security Act of 1974, as amended, any contracts between Employer
+and Employee, any common law claims now or hereafter recognized and all claims for counsel fees and costs. Employee expressly
+waives all rights afforded by any statute or otherwise which expressly limit the effect of a release with respect to unknown claims.
+Employee acknowledges the significance of this release of unknown claims and the waiver of any protection against a release of
+unknown claims. Notwithstanding the foregoing, Employee shall be entitled to enforce the terms of the Employee Release and any
+employee benefit plan of Employer in which Employee is, on the date of this Release, due a benefit,
+and to be indemnified by Employer as to any liability, cost or expense for which Employee would
+have been indemnified during employment, in accordance with the bylaws of Employer, for actions
+taken on behalf of Employer within the scope of his employment by Employer.
+
+ 
+
+
+
+
+    12
+     
+    
+
+
+ 
+
+2.	Employee
+further agrees, covenants and promises that he will not in any way communicate the terms of this Release to any person other than
+his immediate family, his attorney and his financial consultant or when necessary to enforce this Release or to advise a third
+party of his obligations under this Release. Employee agrees not
+to disparage the name, business reputation or business practices of Employer, or any of its
+subsidiaries or affiliates, or their respective officers, employees and directors.
+
+ 
+
+	3.	Employee certifies he
+has read the terms of this Release and specifically the release in Section 1, that he has the opportunity to discuss this Release
+with his attorney, and that he understands the terms and effects of this Release. Employee acknowledges,
+further, that he is executing this Release of his own volition, with a full understanding of the terms and effects thereof and
+with the intention of releasing all claims recited herein in exchange for the consideration described above, which he acknowledges
+is adequate and satisfactory. No representations have been made to Employee concerning the terms or effects of this Release, other
+than those contained herein.
+
+ 
+
+	4.	Employee hereby acknowledges that he has the right to
+consider this Release and the release in Section 1 for a period of 21 days prior to execution. Employee also understands that he
+has the right to revoke this Release for a period of seven days following execution by giving written notice to Penn
+Virginia Corporation, Attention: General Counsel, Four Radnor Corporate Center, Suite 200, 100 Matsonford Road, Radnor,
+PA  19087, in which event the provisions of this Release shall be null and void, and Employer and Employee shall each
+have the rights, duties, obligations and remedies afforded by applicable law.
+
+ 
+
+	5.	Employee further acknowledges and agrees that if he materially
+violates any of his obligations or covenants set forth in this Release (and has not cured such violation within 10 days of receiving
+written notice of such violation from Employer), he will forfeit all payments made to him under the Severance Agreement and any
+and all future payments and benefits thereunder, hereunder and under the Employee Release shall immediately terminate as of the
+violation.
+
+ 
+
+	6.	The invalidity or unenforceability of any provision of
+this Release shall not affect the validity or enforceability of any other provision of this Release, which shall remain in full
+force and effect.
+
+ 
+
+
+
+
+    13
+     
+    
+
+
+ 
+
+	7.	This Release shall be interpreted and enforced under the
+laws of the Commonwealth of Pennsylvania. This Release shall be binding and shall inure to the benefit of Employer’s permitted
+successors and assigns.
+
+ 
+
+IN WITNESS WHEREOF, Employee executed this Release
+on the day and year first above written.
+
+ 
+
+
+
+    ATTEST:
+     
+     
+
+     
+     
+     
+
+     
+     
+     
+
+     
+     
+     
+
+     
+     
+     
+
+    Witness
+     
+    Employee
+
+
+ 
+
+
+
+
+     
+     
+    
+
+
+ 
+
+Exhibit B
+
+RELEASE OF EMPLOYEE
+
+ 
+
+THIS
+RELEASE, made and entered into on this ______ day of __________, 200_, by PENN VIRGINIA CORPORATION (hereinafter “Employer”),
+with its principal office at Four Radnor Corporate Center, Suite 200, 100 Matsonford Road, Radnor, PA 19087.
+
+ 
+
+ 
+
+WITNESSETH:
+
+ 
+
+ 
+
+		WHEREAS, Employer currently employs ____________________
+(“Employee” as its ___________________________, but Employee’s employment [will terminate/has terminated] effective
+as of _______________, 200__; and
+
+ 
+
+WHEREAS, Employer and Employee have entered
+into an Employee Change of Control Severance Agreement dated as of _______________, 200__ (the “Severance Agreement”)
+in connection with the termination of Employee’s employment;
+
+ 
+
+NOW, THEREFORE, for the consideration described
+herein, Employer, intending to be legally bound, hereby agrees as follows:
+
+ 
+
+	1.	 In consideration of the Release
+executed by Employee pursuant to Section 3 of the Severance Agreement (the “Employer Release”),
+but effective only upon such Employer Release becoming irrevocable, Employer, and on behalf of
+each of its parent, subsidiaries and affiliates, each of their respective officers, directors shareholders and unitholders, and
+their respective successors and assigns, heirs, executors and administrators (hereinafter collectively included within the term
+"Employer"), does hereby REMISE, RELEASE, AND FOREVER DISCHARGE Employee, his assigns, heirs, executors and administrators
+(hereinafter collectively included within the term "Employee"), acting in any capacity whatsoever, of and from any and
+all manner of actions and causes of actions, suits, debts, claims and demands whatsoever in law or in equity, which it ever had,
+now has, or hereafter may have, by reason of any matter, cause or thing whatsoever from the beginning of Employee's employment
+with Employer to the date of this Release arising from or relating in any way to Employee's employment relationship or the termination
+of his employment relationship with Employer, including but not limited to, any claims which have been asserted, could have been
+asserted, or could be asserted now or in the future under any federal, state or local laws, any contracts between Employer and
+Employee, any common law claims now or hereafter recognized and all claims for counsel fees and costs, but in no event shall this
+Release apply to an act of fraud or any action outside the scope of Employee's employment nor to Employer’s enforcement of
+the terms of the Employer Release.
+
+ 
+
+	2.	Employer certifies it
+has read the terms of this Release and specifically the release in Section 1, that it has the opportunity to discuss this Release
+with its attorney, and that it understands the terms and effects of this Release. Employer acknowledges,
+further, that it is executing this Release of its own volition, with a full understanding of the terms and effects thereof and
+with the intention of releasing all claims recited herein in exchange for the consideration described above, which it acknowledges
+is adequate and satisfactory. No representations have been made to Employer concerning the terms or effects of this Release, other
+than those contained herein.
+
+ 
+
+
+
+
+    2
+     
+    
+ 
+
+ 
+
+	3.	The invalidity or unenforceability of any provision of
+this Release shall not affect the validity or enforceability of any other provision of this Release, which shall remain in full
+force and effect.
+
+ 
+
+	4.	This Release shall be interpreted and enforced under the
+laws of the
+
+Commonwealth of Pennsylvania. This Release shall be binding and
+shall inure to the benefit of Employer’s permitted successors and assigns.
+
+ 
+
+IN WITNESS WHEREOF, Employer executed this Release
+on the day and year first above written.
+
+ 
+
+
+
+    ATTEST:
+     
+    PENN VIRGINIA CORPORATION
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+     
+     
+    By:
+     
+
+     
+     
+     
+    Name:
+
+     
+     
+     
+    Title:
+
+ 
+
+
+
+
+    3
+    
+ 
+
+
+
+
+
+
+
+

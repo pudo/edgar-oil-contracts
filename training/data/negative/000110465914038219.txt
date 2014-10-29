@@ -1,0 +1,1952 @@
+
+EX-10.1
+2
+a14-9824_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+
+  
+
+
+Exhibit 10.1
+ 
+SETTLEMENT AND RELEASE AGREEMENT
+ 
+This Settlement and Release Agreement (this Agreement), dated as of February 6, 2014 (the Execution Date), is by and among Hess Corporation, a Delaware corporation (Hess Parent), ZaZa Energy Corporation, a Delaware corporation (ZaZa Parent), ZaZa Energy, LLC, a Texas limited liability company (ZaZa Energy), Hess Oil France, a société par actions simplifiée existing under the Laws of France (Hess France), ZaZa France S.A.S., a société par actions simplifiée existing under the Laws of France (ZaZa France) and ZaZa International Holding LLC, a Hungarian limited liability company (ZIH).
+ 
+Hess Parent and Hess France are sometimes referred to herein collectively as the Hess Parties; ZaZa Parent, ZaZa Energy, ZaZa France and ZIH are sometimes referred to herein collectively as the ZaZa Parties; and each of the Hess Parties and each of the ZaZa Parties are sometimes referred to herein individually as a Party and collectively as the Parties.
+ 
+RECITALS
+ 
+WHEREAS, Hess France and ZaZa Energy France (formerly known as Toreador Energy France), a société par actions simplifiée existing under the Laws of France (ZEF), are parties to that certain Investment Agreement dated as of May 10, 2010 (as amended, including by the Second Amendment Agreement dated as of July 25, 2012, the Investment Agreement) in respect of the working interests in certain exploration permits and pending permits which (in each case) have been or may be granted in accordance with the mining legislation and regulations applicable in France;
+ 
+WHEREAS, Hess France and ZEF desired to generally terminate their business relationship under, and unwind, such Investment Agreement, and in order to accomplish the same, among other things, Hess France, ZEF, ZaZa France and ZIH (collectively, the Paris Parties) entered into to that certain Paris Basin Purchase and Sale Agreement, dated as of July 25, 2012 (as amended, the Paris PSA);
+ 
+WHEREAS, pursuant to the terms of the Paris PSA, Hess France agreed to grant ZEF that certain Paris Basin ORRI (defined in the Paris PSA), and in furtherance thereof, Hess France and ZEF entered into that certain Paris Basin ORRI Agreement, executed October 1, 2012 and to be effective as of the Closing (defined in the Paris PSA);
+ 
+WHEREAS, ZaZa France and Vermilion REP SAS (Vermilion) entered into that certain Share Purchase Agreement dated November 13, 2012 (the Vermilion Agreement) and, in connection with the consummation of the transactions under the Vermilion Agreement, ZaZa France sold 100% of the shares of ZEF to Vermilion (such sale to Vermilion, the ZEF Sale), and, prior to such sale, ZEF transferred the Paris Basin ORRI to ZaZa Parent;
+ 
+WHEREAS, in connection with the ZEF Sale, pursuant to and in accordance with the terms of the Section 3 of Exhibit K to the Paris PSA and the Escrow Agreement, ZaZa France placed $15,000,000 into the escrow account established by the Escrow Agreement (defined in the Paris PSA) (such amount, together with any interest accrued thereon, the Escrow Fund) in order, among other things, to secure ZEFs cooperation in having Hess France approved, and ZEF
+ 
+1
+
+
+
+
+
+
+ 
+removed, as Titleholder (defined in the Paris PSA) and to maintain ZEF in existence and good standing (in each case) pending such approval of Hess France and removal of ZEF as Titleholder and the Closing under the Paris PSA;
+ 
+WHEREAS, pursuant to Section 7.2(b) of the Paris PSA, the Paris Basin Transfer Documents (defined in the Paris PSA) were timely submitted to the relevant Governmental Authority (defined in the Paris PSA), but as of the Execution Date, such Governmental Authority has not approved such Paris Basin Transfer Documents, and as such, Hess France has not been named Titleholder and ZEF has not been removed as Titleholder (in each case) with respect to the Paris Basin Assets (defined in the Paris PSA) (such failure to transfer title from ZEF to Hess France, the Lack of Approval);
+ 
+WHEREAS, the ZaZa Parties and the Hess Parties have alleged various claims and counterclaims, all such claims identified under the heading Paris Claims on Exhibit A, collectively, the Paris Claims;
+ 
+WHEREAS, as part of a separate transaction, under the Texas Division of Assets Agreement dated July 25, 2012 (the Texas DOA) among Hess Parent, ZaZa Parent and ZaZa Energy (collectively, the Texas Parties), Hess Parent is entitled pursuant to Section 2.3(c) of the Texas DOA to certain proceeds related to the resolution of certain matters relating to the Sweet Home Leases (defined in the Texas DOA) (the Sweet Home Litigation Proceeds);
+ 
+WHEREAS, the ZaZa Parties and the Hess Parties have alleged various claims and counterclaims, all such claims identified under the heading Texas Claims on Exhibit A, collectively, the Texas Claims; and
+ 
+WHEREAS, the Hess Parties and the ZaZa Parties desire and have agreed to settle and release the Paris Claims and the Texas Claims pursuant to the terms set forth in this Agreement.
+ 
+AGREEMENT
+ 
+NOW, THEREFORE, in consideration of the mutual covenants and agreements of the Parties herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged by each of the Parties, the Parties hereby agree as follows:
+ 
+1.                                      Definitions.  Capitalized terms used but not defined in this Agreement shall have the meanings assigned to such terms in the Paris PSA.
+ 
+2.                                      Construction.  All references in this Agreement to Exhibits, Sections, subsections, clauses and other subdivisions refer to the corresponding Exhibits, Sections, subsections, clauses and other subdivisions of or to this Agreement unless expressly provided otherwise.  Titles appearing at the beginning of any Exhibits, Sections, subsections, clauses and other subdivisions of this Agreement are for convenience only, do not constitute any part of this Agreement and shall be disregarded in construing the language hereof.  The words this Agreement, herein, hereby, hereunder and hereof, and words of similar import, refer to this Agreement as a whole and not to any particular Section, subsection, clause or other subdivision unless expressly so limited.  The words this Section, this subsection, this clause, and words of similar import, refer only to the Section, subsection and clause hereof in which such words occur.  The word including (in its
+ 
+2
+
+
+
+
+
+
+ 
+various forms) means including without limitation.  All references to $ or dollars shall be deemed references to United States dollars.  Each accounting term not defined herein will have the meaning given to it under GAAP as interpreted as of the Execution Date.  Pronouns in masculine, feminine or neuter genders shall be construed to state and include any other gender, and words, terms and titles (including terms defined herein) in the singular form shall be construed to include the plural and vice versa, unless the context otherwise requires.  Exhibits referred to herein are attached hereto and shall be considered part of this Agreement for all purposes.  Reference herein to any federal, state, local or foreign Law shall be deemed to also refer to all rules and regulations promulgated thereunder, unless the context requires otherwise, and shall also be deemed to refer to such Laws as in effect as of the date hereof or as hereafter amended.
+ 
+3.                                      No Admission of Liability.  The Parties understand and agree that neither the making of this Agreement, nor the performance of any obligations hereunder, nor the furnishing of any of the consideration hereunder, is intended as (or shall be construed as) an admission of any liability, fault or improper or unlawful conduct by any Party, and that this Agreement shall not be admissible in any proceeding (except for a proceeding to enforce the Agreement) and does not constitute evidence tending to prove or disprove any of the claims or defenses of any Party.
+ 
+4.                                      Texas Settlement Terms.  Notwithstanding anything to the contrary contained in the Texas DOA, the Parties hereby agree, effective as of the Execution Date, to the following:
+ 
+4.1.                           Obligations of Hess.  In exchange for (a) the release by the ZaZa Parties set forth in Section 8.1 with respect to the Texas Claims and (b) the Hess Payment (defined below), Hess Parent agrees to (i) deliver a counterpart of an amendment to the Texas DOA in the form attached hereto as Exhibit B (the Texas DOA Amendment), terminating its rights to the Sweet Home Litigation Proceeds and (ii) provide the release set forth in Section 8.1 with respect to the Texas Claims.
+ 
+4.2.                           Obligations of ZaZa.  In exchange for (a) the release by the Hess Parties set forth in Section 8.1 with respect to the Texas Claims and (b) delivery by Hess Parent of the Texas DOA Amendment, ZaZa Parent agrees to (i) pay, or cause to be paid, to Hess Parent, $3,500,000 (the Hess Payment) in immediately available funds pursuant to and in accordance with Section 6, (ii) execute and deliver a counterpart of the Texas DOA Amendment and (iii) provide the release set forth in Section 8.1 with respect to the Texas Claims.
+ 
+5.                                      Paris Settlement Terms.  Notwithstanding anything to the contrary contained in the Paris PSA, the Parties hereby acknowledge and agree, effective as of the Execution Date, to the following:
+ 
+5.1.                           Obligations of Hess.  In exchange for (a) the release by the ZaZa Parties set forth in Section 8.1 with respect to the Paris Claims and (b) the termination of the Paris Basin ORRI and Paris Basin ORRI Agreement as set forth in Section 5.3, Hess France agrees (i) that, subject to Section 6, (A) ZaZa Parent shall be entitled to the Escrow Fund in full and (B) to execute and deliver the Joint Instruction Letter (defined below) to direct the Escrow Agent to distribute the Escrow Fund in accordance with this Agreement and (ii) to provide the release set forth in Section 8.1 with respect to the Paris Claims.
+ 
+3
+
+
+
+
+
+
+ 
+5.2.                           Obligations of the ZaZa Parties.  In exchange for (a) the release by the Hess Parties set forth in Section 8.1 with respect to the Paris Claims and (b) the early release of the Escrow Fund from the escrow account held by the Escrow Agent without the conditions for such release being satisfied, the ZaZa Parties agree (i) to terminate (or cause to be terminated) the Paris Basin ORRI and Paris Basin ORRI Agreement as set forth in Section 5.3, (ii) to provide the release set forth in Section 8.1 with respect to the Paris Claims and (iii) to comply with all reasonable instructions of Hess France to undertake any further actions that may be required for Hess France to become a Titleholder and for ZEF to be removed as a Titleholder in respect of each Existing Paris Basin Permit; provided Hess France shall be responsible for and fully reimburse such ZaZa Parties for all reasonable out of pocket Third Party costs and expenses incurred by a ZaZa Party in undertaking such further actions set forth in Section 5.2(iii).  ZaZa France further agrees to execute and deliver a counterpart of the Joint Instruction Letter to direct the Escrow Agent to distribute the Escrow Fund in accordance with this Agreement.
+ 
+5.3.                           Termination of the Paris Basin ORRI and Paris Basin ORRI Agreement.  Pursuant to that certain Assignment of Overriding Royalty Interest and Assumption Agreement dated December 12, 2012, the Paris Basin ORRI Agreement and the rights to the Paris Basin ORRI, were assigned by ZEF to ZaZa Parent.  The Parties acknowledge and agree that (a) each of the Paris Basin ORRI Agreement and the Paris Basin ORRI is hereby terminated and (b) that (i) notwithstanding anything in the Paris PSA to the contrary, no ZaZa Party nor any of its Affiliates, lenders, creditors, successors and/or assigns shall be entitled to any past and/or future revenues or proceeds attributable to Hess Frances working interest share of any hydrocarbons produced (or allocated and attributed to), saved and sold from any Production Concession (defined in the Paris Basin ORRI Agreement), including any Gross Proceeds (defined in the Paris Basin ORRI Agreement) and (ii) neither Hess France nor any of its Affiliates shall have any obligations or liability (whether accruing prior to, on or after the Execution Date) to any ZaZa Party or any of their respective Affiliates, lenders, creditors, successors and/or assigns with respect to the Paris Basin ORRI and/or the Paris Basin ORRI Agreement.
+ 
+5.4.                           Survival of Other Provisions of the Paris PSA.  For the avoidance of doubt, all rights and obligations of the Parties (as applicable) under the Paris PSA that are not modified pursuant to this Agreement shall remain in full force and effect.
+ 
+6.                                      Hess Payment.  ZaZa Parent (a) acknowledges that, pursuant to Section 5.1(i), it is entitled to the Escrow Fund in full and that pursuant to Section 4.2(b)(i) it is obligated to pay or cause to be paid to Hess Parent the Hess Payment and (b) to satisfy such obligations, directs ZaZa France and Hess France to cause the Escrow Agent to deliver on the Execution Date (i) on ZaZa Parents behalf, the Hess Payment in satisfaction of its payment obligations pursuant to Section 4.2(b)(i) and (ii) on ZaZa Parents behalf, the balance of the Escrow Fund to the Holders (as defined in the Lender Consent (defined below)) (as specified in the Joint Instruction Letter).  On the Execution Date, each of Hess France and ZaZa France shall execute and deliver to the Escrow Agent a joint instruction letter in substantially the form attached hereto as Exhibit D (the Joint Instruction Letter) directing the Escrow Agent to deliver to Hess Parent the Hess Payment and to deliver to the Holders (as specified in such Joint Instruction Letter) the balance of the Escrow Fund.  Concurrently with the execution of this Agreement, ZaZa Parent shall (A) execute and deliver, and
+ 
+4
+
+
+
+
+
+
+ 
+shall cause the Holders to execute and deliver, counterparts to the Lender Consent in substantially the form of Exhibit C (the Lender Consent) and (B) immediately pay the ZaZa Direct Payment (as defined in the Lender Consent) to the Holders as provided in the Lender Consent.  ZaZa Parent shall notify Hess Parent promptly upon the Holders receipt of the ZaZa Direct Payment.
+ 
+7.                                      Representations, Warranties and Indemnities.
+ 
+7.1.                           Authority.  Each Party represents and warrants to the other Parties that (a) such Party has full power and authority to enter into and perform this Agreement, the documents delivered pursuant to this Agreement to which it is a party and the transactions contemplated herein and therein and (b) the execution, delivery, and performance by such Party of this Agreement and the documents delivered pursuant to this Agreement to which it is a party have been duly and validly authorized and approved by all necessary company or other entity action on the part of such Party.
+ 
+7.2.                           Non-Contravention.  Each Party represents and warrants to the other Parties that the consummation of this Agreement and the transactions contemplated hereby by such Party will not (i) violate any provision of the certificate of incorporation or any other governing document of such Party, (ii) violate, conflict with or constitute a breach of any Law applicable to such Party, or (c) breach or violate, or result (with the giving of notice or the lapse of time or both) in the breach, violation, acceleration or termination of, any contract, indenture, lien, note, lease, agreement, license or Law to which such Party is subject or by which any of its assets are bound or subject.
+ 
+7.3.                           Enforceability.  Each Party represents and warrants to the other Parties that this Agreement is, and the documents delivered pursuant to this Agreement to which such Party is a party are, the valid and binding obligations of such Party and enforceable against such Party in accordance with their respective terms.
+ 
+7.4.                           No Consents.  Each Party represents and warrants to the other Parties that there are no consents or other restrictions on assignment, including, but not limited to, requirements for consents from third parties to any assignment (in each case) that would be applicable in connection with the consummation by such Party of the transactions contemplated herby or under the documents delivered pursuant to this Agreement to which such Party is a party that have not been obtained by such Party.
+ 
+7.5.                           Bankruptcy.  Each Party represents and warrants to the other Parties that there are no bankruptcy, reorganization or receivership proceedings pending, being contemplated by or, to the knowledge of such Party, threatened against such Party or its Affiliates, and neither such Party nor any of its Affiliates is insolvent or generally not paying its debts as they become due.
+ 
+7.6.                           No Assignment.  Each Party represents and warrants to the other Parties that there has been, and there will be, no assignment or other transfer of any of such Partys interests in any of the claims and causes of action released by such Party pursuant to this Agreement.
+ 
+5
+
+
+
+
+
+
+ 
+7.7.                           Ownership of Paris Basin ORRI and Paris Basin ORRI Agreement.  ZaZa Parent represents and warrants to the other Parties that, immediately prior to the termination of the Paris Basin ORRI and the Paris Basin ORRI Agreement as set forth in Section 5.3, ZaZa Parent is the owner of the Paris Basin ORRI and of ZEFs former interest under the Paris Basin ORRI Agreement.
+ 
+7.8.                           ZaZa Encumbrances.  ZaZa Parent represents and warrants to the other Parties that (a) those Liens (as defined in that certain Securities Purchase Agreement, dated February 21, 2012, by and among the ZaZa Parent and the lender parties thereto (as amended the Securities Agreement)) held by the Holders (as defined in the Lender Consent) that are a party to the Lender Consent being released under the Lender Consent are all of the Liens or other encumbrances granted pursuant to the Securities Agreement on the Escrow Fund, the Paris Basin ORRI and/or the Paris Basin ORRI Agreement; (b) other than the Liens held by such Holders being released under the Lender Consent, there are no Liens or other encumbrances arising by, through or under any ZaZa Party or any of its Affiliates on the Escrow Fund, the Paris Basin ORRI and/or the Paris Basin ORRI Agreement; and (c) the Holders that are a party to the Lender Consent are the only parties necessary to cause the Collateral Agent (as defined in the Securities Agreement) to effect a release of the Liens on the Escrow Fund, the Paris Basin ORRI and/or the Paris Basin ORRI Agreement.
+ 
+7.9.                           Hess Encumbrances.  Hess Parent represents and warrants to the other Parties that there are no Liens or other encumbrances arising by, through or under any Hess Party or any of its Affiliates on the Escrow Fund.
+ 
+7.10.                    Indemnity.  Each ZaZa Party hereby indemnifies, defends and holds harmless each of the Hess Parties, each of the Hess Parties parents, members, partners, subsidiaries, and Affiliates, and each of such Persons agents, representatives, directors, employees, attorneys, advisors, insurers, successors and assigns, from and against any damages, costs, expenses or liability of any kind (including costs of defense and attorneys fees) arising out of, attributable to or as a result of the breach by any ZaZa Party of its representation, warranties or covenants set forth in this Agreement or in the documents delivered by such Party pursuant to this Agreement.  Each Hess Party hereby indemnifies, defends and holds harmless each of the ZaZa Parties, each of the ZaZa Parties parents, members, partners, subsidiaries, and Affiliates, and each of such Persons agents, representatives, directors, employees, attorneys, advisors, insurers, successors and assigns, from and against any damages, costs, expenses or liability of any kind (including costs of defense and attorneys fees) arising out of, attributable to or as a result of the breach by any Hess Party of its representation, warranties or covenants set forth in this Agreement or in the documents delivered by such Party pursuant to this Agreement.
+ 
+8.                                      Release.
+ 
+8.1.                           Release.  Subject to Section 3, to the fullest extent permitted by applicable Law, (a) each of the Hess Parties, on its own behalf and on behalf of each of its subsidiaries, Affiliates and successors and assigns, on the one hand, and (b) each of ZaZa Parties, on its own behalf and on behalf of each of its subsidiaries, Affiliates and successors and assigns,
+ 
+6
+
+
+
+
+
+
+ 
+on the other hand (each of the Persons in clauses (a) and (b), a Releasing Party and collectively, the Releasing Parties), hereby fully, finally and irrevocably releases and discharges each of the other Releasing Parties and each of such other Releasing Partys Affiliates and such other Releasing Partys and its Affiliates respective members, partners, directors, employees, managers, officers, agents and attorneys, past and present, and each of their respective successors and assigns (collectively, the Released Parties), of and from any and all claims, counterclaims, causes of action, lawsuits, suits, charges, debts, indemnities, controversies, accounts, damages, judgments, liens, obligations, liabilities, proceedings, losses (including diminution of value),  loss of profits, costs and expenses (whether actual, consequential or punitive), interest (including prejudgment interest), penalties, fines, reasonable legal fees, disbursements and costs of investigations, deficiencies, levies and duties, governmental investigations, audits, administrative orders and demands (collectively, Claims) and obligations (including indemnification obligations), of any type or nature, asserted or unasserted, known or unknown, absolute or contingent or liquidated or unliquidated, and whether arising out of or under any Law, equitable principles, or otherwise, (in each case) that arise out of or are attributable to the Paris Claims and/or the Texas Claims, including any acts or omissions prior to the Execution Date by such Releasing Party in connection with the Paris Claims and/or the Texas Claims.
+ 
+8.2.                           Agreements Relating to the Release.  Each Releasing Party agrees that (a) the release set forth in Section 8.1 may be pleaded as a full and complete defense and may be used as a basis for an injunction against any action, suit or other proceeding which may be instituted, prosecuted or attempted in breach of the provisions of such release, (b) no fact, event, circumstance, evidence or transaction which could not be asserted or which may hereafter be discovered shall affect in any manner the final, absolute and unconditional nature of the release set forth in Section 8.1, (c) it has consulted with, and has been represented by, legal counsel and expressly disclaims any reliance on any representations, acts or omissions by any of the other Parties, (d) the release set forth in Section 8.1 may not be changed, amended, waived, discharged or terminated orally and (e) the validity and effectiveness of the release set forth in Section 8.1 does not depend in any way on any such representations, acts and/or omissions or the accuracy, completeness or validity thereof.  The provisions of this Section 8 shall survive the execution and delivery of this Agreement without limitation.
+ 
+9.                                      Enforcement.  ZaZa Parent agrees to enforce all of its rights under the Lender Consent to the extent (a) reasonably requested by Hess Parent and (b) relating directly or indirectly to any representation, warranty or covenant made herein by any ZaZa Party.
+ 
+10.                               Confidentiality.  All of the terms and provisions of this Agreement shall be kept confidential by all Parties and their Representatives, except to the extent (and then only to the extent required) (a) necessary to secure the enforcement of this Agreement; (b) required to be disclosed to counsel, lenders, creditors or accountants, in which case the information to the extent required may be disclosed to said counsel, lenders, creditors or accountants; or (c)  required (upon advice of counsel) by applicable securities or other Laws or regulations or the applicable rules of any stock exchange having jurisdiction over the Parties or their respective Affiliates, provided that in the case of any disclosures described in subsections (a), (b) or (c) above, each Party shall use its
+ 
+7
+
+
+
+
+
+
+ 
+reasonable efforts to consult with the other non-Affiliated Parties regarding the contents of any such disclosure prior to making such disclosure.
+ 
+11.                               Public Announcements.  Without the prior written consent of the other Party (which such consent may be withheld in its sole discretion), no Party may issue any press release or other public announcement regarding this Agreement or the transactions contemplated hereby except to the extent (and then only to the extent required to be disclosed) (a) necessary to secure the enforcement of this Agreement or (b) required (upon advice of counsel) by applicable securities or other Laws or regulations or the applicable rules of any stock exchange having jurisdiction over the Parties or their respective Affiliate; provided that in the case of any disclosures described in subsections (a) or (b) each Party shall use its reasonable efforts to consult with the other non-Affiliated Parties regarding the contents of any such release or announcement prior to making such release or announcement.
+ 
+12.                               Binding Effect.  This Agreement shall be binding upon the Parties and their respective successors and  assigns.
+ 
+13.                               Interpretation.  The Parties acknowledge that (a) the Parties have had the opportunity to exercise business discretion in relation to the negotiation of the details of the transaction contemplated hereby, (b) this Agreement is the result of arms-length negotiations from equal bargaining positions and (c) the Parties and their respective counsel participated in the preparation and negotiation of this Agreement.  Any rule of construction that a contract be construed against the drafter shall not apply to the interpretation or construction of this Agreement.
+ 
+14.                               Governing Law; Choice of Forum.  THIS AGREEMENT AND THE LEGAL RELATIONS BETWEEN THE PARTIES SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS WITHOUT REGARD TO PRINCIPLES OF CONFLICTS OF LAW WHICH WOULD REQUIRE THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION.  All disputes arising out of or in connection with this Agreement shall be exclusively and definitively resolved pursuant to final and binding arbitration under the Rules of Arbitration of the International Chamber of Commerce (ICC) and the other provisions of Schedule 1 hereto.
+ 
+15.                               Severability.  If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any rule of Law or public policy, all other conditions and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any adverse manner to any Party.  Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the Parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in an acceptable manner to the end that the transactions contemplated hereby are fulfilled to the extent possible.
+ 
+16.                               Counterparts.  This Agreement may be executed in counterparts, each of which shall be deemed an original instrument, but all such counterparts together shall constitute one agreement. A Partys delivery of an executed counterpart signature page by facsimile (or email) is as effective as executing and delivering this Agreement in the presence of the other Parties.  No Party shall be bound until such time as all of the Parties have executed counterparts of this Agreement.
+ 
+8
+
+
+
+
+
+
+ 
+17.                               Notices.  All notices and other communications which are required or may be given pursuant to this Agreement must be given in writing, in English, and delivered personally, by courier, by telecopy or by registered or certified mail, postage prepaid, as follows:
+ 
+If to Hess Parent:
+ 
+Hess Corporation
+1501 McKinney Street
+Houston, Texas  77010
+Attention:  J. Douglas Eisele, Director US Exploration & Production
+Telephone:  713-496-7355
+Fax:  713-496-8041
+ 
+With a copy to:
+ 
+Hess Corporation
+1185 Avenue of the Americas
+New York, New York 10036
+Attention:  Timothy B. Goodell, General Counsel
+Telephone:  212-536-8004
+Fax:  212-536-8241
+ 
+If to Hess France:
+ 
+Hess Oil France S.A.S
+16-18 rue du Quatre-Septembre
+75002 Paris, France
+Attention:  President
+Telephone: +33 1 44 71 22 00
+Fax: +33 1 49 24 97 30
+ 
+With copies to:
+ 
+c/o Hess Corporation
+1501 McKinney Street
+Houston, Texas  77010
+Attention:  J. Douglas Eisele, Director US Exploration & Production
+Telephone:  713-496-7355
+Fax:  713-496-8041
+ 
+and to:
+ 
+Hess Corporation
+1185 Avenue of the Americas
+New York, New York 10036
+Attention:  Timothy B. Goodell, General Counsel
+Telephone:  212-536-8004
+Fax:  212-536-8241
+ 
+9
+
+
+
+
+
+
+ 
+If to any ZaZa Party:
+ 
+ZaZa France S.A.S.
+ZaZa International Holding LLC
+c/o ZaZa Energy Corporation
+1301 McKinney Street, Suite 2800
+Houston, Texas 77010
+Attention: Scott Gaille, Chief Compliance Officer
+Telephone: 713-595-1900
+Fax: 713-595-1919
+ 
+A Party may change its address for notice by notice to the other Parties in the manner set forth above.  All notices shall be deemed to have been duly given at the time of receipt by the Party to which such notice is addressed.
+ 
+18.                               Parties in Interest.  Notwithstanding anything contained in this Agreement to the contrary, nothing in this Agreement, expressed or implied, is intended to confer on any Person other than the Parties, or to the extent provided in Section 7.9 and/or Section 8 their respective related Representatives hereunder, any rights, remedies, obligations or liabilities under or by reason of this Agreement; provided that only a Party will have the right to enforce the provisions of this Agreement on its own behalf or on behalf of any of its related Representatives (but shall not be obligated to do so).
+ 
+19.                               No Waiver.  All waivers of any provision or breach of this Agreement must be in writing, executed by the waiving party.  No waiver of any provision or breach of this Agreement shall be a waiver of any other provision or breach of this Agreement or any subsequent breach.
+ 
+[signature page follows]
+ 
+10
+
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, this Agreement has been signed by each of the Parties as of the date set forth above.
+ 
+ 
+
+
+
+     
+
+HESS   CORPORATION       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   RE Fast       
+
+
+     
+
+Name:    
+
+RE   Fast       
+
+
+     
+
+Title:    
+
+VP       
+
+
+     
+
+        
+
+
+     
+
+HESS OIL FRANCE       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   RE Fast       
+
+
+     
+
+Name:    
+
+RE   Fast       
+
+
+     
+
+Title:    
+
+VP       
+
+
+     
+
+        
+
+
+     
+
+ZAZA ENERGY   CORPORATION       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Scott Gaille       
+
+
+     
+
+Name:    
+
+Scott   Gaille       
+
+
+     
+
+Title:    
+
+CCO   & General Counsel       
+
+
+     
+
+        
+
+
+     
+
+ZAZA   ENERGY, LLC       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Scott Gaille       
+
+
+     
+
+Name:    
+
+Scott   Gaille       
+
+
+     
+
+Title:    
+
+CCO   & General Counsel       
+
+
+     
+
+        
+
+
+     
+
+ZAZA   FRANCE S.A.S.       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Scott Gaille       
+
+
+     
+
+Name:    
+
+Scott   Gaille       
+
+
+     
+
+Title:    
+
+CCO   & General Counsel       
+
+
+     
+
+        
+
+
+     
+
+ZAZA   INTERNATIONAL HOLDING LLC       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Scott Gaille       
+
+
+     
+
+Name:    
+
+Scott   Gaille       
+
+
+     
+
+Title:    
+
+CCO   & General Counsel       
+
+
+
+
+
+
+    
+ 
+Signature Page to Settlement and Release Agreement
+ 
+
+
+
+
+
+
+ 
+EXHIBIT A
+ 
+Claims
+ 
+For purposes of this Agreement, Paris Claims means, collectively, claims with respect to: (a) the Lack of Approval and related litigation, including claims that the Parties actions contributed to or caused the Lack of Approval, and that a Party was being economically harmed, (b) the Paris Basin ORRI and the Paris Basin ORRI Agreement, including claims regarding a loss in the value of the Paris Basin ORRI, (c) the Escrow Agreement and the Escrow Fund, (d) disparaging statements allegedly made by a Party or any of its respective Representatives (defined in the Paris PSA) with respect to any other Party or such other Partys Affiliates, and (e) the enforceability of the obligations of a Party under the Paris PSA, and including those claims described in that certain Demand Letter dated December 2, 2013, from ZaZa Energy Corporation to Hess Corporation.
+ 
+For purposes of this Agreement, Texas Claims means, collectively, claims with respect to: (a) the Sweet Home Litigation Proceeds, (b) the right of Hess to have received the overriding royalty interests granted by ZaZa Parent to Hess Parent in connection with the consummation of the transactions under the Texas DOA and the obligation of Hess to amend the terms of any such overriding royalty interest, (c) disparaging statements allegedly made by a Party or any of its respective Representatives with respect to any other Party or such other Partys Affiliates, and (d) the final settlement statement delivered in connection with the Texas DOA and the amounts owing thereunder.
+ 
+
+
+
+
+
+
+ 
+SCHEDULE 1
+ 
+ARBITRATION PROVISIONS
+ 
+1.             The arbitration shall be conducted by three arbitrators, unless the Parties agree to a sole arbitrator within thirty (30) days after the filing of the arbitration. For greater certainty, for purposes of this Schedule 1, the filing of the arbitration means the date on which the claimants request for arbitration is received by the other Parties.
+ 
+2.             If the arbitration is to be conducted by a sole arbitrator, then the arbitrator will be jointly selected by the Hess Parties and the ZaZa Parties.  If the Parties fail to agree on the arbitrator within thirty (30) days after the filing of the arbitration, then the ICC shall appoint the arbitrator.
+ 
+3.             If the arbitration is to be conducted by three arbitrators, the Hess Parties shall nominate one co-arbitrator and the ZaZa Parties shall nominate a co-arbitrator. The two co-arbitrators shall, in coordination with the Party that appointed them, then nominate a third arbitrator, who shall serve as the presiding arbitrator.   If either the Hess Parties or the ZaZa Parties fail to appoint their arbitrator or if the appointed arbitrators cannot reach an agreement on the presiding arbitrator within the applicable time period set out in the ICC Rules, then the ICC shall appoint the remainder of the three arbitrators not yet appointed.
+ 
+4.             If the Parties initiate multiple arbitration proceedings, the subject matters of which are related by common questions of law or fact and could result in conflicting awards or obligations, then all such proceedings may be consolidated into a single arbitral proceeding.
+ 
+5.             Unless otherwise agreed by the Parties in writing, the place of arbitration shall be Houston, Texas.  The arbitration proceedings shall be conducted in the English language and the arbitrator(s) shall be fluent in the English language.  The Parties agree that discovery and evidence in the arbitration shall be governed by the IBA Rules on the Taking of Evidence in International Commercial Arbitration.  Subject to any relevant legal privilege against disclosure, the arbitration tribunal shall have the power to make all orders necessary for the disclosure contemplated above, which orders the Parties consent in advance to obey.
+ 
+6.             The award of the arbitral tribunal shall be final and binding.  Judgment on the award of the arbitral tribunal may be entered and enforced by any court of competent jurisdiction.
+ 
+7.             The single arbitrator or the presiding arbitrator (as the case may be) shall be a citizen of the United States of America, unless the Parties otherwise agree.
+ 
+8.             Notwithstanding the foregoing, either Party may apply to a court for interim measures (a) prior to the constitution of the arbitral tribunal (and thereafter as necessary to enforce the arbitral tribunals rulings); or (b) in the absence of the jurisdiction of the arbitral tribunal to rule on interim measures in a given jurisdiction.  The Parties agree that seeking and obtaining such interim measures shall not waive the right to arbitration.  The arbitrators (or in an emergency the presiding arbitrator acting alone in the event one or more of the other arbitrators is unable to be involved in a timely fashion) may grant interim measures including injunctions, attachments and conservation orders in
+ 
+
+
+
+
+
+
+ 
+appropriate circumstances, which measures may be immediately enforced by court order.  Hearings on requests for interim measures may be held in person, by telephone, by video conference or by other means that permit the Parties to present evidence and arguments.
+ 
+9.              Each Party will bear its own attorneys fees.  The costs of the arbitration proceedings will be borne ½ by the Hess Parties and ½ by the ZaZa Parties.
+ 
+10.       The award shall include interest, as determined by the arbitral award, from the date of any default or other breach of this Agreement until the arbitral award is paid in full.  Interest shall be awarded at the Prime Rate (as published in the Wall Street Journal).
+ 
+11.       The arbitral award shall be made and payable in United States dollars, free of any tax or other deduction.
+ 
+12.       The Parties waive their rights to claim or recover, and the arbitral tribunal shall not award, any punitive, multiple, or other exemplary damages (whether statutory or common law).
+ 
+13.       To the extent permitted by law, any right to appeal or challenge any arbitral decision or award, or to oppose enforcement of any such decision or award before a court or any governmental authority, is hereby waived by the Parties except with respect to the limited grounds for modification or non-enforcement provided by any applicable arbitration statute or treaty.
+ 
+14.       All negotiations, mediation, arbitration, and expert determinations relating to a any dispute between the Parties (including a settlement resulting from negotiation or mediation, an arbitral award, documents exchanged or produced during a mediation or arbitration proceeding, and memorials, briefs or other documents prepared for the arbitration) are confidential and shall not be disclosed to any Person that is not a Party to this Agreement or an Affiliate thereof (such Person, a Third Party) by either Party, except to the extent necessary to (a) enforce this Schedule 1 or any arbitration order or award (or court order related to the arbitration); (b) to enforce or defend the rights of a Party, or as required by law; (c) comply with the disclosure requirements of applicable securities laws; or (d) allow Third Party professionals employed by a Party to perform their respective services; provided, however, that breach of this confidentiality provision shall not void any settlement, expert determination or award.
+ 
+
+
+
+
+
+
+
+ 
+EXHIBIT B
+ 
+Texas DOA Amendment
+ 
+
+
+
+
+
+
+ 
+FIRST AMENDMENT TO
+TEXAS DIVISION OF ASSETS AGREEMENT
+ 
+THIS FIRST AMENDMENT TO TEXAS DIVISION OF ASSETS AGREEMENT (this Amendment) is entered into this          day of February, 2014 (the Execution Date), by and among Hess Corporation, a Delaware corporation (Hess Parent), ZaZa Energy Corporation, a Delaware corporation (ZaZa Parent) and ZaZa Energy, LLC, a Texas limited liability company (ZaZa Energy).  Hess Parent, ZaZa Parent and ZaZa Energy are sometimes referred to herein as the Parties and each, a Party.
+ 
+WHEREAS, the Parties entered into that certain Texas Division of Assets Agreement dated July 25, 2012 (the DOA), pursuant to which the Parties agreed to terminate their business relationship and to divide the Texas Combined Assets (defined below) among the Parties in accordance with the terms thereof; and
+ 
+WHEREAS, the Parties are also party to that certain Settlement and Release Agreement dated as of the Execution Date pursuant to which each Party agrees to settle and release certain claims against the other Party, including by amending the DOA to effect the release by Hess Parent of claims to proceeds of certain litigation relating to the Sweet Home Leases (defined below);
+ 
+NOW, THEREFORE, in consideration of the mutual covenants herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby amend the DOA as follows:
+ 
+1.             Certain Definitions.  Unless otherwise defined in this Amendment, all capitalized terms will have the meanings set forth in the DOA.
+ 
+2.             Amendment of Section 2.3(c).  Section 2.3(c) of the DOA is hereby deleted in its entirety and the following Section 2.3(c) is hereby substituted therefor:
+ 
+(c) Payment of Certain Claim Proceeds.  Effective upon Closing, Hess Parent hereby assigns to ZaZa Energy any claims that Hess Parent may have against Third Parties with respect to such Third Parties obligations prior to or as of the Closing Date to deliver to Hess Parent Leases covering lands in the Hackberry Area, the Moulton Area or the Sweet Home Area, including any and all recoveries that are or may be obtained by ZaZa Energy or ZaZa Parent in connection with, the lawsuit styled ZAZA v. EMERALD LEASING LLC, FLMK ACQUISITION, LLC, ET AL.
+ 
+3.             Amendment Compliance.  The Parties acknowledge that this Amendment complies with the requirements to alter or amend the Agreement, as stated in Section 13.8 of the DOA.
+ 
+4.             References.  All references to the DOA shall be considered to be references to the DOA as modified by this Amendment, and, except as modified hereby, the DOA shall remain in full force and effect.
+ 
+5.             Counterparts.  This Amendment may be executed in counterparts, each of which shall be deemed an original instrument, but all such counterparts together shall constitute but one
+ 
+
+
+
+
+
+
+ 
+agreement.  A Partys delivery of an executed counterpart signature page by facsimile (or email) is as effective as executing and delivering this Amendment in the presence of the other Parties.  No Party shall be bound until such time as all of the Parties have executed counterparts of this Amendment.
+ 
+6.             Incorporation by Reference.  Section 1.2 of the DOA and Section 13.4 of the DOA are incorporated herein mutatis mutandis.
+ 
+[SIGNATURE PAGE FOLLOWS]
+ 
+2
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, this Amendment has been signed by each of the Parties on the Execution Date.
+ 
+
+
+
+     
+
+HESS   CORPORATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+ZAZA   ENERGY CORPORATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+ZAZA   ENERGY, LLC       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+          
+ 
+SIGNATURE PAGE TO FIRST AMENDMENT TO
+TEXAS DIVISION OF ASSETS AGREEMENT
+ 
+
+
+
+
+
+
+
+ 
+EXHIBIT C
+ 
+Lender Consent
+ 
+
+
+
+
+
+
+ 
+February       , 2014
+ 
+ZaZa Energy Corporation
+1301 McKinney Street, Suite 2800
+Houston, Texas 77010
+ 
+Re:  Securities Purchase Agreement and Hess Settlement Documents
+ 
+Ladies and Gentlemen:
+ 
+Reference is hereby made to (a) that certain Securities Purchase Agreement, dated February 21, 2012 (as amended and in effect from time to time, the Securities Purchase Agreement), among ZaZa Energy Corporation, a Delaware corporation (ZaZa Energy), and the Purchasers party thereto, (b) that certain Paris Basin Purchase and Sale Agreement executed on July 25, 2012, and effective June 1, 2012, by and among (i) Hess Oil France (Hess France) and (ii) ZaZa Energy France SAS (ZEF), ZaZa International Holding Limited Liability Company (ZIH) and ZaZa France S.A.S. (ZaZa France), and all exhibits, schedules and other attachments thereto (as amended from time to time, collectively, the Paris Basin Agreement), (c) that certain Escrow Agreement, entered into as of July 25, 2012 (the Escrow Agreement), by and among ZEF, ZaZa France, ZIH, Hess France and JPMorgan Chase Bank, N.A., as escrow agent (the Escrow Agent), and (d) that certain Texas Division of Assets Agreement executed on July 25, 2012 and effective June 1, 2012, by and among Hess Corporation, a Delaware corporation (Hess Parent and together with Hess France, the Hess Parties), ZaZa Energy and ZaZa Energy LLC, a Texas limited liability company (ZaZa LLC and collectively with ZaZa Energy, ZaZa France and ZIH, the ZaZa Parties), and all exhibits, schedules and other attachments thereto (as amended from time to time, collectively, the Texas DOA).  Capitalized terms which are used herein without definition and which are defined in the Securities Purchase Agreement shall have the same meanings herein as in the Securities Purchase Agreement.
+ 
+This letter agreement (this Consent) is to confirm that ZaZa Energy is hereby offering to prepay the Notes pursuant to paragraph 5H of the Securities Purchase Agreement, as further described below, and that ZaZa Energy has requested in connection therewith and with the settlement of certain disputes among the Hess Parties, on the one hand, and the ZaZa Parties, on the other hand, relating to, among other things, (a) the escrow arrangements described in the Paris Basin Agreement and the Escrow Agreement, (b) the termination of that certain Paris Basin ORRI Agreement (as defined in the Paris Basin Agreement) and that certain Paris Basin ORRI (as defined in the Paris Basin Agreement), and (c) the Sweet Home Litigation Proceeds (as defined in the Settlement Agreement (as defined below)), that the holders of the Securities (collectively, the Holders):
+ 
+(i)            consent to the ZaZa Parties entry into, and performance of obligations under, that certain Settlement and Release Agreement, dated as of the date hereof, by and among the ZaZa Parties and the Hess Parties, and all exhibits, schedules and other attachments thereto (collectively, in the form attached hereto as Exhibit A, the Settlement Agreement),
+ 
+(ii)           agree that this Consent shall constitute ZaZa Energys irrevocable written offer to prepay the Notes pursuant to paragraph 5H of the Securities Purchase Agreement,
+ 
+1
+
+
+
+
+
+
+ 
+(iii)          waive the prepayment notice and timing requirements set forth in paragraph 5H of the Securities Purchase Agreement (and ZaZa Energy hereby agrees to waive the notice and timing requirements set forth in such paragraph),
+ 
+(iv)          agree to cause the Collateral Agent to release its Liens on (A) $3,500,000 in the escrow account maintained pursuant to the Escrow Agreement (such amount with respect to which such Liens are so released, the Hess Escrow Amount and all amounts remaining in such escrow account other than the Hess Escrow Amount, the Remaining Escrow Amount) and (B) the Paris Basin ORRI and the Paris Basin ORRI Agreement; and
+ 
+(v)           consent to ZaZa Energys direction of ZaZa France and Hess France to cause the Escrow Agent to distribute the Hess Escrow Amount to Hess Parent.
+ 
+In consideration of the agreements and provisions herein contained, each of the undersigned Holders hereby:
+ 
+(A)          consents to the ZaZa Parties entry into, and performance of all obligations under, the Settlement Agreement, including, but not limited to, (1) the termination of the Paris Basin ORRI Agreement and the Paris Basin ORRI in connection with the settlement of certain matters relating to the Paris Basin Agreement, all as further described in the Settlement Agreement and (2) the payment by ZaZa Energy to Hess Parent of the Hess Escrow Amount (by causing the Escrow Agent to distribute the Hess Escrow Amount to Hess Parent) in connection with the settlement of certain matters relating to the Texas DOA, all as further described in the Settlement Agreement;
+ 
+(B)          consents to ZaZa Energys direction of ZaZa France and Hess France to cause the Escrow Agent to simultaneously distribute the Hess Escrow Amount to Hess Parent and the Remaining Escrow Amount to the applicable Holders (in their pro rata shares) as partial payment of the Prepayment Amount on behalf of ZaZa Energy;
+ 
+(C)          represents and warrants to the ZaZa Parties that, to such Holders knowledge, the Liens held by the Collateral Agent, for the benefit of the Holders, are the only Liens arising under or in connection with the Securities Purchase Agreement or other Transaction Documents on the Hess Escrow Amount, the Paris Basin ORRI and/or the Paris Basin ORRI Agreement;
+ 
+(D)          agrees that, following the delivery and effectiveness of this Consent, such Holder shall have no right or claims with respect to the Hess Escrow Amount, the Paris Basin ORRI and/or the Paris Basin ORRI Agreement;
+ 
+(E)           agrees that this Consent shall constitute ZaZa Energys irrevocable written offer to such Holder to prepay the Notes pursuant to paragraph 5H of the Securities Purchase Agreement;
+ 
+(F)           accepts such prepayment offer and agrees to waive the notice and timing requirements set forth in paragraph 5H of the Securities Purchase Agreement; so long as, on or before the date hereof ZaZa Energy shall prepay the Notes (directly and indirectly through the payment of the Remaining Escrow Amount)  in an aggregate amount equal to the amount required to reduce the aggregate outstanding principal balance of the Notes to $15,000,000 (after giving effect to such prepayment), together with accrued and unpaid interest and the Applicable Premium (collectively, the Prepayment Amount), consistent with the computations set forth on Exhibit B hereto, and together with the reasonable fees and disbursements of the Holders special counsel and the Holders hereby acknowledge that such Prepayment Amount shall be paid in part directly by ZaZa Energy to the applicable Holders (in their respective pro rata shares) concurrently with the execution of the Settlement Agreement by the parties thereto (such
+ 
+2
+
+
+
+
+
+
+ 
+portion of the Prepayment Amount, the ZaZa Direct Payment) and the remaining portion of the Prepayment Amount will be delivered on ZaZa Energys behalf by the Escrow Agent delivering to the applicable Holders their respective pro rata shares of the Remaining Escrow Amount pursuant to joint written instructions by ZaZa France and Hess France; and
+ 
+(G)          agrees that, concurrently with the applicable Holders receipt of their respective pro rata shares of the ZaZa Direct Payment and the delivery of the joint written instructions by ZaZa France and Hess France to the Escrow Agent to deliver the Hess Escrow Amount to Hess Parent on behalf of ZaZa Energy and the Remaining  Escrow Amount to the applicable Holders in their respective pro rata shares on behalf of ZaZa Energy in accordance with the Settlement Agreement, the Required Noteholders shall cause the Collateral Agent to release its Liens on the Hess Escrow Amount, the Paris Basin ORRI and the Paris Basin ORRI Agreement pursuant to a letter in the form of Exhibit C hereto.
+ 
+In consideration of the agreements of the Holders contained herein and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, except with respect to the representations, warranties and/or covenants of the Holders contained in this Consent, each Credit Party, on behalf of itself and its successors, assigns, and other legal representatives, hereby absolutely, unconditionally and irrevocably releases, remises and forever discharges each Holder, and its successors and assigns, and its present and former shareholders, partners, members, managers, consultants, affiliates, subsidiaries, divisions, predecessors, directors, officers, attorneys, employees, agents and other representatives, and all persons acting by, through, under or in concert with any of them (each Holder and all such other Persons being hereinafter referred to collectively as the Releasees and individually as a Releasee) of and from all demands, actions, causes of action, suits, covenants, contracts, controversies, agreements, promises, sums of money, accounts, bills, reckonings, damages and any and all other claims, counterclaims, defenses, recoupment, rights of setoff, demands and liabilities whatsoever (individually, a Claim and collectively, Claims) of every name and nature, known or unknown, contingent or mature, suspected or unsuspected, both at law and in equity, which any Credit Party or any of its respective successors, assigns, or other legal representatives may now or hereafter own, hold, have or claim to have against the Releasees or any of them for, upon, or by reason of any circumstance, action, cause or thing whatsoever which arises at any time on or prior to the day and date of this Consent, including, without limitation, for or on account of, or in relation to, or in any way in connection with the Securities Purchase Agreement, or any of the other Transaction Documents or transactions thereunder or related thereto.
+ 
+Each Credit Party understands, acknowledges and agrees that the release set forth above may be pleaded as a full and complete defense and may be used as a basis for an injunction against any action, suit or other proceeding which may be instituted, prosecuted or attempted in breach of the provisions of such release.
+ 
+Each Credit Party agrees that no fact, event, circumstance, evidence or transaction which could now be asserted or which may hereafter be discovered shall affect in any manner the final, absolute and unconditional nature of the release set forth above.
+ 
+In entering into this Consent, each Credit Party has consulted with, and has been represented by, legal counsel and expressly disclaims any reliance on any representations, acts or omissions by any of the Releasees and hereby agrees and acknowledges that the validity and effectiveness of the release set forth above does not depend in any way on any such representations, acts and/or omissions or the accuracy, completeness or validity hereof.  The release set forth herein shall survive the termination of this Consent, the Transaction Documents and the payment in full of the Notes.
+ 
+3
+
+
+
+
+
+
+ 
+Each Credit Party acknowledges and agrees that the release set forth above may not be changed, amended, waived, discharged or terminated orally.
+ 
+Each party hereto hereby acknowledges and agrees that time is of the essence to this Consent.
+ 
+Except as amended or waived hereby, all of the respective terms, conditions and provisions of the Securities Purchase Agreement shall remain the same and shall continue in full force and effect.  This Consent supersedes any and all of our prior communications with you (written or oral), if any, regarding the subject of this Consent.
+ 
+If the foregoing is in accordance with your understanding, please confirm your agreement to the amendment set forth herein by signing this Consent in the space indicated below and return it to us.
+ 
+THIS CONSENT SHALL BE CONSTRUED AND ENFORCED IN ACCORDANCE WITH, AND THE RIGHTS OF THE PARTIES SHALL BE GOVERNED BY, THE INTERNAL LAW OF THE STATE OF NEW YORK, EXCLUDING CHOICE-OF-LAW PRINCIPLES OF THE LAW OF SUCH STATE THAT WOULD PERMIT THE APPLICATION OF THE LAWS OF A JURISDICTION OTHER THAN SUCH STATE.
+ 
+This Consent may be executed in counterparts.  Delivery of an executed signature page by electronic transmission shall be effective as delivery of a manually signed counterpart of this Consent and shall be admissible into evidence for all purposes.
+ 
+[Remainder of page intentionally left blank.]
+ 
+4
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Very   truly yours,       
+
+
+     
+
+        
+
+
+     
+
+MSDC ZEC INVESTMENTS, LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:     
+
+Marcello Liguori       
+
+
+     
+
+Title:     
+
+Vice President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+SENATOR SIDECAR MASTER FUND LP       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:     
+
+Senator Investment Group LP, its investment   manager       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+        
+
+
+     
+
+     
+
+Name:     
+
+Evan Gartenlaub       
+
+
+     
+
+     
+
+Title:     
+
+General Counsel         
+ 
+(ZaZa Lender Consent)
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+O-CAP OFFSHORE MASTER FUND, L.P.       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+O-CAP PARTNERS, L.P.       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+CAPITAL VENTURES INTERNATIONAL       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+TALARA MASTER FUND, LTD.       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+BLACKWELL PARTNERS, LLC       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+PERMAL TALARA LTD.       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+          
+ 
+(ZaZa Lender Consent)
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+WINMILL INVESTMENTS LLC       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+          
+ 
+(ZaZa Lender Consent)
+ 
+
+
+
+
+
+
+ 
+
+
+
+Accepted and agreed:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+ZAZA ENERGY CORPORATION,    
+
+        
+
+
+a Delaware corporation    
+
+        
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+By:    
+
+     
+
+        
+
+
+Name:    
+
+     
+
+        
+
+
+Title:    
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+ZAZA HOLDINGS, INC.,    
+
+        
+
+
+a Delaware corporation    
+
+        
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+By:    
+
+     
+
+        
+
+
+Name:    
+
+     
+
+        
+
+
+Title:    
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+ZAZA ENERGY, LLC,    
+
+        
+
+
+a Texas limited liability company    
+
+        
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+By:    
+
+     
+
+        
+
+
+Name:    
+
+     
+
+        
+
+
+Title:    
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+TOREADOR RESOURCES CORPORATION,    
+
+        
+
+
+a Delaware corporation    
+
+        
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+By:    
+
+     
+
+        
+
+
+Name:    
+
+     
+
+        
+
+
+Title:    
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+ZAZA ENERGY DEVELOPMENT, LLC, a     
+
+        
+
+
+Texas limited liability company    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+By:    
+
+     
+
+        
+
+
+Name:    
+
+     
+
+        
+
+
+Title:    
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+ZAZA PETROLEUM MANAGEMENT, LLC,     
+
+        
+
+
+a Texas limited liability company    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+By:    
+
+     
+
+        
+
+
+Name:    
+
+     
+
+        
+
+
+Title:    
+
+     
+
+          
+ 
+(ZaZa Lender Consent)
+ 
+
+
+
+
+
+
+ 
+Exhibit A
+ 
+[See attached Settlement Agreement]
+ 
+
+
+
+
+
+
+ 
+Exhibit B
+ 
+[See attached prepayment description and computations]
+ 
+
+
+
+
+
+
+ 
+Exhibit C
+ 
+February       , 2014
+ 
+ZaZa Energy Corporation
+1301 McKinney Street, Suite 2800
+Houston, Texas 77010
+ 
+Re:  Securities Purchase Agreement and Hess Settlement Documents
+ 
+Ladies and Gentlemen:
+ 
+Reference is hereby made to (a) that certain Securities Purchase Agreement, dated February 21, 2012 (as amended and in effect from time to time, the Securities Purchase Agreement), among ZaZa Energy Corporation, a Delaware corporation (ZaZa Energy), and the Purchasers party thereto, (b) that certain Paris Basin Purchase and Sale Agreement executed on July 25, 2012 and effective June 1, 2012, by and among (i) Hess Oil France (Hess France) and (ii) ZaZa Energy France SAS (ZEF), ZaZa International Holding Limited Liability Company (ZIH) and ZaZa France S.A.S. (ZaZa France), and all exhibits, schedules and other attachments thereto (as amended from time to time, collectively, the Paris Basin Agreement), (c) that certain Escrow Agreement, entered into as of July 25, 2012 (the Escrow Agreement), by and among ZEF, ZaZa France, ZIH, Hess France and JPMorgan Chase Bank, N.A., as escrow agent (the Escrow Agent), and (d) that certain letter agreement dated as of even date herewith by the Holders (as defined therein) and the Credit Parties (the Consent Letter).  Capitalized terms which are used herein without definition and which are defined in the Securities Purchase Agreement or the Consent Letter, as applicable, shall have the same meanings herein as in the Securities Purchase Agreement or the Consent Letter, as applicable.
+ 
+The Collateral Agent, on behalf of the Secured Parties (as defined in the Security Agreement), acknowledges and agrees that all security interests and liens in or on the Hess Escrow Amount, the Paris Basin ORRI and/or the Paris Basin ORRI Agreement (in each case) which any of the Credit Parties may have granted to the Collateral Agent, for the benefit of the Secured Parties, pursuant to the Securities Purchase Agreement or any of the other any Transaction Document, are hereby released in their entirety.
+ 
+
+
+
+     
+
+Very   truly yours,       
+
+
+     
+
+        
+
+
+     
+
+U.S.   BANK NATIONAL ASSOCIATION,       
+
+
+     
+
+as Collateral Agent       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+
+
+
+
+
+
+
+ 
+EXHIBIT D
+ 
+Escrow Joint Instruction Letter
+ 
+
+
+
+
+
+
+ 
+Joint Instruction Letter
+ 
+February       , 2014
+ 
+JPMorgan Chase Bank, N.A.
+Escrow Services
+One Chase Manhattan Plaza, 21st Floor
+New York, NY 10005
+Attention:  Joan King-Francois/Rola Tseng-Pappalardo
+Fax No.: 212.552.2803
+Email Address: (New York) ec.escrow@jpmorgan.com
+ 
+Re:                             Hess/ZaZa Escrow Account  Number 469801703
+ 
+Ladies and Gentlemen:
+ 
+Reference is made to that certain Escrow Agreement dated as of July 25, 2012 (the Escrow Agreement) by and among ZaZa Energy France (formerly known as Toreador Energy France), a société par actions simplifiée existing under the Laws of France, ZaZa France S.A.S., a société par actions simplifiée existing under the Laws of France, ZaZa International Holding LLC (formerly known as Toreador International Holding LLC), a Hungarian company, Hess Oil France, a société par actions simplifiée existing under the Laws of France, and JPMorgan Chase Bank, NA.  All capitalized terms used but not defined in this Joint Instruction shall have the meaning given to such term in the Escrow Agreement.
+ 
+Pursuant to the terms of the Escrow Agreement, each of the undersigned hereby authorizes and instructs you to release the Fund from the Escrow Account in immediately available funds as soon as reasonably practicable in the amounts and to the accounts set forth below:
+ 
+
+
+
+Amount:    
+
+     
+
+        
+
+
+Bank name:    
+
+     
+
+        
+
+
+ABA number:    
+
+     
+
+        
+
+
+Account name:    
+
+     
+
+        
+
+
+Account number:    
+
+     
+
+          
+ 
+1
+
+
+
+
+
+
+
+
+ 
+
+
+
+ZAZA   FRANCE S.A.S.    
+
+        
+
+
+     
+
+     
+
+        
+
+
+By:    
+
+     
+
+        
+
+
+Name:    
+
+     
+
+        
+
+
+Title:    
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+HESS OIL FRANCE    
+
+        
+
+
+     
+
+     
+
+        
+
+
+By:    
+
+     
+
+        
+
+
+Name:    
+
+     
+
+        
+
+
+Title:    
+
+     
+
+          
+ 
+Signature Page to Joint Instruction Letter to Escrow Agent
+ 
+
+
+
+
+
+
+

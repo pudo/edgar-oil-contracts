@@ -1,0 +1,2292 @@
+
+EX-10.1
+2
+d321077dex101.htm
+SECOND AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+
+Second Amendment to Fourth Amended and Restated Credit Agreement
+
+ 
+
+ Exhibit 10.1  EXECUTION VERSION  SECOND AMENDMENT TO FOURTH AMENDED AND RESTATED
+ CREDIT AGREEMENT  THIS SECOND AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT (this Amendment) is dated as of April 9, 2012, by and among RANGE RESOURCES CORPORATION, a Delaware
+corporation (the Borrower), CERTAIN SUBSIDIARIES OF THE BORROWER, as Guarantors (the Guarantors), the LENDERS party hereto and JPMORGAN CHASE BANK, N.A., as Administrative Agent for the Lenders (in such
+capacity, the Administrative Agent). Unless the context otherwise requires or unless otherwise expressly defined herein, capitalized terms used but not defined in this Amendment have the meanings assigned to such terms in the
+Credit Agreement (as defined below).  WITNESSETH: 
+WHEREAS, the Borrower, the Guarantors, the Administrative Agent and the Lenders have entered into that certain Fourth Amended and
+Restated Credit Agreement, dated as of February 18, 2011 (as the same has been and may hereafter be amended, restated, amended and restated, supplemented or otherwise modified from time to time, the Credit Agreement); and
+ WHEREAS, the Borrower and the Guarantors have requested that the Administrative Agent and the Lenders amend the Credit
+Agreement as provided herein, and the Administrative Agent and the Lenders have agreed to do so on and subject to the terms and conditions hereinafter set forth.  NOW, THEREFORE, for and in consideration of the mutual covenants and agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged and confessed, the Borrower, the Guarantors, the Administrative Agent and the Lenders hereby agree as follows:  SECTION 1.
+Amendments to Credit Agreement. Subject to the satisfaction or waiver in writing of each condition precedent set forth in Section 4 of this Amendment, and in reliance on the representations, warranties, covenants and agreements
+contained in this Amendment, the Credit Agreement shall be amended in the manner provided in this Section 1. 
+1.1 Additional Definition. Section 1.01 of the Credit Agreement shall be and it hereby is amended by inserting
+the following definition in appropriate alphabetical order:  Second Amendment Effective
+Date means April 9, 2012.  1.2 Amended Definition. The following definition set forth in
+Section 1.01 of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows:  Aggregate Commitment means, at any time, the sum of the Commitments of all the Lenders at such time, as such amount may be reduced or increased from time to time pursuant to
+Section 2.02 and Section 2.03; provided that such amount shall not at any time exceed the lesser of (a) the Borrowing Base then in effect and (b) the Maximum Facility Amount. As of the Second Amendment Effective Date, the
+Aggregate Commitment is $1,750,000,000. 
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+
+
+
+
+
+
+ 1.3 Financial Statements; Other Information. Section 6.01(e) of
+the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows: 
+(e) together with the Reserve Reports required under clause (d) above, a report, in reasonable detail, setting
+forth the Swap Agreements then in effect, the notional volumes of and prices for, on a monthly basis and in the aggregate, the Crude Oil, Natural Gas and Natural Gas Liquids for each such Swap Agreement and the term of each such Swap Agreement and
+indicating whether any such Swap Agreement of Crude Oil is a substitute for hedging Natural Gas Liquids;  1.4
+Swap Agreements. Section 7.05(a) of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows:  (a) hedge or mitigate price risks with respect to Crude Oil, Natural Gas Liquids and Natural Gas to which the Borrower or any Restricted Subsidiary has actual exposure; provided that at the time
+the Borrower or any Restricted Subsidiary enters into any such Swap Agreement, such Swap Agreement (x) does not have a term greater than sixty (60) months from the date such Swap Agreement is entered into, and (y) when aggregated with
+all other Swap Agreements (including the Existing Swap Agreements) then in effect would not cause the aggregate notional volume per month for each of Crude Oil, Natural Gas Liquids and Natural Gas, calculated separately, under all Swap Agreements
+(including the Existing Swap Agreements) then in effect (other than Excluded Hedges) to exceed, as of the date such Swap Agreement is executed, ninety percent (90%) of the forecasted production from proved developed producing reserves of the
+Borrower and the Restricted Subsidiaries, taken as a whole, for any month during the forthcoming five year period; provided, further, that so long as the Borrower and the Restricted Subsidiaries properly identify such hedges on the
+reports delivered pursuant to Section 6.01(e), the Borrower may utilize Crude Oil hedges as a substitute for hedging Natural Gas Liquids; and  1.5 Schedules. Schedule 2.01 of the Credit Agreement shall be and it hereby is amended and restated in its entirety and replaced with Schedule 2.01 attached hereto. 
+SECTION 2. Redetermined Borrowing Base. This Amendment shall constitute notice of a Scheduled Redetermination of the Borrowing Base
+pursuant to Section 3.04 of the Credit Agreement, and the Administrative Agent, the Required Lenders, the Borrower and the Guarantors hereby acknowledge that effective as of the Second Amendment Effective Date, the Borrowing Base is
+$2,000,000,000 and such redetermined Borrowing Base shall remain in effect until the earlier of (a) the next Redetermination of the Borrowing Base or (b) the date such Borrowing Base is otherwise reduced pursuant to the terms of the Credit
+Agreement.  SECTION 3. New Lenders and Increase of Commitments. Notwithstanding anything to the contrary contained in
+Section 2.03 of the Credit Agreement, the Lenders party hereto have agreed to, among other things, (a) permit one or more of the Lenders to increase their respective Commitments under the Credit Agreement (each, an Increasing
+Lender), and (b) allow certain 
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Page 2
+
+
+
+
+
+ 
+financial institutions identified by J.P. Morgan Securities LLC (J.P. Morgan), in its capacity as a Co-Lead Arranger, in consultation with the Borrower, to become a party to
+the Credit Agreement as a Lender (each, a New Lender) by acquiring an interest in the Aggregate Commitment, in each case, pursuant to the terms of this Section 3. Each of the Administrative Agent and the Borrower
+hereby consents to (i) each New Lenders acquisition of an interest in the Aggregate Commitment and (ii) the increase in each Increasing Lenders Commitment. On the date this Amendment becomes effective and after giving effect to
+each New Lender, the increased Commitments of the Increasing Lenders and the increase of the Aggregate Commitment, the Commitment of each Lender shall be as set forth on Schedule 2.01 of this Amendment. Each Lender party hereto hereby
+consents to the Commitments set forth on Schedule 2.01 of this Amendment. The increase in each Increasing Lenders Commitment and the acquisition by each New Lender of an interest in the Aggregate Commitment shall be deemed to have been
+consummated pursuant to the terms of the Lender Certificate attached as Exhibit E to the Credit Agreement as if such Increasing Lender or New Lender, as the case may be, had executed a Lender Certificate with respect to such increase or
+acquisition. To the extent requested by any Lender and in accordance with Section 2.17 of the Credit Agreement, the Borrower shall pay to such Lender, within the time period prescribed by Section 2.17 of the Credit Agreement, any amounts
+required to be paid by the Borrower under Section 2.17 of the Credit Agreement in the event the payment of any principal of any Eurodollar Loan or the conversion of any Eurodollar Loan other than on the last day of an Interest Period applicable
+thereto is required in connection with the increase in the Aggregate Commitment contemplated by this Section 3.  SECTION 4.
+Conditions. The amendments to the Credit Agreement contained in Section 1 of this Amendment and the increase in the Aggregate Commitment contained in Section 2 of this Amendment shall be effective upon the satisfaction
+of each of the conditions set forth in this Section 4.  4.1 Execution and Delivery. Each Credit
+Party, the Required Lenders, and the Administrative Agent shall have executed and delivered this Amendment and each other required document, all in form and substance satisfactory to the Administrative Agent. 
+4.2 Fees. The Borrower, the Administrative Agent and J.P. Morgan shall have executed and delivered a fee letter in connection with
+this Amendment, and the Administrative Agent and J.P. Morgan shall have received the fees separately agreed upon in such fee letter.  4.3 No Default. No Default shall have occurred and be continuing or shall result from the effectiveness of this Amendment.  4.4 Other Documents. The Administrative Agent shall have received such other instruments and documents incidental and appropriate to the transactions provided for herein as the
+Administrative Agent or its special counsel may reasonably request, and all such documents shall be in form and substance satisfactory to the Administrative Agent.  SECTION 5. Post-Closing Covenant. Within forty-five (45) days following the Second Amendment Effective Date (or such longer period as permitted by the Administrative Agent in its sole
+discretion), the Borrower shall deliver to the Administrative Agent Mortgages reasonably satisfactory to the Administrative Agent with respect to the Borrowing Base Properties, or the portion thereof, as required by Section 6.09 of the Credit
+Agreement. 
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Page 3
+
+
+
+
+
+ SECTION 6. Representations and Warranties of Credit Parties. To induce the Lenders to enter
+into this Amendment, each Credit Party hereby represents and warrants to the Lenders as follows:  6.1 Reaffirmation
+of Representations and Warranties/Further Assurances. After giving effect to the amendments contained herein, each representation and warranty of such Credit Party contained in the Credit Agreement and in each of the other Loan Documents is true
+and correct in all material respects on the date hereof (except to the extent such representations and warranties relate solely to an earlier date, in which case they shall be true and correct as of such earlier date). 
+6.2 Corporate Authority; No Conflicts. The execution, delivery and performance by such Credit Party of this Amendment and
+all documents, instruments and agreements contemplated herein (a) are within such Credit Partys corporate or other organizational powers, (b) have been duly authorized by all necessary action, (c) require no consent or approval
+of, or registration or filing with, or further action by, any Governmental Authority except such as have been obtained or made and are in full force and effect and, after the effective date of this Amendment, any required filings with the Securities
+and Exchange Commission, (d) do not violate any applicable law or regulation or the charter, by-laws or other Organizational Documents of such Credit Party or any order of any Governmental Authority, (e) do not violate or result in a
+default under any indenture, agreement or other instrument evidencing Material Indebtedness binding upon such Credit Party and (f) do not result in the creation or imposition of any Lien upon any of the assets of such Credit Party not otherwise
+permitted under Section 7.02 of the Credit Agreement.  6.3 Enforceability. This Amendment has been duly
+executed and delivered by each Credit Party and constitutes the valid and binding obligation of such Credit Party enforceable in accordance with its terms, except as (i) the enforceability thereof may be limited by bankruptcy, insolvency,
+reorganization, moratorium or other similar laws affecting creditors rights generally, and (ii) the availability of equitable remedies may be limited by equitable principles of general application. 
+6.4 No Default. As of the date of this Amendment, both before and immediately after giving effect to this Amendment, no
+Default or Event of Default has occurred and is continuing.  6.5 Financial Covenants. On the date hereof and
+immediately after giving effect to the increase in the Aggregate Commitment contained in Section 3 of this Amendment, the Borrower is in pro forma compliance with the financial covenants set forth in Section 7.11 of the Credit
+Agreement as of the last day of the most recently ended fiscal quarter for which the financial statements and compliance certificate required under Section 6.01 of the Credit Agreement have been delivered to Administrative Agent and the
+Lenders, calculated as though such increase occurred prior to the end of such fiscal quarter. 
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Page 4
+
+
+
+
+
+ SECTION 7. Miscellaneous. 
+7.1 Reaffirmation of Loan Documents and Liens. Except as amended and modified hereby, any and all of the terms and provisions of
+the Credit Agreement and the other Loan Documents shall remain in full force and effect and are hereby in all respects ratified and confirmed by each Credit Party. Each Credit Party hereby agrees that the amendments and modifications herein
+contained shall in no manner affect or impair the liabilities, duties and obligations of any Credit Party under the Credit Agreement and the other Loan Documents or the Liens securing the payment and performance thereof. 
+7.2 Parties in Interest. All of the terms and provisions of this Amendment shall bind and inure to the benefit of the parties
+hereto and their respective successors and assigns.  7.3 Counterparts. This Amendment may be executed in one or more
+counterparts and by different parties hereto in separate counterparts each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument; signature pages may
+be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are physically attached to the same document. Delivery of an executed counterpart to this Amendment by facsimile or other electronic
+means shall be effective as delivery of manually executed counterparts of this Amendment.  7.4 Legal Expenses. Each
+Credit Party hereby agrees to pay all reasonable fees and expenses of counsel to the Administrative Agent incurred by the Administrative Agent in connection with the preparation, negotiation and execution of this Amendment and all related documents.
+ 7.5 Complete Agreement. THIS AMENDMENT, THE CREDIT AGREEMENT, AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL
+AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES. 
+7.6 Headings. The headings, captions and arrangements used in this Amendment are, unless specified otherwise, for convenience only
+and shall not be deemed to limit, amplify or modify the terms of this Amendment, nor affect the meaning thereof.  7.7
+Governing Law. This Amendment shall be construed in accordance with and governed by the law of the State of Texas.  7.8
+Severability. Any provision of this Amendment held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the
+validity, legality and enforceability of the remaining provisions hereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction. 
+7.9 Reference to and Effect on the Loan Documents. 
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Page 5
+
+
+
+
+
+ (a) This Amendment shall be deemed to constitute a Loan Document for all purposes and in all
+respects. Each reference in the Credit Agreement to this Agreement, hereunder, hereof, herein or words of like import, and each reference in the Credit Agreement or in any other Loan Document, or other
+agreements, documents or other instruments executed and delivered pursuant to the Credit Agreement to the Credit Agreement, shall mean and be a reference to the Credit Agreement as amended by this Amendment. 
+(b) The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of any Lender
+or the Administrative Agent under any of the Loan Documents, nor constitute a waiver of any provision of any of the Loan Documents.  [Remainder of Page Intentionally Blank. Signature Pages Follow.] 
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Page 6
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed as of
+the date first above written.   
+
+
+
+
+
+
+
+
+
+
+ BORROWER:  
+RANGE RESOURCES CORPORATION
+
+
+
+
+By:
+ 
+/s/ ROGER S. MANNY
+
+
+ 
+ Name: Roger S. Manny Title:
+Executive Vice President and Chief Financial Officer
+  
+
+
+
+
+
+
+
+
+GUARANTORS:
+
+
+
+ AMERICAN ENERGY SYSTEMS, LLC
+ENERGY ASSETS OPERATING COMPANY, LLC
+RANGE ENERGY SERVICES COMPANY, LLC
+RANGE OPERATING NEW MEXICO, LLC
+RANGE PRODUCTION COMPANY
+RANGE RESOURCES  APPALACHIA, LLC
+RANGE RESOURCES  MIDCONTINENT, LLC
+RANGE RESOURCES  PINE MOUNTAIN, INC.
+RANGE TEXAS PRODUCTION, LLC
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ ROGER S. MANNY
+
+
+ 
+ Name:    Roger S. Manny Title:     Executive Vice President of all of the
+                foregoing Guarantors
+  
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent, Issuing Bank and as a Lender
+
+
+
+
+By:
+ 
+/s/ JO LINDA PAPADAKIS
+
+
+ 
+ Name: Jo Linda Papadakis
+Title: Authorized Officer
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ ROYAL BANK OF CANADA, as a Co-Syndication Agent and as a Lender
+
+
+
+
+By:
+ 
+/s/ DON J. MCKINNERNEY
+
+
+ 
+ Name: Don J. McKinnerney
+Title: Authorized Signatory
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ BANK OF AMERICA, N.A., as a Co-Documentation Agent and as a Lender
+
+
+
+
+By:
+ 
+/s/ JEFFREY H. RATHKAMP
+
+
+ 
+ Name: Jeffrey H. Rathkamp
+Title: Managing Director
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, as a Co-Syndication Agent and as a Lender
+
+
+
+
+By:
+ 
+/s/ TOM BYARGEON
+
+
+ 
+ Name: Tom Byargeon Title:
+Managing Director
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ SHARADA MANNE
+
+
+ 
+ Name: Sharada Manne Title:
+Managing Director
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   WELLS FARGO BANK, NATIONAL
+ASSOCIATION, as a Co-Documentation Agent
+and as a Lender
+
+
+
+
+By:
+ 
+/s/ DAVID C. BROOKS
+
+
+ 
+ Name: David C. Brooks
+Title: Director
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ BANK OF MONTREAL, as a Co-Agent and as a Lender
+
+
+
+
+By:
+ 
+/s/ JIM DUCOTE
+
+
+ 
+ Name: Jim Ducote Title:
+Director
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ BARCLAYS BANK PLC, as a Co-Agent and as a Lender
+
+
+
+
+By:
+ 
+/s/ VANESSA A. KURBATSKIY
+
+
+ 
+ Name: Vanessa A. Kurbatskiy
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+BNP PARIBAS, as a Co-Agent and as a Lender
+
+
+
+
+By:
+ 
+/s/ RICHARD HAWTHORNE
+
+
+ 
+ Name: Richard Hawthorne
+Title: Director
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ MATHEW A. TURNER
+
+
+ 
+ Name: Mathew A. Turner
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CITIBANK, N.A., as a Co-Agent and as a Lender
+
+
+
+
+By:
+ 
+/s/ JOHN F. MILLER
+
+
+ 
+ Name: John F. Miller Title:
+Attorney-In-FACT
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ COMPASS BANK, as a Co-Agent and as a Lender
+
+
+
+
+By:
+ 
+/s/ UMAR HASSAN
+
+
+ 
+ Name: Umar Hassan Title:
+Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+ DEUTSCHE BANK TRUST COMPANY AMERICAS, as a Co-Agent and as a Lender
+
+
+
+
+By:
+ 
+/s/ MICHAEL GETZ
+
+
+ 
+ Name: Michael Getz Title:
+Vice President
+  
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/ EVELYN THIERRY
+
+
+
+
+ 
+Name: Evelyn Thierry
+
+
+ 
+Title: Director
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+NATIXIS, as a Co-Agent and as a Lender
+
+
+
+
+By:
+ 
+ /s/ DONOVAN BROUSSARD
+
+
+
+
+ 
+Name: Donovan Broussard
+
+
+ 
+Title: Managing Director
+  
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/ LIANA TCHERNYSHEVA
+
+
+
+
+ 
+Name: Liana Tchernysheva
+
+
+ 
+Title: Managing Director
+  
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+THE BANK OF NOVA SCOTIA, as a Co-Agentand as a Lender
+
+
+
+
+By:
+ 
+ /s/ TERRY DONOVAN
+
+
+
+
+ 
+Name: Terry Donovan
+
+
+ 
+Title: Managing Director
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+SUNTRUST BANK, as a Co-Agent and as a Lender
+
+
+
+
+By:
+ 
+ /s/ GREGORY C. MAGNUSON
+
+
+
+
+ 
+Name: Gregory C. Magnuson
+
+
+ 
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+UNION BANK, N.A., as a Co-Agent and as aLender
+
+
+
+
+By:
+ 
+ /s/ DAVID CARTER
+
+
+
+
+ 
+Name: David Carter
+
+
+ 
+Title: Investment Banking Officer
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+CAPITAL ONE, N.A., as a Lender
+
+
+
+
+By:
+ 
+ /s/ NANCY M. MAK
+
+
+
+
+ 
+Name: Nancy M. Mak
+
+
+ 
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+COMERICA BANK, as a Lender
+
+
+
+
+By:
+ 
+ /s/ JAMES A. Morgan
+
+
+
+
+ 
+Name: James A. Morgan
+
+
+ 
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+CREDIT SUISSE AG, Cayman Islands Branch, asa Lender
+
+
+
+
+By:
+ 
+ /s/ SHAHEEN MALIK
+
+
+
+
+ 
+Name: Shaheen Malik
+
+
+ 
+Title: Vice President
+  
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/ MICHAEL SPAIGHT
+
+
+
+
+ 
+Name: Michael Spaight
+
+
+ 
+Title: Accociate
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+KEYBANK NATIONAL ASSOCIATION, as aLender
+
+
+
+
+By:
+ 
+ /s/ CRAIG HANSELMAN
+
+
+
+
+ 
+Name: Craig Hanselman
+
+
+ 
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+SOCIÉTÉ GÉNÉRALE, as a Lender
+
+
+
+
+By:
+ 
+ /s/ JASON HENDERSON
+
+
+
+
+ 
+Name: Jason Henderson
+
+
+ 
+Title: Managing Director
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+UBS LOAN FINANCE LLC, as a Lender
+
+
+
+
+By:
+ 
+ /s/ MARY E. EVANS
+
+
+
+
+ 
+Name: Mary E. Evans
+
+
+ 
+Title: Associate Director
+  
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/ IRJA R. OTSA
+
+
+
+
+ 
+Name: Irja R. Otsa
+
+
+ 
+Title: Associate Director
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+U.S. BANK NATIONAL ASSOCIATION, as aLender
+
+
+
+
+By:
+ 
+ /s/ DARIA MAHONEY
+
+
+
+
+ 
+Name: Daria Mahoney
+
+
+ 
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+BANK OF SCOTLAND plc, as a Lender
+
+
+
+
+By:
+ 
+ /s/ KAREN WEICH
+
+
+
+
+ 
+Name: Karen Weich
+
+
+ 
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+BOKF, NA dba BANK OF TEXAS, as a Lender
+
+
+
+
+By:
+ 
+ /s/ MYNAN C. FELDMAN
+
+
+
+
+ 
+Name: Mynan C. Feldman
+
+
+ 
+Title: Senior Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+AMEGY BANK NATIONAL ASSOCIATION, asa Lender
+
+
+
+
+By:
+ 
+ /s/ C. WAKEFORD THOMPSON
+
+
+
+
+ 
+Name: C. Wakeford Thompson
+
+
+ 
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+THE FROST NATIONAL BANK, as a Lender
+
+
+
+
+By:
+ 
+ /s/ ALEX ZEMKOSKI
+
+
+
+
+ 
+Name: Alex Zemkoski
+
+
+ 
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+PNC BANK, NATIONAL ASSOCIATION, as aLender
+
+
+
+
+By:
+ 
+ /s/ DALE A. STEIN
+
+
+
+
+ 
+Name: Dale A. Stein
+
+
+ 
+Title: Senior Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+BRANCH BANKING AND TRUST, as a Lender
+
+
+
+
+By:
+ 
+ /s/ JEFF FORBIS
+
+
+
+
+ 
+Name: Jeff Forbis
+
+
+ 
+Title: Senior Vice President
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+CANADIAN IMPERIAL BANK OFCOMMERCE, NEW YORK AGENCY, as aLender
+
+
+
+
+By:
+ 
+ /s/ DOMINIC SORRESSO
+
+
+
+
+ 
+Name: Dominic Sorresso
+
+
+ 
+Title: Authorized Signatory
+  
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/ EOIN ROCHE
+
+
+
+
+ 
+Name: Eoin Roche
+
+
+ 
+Title: Authorized Signatory
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Signature Page
+
+
+
+
+
+ SCHEDULE 2.01  APPLICABLE PERCENTAGES AND COMMITMENTS   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Lender
+  
+Title
+  
+ApplicablePercentage
+ 
+ 
+Commitment
+ 
+
+
+
+ JPMorgan Chase Bank, N.A.
+  
+Administrative Agent
+  
+ 
+6.000000000
+% 
+ 
+$
+105,000,000
+  
+
+ Royal Bank of Canada
+  
+Co-Syndication Agent
+  
+ 
+6.000000000
+% 
+ 
+$
+105,000,000
+  
+
+ Bank of America, N.A.
+  
+Co-Documentation Agent
+  
+ 
+5.428571429
+% 
+ 
+$
+95,000,000
+  
+
+ Credit Agricole Corporate and Investment Bank
+  
+Co-Syndication Agent
+  
+ 
+4.857142857
+% 
+ 
+$
+85,000,000
+  
+
+ Wells Fargo Bank, National Association
+  
+Co-Documentation Agent
+  
+ 
+4.857142857
+% 
+ 
+$
+85,000,000
+  
+
+ Barclays Bank PLC
+  
+Co-Agent
+  
+ 
+4.285714286
+% 
+ 
+$
+75,000,000
+  
+
+ Compass Bank
+  
+Co-Agent
+  
+ 
+4.285714286
+% 
+ 
+$
+75,000,000
+  
+
+ Deutsche Bank Trust Company Americas
+  
+Co-Agent
+  
+ 
+4.285714286
+% 
+ 
+$
+75,000,000
+  
+
+ Natixis
+  
+Co-Agent
+  
+ 
+4.285714286
+% 
+ 
+$
+75,000,000
+  
+
+ The Bank of Nova Scotia
+  
+Co-Agent
+  
+ 
+4.285714286
+% 
+ 
+$
+75,000,000
+  
+
+ Suntrust Bank
+  
+Co-Agent
+  
+ 
+4.285714286
+% 
+ 
+$
+75,000,000
+  
+
+ Union Bank, N.A.
+  
+Co-Agent
+  
+ 
+4.285714286
+% 
+ 
+$
+75,000,000
+  
+
+ Bank of Montreal
+  
+Co-Agent
+  
+ 
+4.000000000
+% 
+ 
+$
+70,000,000
+  
+
+ BNP Paribas
+  
+Co-Agent
+  
+ 
+4.000000000
+% 
+ 
+$
+70,000,000
+  
+
+ Citibank, N.A.
+  
+Co-Agent
+  
+ 
+4.000000000
+% 
+ 
+$
+70,000,000
+  
+
+ Comerica Bank
+  
+
+  
+ 
+3.428571429
+% 
+ 
+$
+60,000,000
+  
+
+ Capital One, N.A.
+  
+
+  
+ 
+2.285714286
+% 
+ 
+$
+40,000,000
+  
+
+ Credit Suisse AG, Cayman Islands Branch
+  
+
+  
+ 
+2.285714286
+% 
+ 
+$
+40,000,000
+  
+
+ KeyBank National Association
+  
+
+  
+ 
+2.285714286
+% 
+ 
+$
+40,000,000
+  
+
+ U.S. Bank, National Association
+  
+
+  
+ 
+2.285714286
+% 
+ 
+$
+40,000,000
+  
+
+ Bank of Scotland plc
+  
+
+  
+ 
+2.285714286
+% 
+ 
+$
+40,000,000
+  
+
+ BOKF, NA dba Bank of Texas
+  
+
+  
+ 
+2.285714286
+% 
+ 
+$
+40,000,000
+  
+
+ The Frost National Bank
+  
+
+  
+ 
+2.285714286
+% 
+ 
+$
+40,000,000
+  
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Schedule 2.01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Lender
+  
+Title
+  
+ApplicablePercentage
+ 
+ 
+Commitment
+ 
+
+
+
+ Amegy Bank National Association
+  
+
+  
+ 
+2.000000000
+% 
+ 
+$
+35,000,000
+  
+
+ PNC Bank, National Association
+  
+
+  
+ 
+2.000000000
+% 
+ 
+$
+35,000,000
+  
+
+ Branch Banking and Trust
+  
+
+  
+ 
+2.000000000
+% 
+ 
+$
+35,000,000
+  
+
+ Canadian Imperial Bank of Commerce, New York Agency
+  
+
+  
+ 
+2.000000000
+% 
+ 
+$
+35,000,000
+  
+
+ Société Générale
+  
+
+  
+ 
+1.714285714
+% 
+ 
+$
+30,000,000
+  
+
+ UBS Loan Finance LLC
+  
+
+  
+ 
+1.714285714
+% 
+ 
+$
+30,000,000
+  
+
+ TOTAL
+  
+
+  
+ 
+100.0000000
+% 
+ 
+$
+1,750,000,000
+  
+
+  
+
+
+
+
+
+
+
+Range Resources Second Amendment
+  
+
+
+
+  
+Schedule 2.01
+
+
+

@@ -1,0 +1,294 @@
+
+EX-10.1
+2
+a12-8786_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+  
+
+
+Exhibit 10.1
+ 
+PURCHASE AND SALE AGREEMENT
+ 
+This Purchase and Sale Agreement (the Agreement) is entered into this 15th day of March, 2012 by and between  SEISMIC EXCHANGE, INC., a Louisiana Corporation, and/or one or more of its affiliates (hereinafter referred to as the Buyer), and GEOKINETICS, INC., a Delaware Corporation, and/or one or more of its affiliates (hereinafter referred to as the Seller).  Buyer and Seller do hereby agree as follows:
+ 
+1.     Sale and Purchase of Assets.
+ 
+1.1.    Assets.  On the terms of and subject to the conditions of this Agreement, at Closing, Seller agrees to sell, transfer and convey to Buyer, and Buyer agrees to purchase, receive, and accept from Seller, the assets as described below, free and clear of any claim, lien, security interest, charge or encumbrance, save and except for those encumbrances or obligations set forth in the Prior Licenses (as later defined herein).  Buyer shall remit the consideration set forth in Section 4 hereof, for all of Sellers ownership rights, title, and interest, including all license rights, in and to the following assets and rights (Assets):
+ 
+1.1.1.  Sellers proprietary 3D seismic data (hereinafter collectively referred to as the 3D Data)  comprising approximately 4,751 square miles, more or less, recorded onshore in the lower 48 states of the United States and Alaska, detailed on Exhibit A attached hereto; and
+ 
+1.1.2.  Sellers proprietary 2D seismic data (hereinafter collectively referred to as the 2D Data)  comprising approximately 644 linear miles, more or less, recorded in Alaska and onshore and offshore in the Gulf of Mexico, detailed on Exhibit A attached hereto.
+ 
+1.2.    Rights.  Sellers ownership rights, title and interest to the 3D Data and the 2D Data, (collectively referred to herein as the Data) including, without limitation, all of Sellers rights to: i) market, license, trade, exchange and sell the Data; ii) subject to the further terms set forth in Section 3, collect and receive any and all future license fees, commissions, revenues or other consideration generated from licenses of the Data; and iii) subject to the further terms set forth in Section 3, collect and receive any and all future transfer fees that are due or may hereinafter be due from licensees of the Data in respect of a sale or merger by such licensee.
+ 
+1.3.    Proposed or In Progress Data.  For a period of one (1) year from the Closing:
+ 
+1.3.1.  Buyer shall have the option (Option) to assume the acquisition of any additional 3D seismic data that is: i) currently or subsequently proposed by Seller; or ii) currently in progress by Seller, and such data adjoins, overlaps, attaches, or is on trend with Data conveyed hereunder (Proposed Survey).  Seller shall notify Buyer in writing of any such Proposed Survey and provide all pertinent details of such Proposed Survey sufficient to allow Buyer to make a determination regarding the exercise of this Option, and Buyer shall
+ 
+1
+
+
+
+
+
+
+ 
+have (30) days after receipt of such notification to respond in writing whether Buyer will exercise such Option.  In the event Buyer: i) exercises its Option to assume such Proposed Survey; and ii) in its sole discretion within one (1) year of exercise of such Option, determines that sufficient underwriting has been obtained in order to proceed with the Proposed Survey; then Buyer agrees to utilize Sellers acquisition crew to continue with such Proposed Survey and shall reimburse Seller for all reasonable costs for Sellers acquisition of such Proposed Survey plus a profit which shall be mutually agreed upon by Buyer and Seller.
+ 
+1.3.2.  Notwithstanding the forgoing, Buyer and Seller may mutually agree to enter into a joint venture (Joint Venture) to acquire a certain Proposed Survey referred to as the Ratliff 3D Survey and generally falling within the area circled on the map attached hereto as Exhibit B, which is currently being marketed by Seller and which overlaps 3D Data being acquired herein as well as data from the Newport 3D Survey which is owned by Seller and not included in this Agreement. Buyer and Seller shall mutually agree when sufficient underwriting has been obtained in order to proceed with the Joint Venture and shall participate in the Joint Venture on a 50/50 basis. The Joint Venture shall be structured so as to allow both parties to market and license the Ratliff 3D Survey and share revenues and expenses on a 50/50 basis.
+ 
+1.4.    Deliverables.  The Assets shall encompass all media, and copies thereof, versions, information, and other deliverables (the Deliverables) which are related to the Data and detailed on Exhibit C attached hereto, to the extent such Deliverables are reasonably available, and shall include any and all of Sellers underlying field data, intermediate processed versions, original processed versions, and reprocessed versions of the Data, whether such versions encompass all or a part of, or a processed merge of all or part of, the Data.  Such Deliverables shall be retrieved, packaged, and delivered to the Buyer at the Closing, as later defined herein.  All Data Deliverables shall be accompanied by both an electronic (digital) and paper inventory identifying the Data, the relevant media type, and the box/file location of each.  In the event Buyer should discover missing Deliverables, then Seller agrees to assist Buyer, upon reasonable request, with locating same.
+ 
+1.5.    Documents.  The Assets shall also include all reasonably available agreements, accounting and other records relating to: i) existing licenses or trades of the Data issued by Seller prior to the Closing as defined below (collectively referred to herein as Prior Licenses), which are listed on Exhibit D attached hereto; ii) any prior partners, rebates, liens, revenue interests, marketing agreements, or other encumbrances on the Data, since the commencement of acquisition of the Data; iii) any permits or acquisition, processing, participation or underwriting agreements; and iv) any parameter, inventory, and storage information related to the Data or the actual field acquisition and processing of such Data, collectively the Documents.  Such Documents shall be retrieved, packaged, and delivered to Buyer at Closing.  Seller shall further furnish Buyer with electronic versions of such information, where available.  In the event Buyer should
+ 
+2
+
+
+
+
+
+
+ 
+discover missing Documents, Seller agrees to assist Buyer, upon reasonable request, with locating same.
+ 
+2.     Liabilities Assumed.
+ 
+Buyer shall not assume or be required to pay, perform or assume any debt, obligation, expense or liability of Seller of any nature, whether absolute or contingent, arising out of Sellers: i) activities in acquiring or processing the Data; or ii) activities in marketing or licensing the Data arising prior to Closing.  Notwithstanding the foregoing, it is expressly agreed that Buyer shall assume and honor the obligations of Seller that may arise on or after the Closing date under Prior Licenses, provided, however that such assumed obligations shall extend only to those Prior Licenses for which a copy is provided to Buyer hereunder and shall be expressly limited to those obligations related to the use and/or access rights to the Data granted under such Prior Licenses.
+ 
+3.     Future Sales Revenue.
+ 
+From and after the Closing, Buyer shall make all decisions regarding, marketing, pricing, and licensing of the Data and be entitled to receive any license revenue, regardless of the form, including but not limited to transfer fees and license fees, generated and collected on the Data (License Revenue) save and except for certain excluded revenue and revenue sharing as set forth below.
+ 
+3.1.    Revenue Sharing.  Commencing on March 7, 2012 Seller shall be entitled to receive and retain certain revenues (Revenue Sharing) which shall be calculated based on gross License Revenue less a 10% marketing commission (Net Revenues) for a period of five (5) years from March 7, 2012 (Revenue Sharing Period) as follows:
+ 
+3.1.1.  Seller shall be entitled to receive and retain seventy five percent (75%) and Buyer shall be entitled to receive twenty five percent (25%) of any and all Net Revenues generated from March 7, 2012 until the earlier of: i) such time as Seller receives a total of $2,000,000 (Initial Revenue Share); or ii) expiration of the Revenue Sharing Period.  Buyer shall provide Seller with an accounting of all such transactions on or before the 15th day following the closing of the month in which the transaction took place.  Buyer agrees to remit Sellers seventy-five percent (75%) share to Seller on or before the 15th day following the closing of the month in which the monies are received by Buyer.
+ 
+3.1.2.  In the event Seller receives the Initial Revenue Share prior to the expiration of the Revenue Sharing Period, Seller shall then be entitled to receive and retain fifty percent (50%) and Buyer shall be entitled to receive fifty percent (50%) of any and all Net Revenues generated for the remainder of the Revenue Sharing Period.  Buyer shall provide Seller with an accounting of all such transactions on or before the 15th day following the closing of the month in which the transaction took place.  Buyer agrees to remit Sellers fifty percent (50%) share to Seller on or before the 15th day following the closing of the month in which the monies are received by Buyer.
+ 
+3
+
+
+
+
+
+
+ 
+Upon expiration of the Revenue Sharing Period, regardless of whether or not Seller received $2,000,000, Buyer shall have no further obligations to share revenue with Seller.
+ 
+3.2.    Excluded Revenue.  Revenue that is excluded from this Agreement shall include:
+ 
+3.2.1.  All revenue related to Sellers license to ConocoPhillips, if agreed in writing and signed by both Seller and ConocoPhillips on or before September 30, 2012, for a license encompassing all or a portion of the Key Creek North 3D Survey.
+ 
+3.2.2.  All revenue related to, or arising from, overriding royalty interests, working interests, or other interests of a similar nature.
+ 
+3.2.3.  All revenue related to Sellers settlement of the license transfer resulting from Samson Resources Corporations acquisition of Samson Investment Company, if agreed in writing and signed by both Seller and Samson Resources Corporation within 60 days of execution of this Agreement.
+ 
+3.2.4.  All revenues generated from the Ratliff 3D Survey in the Joint Venture shall be shared in accordance with the terms of Section 1.3.2.
+ 
+4.     Purchase Price.
+ 
+Purchase Price.  The purchase price (Purchase Price) for the Assets being purchased herein shall be Ten Million Dollars ($10,000,000), to be paid via wire transfer upon i) the delivery of the duly executed Bill of Sale (as defined below); ii) Release of Lien as defined below; and iii) delivery of the Data.
+ 
+5.     The Closing.
+ 
+5.1.    Closing.  The closing (the Closing) for the sale and purchase described in this Agreement shall occur on March 30, 2012 at 9:00 am, Houston time or such other time as the parties may mutually agree.
+ 
+5.2.    Documents to be Delivered by the Seller.  At the Closing, Seller will deliver to Buyer: i) a bill of sale in the form attached hereto as Exhibit E (Bill of Sale); ii) an effective and duly executed release of Assets from the lien described in Section 6.3(i) (Release of Lien); iii) the Deliverables set forth in Section 1.4; and iv) the Documents set forth in Section 1.5. It is a condition of the Closing that Seller provide Buyer with the Release of Lien
+ 
+5.3.    Transfer of Title.  Upon execution and delivery of the Bill of Sale, Buyer shall have 100% of Sellers right, title and interest in and to the Data, including the Deliverables, and shall make all decisions with regard to marketing, pricing and licensing the Data.
+ 
+5.4.    Further Assurances.  Seller shall from time to time on or before the second-year anniversary of Closing, without further consideration or cost to Seller, execute and deliver such further instruments of assignment and take such further action as Buyer may reasonably request in order to more effectively transfer the purchased Assets to Buyer.
+ 
+4
+
+
+
+
+
+
+ 
+6.     REPRESENTATIONS AND WARRANTIES OF SELLER
+ 
+Seller represents and warrants to Buyer that:
+ 
+6.1.    Organization and Existence.  The Seller is a corporation duly organized and in good standing under the laws of the State of Delaware and validly existing and in good standing in the State of Texas and has all requisite power to carry out its business as now conducted and to enter into and perform this Agreement.
+ 
+6.2.    Sellers Authority; Compliance.  Seller has the full power and authority to enter into and perform this Agreement in accordance with its terms; the execution, delivery, and performance of this Agreement by Seller have been duly authorized by all necessary parties.  The execution, delivery and performance of this Agreement by Seller shall not violate any contracts, licenses or agreements Seller has entered into with third parties, or any provisions of law applicable to Seller and will not conflict with, or result in the breach or termination of, or constitute a default under, any agreement(s), commitment or other instrument, or any order, judgment or decree, to which Seller is a party or by which Seller or any of its property (including the Data) is bound, and will not result in the creation of any claim, lien, security interest, charge or encumbrance upon the Data.
+ 
+6.3.    Title; Taxes.  Seller has 100% ownership of, and good and marketable title to the Data, free and clear of any claim, lien, charge, security interest or other encumbrance, save and except for (i) the security interest granted to secure those obligations currently outstanding pursuant to (a) that certain indenture, dated as of December 23, 2009, by and among Seller, Geokinetics Holdings USA, Inc., the guarantors party thereto and U.S. Bank National Association, as trustee, as supplemented and (b) that certain Amended and Restated Credit Agreement, dated as of August 12, 2011, among Seller, White Box Advisors LLC and the others lenders party thereto from time to time, as amended and (ii) those obligations imposed in the Prior Licenses assumed by Buyer under Section 1.5, as set forth herein.  There are no rebates, commissions, revenues or other sums due to any party or third party with respect to any of the Data, nor are there any third parties with any interest in any of the Data or entitled to any revenue, except as set forth in the Excluded Revenue as defined in Section 3.2.  There are no taxes of any nature due and payable to any governmental entity for any license or sale of the Data prior to the date hereof, nor are there any tax audits by any governmental authority pending or requested relating to license or sales of the Data.
+ 
+6.4.    Litigation.  There is no litigation, proceeding, governmental investigation, nor other injunction or decree pending, threatened or outstanding, against or relating to (i) Seller involving or regarding the Data, (ii) agreements or licenses relating to the Data, or (iii) ownership and title to the Data, and Seller does not know, or have any reason to know, of any reasonable basis for such litigation, proceeding, governmental investigation, or order, injunction or decree.
+ 
+5
+
+
+
+
+
+
+ 
+6.5.    Accuracy of Representations and Warranties.  THE REPRESENTATIONS AND WARRANTIES BY SELLER TO BUYER CONTAINED IN THIS AGREEMENT AND IN ANY CERTIFICATE OR INSTRUMENT INCORPORATED INTO THIS AGREEMENT ARE TRUE AND CORRECT AS OF THE DATE HEREOF.  NO REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, HOWEVER IS MADE BY SELLER TO BUYER AS TO THE ACCURACY, USEFULNESS, OR QUALITY OF THE DATA. OTHER THAN THE REPRESENTATIONS AND WARRANTIES CONTAINED IN SECTION 6 HEREIN, SELLER MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, TO BUYER WITH REGARD TO THE DATA AND OTHER ITEMS HEREIN TRANSFERRED TO BUYER, SUCH TRANSFERS BEING MADE AS-IS, WHERE-IS, WITH ALL FAULTS, WITHOUT WARRANTY AND EXPRESSLY DISCLAIMING ANY AND ALL WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  BUYER ACKNOWLEDGES THAT SELLER HAS NOT MADE, DOES NOT MAKE, AND SPECIFICALLY NEGATES AND DISCLAIMS ALL OTHER REPRESENTATIONS, WARRANTIES, PROMISES, COVENANTS, AGREEMENTS OR GUARANTIES OF ANY KIND OR CHARACTER WHATSOEVER, WHETHER EXPRESS OR IMPLIED, ORAL OR WRITTEN, OF, AS TO, CONCERNING, OR WITH RESPECT TO THE DATA AND BUYER EXPRESSLY COVENANTS TO SELLER THAT IT HAS NOT RELIED UPON ANY SUCH REPRESENTATIONS AND WARRANTIES AND HAS CONDUCTED ITS OWN INDEPENDENT DUE DILIGENCE WITH RESPECT TO THE NATURE AND VALUE OF THE DATA AND SELLERS INTEREST IN THE DATA.
+ 
+7.     REPRESENTATIONS AND WARRANTIES OF BUYER
+ 
+Buyer represents and warrants to Seller that:
+ 
+7.1.    Organization and Existence.  The Buyer is a corporation duly organized and in good standing under the laws of the State of Louisiana and validly existing and in good standing in the State of Texas and has all requisite power to carry out its business as now conducted and to enter into and perform this Agreement.
+ 
+7.2.    Buyers Authority:  Compliance.  Buyer has full power and authority to enter into and perform this Agreement in accordance with its terms; the execution, acceptance and performance of this Agreement by Buyer have been duly authorized by all members; neither the execution nor the compliance with the terms of this Agreement by Buyer will violate any provisions of law applicable to Buyer.
+ 
+8.     EXPENSES
+ 
+8.1.    Expenses.  Buyer and Seller shall each bear their own respective expenses in connection with the negotiation, preparation and performance of this Agreement.
+ 
+8.2.    Sales Taxes.  Seller shall be responsible for paying any state or local sales taxes incurred in connection with or as a result of the sale of assets pursuant to this Agreement.
+ 
+6
+
+
+
+
+
+
+ 
+9.     SURVIVAL OF REPRESENTATIONS; INDEMNIFICATION
+ 
+9.1.    Survival.  All statements contained in any instrument delivered by or on behalf of either party pursuant to this Agreement or in connection with the transactions contemplated by this Agreement shall be considered representations and warranties by such party to the other party with the same force and effect as if contained in this Agreement.  All representations, warranties, and agreements made by either party shall survive the Closing until the third anniversary of the Closing at which time they shall expire, save and except those terms and conditions contained in Sections 1, 2, 3, 6.2, 6.3, 6.4, 6.5, 7, 9, 10.6 and 10.8.
+ 
+9.2.    Indemnification by Seller.  Seller shall defend, indemnify, release, and hold harmless Buyer against any and all loss, liability, damage or expense (including reasonable fees and disbursements of counsel) that Buyer may suffer, sustain or become subject to as a result of: (i) any claim made against Buyer for any liabilities or obligations of Seller arising prior to Closing or arising after Closing that relates to liabilities or obligations retained by Seller herein, including any liabilities for taxes: (ii) any breach of any of the warranties, representations or agreements made by Seller; (iii) any loss, liability, damage or expense arising out of the actual field activities of Seller or its contractors to record the Data (including but not limited to actual physical damage to land or property or personal injury, including third parties, arising therefrom); (iv) any loss, liability, damage, or expense arising out of Sellers processing of the Data;  (v) any loss, liability, damage or expense, arising out of Sellers activities in marketing, licensing or otherwise providing the Data to third parties prior to the Closing, including any breach of Prior Licenses; and (vi) any claim against Buyer claiming infringement of trade secrets or intellectual property rights relating to Sellers acquisition of the Data.  In no event shall Sellers liability to Buyer for damages under the provisions of this Agreement and this indemnity exceed the sum of Twelve Million Dollars ($12,000,000).
+ 
+9.3.    Indemnification by Buyer.  Buyer shall defend, indemnify, release, and hold harmless Seller against any and all loss, liability, damage, or expense (including reasonable fees and disbursements of counsel) that Seller may suffer, sustain, or become subject to as a result of: (i) any breach of the warranties, representations or agreements made by Buyer; and (ii) the use, sale, licensing, examination, evaluation, interpretation, or operation of the Data, on and after the earlier to occur of: (a) Buyers taking possession of same or performance of activities relating to same; or (b) the Closing.  In no event shall Buyers liability to Seller for damages under this indemnity provision exceed the sum of Five Million Dollars ($5,000,000).
+ 
+9.4.    Participation in Defense of Claim.  If any claim is made against Seller that, if sustained, would give rise to a liability of Buyer, Seller shall promptly cause notice of the claim to be delivered to Buyer and shall afford Buyer and its counsel, the opportunity to join in the defense of the claim.  Buyer agrees that promptly upon receipt by it of notice of any demand, assertion, claim, action, or proceeding, judicial or otherwise, with respect to any matter as to which Seller has agreed to
+ 
+7
+
+
+
+
+
+
+ 
+indemnify Buyer under the provisions of this Agreement, Buyer shall give prompt notice thereof in writing to Seller, together, in each instance, with a statement of such information respecting such demand, assertion, claim, action, or proceeding as the Buyer shall then have.  Seller reserves the right to contest and defend, by all appropriate legal action, any demand, assertion, claim, action or proceeding with respect to which it has been called upon to indemnify Buyer under the provisions of this Agreement.
+ 
+10.  MISCELLANEOUS
+ 
+10.1.  Finders.  Buyer has not employed or utilized the services of any broker or finder in connection with this Agreement or the transactions contemplated by it.  Seller shall be responsible for any and all fees and charges associated with the services of any broker or finder employed or utilized by Seller in connection with this Agreement or the transactions contemplated by it.
+ 
+10.2.  Governing Law.  This Agreement shall be governed by and construed in accordance with the laws of the State of Texas applicable to agreements made and to be performed in the State of Texas, and venue shall be considered to be proper in Harris County, Texas.
+ 
+10.3.  Notices.  All notices, requests, demands and other communications under this Agreement shall be in writing and shall be deemed given when delivered personally or mailed by certified mail, return receipt requested, to the parties at the following addresses (or to such address as a party may have specified by notice given to the other parties pursuant to this provision).  If to Buyer, to John P. Havens, Seismic Exchange, Inc., 11050 Capital Park Drive, Houston, Texas 77041.  If to Seller, to Richard Miles, Geokinetics, Inc., 1500 CityWest Boulevard, Suite 800, Houston, Texas 77042.
+ 
+10.4.  Severability.  If any of the specific terms or conditions of this Agreement are held by any court of competent jurisdiction to be invalid or unenforceable under the laws of any political body having jurisdiction over the subject matter of this Agreement, that invalidity or unenforceability shall not invalidate the entire Agreement.  In the event any provision or portion of this Agreement is so declared invalid or unenforceable, Buyer and Seller shall promptly renegotiate in good faith, new provisions to eliminate such invalidity and restore this Agreement as nearly as possible to its original intent.
+ 
+10.5.  Waiver.  Any party may waive compliance by another with any provision of this Agreement, provided such waiver is in writing and signed by both parties.  The failure of any party to insist upon strict performance of any provision hereof shall not constitute a waiver of or estoppel against asserting the right to require such performance in the future, nor shall a waiver or estoppel in any one instance constitute a waiver or estoppel with respect to a later breach of a similar nature or otherwise.
+ 
+10.6.  Assignment; Successors and Assigns.  Buyer may not assign this Agreement or convey the rights, title and interests granted herein to any third party without the prior written consent of
+ 
+8
+
+
+
+
+
+
+ 
+Seller, provided, however, that Buyer may assign this Agreement, or convey the rights, title, and interest granted herein to a Buyer Affiliate, as defined herein, without notice or Sellers written consent.  A Buyer Affiliate shall mean any entity which: i) holds majority ownership or control of Buyer; ii) is under majority ownership or control by or with Buyer; or iii) maintains majority ownership or control by the individuals and family members who own or control Buyer.  Subject to the foregoing, this Agreement shall be binding upon and inure to the benefit of the successors and assigns of the Buyer.
+ 
+10.7.  Entire Agreement.  This Agreement (with its exhibits) contains, and is intended as, a complete statement of all the terms of the arrangements between the parties with respect to the matters provided for, supersedes any previous discussions, negotiations, communications, agreements and understandings between the parties with respect to those matters and cannot be changed or terminated orally.  The parties may, if mutually agreeable, amend this Agreement at any time provided such amendment is made in writing and attached hereto.
+ 
+10.8.  Confidentiality.  Except as may be required by applicable securities laws and stock exchange regulations, Seller and Buyer each shall not, without prior written consent of the other, disclose or publicize the financial terms, conditions, and details of this Agreement, other than to their respective counsel, public accountants, financial advisors, or key personnel of Seller and Buyer who are participating in the handling of this Agreement and the transfer of the Data and related assets.  Buyer and Seller acknowledge that, in connection with Buyers inspection of the Data and its sale to Buyer and in accordance with this transaction, Buyer may be exposed to confidential and/or proprietary business and technical information of Seller, including, but not limited to, information concerning Sellers and its Affiliates business and/or business relationships and Sellers technical information.  Buyer hereby acknowledges that said information shall remain the property of Seller and that Buyer will maintain said information as confidential and will not use said information except as explicitly set forth in this Agreement.  Buyer and Seller acknowledge that, in connection with this transaction, Seller may be exposed to confidential and/or proprietary business and technical information of Buyer, including, but not limited to, information concerning Buyers and its Affiliates business and/or business relationships and Buyers technical information.  Seller hereby agrees to maintain as confidential the financial and business structure of the Buyer and of this transaction.
+ 
+10.9.  Headings.  The headings contained herein are for convenience only and shall not be considered in interpreting or construing the same.
+ 
+10.10. Counterparts. This Agreement and the Bill of Sale may be executed in counterparts, each of which is deemed an original and together they constitute one and the same instrument, and/or by facsimile, electronic, digital or comparable signature, which shall be deemed by Buyer and Seller to be effective as an original manual signature.  An executed Agreement may also be transmitted via facsimile or electronic means.
+ 
+9
+
+
+
+
+
+
+ 
+EXECUTED this 15th day of March, 2012.
+ 
+ 
+
+
+
+SELLER:    
+
+     
+
+BUYER:       
+
+
+GEOKINETICS, INC.    
+
+     
+
+SEISMIC   EXCHANGE, INC.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+By:    
+
+/s/   Richard F. Miles    
+
+     
+
+By:    
+
+/s/   Edward R. Grady, Jr.       
+
+
+Name:    
+
+Richard   F. Miles    
+
+     
+
+Name:    
+
+Edward   R. Grady, Jr.       
+
+
+Title:    
+
+President &   CEO    
+
+     
+
+Title:    
+
+CFO         
+ 
+10
+
+
+
+
+
+
+

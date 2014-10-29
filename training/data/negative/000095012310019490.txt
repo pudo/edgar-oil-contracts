@@ -1,0 +1,1467 @@
+
+EX-10.G
+5
+d71173exv10wg.htm
+EX-10.G
+
+
+
+exv10wg
+
+
+
+
+
+
+
+
+
+Exhibit 10(g)
+
+
+
+FIFTH AMENDMENT TO SIXTH AMENDED
+AND RESTATED CREDIT AGREEMENT 
+
+
+
+
+     This Fifth Amendment to Sixth Amended and Restated Credit Agreement (this Fifth
+Amendment) is entered into effective as of the 22nd day of January, 2010 (the Effective
+Date), by and among Denbury Onshore, LLC, a Delaware limited liability company
+(Borrower), Denbury Resources Inc., a Delaware corporation (Parent), JPMorgan
+Chase Bank, N.A., as Administrative Agent (Administrative Agent), and the financial
+institutions parties hereto as Banks (Banks).
+
+
+W I T N E S S E T H
+
+
+
+     WHEREAS, Borrower, Parent, Administrative Agent, the other agents a party thereto and Banks
+are parties to that certain Sixth Amended and Restated Credit Agreement dated as of September 14,
+2006 (as amended, the Credit Agreement) (unless otherwise defined herein, all terms used
+herein with their initial letter capitalized shall have the meaning given such terms in the Credit
+Agreement); and
+
+
+     WHEREAS, pursuant to the Credit Agreement, Banks have made a Revolving Loan to Borrower and
+provided certain other credit accommodations to Borrower; and
+
+
+     WHEREAS, Parent and Borrower have advised Administrative Agent that DG&M intends to sell all
+of its Class A membership interests in Genesis Energy, LLC, a Delaware limited liability company
+and the successor by conversion to Genesis Energy (the Genesis Energy Equity Disposition)
+pursuant to that certain Purchase Agreement dated as of December 17, 2009, among Parent and DG&M,
+as selling parties, and Q Genesis Acquisition, LLC, as Buyer (the Genesis PSA), in order
+to effectuate a sale by Parent of its indirect ownership interests (represented by DG&Ms Class A
+membership interests) in Genesis Energy, LLC, which Genesis Energy Equity Disposition is prohibited
+by Section 9.2 and Section 10.5 of the Credit Agreement; and
+
+
+     WHEREAS, Parent and Borrower have advised Administrative Agent that (i) Genesis Energy, LLC is
+the sole general partner of Genesis Energy, L.P., a Delaware limited partnership (Genesis
+Energy LP), (ii) Genesis Energy LP has issued common units representing limited partnership
+interests in Genesis Energy LP (the Common Units), (iii) Genesis Energy, LLC owns
+2,829,055 Common Units (the Genesis Energy Common Units), (iv) Borrower owns 1,199,041
+Common Units (the Borrower Common Units, and together with the Genesis Energy Common
+Units, the Genesis Energy LP Common Units), and (v) pursuant to the Genesis PSA, on or
+prior to the closing of the Genesis Energy Equity Disposition Genesis Energy, LLC will distribute
+the Genesis Energy Common Units to a Credit Party (the Genesis Energy Common Units
+Transfer); and
+
+
+     WHEREAS, Parent and Borrower have advised Administrative Agent that after the Genesis Energy
+Common Units Transfer, Borrower and/or the other Credit Parties may sell the Genesis Equity LP
+Common Units (such sale, the Genesis Equity LP Common Units 
+
+
+1
+
+
+
+
+ 
+
+
+Disposition), which Genesis Equity LP Common Units Disposition is prohibited by
+Section 10.5 of the Credit Agreement; and
+
+
+
+     WHEREAS, Parent and Borrower have requested that the Administrative Agent and Banks (i) issue
+their consent to the Genesis Energy Equity Disposition and waive certain provisions of the Credit
+Agreement with respect to the Genesis Energy Equity Disposition and (ii) amend the Credit Agreement
+to (a) delete the provisions prohibiting the Genesis Energy Equity Disposition (or otherwise
+rendered untrue after giving effect thereto) and (b) permit the Genesis Equity LP Common Units
+Disposition; and
+
+
+     WHEREAS, subject to and upon the terms and conditions set forth herein, Banks have agreed to
+Parents and Borrowers requests.
+
+
+     NOW THEREFORE, for and in consideration of the mutual covenants and agreements herein
+contained and other good and valuable consideration, the receipt and sufficiency of which are
+hereby acknowledged and confessed, Parent, Borrower, Administrative Agent and Banks hereby agree as
+follows:
+
+Section 1. Amendments. In reliance on the representations, warranties, covenants and
+agreements contained in this Fifth Amendment, and subject to the satisfaction of the conditions
+precedent set forth in Section 3 hereof, the Credit Agreement shall be amended effective as
+of the Effective Date in the manner provided in this Section 1.
+
+
+
+     1.1 Additional Definitions. Section 2.1 of the Credit Agreement shall be amended to
+add thereto in alphabetical order the following definitions of Fifth Amendment,
+Genesis Energy LP and Genesis Energy LP Common Units, which shall read in full
+as follows:
+
+
+
+     Fifth Amendment means that certain Fifth Amendment to
+Sixth Amended and Restated Credit Agreement dated as of January 22,
+2010 among Borrower, Parent, Administrative Agent and Banks.
+
+
+
+     Genesis Energy LP means Genesis Energy, L.P., a
+Delaware limited partnership.
+
+
+
+     Genesis Energy LP Common Units means common units
+representing limited partnership interests in Genesis Energy LP
+owned at any time by one or more Credit Parties.
+
+
+     1.2 Amendment to Definitions. The definitions of Genesis Energy and
+Loan Papers contained in Section 2.1 of the Credit Agreement shall each be amended and
+restated to read in full as follows:
+
+
+
+     Genesis Energy means Genesis Energy, LLC, a Delaware
+limited liability company and successor by conversion to Genesis
+Energy, Inc., which is the general partner of Genesis.
+
+
+2
+
+
+
+
+ 
+
+
+
+
+     Loan Papers means this Agreement, the First
+Amendment, the Second Amendment, the Third Amendment, the Fourth
+Amendment, the Fifth Amendment, the Notes, each Facility Guaranty
+which may now or hereafter be executed, each Parent Pledge Agreement
+which may now or hereafter be executed, each Subsidiary Pledge
+Agreement which may now or hereafter be executed, the Existing
+Mortgages (as amended by the Amendments to Mortgages), all Mortgages
+now or at any time hereafter delivered pursuant to Section
+6.1, the Amendments to Mortgages, and all other certificates,
+documents or instruments delivered in connection with this
+Agreement, as the foregoing may be amended from time to time.
+
+
+     1.3 Amendment to Organizational Structure; Nature of Business Provision. Section 8.13
+of the Credit Agreement is hereby amended by deleting the reference therein to DG&M is a holding
+company owning one hundred percent (100%) of the issued and outstanding Equity in Genesis Energy..
+
+
+     1.4 Amendment to Business of Credit Parties Provision. Section 9.2 of the Credit
+Agreement is hereby amended by deleting the reference therein to DG&M will remain a holding
+company owning one hundred percent (100%) of the issued and outstanding Equity in Genesis Energy..
+
+
+     1.5 Amendment to Asset Dispositions Provision. Section 10.5 of the Credit Agreement
+is hereby amended as follows:
+
+
+
+     (a) by deleting the word and immediately following the words Genesis Transaction
+Documents at the end of clause (d) thereof and replacing it with a ,;
+
+
+
+     (b) by adding immediately after the word hereof at the end of the first sentence of
+Section 10.5 of the Credit Agreement a new clause (f) to read in full as follows: , and
+(f) the sale, transfer or other disposition of the Genesis Energy LP Common Units for cash
+consideration in an amount at least equal to the fair market value thereof (as determined by
+the Credit Parties in good faith); and
+
+
+
+     (c) by adding immediately after the words Closing Date at the end of the second
+sentence of Section 10.5 of the Credit Agreement a new proviso to read in full as follows:
+; provided, that the sale, transfer or other disposition of the Genesis
+Energy LP Common Units in accordance with clause (f) of this Section 10.5 shall not
+be prohibited hereby.
+
+Section 2. Limited Consent and Waiver. In reliance on the representations, warranties,
+covenants and agreements contained in this Fifth Amendment, and subject to the satisfaction of the
+conditions precedent set forth in Section 3 hereof, Required Banks hereby consent to
+consummation of the Genesis Energy Equity Disposition, and waive compliance by Parent and Borrower
+with Section 10.5 of the Credit Agreement to the extent, but only to the extent, that the Genesis
+Energy Equity Disposition violates such section of the Credit Agreement. The consent
+
+
+
+
+
+3
+
+
+
+
+ 
+
+
+
+
+
+to the consummation of the Genesis Energy Equity Disposition and waiver of compliance by Parent and
+Borrower with Section 10.5 of the Credit Agreement set forth in this Section 2 is a
+limited, one-time consent and waiver, and nothing contained herein shall obligate Banks to grant
+any additional or future consent or waiver with respect to, or in connection with, any provisions
+of the Credit Agreement or any other Loan Paper.
+
+
+Section 3. Conditions Precedent to Amendment. The amendments contained in Section
+1 hereof and the limited consent and waiver contained in Section 2 hereof are subject
+to the satisfaction of each of the following conditions precedent:
+
+
+
+     3.1 Counterparts. Administrative Agent shall have received counterparts hereof duly
+executed by the Borrower, Parent and Required Banks (or, in the case of any party as to which an
+executed counterpart shall not have been received, telegraphic, telex, or other written
+confirmation from such party of execution of a counterpart hereof by such party).
+
+
+     3.2 Genesis PSA. Administrative Agent shall have received from Borrower a true and
+complete copy of the fully-executed Genesis PSA, together with any disclosure schedules delivered
+pursuant thereto and evidence that on or prior to the closing of the Genesis Energy Equity
+Disposition Genesis Energy has distributed the Genesis Energy Common Units to a Credit Party, in
+each case in form and substance reasonably satisfactory to Administrative Agent.
+
+
+     3.3 No Material Adverse Effect. There shall not have occurred since December 31, 2008
+any events that, individually or in the aggregate, have had a Material Adverse Effect.
+
+
+     3.4 No Default. No Default or Event of Default shall have occurred which is
+continuing.
+
+
+     3.5 Other Documents. Administrative Agent shall have been provided with such
+documents, instruments and agreements, and Parent and Borrower shall have taken such actions, in
+each case as Administrative Agent may reasonably require in connection with this Fifth Amendment
+and the transactions contemplated hereby.
+
+Section 4. Representations and Warranties. To induce Banks and Administrative Agent to
+enter into this Fifth Amendment, Parent and Borrower hereby jointly and severally represent and
+warrant to Banks and Administrative Agent as follows:
+
+
+
+     4.1 Reaffirm Existing Representations and Warranties. Each representation and
+warranty of Parent and Borrower contained in the Credit Agreement and the other Loan Papers is true
+and correct in all material respects on the date hereof and will be true and correct in all
+material respects after giving effect to the amendments set forth in Section 1 hereof.
+
+
+     4.2 Due Authorization; No Conflict. The execution, delivery and performance by Parent
+and Borrower of this Fifth Amendment are within Parents and Borrowers corporate or organizational
+powers, have been duly authorized by all necessary action, require no action by or in respect of,
+or filing with, any governmental body, agency or official and do not violate or constitute a
+default under any provision of applicable law or any Material Agreement binding upon Parent,
+Borrower or their Subsidiaries or result in the creation or imposition of any Lien upon any of the
+assets of Parent, Borrower or their Subsidiaries except Permitted Encumbrances.
+
+
+4
+
+
+
+
+ 
+
+
+
+     4.3 Validity and Enforceability. This Fifth Amendment constitutes the valid and
+binding obligation of Parent and Borrower enforceable in accordance with its terms, except as (i)
+the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting
+creditors rights generally, and (ii) the availability of equitable remedies may be limited by
+equitable principles of general application.
+
+
+Section 5. Miscellaneous.
+
+
+
+     5.1 Reaffirmation of Loan Papers. Any and all of the terms and provisions of the
+Credit Agreement and the Loan Papers shall, except as amended and modified hereby, remain in full
+force and effect. The amendments contemplated hereby shall not limit or impair any Liens securing
+the Obligations, each of which are hereby ratified, affirmed and extended to secure the Obligations
+as they may be increased pursuant hereto.
+
+
+     5.2 Parties in Interest. All of the terms and provisions of this Fifth Amendment
+shall bind and inure to the benefit of the parties hereto and their respective successors and
+assigns.
+
+
+     5.3 Legal Expenses. Borrower hereby agrees to pay on demand all reasonable fees and
+expenses of counsel to Administrative Agent incurred by Administrative Agent in connection with the
+preparation, negotiation and execution of this Fifth Amendment and all related documents.
+
+
+     5.4 Counterparts. This Fifth Amendment may be executed in counterparts, and all
+parties need not execute the same counterpart; however, no party shall be bound by this Fifth
+Amendment until Parent, Borrower and Required Banks have executed a counterpart. Facsimiles shall
+be effective as originals.
+
+
+     5.5 Complete Agreement. THIS FIFTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN
+PAPERS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF
+PRIOR, CONTEMPORANEOUS OR ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS
+BETWEEN OR AMONG THE PARTIES.
+
+
+     5.6 Headings. The headings, captions and arrangements used in this Fifth Amendment
+are, unless specified otherwise, for convenience only and shall not be deemed to limit, amplify or
+modify the terms of this Fifth Amendment, nor affect the meaning thereof.
+
+
+     IN WITNESS WHEREOF, the parties hereto have caused this Fifth Amendment to be duly executed by
+their respective authorized officers on the date and year first above written.
+
+
+[Signature Pages to Follow]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    PARENT:
+
+DENBURY RESOURCES INC.,
+a Delaware corporation
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+    Chief Financial Officer 
+     
+
+
+     
+
+
+     
+    BORROWER:
+
+DENBURY ONSHORE, LLC,
+a Delaware limited liability company
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+    Chief Financial Officer 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+     Each of the undersigned (i) consent and agree to this Fifth Amendment, and (ii) agree
+that the Loan Papers to which it is a party shall remain in full force and effect and shall
+continue to be the legal, valid and binding obligation of such Person, enforceable against it in
+accordance with its terms.
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    DENBURY MARINE, L.L.C.,
+a Louisiana limited liability company
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+    Chief Financial Officer 
+     
+
+
+     
+
+
+     
+    DENBURY OPERATING COMPANY,
+a Delaware corporation
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+    Chief Financial Officer 
+     
+
+
+     
+
+
+     
+    TUSCALOOSA ROYALTY FUND LLC,
+a Mississippi limited liability company
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+    Chief Financial Officer 
+     
+
+
+     
+
+
+     
+    DENBURY GATHERING & MARKETING, INC.,
+a Delaware corporation
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+    Chief Financial Officer 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    DENBURY NEW FRONTIERS, LLC,
+a Delaware limited liability company
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+    Chief Financial Officer 
+     
+
+
+     
+
+
+     
+    DENBURY GREEN PIPELINE-TEXAS, LLC,
+a Delaware limited liability company
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+    Chief Financial Officer 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    ADMINISTRATIVE AGENT/BANK:
+
+JPMORGAN CHASE BANK, N.A.,
+as Administrative Agent and a Bank
+ 
+     
+
+     
+    By:  
+    /s/ Brian P. Orlando
+ 
+     
+
+     
+     
+    Brian P. Orlando 
+     
+
+     
+     
+    Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+FORTIS CAPITAL CORP.
+     
+
+     
+    By:  
+    /s/ Mei Wan Tong
+ 
+     
+
+     
+     
+    Mei Wan Tong 
+     
+
+     
+     
+    Director 
+     
+
+
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                             /s/ Greg Smothers
+ 
+     
+
+     
+     
+    Greg Smothers 
+     
+
+     
+     
+    Director 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+CALYON NEW YORK BRANCH
+ 
+     
+
+     
+    By:  
+    /s/ Mark A. Roche
+ 
+     
+
+     
+     
+    Mark A. Roche 
+     
+
+     
+     
+    Managing Director 
+     
+
+
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                            /s/ Sharada Manne
+ 
+     
+
+     
+     
+    Sharada Manne 
+     
+
+     
+     
+    Director 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+COMERICA BANK
+ 
+     
+
+     
+    By:  
+    /s/ V. Mark Fuqua
+ 
+     
+
+     
+     
+    V. Mark Fuqua 
+     
+
+     
+     
+    Senior Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+UNION BANK, N.A.
+ 
+     
+
+     
+    By:  
+    /s/ Alison Fuqua
+ 
+     
+
+     
+     
+    Alison Fuqua 
+     
+
+     
+     
+    Assistant Vice President 
+     
+
+
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                           /s/ Sean Murphy
+ 
+     
+
+     
+     
+    Sean Murphy 
+     
+
+     
+     
+    Senior Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+BANK OF AMERICA, N.A.
+ 
+     
+
+     
+    By:  
+    /s/ Stephen J. Hoffman
+ 
+     
+
+     
+     
+    Stephen J. Hoffman 
+     
+
+     
+     
+    Managing Director 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+BANK OF SCOTLAND PLC
+ 
+     
+
+     
+    By:  
+    /s/ Karen Weich
+ 
+     
+
+     
+     
+    Karen Weich 
+     
+
+     
+     
+    Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+COMPASS BANK
+ 
+     
+
+     
+    By:  
+    /s/ Christopher S. Parada
+ 
+     
+
+     
+     
+    Christopher S. Parada 
+     
+
+     
+     
+    Senior Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+WELLS FARGO BANK, N.A.
+ 
+     
+
+     
+    By:  
+    /s/ Thomas E. Stelmar, Jr.
+ 
+     
+
+     
+     
+    Thomas E. Stelmar, Jr. 
+     
+
+     
+     
+    AVP / Portfolio Manager 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+THE BANK OF NOVA SCOTIA
+ 
+     
+
+     
+    By:  
+    /s/ David G. Mills
+ 
+     
+
+     
+     
+    David G. Mills 
+     
+
+     
+     
+    Managing Director 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+KEYBANK NATIONAL ASSOCIATION
+ 
+     
+
+     
+    By:  
+    /s/ Todd Coker
+ 
+     
+
+     
+     
+    Todd Coker 
+     
+
+     
+     
+    AVP 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+U.S. BANK NATIONAL ASSOCIATION
+ 
+     
+
+     
+    By:  
+    /s/ Daria Mahoney
+ 
+     
+
+     
+     
+    Daria Mahoney 
+     
+
+     
+     
+    Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Fifth Amendment to Sixth Amended and Restated Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+ 
+
+
+
+
+

@@ -1,0 +1,2556 @@
+
+EX-10.1
+2
+d348276dex101.htm
+LOAN AGREEMENT DATED SEPTEMBER 29, 2008
+
+
+Loan Agreement dated September 29, 2008
+
+ 
+
+ Exhibit 10.1  LOAN AGREEMENT  AMONG 
+    1ST INTERNATIONAL
+BANK  as Lender  LAZARUS ENERGY LLC  as Borrower 
+and 
+JONATHAN PITTS CARROLL, SR.  LAZARUS ENERGY HOLDINGS LLC  as Guarantors 
+September 29., 2008 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 1
+ 
+
+
+
+
+
+
+ LOAN AGREEMENT 
+This Loan Agreement (this Agreement) is made and entered this 291-Alay of September, 2008, by and among 1st International Bank (Lender), Lazarus Energy LLC, a
+Delaware limited liability company (Borrower), and Jonathan Pitts Carroll, Sr. and Lazarus Energy Holdings LLC, a Delaware limited liability company (Guarantor, whether one or more). In the event the terms and provisions of
+this Agreement conflict with or are inconsistent with the provisions of the Loan Documents, as herein defined, the terms and provisions of this Agreement will control.  Article 1 Definitions.   
+
+
+ 
+1.1
+Certain Defined Terms. 
+Unless a particular term, word or phrase is otherwise defined or the context otherwise requires, capitalized terms, words and phrases
+used herein shall have the following meanings (all definitions that are defined in this Agreement in the singular to have the same meanings when used in the plural and vice versa): 
+Affiliate shall mean any Person controlling, controlled by or under common control with any other Person. For purposes of this
+definition, control (including controlled by and under common control with) means the possession, directly or indirectly, of the power to direct or cause the direction of the management and
+policies of such Person, whether through the ownership of voting securities or otherwise.  Agreement shall mean this
+Loan Agreement, as it may from time to time be amended, modified, restated or supplemented.  Annual Audited Financial
+Statements shall mean the annual audited financial statements of a Person, including all notes and supporting schedules thereto, for a fiscal year of such Person, which statements shall include, at a minimum, a balance sheet as of the end of
+such fiscal year, an income statement, a statement of cash flows, a profit and loss statement showing the result of operations for such fiscal year, and a reconciliation of surplus, each for such fiscal year, all setting forth in comparative form
+the corresponding figures from the previous fiscal year, all prepared in conformity with GAAP, accompanied by the auditors notes and audited with no qualifications and reported upon by a firm of independent certified public accountants
+acceptable to Lender which shall state, in writing, that such financial statements, in the opinion of such accountants present fairly the financial position of such Person as of the date thereof and the results of its operations for the period
+covered thereby in conformity with GAAP. Such statements shall include a statement by such accountants that in making the appropriate audit and/or investigation in connection with such report and opinion, such accountants did not become aware of any
+Default relating to the financial tests set forth in Section 4.2 hereof or, if in the opinion of such accountant any such Default exists, a description of the nature and status thereof. 
+Bankruptcy Code shall mean the United States Bankruptcy Code, as amended, and any successor statute. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 2
+ 
+
+
+
+
+
+
+ Business Day shall mean any day other than a Saturday or Sunday or a legal holiday on
+which commercial banks are authorized or required to close in Plano, Texas.  Closing Date shall mean September
+29, 2008.  Code shall mean the Internal Revenue Code of 1986, as amended, as now or hereafter in effect,
+together with all regulations, rulings and interpretations thereof or thereunder by the Internal Revenue Service. 
+Collateral means all Property, tangible or intangible, real, personal or mixed, now or hereafter subject to the Security
+Documents, as more particularly described in Exhibit A attached hereto.  Commercial Land shall mean that
+certain real property located at 11372 Highway 87 East, Nixon, Wilson County, Texas, as more particularly described on Exhibit A-1 attached hereto and made a part hereof. 
+Conditional Commitment shall mean United States Department of Agriculture Form 42793, Conditional Commitment (Business and
+Industry) issued on or about June 27, 2008 by RBS in connection with the Loan (Case No. 51-047-134321870), as same may be amended from time to time.  Construction Rider shall mean that certain Construction Rider To Loan Agreement attached hereto, as it may from time to time be amended, modified, restated or supplemented. The
+Construction Rider is hereby incorporated by reference herein.  Current Assets shall mean all assets which in
+accordance with GAAP would be included in current assets.  Current Liabilities shall mean all Debt which in
+accordance with GAAP would be included as current liabilities.  Current Ratio shall mean the ratio of
+Current Assets to Current Liabilities.  Debt shall mean and include, without duplication, (a) all items which in
+accordance with GAAP would be included on the liability side of a balance sheet on the date as of which Debt is to be determined (excluding capital stock, surplus, surplus reserves and deferred credits); (h) all guaranties, letter of credit,
+contingent reimbursement obligations and other contingent obligations in respect of, or any obligations to purchase or otherwise acquire, indebtedness of others, (c) the redemption amount with respect to any equity interest required to be
+redeemed, and (d) all indebtedness secured by any Lien existing on any interest of the Person with respect to which Debt is being determined in Property owned subject to such Lien whether or not the indebtedness secured thereby shall have been
+assumed; provided, that the term Debt shall not mean or include any indebtedness in respect of which monies sufficient to pay and discharge the same in full (either on the expressed date of maturity thereof or on such earlier date
+as such indebtedness may be duly called for redemption and payment) shall be deposited with a depository, agency or trustee acceptable to Lender in trust for the payment thereof. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 3
+ 
+
+
+
+
+
+
+ Debt to Worth Ratio shall mean for any period the ratio of Total Liabilities
+of the Borrower divided by the Tangible Net Worth of the Borrower.  Default shall mean an event which with notice or
+lapse of time or both would, unless cured or waived, become an Event of Default.  Disbursement Account shall mean a
+non-interest bearing account in Lenders or its designees name in a financial institution selected by Lender. 
+Environmental Claim means any third party (including Governmental Authorities and employees) action, lawsuit, claim or proceeding
+(including claims or proceedings at common law or under the Occupational Safety and Health Act or similar laws relating to safety of employees) which seeks to impose liability for (i) noise; (ii) pollution or contamination of the air,
+surface water, ground water or land or the cleanup of such pollution or contamination; (iii) solid, gaseous or liquid waste generation, handling, treatment, storage, disposal or transportation; (iv) exposure to Hazardous Substances;
+(v) the safety or health of employees; or (vi) the manufacture, processing, distribution in commerce or use of Hazardous Substances. An Environmental Claim includes, but is not limited to, a common law action, as well as
+a proceeding to issue, modify or terminate an Environmental Permit, or to adopt or amend a regulation to the extent that such a proceeding attempts to redress violations of an applicable permit, license, or regulation as alleged by any Governmental
+Authority.  Environmental Liabilities includes all liabilities arising from any Environmental Claim, Environmental
+Permit or Requirement of Environmental Law under any theory of recovery, at law or in equity, and whether based on negligence, strict liability or otherwise, including but not limited to: remedial, removal, response, abatement, investigative,
+monitoring, personal injury and damage to property or injuries to persons, and any other related costs, expenses, losses, damages, penalties, fines, liabilities and obligations, and all costs and expenses necessary to cause the issuance, reissuance
+or renewal of any Environmental Permit including attorneys fees and court COS is .  Environmental Permit means
+any permit, license, approval or other authorization under any applicable Legal Requirement relating to pollution or protection of health or the environment, including laws, regulations or other requirements relating to emissions, discharges,
+releases or threatened releases of pollutants, contaminants or hazardous substances or toxic materials or wastes into ambient air, surface water, ground water or land, or otherwise relating to the manufacture, processing, distribution, use,
+treatment, storage, disposal, transport, or handling of pollutants, contaminants or Hazardous Substances.  Environmental
+Reserve Account shall mean the reserve account established by virtue of that certain Environmental Reserve Agreement of even date herewith by and between the Borrower and the Lender. 
+Event of Default shall have the meaning assigned to it in Section 7.1 hereof. 
+Financing Statements means all such Uniform Commercial Code financing statements as Lender shall require, in Proper Form to give
+notice of and to perfect or continue perfection of Lenders Liens in all Collateral. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 4
+ 
+
+
+
+
+
+
+ GAAP shall mean, as to a particular Person, such accounting practice as, in the
+opinion of independent certified public accountants of recognized national standing, conforms at the time to generally accepted accounting principles, consistently applied. In addition, GAAP means those principles and practices (a) which are
+recognized as such by the Financial Accounting Standards Board; and (b) which are consistently applied for all periods after the Closing Date so as to reflect properly the financial condition, and results of operations and changes in financial
+position, of such Person. If any change in any accounting principle or practice is required by the Financial Accounting Standards Board in order for such principle or practice to continue as GAAP, all reports and financial statements required
+hereunder may be prepared in accordance with such change. Notwithstanding the foregoing, as to individuals only, GAAP means such accounting principles and practices as, in the opinion of such accountants, conform at the time to such
+individuals federal income tax basis of accounting, consistently applied.  Governmental Authority shall mean any
+foreign governmental authority, the United States of America, any State of the United States and any political subdivision of any of the foregoing, and any central bank, agency, department, commission, board, bureau, court or other tribunal having
+jurisdiction over Lender, Borrower, Guarantor, any Party or their respective Property.  Guaranty shall mean
+collectively all guaranties dated as of the Closing Date in Proper Form executed by the Guarantor in favor of Lender, as any of the same may from time to time be amended, modified, restated, supplemented or substituted. 
+Guarantor shall mean each of Jonathan P. Carroll and Lazarus Energy Holdings LLC, a Delaware limited liability company.
+ Hazardous Substance shall mean petroleum products, and any hazardous or toxic waste or substance defined or regulated
+as such from time to time by any law, rule, regulation or order described in the definition of Requirements of Environmental Law.  Improvements shall mean all buildings and other improvements now or hereafter placed on the Commercial Land, as well as all appurtenances, betterments and additions thereto; all and singular the
+rights, privileges, hereditaments, and appurtenances in any wise incident or appertaining to said Land and improvements, including, without limitation, any and all rights to the present or future use of waste water, waste water capacity, drainage,
+water or other utility facilities to the extent same pertain to or benefit said Land or the improvements located thereon, including, without limitation, all reservations of or commitments or letters covering any such use in the future whether now
+owned or hereafter acquired.  Key Agreements means all contracts, permits, licenses and other rights acquired by a
+Person or to which such Person is a party or by which such Person is bound and from time to time material to the ownership of assets or the operations of such Person.  Legal Requirement shall mean any law, statute, ordinance, decree, requirement, order, judgment, rule, or regulation (or interpretation of any of the foregoing) of, and the terms of any license or
+permit issued by, any Governmental Authority, whether presently existing or arising in the future, including, without limitation, any Requirements of Environmental Law. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 5
+ 
+
+
+
+
+
+
+ Lender means the Lender named in the first paragraph of this Agreement and its
+successors and assigns, in whole or in part.  Lien shall mean any mortgage, pledge, charge, encumbrance, security
+interest, collateral assignment or other lien whether based on common law, constitutional provision, statute or contract. 
+Loan shall mean the loan provided for in Section 2.1 hereof. 
+Loan Documents shall mean, collectively, the Note, the Guaranty, this Agreement, the Security Documents, the authorization
+agreement for automatic drafts (if required by Lender), and all other documents prepared and/or executed in connection with the Loan, each dated as of the Closing Date, and all instruments, certificates and agreements now or hereafter executed or
+delivered to Lender pursuant to any of the foregoing or in connection with the Obligations or any commitment regarding the Obligations, and all amendments, modifications, renewals, extensions, increases and rearrangements of, and substitutions for,
+any of the foregoing. The term Loan Documents shall also include each and every Affidavit of Borrower, Application for Advance, and Approved Budget, as those terms are defined in the Construction Rider. 
+Material Adverse Effect means a material adverse effect upon (a) the financial condition, business, operations, assets or
+prospects of the Borrower or Guarantor, (b) the ability of Borrower, Guarantor, or any other Party to perform its respective obligations under any of the Loan Documents or (c) the ability of Lender to enforce any of the Loan Documents
+against Borrower, Guarantor, or any other Party.  Maximum Rate shall mean, with respect to each holder hereof, the
+maximum nonusurious interest rate, if any, that at any time, or from time to time, may under applicable law be contracted for, taken, reserved, charged or received on the indebtedness evidenced by this Note under the laws which are presently in
+effect of the United States and the State of Texas applicable to such holder and such indebtedness or, to the extent allowed by law under such applicable laws of the United States of America and the State of Texas which may hereafter be in effect,
+which allow a higher maximum non-usurious interest rate than applicable laws now allow; provided, that in determining the Maximum Rate, due regard shall be given, to the extent required by applicable law, to any and all relevant payments, fees,
+charges, deposits, balances, agreements and calculations which may constitute or be deemed to constitute interest, or be deducted from principal to calculate the interest rate or otherwise affect interest rate determinations, so that in no event
+shall the Lender contract for, charge, receive, take, collect, reserve or apply, on the Note, any amount in excess of the maximum non-usurious rate of interest permitted by applicable law. To the extent that Texas law determines the Maximum Rate,
+the Maximum Rate shall be determined by utilizing the indicated rate ceiling from time to time in effect pursuant to the Texas Finance Code (V .T.0 .A. Finance Code Section 303.001 et seq.) (the Texas Finance Code) or
+such successor statute, as then in effect, governing usury. The Maximum Rate shall not be limited to the applicable rate ceiling in the Texas Finance Code or such successor statute if Federal laws or other state laws now or hereafter in effect and
+applicable to the Note (and the interest contracted for, charged and collected hereunder) shall permit a higher rate of interest.  Net Operating Income shall mean the gross income received by Borrower for the period in question, less the expenses incurred by Borrower that are allocable to such period computed without regard to
+taxes, depreciation, amortization, or interest on the Note but otherwise in accordance with GAAP. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 6
+ 
+
+
+
+
+
+
+ Net Worth shall mean Total Assets minus Total Liabilities. 
+Note shall mean that certain adjustable rate promissory note dated as of the Closing Date, the form of which is attached hereto
+and incorporated by reference herein as Exhibit B , made and executed by Borrower payable to the order of Lender in the original principal amount of Ten Million and 00/100 Dollars ($10,000,000.00), and all modifications, renewals,
+extensions, increases and rearrangements of, and substitutions for, such promissory note.  Obligations shall mean, as
+at any date of determination thereof, the sum of the following: (i) any and all sums, including principal, interest, expenses, Prepayment Consideration (as defined in the Note), court costs and attorneys fees called for in the Note,
+plus (ii) all other agreements, covenants, conditions, warranties, representations, liabilities, obligations and indebtedness of any Party now or hereafter created or incurred, in whole or in part, under this Agreement or any other Loan
+Document, plus (iii) all other debts of any kind and character now or hereafter owing by Borrower to the Lender and whether they be direct obligations arising out of a guaranty, endorsement, suretyship or otherwise, or whether they be
+joint, several or indirect, and whether they were heretofore or are hereafter purchased or acquired and any and all amendments, modifications, renewals, extensions, increases, or rearrangements in whole or in part of any of the above. Obligations
+herein shall not include those owed by any Guarantor herein outside those created by the Loan Documents.  Organizational
+Documents shall mean, with respect to a corporation, the certificate of incorporation, articles of incorporation and bylaws of such corporation; with respect to a limited liability company, the articles of organization, the limited liability
+company operating agreement and the regulations of such limited liability company; with respect to a partnership, the partnership agreement establishing such partnership and the certificate of limited partnership as to any limited partnership; with
+respect to a joint venture, the joint venture agreement establishing such joint venture; and, with respect to a trust, the instrument establishing such trust; in each case including any and all modifications thereof as of the date of the Loan
+Document referring to such Organizational Document and any and all future modifications thereof.  Parties shall mean
+Borrower, Guarantor, and any other party (other than Lender) executing any Loan Document.  Payment Reserve Account
+shall mean the reserve account established by virtue of that certain Payment Reserve Agreement of even date herewith by and between the Borrower and the Lender.  Person shall mean any individual, corporation, limited liability company, partnership, joint venture, joint stock association, business trust, other business entity, trust, unincorporated
+organization, Governmental Authority or any other form of entity.  Proper Form shall mean in form and substance
+reasonably satisfactory to Lender. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 7
+ 
+
+
+
+
+
+
+ Property shall mean any interest in any kind of property or asset, whether real,
+personal or mixed, tangible or intangible.  Quarterly Financial Statements shall mean the quarterly financial
+statements of a Person, including all notes and supporting schedules thereto, which statements shall include a business balance sheet, an income statement, a statement of cash flow, and any supporting statements for such quarter and for the fiscal
+year to date, all setting forth in comparative form the corresponding figures for the corresponding calendar quarter of the preceding year, prepared in accordance with GAAP and certified as fairly reflecting the financial condition of such Person as
+of the date thereof and for the period covered thereby, subject to normal year end adjustments, by the Chief Financial Officer or President of such Person.  RBS shall mean The United States of America acting by and through its agency, the Rural Business Cooperative Service, United States Department of Agriculture, or its successor agency. 
+RBS Documents shall mean all of the following duly executed by or on behalf of the parties thereto and in Proper Form: 
+Loan Note Guarantee (Form 4279-5)  Certificate of Incumbency (Form 4279-7)  Lenders Agreement (Form 4279-4)
+ and all amendments, modifications, renewals, extensions, increases and rearrangements of, and substitutions for, any of the foregoing.
+ RBS Guarantee shall mean that certain guaranty of the United States of America acting through RBS in the amount of
+ninety percent (90%) of the amount of the Note, said guaranty amount being Nine Million and 00/100 Dollars ($9,000,000.00).  RBS Guarantee Fee shall mean that certain fee imposed by RBS in the amount of two percent (2%) of the amount of the RBS Guarantee in connection with this Loan, said fee being One Hundred
+Eighty Thousand and 00/100 Dollars ($180,000.00).  Remedial Action shall mean any action necessary to ensure compliance
+with the Requirements of Environmental Law including, but not limited to, (i) the removal and disposal or containment (if containment is practical under the circumstances and is permissible within Requirements of Environmental Law) or
+monitoring of any and all Hazardous Substances at the Property; (ii) the taking of necessary precautions to protect against the release or threatened release of Hazardous Substances at, on, in, about, under, within or near the air, soil,
+surface water, groundwater or soil vapor at the Property or any public domain affected by the Property or any surrounding areas thereof; (iii) any action necessary to mitigate the usurpation of wetlands, pinelands or other protected land or
+reclaim the same or to protect and preserve wildlife species; (iv) any action necessary to meet the requirements of an environmental permit, and/or (v) any other action required to satisfy Requirements of Environmental Law imposed upon
+Borrower, the Property and/or any operation thereon by the Texas Commission on Environmental Quality.  Related Person
+shall mean any individual, corporation, organization or other entity that is an officer, director, stockholder, partner or employee of Borrower. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 8
+ 
+
+
+
+
+
+
+ Requirements of Environmental Law means all requirements imposed by any law
+(including for example and without limitation The Resource Conservation and Recovery Act and The Comprehensive Environmental Response, Compensation, and Liability Act), rule, regulation, or order of any Governmental Authority in effect at the
+applicable time which relate to (i) noise; (ii) pollution, protection or cleanup of the air, surface water, ground water or land; (iii) solid, gaseous or liquid waste generation, treatment, storage, disposal or transportation;
+(iv) exposure to Hazardous Substances; (v) the safety or health of employees or (vi) regulation of the manufacture, processing, distribution in commerce, use, discharge or storage of Hazardous Substances. 
+Residential Property shall mean that certain residential real property located at 3860 Woodside Road, Woodside, San Mateo County,
+California 94062, as more particularly described on Exhibit A-2, attached hereto and made a part hereof. 
+Rural Area shall mean all territory of a State that is not within the outer boundary of any city having a population of fifty
+thousand or more and its immediately adjacent urbanized and urbanizing area with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the
+United States.  Secretarys/ Members Certificate shall mean a certificate, in Proper Form, of the Secretary
+or an Assistant Secretary or a Member of a Person as to (a) the resolutions of the Board of Directors or other governing body of such Person authorizing the execution, delivery and performance of the documents to be executed by such Person;
+(b) the incumbency and signature of the officer of such Person executing such documents on behalf of such Person, and (c) the Organizational Documents of such Person. 
+Security Agreements shall mean (i) that certain Security Agreement dated as of the Closing Date executed by Borrower in favor
+of Lender covering, among other Property, all of the personal property generally described in Exhibit A hereto (save and except any Property leased by Borrower, as disclosed in writing to Lender), and (ii) that certain
+Assignment of Life Insurance as Collateral Security dated as of the Closing Date executed by Jonathan P. Carroll in favor of Lender covering, among other Property, a $5,000,000.00 life insurance policy on the life of Jonathan P. Carroll, together
+with any and all security agreements hereafter executed in favor of Lender in connection with, or as security for, the Obligations, as any of them may be amended, modified, restated or supplemented from time to time. 
+Security Documents shall mean this Agreement, the Security Agreements, the Guaranty, the Financing Statements and any and all
+other agreements, deeds of trust, mortgages, chattel mortgages, security agreements, pledges, guaranties, undertakings, subordination agreements and other instruments and financing statements now or hereafter executed and delivered by any Person
+(other than solely by Lender), as the same may be amended, modified, restated or supplemented from time to time, in connection with, or as security for the payment of the Obligations. 
+Tangible Net Worth shall mean as to Borrower total assets (valued at cost less normal depreciation), less (1) all intangibles
+and (2) all liabilities, all determined in accordance with GAAP. The term intangibles shall include (i) deferred charges, (ii) the amount of any write-up in the book value of any assets contained in any balance sheet
+resulting from revaluation thereof 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 9
+ 
+
+
+
+
+
+
+ or any write-up in excess of the cost of such assets acquired (excluding marketable securities) and
+(iii) the aggregate of all amounts appearing on the assets side of any such balance sheet for franchises, licenses, permits, patents, patent applications, copyrights, trademarks, trade names, goodwill, experimental or organizational expenses
+and other like intangibles.  Total Assets shall mean all assets of Borrower which in accordance with GAAP would be
+included in assets.  Total Liabilities shall mean the sum of all short-term note obligations, current
+maturities of long-term obligations due within the next fiscal year, open accounts due to trade, income taxes including current portion of deferred taxes, bank overdrafts, accrued expenses, long-term note obligations, bonds, debentures, mortgages,
+deferred portions of long-term debt, capital leases, subordinated debt, liability reserves and any other obligations of the Borrower.  UCC shall mean the Uniform Commercial Code of the State of Texas, or if the creation, perfection, and enforcement of any security interest granted in the Security Documents is governed by the laws
+of a state other than the State of Texas, then, as to the matter in question, the Uniform Commercial Code in effect in that state.  1.2 Miscellaneous. The words hereof, herein and hereunder and words of similar import when used in this Agreement shall refer to this Agreement as
+a whole and not to any particular provision of this Agreement.  Article 2 The Loan 
+2,1 The Loan. Subject to the terms and conditions of this Agreement, Lender agrees to make a loan to Borrower in an amount not to exceed
+Ten Million and 00/100 Dollars ($10,000,000.00) (the Loan).  2.2 Use of Proceeds. The proceeds of the Loan
+shall be used by Borrower as follows:   
+
+
+ 
+(a)
+approximately Four Million Three Hundred Thousand and 00/100 Dollars ($4,300,000.00) for the refinance of existing debt with Notre Dame Investors, Inc.;
+  
+
+
+ 
+(b)
+approximately Three Million and 00/100 Dollars ($3,000,000.00) for construction/renovation of the Commercial Land; 
+ 
+
+
+ 
+(c)
+approximately One Million Four Hundred Thousand and 00/100 Dollars ($1,400,000.00) for working capital; 
+ 
+
+
+ 
+(d)
+approximately Seven Hundred Fifty Thousand and 00/100 Dollars ($750,000.00) for professional service fees, RBS Guarantee fee, and Lender origination fee; and
+  
+
+
+ 
+(e)
+approximately Five Hundred Fifty Thousand and 00/100 Dollars ($550,000.00) for construction contingency. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 10
+ 
+
+
+
+
+
+
+ 2.3 Note. The Loan made by Lender to Borrower shall be evidenced by the Note to be executed
+and delivered by Borrower to Lender on the Closing Date. The Loan shall bear interest from time to time at the rate and be due and payable on the terms and conditions set forth in the Note and in this Agreement. 
+2.4 Security. The Obligations will be secured by the Security Documents which cover, without limitation, the following Collateral:
+(a) a first lien on the Commercial Land and Improvements; (h) a first lien on all personal property described on Exhibit A attached hereto and made part hereof for all purposes, as more fully set forth in the Security
+Agreements; (c) a Fourth lien on the Residential Property; and (d) an assignment of a $5,000,000.00 life insurance policy on the life of Jonathan P. Carroll.  Article 3 Conditions for Making the Loan  3.1 Conditions
+Precedent to Initial Advance. The obligation of Lender to make the initial advance under the Loan is conditioned upon and subject to all legal matters incident to the transactions hereby contemplated being reasonably satisfactory to
+Lender and Lenders legal counsel, and is further conditioned upon Lenders receipt of the following in Proper Form or the following conditions precedent having been otherwise fulfilled or waived: 
+ 
+
+
+ 
+(a)
+the Loan Documents and all other agreements, documents and instruments required by Lender to be executed and/or delivered at or prior to Closing, each duly executed
+where appropriate, and in Proper Form.   
+
+
+ 
+(b)
+a duly executed Secretarys/Members Certificate with respect to Borrower and any Party which is not a natural person. 
+ 
+
+
+ 
+(c)
+an opinion of counsel to Borrower and Guarantor in Proper Form.   
+
+
+ 
+(d)
+a list and summary of all pending or threatened litigation against Borrower and/or Guarantor, certified to by Guarantor and Borrower. 
+ 
+
+
+ 
+(e)
+evidence satisfactory to Lender that there has been no material deterioration in the Borrowers financial condition since the issuance of the Conditional
+Commitment.   
+
+
+ 
+(1)
+ evidence satisfactory to Lender that Borrower has Tangible Net Worth of at least twenty percent (20.0%) of Total Assets. At a minimum, such
+evidence will consist of a certification by an independent Certified Public Accountant acceptable to Lender that Borrower has a tangible balance sheet equity position of a minimum 20%, which certification will include a balance sheet of the
+Borrower as of the date required by Lender. Tangible balance sheet equity will be determined in accordance with GAAP and will not include subordinated debt or appraisal surplus. 
+ 
+
+
+ 
+(g)
+the RBS Guarantee Fee will be paid out of the initial Advance. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 11
+ 
+
+
+
+
+
+
+
+
+
+ 
+(h)
+complete professionally-prepared appraisal(s) acceptable to Lender in its sole discretion. Such appraisal(s) shall cover such Collateral as is required by Lender.
+  
+
+
+ 
+(i)
+the RBS Documents.   
+
+
+ 
+    
+insurance policies reflecting the insurance required by the Loan Documents. Without waiving the generality of the foregoing, Borrower will be required to provide Lender
+with evidence of fire and extended hazard insurance coverage acceptable to Lender, naming the Lender as loss payee, in an amount that is at least the lesser of the depreciated replacement value of the Collateral or the amount of the Loan, with
+endorsements as required by Lender and builders risk insurance acceptable to Lender. As used herein, the term hazard insurance includes, but is not limited to, fire, windstorm, lightning, hail, explosion, riot, civil commotion,
+aircraft, vehicle, marine, smoke, builders risk during construction, and property damage.   
+
+
+ 
+(k)
+at Lenders request, invoices and/or statements of bills owed or incurred or other evidence that advances are for purposes authorized under this Agreement.
+  
+
+
+ 
+(1)
+current financial statements of Borrower and Guarantor dated no earlier than thirty (30) days prior to the Closing Date. 
+ 
+
+
+ 
+(m)
+an environmental assessment satisfactory to Lender and RBS.   
+
+
+ 
+(n)
+a current certificate from the appropriate official of the state of organization of Borrower as to the existence and good standing of Borrower.
+  
+
+
+ 
+(a)
+a current certificate from the appropriate public official of each jurisdiction other than Borrowers state of organization as to the due qualification to do
+business and good standing of Borrower where such qualification is necessary to conduct Borrowers business in such jurisdiction.  12 Conditions Precedent to All Advances. The obligation of Lender to make any advance hereunder shall be subject to the further conditions precedent that on the date of each advance
+(a) the following statements shall be true (and each of the giving of the applicable Request for Advance and the acceptance by Borrower of the proceeds of such advance shall constitute a representation and warranty by Borrower that
+on the date of such advance such statements are true):   
+
+
+ 
+(i)
+The representations and warranties contained in Article 6 of this Agreement are correct in all material respects on and as of the date of such advance, before
+and after giving effect to such advance, and to the application of the proceeds therefrom, as though made on and as of such date; 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 12
+ 
+
+
+
+
+
+
+
+
+
+ 
+(ii)
+No event has occurred and is continuing, or would result from such advance or the application of the proceeds therefrom, which constitutes a Default or an Event of
+Default;   
+
+
+ 
+(iii)
+No law, regulation, order, judgment or decree of any Governmental Authority shall enjoin, prohibit or restrain, or impose or result in the imposition of any material
+adverse condition upon Lenders making the requested advance; and   
+
+
+ 
+(iv)
+evidence satisfactory to Lender that Borrower has Tangible Net Worth of at least twenty percent (20.0%) of Total Assets. At a minimum, such evidence will consist
+of a certification by an independent Certified Public Accountant acceptable to Lender that Borrower has a tangible balance sheet equity position of a minimum 20%, which certification will include a balance sheet of the Borrower as of the date
+required by Lender. Tangible balance sheet equity will be determined in accordance with GAAP and will not include subordinated debt or appraisal surplus.  (b) Lender shall have received such other approvals, opinions or documents as Lender may request, and  (c) Borrower and Contractor have satisfied all terms, conditions, and requirements set forth in the Construction Rider.  3.3 Borrowing Procedures. Within two (2) Business Days after satisfaction of all of  the conditions set forth in Section 3.1 above, Lender shall advance the proceeds of the Loan for the purposes set forth in Section 2.2, with any funds used for any purpose not
+supported by evidence of payment at the Closing Date deposited into the Disbursement Account to be further disbursed by Lender for the purposes set forth in Section 2.2 hereof. Interest shall begin to accrue on the Loan from the date
+advanced, whether that advance is to Borrower, an escrow agent, a third party or to the Disbursement Account. Borrower hereby grants to Lender a security interest in the Loan proceeds in the Disbursement Account. While a Default or Event of Default
+exists, Lender shall not be obligated to advance any funds from the Disbursement Account. From time to time, Borrower may request advances under the Loan by submitting to Lender a Request for Advance no later than two (2) Business
+Days preceding the date of the requested advance. Subject to the terms of this Agreement, Lender shall advance to Borrower or, at Lenders option, by joint payee checks or directly to the applicable third party, the amount requested; provided
+in no event, will the aggregate amount advanced under the Loan exceed the original principal amount of the Note.  3.4
+Advances for Construction. During construction of Improvements to the Commercial Land, the Construction Rider shall control advances and other requirements of the Loan. The provisions of the Construction Rider shall survive through
+maturity of the Loan. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 13
+ 
+
+
+
+
+
+
+ Article 4 Affirmative Covenants 
+Until payment in full of and satisfaction of all Obligations (unless full compliance with any of the following provisions has been waived
+in writing, signed by both Lender and Borrower or Guarantor, as the case may be), Borrower and Guarantor will do and, if necessary, cause to be done, each and all of the following: 
+4.1 Financial Statements and Information. Without request by Lender (unless otherwise indicated), furnish Lender the
+following documents, instruments, and information, in a form acceptable to Lender:   
+
+
+ 
+(a)
+Within thirty (30) days of the end of each fiscal quarter, Borrowers year-to-date Quarterly Financial Statements. 
+ 
+
+
+ 
+(b)
+Within one hundred twenty (120) days after the end of each fiscal year of Borrower, Borrowers Annual Audited Financial Statements, prepared in accordance
+with GAAP by an independent Certified Public Accountant acceptable to Lender and in a form acceptable to Lender. Along with the required Annual Audited Financial Statements, Borrower shall provide Lender with an annual report specifying the
+number of jobs and type (full/part time) that the Borrower has in its employment.   
+
+
+ 
+(c)
+Within one hundred twenty (120) days after the end of each calendar year, annual financial statements of Jonathan P. Carroll (on a form acceptable to Lender) as of
+December 31st of each year, which financial statements need to be reviewed and shall be certified and signed by said Guarantor as being true, correct and complete. 
+ 
+
+
+ 
+(d)
+Within one hundred twenty (120) days after the end of each fiscal year, annual reviewed financial statements of Lazarus Energy Holdings LLC (on a form reasonably
+acceptable to Lender), which financial statements need to be reviewed and shall be certified and signed by said Guarantor as being true, correct and complete in all material respects. 
+ 
+
+
+ 
+(e)
+Furnish Lender (and RBS, if requested) with copies of tax returns and accompanying schedules of Borrower and Guarantor, including Schedule C (if
+applicable), within 120 days after filing with the Internal Revenue Service, or in the case of extension (copies also to be provided), no later than 6 months after first filing due date. 
+ 
+
+
+ 
+(0
+Such other financial and other information concerning Borrower and Guarantor as Lender and/or RBS may reasonably request from time to time, including but limited to
+evidence that Borrower is current on all liabilities. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 14
+ 
+
+
+
+
+
+
+
+
+
+ 
+(g)
+Upon request of Lender, evidence of payment and discharge of all taxes, assessments and governmental charges or levies imposed on Borrower, Guarantor,
+their income or profits or any of their Property prior to the date on which penalties or liens attach thereto, provided, however, neither Borrower nor Guarantor shall be required to pay any such tax, assessment, charge, levy or claim the payment of
+which is being contested in good faith and by proper proceedings and against which adequate reserves have been set up in accordance with GAAP.   
+
+
+ 
+(h)
+Prompt written notice of all claims, actions or litigation, including, without limitation, all proceedings before any Governmental Authority affecting Borrower,
+Guarantor or the Property of either of them, except litigation or proceedings not materially affecting the financial condition of Borrower or Guarantor.   
+
+
+ 
+(i)
+Prompt written notice of the occurrence of any Default hereunder or any other event or occurrence which has had or can be expected to have a Material Adverse Effect.
+ 4.2 Financial Tests. Borrower shall have and maintain at all times as of the end of each fiscal quarter:
+  
+
+
+ 
+(a)
+a Debt to Worth Ratio not exceeding 3.4 to I.   
+
+
+ 
+(b)
+a Current Ratio of not less than 1 to I  4.3 Taxes, Existence, Property, Etc. At all times (a) pay when due all taxes and governmental charges of every kind upon Borrower or Guarantor or against its income, profits or Property,
+unless and only to the extent that the same shall be contested diligently in good faith and by proper proceedings and against which Borrower, or Guarantor, as the case may be has set up adequate reserves in accordance with GAAP and have in operation
+a depository plan for payment of future withholding taxes when required; (b) do all things necessary to preserve its existence, qualifications, rights and franchises in all jurisdictions where its Property or the nature of its business makes
+such licensing or qualification necessary; and (c) cause the Collateral and its Property necessary or appropriate to the conduct of its business to be protected, maintained and kept in good repair, ordinary wear and tear excepted, and make all
+replacements and additions to its Property as may be necessary to conduct its business properly and efficiently. Notwithstanding the foregoing, the parties hereto acknowledge that the Residential Property is currently subject to Liens for unpaid
+taxes. The existence of such taxes will not be deemed to be a Default under the Loan at this time; however Borrower and Guarantor agree that all amounts due and owing to the taxing authorities must be paid in full prior to any foreclosure sale of
+the Residential Property.  4.4. Legal Requirements. Comply with, and provide Lender (if requested) with reasonable
+evidence of compliance with, all applicable legal requirements in respect of the conduct of its business and the ownership of its Property, including, without limitation, the following: 
+ 
+
+
+ 
+(a)
+Requirements of Environmental Law.   
+
+
+ 
+(b)
+all equal opportunity and nondiscrimination requirements as more fully set out in RBS Instruction 4279A, 4279B and 4287B. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 15
+ 
+
+
+
+
+
+
+
+
+
+ 
+(c)
+all requirements under Clean Air Act and Water Pollution Control Act as more fully set out in RBS Instruction 4279A, 4279B and 4287B. 
+ 
+
+
+ 
+(d)
+all federal, state and/or local laws and regulations, as well as any and all requirements contained in RBS Instruction 4279A, 4279B and 4287B. 
+ 
+
+
+ 
+(e)
+The Americans with Disabilities Act.  4.5 Inspection. Permit Lender and/or RBS, as well as any accompanying personnel, at any time to enter upon the Commercial Land and inspect its Property (including, but not limited to, the
+Collateral), to examine its files, books and records except privileged communication with legal counsel and classified governmental material, and make and take away copies thereof, and to discuss its affairs with its officers and accountants, all
+during normal business hours and at such intervals and to such extent as Lender or RBS may desire. RBS personnel and any person(s) accompanying RBS personnel shall be authorized to enter upon the premises and into any building thereon, whether
+permanent or temporary, jointly or separately, with personnel of the Lender to carry out the functions involving their interests. Scheduled and unscheduled inspections shall be conducted during normal business hours by these personnel as well as
+final acceptance inspections.  4.6 Further Assurances. Promptly execute and deliver, at Borrowers expense, any
+and all other and further instruments which may be requested by Lender to cure any defect in the execution and delivery of any Loan Document in order to effectuate the transactions contemplated by the Loan Documents, and in order to grant, preserve
+protect and perfect the validity and priority of the Liens created by the Security Documents.  4.7 Books and
+Records. Maintain books of record and account in such detail, form and scope as Lender and/or RBS shall require and in accordance with GAAP.  4.8 Insurance. Borrower will maintain at Borrowers sole expense insurance with such insurers, on such of its Property, with responsible companies in such amounts, with such deductibles and
+against such risks as may be required by Lender and furnish Lender satisfactory evidence thereof promptly upon request. Without limiting the generality of the foregoing, Borrower will maintain the hazard insurance described in Section 3.1(j),
+above, and workers compensation insurance in compliance with all Legal Requirements.  4.9 Cultural Materials. If
+cultural materials are encountered during any construction or other activity, work must cease in the immediate area of discovery. Work may continue in the project area where no cultural materials are present, with the written approval from the RBS.
+Upon discovery of any cultural materials, the Borrower must immediately notify the consultant engineer, the Texas Historical Commission [(512) 463-5867], and the USDA Rural Development State Environmental Coordinator [(254) 742-9785]. 
+4.10 Protection of Collateral. Lender may at any time after notice to Borrower take such steps as Lender deems necessary to
+protect Lenders interest in and to preserve the Collateral. Borrower agrees to cooperate fully with all of Lenders efforts to preserve the Collateral and will take such actions to preserve the Collateral as Lender may direct. All of
+Lenders expenses of preserving the Collateral shall be charged to Borrowers account and added to the Note. Upon the occurrence and continuation of an Event of Default, Lender may use any of Borrowers owned or leased lifts, hoists,
+trucks or other facilities or equipment for handling or removing the Collateral and Lender shall have, and is hereby granted, a right of ingress or egress to and through any of Borrowers owned or leased Property. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 16
+ 
+
+
+
+
+
+
+ 4.11 Rural Areas. Borrower will utilize all Loan proceeds in improving, developing or
+financing business, industry and employment and improving the economic or environmental climate in a Rural Area.  4. 12 Rural
+Development Instructions. Borrower and Guarantor certify and represent that they understand, accept, and will comply with all of the conditions of the Conditional Commitment. 
+4.13 Escrow Fund Upon an Event of Default which remains uncured after the expiration of any applicable cure period, and at the
+option of Lender, Lender may require Borrower to establish an Escrow Fund (defined below) sufficient to discharge its obligations for the payment of taxes, insurance premiums, and maintenance as required by the Mortgage/Deed of Trust in an amount
+equal to one hundred five percent (105%) of the total of these payments. The initial deposits together with the amounts set forth in this subsection shall be called the Escrow Fund Initial deposits for taxes, premiums, and
+maintenance shall be made by Borrower to Lender in amounts determined by Lender in its sole and exclusive discretion on the date hereof to be held in Lenders Escrow Fund. Additionally, Borrower shall pay to Lender or its designee on the first
+day of each calendar month: (a) one twelfth of an amount which would be sufficient to pay the taxes payable, or estimated by Lender to be payable, upon the due dates established by the appropriate taxing authority during the ensuing twelve
+(12) months; (b) one-twelfth of an amount which would be sufficient to pay the insurance premiums due for the renewal of the coverage afforded by the policies upon the expiration thereof; and (c) one-twelfth of an amount which would
+be sufficient to pay all costs associated with maintenance and upkeep of building, grounds, equipment, and all other property which needs to be maintained in the ordinary course of business (CAM). Borrower shall notify Lender immediately
+of any changes to the amounts, schedules and instructions for payment of taxes, insurance premiums, and CAM of which it has obtained knowledge and expressly authorizes Lender or its designee to obtain the bills for taxes and other charges directly
+from the appropriate authority. The Escrow Fund and the payments of interest or principal, or both, payable pursuant to the Note, shall be added together and shall be paid as the aggregate sum by Borrower to Lender. Provided there are sufficient
+amounts in the Escrow Fund and no Default or an Event of Default exists, Lender shall be obligated to pay on behalf of Borrower the taxes, insurance premiums and CAM as they become due on their respective due dates by applying the Escrow Fund to the
+payment of such taxes, insurance premiums, and CAM required to be made by Borrower hereunder. If the amount of the Escrow Fund shall not be sufficient to pay the amounts due for taxes, insurance premiums, and CAM herein, Borrower shall
+promptly pay top Lender, upon demand, an amount which Lender shall estimate to make up the deficiency. The Escrow Fund shall constitute a separate fund and shall not be commingled with other monies held by Lender. No interest or earnings shall be
+payable to Borrower on the Escrow Fund.  4.14 Copies of Leases. Borrower and Guarantor shall provide Lender with
+true, correct, and complete copies of any and all leases relating to the Collateral, if any. Borrower shall also provide Lender with such other and further information regarding such leases as Lender may request. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 17
+ 
+
+
+
+
+
+
+ 4.15 Fidelity Bond. Borrower will provide Lender with evidence of one or more
+fidelity bonds, in a form and with such issuer acceptable to Lender, covering all Persons who have access to any funds of Borrower, as determined by Lender and/or RBS in their sole discretion. Such bonds) shall be in an amount acceptable to Lender
+and RBS, but in no event less than the maximum amount of funds on hand at any time.  4.16 [RESERVED] 
+4.17 In accordance with the Phase I and Phase II Environmental Site Assessments report dated November 30, 2006 and February 7,
+2007, respectively, and the Addendum to these reports, dated June 13, 2008, completed by Enercon Services, Inc., 1700 West Loop South, Suite 825, Houston, Texas 77027, Borrower will implement and maintain all of the recommended mitigation
+measures in order to avoid any adverse environmental impact to the Commercial Land including, but not limited to all of the following mitigation measures: (a) New, sophisticated equipment to minimize emissions and effectively treat effluents,
+such as low NOx burners on the heaters, scrubbing systems for vent gases to reduce SOx emissions, and state-of-the-art wastewater treatment systems; (b) Efficient waste management and overall good housekeeping, such as safe, effective disposal
+of waste carbon, neutralization of spent caustics, and smart procedures to reduce human waste; (c) Regularly-scheduled equipment maintenance to ensure overall plant efficiency and minimal excess waste or emission; (d) Use of experienced,
+certified contractors to manage removal of hazardous substances; and (e) Regular audits to ensure compliance with Texas Commission on Environmental Quality issued permits. 
+4.18. The following environmental concerns relating to the Commercial Land have been raised: 
+ 
+
+
+ 
+(a)
+A three-sided metal shed with dirt floor contained nine (9) drums containing unknown materials. Several drums were rusted with holes and were stored on old wood
+pellets. Staining was observed on the soil and wood pallets under the drums. Numerous glass jars containing an unknown powder mixture were observed in and around, a plastic garbage container. Some jars were broken. Rusted containers (approximately
+five-gallon size) had leaked unknown substances onto the soil. Sulfur powder and potters were observed on the soil and in 25 gallon plastic and garbage cans. Approximately twenty five (25) three-gallon, plastic containers of aqueous film
+forming foam (defoamer) were observed on a sheet metal surface. The defoamer containers appeared in good condition.   
+
+
+ 
+(b)
+The elevated RCRA-8 metals include arsenic, cadmium, lead, selenium and silver are higher than the applicable TRRP Tier 1 PCL or Texas-Specific Background
+Concentration.  With respect to the concern stated in 4.18 (a), above, Borrower agrees that the wastes stored in
+the above mentioned storage must be properly identified and shipped off-site for proper waste disposal. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 18
+ 
+
+
+
+
+
+
+ The elevated RCRA-8 metals referenced in 4.18 (b), above, include arsenic,
+cadmium, lead, selenium and silver are higher than the applicable TRRP Tier 1 PCL or Texas-Specific Background Concentration. These high levels must be reported to the Texas Commission on Environmental Quality (TCEQ) and a copy of the No Further
+Action Report from the TCEQ, or other such correspondence as may be deemed appropriate by Lender and RBS, must be forwarded to the Lender upon receipt Borrower will initiate the process of obtaining the required No Further Action Report
+immediately and will forward it to the Lender and RBS upon completion.  In the event that the cost of the
+required remediation measures exceeds the amount held in the Environmental Reserve Account, any additional remediation expenses will be paid by the Borrower.  All wastes and stained soils on the Commercial Land must be reported to the Texas Commission on Environmental Quality (TCEQ) and a copy of the TCEO Response Action Completion Report, or other such
+correspondence as may be deemed appropriate by Lender and RBS, must be forwarded to the Lender upon receipt. 
+All mitigation measures required or needed in order to resolve these environmental concerns must be taken by Borrower to
+the satisfaction of Lender.  4.19 Payment Reserve. Borrower shall place $1,000,000.00 into a Payment Reserve Account
+with Lender, and will be held by Lender as a payment reserve to be drawn upon by Lender in the event that Borrower fails to timely make any payment required under the Loan. In the event that any funds are withdrawn from the Reserve Account pursuant
+to this Agreement and/or the Reserve Agreement, Borrower must replenish the full amount so withdrawn within ninety (90) days thereafter, plus interest at the Note rate. The Reserve Account will remain in place for the life of the Loan, unless
+otherwise approved by both Lender and RBS.  4.20 Environmental Reserve. Borrower shall place $195,000.00 into an
+Environmental Reserve Account with Lender, and will be held by Lender as a reserve to be drawn upon by Borrower, in accordance with the terms of Borrowers agreement with Lender, as necessary, to satisfy any environmental remediation measures
+required by the RBS and/or the TCEQ.  4.21 Air Quality Compliance. Borrower will comply, and remain in compliance during
+the term of the Loan, with all of the twenty-one (21) items listed in Air Permit #81194, dated August 1, 2007, issued by the TCEQ. 
+Article 5 Negative Covenants  Until payment in full of and satisfaction of all Obligations, Borrower shall not, without prior express written consent of Lender and RBS, which consent will not be unreasonably withheld:
+
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 19
+ 
+
+
+
+
+
+
+ 5.1 Indebtedness. Create, incur or assume, directly or indirectly, or become or
+remain liable with respect to any Debt whether direct, indirect, contingent or otherwise, other than the Loan and Current Liabilities arising out of transactions in the ordinary course of Borrowers business. To the extent not already excluded
+under the term Current Liabilities, the prohibition in this Section 5.1 does not include the Borrowers current liability to Notre Dame Investors, Inc.  5.2 Contingent Liabilities. Directly or indirectly assume, guarantee, endorse or otherwise become liable upon, or agree to purchase or otherwise furnish funds for the payment of, the liability or
+obligation, including contingent liabilities or obligations, of any Person other than Borrower except for transactions in the ordinary course of Borrowers business.  5.3 Liens. Create, incur, assume or suffer to exist any Lien upon any of its Property now owned or hereafter acquired, except (i) Liens securing payment of the Note under this Agreement;(ii)
+purchase money security interests in equipment, provided the debt associated with same does not cause Borrower to be unable to satisfy the Financial tests described in Section 4.2 of this Agreement or otherwise create an event of default under
+the Loan Documents, (iii) mechanics , carriers, workmens, repairmens or other like Liens incurred in the ordinary course of business in respect of obligations which are not overdue or are being contested in good faith by
+appropriate proceedings, if adequate reserves with respect thereto are maintained in accordance with GAAP, and (iv) Liens set forth in Exhibit E attached hereto and made a part hereof. 
+5.4 Nature of Business. Engage in any business other than Borrowers principal business activity or a business
+activity which is directly related thereto, or change the nature or method of operation or its manner of conducting business in any material respect.  5.5 Loans to Affiliates. Make any loans or advances to any officer, director, shareholder, or Affiliate of Borrower or to Guarantor. 
+5.6 Mergers, Consolidations., Dispositions, Acquisitions, Investments. Liquidate or dissolve, form any new subsidiary or merge or
+consolidate with any corporation or other entity, or sell, lease, assign, transfer or otherwise dispose of (whether in one transaction or a series of transactions) all or substantially all of its assets, whether now owned or hereafter acquired; or
+acquire by purchase in any acquisitive corporate transaction or otherwise, all or substantially all of the assets of any corporation or other entity or make any investment in the assets of any corporation or other entity or business venture; or
+allow any changes, by sale of stock or otherwise, in the current equity ownership of Borrower.  5.7 Change of
+President or Chief Executive Officer. Make any change or substitution of the president or other chief executive officer of the Borrower without prior written notification to Lender and the execution by such new president or chief
+executive officer of a personal guaranty in form and substance satisfactory to Lender.  5.8 Capital Expenditures.
+During any fiscal year, make or incur any expenditures for acquiring or improving any real property, machinery, equipment, furniture or fixtures by purchase, lease purchase agreement or option the aggregate cost or annual rental of which is in
+excess of Five Hundred Thousand and No/100 Dollars ($500,000.00) except as may be acquired by, or improved with, the proceeds of the Loan. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 20
+ 
+
+
+
+
+
+
+ 5.9 Disposition of Assets. During any fiscal year, sell, lease or dispose of
+(whether in one or more transactions) in any manner any real property, machinery, equipment, furniture or fixtures, other than Collateral, and shall not sell or dispose of any Collateral except in accordance with Section 5.14 hereof.
+ 5.10 Redemptions, Dividends, Distributions. Redeem, retire or otherwise acquire, directly or indirectly, any shares of
+Borrowers capital stock or other equity interest, declare or pay any dividend on or in respect any shares of Borrowers capital stock or bonuses to officers or shareholders unless (1) after-tax profit was made in the preceding fiscal
+year, (2) the Borrower is and will remain in compliance with covenants of this Agreement and the Conditional Commitment, (3) all of the Borrowers debts are paid to a current status, and (4) prior written concurrence of the
+Lender and U.S.D.A. , or make any other distribution of any Property or cash to owners of an equity interest in Borrower (in their capacity as such) except as provided above.  5.11 New Management Practices. Implement any new management practices without the prior written consent of Lender.  5.12 Change of Name or Location. Change its name or the location of its chief executive office or principal place of business or the place where it keeps its books and records without
+the consent of Lender which shall not be unreasonably withheld.  5.13 Organizational Documents. Amend, modify, restate
+or supplement any of its Organizational Documents if such action could be expected to materially and adversely affect the Loan or any Obligation or the abilities of any of the Parties to perform their respective Obligations under any Loan Document.
+ 5.14 Collateral. Dispose of any of the Collateral, except for replacement of Collateral acquired in the normal course
+of business, or use the Collateral, permit the same to be used, for any unlawful purpose or in any manner inconsistent with the provisions or requirements of any insurance policy required in the Loan Documents, or allow any tangible Collateral to be
+moved from its current location, except in connection with the leasing of any said Collateral. Borrower further agrees that all payments of any kind from any sale, including but not limited to public or private, of any of the Collateral, will be
+made jointly payable to the Lender and the Borrower and shall be kept separate and distinct from other Property of the Borrower. All proceeds must be applied to the Obligations upon receipt of such proceeds. If the Collateral is evidenced by
+promissory notes or other instruments for the payment of money, Borrower, will, at the request of Lender, immediately deliver them to Lender, appropriately endorsed to Lenders order and regardless of the form of endorsement, Borrower waives
+presentment, demand, notice of dishonor, protest and notice of protest.  5.1 5 Compensation. Advance any monetary
+compensation, whether bonus, salary, dividends or any other compensation to any owner or officer of the Borrower, or any family member of any owner or officer of Borrower in excess of the aggregate of $200,000.00 per calendar year, without
+Lenders prior written consent. Notwithstanding anything herein to the contrary, no salaries, compensation and/or other like payments to officers and/or owners will be increased unless an after tax profit (excluding extraordinary and
+non-recurring gains) (as shown on the Annual Audited Financial Statements) was made in the preceding fiscal year and all of Borrowers Debt is paid to current status, the Borrower remains in compliance with the covenants of this Agreement and
+prior written concurrence of the Lender is obtained. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 21
+ 
+
+
+
+
+
+
+ 5.16 Key Agreements. Amend, modify or grant a waiver of any provision of any of the
+Key Agreements if such amendment, modification or waiver could have a Material Adverse Effect.  5.17 Additional Life
+Insurance. Without the prior written consent of Lender and RBS, purchase additional life insurance from Borrowers business assets or income.  5.18 Related Parties. Engage in any transactions with any Related Person except upon terms equally available in like transactions with other parties. 
+5.19 Gambling Activity. Borrower shall not derive more than ten percent (10%) of its annual gross revenue from gambling
+activity.  5.20 Loans From Affiliates. All loans from any officer, director, shareholder, or Affiliate of Borrower
+(Affiliate Loan) shall be subordinated to the Loan. Borrower will not make any payments on any Affiliate Loan without the prior written consent of Lender, which consent will be conditioned upon Lenders satisfaction that the Loan is
+current and in good standing, and any such payment will not have a Material Adverse Effect.  5.21 Cost Overruns. Allow
+any change or cost overrun on any contract or other commitment which will result in an additional cash flow expenditure and/or debt to the Borrower and/or request for a subsequent loan, either guaranteed or not. 
+Article 6 Representations and Warranties  To induce Lender to extend the credit and financial accommodations evidenced by the Loan Documents, Borrower and Guarantor each represents and warrants to Lender that: 
+6.1 Organization. Borrower is a limited liability company, validly existing and in good standing under the laws of the
+jurisdiction of its organization and has all requisite power and authority necessary in order for it to conduct its business and own its Properties. Borrower is in good standing and authorized to transact business under the laws of the State of
+Texas and of all other jurisdictions in which qualification is necessary in order for it to conduct its business and own its Property as conducted and owned in such jurisdictions. 
+6.2 Financial Statements. The financial statements of Borrower and Guarantor delivered to Lender fairly present the financial
+condition of the Borrower and Guarantor as of the date(s) of such financial statements for the period ended on such date all in accordance with GAAP, and since the date of such financial statements, no event has occurred which has had or is likely
+to have a Material Adverse Effect.  6.3 Enforceable Obligations., Authorization. The execution, delivery and performance of the Loan Documents to which Borrower is a party are within its corporate powers and have been duly authorized by all necessary corporate action of
+Borrower. Neither execution or delivery of any Loan Documents nor the fulfillment of or compliance with its terms will contravene or violate (i) Borrowers Organizational Documents, (ii) any Legal Requirement binding on or
+
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 22
+ 
+
+
+
+
+
+
+ affecting Borrower or Guarantor or (iii) any mortgage, indenture, contract, agreement or other
+instrument, or any judgment, order or decree binding upon Borrower or Guarantor. No authorization or approval or other action by, and no notice to or filing with, any franchisor, licensor, distributor, Governmental Authority, regulatory body, or
+other Person is required for the due execution, delivery and performance by Borrower or Guarantor of the Loan Documents to which each is a party. The Loan Documents to which each is a party have been duly executed and delivered and are legal, valid
+and binding obligations of Borrower and Guarantor, enforceable against each in accordance with their respective terms. The Improvements and the use of the Commercial Land and Improvements complies in all respects with applicable Legal Requirements.
+ 6.4 Contractual Obligations. Neither Borrower nor Guarantor has received notice nor has any actual knowledge that
+(i) it is in default in the performance, observance or fulfillment of any of the obligations, covenants or conditions contained in any contractual obligation, including, without limitation, franchise and distribution contracts, applicable to
+it, or (ii) any condition exists which, with the giving of notice or the lapse of time or both, would constitute such a default under such contractual obligations, in each case, except where such default or defaults, if any, will not have or is
+not likely to have a Material Adverse Effect, except as described on Exhibit C attached hereto and made a part hereof.  6.5 Litigation. There is no pending or, to the knowledge of Borrower or Guarantor, threatened action or proceeding affecting Borrower or Guarantor before any court, governmental agency or
+arbitrator, which has had or is likely to have an adverse effect on the financial position of Borrower or Guarantor or the results of operations of Borrower or any of their businesses or the ability of Borrower or Guarantor to perform its
+obligations under the Loan Documents, or would subject Borrower or Guarantor to any liability not fully covered by insurance, or would be required to be disclosed in the notes to any financial statements of Borrower or Guarantor prepared in
+accordance with GAAP, except as described on Exhibit D attached hereto and made a part hereof.  6.6 Title;
+Permits. Borrower has, and will maintain, licenses, permits, patents, patent applications, copyrights, trademarks, trademark applications, trade names, technology, processes, and franchise and distribution rights to continue to conduct its
+business as heretofore conducted by it. Borrower will maintain evidence of such licenses, permits, patents, patent applications, copyrights, trademarks, trademark applications, trade names, technology, processes, and franchise and distribution
+rights and provide such evidence to Lender upon request. Borrower has and will continue to have good and indefeasible title to its Property free and clear of all Liens other than as permitted by Section 5.3. No Liens exist as of the
+Closing Date upon or with respect to any Property of Borrower other than Liens permitted under Section 5.3  6.7
+Indebtedness. Except for trade payables arising and endorsements of negotiable instruments for collection, in each case, in the ordinary course of its business, and except as permitted under Section 5.1 of this Agreement, Borrower
+will not have, as of the Closing Date, (i) any obligation or liability (including, without limitation, contingent liabilities) which would have a Material Adverse Effect, (ii) any Debt for borrowed money other than the Obligations or
+(iii) any obligation to guarantee the obligations of any other Person. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 23
+ 
+
+
+
+
+
+
+ 6.8 Regulations G U and X. Borrower is not engaged in the business of extending
+credit for the purpose of purchasing or carrying margin stock (within the meaning of Regulations G, U or X issued by the Board of Governors of the Federal Reserve System), and no proceeds of any Loan will be used to purchase or carry any margin
+stock or to extend credit to others for the purpose of purchasing or carrying any margin stock or for any purpose which would be inconsistent with the provisions of Regulations G, U or X. 
+6.9 Company Structure. At least fifty-one percent (51%) of the outstanding interests in Borrower are owned by citizens of the
+United States or individuals who reside in the United States after being legally admitted for permanent residence.  6.10 No
+Untrue or Misleading Statements. The representations and warranties of Borrower, Guarantor and of each other Party to a Loan Document contained in the Loan Documents, and all certificates and other documents delivered pursuant to the
+terms thereof do not contain any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements contained herein or therein, in light of the circumstances under which they were made, not misleading.
+Neither Borrower nor Guarantor has intentionally withheld any material fact from Lender in regard to any matter which will have or is likely to have a Material Adverse Effect.  6.11 Investment Company Act; Public Utility Holding Company Act, Etc. Borrower is not subject to regulation under the Public Utility Holding Company Act of 1935, the Federal Power Act, the
+Interstate Commerce Act, the Investment Company Act of 1940, or any other Legal Requirements which limit the ability of Borrower to incur indebtedness or its ability to consummate the transactions contemplated hereby or by the other Loan Documents.
+ 6.12 Solvency. After giving effect to the consummation of the transactions evidenced by the Loan Documents, Borrower
+has capital sufficient to carry on its respective business and transactions and all businesses and transactions in which it is about to engage and is solvent and able to pay its respective debts as they mature; and Borrower owns Property having a
+value, both at fair valuation and at present fair salable value, greater than the amount required to pay its respective debts. 
+6.13 Legal Requirements. Borrower and Guarantor are in compliance with all Legal Requirements applicable to them or their
+respective business, the violation of which would have a Material Adverse Effect.  6.14 Environmental Matters. The
+operations of Borrower are in compliance with all applicable Requirements of Environmental Law, (i) none of the Properties of Borrower or Guarantor require any Remedial Action, other than such action as may be required by the matters revealed
+in the Phase I and Phase II Environmental Site Assessments report dated November 30, 2006 and February 7, 2007, respectively, and completed by Enercon Services, Inc., 1700 West Loop South, Suite 825, Houston, Texas 77027; (ii) to the
+knowledge of Borrower and Guarantor, there is not now on or in the Properties of Borrower or Guarantor: (A) any asbestos containing materials; (B) any underground or aboveground storage tanks (except as previously disclosed to Lender); or
+(C) any polychlorinated biphenyls (PCBs) used in hydraulic oils, electrical transformers or other equipment (except as previously disclosed to Lender); (iii) neither Borrower nor Guarantor has received or is otherwise aware of any notice
+or claim to the effect that Borrower or Guarantor is or may be liable in any respect to any Person as a result of the release or threatened release of Hazardous Substances into the environment, and (iv) neither Borrower nor Guarantor, nor any
+of their past or present Properties or operations, are subject to any 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 24
+ 
+
+
+
+
+
+
+ investigation, judicial or administrative proceeding, order, judgment, decree, settlement or other agreement
+respecting (x) any Requirements of Environmental Law, (y) any Remedial Action or (z) any Environmental Claim or Environmental Liabilities arising from the release or threatened release of Hazardous Substances into the environment
+except those disclosed in writing to Lender.  6.15 Taxes. Each of Borrower and Guarantor has filed (or has obtained a
+currently effective extension of time for the filing of), and will continue to timely file during the term of the Loan, all federal and all state, local and other tax returns and other reports which each is required by any Legal Requirement to
+file, and all taxes, assessments, fees and other governmental charges thereupon and upon their respective Property, assets, income and franchises which are shown in such returns or reports to be due and payable have been paid other than those
+taxes, fees, assessments and charges which are being contested pursuant to Section 4.3 hereof and such returns properly reflect the United States income, foreign taxes and/or state taxes of Borrower and Guarantor for the periods covered
+thereby. Neither Borrower nor Guarantor have any knowledge of any proposed tax assessment against Borrower or Guarantor that will have or is likely to have a Material Adverse Effect. Notwithstanding the foregoing, the parties hereto
+acknowledge that the Residential Property is currently subject to Liens for unpaid taxes. The existence of such taxes will not be deemed to be a Default under the Loan at this time; however Borrower and Guarantor agree that all amounts due and owing
+to the taxing authorities must be paid in full prior to any foreclosure sale of the Residential Property.  6.16 Use of
+Proceeds. Borrowers uses of the proceeds of the Loan are and will continue to be, legal and proper corporate uses (duly authorized by Borrowers Board of Directors, partners or members or managers, as applicable) in connection
+with Borrowers business and are consistent with this Agreement and all applicable Legal Requirements in effect from time to time. None of the proceeds of the Loan will be disbursed to the owner(s), partners, stockholders or
+beneficiaries of Borrower or any members of their families.  6.17 Security Interests. The Liens of Lender attaching to
+the Collateral will at all times constitute valid and enforceable first priority Liens in favor of Lender, subject to no prior Lien except for those prior liens noted on Collateral as set forth in Exhibit E hereto. Before any funding
+under the Note, Borrower and Guarantor will have taken or will have participated with Lender in taking, all necessary action and make all necessary filings to provide Lender with perfected, first priority Liens in the Collateral under the laws of
+all applicable jurisdictions. The Collateral is free from damage caused by fire or other casualty. Borrower and/or Guarantor, as applicable, has good and marketable title to and enjoy peaceful and undisturbed possession of all of the
+Collateral.  6.18 Business Loan. All loans evidenced by the Note are and shall be for business, commercial, investment
+or other similar purposes and not primarily for personal, family, household or agricultural use, as such terms are used in the commercial law provision of the Texas Code.  6.19 Principal Place of Business & Collateral. Borrowers principal place of business is located on the Commercial Land,
+where all personal property Collateral will be located, and its chief executive office is located at 2929 Allen Parkway, Suite 1400, Houston, Texas 77019.  6.20 Certificate of Title. No part of the Collateral is covered by a certificate of title or subject to any certificate of title law. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 25
+ 
+
+
+
+
+
+
+ 6.21 Federal Debt, Neither the Borrower, nor any Guarantor, is delinquent on any Debt
+to any Governmental Authority.  6.22 ADA Compliance. Borrowers office facilities and all places accessible to the
+public are accessible to physically handicapped persons who may be employed or come to visit and otherwise compliant with the Americans With Disabilities Act (ADA) which became effective January 26, 1992. The office layout is in compliance with
+the Uniform Federal Accessibility Standards (UFAS).  6.23 Utility Availability. Subject only to payment of fees to be
+paid from the Approved Budget, all utility and municipal services required for the construction, occupancy and operation of the Improvements, including but not limited to, water supply, storm and sanitary sewer systems, gas electric and telephone
+facilities, are available for use and tap-on at the boundaries of the Commercial Land and will be available in sufficient amounts for the normal and intended use of the Improvements, and written permission has been or will be obtained from the
+applicable utility companies or municipalities to connect the Improvements into each of said services.  Article 7 Events of Default and
+Remedies  7.1 Events of Default. If any of the following events (Events of Default) shall
+occur, then the Lender may do any or all of the following without any notice to the Borrower (except as hereinafter expressly provided): (i) declare the Note to be, and thereupon such Note shall forthwith become, immediately due and payable,
+together with all accrued interest thereon and all fees and other amounts payable hereunder and under the other Loan Documents, without notice of any kind, notice of acceleration or of intention to accelerate, presentment and demand or protest, all
+of which are hereby expressly waived; (ii) exercise its rights of offset against each account and all other Property of the Borrower in the possession of the Lender, which right is hereby granted by Borrower to Lender; (iii) terminate
+Lenders obligation to make any further advances under the Loan and (iv) exercise any and all other rights available to Lender under the Loan Documents, at law or in equity: 
+ 
+
+
+ 
+(a)
+Borrower or Guarantor fails to make any payment of principal or interest on the Note or in respect of any other Obligations under any Loan Document as and when due; or
+  
+
+
+ 
+(b)
+Borrower or Guarantor shall fail to pay when due, any principal of, or interest on, any other Debt; or if the holder of such other Debt declares, or may declare, such
+Debt due prior to its stated maturity because of Borrowers or Guarantors default thereunder; or   
+
+
+ 
+(c)
+Any representation or warranty made by the Borrower or Guarantor herein or by Borrower, Guarantor or any other Party in any other Loan Document or in any certificate,
+financial statement or other written statement furnished to Lender proves to have been incorrect, false or misleading in any material respect when made; or 
+ 
+
+
+ 
+(d)
+Borrower, Guarantor or any other Party violates any covenant, agreement or condition or otherwise fails to perform any obligation (other than the obligation to pay
+principal of, or interest on, the Note) contained in this Agreement or any of the other Loan Documents or in connection with any other Debt owed by Borrower, Guarantor or any other Party to Lender, in Lenders reasonable discretion, if allowed
+by RBS; or 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 26
+ 
+
+
+
+
+
+
+
+
+
+ 
+(e)
+Final judgment for the payment of money is rendered against the Borrower and the same is not paid or sufficiently bonded or escrowed within 30 days; or
+  
+
+
+ 
+(t)
+Borrower claims, or any court finds or rules, that the Lender does not have a valid Lien under any Security Document; or 
+ 
+
+
+ 
+(g)
+Borrower or any other Party sells, encumbers, or abandons (except as otherwise expressly permitted by the Loan Documents) any of the Property now or hereafter subject
+to any of the Security Documents; or any levy, seizure or attachment is made on any material portion thereof or thereon and same is not dismissed within 30 days; or any material portion of such Property is lost, stolen, substantially damaged or
+destroyed unless such loss, damage or destruction is in Lenders judgment adequately covered by insurance; or   
+
+
+ 
+(h)
+Borrower or any other Party makes a general assignment for the benefit of creditors or becomes insolvent or fails generally to pay its debts as they become due, or
+petitions or applies to any tribunal for the appointment of a trustee, custodian, receiver, (or other similar official) of the Borrower or any other Party of all or any substantial part of the assets of the Borrower or any other Party or commences a
+voluntary case or any other proceeding relating to the Borrower or any other Party under any bankruptcy, reorganization, compromise arrangement, insolvency, readjustment of debt, dissolution or liquidation or similar law (herein called the
+bankruptcy law) of any jurisdiction; or   
+
+
+ 
+(i)
+Any such petition or application is filed, or any such proceeding is commenced, against the Borrower or any other Party and the Borrower or such other Party by any act
+or omission indicates its approval, consent, or acquiescence thereto, or an order for relief is entered in an involuntary case under the federal bankruptcy laws as now or hereafter constituted, or an order, judgment or decree is entered appointing
+any such trustee, custodian, receiver, liquidator, or similar official or adjudicating the Borrower or such other Party bankrupt or insolvent, or approving the petition in any such proceedings, and such order, judgment, or decree remains in effect
+for 30 days; or  Borrower or any other Party conceals, removes, or permits to be concealed or removed, any part
+of its Property, with intent to hinder, delay or defraud its creditors or any of them, or makes or suffers a transfer of any of its Property which may be fraudulent under any bankruptcy, fraudulent conveyance or similar law; or shall have made any
+transfer of its Property to or for the benefit of a creditor at a time when other creditors similarly situated have not been paid; or 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 27
+ 
+
+
+
+
+
+
+
+
+
+ 
+(k)
+Any event shall occur or condition exist which results in a Material Adverse Effect; or 
+ 
+
+
+ 
+(I)
+Any litigation commences which hinders or delays the collection of any part of the Obligations or the exercise of any right or option of Lender; or
+  
+
+
+ 
+(m)
+Death, incapacity, dissolution, business failure, merger, or similar event, adversely affects the Borrower, Guarantor or any other Party; or 
+ 
+
+
+ 
+(n)
+Borrower uses the Loan proceeds or Collateral in any manner different from the manner contemplated in the Loan Documents; or 
+ 
+
+
+ 
+(o)
+[Reserved]   
+
+
+ 
+(p)
+Failure of Borrower to comply with the terms of the Conditional Commitment; or 
+ 
+
+
+ 
+(q)
+Any event occurs which, with or without the passage of time or the giving of notice, would permit the holder of any lien on any of the Collateral to accelerate the
+secured debt, or   
+
+
+ 
+(r)
+Any lien, claim of lien, or affidavit of lien is filed against any of the Collateral, other than the liens described in Exhibit E hereto, or
+  
+
+
+ 
+(s)
+An inability of Borrower to satisfy any condition specified herein as precedent to the obligation of Lender to make an Advance after an Application for Advance has been
+submitted by Borrower to Lender, or   
+
+
+ 
+(t)
+A determination by Lender that construction of the Improvements will not be completed on or before the Completion Date. 
+However, it is provided that, notwithstanding anything contained herein, and in the other Loan Documents, to the contrary, Lender shall
+give Borrower ten (10) days written notice of any Event of Default under Section 7.1(a) or 7.1(d), above, and Borrower shall have an opportunity to cure such Event of Default within the notice period. The notice and cure period specified
+herein shall begin to run on the date said notice is (1) mailed or (2) delivered, whichever is earlier. It is understood and agreed that Borrower shall not be entitled to more than two (2) opportunities to cure within any twelve
+(12) month time period.  7.2 Other Remedies. In addition to and cumulative of any rights or remedies provided for
+in Section 7.1 hereof, if any one or more Events of Default shall have occurred, the Lender may proceed to protect and enforce its rights hereunder, by any appropriate proceedings, and the Liens evidenced by the Security Documents shall
+be subject to foreclosure in any manner provided for therein or provided for by law as the Lender may elect. The Lender may also proceed either by the specific performance of any covenant or agreement contained in this Agreement or the other Loan
+Documents or to enforce the payment of the Note or to enforce any other legal or equitable right provided under this Agreement or the other Loan Documents, or otherwise existing under any law in favor of the holders of Debt of the Borrower.
+
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 28
+ 
+
+
+
+
+
+
+ Article 8 Miscellaneous  8.1 Not an Agent. Nothing contained herein shall be construed to constitute Borrower or Guarantor as Lenders agent for any purpose whatsoever and Lender shall not be responsible or liable for
+any shortage, discrepancy, damage, loss or destruction of any part of the Collateral wherever same may be located and regardless of the cause thereof. Lender does not, by anything herein or in any assignment or otherwise, assume any of
+Borrowers or Guarantors obligations under any contract or agreement assigned to Lender and Lender shall not be responsible in any way for the performance by Borrower or Guarantor of any of the terms and conditions hereof. 
+8.2 Notices. Any notice or other document required or permitted to be delivered to any party hereto shall be in writing and shall
+be given or delivered by hand delivery, by depositing it with an overnight delivery service, by registered or certified mail, return receipt requested, or sent by facsimile (fax) or electronic mail (e-mail) transmission
+(provided an identical notice is also sent simultaneously by prepaid certified mail (return receipt requested), overnight delivery, or personal delivery as otherwise provided in this Section 8.2 to the party entitled to receive such
+notice or other document at the address specified adjacent to their signature on the signature pages of this Agreement or any such other address as such party shall request in a written notice made in compliance herewith. Provided an identical
+notice is sent as required herein, any notice or document will be deemed given or delivered on the earliest of (a) the date actually received if hand delivered, e-mailed, or faxed (provided confirmation of complete receipt of said fax is
+received by the transmitting party during normal business hours or the next Business Day if not confirmed during normal business hours), (b) the first Business Day after deposit with an overnight delivery service, or (c) on the date
+deposited in the mail, if mailed. Actual notice, however and from whoever given or received, shall always be effective when received. With respect to notices or documents sent via e-mail, said e-mail may contain an attachment in portable document
+format (pdf), which pdf attachment will be considered as part of the e-mail transmission for notice purposes . 
+8.3 Waiver  Remedies Cumulative. No failure to exercise and no delay in exercising on the part of Lender of any right, power
+or privilege under any Loan Document shall operate as a waiver thereof, nor shall any single or partial exercise of any right, power or privilege under any Loan Document preclude any other right, power or privilege. The rights and remedies provided
+in the Loan Documents are cumulative of, and not exclusive of, any rights or remedies provided by law, in equity, or in any other agreement or Loan Document, all of which Lender may pursue at any time and from time to time. 
+8.4 Assignment. This Agreement shall be binding upon Borrower, Guarantor, and Lender and their respective successors and permitted
+assigns; provided, however, neither Borrower nor Guarantor may assign or transfer any of their rights or obligations hereunder without the prior written consent of Lender, and any such assignment or transfer without such consent shall be null and
+void. Borrower acknowledges and agrees that Lender may sell one or more participations or assign its interest in all or any part of the Loan to others. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 29
+ 
+
+
+
+
+
+
+ 8.5 Severability. . If a court of competent jurisdiction finds any provision of this
+Agreement, the Note, or any other Loan Document to be invalid or unenforceable as to any Person or circumstance, such finding shall not render that provision invalid or unenforceable as to any other Person or circumstance. If feasible, any such
+unenforceable or invalid provision shall be deemed to be modified to be within the limits of enforceability or validity; however, if such provision cannot be so modified, it shall be stricken and all of the remaining provisions of the Loan Documents
+in all other respects shall remain valid and enforceable and in no way affected thereby.  8.6 Expenses, Etc. Borrower
+shall pay or reimburse Lender on demand: (a) the reasonable fees and expenses of legal counsel to Lender, in connection with the preparation, negotiation, execution and delivery of this Agreement (including the Exhibits and schedules
+hereto), and the other Loan Documents and the making of the Loan, and any modification, supplement or waiver of any of the terms of this Agreement, or any other Loan Document; (b) out-of-pocket expenses incurred by Lender in connection with the
+preparation, documentation and administration of the Loan or any of the Loan Documents; and (c) all amounts expended, advanced or incurred by Lender to satisfy any obligation of Borrower, Guarantor or any Party under this Agreement or any other
+Loan Document to collect the Obligations or to enforce, protect, preserve or defend the rights of Lender under this Agreement or any other Loan Document, including, without limitation, fees and expenses incurred in connection with Lenders
+participation as a member of a creditors committee in a case commenced under the Bankruptcy Code or other similar law, fees and expenses incurred in connection with lifting the automatic stay prescribed in Section 362 of the Bankruptcy
+Code, fees and expenses incurred in connection with any action pursuant to Section 1129 of the Bankruptcy Code and all other customary out-of-pocket expenses incurred by Lender in connection with such matters, together with interest thereon at
+the Past Due Rate on each such amount until the date of reimbursement to Lender.  8.7 Indemnification. Borrower shall
+indemnify the Lender and its directors, officers, employees and agents from, and hold each of them harmless against, any and all losses (except loss of profits), liabilities, claims or damages to which any of them may become subject, REGARDLESS
+OF WHETHER CAUSED IN WHOLE OR IN PART BY THE NEGLIGENCE OF ANY INDEMNIFIED PARTIES, except for gross negligence or willful conduct of the Lender, insofar as such losses (except loss of profits), liabilities, claims or damages arise out of or
+result from any (i) actual or proposed use by Borrower of the proceeds of any extension of credit by Lender hereunder; (ii) breach by Borrower of this Agreement or any other Loan Document or the breach by any Party of any Loan Document;
+(iii) violation by Borrower or any other Party of any Legal Requirement; (iv) investigation, litigation or other proceeding relating to any of the foregoing, and Borrower shall reimburse Lender and its directors, officers, employees and
+agents, upon demand for any expenses (including legal fees) incurred in connection with any such investigation or proceeding; or (v) taxes (excluding income taxes and franchise taxes) payable or ruled payable by any Governmental Authority in
+respect of the Obligations or any Loan Document, together with interest and penalties, if any. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 30
+ 
+
+
+
+
+
+
+ 8.8 Amendments, Etc. No amendment or modification of this Agreement, the Note or any
+other Loan Document shall in any event be effective against Borrower unless the same shall be agreed or consented to in writing by Borrower. No amendment, modification or waiver of any provision of this Agreement, the Note or any other Loan
+Document, nor any consent to any departure by Borrower therefrom, shall in any event be effective against the Lender unless the same shall be agreed or consented to in writing by Lender, and each such waiver or consent shall be effective only in the
+specific instance and for the specific purpose for which given.  8.9 Limitation of Interest. Borrower,
+Guarantor, and Lender intend to comply with the applicable law governing the Maximum Rate. Interest contracted for, charged, or received shall not exceed the Maximum Rate, and, if in any contingency whatsoever, Lender shall receive anything of value
+deemed interest under applicable law which would cause the interest contracted for, charged, or received by the holder thereof to exceed the maximum amount of interest permissible under applicable law, the excessive interest shall be applied to the
+reduction of the unpaid principal balance hereof and not to the payment of interest, or if such excessive interest exceeds the unpaid principal balance hereof such excess shall be refunded to Borrower, and the provisions of this Note and any demand
+on Borrower shall immediately be deemed reformed and the amounts thereafter collectible hereunder shall be reduced, without the necessity of the execution of any new documents, so as to comply with the applicable law, but so as to permit the
+recovery of the fullest amount otherwise called for hereunder. All interest paid or agreed to be paid to the holder hereof shall, to the extent permitted by applicable law, shall be amortized, prorated, allocated, and spread throughout the full term
+of such indebtedness until payment in full (including the period of any renewal or extension hereof) so that the rate or amount of interest on account of such indebtedness does not exceed the Maximum Rate. 
+8.10 Survival. The obligations of Borrower and Guarantor under each Loan Document to which each is a Party shall survive the
+repayment of the Loan.  8.11 Captions. Captions and section headings appearing herein are included solely for
+convenience of reference and are not intended to affect the interpretation of any provision of this Agreement.  8.12
+Counterparts. This Agreement may be executed in any number of counterparts, all of which taken together shall constitute one and the same agreement and any of the parties hereto may execute this Agreement by signing any such counterpart.
+ 8.13 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of
+Texas and the laws of the United States applicable to transactions within the State of Texas.  8.14 Venue. Borrower
+hereby irrevocably (a) agrees that any legal proceeding against Lender arising out of or in connection with the Loan Documents shall be brought in the district courts of Collin County, Texas, or in the United States District Court for the
+Eastern District of Texas, or elsewhere (collectively, the Courts); (b) submits to the nonexclusive jurisdiction of the Courts; (c) agrees and consents that service of process may be made upon it in any proceeding
+arising out of the Loan Documents or any transaction contemplated thereby by service of process as provided by Texas law; (d) WAIVES, to the fullest extent permitted by law, any objection which it may now or hereafter have to the laying of
+venue of any suit, action or proceeding arising out of any Loan Document or the transactions contemplated thereby in the Courts; and (e) WAIVES any claim that any such suit, action or proceeding in any Court has been brought in an 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 31
+ 
+
+
+
+
+
+
+ 
+inconvenient forum. Nothing herein shall affect the right of Lender to commence legal proceedings or otherwise proceed against Borrower in any jurisdiction or to serve process in any manner
+permitted by applicable law. Borrower agrees that a final and nonappealable judgment in any such action or proceeding may be enforced in other jurisdictions in any manner provided by law. 
+8.15 Construction Project. A portion of the proceeds of the Loan will be used to construct or improve certain Improvements on the
+Commercial Land. A Construction Rider is attached hereto and incorporated herein for all purposes and the undersigned hereby represent and agree that they have read the Construction Rider and agree to its terms and conditions. 
+8.16 Final Agreement. IN ACCORDANCE WITH SECTION 26.02 OF THE TEXAS BUSINESS AND COMMERCE CODE, LENDER HEREBY NOTIFIES BORROWER
+THAT:  (a) A LOAN AGREEMENT IN WHICH THE AMOUNT INVOLVED IN THE LOAN AGREEMENT EXCEEDS $50,000 IN VALUE
+IS NOT ENFORCEABLE UNLESS THE AGREEMENT IS IN WRITING AND SIGNED BY THE PARTY TO BE BOUND OR BY THAT PARTIES AUTHORIZED REPRESENTATIVE.  (b) THE RIGHTS AND OBLIGATIONS OF THE PARTIES TO AN AGREEMENT SUBJECT TO SUBSECTION (a) OF THIS SECTION SHALL BE DETERMINED SOLELY FROM THE WRITTEN LOAN AGREEMENT, AND ANY PRIOR ORAL AGREEMENTS
+BETWEEN THE PARTIES ARE SUPERSEDED BY AND MERGED INTO THE LOAN AGREEMENT.  (c) THE LOAN DOCUMENTS
+REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.  IN WITNESS
+WHEREOF, the parties hereto have executed this Agreement as of the date first written above.   
+
+
+
+
+
+
+
+
+
+
+ LENDER:  
+lst International Bank
+
+
+
+
+By:
+ 
+/s/ John Shaver
+
+
+ 
+ Name: John Shaver Title:
+Vice President
+
+
+
+ Address for Notice: 1912 Avenue K Plano, Texas 75074 Attn: John Shaver, Vice President
+
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 32
+ 
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+ Fax No.: (972) 424-6328  
+BORROWER:   Lazarus Energy LLC, a Delaware limited liability company   By: Lazarus Energy Holdings LLC, a Delaware limited liability company, its sole member
+
+
+
+
+By:
+ 
+/s/    Jonathan Pitts Carroll
+
+
+ 
+Jonathan Pitts Carroll, Sr., Director
+
+
+
+ Address for Notice: 2929 Allen Parkway, Suite 1800 Houston, Texas 77019
+Fax No.: (713) 850-0520   GUARANTOR:
+
+
+
+ /s/    Jonathan Pitts Carroll
+Jonathan Pitts Carroll, Sr.
+
+
+
+Lazarus Energy Holdings LLC, a Delaware limited liability company
+
+
+
+
+By:
+ 
+Jonathan Pitts Carroll
+
+
+ 
+Jonathan Pitts Carroll, Sr. Director
+
+
+
+ Address for Notice: 2929 Allen Parkway, Suite 1800 Houston, Texas 77019
+Fax No.: (713) 850-0520
+
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 33
+ 
+
+
+
+
+
+
+ CONSTRUCTION RIDER TO LOAN AGREEMENT 
+This Construction Rider To Loan Agreement (this Construction Rider) is made and entered as of the Closing Date, by and among
+Lender, Borrower, and Guarantor. In the event the terms and provisions of this Construction Rider are in conflict with the terms and provisions of the Loan Documents, the terms and provisions of this Construction Rider will control. However, the
+terms, conditions, requirements, and agreements contained herein are intended to be in addition to, and not a replacement of, the terms, conditions, requirements, and agreements contained in, and consistent with, the Agreement. 
+Unless a particular term, word or phrase is otherwise defined or the context otherwise requires, capitalized terms, words and phrases
+used herein have the following meanings (all definitions that are defined in this Construction Rider in the singular to have the same meanings when used in the plural and vice versa). Capitalized terms not otherwise defined in this
+Construction Rider shall have the same meaning as defined in the Agreement:  Advance means a disbursement by
+Lender of any of the Escrow or proceeds of the Loan for the construction of the Improvements.  Agreement shall
+mean the Loan Agreement to which this Construction Rider is attached, as it may from time to time be amended, modified, restated or supplemented.  Affidavit of Borrower means a sworn affidavit of Borrower (and such other parties as Lender may require) to the effect that all statements, invoices, bills, and other expenses
+incident to the construction of the Improvements incurred to a specified date, whether or not specified in the Approved Budget, have been paid in full, except for (a) amounts retained pursuant to a Construction Contract, and (b) items to
+be paid from the proceeds of an Advance then being requested or in another manner satisfactory to Lender. 
+Application for Advance means a written application by Borrower (and such other parties as Lender may require) to
+Lender, on a form approved by Lender, specifying by name, current address, and amount all parties to whom Borrower is obligated for labor, materials, or services supplied for the construction of the Improvements and all other expenses incident to
+the Loan, the Commercial Land, and the construction of the Improvements, whether or not specified in the Approved Budget, requesting an Advance for the payment of such items, containing, if requested by Lender, an Affidavit of Borrower, accompanied
+by such schedules, affidavits, releases waivers, statements, invoices, bills, and other documents as Lender may request. 
+Approved Budget means a budget and cost itemization prepared by Borrower, and approved in writing by Lender,
+specifying the cost by item of (a) all labor, materials, and services necessary for the construction of the Improvements in accordance with the Plans and all Governmental Requirements; and (b) all other expenses anticipated by
+Borrower incident to the Loan, the Commercial Land, and the construction of the Improvements.  Architect
+means the architect named on Exhibit 1 attached hereto and incorporated herein by reference. 
+Architectural Contract means a written agreement between Borrower and Architect, if any, for architectural services
+pertaining to construction of the Improvements. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 34
+ 
+
+
+
+
+
+
+ Escrow means any funds placed on deposit with Lender or Lenders
+Representative and to be disbursed per the Agreement or any other agreement.  Completion Date means the
+Completion Date specified in Exhibit 1.  Construction Contract means each agreement made by
+Borrower for construction of the Improvements.  Contractor means each Person with whom Borrower makes a
+Construction Contract.  Deed of Trust means the Deed of Trust (With Security Agreement and Assignment of
+Rents) covering the Commercial Land and Improvements to secure payment and performance of the Obligations. 
+Governmental Requirements means all statutes, laws, ordinances, rules, regulations, orders, writs, injunctions or
+decrees of any Governmental Authority applicable to Borrower, Guarantor or the Commercial Land.  Inspecting
+Architects/Engineers means the inspecting architects and/or engineers, if any, specified by Lender from time to time. 
+Lenders Representative means the party who would make the actual advances from Escrow to Borrower. 
+Plans means the final working drawings and specifications for the construction of the Improvements (including soil
+reports and engineering calculations) prepared by Architect and as modified or supplemented from time to time and approved by Lender, Borrower, any lessee of the Commercial Land, if applicable, and, to the extent necessary, by each Governmental
+Authority.  Principal Debt means the aggregate unpaid balance of all Advances of the Loan, and all other
+principal indebtedness, if any, under the Note, at the time in question.  Title Company means the title
+company or title companies named in Exhibit 1.  Title Insurance means one or more title
+insurance commitments, binders, or policies, as Lender may require, issued by the Title Company, on a coinsurance or reinsurance basis (with direct access in Texas) if and as required by Lender, in the maximum amount of the Loan insuring or
+committing to insure that the Deed of Trust constitutes a valid lien covering the Commercial Land and all Improvements thereon subject only to those exceptions which Lender may approve. 
+A. General. Subject to the conditions hereof and the other terms, conditions, and requirements contained in the Agreement,
+and provided that an Event of Default has not occurred, Lender will make Advances for construction-related expenses to Borrower in accordance with this Construction Rider. However, prior to any construction-related Advance, the following additional
+terms and conditions must be satisfied:   
+
+
+ 
+1.
+Borrower must pay to Lender all required fees, costs, and expenses. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 35
+ 
+
+
+
+
+
+
+
+
+
+ 
+2.
+Lender must obtain an inspection of and acceptable report on the Improvements by the Inspecting Architects/Engineers, if required by Lender. 
+ 
+
+
+ 
+3.
+The sum of the Principal Debt plus the amount of the requested Advance shall not be in excess of the amount then available under Section 3, below.
+ The Title Insurance shall be endorsed and extended, if required by Lender, to cover each Advance with no
+additional title exceptions objectionable to Lender.   
+
+
+ 
+5.
+Borrower shall procure and deliver to Lender, if required by Lender, releases or waivers of mechanics liens and receipted bills showing payment of all amounts due
+to all Persons who have furnished materials or services or performed labor of any kind in connection with the construction of any of the Improvements or otherwise with respect to the Commercial Land. 
+ 
+
+
+ 
+6.
+At the option of Lender, Advances shall be made only on the certificate of the Inspecting Architects/Engineers or other designated agent of Lender approved by the
+Lender, to which certificate shall be attached an estimate by the Contractor setting forth items to be paid out of the proceeds of each such Advance. However, the Lender may, at its discretion, make advances without requiring such certificate and
+Contractors estimate, in which event the Borrower shall furnish Lender a list of and the amounts of each items to be paid out of the Advances, or such other evidence that Lender may require. 
+B. Procedure for Borrowing. Lender shall not be required to make Advances more frequently than specified in Exhibit
+1, hereto. Each Application for Advance shall be submitted by Borrower to Lender a reasonable time (but not less than five Business Days) prior to the requested date (which must be a Business Day) of the Advance. Except as Lender may
+otherwise determine from time to time, each Advance will be made at Lenders principal office or at such other place as Lender may designate.  C. Advances. Advances shall be made only for costs and expenses specified in the Approved Budget, and then only for work performed, services rendered, or materials furnished; invoices
+for same must be provided to Lender; no Advance shall be made for advance or unearned payments. Advances for payment of costs of construction of the Improvements shall be made only after actual commencement of construction of the Improvements and
+shall not exceed the aggregate of (a) the costs of labor, materials, and services incorporated into the Improvements in a manner acceptable to Lender, plus (b) if approved by Lender, the purchase price of all uninstalled materials
+to be utilized in the construction of the Improvements stored on the Commercial Land, or elsewhere with the written consent of, and in a manner acceptable to, Lender, less (c) retainage, if any, specified in Exhibit 1, and less
+(d) all prior Advances for payment of costs of labor, materials, and services for the construction of the Improvements. Without limitation of other conditions applicable thereto, the final Advance, including all retainage, will not be
+made until Lender has received the following: (1) a completion certificate from the Architect and from the 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 36
+ 
+
+
+
+
+
+
+ Inspecting Architects/Engineers, if any, (2) evidence that all Governmental Requirements have been
+satisfied, including, but not limited to, delivery to Lender of certificates of occupancy permitting the Improvements to be legally occupied, if applicable, (3) evidence that no mechanics or materialmens liens or other encumbrances
+have been filed and remain in effect against the Commercial Land, (4) final lien releases or waivers by Architect, Contractor, and all subcontractors, materialmen and other Persons who have supplied labor, materials or services for the
+construction of the Improvements, or who otherwise might be entitled to claim a contractual, statutory or constitutional lien against the Commercial Land, (5) an as-built Survey showing that the Improvements as completed do not
+encroach on any boundary line, easement, building set back line, or other restricted area. Ten percent (10%) retainage shall be withheld from all Advances until thirty (30) days after completion (as that term is used in
+§53.106 of the Texas Property Code) of the Improvements. In addition, the final Advance hereunder shall, at Lenders option, be withheld until thirty (30) days after (i) the completion of the Improvements and
+(ii) an affidavit of completion has been filed with the county clerk of the county in which the Commercial Land is located in compliance with §53.106 of the Texas Property Code. To the extent that the Improvements are divided into phases
+or identifiable segments, references in the preceding sentence to a final Advance shall include each final Advance with respect to such a phase or segment. As a condition precedent to the first Advance for labor, materials, or construction services
+(whether or not it is the first Advance), Borrower and each original Contractor shall have jointly executed and recorded with the county clerk of the county in which the Commercial Land is situated, an affidavit of commencement of work, in form and
+substance approved by Lender, which contains the information required by §53.124(c) of the Texas Property Code, provided further that the date of commencement of work specified in such affidavit shall be subsequent to the date of recordation of
+the Deed of Trust.  D. Approved Budget Allocations. Lender shall not be obligated to make an
+Advance of an item allocated in the Approved Budget to the extent that the amount of the Advance of such item, when added to the amount of prior Advance of such item, would exceed the amount allocated to such item in the Approved Budget. Lender
+reserves the right to make Advances which are allocated to any of the items in the Approved Budget for such other items therein or in such different proportions as Lender may, in its sole discretion, deem necessary or advisable. Borrower may not
+reallocate items of cost in or change the Approved Budget without the prior written consent of Lender.  E.
+Disbursement of Loan Proceeds. The Borrower and Lender agree, anything herein or in the other Loan Documents to the contrary notwithstanding, that the Lender shall have the right, in its sole discretion, to advance the proceeds of
+the Loan in installments, from time to time, as, in the opinion of the Lender, funds are needed by the Borrower for the purposes herein expressed; and the Lender reserves the right in its discretion to advance only such part of said Loan proceeds as
+it deems best, and to discontinue making such Advances to the Borrower if, in its discretion, further or additional Advances shall seem to it unjustified, unwise or undesirable or if it deems itself insecure; and said Loan Documents shall be and
+remain valid and binding as security for the aggregate amount advanced at any time, whether or not the full amount of said Loan is Advanced. Lender will use its best efforts to make a requested disbursement within ten (10) days after
+Borrower has made a written request for payment and Lender has received all supporting information and documentation as may be required by Lender and/or any construction manager retained by Lender. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 37
+ 
+
+
+
+
+
+
+ F. Timely Payment of Construction Costs. The Borrower agrees to pay, as
+the work progresses, all bills for labor and materials going into construction of the Improvements, and agrees to submit to the Lender all such receipts, affidavits, canceled checks or other evidences of payment as may be requested from time to
+time, and when and if requested by the Lender at any time to furnish adequate proof of payment of all indebtedness of every kind and character incurred in the development of the Commercial Land and/or the construction of Improvements. 
+G. No Work DoneCondition of Premises. The Borrower warrants that no construction materials, supplies or
+equipment have been placed on the Commercial Land, that no labor has been performed therein incidental to the contemplated construction, and that Borrower has not received any notice of a claim of a mechanics or materialmans lien
+against the Commercial Land except those liens shown on Exhibit E to this Agreement and which will be paid in full with proceeds of the Loan and released. Borrower also warrants that the Improvements are not now damaged or injured as a
+result of any fire, explosion, accident, flood or other casualty.  H. Work in Accordance with Plans. The
+Borrower agrees to proceed with diligence to construct the Improvements called for by the Plans and the Construction Contract, a copy of which Plans and Construction Contract have been delivered to the Lender, and Borrower further agrees that said
+construction work shall be done strictly in accordance with Plans and Construction Contract as approved by the Lender, and with all applicable Governmental Requirements. The Plans and the Construction Contract heretofore delivered to, and
+approved by, the Lender may not be materially changed, altered or added to without the prior written consent of Lender. 
+I. Disbursements. Inspections shall be made by a representative of Lender for all disbursements. At no time
+and in no event shall Lender be obligated to disburse funds in excess of the amount recommended by Lenders agent or the Inspecting Architects/Engineers; or if any Event of Default shall have occurred; or if Lender is unsatisfied with the
+progress of construction; or, if in the sole opinion of Lender, the estimated remaining cost of construction in accordance with the Plans exceeds the remaining undisbursed portion of the Loan proceeds; or if any Improvements shall have been damaged
+by fire or other casualty and Lender shall not have received insurance proceeds sufficient in the sole judgment of Lender to effect the restoration of the Improvements to the condition immediately preceding such damage and in accordance with the
+Plans, if applicable, and permit the completion of the Improvements on or before the scheduled completion date. It is understood that any sum or sums required for the construction of the Improvements over and above the proceeds of the Loan herein
+agreed to be made shall be advanced by, and be the sole responsibility of, Borrower.  J. Remedies of
+Lender. Upon the occurrence of any Even of Default, and after the expiration of any applicable cure period, Lender shall at its option be entitled, in addition to and not in lieu of the remedies provided in the Agreement and
+other Loan Documents, to proceed to exercise any or all of the following remedies:  I. Require Borrower
+to vacate the Commercial Land and Improvements. Borrower agrees that, upon Lenders request in the event of a Default, to immediately vacate the Commercial Land and Improvements; 
+2. Enter into possession of the Commercial Land and Improvements; 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 38
+ 
+
+
+
+
+
+
+ 3. Perform or cause to be performed any and all work and labor necessary to
+complete the Improvements in accordance with the Plans and Construction Contract;  4. Employ security watchmen
+to protect the Commercial Land and Improvements;  5. Disburse that portion of the Loan proceeds not previously
+disbursed (including any retainage) to the extent necessary to complete construction of the Improvements in accordance with Plans and Construction Contract, and if the completion requires a larger sum than the remaining undisbursed portion of the
+Loan, to disburse such additional funds, all of which funds so disbursed by Lender shall be deemed to have been disbursed to Borrower and shall be secured by the Security Documents. For this purpose, Borrower hereby constitutes and appoints Lender
+its true and lawful attorney-in-fact with full power of substitution to complete the construction of the Improvements in the name of the Borrower, and hereby empowers Lender as said attorney to take all actions necessary in connection therewith
+including any Escrow and any funds which may remain unadvanced under the Loan for the purpose of completing the Improvements in the manner called for by the Plans; to make such additions and changes and corrections in the Plans which shall be
+necessary or desirable to complete the Improvements in substantially the manner contemplated by the Plans; to employ such contractors, subcontractors, agents, architects, and inspectors as shall be required for said purposes; to pay, settle or
+compromise all existing or future bills and claims which are or may be liens against said Commercial Land, or may be necessary or desirable for the completion of the Improvements or the clearance of the title to the Commercial Land; to execute all
+applications and certificates in the name of Borrower which may be required by any construction contract and to do any and every act with respect to the construction of the Improvements and to take such action and require such performance as it
+deems necessary. In accordance therewith Borrower hereby assigns and quitclaims to Lender all sums to be advanced hereunder including retainage and any sums in escrow conditioned upon the use of said sums, if any, for the completion of the
+Improvements; and/or  6. Take any other action that Lender, in its sole discretion, deems necessary or
+advisable under the circumstances to protect and preserve the Collateral. Borrower agrees to immediately reimburse Lender for all costs incurred to protect and preserve the Collateral . 
+K. Right of Inspection. Borrower agrees to permit Lender and its representatives and agents to enter upon the
+Commercial Land during normal business hours with 24 hours notice and to inspect the Improvements and all materials to be used in the construction thereof and to cooperate and cause Contractor to cooperate with Lender and its representatives and
+agents during such inspections; provided, however, that this provision shall not be deemed to impose upon Lender any duty or obligation whatsoever to undertake such inspection, to correct any defects in the Improvements or to notify any person with
+respect thereto.  L. Correction of Defects. Borrower agrees to promptly correct any structural defect in
+the Improvements and to promptly correct any departure from the Plans not previously approved by Lender. An Advance shall not constitute a waiver of Lenders right to require compliance with this, or any other, covenant. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 39
+ 
+
+
+
+
+
+
+ M. General Conditions. The following conditions shall be applicable
+throughout the term of the Agreement:  1. Rights of Third Parties. All conditions of the obligations of Lender
+hereunder, including the obligation to make Advances, are imposed solely and exclusively for the benefit of Borrower and Borrowers successors and assigns and no other person shall have standing to require satisfaction of such conditions in
+accordance with their terms or be entitled to assume that Lender will refuse to make advances in the absence of strict compliance with any or all thereof and no other person shall, under any circumstances, be deemed to be a beneficiary of such
+conditions, any and all of which may be freely waived in whole or in part by the Lender at any time if in its sole discretion it deems it desirable to do so. In particular, Lender makes no representations and assumes no duties or obligations as to
+third parties concerning the quality of the construction by Borrower or the Improvements or the absence therefrom of defects. In this connection, Borrower agrees to and shall indemnify Lender from any liability, claims or losses resulting from the
+disbursement of the Loan proceeds or from the condition of the Improvements whether related to the quality of construction or otherwise and whether arising during or after the term of the Loan. This provision shall survive the repayment of said Loan
+and shall continue in full force and effect so long as the possibility of such liability, claims, or losses exists.  2. Evidence of Satisfaction of Conditions. Any condition of this Construction Rider which requires the submission of evidence of the existence or nonexistence of a specified fact or facts implies as a
+condition the existence or nonexistence, as the case may be, of such fact or facts, and Lender shall, at all times, be free to independently establish to its satisfaction and in its absolute discretion such existence or nonexistence. 
+N. Advances Do Not Constitute a Waiver. No Advance shall constitute a waiver of the conditions of Lenders
+obligation to make further Advances nor, in the event Borrower is unable to satisfy any such condition, shall any such waiver have the effect of precluding Lender from thereafter declaring such inability to be a Default. In addition, any waiver of
+any provision of the Agreement shall not constitute a waiver of any other provision, and shall not act as a future waiver of any provision of the Agreement.  0. Compliance With Federal Law. Borrower will ensure that each Contractor complies with Executive Order 11246, entitled Equal Employment Opportunity, as amended by
+Executive Order 11375, and as supplemented by applicable Department of Labor Regulations (41 CFR, Part 60). Failure of the Contractor to comply with these laws will be an Event of Default. 
+P. Cost Overruns. Borrower will not allow any change and/or cost overrun on any contract or other commitment which
+will result in an additional cash flow expenditure and/or debt to the business and/or request for a subsequent loan, either guaranteed or not, without the express written approval of RBS. In no event will a subsequent Business &
+Industry Guaranteed Loan be approved to cover such costs. Furthermore, Borrower will not divert Loan funds from purposes identified in Section 2.2 of this Agreement for any of the aforementioned items without the express written approval of
+RBS. Failure to comply with the terms of this paragraph will be considered a material adverse change in the Borrowers financial condition and a default under the Loan. In the event any of the aforementioned increases in costs and/or expenses
+are incurred by the Borrower, the Borrower must provide for such increases in a manner that there is no diminution of the Borrowers operating capital. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 40
+ 
+
+
+
+
+
+
+ Q. Purpose of Loan and Escrow. The proceeds of the Loan and Escrow will
+be used for the purposes specified in the Loan Documents. Such Loan and Escrow will not be used directly or indirectly for personal, family, household or agricultural purposes or for the purposes of purchasing or carrying any Margin Stock or for the
+purpose of extending credit to others for the purpose of purchasing or carrying any Margin Stock. 
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 41
+ 
+
+
+
+
+
+
+ EXHIBIT I 
+TO  CONSTRUCTION
+RIDER   
+
+
+
+
+
+
+
+
+
+
+Loan:
+  
+$10,000,000.00
+
+
+
+
+The Architect:
+  
+N/A
+
+
+
+
+The Closing Date:
+  
+The date of this Agreement.
+
+
+
+
+The Completion Date:
+  
+On or before fourteen (14) weeks from project start.
+
+
+
+
+The Contractor:
+  
+ Spectrum Engineering, Inc.
+11100 Mead Road, Suite 110 Baton Rouge,
+Louisiana 70816
+
+
+
+
+The Improvements:
+  
+Restoration of the Crude Unit and related tankage of the existing Nixon, Texas plant to operational condition to produce Raw Kerosene, Diesel, Gasoil and Reduced Crude pursuant
+to EPC Project Specific Contract (Contract Number 2580-08) dated July 30, 2008 by and between Lazarus Energy LLC and Spectrum Engineering, Inc., as Contractor, and in accordance with plans and specifications as more particularly described in said
+contract.
+
+
+
+
+Retainage to be deducted from Advance:
+  
+Ten Percent (10%).
+
+
+
+
+Frequency of Advances:
+  
+At sole discretion of Lender.
+
+
+
+
+The Title Company:
+  
+Lawyers Title Insurance Corporation
+
+
+  
+c/o Federal Title, Inc.
+
+
+  
+6750 Hillcrest Plaza Drive, Ste. 315
+
+
+  
+Dallas, Texas 75230
+
+  
+
+
+
+
+
+
+
+
+
+LOAN AGREEMENT
+ 
+Page 42
+ 
+
+
+
+
+
+
+ EXHIBIT A  A. A first Deed of Trust lien in and to the Commercial Land.  B. The following personal property
+of Borrower, wherever located, and whether now owned  or hereafter acquired or arising, including Proceeds and Supporting Obligations, but in
+all cases exluding accounts receivable and inventory (Any capitalized term relating to a Collateral definition and not otherwise defined in this Agreement, shall have the meaning accorded thereto in the Uniform Commercial Code, as now enacted and
+hereinafter amended in the State of Texas):   
+
+
+ 
+1.
+Chattel Paper, including Tangible Chattel Paper and Electronic Chattel Paper; 
+ 
+
+
+ 
+2.
+Deposit Accounts;   
+
+
+ 
+3.
+Documents;   
+
+
+ 
+4.
+General Intangibles, including Payment Intangibles;   
+
+
+ 
+5.
+Goods, including Equipment, Fixtures, and Accessions;   
+
+
+ 
+6.
+Instruments, including Promissory Notes;   
+
+
+ 
+7.
+Records; and   
+
+
+ 
+8.
+Software.  C. A fourth Deed of Trust lien
+in and to the Residential Property.  D. An assignment of a $5,000,000.00 life insurance policy on the life of Jonathan P. Carroll. 
+Any capitalized term in Section B, above, shall have the respective meanings assigned to them in the UCC in force on the Closing Date. 
+
+
+
+
+ Exhibit A-1  Being a 56,309 ACRE TRACT situated George McPeters Survey, A-419, Wilson County, Texas. Said 56,309 ACRE TRACT is that tract conveyed by Bill Klingemann Substitute Trustee, to Notre Dame Investors,
+Inc, by Substitute Trustees Deed, in Volume 1159 at Page 609, dated May 06, 2003 and is comprised of all the tract called 51.30 acres in conveyance from Leal Petroleum Corporation to American Petro Chemical Corporation recorded in Volume
+842 at Page 705 and all of a tract called 5.000 acres in conveyance from Notre Dame Refining Corporation to American Petro Chemical Corporation recorded in Volume 1049 at Page 651 of the Official Records of said county and being described by metes
+and bounds as follows:  BEGINNING at a one-half inch diameter rebar set with cap (B&A) marking the northwest corner of the tract
+herein described, same being the northwest corner of said 51.30 acre tract, northeast corner of a tract called Tract 2-B (41.245 acres) in Volume 685 at Page 101, lying in the south line of a tract called 7.654 acres in Volume 271 at Page 30,
+further described as lying in the south line of U.S. Highway No. 87; said point bears N 76° 16 00 E, 1495.62 feet from a concrete right of way marker found; 
+THENCE with a segment of the north line of the tract herein described, same being a segment of the common line of said 51.30 acre
+tract and said 7.654 acre tract, along a segment of the south
+line of U.S. Highway 87, N 76° 16 00 E, 140.71 feet (called N 76° 16 E, 140.0 feetbasis of bearing) to a one-half inch diameter rebar set with cap (B&A) marking a north corner of the tract herein described, same
+being the north corner of said 51.30 acre tract, northwest corner residue called 640 acres in Volume X at Page 136;  THENCE continuing with the north line of the tract herein described, same being the common line of said 51.30 acre tract with that of said residue 640 acre tract and a tract called 1.666 acres in
+Volume 1030 at Page 772 as follows: S 13° 27 49 E, 208.63 feet (called S 13° 37 E, 207.4 feet) to a five-eighths inch diameter rebar found near a two way fence corner, N 76° 26 34 E, 368.39 feet (called N
+76° 29 E, 368.4 feet) to a one-half inch diameter rebar set with cap (B&A), N 76° 28 28 E, 31.40 feet (called N 76° 49 E, 31.4 feet) to a five-eighths inch diameter rebar found near a two way fence corner, S
+13° 55 25 E, 238.17 feet (called S 14° 00 E, 238.0 feet) to a five-eighths inch diameter rebar found marking a reentrant corner of the tract herein described, same being the southwest corner of said residue 640 acre tract,
+N 76° 06° 05 E, at 386.77 feet a one Inch diameter iron pipe found and at, 388.52, (N 76° 161 E, 388.1 feet) to a one-half inch diameter rebar set with cap (B&A) marking a re-entrant corner of he (the) tract herein described, same being the southeast corner of said residue 640 acre tract and
+N 13° 36 45 W, at 1.84 feet a one inch diameter iron pipe found and at 446.92 feet (called N 13° 37 W, 447.1 feet) to a one-half inch diameter rebar found marking a north corner of the tract herein described, same being the
+northeast corner of said 1.666 acre tract, lying in the south line of said 7.654 acre tract, further described as lying in the south line of U.S. Highway 87; 
+THENCE continuing with the north line of the tract herein described, same being a segment of the common line of
+said 51.30 acre tract and said 5.000 acre tract with that of said 7.654 acre tract, along a segment of the south line of U.S. Highway 87 as follows: N 76° 161 00 E, 275.15 feet (called N 76° E, 275.3 feet) to a
+railroad spike found in asphalt driveway, N 81° 58 38 E, 100.50 feet (called N 82° 12 E, 99.2 feet) to a one-half Inch diameter rebar set with cap (B&A), N 76° 16 00 E, 800.00 feet (called N 76°
+14 E, 800.5 feet) to a one-half inch diameter rebar set with cap (B&A), N 70° 33 22 E, 100.50 feet(called N 70° 43 E, 101.2 feet) to a concrete right of way marker found broken, and N 76° 16 00 E, 464.56
+feet (in total called No record call, and N 75° 02 04 E, 278 feet) to a one-half inch diameter rebar set with cap (B&A) marking the northeast corner of the tract herein described, same being the northeast corner of said 5.000
+acre tract, lying in the south line of said 7.654 acre tract, being the northwest corner of a tract called 200.008 acres in Volume 691 at Page 41; said point bears S 76° 16 00 W, 278.37 feet from an iron pipe found;
+ THENCE with the east line of the tract herein described, same being a segment of the common line of said 5.000
+acre tract and said 51.30 acre tract with that of said 200.008 acre tract as follows: S 13° 43 44 E, 783.78 feet (called S 15° 01 E, 783.5 feet) to a five-eighths inch diameter rebar found near a two way fence corner
+marking the east most southeast corner of the tract herein described, same being the southeast corner of said 5.000 acre tract, re-entrant corner of said 200.008 acre tract, S 76° 16 39 W, 277.87 feet (called 5 75° 02
+04 W, 278 feet) to a five-eighths inch diameter rebar found marking a reentrant corner of the tract herein described, same being the southwest corner of said 5.000 acre tract, lying in the east line of said 51.30 acre tract and being a north
+corner of said 200.008 acre tract, and S 13° 24 23 E, 261.29 feet (called S 13° 24 E, 261.7 feet) to a four inch diameter iron pipe post fence corner marking the south most southeast corner of the tract herein described,
+same being the southeast corner of said 51.30 acre tract and reentrant corner of said 200.008 acre tract;  THENCE with
+the south line of the tract herein described, same being a segment of the common line of said 51.30 acre tract and said 200.008 acre tract as follows: S 76° 08 20 W, 768.00 feet (called S 76° 10 W, 768.0 feet) to a one-half
+inch diameter rebar set with cap (B&A), and S 76° 15 20 W, 1619.78 feet (called S 76° 17 W, 1619.8 feet) to a five-eighths inch diameter rebar found near a three way fence corner marking the southwest corner of the
+tract herein described, same being the southwest corner of said 51.30 ay acre tract, lying in the north line of said 200.008 acre tract and being the southeast corner of said 41.245 acre tract; 
+THENCE with the west line of the tract herein described, same being the common line of said 51.30 acre tract and said 41.245 acre
+tract as follows: N 13° 57 38 W, 223.50 feet (called N 13° 55 W, 223.5 feet) to a one-half inch diameter rebar set with cap (B&A), N 13° 53 37 W, 3/3.70 feet(called N 13° 51 W, 373.7 feet) to a
+fence post, and N 13° 49 38 W, 449.84 feet (called N 13° 47 W, 448.8 feet) to the PLACE OF BEGINNING and containing 56.309 ACRES OF LAND. 
+
+
+
+
+ EXHIBIT A-2  THE LAND REFERRED TO IN THIS REPORT IS SITUATED IN THE STATE OF CALIFORNIA, COUNTY OF SAN MATEO, TOWN OF WOODSIDE AND IS DESCRIBED AS FOLLOWS:  PARCEL I:  BEGINNING AT A POINT IN THE CENTERLINE OF A STATE HIGHWAY, FORMERLY A
+COUNTY ROAD, DESIGNATED AS ROUTE 6 DIVISION 2 OF THE SAN MATEO COUNTY ROAD SYSTEM, SAID POINT OF BEGINNING BEING DISTANT SOUTHEASTERLY ALONG SAID CENTERLINE SOUTH 40a 10 EAST 370.00 FEET FROM ENGINEERS STATION 300 PLUS 96.81 OF THE
+COUNTY ENGINEERS SURVEY OF SAID ROUTE 6 DIVISION 2, SAID STATION BEING MARKED ON THE GROUND BY CONCRETE MONUMENTS SET OPPOSITE AS SHOWN ON THAT CERTAIN RECORD OF SURVEY MAP FILED IN BOOK 1 OF RECORD OF SURVEY MAPS AT PAGE 102, RECORDS OF SAN
+MATEO COUNTY; THENCE FROM SAID POINT OF BEGINNING LEAVING THE CENTERLINE OF SAID HIGHWAY SOUTH 6a 01 EAST 190.72 FEET; THENCE SOUTH 25a 00 EAST 77.00 FEET; THENCE SOUTH 14,a 15 WEST 100.00 FEET; THENCE SOUTH
+35a 43 EAST 225.00 FEET; THENCE NORTH 70a 51 EAST 15.00 FEET; THENCE SOUTH 19,a 09 EAST 110.45 FEET; THENCE SOUTH 10a 52 30 EAST 91.76 FEET; THENCE SOUTH 20a 37 EAST 112.69 FEET; THENCE SOUTH
+6a 50 WEST 15.75 FEET TO A POINT WHICH BEARS SOUTH 23a 48 EAST 23.58 FEET FROM AN IRON PIPE MONUMENT; THENCE SOUTH 23a 48 EAST 104.42 FEET TO A NAIL SET IN THE ROOT OF AN OAK TREE 30 INCHES IN DIAMETER; THENCE
+SOUTH 62a 45 EAST 188.15 FEET TO AN IRON PIPE MONUMENT; THENCE NORTH 45a 22 EAST 261 FEET, MORE OR LESS, TO THE CENTERLINE OF THE HEREINABOVE MENTIONED STATE HIGHWAY; THENCE NORTHWESTERLY ALONG SAID CENTERLINE 1075 FEET, MORE
+OR LESS, TO THE POINT OF BEGINNING.  EXCEPTING THEREFROM ANY AND ALL PORTIONS OF THE HEREINABOVE DESCRIBED PARCEL THAT
+LIE WITHIN THE LIMITS OF SAID STATE HIGHWAY.  PARCEL II: 
+BEGINNING AT A POINT IN THE CENTERLINE OF A STATE HIGHWAY, FORMERLY A COUNTY ROAD, DESIGNATED AS ROUTE 6 DIVISION 2 OF THE SAN MATEO
+COUNTY ROAD SYSTEM, SAID POINT OF BEGINNING BEING DISTANT SOUTHEASTERLY ALONG SAID CENTERLINE SOUTH 40a 10 EAST 370.00 FEET FROM ENGINEERS STATION 299 PLUS 96.81 OF THE COUNTY ENGINEERS SURVEY OF SAID ROUTE 6 DIVISION 2, SAID
+STATION BEING MARKED ON THE GROUND BY CONCRETE MONUMENTS SET OPPOSITE AS SHOWN ON THAT CERTAIN RECORD OF SURVEY MAP FILED IN BOOK 1 OF RECORD OF SURVEY MAPS AT PAGE 102, RECORDS OF SAN MATEO COUNTY; THENCE FROM SAID POINT OF BEGINNING LEAVING THE
+CENTERLINE OF SAID HIGHWAY AND FOLLOWING THE WESTERLY LINE OF THAT CERTAIN 4.45 ACRE PARCEL OF LAND DESCRIBED IN DEED FROM PETER FOLGER TO ROBERT E. CHRIST  AND MARIE E. CHRIST, HIS WIFE, DATED SEPTEMBER 28, 1953 AND RECORDED OCTOBER 28, 1953 IN VOLUME 2491 OF OFFICIAL RECORDS OF SAN MATEO COUNTY, AT PAGE 555, SOUTH 06a 01 EAST 190.72 FEET, SOUTH
+25a 00 EAST 77.00 FEET AND SOUTH 14,,a 15 WEST 100.00 FEET TO THE TRUE POINT OF BEGINNING OF THIS DESCRIPTION; THENCE FROM SAID TRUE POINT OF BEGINNING ALONG SAID WESTERLY LINE OF SAID 4.46 ACRE PARCEL SOUTH 35a 43 EAST
+225.00 FEET; THENCE LEAVING SAID WESTERLY LINE SOUTH 54a 06 10 WEST 70.50 FEET; THENCE NORTH 18a 20 10 WEST 236.00 FEET TO THE POINT OF BEGINNING. 
+
+
+
+
+ PARCEL III:  AN EASEMENT FOR ROADWAY PURPOSES OVER A PORTION OF THAT CERTAIN STRIP OF LAND 30 FEET IN WIDTH HEREINAFTER DESCRIBED AS PARCEL A. SAID PORTION BEING 15 FEET IN WIDTH AND LYING SOUTHWESTERLY OF
+AND IMMEDIATELY ADJACENT TO THAT PORTION OF THE CENTERLINE OF SAID PARCEL A DESCRIBED AS FOLLOWS:  BEGINNING AT A
+POINT IN THE CENTERLINE OF PARCEL A SAID POINT OF BEGINNING BEING DISTANT SOUTHEASTERLY ALONG SAID CENTERLINE 570.71 FEET FROM THE POINT OF BEGINNING OF SAID PARCEL A; THENCE ALONG SAID CENTERLINE SOUTH 19,,a 09 EAST
+110.45 FEET; SOUTH 10a 52 30 EAST 91.76 FEET AND SOUTH 20a 37 EAST 102.66 FEET AND SOUTH 6a 50 EAST 15.75 FEET.  PARCEL AA STRIP OF LAND 30 FEET IN WIDTH, LYING 15 FEET ON EITHER SIDE OF THE FOLLOWING DESCRIBED CENTERLINE:  BEGINNING AT A POINT IN THE CENTERLINE OF A STATE HIGHWAY, FORMERLY A COUNTY ROAD, DESIGNATED AS ROUTE 6 DIVISION 2 OF THE SAN MATEO COUNTY ROAD SYSTEM, SAID POINT OF BEGINNING BEING DISTANT SOUTHEASTERLY
+ALONG SAID CENTERLINE SOUTH 40a 10 EAST 370.00 FEET FROM ENGINEERS STATION 300 PLUS 96.81 OF THE COUNTY ENGINEERS SURVEY OF SAID ROUTE 6 DIVISION 2, SAID STATION BEING MARKED ON THE GROUND BY CONCRETE MONUMENTS SET OPPOSITE
+AS SHOWN ON THAT CERTAIN RECORD OF SURVEY MAP FILED IN BOOK 1 OF RECORD OF SURVEY MAPS AT PAGE 102, RECORDS OF SAN MATEO COUNTY; THENCE FROM SAID POINT OF BEGINNING SOUTH 25,a 49 20 EAST 275.82 FEET; THENCE SOUTH 0a 06 WEST
+131.71 FEET; THENCE SOUTH 19a 09 EAST 163.18 FEET TO A POINT IN THE SOUTHWESTERLY LINE OF THE HEREINABOVE DESCRIBED 4.46 ACRE PARCEL, SAID POINT BEING DEFINED AS THE EASTERLY TERMINUS OF THE COURSE DESCRIBED AS NORTH 70a
+51 EAST 15.00 FEET IN THE DESCRIPTION OF SAID 4.46 ACRE PARCEL; THENCE FOLLOWING THE SOUTHWESTERLY BOUNDARY OF SAID 4.46 ACRE PARCEL SOUTH 19a 09 EAST 110.45 FEET; SOUTH 10a 52 30 EAST 91.76 FEET, SOUTH
+20a 37 EAST 112.69 FEET AND SOUTH 6a 50 WEST 15.75 FEET TO A POINT WHICH BEARS SOUTH 23,,a 48 EAST 23.58 FEET FROM AN IRON PIPE MONUMENT.  APN: 072-180-050 and 072-180-010 and 072-180-080 and 072-180-070, 3PN: 072-018-180-01A AND 072-018-180-08A AND 072-018-180-07A AND 072-01B-180-05A 
+
+
+
+
+ EXHIBIT 4B   
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+PROMISSORY NOTE
+  
+Note No. 273725
+
+
+
+
+
+$10,000,000.00
+  
+
+  
+September             , 2008
+ FOR VALUE RECEIVED, Lazarus Energy LLC, a Delaware limited liability company (hereinafter referred
+to as Maker), hereby unconditionally promises to pay to the order of 1st International Bank (Payee) at 1912 Avenue K, Plano, Texas 75074, or at such other address given to Maker by Payee, the principal sum of TEN
+MILLION AND NO/100 DOLLARS ($10,000,000.00), in lawful money of the United States of America, together with interest per annum (calculated on the basis of a 360-day year) on the unpaid principal balance from day-to-day remaining, computed from
+the date of advance until maturity at the rate equal to the lesser of (a) the Maximum Rate (as hereinafter defined) or (b) Prime Rate (as hereafter defined) plus two and one quarter percent (P +2.25 %)*. The interest rate as of the
+date hereof is 7.25%. Principal and interest under this note (the Note) are due and payable as follows:  Initial
+monthly payment of principal and interest shall be due and payable in the amount of Eighty Thousand One Hundred Thirty-Nine and 73/100 Dollars ($80,139.73), with the first such installment due on the
+            day of                 , 2008. Monthly payments shall continue to be due and payable on the same
+day of each calendar month thereafter until                 , 2028 (the  Maturity Date), when all unpaid principal and unpaid interest shall be due and payable in full. Monthly payments shall be increased or decreased based on the changes in interest rate to ensure
+that the entire loan balance is paid in full on the final Maturity Date.   
+
+
+*
+The interest rate will adjust on the first day of each calendar quarter (the Adjustment Date) to a rate equal to TWO AND ONE QUARTER PERCENT
+(2.25%) per annum (on the basis of actual days elapsed over a 360-day year) above the minimum prime lending rate charged by large U.S. money center commercial banks as published from time to time in the Money Rates Section of the Wall Street
+Journal (Prime Rate), each change in the rate charged hereunder to become effective without notice to the undersigned as of the Adjustment Date, but in no event shall the rate charged hereunder exceed the Maximum Rate (as
+hereafter defined). The undersigned understand and acknowledge that Payee may from time to time make various loans at rates of interest having no relationship to the Prime Rate, and that the Prime Rate may not be the lowest interest rate charged for
+loans by Payee. In the event the Wall Street Journal is no longer published or in the event the Wall Street Journal discontinues publishing a Prime Rate, the Prime Rate shall be the nearest comparable published rate, as determined by the
+holder of this Note. 
+  
+
+
+
+
+
+
+
+
+
+PROMISSORY NOTE
+ 
+PAGE 1
+ 
+
+
+
+
+
+
+ The term Maximum Rate,  as used herein, shall mean, with respect to each holder
+hereof, the maximum nonusurious interest rate, if any, that at any time, or from time to time, may under applicable law be contracted for, taken, reserved, charged or received on the indebtedness evidenced by this Note under the laws which are
+presently in effect of the United States and the State of Texas applicable to such holder and such indebtedness or, to the extent allowed by law under such applicable laws of the United States of America and the State of Texas which may hereafter be
+in effect, which allow a higher maximum non-usurious interest rate than applicable laws now allow; provided, that in determining the Maximum Rate, due regard shall be given, to the extent required by applicable law, to any and all relevant payments,
+fees, charges, deposits, balances, agreements and calculations which may constitute or be deemed to constitute interest, or be deducted from principal to calculate the interest rate or otherwise affect interest rate determinations, so that in no
+event shall the Payee contract for, charge, receive, take, collect, reserve or apply, on the Note, any amount in excess of the maximum non-usurious rate of interest permitted by applicable law. To the extent that Texas law determines the Maximum
+Rate, the Maximum Rate shall be determined by utilizing the indicated rate ceiling from time to time in effect pursuant to the Texas Finance Code (V.T.C. A. Finance Code Section 303.001 et seq.) (the Texas Finance Code)
+or such successor statute, as then in effect, governing usury. The Maximum Rate shall not be limited to the applicable rate ceiling in the Texas Finance Code or such successor statute if Federal laws or other state laws now or hereafter in effect
+and applicable to this Note (and the interest contracted for, charged and collected hereunder) shall permit a higher rate of interest.  Maker and Payee intend to comply with the applicable law governing the Maximum Rate. Interest contracted for, charged, or received shall not exceed the Maximum Rate, and, if in any contingency whatsoever,
+Payee shall receive anything of value deemed interest under applicable law which would cause the interest contracted for, charged, or received by the holder thereof to exceed the maximum amount of interest permissible under applicable law, the
+excessive interest shall be applied to the reduction of the unpaid principal balance hereof and not to the payment of interest, or if such excessive interest exceeds the unpaid principal balance hereof such excess shall be refunded to Maker, and the
+provisions of this Note and any demand on Maker shall immediately be deemed reformed and the amounts thereafter collectible hereunder shall be reduced, without the necessity of the execution of any new documents, so as to comply with the applicable
+law, but so as to permit the recovery of the fullest amount otherwise called for hereunder. All interest paid or agreed to be paid to the holder hereof shall, to the extent permitted by applicable law, shall be amortized, prorated, allocated, and
+spread throughout the full term of such indebtedness until payment in full (including the period of any renewal or extension hereof) so that the rate or amount of interest on account of such indebtedness does not exceed the Maximum Rate. 
+As of the seventh anniversary of this Note, should the outstanding principal amount due hereunder be greater than $7,850,000.00, Maker
+will make a one-time principal reduction in an amount sufficient to reduce the principal balance to $7,850,000.00 (the Required Principal Reduction). The Required Principal Reduction will be subject to the Prepayment Consideration (as
+hereinafter defined). 
+  
+
+
+
+
+
+
+
+
+
+PROMISSORY NOTE
+ 
+PAGE 2
+ 
+
+
+
+
+
+
+ Maker agrees to pay a late charge of five percent (5%) of the payment amount if such
+payment is not received within ten (10) days of the due date. Payments, when made, shall be applied in a manner and order according to the sole discretion of the holder of this Note. 
+All past-due principal and, to the extent permitted by applicable law, past-due interest upon this Note shall bear interest at the
+Maximum Rate.  Remittances in payment of any part of this Note other than in the required amount in immediately available
+funds at the place where this Note is payable shall not, regardless of any receipt or credit issued therefor, constitute payment until the required amount is actually received by Payee in full accordance herewith and shall be made and accepted
+subject to the condition that any check or draft may be handled for collection in accordance with the practice of the collecting bank or banks. Acceptance by Payee of any payment in an amount less than the full amount then due shall be deemed an
+acceptance on account only, and the failure to pay the entire amount then due shall be and continue to be a Default (hereinafter defined).  This Note is secured in part by a Deed of Trust (with Security Agreement and Assignment of Rents), which together with all other documents evidencing, securing or pertaining to the transaction in which
+the indebtedness evidenced hereby is incurred are collectively referred to as the Loan Documents .  Maker and each
+surety, endorser, guarantor and other party ever liable for payment of any sums of money payable on this Note, jointly and severally waive presentment, protest, notice of protest and nonpayment, notice of default and notice of acceleration and
+intention to accelerate, and agree that their liability under this Note shall not be affected by any renewal or extension in the time of payment hereof, or in any indulgences, or by any release or change in any security for the payment of this Note,
+and hereby consent to any and all renewals, extensions, indulgences, releases or changes, regardless of the number of such renewals, extensions, indulgences, releases or changes. 
+If this Note or any Loan Documents are given by Payee to an attorney for collection or enforcement, or if suit is brought for collection
+or enforcement, or if it is collected or enforced through probate, bankruptcy, or other judicial proceeding, then Maker shall pay Payee all costs of collection and enforcement, including reasonable attorneys fees and court costs, in addition
+to other amounts due.  No waiver by Payee of any of its rights or remedies under this Note or any Loan Documents, shall be
+considered a waiver of any other right or remedy of Payee; no delay or omission in the exercise or enforcement by Payee of any rights or remedies shall ever be construed as a waiver of any right or remedy of Payee; and no exercise or enforcement of
+any such rights or remedies shall ever be held to exhaust any right or remedy of Payee. 
+  
+
+
+
+
+
+
+
+
+
+PROMISSORY NOTE
+ 
+PAGE 3
+ 
+
+
+
+
+
+
+ Maker agrees that in the event any portion of this Note is prepaid in whole or in part prior
+to the Maturity Date, so as to constitute a Prepayment, consideration will be tendered with the prepayment to the Payee (Prepayment Consideration) based upon the following schedule: 
+Ten percent (10.0 %) of the outstanding loan principal balance prepaid if prepaid during the first Loan Year. 
+Nine percent (9.0%) of the outstanding loan principal balance prepaid if prepaid during the second Loan Year. 
+Eight percent (8.0%) of the outstanding loan principal balance prepaid if prepaid during the third Loan Year. 
+Seven percent (7.0%) of the outstanding loan principal balance prepaid if prepaid during the fourth Loan Year. 
+Six percent (6.0%) of the outstanding loan principal balance prepaid if prepaid during the fifth Loan Year. 
+Five percent (5.0%) of the outstanding loan principal balance prepaid if prepaid during the sixth Loan Year. 
+Four percent (4.0 %) of the outstanding loan principal balance prepaid if prepaid during the seventh Loan Year. 
+Three percent (3.0%) of the outstanding loan principal balance prepaid if prepaid during the eighth Loan Year. 
+Two percent (2.0%) of the outstanding loan principal balance prepaid if prepaid during the ninth Loan Year. 
+One percent (1.0%) of the outstanding loan principal balance prepaid if prepaid during the tenth Loan Year. 
+It is understood and agreed that a Prepayment shall be any principal payment on this Note other than scheduled monthly
+payments of principal and interest as provided under this Note. A Loan Year is defined as the twelve (12) month period commencing on the date of this Note or any consecutive twelve (12) month period during the term hereof.
+ Maker acknowledges that the Prepayment Consideration is consideration to Payee for the privilege of prepaying the
+indebtedness evidenced by this Note prior to maturity, and Maker recognizes that Payee would incur substantial additional costs and expenses in the event of a prepayment of the indebtedness evidenced by this Note and that the Prepayment
+Consideration compensates Payee for such costs and expenses (including without limitation, the loss of Payees investment opportunity during the period from the date of prepayment until the Maturity Date). 
+  
+
+
+
+
+
+
+
+
+
+PROMISSORY NOTE
+ 
+PAGE 4
+ 
+
+
+
+
+
+
+ Maker agrees that Payee shall not, as a condition to receiving the Prepayment Consideration,
+be obligated to actually reinvest the amount prepaid in any manner whatsoever.  Default shall mean any one or more
+of the following: (i) the failure by Maker to pay any installment of principal or interest under this Note when due, (ii) the failure by Maker to pay all sums owed to Payee under this Note and every Loan Document on or before the Maturity
+Date, or (iii) the occurrence of any Event of Default under the Loan Documents.  Upon the occurrence of a Default, Payee
+may, at its option, without notice or demand, declare the unpaid principal balance of, and the accrued but unpaid interest on this Promissory Note immediately due and payable and exercise and pursue any and all other rights and remedies as provided
+herein or in any of the Loan Documents.  Upon the occurrence of a Default, Payee is hereby authorized at any time and from
+time to time, without notice to Maker (any such notice being expressly waived by each such Maker), to set off and apply any and all deposits (general or special, time or demand, provisional or final) at any time held, and other indebtedness at any
+time owing, by the Payee to or for the credit or the account of Maker, against any and all obligations of such Maker now or hereafter existing under this Note, irrespective of whether or not Payee shall have made demand under this Note and although
+such obligations may be contingent and unmatured. The rights of the Payee under this section are in addition to all other rights and remedies (including, without limitation, other rights of offset) which Payee may have hereunder or under any
+applicable law.  All obligations, covenants, and terms of payment are expressly performable solely in Collin County, Texas.
+The substantive laws of the State of Texas shall govern the validity, construction, enforcement and interpretation of this Note. In the event of a dispute involving this Note or any of the Loan Documents, the undersigned irrevocably agrees that
+venue for such dispute shall lie in any court of competent jurisdiction in Collin County, Texas.   
+
+
+
+
+
+
+
+
+
+
+ Maker:  
+Lazarus Energy LLC, a Delaware limited liability company
+
+
+
+
+By:
+ 
+Lazarus Energy Holdings LLC, a Delaware limited liability company, its sole ember
+
+
+ 
+
+
+
+
+
+ 
+ 
+/s/    Jonathan Pitts Carroll
+
+
+ 
+Jonathan Pitts Carroll, Sr. Director
+
+  
+
+
+
+
+
+
+
+
+
+PROMISSORY NOTE
+ 
+PAGE 5
+ 
+
+
+
+
+
+
+ EXHIBIT C 
+NONE 
+
+
+
+
+ EXHIBIT D 
+NONE 
+
+
+
+
+ EXHIBIT E 
+ 
+
+
+1.
+Prior Liens against the Commercial Land:   
+
+
+
+
+
+
+
+
+
+
+$8,000,000.00
+ 
+DEED OF TRUSTROLAND OBERLIN, SUCCESSOR ESCROW AGENTFour Million Three Hundred Thousand and No/100 Dollars ($4,300,000.00) of the Loan proceeds will be paid to this
+creditor on or about the Closing Date. This Lien will be subordinated to the Lien of Lender.
+
+
+
+
+$ 33,066.46
+ 
+AFFIDAVIT OF CLAIM FOR MECHANICS AND MATERIALMANS LIENAUSTIN MAINTENANCE & CONSTRUCTION, INC.This Lien will be paid in full from proceeds of the Loan
+and released
+
+
+
+
+$ 521,370.99
+ 
+AFFIDAVIT CLAIMING MECHANICS AND MATERIALMANS LIENH & S CONSTRUCTION, INC.This Lien will be paid in full from proceeds of the Loan and
+released
+
+
+
+
+$ 157,378.94
+ 
+ LIEN AFFIDAVIT AND CLAIMRABALAIS I&E CONSTRUCTORSThis Lien will be paid in full from proceeds of the Loan and
+released
+
+
+
+
+$ 2,735.32
+ 
+ MECHANICS AND MATERIALMANS LIEN AFFIDAVITSOUTHERN STEEL & SUPPLY, LLCThis Lien will be paid in full from proceeds of
+the Loan and released
+  
+
+
+2.
+Prior Liens against the Residential Property:   
+
+
+
+
+
+
+
+
+
+
+$3,750,000.00
+ 
+ NORTH AMERICAN LIFE INSURANCE COMPANY OF TEXASDEED OF TRUSTTo remain in full force and effect
+
+
+
+
+$3,000,000.00
+ 
+ AP ENERGY PARTNERS LLCDEED OF TRUSTTo remain in full force and effect
+
+
+
+
+$2,988,000.00
+ 
+ JOHN KISSICKDEED OF TRUSTTo remain in full force and effect
+ Miscellaneous tax liens and delinquent tax obligations as described in Exhibit E-1 attached
+hereto and made a part hereof. 
+
+
+
+
+ EXHIBIT E (Continued) 
+ 
+
+
+3.
+Prior Liens against the personal property described in Exhibit A: 
+ 
+
+
+
+
+
+
+
+
+
+
+ Scoggin Capital Management, LP II, a Delaware limited partnership, in its capacity as collateral agentThis Lien will be subordinated to the Lien
+of Lender.
+  
+
+
+4.
+Prior Liens against $5,000,000.00 life insurance policy on the life of Jonathan P. Carroll: 
+ 
+
+
+
+
+
+
+
+
+
+
+ None
+
+
+
+
+
+ EXHIBIT E-1 
+Tax Liens and delinquent tax obligations against the Residential Property: 
+ 
+
+
+(a)
+General and special taxes and assessments for the fiscal year 2008-2009 in the amount of $10,631.42. 
+ 
+
+
+(b)
+General and special taxes and assessments for the fiscal year 2008-2009 in the amount of $14,314.94. 
+ 
+
+
+(c)
+The lien of defaulted taxes for the fiscal year 2005-2006, and any subsequent delinquencies in the amount of $66,051.24. 
+ 
+
+
+(d)
+The lien of defaulted taxes for the fiscal year 2005-2006, and any subsequent delinquencies in the amount of $89,639.85. 
+ 
+
+
+(e)
+The lien of supplemental taxes, if any, assessed pursuant to Chapter 3.5 commencing with Section 75 of the California Revenue and Taxation Code.
+
+
+

@@ -1,0 +1,160 @@
+
+EX-10.3
+3
+a2220863zex-10_3.htm
+EX-10.3
+
+
+
+
+
+
+
+Exhibit 10.3
+ 
+PERFORMANCE UNIT AWARD AGREEMENT
+ 
+HALCÓN RESOURCES CORPORATION
+2012 LONG-TERM INCENTIVE PLAN
+ 
+Effective as of February 27, 2014 (the Date of Grant),                                    (the Participant) has been granted an award of Performance Units (the Award) under the Halcón Resources Corporation 2012 Long-Term Incentive Plan (the Plan) in the form of Performance Units.  The Award shall be subject to the following terms and conditions (sometimes referred to as the Agreement).  Capitalized terms used herein and not otherwise defined shall have the meaning specified in the Plan.
+ 
+1.                                      Award.  Subject to the terms and conditions of this Agreement and the terms of the Plan, the Participant is hereby granted               Performance Units (the Target Performance Units).  This Award contains the right to earn dividend equivalent units (Dividend Equivalent Units) with respect to Earned Performance Units (as defined in Section 2) as described in Section 3.
+ 
+2.                                      Earning of Performance Units.  The Participant shall have the ability to earn between 0% and 200% of the Target Performance Units, as determined by the Board, on the third anniversary of the Grant Date based on the continuing employment of the Participant during the period beginning on the Grant Date and ending on the third anniversary of the Grant Date (the Performance Period) and the level of the average closing prices of a share of Common Stock during the 60 day trading days immediately preceding the third anniversary of the Grant Date (the Average Closing Price) in accordance with the following:
+ 
+
+
+
+Average Closing Price    
+
+     
+
+Percentage of Target Performance Units    Earned    
+
+        
+
+
+$    
+
+4.00    
+
+     
+
+50    
+
+%       
+
+
+$    
+
+7.00    
+
+     
+
+100    
+
+%       
+
+
+$    
+
+10.00    
+
+     
+
+200    
+
+%         
+ 
+Linear interpolation between the Average Closing Prices will result in a proportionate number of the Target Performance Units becoming Earned Performance Units.  The Performance Units that are earned in accordance with this Agreement are referred to herein as Earned Performance Units.  Except as otherwise specifically provided in Sections 4 or 12 or in any other agreement between the Company and the Participant, if the Participants termination of employment or service with the Company, the Subsidiaries and the Affiliated Entities (the Termination Date) occurs prior to the last day of the Performance Period for any reason, the Participants right to all Performance Units awarded and Dividend Equivalent Units credited pursuant to this Agreement shall expire immediately, all Performance Units shall be forfeited, and the Participant shall have 
+ 
+
+
+
+
+
+
+ 
+no further rights with respect to Performance Units or Dividend Equivalent Units pursuant to this Agreement or any other rights under this Agreement.
+ 
+3.                                      Dividend Equivalent Units.  The Participant shall be entitled to Dividend Equivalent Units as follows:
+ 
+(a)                                 If, during the Performance Period, a dividend with respect to shares of Common Stock was paid in cash, then the Participant shall be entitled to that number of Dividend Equivalent Units equal to the sum of the following, determined as of each dividend payment date occurring during the Performance Period: (i) the cash dividends paid with respect to a share of Common Stock on the applicable dividend payment date, multiplied by (ii) the number of Earned Performance Units for the Performance Period, divided by (iii) the Fair Market Value of a share of Common Stock on the applicable dividend payment date, rounded down to the nearest whole number.
+ 
+(b)                                 If, during the Performance Period, a dividend with respect to shares of Common Stock was paid in shares of Common Stock, then the Participant shall be entitled to that number of Dividend Equivalent Units equal to the sum of the following, determined as of each dividend payment date occurring during the Performance Period: (i) the number of shares of Common Stock distributed in the dividend (stock dividends) with respect to a share of Common Stock on the applicable dividend payment date, multiplied by (ii) the number of Earned Performance Units, rounded down to the nearest whole number.
+ 
+(c)                                  If the Participant is entitled to Dividend Equivalent Units in accordance with Section 3(a) and/or (b) above, then the Participant shall be entitled to additional Dividend Equivalent Units thereon in the event a dividend is subsequently paid with respect to shares of Common Stock in an amount equal to the sum of the following, determined as of each dividend payment date occurring during the Performance Period:  (i) the cash dividend paid or the stock dividends distributed with respect to a share of Common Stock on the applicable dividend payment date, multiplied by (ii) the number of Dividend Equivalent Units to which the Participant was entitled as of the dividend payment date (after application of the provisions of paragraphs (a) and (b) above with respect to the applicable dividend date), and (iii) in the case of any cash dividend, divided by the Fair Market Value of a share of Common Stock on the applicable dividend payment date, rounded down to the nearest whole number.
+ 
+The Participant shall only earn Dividend Equivalent Units with respect to Earned Performance Units and, to the extent provided pursuant to Section 3(c), Dividend Equivalent Units. Dividend Equivalent Units shall be paid at the same time as Earned Performance Units in accordance with this Agreement.
+ 
+4.                                      Termination Prior to End of Performance Period.  Subject to this Agreement, the Plan and any the terms of any employment agreement between the Company and the Participant described below, if the Participants Termination Date occurs prior to the last day of the 
+ 
+2
+
+
+
+
+
+
+ 
+Performance Period, the Participants right to all Performance Units (and related Dividend Equivalent Units) awarded to the Participant pursuant to this Agreement shall be forfeited and the Participant shall have no further rights with respect thereto.  Notwithstanding the foregoing, if the Participants Termination Date occurs prior to the last day of the Performance Period by reason of (a) death, (b) Disability or (c) in the event that the Participant and Company are parties to an employment agreement that defines the terms Cause and Good Reason, and the Participants employment is terminated by the Company without Cause or by the Participant for Good Reason under circumstances that satisfy all the requirements of such agreement, then the Participant (and in the event of his death, his beneficiary) shall be entitled to the number of Earned Performance Units (and related Dividend Equivalent Units) that the Participant would have been entitled to receive had his Termination Date not occurred prior to the end of the Performance Period based on actual satisfaction of the Performance Goals at the end of the Performance Period.  In such event, the Earned Performance Units (and any related Dividend Equivalent Units) shall be paid in accordance with Section 5 hereof. For the avoidance of doubt, and without limiting the generality of the first sentence of this Section 4, if the Participants employment is terminated by the Company for Cause or by the Participant without Good Reason, the Participants right to all Performance Units (and related Dividend Equivalent Units) awarded to the Participant pursuant to this Agreement shall be forfeited and the Participant shall have no further rights with respect thereto.
+ 
+5.                                      Payment.  Subject to this Agreement, the Earned Performance Units (and related Dividend Equivalent Units) shall be paid to the Participant in whole shares of Common Stock with one share of Common Stock being paid for each Earned Performance Units (and with the value of any fractional share being paid in cash) no later than March 15 of the year following the year in which the last day of the Performance Period occurs, subject to the following:
+ 
+(a)                                 If the Participant has elected to defer payment of any Earned Performance Units (and related Dividend Equivalent Units) in accordance with a deferred compensation program maintained by the Company, a Subsidiary or Affiliated Entity (a Deferred Compensation Plan) payment shall be made in accordance with the terms of the Deferred Compensation Plan.
+ 
+(b)                                 If the Performance Units granted under this Agreement are intended to constitute performance-based compensation within the meaning of section 162(m) of the Code, no Performance Units (or any related Dividend Equivalent Units) shall be Earned Performance Units and no payment with respect thereto shall occur unless and until the Board has certified that the applicable Performance Goals have been satisfied, which certification shall be made, if at all, no later than the date by which payment is to be made pursuant to this Section 5.
+ 
+Upon the payment of any Earned Performance Units (and related Dividend Equivalent Units), such Earned Performance Units (and related Dividend Equivalent Units) shall be cancelled.  The Board, in its sole discretion, may pay the Earned Performance Units (and/or related Dividend Equivalent Units), in whole or in part, in cash rather than in shares of Common Stock.
+ 
+6.                                      Withholding.  The award of Performance Units and the related right to Dividend Equivalent Units hereunder and all payments under this Agreement are subject to withholding of 
+ 
+3
+
+
+
+
+
+
+ 
+all applicable taxes.  At the election of the Participant, and with the consent of the Board, such withholding obligations on payments of shares of Common Stock may be satisfied through the surrender of shares of Common Stock which the Participant already owns or to which the Participant is otherwise entitled under the Plan; provided, however, that previously-owned shares of Common Stock that have been held by the Participant or shares to which the Participant is entitled under the Plan may only be used to satisfy the minimum tax withholding required by applicable law (or other rates that will not have a negative accounting impact on the Company).
+ 
+7.                                      Performance Units and Dividend Equivalent Units Are Not Common Stock.  The award of Performance Units and the related right to Dividend Equivalent Units under this Agreement does not constitute the award of shares of Common Stock, and nothing in this Agreement shall be construed to give the Participant any rights as a shareholder of the Company prior to payment of Earned Performance Units and Dividend Equivalent Units, as applicable
+ 
+8.                                      Transferability.  This Award is not transferable except as designated by the Participant by will or by the laws of descent and distribution in accordance with the terms of the Plan.
+ 
+9.                                      Adjustment of Award.  All Performance Units and the related right to Dividend Equivalent Units subject to this Agreement shall be adjusted by the Board in accordance with Article 12 of the Plan (or a successor provision) to reflect certain corporate transactions which affect the number, type or value of the Performance Units and/or Dividend Equivalent Units or a Change of Control Event.
+ 
+10.                               Recoupment/Clawback.  The Award evidenced by this Agreement is subject to recoupment or clawback pursuant to any policy maintained by the Company (whether currently or in the future).
+ 
+11.                               Change of Control.  In accordance with Section 13.4 of the Plan, upon the occurrence of a Change of Control Event (as defined in the Plan) prior to the end of the Performance Period, the number of Earned Performance Units (and related Dividend Equivalent Units) shall be determined and paid based on either (i) the price per share of Common Stock received by or distributed to all of the Companys common stockholders as consideration in such transaction determined at the time of the closing of the transaction, or (ii) if the transaction is not one in which all of the Companys common stockholders are entitled to such payment, the Average Closing Price as described in Section 2 calculated for the period preceding the date of the Change of Control Event in lieu of the third anniversary of the Grant Date. If a Change of Control Event occurs after the end of the Performance Period and prior to the payment date set forth in Section 5, the number of Earned Performance Units (and related Dividend Equivalent Units) shall be determined and paid without regard to this Section 11.  If this Section 11 applies, any Earned Performance Units and related Dividend Equivalent Units shall be paid within 30 days of the Change of Control Event in such form as determined by the Board; provided, however, that if payment in connection with a Change of Control Event would result in a violation of section 409A of the Code, payment shall not be accelerated but shall occur as of the payment date set forth in Section 5.  In the event that any portion of the Performance Units have been deferred under a Deferred Compensation Plan, payment shall be made in accordance with the terms of the Deferred Compensation Plan.
+ 
+4
+
+
+
+
+
+
+ 
+12.                               Award Not Contract of Employment.  The Award does not constitute a contract of employment or continued service, and the grant of the Award shall not give the Participant the right to be retained in the employ or service of the Company, any Subsidiary or an Affiliated Entity, nor any right or claim to any benefit under the Plan or this Agreement, unless such right or claim has specifically accrued under the terms of the Plan and this Agreement.
+ 
+13.                               Administration.  The authority to administer and interpret this Agreement shall be vested in the Board, and the Board shall have all the powers with respect to this Agreement as it has with respect to the Plan.  Any interpretation of this Agreement by the Board and any decision made by it with respect to this Agreement is final and binding on all persons.
+ 
+14.                               Plan Governs.  The Agreement shall be subject to the terms of the Plan, a copy of which may be obtained by the Participant from the office of the Secretary of the Company.
+ 
+15.                               Amendment and Termination.  The Board may at any time amend or terminate this Agreement at any time; provided, however, that no amendment that is adverse to the Participant shall be made without the Participants consent.  Adjustments or changes made in accordance with the terms of the Plan, and amendments to conform to the requirements or provisions of section 409A of the Code shall not be subject to the foregoing limitations.
+ 
+16.                               Special 409A Provisions.  Notwithstanding any other provision of this Agreement to the contrary, if any payment hereunder is subject to section 409A of the Code and if such payment is to be paid on account of the Participants separation from service (within the meaning of section 409A of the Code), if the Participant is a specified employee (within the meaning of section 409A(a)(2)(B) of the Code), and if any such payment is required to be made prior to the first day of the seventh month following the Participants separation from service, such payment shall be delayed until the first day of the seventh month following the Participants separation from service.  To the extent that any payments or benefits under this Agreement are subject to section 409A of the Code and are paid or provided on account of the Participants termination of employment, the determination as to whether the Participant has had a termination of employment (or separation from service) shall be made in accordance with section 409A of the Code and the guidance issued thereunder.
+ 
+5
+
+
+
+
+
+
+
+
+

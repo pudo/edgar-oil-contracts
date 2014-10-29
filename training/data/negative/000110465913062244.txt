@@ -1,0 +1,1631 @@
+
+EX-10.1
+2
+a13-13903_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+  
+
+
+EXHIBIT 10.1
+ 
+SEVENTH AMENDMENT TO FOURTH AMENDED AND RESTATED
+CREDIT AGREEMENT
+ 
+This SEVENTH AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT (this Amendment) is made as of June 27, 2013, by and among ANTERO RESOURCES CORPORATION, a Delaware corporation, formerly known as Antero Resources Appalachian Corporation and successor by merger to each of Antero Resources Arkoma LLC, Antero Resources Piceance LLC and Antero Resources Pipeline LLC (the Borrower), CERTAIN SUBSIDIARIES OF BORROWER, as Guarantors, the LENDERS party hereto, and JPMORGAN CHASE BANK, N.A., as Administrative Agent (in such capacity, the Administrative Agent).  Unless otherwise expressly defined herein, capitalized terms used but not defined in this Amendment have the meanings assigned to such terms in the Credit Agreement (as defined below).
+ 
+WITNESSETH:
+ 
+WHEREAS, the Borrower, the Guarantors, the Administrative Agent and the Lenders have entered into that certain Fourth Amended and Restated Credit Agreement, dated as of November 4, 2010 (as amended, restated, amended and restated, supplemented or otherwise modified from time to time, the Credit Agreement); and
+ 
+WHEREAS, the Administrative Agent, the Lenders, the Borrower and the Guarantors have agreed to amend the Credit Agreement as provided herein subject to the terms and conditions set forth herein.
+ 
+NOW, THEREFORE, for and in consideration of the mutual covenants and agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged and confessed, the Borrower, the Guarantors, the Administrative Agent and the Lenders hereby agree as follows:
+ 
+SECTION 1.                                       Amendments to Credit Agreement.  Subject to the satisfaction or waiver in writing of each condition precedent set forth in Section 3 of this Amendment, and in reliance on the representations, warranties, covenants and agreements contained in this Amendment, the Credit Agreement shall be amended in the manner provided in this Section 1.
+ 
+1.1                               Cover Page.  The cover page to the Credit Agreement shall be and it hereby is amended and restated in its entirety and replaced with Annex A attached hereto.
+ 
+1.2                               Preamble.  The preamble to the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows:
+ 
+THIS FOURTH AMENDED AND RESTATED CREDIT AGREEMENT dated as of November 4, 2010, among ANTERO RESOURCES CORPORATION, a Delaware corporation, formerly known as Antero Resources Appalachian Corporation and successor by merger to each of Antero Resources Arkoma LLC, Antero Resources Piceance LLC and Antero Resources Pipeline LLC (Antero and, together with its Subsidiaries from time to time party hereto
+ 
+
+
+
+
+
+
+ 
+as borrowers, each a Borrower and collectively, the Borrowers), CERTAIN SUBSIDIARIES OF BORROWERS, as Guarantors, the LENDERS party hereto, JPMORGAN CHASE BANK, N.A., as Administrative Agent, WELLS FARGO BANK, N.A., as Syndication Agent, and UNION BANK, N.A., and CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, as Co-Documentation Agents.
+ 
+1.3                               Amended Definition.  The following definition in Section 1.01 of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows:
+ 
+Aggregate Commitment means, at any time, the sum of the Commitments of all the Lenders at such time, as such amount may be reduced or increased from time to time pursuant to Section 2.02 and Section 2.03; provided that such amount shall not at any time exceed the lesser of (a) the Borrowing Base then in effect and (b) the Maximum Facility Amount.  As of the Seventh Amendment Effective Date, the Aggregate Commitment is $1,450,000,000.
+ 
+Bluestone Loan Documents means the collective reference to (a) that certain Amended and Restated Promissory Note, dated December 1, 2010, executed by Antero Bluestone payable to the order of Ross Tailwind, LLC in the principal amount of $25,000,000, (b) that certain Amended and Restated Loan Agreement, dated as of December 1, 2010, between Antero Bluestone and Ross Tailwind, LLC, (c) that certain Guarantee made by Antero Bluestone, Antero, Antero Resources Piceance LLC and Antero Resources Appalachian Corporation, dated as of December 1, 2010, in favor of Ross Tailwind, LLC, and (d) any other agreements, documents, instruments and certificates contemplated by or executed in connection with any of the foregoing.
+ 
+Co-Documentation Agent means, so long as it is a Lender, each of Union Bank, N.A., and Credit Agricole Corporate and Investment Bank, each in its capacity as a Co-Documentation Agent.
+ 
+1.4                               Deleted Definitions.  The following definitions in Section 1.01 of the Credit Agreement shall be and they hereby are deleted in their entirety: Antero Appalachian, Antero Piceance and Antero Pipeline.
+ 
+1.5                               Additional Definition.  The following definition shall be and it hereby is added to Section 1.01 of the Credit Agreement in appropriate alphabetical order:
+ 
+Seventh Amendment Effective Date means June 27, 2013.
+ 
+1.6                               Schedules.  Schedule 1.01 to the Credit Agreement shall be and it hereby is amended in its entirety and replaced with Schedule 1.01 attached hereto.
+ 
+SECTION 2.                                       Increase of Commitments.  Certain Lenders have agreed to increase their respective Commitments under the Credit Agreement (each, an Increasing Lender).  Each of the Administrative Agent and the Borrower hereby consents to the increase in each Increasing
+ 
+
+
+
+
+
+
+ 
+Lenders Commitment.  On the date this Amendment becomes effective and after giving effect to such increase of the Aggregate Commitment, the Commitment of each Lender shall be as set forth on Schedule 1.01 of this Amendment.  Each Increasing Lender hereby consents to the increase of its Commitments as set forth on Schedule 1.01 of this Amendment. The increase in each Increasing Lenders Commitment shall be deemed to have been consummated pursuant to the terms of the Lender Certificate attached as Exhibit E to the Credit Agreement as if such Increasing Lender, had executed a Lender Certificate with respect to such increase.  To the extent requested by any Lender and in accordance with Section 2.16 of the Credit Agreement, the Borrower shall pay to such Lender, within the time period prescribed by Section 2.16 of the Credit Agreement, any amounts required to be paid by the Borrower under Section 2.16 of the Credit Agreement in the event the payment of any principal of any Eurodollar Loan or the conversion of any Eurodollar Loan other than on the last day of an Interest Period applicable thereto is required in connection with the reallocation contemplated by this Section 2.
+ 
+SECTION 3.                                       Conditions.  The amendments to the Credit Agreement contained in Section 1 of this Amendment and the increase of the Commitments contained in Section 2 of this Amendment shall be effective upon the satisfaction of each of the conditions set forth in this Section 3.
+ 
+3.1                               Execution and Delivery.  Each Credit Party, the Lenders (or at least the required percentage thereof), and the Administrative Agent shall have executed and delivered this Amendment.
+ 
+3.2                               No Default.  No Default shall have occurred and be continuing or shall result from the effectiveness of this Amendment.
+ 
+3.3                               Fees.  The Borrower, the Administrative Agent and J.P. Morgan Securities LLC shall have executed and delivered a fee letter in connection with this Amendment, and the Administrative Agent and J.P. Morgan Securities LLC shall have each received, for its own account and for the account of the Lenders, the fees separately agreed upon in such fee letter.
+ 
+3.4                               Other Documents.  The Administrative Agent shall have received such other instruments and documents incidental and appropriate to the transactions provided for herein as the Administrative Agent or its special counsel may reasonably request, and all such documents shall be in form and substance reasonably satisfactory to the Administrative Agent.
+ 
+SECTION 4.                                       Post-Closing Covenant.  Within thirty (30) days following the Seventh Amendment Effective Date (or such longer period as permitted by the Administrative Agent in its sole discretion), the Borrower shall deliver to the Administrative Agent (a) Mortgages and title information, in each case, reasonably satisfactory to the Administrative Agent with respect to the Borrowing Base Properties, or the portion thereof, as required by Sections 6.09 and 6.10 of the Credit Agreement and (b) amendments to the existing Mortgages, as requested by Administrative Agent to give effect to the amendments contained herein and otherwise in form and substance satisfactory to Administrative Agent.
+ 
+
+
+
+
+
+
+ 
+SECTION 5.                                       Representations and Warranties of Credit Parties.  To induce the Lenders to enter into this Amendment, each Credit Party hereby represents and warrants to the Lenders as follows:
+ 
+5.1                               Reaffirmation of Representations and Warranties/Further Assurances.  After giving effect to the amendments herein, each representation and warranty of such Credit Party contained in the Credit Agreement and in each of the other Loan Documents is true and correct in all material respects as of the date hereof (except to the extent such representations and warranties specifically refer to an earlier date, in which case they are true and correct in all material respects as of such earlier date).
+ 
+5.2                               Corporate Authority; No Conflicts.  The execution, delivery and performance by each Credit Party of this Amendment are within such Credit Partys corporate or other organizational powers, have been duly authorized by necessary action, require no action by or in respect of, or filing with, any court or agency of government and do not violate or constitute a default under any provision of any applicable law or other agreements binding upon any Credit Party or result in the creation or imposition of any Lien upon any of the assets of any Credit Party except for Permitted Liens and otherwise as permitted in the Credit Agreement.
+ 
+5.3                               Enforceability.  This Amendment constitutes the valid and binding obligation of the Borrower and each other Credit Party enforceable in accordance with its terms, except as (i) the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors rights generally, and (ii) the availability of equitable remedies may be limited by equitable principles of general application.
+ 
+5.4                               No Default.  As of the date hereof, both before and immediately after giving effect to this Amendment, no Default has occurred and is continuing.
+ 
+SECTION 6.                                       Miscellaneous.
+ 
+6.1                               Reaffirmation of Loan Documents and Liens.  Any and all of the terms and provisions of the Credit Agreement and the Loan Documents shall, except as amended and modified hereby, remain in full force and effect and are hereby in all respects ratified and confirmed by each Credit Party.  The Borrower and each Guarantor hereby agrees that the amendments and modifications herein contained shall in no manner affect or impair the liabilities, duties and obligations of any Credit Party under the Credit Agreement and the other Loan Documents or the Liens securing the payment and performance thereof.
+ 
+6.2                               Parties in Interest.  All of the terms and provisions of this Amendment shall bind and inure to the benefit of the parties hereto and their respective successors and assigns.
+ 
+6.3                               Legal Expenses.  Each Credit Party hereby agrees to pay all reasonable fees and expenses of special counsel to the Administrative Agent incurred by the Administrative Agent in connection with the preparation, negotiation and execution of this Amendment and all related documents.
+ 
+
+
+
+
+
+
+ 
+6.4                               Counterparts.  This Amendment may be executed in one or more counterparts and by different parties hereto in separate counterparts each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument; signature pages may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are physically attached to the same document.  Delivery of photocopies of the signature pages to this Amendment by facsimile or electronic mail shall be effective as delivery of manually executed counterparts of this Amendment.
+ 
+6.5                               Complete Agreement.  THIS AMENDMENT, THE CREDIT AGREEMENT, AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+ 
+6.6                               Headings.  The headings, captions and arrangements used in this Amendment are, unless specified otherwise, for convenience only and shall not be deemed to limit, amplify or modify the terms of this Amendment, nor affect the meaning thereof.
+ 
+6.7                               Governing Law.  This Amendment shall be construed in accordance with and governed by the laws of the State of New York.
+ 
+6.8                               Loan Document.  This Amendment shall constitute a Loan Document for all purposes and in all respects.
+ 
+[Remainder of page intentionally blank.
+Signature pages follow.]
+ 
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed by their respective authorized officers to be effective as of the date first above written.
+ 
+
+
+
+     
+
+BORROWER:       
+
+
+     
+
+        
+
+
+     
+
+ANTERO   RESOURCES CORPORATION (formerly known as Antero Resources   Appalachian Corporation and successor by merger to each of Antero Resources   Arkoma LLC, Antero Resources Piceance LLC and Antero Resources Pipeline LLC)       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Alvyn A. Schopp       
+
+
+     
+
+     
+
+Name:    
+
+Alvyn   A. Schopp       
+
+
+     
+
+     
+
+Title:    
+
+Treasurer   and Vice President,       
+
+
+     
+
+     
+
+Administration   and Accounting       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+RESTRICTED   SUBSIDIARIES:       
+
+
+     
+
+        
+
+
+     
+
+ANTERO   RESOURCES FINANCE CORPORATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Alvyn A. Schopp       
+
+
+     
+
+     
+
+Name:    
+
+Alvyn   A. Schopp       
+
+
+     
+
+     
+
+Title:    
+
+Treasurer   and Vice President,       
+
+
+     
+
+     
+
+Administration   and Accounting       
+
+
+     
+
+        
+
+
+     
+
+ANTERO   RESOURCES BLUESTONE LLC       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Alvyn A. Schopp       
+
+
+     
+
+     
+
+Name:    
+
+Alvyn   A. Schopp       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President  Accounting &       
+
+
+     
+
+     
+
+Administration/Treasurer         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+JPMORGAN   CHASE BANK, N.A.,       
+
+
+     
+
+as   Administrative Agent, Issuing Bank and a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Ryan Fuessel       
+
+
+     
+
+     
+
+Name:    
+
+Ryan   Fuessel       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Officer         
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+WELLS   FARGO BANK, N.A.,       
+
+
+     
+
+as   Syndication Agent and a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Suzanne Ridenhour       
+
+
+     
+
+     
+
+Name:    
+
+Suzanne   Ridenhour       
+
+
+     
+
+     
+
+Title:    
+
+Director         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+UNION   BANK, N.A.,       
+
+
+     
+
+as   Co-Documentation Agent and a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Lara Sorokolit       
+
+
+     
+
+     
+
+Name:    
+
+Lara   Sorokolit       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   AGRICOLE CORPORATE AND INVESTMENT BANK,       
+
+
+     
+
+as   Co-Documentation Agent and a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael D. Willis       
+
+
+     
+
+     
+
+Name:    
+
+Michael   D. Willis       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Ting Lee       
+
+
+     
+
+     
+
+Name:    
+
+Ting   Lee       
+
+
+     
+
+     
+
+Title:    
+
+Director         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK   OF SCOTLAND PLC,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Stephen Giacolone       
+
+
+     
+
+     
+
+Name:    
+
+Stephen   Giacolone       
+
+
+     
+
+     
+
+Title:    
+
+Assistant   Vice President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BARCLAYS   BANK PLC,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Vanessa A. Kurbatskiy       
+
+
+     
+
+     
+
+Name:    
+
+Vanessa   A. Kurbatskiy       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+FIFTH   THIRD BANK,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Richard Butler       
+
+
+     
+
+     
+
+Name:    
+
+Richard   Butler       
+
+
+     
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMERICA   BANK,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Ekaterina Evseev       
+
+
+     
+
+     
+
+Name:    
+
+Ekaterina   Evseev       
+
+
+     
+
+     
+
+Title:    
+
+Assistant   Vice President         
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   SUISSE AG, CAYMAN ISLANDS BRANCH,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Kevin Buddhdew       
+
+
+     
+
+     
+
+Name:    
+
+Kevin   Buddhdew       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael Spaight       
+
+
+     
+
+     
+
+Name:    
+
+Michael   Spaight       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+KEY   BANK NATIONAL ASSOCIATION,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Joseph Scott       
+
+
+     
+
+     
+
+Name:    
+
+Joseph   Scott       
+
+
+     
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+U.S.   BANK NATIONAL ASSOCIATION,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Mark E. Thompson       
+
+
+     
+
+     
+
+Name:    
+
+Mark   E. Thompson       
+
+
+     
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+GUARANTY   BANK AND TRUST COMPANY,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Gail J. Nofsinger       
+
+
+     
+
+     
+
+Name:    
+
+Gail   J. Nofsinger       
+
+
+     
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CITIBANK,   N.A.,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Eamon Baqui       
+
+
+     
+
+     
+
+Name:    
+
+Eamon   Baqui       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CAPITAL   ONE, NATIONAL ASSOCIATION,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Wesley Fontana       
+
+
+     
+
+     
+
+Name:    
+
+Wesley   Fontana       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+TORONTO   DOMINION (NEW YORK) LLC,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Masood Fikree       
+
+
+     
+
+     
+
+Name:    
+
+Masood   Fikree       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BRANCH   BANKING AND TRUST COMPANY,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   James Giordano       
+
+
+     
+
+     
+
+Name:    
+
+James   Giordano       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+
+ 
+
+
+
+
+
+
+ 
+ANNEX A
+
+
+
+     
+
+          
+ 
+FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+dated as of
+ 
+November 4, 2010
+ 
+among
+ 
+ANTERO RESOURCES CORPORATION, as Borrower,
+ 
+CERTAIN SUBSIDIARIES OF BORROWERS, as Guarantors,
+ 
+THE LENDERS PARTY HERETO,
+ 
+JPMORGAN CHASE BANK, N.A., as Administrative Agent,
+ 
+WELLS FARGO BANK, N.A., as Syndication Agent,
+ 
+and
+ 
+UNION BANK, N.A., AND
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK as Co-Documentation Agents
+ 
+Senior Secured Credit Facility
+
+
+
+     
+
+          
+ 
+J.P. MORGAN SECURITIES LLC and WELLS FARGO SECURITIES, LLC, as Joint Lead Arrangers and Joint Bookrunners
+ 
+
+
+
+
+
+
+ 
+SCHEDULE 1.01
+ 
+Applicable Percentages and Commitments
+ 
+
+
+
+Lender    
+
+     
+
+Applicable   Percentage    
+
+     
+
+Commitment    
+
+        
+
+
+JPMorgan Chase Bank, N.A.    
+
+     
+
+10.689655173    
+
+%    
+
+$    
+
+155,000,000.00    
+
+        
+
+
+Wells Fargo Bank, N.A.    
+
+     
+
+10.689655173    
+
+%    
+
+$    
+
+155,000,000.00    
+
+        
+
+
+Union Bank, N.A.    
+
+     
+
+8.620689655    
+
+%    
+
+$    
+
+125,000,000.00    
+
+        
+
+
+Credit Agricole Corporate and Investment Bank    
+
+     
+
+8.620689655    
+
+%    
+
+$    
+
+125,000,000.00    
+
+        
+
+
+Citibank, N.A.    
+
+     
+
+7.931034483    
+
+%    
+
+$    
+
+115,000,000.00    
+
+        
+
+
+Barclays Bank PLC    
+
+     
+
+7.931034483    
+
+%    
+
+$    
+
+115,000,000.00    
+
+        
+
+
+Capital One, National Association    
+
+     
+
+6.896551724    
+
+%    
+
+$    
+
+100,000,000.00    
+
+        
+
+
+Toronto Dominion (New York) LLC    
+
+     
+
+5.689655172    
+
+%    
+
+$    
+
+82,500,000.00    
+
+        
+
+
+Comerica Bank    
+
+     
+
+5.689655172    
+
+%    
+
+$    
+
+82,500,000.00    
+
+        
+
+
+Branch Banking and Trust Company    
+
+     
+
+5.172413793    
+
+%    
+
+$    
+
+75,000,000.00    
+
+        
+
+
+U.S. Bank National Association    
+
+     
+
+4.827586207    
+
+%    
+
+$    
+
+70,000,000.00    
+
+        
+
+
+Credit Suisse AG, Cayman Islands Branch    
+
+     
+
+4.827586207    
+
+%    
+
+$    
+
+70,000,000.00    
+
+        
+
+
+Fifth Third Bank    
+
+     
+
+4.689655172    
+
+%    
+
+$    
+
+68,000,000.00    
+
+        
+
+
+Bank of Scotland, plc    
+
+     
+
+3.709618874    
+
+%    
+
+$    
+
+53,789,473.68    
+
+        
+
+
+KeyBank National Association    
+
+     
+
+3.103448276    
+
+%    
+
+$    
+
+45,000,000.00    
+
+        
+
+
+Guaranty Bank and Trust Company    
+
+     
+
+0.911070781    
+
+%    
+
+$    
+
+13,210,526.32    
+
+        
+
+
+TOTAL    
+
+     
+
+100.000000000    
+
+%    
+
+$    
+
+1,450,000,000.00    
+
+          
+ 
+
+
+
+
+
+
+

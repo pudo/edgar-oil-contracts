@@ -1,0 +1,2208 @@
+
+EX-10.1
+2
+d84405exv10w1.htm
+EX-10.1
+
+
+
+exv10w1
+
+
+
+
+
+
+Exhibit 10.1
+
+
+
+ASSIGNMENT AND FIRST AMENDMENT
+TO THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+
+
+
+     This ASSIGNMENT AND FIRST AMENDMENT TO THIRD AMENDED AND RESTATED CREDIT AGREEMENT (this
+Amendment) dated as of October 31, 2011 (the Amendment Effective Date), is among COMSTOCK
+RESOURCES, INC. (the Borrower), the banks named on the signature pages hereto (together with
+their respective successors and assigns in such capacity, each as a Lender), and BANK OF
+MONTREAL, as administrative agent for the Lenders (in such capacity, together with its successors
+and assigns, the Administrative Agent).
+
+
+PRELIMINARY STATEMENT
+
+
+
+     A. The Borrower, the Administrative Agent, the Lenders and certain other parties have entered
+into that certain Third Amended and Restated Credit Agreement dated as of November 30, 2010 (as
+amended, restated, modified or supplemented from time to time until the date hereof, the Credit
+Agreement).
+
+
+     B. The Borrower has requested that the Administrative Agent and the Lenders increase the
+Borrowing Base in respect of the Fall 2011 redetermination, as set forth herein.
+
+
+     C. BNP Paribas (the Departing Lender) has informed the Borrower and the Administrative Agent
+that it wishes to sell and assign all of its respective Commitment, outstanding Loans, outstanding
+L/C Obligations, and other rights and obligations under the Credit Agreement and the other Loan
+Documents, such that after giving effect thereto, it will cease to be a Lender.
+
+
+     D. Each of the Lenders listed on Annex I hereto (each, an Increasing Lender) has informed
+the Borrower and the Administrative Agent that it intends to purchase and assume a portion of the
+Departing Lenders Commitment, outstanding Loans, outstanding L/C Obligations, and other rights and
+obligations under the Credit Agreement and the other Loan Documents, such that, after giving effect
+thereto, each Increasing Lender will have increased its respective Commitment Amount and
+corresponding Percentage Share of the aggregate outstanding Loans and L/C Obligations under the
+Credit Agreement to the Commitment Amount and corresponding Percentage Share set forth on Annex II
+attached hereto.
+
+
+     E. The Borrower has requested that the Credit Agreement be amended and modified to allow BOKF,
+NA dba Bank of Texas (BOKF), Branch Banking and Trust Company (BB&T), IBERIABANK (Iberiabank)
+and OneWest Bank, FSB (OneWest; and together with BOKF, BB&T and Iberiabank, collectively, the
+New Lenders) to become Lenders party to the Credit Agreement, as set forth herein.
+
+
+     F. The Borrower has requested that the Credit Agreement be amended and modified to replace the
+existing Schedule 2.1 to the Credit Agreement with the updated Schedule 2.1 attached hereto as
+Annex II.
+
+
+     G. Subject to the terms and conditions of this Amendment, the Lenders party to the Credit
+Agreement immediately prior to the effectiveness of this Amendment, the New Lenders,
+
+
+ 
+
+
+
+
+ 
+
+
+the Administrative Agent and the Issuing Bank have entered into this Amendment in order to
+effectuate such amendments and modifications and increase the Borrowing Base, and the Departing
+Lender, each Increasing Lender and each New Lender have entered into this Amendment to effectuate
+such assignments and assumptions, and in the case of the New Lenders, to join the Credit Agreement,
+each as set forth herein.
+
+
+
+     NOW THEREFORE, in consideration of the foregoing and the mutual agreements set forth herein,
+the parties agree as follows:
+
+
+     Section 1. Definitions. Unless otherwise defined in this Amendment, each capitalized term
+used in this Amendment has the meaning assigned to such term in the Credit Agreement.
+
+
+     Section 2. Amendment of Credit Agreement.
+
+
+          (a) Section 1.1 of the Credit Agreement is hereby amended by adding the following new defined
+terms in their appropriate alphabetical order:
+
+
+
+ 2011 Senior Notes means those certain senior unsecured notes
+issued by the Borrower in an aggregate principal amount of $300,000,000 on
+the date of issuance thereof under the 2011 Senior Notes Indenture.
+
+
+
+ 2011 Senior Notes Indenture means that certain Third
+Supplemental Indenture dated as of March 14, 2011 by and among Borrower, as
+issuer, and The Bank of New York Mellon Trust Company, N.A., as trustee, and
+one or more Loan Parties, as guarantors, and all related documentation
+entered into in connection therewith pursuant to which the 2011 Senior Notes
+were issued, as the same may be amended, restated, modified or supplemented
+from time to time.
+
+
+          (b) Section 1.1 of the Credit Agreement is hereby amended by replacing the following defined
+terms in their entirety with the following:
+
+
+
+ Indenture Debt Documents means, individually and collectively,
+(i) the 2009 Senior Notes Indenture, (ii) the 2011 Senior Notes Indenture,
+(iii) any Permitted Additional Notes Indenture and (iv) any documents
+related to or delivered in connection with the issuance of any Permitted
+Refinancing Indebtedness.
+
+
+
+ Permitted Additional Notes means senior unsecured notes issued
+by the Borrower from time to time after October 31, 2011; provided that (a)
+the final maturity date of such senior unsecured notes shall not be earlier
+than 91 days after the Maturity Date (as in effect on the date of issuance
+of such senior unsecured notes); (b) such senior unsecured notes and any
+Permitted Additional Notes Indenture under which such senior unsecured notes
+are issued contain customary terms and conditions for senior unsecured notes
+of like tenor and amount and do not contain any covenants, events or default
+or other provisions (other than interest rate
+
+
+2
+
+
+
+
+ 
+
+
+
+
+and redemption premiums) that, on the whole, are materially more onerous to
+the Borrower and its Subsidiaries than those imposed by this Agreement; and
+(c) at the time of and immediately after giving effect to each incurrence of
+such Indebtedness, no Event of Default shall have occurred and be
+continuing.
+
+
+
+
+
+
+     
+     
+     Permitted Refinancing Indebtedness means Indebtedness (for
+purposes of this definition, new Indebtedness) incurred in exchange for,
+or proceeds of which are used to refinance, all or any portion of the 2009
+Senior Notes, the 2011 Senior Notes or any Permitted Additional Notes (the
+portion refinanced, the Refinanced Indebtedness); provided that (a) such
+new Indebtedness is in an aggregate principal amount not in excess of the
+sum of (i) the aggregate principal amount of the Refinanced Indebtedness and
+(ii) an amount necessary to pay any fees and expenses, including premiums,
+related to such refinancing; (b) such new Indebtedness has a stated maturity
+and an average life no shorter than the date that is 91 days after the
+Maturity Date; (c) such new Indebtedness does not contain any covenants,
+events of default or other terms (other than interest rate and redemption
+premiums) that, on the whole, are materially more onerous to the Borrower
+and its Subsidiaries than those imposed by the Refinanced Indebtedness; (d)
+the stated interest or coupon rate of such new Indebtedness is reasonably
+acceptable to the Administrative Agent; and (e) no Event of Default shall
+exist at the time of, or result from, the issuance of such new Indebtedness.
+For the avoidance of doubt, that portion of any Indebtedness initially
+issued as Permitted Additional Notes the proceeds of which are used to call,
+redeem or repurchase 2009 Senior Notes or 2011 Senior Notes and the
+principal amount of which is ultimately deducted from the Borrowing Base
+adjustment pursuant to Section 2.8(d)(ii) shall constitute Permitted
+Refinancing Indebtedness.
+
+
+
+
+
+          (c) Section 1.1 of the Credit Agreement is hereby amended by deleting the following defined
+terms: 2004 Senior Notes; and 2004 Senior Notes Indenture.
+
+
+          (d) Section 2.8(d)(ii) is hereby amended by deleting the proviso and replacing it in its
+entirety with the following:
+
+
+
+;provided, however, that if the Borrower delivers written
+notice to the Administrative Agent concurrently with the issuance of any
+Permitted Additional Notes that the Borrower intends to use all or a portion
+of the proceeds of such Permitted Additional Notes to call, redeem or
+repurchase all or a portion of the 2009 Senior Notes or 2011 Senior Notes
+within thirty (30) days of the issuance of such Permitted Additional Notes
+in accordance with Section 7.12(a), then the outstanding principal
+amount of 2009 Senior Notes or 2011 Senior Notes to be called, redeemed or
+repurchased (together with any 2009 Senior Notes and 2011 Senior Notes
+previously called, redeemed or repurchased prior to or after the Closing
+
+
+3
+
+
+
+
+ 
+
+
+
+
+Date) shall be deducted from the stated aggregate principal amount of
+Permitted Additional Notes for purposes of the foregoing automatic Borrowing
+Base reduction; provided further that the Borrowing Base shall be
+automatically reduced further by $0.25 for every $1 of the aggregate
+outstanding principal amount of any 2009 Senior Notes or 2011 Senior Notes,
+as applicable, that were the subject of such call, redemption or repurchase
+but that have not been redeemed or repurchased on or before the last day of
+such thirty (30) day period.
+
+
+          (e) Section 7.3(f) is hereby deleted and replaced in its entirety with the following:
+
+
+
+(f) unsecured Indebtedness of Borrower (and related Guaranty Obligations of
+the Guarantors) outstanding under (i) the 2009 Senior Notes Indenture ,
+provided that the aggregate principal amount of any Indebtedness outstanding
+thereunder shall not exceed $300,000,000 at any time, (ii) the 2011 Senior
+Notes, provided that the aggregate principal amount of any Indebtedness
+outstanding thereunder shall not exceed $300,000,000 at any time, (iii) any
+Permitted Additional Notes, provided that the aggregate principal amount of
+any Indebtedness outstanding thereunder, not including any amount used to
+call, redeem or repurchase 2009 Senior Notes or 2011 Senior Notes (which
+shall constitute Permitted Refinancing Indebtedness) shall not exceed
+$300,000,000 at any time, and (iv) any Permitted Refinancing Indebtedness
+
+
+          (f) Section 7.12(a) is hereby deleted and replaced in its entirety with the following:
+
+
+
+(a) the Borrower may call, redeem or repurchase 2009 Senior Notes or 2011
+Senior Notes at any time, provided that both before and after giving
+effect to any such call, redemption or repurchase no Default or Event of
+Default shall have occurred and be continuing and the Outstanding Amount
+shall not exceed, after giving effect to any Credit Extension the proceeds
+of which are used (or are intended to be used) to fund any portion of any
+such call, redemption or repurchase, 66.6% of the Borrowing Base then in
+effect (provided that, for the avoidance of doubt, the Borrower acknowledges
+that the Borrowing Base shall not be increased as result of any such call,
+redemption or repurchase except to the extent (if any) that the principal
+amount of the 2009 Senior Notes or 2011 Senior Notes redeemed or repurchased
+with the proceeds of Permitted Additional Notes is netted against the
+principal amount of such Permitted Additional Notes for purposes of any
+reduction in the Borrowing Base pursuant to Section 2.8(d)(ii)); and
+
+
+          (g) The Credit Agreement is hereby amended by deleting the existing Schedule 2.1 to the Credit
+Agreement and inserting in its place the text contained in Annex II attached to this Amendment as
+the new Schedule 2.1 to the Credit Agreement.
+
+
+4
+
+
+
+
+ 
+
+
+
+          (h) The Credit Agreement is hereby amended by inserting at the end of the existing Schedule
+10.2 to the Credit Agreement the text contained in Annex III attached to this Amendment.
+
+
+     Section 3. BOKF, BB&T, Iberiabank and OneWest as Lenders.
+
+
+          (a) Upon the effectiveness of this Amendment and by its execution and delivery hereof, each of
+BOKF, BB&T, Iberiabank and OneWest shall be deemed automatically to have become a party to the
+Credit Agreement, shall have all the rights and obligations, severally and not jointly, of a
+Lender under the Credit Agreement and the other Loan Documents as if each were an original
+signatory thereto, and shall agree, and does hereby agree, severally and not jointly, to be bound
+by the terms and conditions set forth in the Credit Agreement and the other Loan Documents to which
+the Lenders are a party, in each case, as if each were an original signatory thereto.
+
+
+          (b) Each of BOKF, BB&T, Iberiabank and OneWest, severally and not jointly, (i) confirms that
+it has received a copy of the Credit Agreement, together with copies of the financial statements
+referred to in Section 5.5 thereof and most recently delivered pursuant to Section 6.1 thereof and
+such other documents and information as it has deemed appropriate to make its own credit analysis
+and decision to enter into this Amendment and the Credit Agreement; (ii) agrees that is has
+independently and without reliance upon the assignor or the Administrative Agent and based on such
+information as it has deemed appropriate, made its own credit analysis and decision to enter into
+this Amendment and the Credit Agreement (and that it will, independently and without reliance upon
+the Administrative Agent, the Issuing Bank, the Arranger or any other Lender and based on such
+documents and information as it shall deem appropriate at the time, continue to make its own credit
+decisions in taking or not taking action under the Credit Agreement); (iii) represents and warrants
+that (1) its name set forth herein is its legal name, (2) it has the full power and authority and
+the legal right to make, deliver and perform, and has taken all necessary action, to authorize the
+execution, delivery and performance of this Amendment, and any and all other documents delivered by
+it in connection herewith and to fulfill its obligations under, and to consummate the transactions
+contemplated by, this Amendment, the Credit Agreement and the Loan Documents, (3) no consent or
+authorization of, filing with, or other act by or in respect of any Governmental Authority, is
+required in connection herewith or therewith, and (4) this Amendment constitutes its legal, valid
+and binding obligation; (iv) appoints and authorizes the Administrative Agent to take such action
+as agent on its behalf and to exercise such powers and discretion under the Loan Documents as are
+delegated to the Administrative Agent by the terms thereof, together with such powers and
+discretion as are reasonably incidental thereto; (v) appoints and authorizes the Issuing Bank to
+take such action as letter of credit issuing bank on its behalf and to exercise such powers and
+discretion under the Loan Documents as are delegated to the Issuing Bank by the terms thereof,
+together with such powers and discretion as are reasonably incidental thereto; (vi) agrees that it
+will perform in accordance with their terms all of the obligations that by the terms of the Credit
+Agreement are required to be performed by it as a Lender; and (vii) represents and warrants that
+under applicable Laws no tax will be required to be withheld by the Administrative Agent or the
+Borrower with respect to any payments to be made to such New Lender hereunder or under any Loan
+Document, and no tax forms described in Section 3.8 of the Credit Agreement are required
+
+
+5
+
+
+
+
+ 
+
+
+to be delivered by such New Lender (or if required, such tax forms have been delivered to the
+Administrative Agent as required under Section 3.8 of the Credit Agreement).
+
+
+
+          (c) Each of BOKF, BB&T, Iberiabank and OneWest hereby advises each other party hereto that its
+respective address for notices and its respective Lending Office shall be as set forth below its
+name on Schedule 10.2 to the Credit Agreement (as amended hereby).
+
+
+     Section 4. Redetermination of Borrowing Base.
+
+
+          (a) The Borrowing Base shall be increased from $500,000,000 to $550,000,000 from and after the
+Amendment Effective Date until the Borrowing Base shall be otherwise redetermined in accordance
+with the Credit Agreement.
+
+
+          (b) Both the Borrower, on the one hand, and the Administrative Agent and the Lenders, on the
+other hand, agree that the redetermination of the Borrowing Base pursuant to clause (a) of this
+Section 3 constitutes the regularly scheduled Borrowing Base redetermination for Fall 2011 (and
+shall not constitute a discretionary redetermination of the Borrowing Base pursuant to Section 2.8
+of the Credit Agreement).
+
+
+     Section 5. Fees. Promptly following the effectiveness of this Amendment, the Borrower shall
+pay to the Administrative Agent for the account of each (a) Increasing Lender a fee equal to 0.50%
+of the positive difference of (i) each such Increasing Lenders Percentage Share of the increased
+Borrowing Base after giving effect to the increase in such Increasing Lenders Percentage Share
+pursuant to this Amendment, minus (ii) each such Increasing Lenders Percentage Share of the
+Borrowing Base immediately prior to the effectiveness of this Amendment, and (b) New Lender a fee
+equal to 0.50% of each New Lenders Percentage Share of the Borrowing Base after giving effect to
+this Amendment.
+
+
+     Section 6. Ratification. The Borrower hereby ratifies and confirms all of the Obligations
+under the Credit Agreement (as amended hereby) and the other Loan Documents, and, in particular,
+affirms that the terms of the Security Documents secure, and will continue to secure, all
+Obligations, after giving effect to this Amendment.
+
+
+     Section 7. Effectiveness. This Amendment shall become effective on the Amendment Effective
+Date upon satisfaction of all of the conditions set forth in this Section 7:
+
+
+
+(a) The Administrative Agent shall have received duly executed counterparts of this
+Amendment from the Borrower, the Administrative Agent, each Increasing Lender, the
+Departing Lender and each New Lender;
+
+
+
+(b) The Borrower shall have delivered to the Administrative Agent on behalf of each
+Increasing Lender that has requested a Note at least two Business Days prior to the
+date hereof, a promissory note dated the Closing Date and payable to each such
+Increasing Lender in a maximum principal amount equal to such Increasing Lenders
+Percentage Share after giving effect to this Amendment (as shown on Annex II hereto)
+of $750,000,000 (which promissory note shall replace and supersede the existing
+promissory note issued by the Borrower to such Increasing Lender and the Departing
+Lender);
+
+
+6
+
+
+
+
+ 
+
+
+
+
+(c) The Borrower shall have delivered to the Administrative Agent on behalf of each
+New Lender that has requested a Note at least two Business Days prior to the date
+hereof, a promissory note dated the Closing Date and payable to each such New Lender
+in a maximum principal amount equal to such New Lenders Percentage Share after
+giving effect to this Amendment (as shown on Annex II hereto) of $750,000,000;
+
+
+
+(d) The Borrower shall have confirmed and acknowledged to the Administrative Agent
+and the Lenders, and by its execution and delivery of this Amendment, the Borrower
+does hereby confirm and acknowledge to the Administrative Agent and the Lenders,
+that (i) the execution, delivery and performance of this Amendment has been duly
+authorized by all requisite corporate action on the part of the Borrower; (ii) the
+Credit Agreement (as amended hereby) and each other Loan Document constitute valid
+and legally binding agreements enforceable against the Borrower and each other Loan
+Party that is a party thereto in accordance with their respective terms, except as
+such enforceability may be limited by bankruptcy, insolvency, reorganization,
+moratorium, fraudulent transfer or other similar laws relating to or affecting the
+enforcement of creditors rights generally and by general principles of equity,
+(iii) the representations and warranties by the Borrower and the other Loan Parties
+contained in the Credit Agreement and in the other Loan Documents are true and
+correct on and as of the date hereof in all material respects as though made as of
+the date hereof, and (iv) no Default or Event of Default exists under the Credit
+Agreement or any of the other Loan Documents.
+
+
+     Section 8. Renewal and Continuation of Existing Loans. Upon the effectiveness of this
+Amendment:
+
+
+
+     (a) All of the Obligations outstanding under the Credit Agreement as of the
+date of such effectiveness shall hereby be restructured, rearranged, renewed,
+extended and continued under the Credit Agreement (as amended hereby) and all of
+each Departing Lenders Loans and L/C Obligations outstanding under the Credit
+Agreement as of the date of such effectiveness shall hereby continue as Loans and
+L/C Obligations of the New Lenders and Increasing Lenders outstanding under the
+Credit Agreement (as amended hereby).
+
+
+
+     (b) In connection herewith, each of the Departing Lenders (severally and not
+jointly) hereby irrevocably sells, assigns, transfers and conveys without recourse
+to such Departing Lender, and each of the Increasing Lenders and New Lenders
+(severally and not jointly) hereby irrevocably purchases and assumes without
+recourse to such Departing Lender, so much of the Aggregate Commitments under, Loans
+outstanding under, and participations in Letters of Credit issued pursuant to, the
+Credit Agreement such that the Percentage Share of each Departing Lender and each
+Increasing Lender and each New Lender shall be as set forth on Schedule 2.1 to the
+Credit Agreement (as amended hereby). The foregoing assignments, transfers and
+conveyances are without recourse to the Departing Lenders and without any warranties
+whatsoever by the Administrative
+
+
+7
+
+
+
+
+ 
+
+
+
+
+Agent, the Issuing Bank or any Departing Lender as to title, enforceability,
+collectibility, documentation or freedom from liens or encumbrances, in whole or in
+part, other than the warranty of each Departing Lender (which each Departing Lender
+hereby makes) that it has not previously sold, transferred, conveyed or encumbered
+such interests.
+
+
+     Section 9. Representations of Departing Lenders and Increasing Lenders. Each Departing Lender
+(severally and not jointly) represents and warrants to the Administrative Agent, each Increasing
+Lender, each New Lender and each other Departing Lender that (1) it is the legal and beneficial
+owner of the Commitments, Loans, L/C Obligations and other rights and obligations assigned
+hereunder, free and clear of any adverse claim, (2) it has the power and authority and the legal
+right to make, deliver and perform, and has taken all necessary action, to authorize the execution,
+delivery and performance of this Amendment and to fulfill its obligations under, and to consummate
+the transactions contemplated by, this Amendment, and no consent or authorization of, filing with,
+or other act by or in respect of any Governmental Authority, is required in connection herewith or
+therewith; and (3) this Amendment constitutes the legal, valid and binding obligation of such
+Departing Lender. Each Increasing Lender (severally and not jointly) represents and warrants to
+the Administrative Agent, each other Increasing Lender, each New Lender and each Departing Lender
+that (1) it has the power and authority and the legal right to make, deliver and perform, and has
+taken all necessary action, to authorize the execution, delivery and performance of this Amendment
+and to fulfill its obligations under, and to consummate the transactions contemplated by, this
+Amendment, and no consent or authorization of, filing with, or other act by or in respect of any
+Governmental Authority, is required in connection herewith or therewith; and (2) this Amendment
+constitutes the legal, valid and binding obligation of such Increasing Lender. None of the
+Administrative Agent or the Issuing Bank makes any representation or warranty to any Lender or
+assumes any responsibility to any Lender, and no Lender makes any representation or warranty to any
+other Lender or assumes any responsibility to any other Lender, in each case, with respect to the
+financial condition of the Borrower or any of its Affiliates or the performance by the Borrower or
+any of its Affiliates of their respective obligations under the Loan Documents or assumes any
+responsibility with respect to any statements, warranties or representations made the Borrower or
+any of its Affiliates under or in connection with any Loan Document or the execution, legality,
+validity, enforceability, genuineness, sufficiency or value of any Loan Document other than as
+expressly set forth above.
+
+
+     Section 10. Waiver of Assignment Fee. The Administrative Agent hereby waives any assignment
+fee that would otherwise be payable to it under the Credit Agreement in connection with the
+assignments and assumptions contemplated hereunder.
+
+
+     Section 11. Governing Law. This Amendment shall be governed by, and construed in accordance
+with, the laws of the State of New York.
+
+
+     Section 12. Miscellaneous. (a) On and after the effectiveness of this Amendment, each
+reference in each Loan Document to this Amendment, this Note, this
+Mortgage, hereunder, hereof or words of like import, referring to such
+Loan Document, and each reference in each other Loan Document to the Credit Agreement,
+the Notes, the Mortgages, thereunder, thereof or words of
+like import referring to the Credit Agreement,
+
+
+8
+
+
+
+
+ 
+
+
+the Notes, or the Mortgage or any of them, shall mean and be a reference to such Loan
+Document, the Credit Agreement, the Notes, the Mortgage or any of them, as amended or otherwise
+modified by this Amendment; (b) the execution, delivery and effectiveness of this Amendment shall
+not, except as expressly provided herein, operate as a waiver of any default of the Borrower or any
+right, power or remedy of the Administrative Agent or the Banks under any of the Loan Documents,
+nor constitute a waiver of any provision of any of the Loan Documents and except as otherwise
+modified by the terms hereof, the Credit Agreement and such other Loan Documents shall remain in
+full force and effect; (c) this Amendment may be executed in any number of counterparts and by
+different parties hereto in separate counterparts, each of which when so executed shall be deemed
+to be an original and all of which taken together shall constitute one and the same agreement; and
+(d) delivery of an executed counterpart of a signature page to this Amendment by telecopier shall
+be effective as delivery of a manually executed counterpart of this Amendment.
+
+
+
+     Section 13. Final Agreement. THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS, INCLUDING
+THIS AMENDMENT, REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY
+EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO ORAL
+AGREEMENTS BETWEEN THE PARTIES.
+
+
+[Signature Pages Follow]
+
+
+
+
+9
+
+
+
+
+
+
+ 
+
+
+
+     IN WITNESS WHEREOF, each of the parties hereto has caused this Assignment and First
+Amendment to Third Amended and Restated Credit Agreement to be executed by its officer(s) thereunto
+duly authorized as of the date first above written.
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BORROWER:
+
+COMSTOCK RESOURCES, INC.,
+a Nevada corporation
+ 
+     
+
+     
+    By:  
+    /s/ ROLAND O. BURNS
+ 
+     
+
+     
+     
+    Name:  
+    Roland O. Burns 
+     
+
+     
+     
+    Title:  
+    Senior Vice President and 
+Chief Financial
+Officer 
+     
+
+
+     
+
+
+
+
+S - 1
+
+
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    
+
+ADMINISTRATIVE AGENT AND LENDERS:
+
+BANK OF MONTREAL, as Administrative Agent and Issuing Bank and Lender
+ 
+     
+
+     
+    By:  
+    
+/s/ JAMES V. DUCOTE
+ 
+     
+
+     
+     
+    Name:  
+    James V. Ducote 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+
+
+S - 2
+
+
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    
+BANK OF AMERICA, N.A., as Syndication 
+Agent and Lender
+ 
+     
+
+     
+    By:  
+    /s/ CHRISTOPHER T. RENYI
+ 
+     
+
+     
+     
+    Name:  
+    Christopher T. Renyi 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+
+S - 3
+
+
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    JPMORGAN CHASE BANK, N.A., as Co-Documentation Agent and Lender
+ 
+     
+
+     
+    By:  
+    
+/s/ MARK E. OLSON
+ 
+     
+
+     
+     
+    Name:  
+    Mark E. Olson 
+     
+
+     
+     
+    Title:  
+    Authorized Officer 
+     
+
+
+     
+
+
+
+
+S - 4
+
+
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    COMERICA BANK, as Co-Documentation Agent and Lender
+ 
+     
+
+     
+    By:  
+    /s/ JOHN S. LESIKAR
+ 
+     
+
+     
+     
+    Name:  
+    John S. Lesikar 
+     
+
+     
+     
+    Title:  
+    Assistant Vice President 
+     
+
+
+
+
+S - 5
+
+
+
+
+ 
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+     
+    UNION BANK, N.A.,
+as Co-Documentation Agent and Lender
+ 
+     
+
+     
+    By:  
+    
+ /s/ WHITNEY RANDOLPH
+ 
+     
+
+     
+     
+    Name:  
+    Whitney Randolph 
+     
+
+     
+     
+    Title:  
+    
+Vice President 
+     
+
+
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+S - 6
+
+
+
+
+ 
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    REGIONS BANK, as a Lender
+ 
+     
+
+     
+    By:  
+    
+/s/ WILLIAM A. PHILIPP
+ 
+     
+
+     
+     
+    Name:  
+    William A. Philipp 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+
+
+S - 7
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANK OF SCOTLAND, as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ KAREN WEICH
+ 
+     
+
+     
+     
+    Name:  
+    Karen Weich 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+
+S - 8
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    
+
+
+CAPITAL ONE, N.A., as a Lender
+ 
+     
+
+     
+    By:  
+    
+/s/ NANCY M. MAK
+ 
+     
+
+     
+     
+    Name:  
+    Nancy M. Mak 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+
+S - 9
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+     
+    
+
+
+THE BANK OF NOVA SCOTIA, as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ JOHN FRAZELL
+ 
+     
+
+     
+     
+    Name:  
+    John Frazell 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+
+
+S - 10
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    COMPASS BANK, as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ DOROTHY MARCHAND
+ 
+     
+
+     
+     
+    Name:  
+    Dorothy Marchand 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+
+
+S - 11
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    NATIXIS, as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ LIANA TCHERNYSHEVA
+ 
+     
+
+     
+     
+    Name:  
+    Liana Tchernysheva 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+     
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                          /s/ DONOVAN BROUSSARD
+ 
+     
+
+     
+     
+    Name:  
+    Donovan Broussard 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+
+
+S - 12
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    U.S. BANK NATIONAL ASSOCIATION,
+as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ DARIA M. MAHONEY
+ 
+     
+
+     
+     
+    Name:  
+    Daria M. Mahoney 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+
+S - 13
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    SUNTRUST BANK, as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ GREGORY C. MAGNUSON
+ 
+     
+
+     
+     
+    Name:  
+    Gregory C. Magnuson 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+
+S - 14
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BOKF, NA, dba Bank of Texas,
+as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ MYNAN C. FELDMAN
+ 
+     
+
+     
+     
+    Name:  
+    Mynan C. Feldman 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+
+
+S - 15
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    IBERIABANK,
+as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ CAMERON D. JONES
+ 
+     
+
+     
+     
+    Name:  
+    Cameron D. Jones 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+
+S - 16
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BRANCH BANKING AND TRUST 
+COMPANY, as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ RYAN K. MICHAEL
+ 
+     
+
+     
+     
+    Name:  
+    Ryan K. Michael 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+
+
+S - 17
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    ONEWEST BANK, FSB,
+as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ GRANT AHEARN
+ 
+     
+
+     
+     
+    Name:  
+    Grant Ahearn 
+     
+
+     
+     
+    Title:  
+    EVP 
+     
+
+
+
+
+S - 18
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BNP PARIBAS,
+as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ MATTHEW A. TURNER
+ 
+     
+
+     
+     
+    Name:  
+    Matthew A. Turner 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                          /s/ RICHARD HAWTHORNE
+ 
+     
+
+     
+     
+    Name:  
+    Richard Hawthorne 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+
+
+S - 19
+
+
+
+
+
+
+
+ 
+
+
+
+ACKNOWLEDGMENT BY GUARANTORS
+
+
+
+     Each of the undersigned Guarantors hereby (i) consents to the terms and conditions of that
+certain Assignment and First Amendment to Third Amended and Restated Credit Agreement dated as of
+October 17, 2011 (the Amendment), (ii) acknowledges and agrees that its consent is not required
+for the effectiveness of the Amendment, (iii) ratifies and acknowledges its respective Obligations
+under each Loan Document to which it is a party and affirms that the terms of its respective
+Guaranty guarantees, and will continue to guarantee, the Obligations, after giving effect to the
+Amendment, and (iv) represents and warrants that (a) no Default or Event of Default has occurred
+and is continuing, (b) it is in full compliance with all covenants and agreements pertaining to it
+in the Loan Documents, and (c) it has reviewed a copy of the Amendment.
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    COMSTOCK OIL & GAS HOLDINGS, INC.
+COMSTOCK OIL & GAS  LOUISIANA, LLC
+COMSTOCK OFFSHORE, LLC
+COMSTOCK OIL & GAS GP, LLC,
+       By Comstock Resources, Inc., its sole member
+COMSTOCK OIL & GAS, LP,
+ 
+     
+
+
+     
+
+
+     
+           By Comstock Oil & Gas GP, LLC,       its general partner,
+ 
+     
+
+
+     
+
+
+     
+           By Comstock Resources, Inc., its sole member
+ 
+     
+
+
+     
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    By:  
+                                                  /s/ ROLAND O. BURNS
+ 
+     
+
+     
+     
+    Name:  
+    Roland O. Burns 
+     
+
+     
+     
+    Title:  
+    Senior Vice President and 
+Chief Financial
+Officer 
+     
+
+
+     
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    COMSTOCK OIL & GAS INVESTMENTS, LLC
+ 
+     
+
+     
+    By:  
+    /s/ ROLAND O. BURNS
+ 
+     
+
+     
+     
+    Name:  
+    Roland O. Burns 
+     
+
+     
+     
+    Title:  
+    Manager 
+     
+
+
+
+
+S -20
+
+
+
+
+ 
+
+
+
+
+Annex I
+
+
+
+Increasing Lenders
+
+
+
+
+
+
+
+
+    
+     
+    Bank of Montreal
+
+
+
+     
+
+    
+     
+    Bank of America, N.A.
+
+
+
+     
+
+    
+     
+    JPMorgan Chase Bank, N.A.
+
+
+
+     
+
+    
+     
+    Comerica Bank
+
+
+
+     
+
+    
+     
+    Union Bank, N.A.
+
+
+
+     
+
+    
+     
+    Regions Bank
+
+
+
+     
+
+    
+     
+    Bank of Scotland
+
+
+
+     
+
+    
+     
+    Capital One N.A.
+
+
+
+     
+
+    
+     
+    The Bank of Nova Scotia
+
+
+
+     
+
+    
+     
+    Compass Bank
+
+
+
+     
+
+    
+     
+    Natixis
+
+
+
+     
+
+    
+     
+    U.S. Bank National Association
+
+
+
+     
+
+    
+     
+    SunTrust Bank
+
+
+
+
+
+Annex I
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+Annex II
+
+
+
+SCHEDULE 2.1
+
+
+
+COMMITMENT AMOUNTS
+AND PERCENTAGE SHARES
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+    Lender
+     
+    Commitment Amount
+     
+     
+    Percentage Share
+     
+
+
+
+
+
+    Bank of Montreal
+     
+    $
+    61,363,636.00
+     
+     
+     
+    8.181818182
+    %
+
+
+    Bank of America, N.A.
+     
+    $
+    57,272,727.00
+     
+     
+     
+    7.636363636
+    %
+
+
+    JPMorgan Chase Bank, N.A.
+     
+    $
+    57,272,727.00
+     
+     
+     
+    7.636363636
+    %
+
+
+    Comerica Bank
+     
+    $
+    57,272,727.00
+     
+     
+     
+    7.636363636
+    %
+
+
+    Union Bank, N.A.
+     
+    $
+    57,272,727.00
+     
+     
+     
+    7.636363636
+    %
+
+
+    Regions Bank
+     
+    $
+    53,181,818.00
+     
+     
+     
+    7.090909091
+    %
+
+
+    Bank of Scotland
+     
+    $
+    53,181,818.00
+     
+     
+     
+    7.090909091
+    %
+
+
+    Capital One N.A.
+     
+    $
+    53,181,818.00
+     
+     
+     
+    7.090909091
+    %
+
+
+    The Bank of Nova Scotia
+     
+    $
+    43,636,364.00
+     
+     
+     
+    5.818181818
+    %
+
+
+    Compass Bank
+     
+    $
+    43,636,364.00
+     
+     
+     
+    5.818181818
+    %
+
+
+    Natixis
+     
+    $
+    43,636,364.00
+     
+     
+     
+    5.818181818
+    %
+
+
+    U.S. Bank National Association
+     
+    $
+    43,636,364.00
+     
+     
+     
+    5.818181818
+    %
+
+
+    SunTrust Bank
+     
+    $
+    43,636,364.00
+     
+     
+     
+    5.818181818
+    %
+
+
+    BOKF, NA dba Bank of Texas
+     
+    $
+    20,454,545.00
+     
+     
+     
+    2.727272727
+    %
+
+
+    Branch Banking and Trust Company
+     
+    $
+    20,454,545.00
+     
+     
+     
+    2.727272727
+    %
+
+
+    IBERIABANK
+     
+    $
+    20,454,545.00
+     
+     
+     
+    2.727272727
+    %
+
+
+    OneWest Bank, FSB
+     
+    $
+    20,454,545.00
+     
+     
+     
+    2.727272727
+    %
+
+
+    Total
+     
+    $
+    750,000,000.00
+     
+     
+     
+    100.00000000
+    %
+
+
+
+
+
+
+Annex II
+
+
+
+ 
+
+
+
+
+

@@ -1,0 +1,711 @@
+
+EX-10.1
+2
+d230213dex101.htm
+SIXTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+
+
+Sixth Amendment to Second Amended and Restated Credit Agreement
+
+ 
+
+ Exhibit 10.1 
+    SIXTH AMENDMENT  TO 
+SECOND AMENDED AND RESTATED CREDIT AGREEMENT  dated as of  October 31, 2011 
+among 
+GOODRICH PETROLEUM COMPANY, L.L.C.,  as Borrower,  BNP PARIBAS, 
+as Administrative Agent,  and  The Lenders Party Hereto 
+     
+BNP SECURITIES CORP.,  as Sole Lead Arranger and Bookrunner 
+
+
+
+
+ SIXTH AMENDMENT TO SECOND 
+AMENDED AND RESTATED CREDIT AGREEMENT  THIS SIXTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT (this Sixth Amendment) dated as of October 31, 2011, is among GOODRICH PETROLEUM COMPANY, L.L.C., a Louisiana
+limited liability company (Borrower); each of the undersigned Guarantors (collectively, the Guarantors); BNP PARIBAS, as administrative agent (in such capacity, together with its successors in such capacity,
+Administrative Agent) for the lenders party to the Credit Agreement (collectively, the Lenders).  R E C I T A L S  A. Borrower, Administrative Agent and the Lenders are
+parties to that certain Second Amended and Restated Credit Agreement dated as of May 5, 2009, as amended by that certain First Amendment dated September 22, 2009, that certain Second Amendment dated October 29, 2010, that certain
+Third Amendment dated February 4, 2011, that certain Fourth Amendment dated February 25, 2011 and that certain Fifth Amendment dated May 16, 2011 (as amended, the Credit Agreement), pursuant to which the Lenders
+have made certain loans to and other extensions of credit on behalf of Borrower.  B. The Borrower, the Administrative Agent
+and the Lenders desire to amend certain provisions of the Credit Agreement.  C. NOW, THEREFORE, in consideration of the
+premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+Section 1. Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given such term in
+the Credit Agreement. Unless otherwise indicated, all article and section references in this Sixth Amendment refer to articles and sections of the Credit Agreement.  Section 2. Amendments to Credit Agreement.  2.1 Amendment to
+Section 1.02. Section 1.02 is hereby amended by amending and restating the following definition: 
+Agreement means this Second Amended and Restated Credit Agreement as amended by that certain
+First Amendment dated September 22, 2009, that certain Second Amendment dated October 29, 2010, that certain Third Amendment dated February 4, 2011, that certain Fourth Amendment dated February 25, 2011, that certain Fifth
+Amendment dated May 16, 2011 and that certain Sixth Amendment dated October 31, 2011, as the same may from time to time be amended, amended and restated, supplemented or otherwise modified. 
+2.2 Amendment to Section 9.01(a). Section 9.01(a) is hereby amended and restated in its entirety to read as follows:
+
+   1 
+
+
+
+
+
+ (a) Interest Coverage Ratio. The Parent Guarantor will not, as of the
+last day of any fiscal quarter, permit its ratio of EBITDAX for the period of four fiscal quarters then ending to cash Interest Expense for such period to be less than 2.5 to 1.0; provided that for the fiscal quarter ending on
+(i) September 30, 2011, EBITDAX shall be calculated based upon EBITDAX for the fiscal quarter ending on such date multiplied by four (4), (ii) December 31, 2011, EBITDAX shall be calculated based upon EBITDAX for the two
+(2) fiscal quarters ending on such date multiplied by two (2) and (iii) March 31, 2012, EBITDAX shall be calculated based upon EBITDAX for the three (3) fiscal quarters ending on such date divided by three (3) and
+multiplied by four (4).  2.3 Amendment to Section 9.01(b). Section 9.01(b) is hereby amended and restated in
+its entirety to read as follows:  (b) Ratio of Total Debt to EBITDAX. The Parent Guarantor will not, at
+any time, permit its ratio of Total Debt as of such time to EBITDAX for the four fiscal quarters ending on the last day of the fiscal quarter immediately preceding the date of determination for which financial statements are available to be greater
+than 4.0 to 1.0; provided that for the fiscal quarter ending on (i) September 30, 2011, EBITDAX shall be calculated based upon EBITDAX for the fiscal quarter ending on such date multiplied by four (4), (ii) December 31, 2011,
+EBITDAX shall be calculated based upon EBITDAX for the two (2) fiscal quarters ending on such date multiplied by two (2) and (iii) March 31, 2012, EBITDAX shall be calculated based upon EBITDAX for the three (3) fiscal
+quarters ending on such date divided by three (3) and multiplied by four (4).  Section 3. Borrowing Base. For the
+period from and including the Sixth Amendment Effective Date to but excluding the next Redetermination Date, the amount of the Borrowing Base shall be $275,000,000. Notwithstanding the foregoing, the Borrowing Base may be subject to further
+adjustments from time to time pursuant to Section 2.07(f), Section 8.13(c) or Section 9.12.  Section 4.
+Assignment and Reallocation of Commitments and Loans. The Lenders have agreed among themselves, in consultation with the Borrower, to reallocate their respective Maximum Credit Amounts. The Administrative Agent and the Borrower hereby consent
+to such reallocation. On the Sixth Amendment Effective Date and after giving effect to such reallocations, the Maximum Credit Amount of each Lender shall be as set forth on Annex I of this Sixth Amendment which Annex I supersedes and replaces the
+Annex I to the Credit Agreement. With respect to such reallocation, the Lenders whose Maximum Credit Amounts have increased shall be deemed to have acquired the increase in the Maximum Credit Amount allocated to them from each of the other Lenders
+pursuant to the terms of the Assignment and Assumption Agreement attached as Exhibit F to the Credit Agreement as if the Lenders had executed such an Assignment and Assumption Agreement with respect to such allocation. 
+Section 5. Conditions Precedent. This Sixth Amendment shall not become effective until the date on which each of the following
+conditions is satisfied (or waived in accordance with Section 12.02 of the Credit Agreement) (the Sixth Amendment Effective Date): 
+   2 
+
+
+
+
+
+ 5.1 The Administrative Agent shall have received from all of the Lenders, Borrower and the
+Guarantors, counterparts (in such number as may be requested by Administrative Agent) of this Sixth Amendment signed on behalf of such Persons.  5.2 The Administrative Agent and the Lenders shall have received all fees and other amounts due and payable on or prior to the date hereof, including, to the extent invoiced, reimbursement or payment of
+all documented out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit Agreement.  5.3 No
+Default shall have occurred and be continuing, after giving effect to the terms of this Sixth Amendment.  5.4 The
+Administrative Agent shall have received such other documents as Administrative Agent or special counsel to Administrative Agent may reasonably request.  The Administrative Agent is hereby authorized and directed to declare this Sixth Amendment to be effective when it has received documents confirming or certifying, to the satisfaction of the
+Administrative Agent, compliance with the conditions set forth in this Section 5 or the waiver of such conditions as permitted in Section 12.02 of the Credit Agreement. Such declaration shall be final, conclusive and binding upon all
+parties to the Credit Agreement for all purposes.  Section 6. Miscellaneous. 
+6.1 Confirmation. The provisions of the Credit Agreement, as amended by this Sixth Amendment, shall remain in full force and
+effect following the effectiveness of this Sixth Amendment.  6.2 Ratification and Affirmation; Representations and
+Warranties. Borrower and each Guarantor hereby (a) acknowledges the terms of this Sixth Amendment; (b) ratifies and affirms its obligations under, and acknowledges, renews and extends its continued liability under, each Loan Document
+to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended or modified hereby and (c) represents and warrants to the Lenders that as of the Sixth Amendment
+Effective Date, after giving effect to the terms of this Sixth Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct, except to the extent any such representations
+and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct as of such specified earlier date, (ii) no Default has occurred and is continuing and
+(iii) no event, development or circumstance have occurred which individually or in the aggregate could reasonably be expected to be a Material Adverse Event.  6.3 Loan Document. This Sixth Amendment is a Loan Document as defined and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan
+Documents shall apply hereto.  6.4 Counterparts. This Sixth Amendment may be executed by one or more of the parties
+hereto in any number of separate counterparts, and all of such counterparts taken together 
+   3 
+
+
+
+
+
+ 
+shall be deemed to constitute one and the same instrument. Delivery of this Sixth Amendment by facsimile or electronic transmission shall be effective as delivery of a manually executed
+counterpart hereof.  6.5 NO ORAL AGREEMENT. THIS SIXTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS
+EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS
+BETWEEN THE PARTIES.  6.6 GOVERNING LAW. THIS SIXTH AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND
+ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.  [SIGNATURES
+BEGIN NEXT PAGE] 
+   4 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Sixth Amendment to be duly executed
+as of the date first written above.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BORROWER:
+ 
+
+ 
+GOODRICH PETROLEUM COMPANY, L.L.C.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S Jan L Schott
+
+
+ 
+
+ 
+Name: Jan L. Schott, CPA
+
+
+ 
+
+ 
+Title: Senior Vice President and Chief Financial Officer
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GUARANTOR:
+ 
+
+ 
+GOODRICH PETROLEUM CORPORATION
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S Michael J Killelea
+
+
+ 
+
+ 
+Name: Michael J. Killelea
+
+
+ 
+
+ 
+Title: Senior Vice President, General Counsel and Corporate Secretary
+
+   S-1
+ Signature Page to Sixth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE AGENT:
+ 
+
+ 
+BNP PARIBAS, as Administrative Agent and as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S Betsy Jocher
+
+
+ 
+
+ 
+Name: Betsy Jocher
+
+
+ 
+
+ 
+Title: Director
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S Edward Pak
+
+
+ 
+
+ 
+Name: Edward Pak
+
+
+ 
+
+ 
+Title: Director
+
+   S-2
+ Signature Page to Sixth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF MONTREAL, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S Gumaro Tijerina
+
+
+ 
+
+ 
+Name: Gumaro Tijerina
+
+
+ 
+
+ 
+Title: Director
+
+   S-3
+ Signature Page to Sixth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+COMPASS BANK, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S Ian Payne
+
+
+ 
+
+ 
+Name: Ian Payne
+
+
+ 
+
+ 
+Title: Vice President
+
+   S-4
+ Signature Page to Sixth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+JPMORGAN CHASE BANK, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S Michael A Kamauf
+
+
+ 
+
+ 
+Name: Michael A Kamauf
+
+
+ 
+
+ 
+Title: Authorized Officer
+
+   S-5
+ Signature Page to Sixth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+WELLS FARGO BANK, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S Todd C Fogle
+
+
+ 
+
+ 
+Name: Todd C. Fogle
+
+
+ 
+
+ 
+Title: Assistant Vice President
+
+   S-6
+ Signature Page to Sixth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF AMERICA, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S Christopher Renyi
+
+
+ 
+
+ 
+Name: Christopher Renyi
+
+
+ 
+
+ 
+Title: Vice President
+
+   S-7
+ Signature Page to Sixth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ROYAL BANK OF CANADA, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S Jay Sartain
+
+
+ 
+
+ 
+Name: Jay Sartain
+
+
+ 
+
+ 
+Title: Authorized Signatory
+
+   S-8
+ Signature Page to Sixth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+ ANNEX I  LIST OF MAXIMUM CREDIT AMOUNTS  Aggregate Maximum Credit Amounts 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Name of Lender
+  
+Applicable Percentage
+ 
+ 
+Maximum Credit Amount
+ 
+
+
+
+ BNP Paribas
+  
+ 
+16.00000000
+% 
+ 
+$
+96,000,000.00
+  
+
+ Bank of Montreal
+  
+ 
+14.66666667
+% 
+ 
+$
+88,000,000.00
+  
+
+ Compass Bank
+  
+ 
+14.66666667
+% 
+ 
+$
+88,000,000.00
+  
+
+ JPMorgan Chase Bank, N.A.
+  
+ 
+14.66666667
+% 
+ 
+$
+88,000,000.00
+  
+
+ Wells Fargo Bank, N.A.
+  
+ 
+13.33333333
+% 
+ 
+$
+80,000,000.00
+  
+
+ Bank of America, N.A.
+  
+ 
+13.33333333
+% 
+ 
+$
+80,000,000.00
+  
+
+ Royal Bank of Canada
+  
+ 
+13.33333333
+% 
+ 
+$
+80,000,000.00
+  
+
+ TOTAL
+  
+ 
+100.00000000
+% 
+ 
+$
+600,000,000.00
+  
+
+   Annex I
+
+
+
+

@@ -1,0 +1,322 @@
+
+EX-10.33
+8
+d656849dex1033.htm
+EX-10.33
+
+
+EX-10.33
+
+ 
+
+ Exhibit 10.33   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Devon Energy Corporation
+
+  
+ID: 73-1567067
+
+  
+333 West Sheridan Avenue
+
+  
+Oklahoma City, Oklahoma 73102-5015
+    
+NOTICE OF GRANT OF RESTRICTED STOCK AWARD 
+AND AWARD AGREEMENT   
+   
+
+
+
+
+
+
+
+
+
+
+%%FIRST_NAME%-% %%MIDDLE_NAME%-% %%LAST_NAME%-%Award Number: %%OPTION_NUMBER%-%
+
+%%ADDRESS_LINE_1%-%
+  
+Plan: %%EQUITY_PLAN%-%
+
+%%ADDRESS_LINE_2%-%
+  
+ID: %%EMPLOYEE_IDENTIFIER%-%
+
+%%CITY%-%, %%STATE%-%, %%ZIPCODE%-%
+  
+
+    
+Effective %%OPTION_DATE%-%, you have been granted a Restricted Stock Award of %%TOTAL_SHARES_GRANTED%-% shares of Devon Energy Corporation (the
+Company) Common Stock. These shares are restricted until the vest date(s) shown below.  The award will vest in increments on the date(s)
+shown.   
+
+
+
+
+
+
+
+
+ Shares
+  
+Full Vest
+
+
+
+
+
+
+ %%SHARES_PERIOD1%-%
+  
+%%VEST_DATE_PERIOD1%-%
+
+ %%SHARES_PERIOD2%-%
+  
+%%VEST_DATE_PERIOD2%-%
+
+ %%SHARES_PERIOD3%-%
+  
+%%VEST_DATE_PERIOD3%-%
+
+ %%SHARES_PERIOD4%-%
+  
+%%VEST_DATE_PERIOD4%-%
+    
+By your signature and the Companys signature below, you and the Company agree that this award is granted under and governed by the terms and
+conditions of the Companys 2009 Long-Term Incentive Plan, as amended and restated June 6, 2012, including 2013 amendment, and the Award Agreement, both of which are attached and made a part of this document. 
+     
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+ 
+  
+
+Devon Energy Corporation
+ 
+
+ 
+Date
+
+
+
+
+
+  
+ 
+
+ 
+  
+
+%%FIRST_NAME%-% %%MIDDLE_NAME%-% %%LAST_NAME%-%
+ 
+
+ 
+Date
+
+
+
+
+
+ DEVON ENERGY CORPORATION 
+2009 LONG-TERM INCENTIVE PLAN 
+NON-MANAGEMENT DIRECTOR 
+RESTRICTED STOCK AWARD AGREEMENT 
+THIS RESTRICTED STOCK AWARD AGREEMENT (the Agreement) entered into as of %%OPTION_DATE%-% (the Date of Grant),
+by and between Devon Energy Corporation (the Company) and %%FIRST_NAME%-% %%MIDDLE_NAME%-% %%LAST_NAME%-% (the Participant); 
+WITNESSETH:  WHEREAS, the
+Company has previously adopted the Devon Energy Corporation 2009 Long-Term Incentive Plan, as amended and restated June 6, 2012, including 2013 amendment (the Plan); and 
+WHEREAS, the Participant is a nonemployee director of the Company and it is important to the Company that the Participant be encouraged to
+remain a director of the Company; and  WHEREAS, in recognition of such facts, the Company desires to award to the Participant
+%%TOTAL_SHARES_GRANTED%-% shares of the Company Common Stock under the Plan subject to the terms and conditions of this Agreement; and 
+NOW, THEREFORE, in consideration of the premises and the mutual promises and covenants herein contained, the Participant and the Company agree
+as follows:  1. The Plan. The Plan, a copy of which is attached hereto, is hereby incorporated by reference herein and made
+a part hereof for all purposes, and when taken with this Agreement shall govern the rights of the Participant and the Company with respect to the Award (as defined below). 
+2. Grant of Award. The Company hereby grants to the Participant an award (the Award) of
+%%TOTAL_SHARES_GRANTED%-% shares of the Company Common Stock (the Restricted Stock), on the terms and conditions set forth herein and in the Plan. 
+3. Terms of Award. 
+(a) Escrow of Shares. A certificate or book-entry registration representing the Restricted Stock shall be issued in the name of the
+Participant and shall be escrowed with the Secretary of the Company (the Escrow Agent) subject to removal of the restrictions placed thereon or forfeiture pursuant to the terms of this Agreement. 
+(b) Vesting. If the Participants Date of Termination has not occurred as of the vesting date(s) specified below (the
+Vesting Date(s)), then, the Participant shall be entitled, subject to the applicable provisions of the Plan and this Agreement having been satisfied, to receive on or within a reasonable time after the applicable Vesting Date(s), the
+number of shares of Common Stock as described in the following schedule. Once vested pursuant to the terms of this Agreement, the Restricted Stock shall be deemed Vested Stock. 
+Vesting Schedule   
+
+
+
+
+
+
+
+
+ Vesting Dates
+  
+Shares Vesting
+
+
+
+
+
+
+ %%VEST_DATE_PERIOD1%-%
+  
+%%SHARES_PERIOD1%-%
+
+ %%VEST_DATE_PERIOD2%-%
+  
+%%SHARES_PERIOD2%-%
+
+ %%VEST_DATE_PERIOD3%-%
+  
+%%SHARES_PERIOD3%-%
+
+ %%VEST_DATE_PERIOD4%-%
+  
+%%SHARES_PERIOD4%-%
+
+
+
+
+
+ The Participant shall forfeit the unvested portion of the Award (including the underlying
+Restricted Stock and Accrued Dividends, as such term is hereinafter defined) upon the occurrence of the Participants Date of Termination unless the Award becomes vested under the circumstances described in paragraphs (i), (ii) or
+(iii) below.  (i) The Award shall become fully vested upon the occurrence of a Change of Control Event which occurs prior to the
+Participants Date of Termination.  (ii) The Award shall become fully vested upon the Participants Date of Termination if the
+Participants Date of Termination occurs by reason of the Participants death. The Committee may, in its sole discretion, elect to accelerate vesting of all or any portion of the Award if the Date of Termination occurs by reason of the
+Participants disability or occurs under other special circumstances (as determined by the Committee).  (iii) The Award shall become
+fully vested upon the Participants Date of Termination if the Participants Date of Termination occurs by reason of the Participants Mandatory Retirement. 
+(c) Voting Rights and Dividends. The Participant shall have all of the voting rights attributable to the shares of Restricted Stock.
+Regular quarterly cash dividends declared and paid by the Company with respect to the shares of Restricted Stock shall be paid to the Participant. Any extraordinary dividends declared and paid by the Company with respect to shares of Restricted
+Stock (Accrued Dividends) shall not be paid to the Participant until such Restricted Stock becomes Vested Stock. Accrued Dividends shall be held by the Company as a general obligation and paid to the Participant at the time the
+underlying Restricted Stock becomes Vested Stock.  (d) Vested Stock  Removal of Restrictions. Upon Restricted Stock becoming
+Vested Stock, all restrictions shall be removed from the certificates or book-entry registrations and the Secretary of the Company shall deliver to the Participant certificates or a Direct Registration Statement for the book-entry registration,
+representing such Vested Stock free and clear of all restrictions, except for any applicable securities laws restrictions, together with a check in the amount of all Accrued Dividends attributed to such Vested Stock without interest thereon. 
+4. Legends. The shares of Restricted Stock which are the subject of the Award shall be subject to the following legend: 
+THE SHARES OF STOCK EVIDENCED BY THIS CERTIFICATE OR BOOK-ENTRY REGISTRATION ARE SUBJECT TO AND ARE TRANSFERRABLE ONLY IN ACCORDANCE WITH
+THAT CERTAIN RESTRICTED STOCK AWARD AGREEMENT DATED %%OPTION_DATE%-% FOR THE DEVON ENERGY CORPORATION 2009 LONG-TERM INCENTIVE PLAN, AS AMENDED AND RESTATED JUNE 6, 2012, INCLUDING 2013 AMENDMENT. ANY ATTEMPTED TRANSFER OF THE SHARES OF STOCK
+EVIDENCED BY THIS CERTIFICATE OR BOOK-ENTRY REGISTRATION IN VIOLATION OF SUCH AGREEMENT SHALL BE NULL AND VOID AND WITHOUT EFFECT. A COPY OF THE AGREEMENT MAY BE OBTAINED FROM THE SECRETARY OF DEVON ENERGY CORPORATION. 
+5. Delivery of Forfeited Shares. The Participant authorizes the Secretary to deliver to the Company any and all shares of
+Restricted Stock that are forfeited under the provisions of this Agreement. The Participant further authorizes the Company to hold as a general obligation of the Company any Accrued Dividends and to pay such dividends to the Participant at the time
+the underlying Restricted Stock becomes Vested Stock.  6. Nontransferability of Award. The Participant shall not have the
+right to sell, assign, transfer, convey, dispose, pledge, hypothecate, burden, encumber or charge the Award or any Restricted Stock or any interest therein in any manner whatsoever. 
+
+
+
+
+ 7. Notices. All notices or other communications relating to the Plan and this
+Agreement as it relates to the Participant shall be in writing and shall be delivered electronically, personally or mailed (U.S. mail) by the Company to the Participant at the then current address as maintained by the Company or such other address
+as the Participant may advise the Company in writing.  8. Binding Effect and Governing Law. This agreement shall be
+(i) binding upon and inure to the benefit of the parties hereto and their respective heirs, successors and assigns except as may be limited by the Plan, and (ii) governed and construed under the laws of the State of Oklahoma. 
+9. Award Subject to Claims of Creditors. The Participant shall not have any interest in any particular assets of the Company,
+its parent, if applicable, or any Subsidiary or Affiliated Entity by reason of the right to earn an Award (including Accrued Dividends) under the Plan and this Agreement, and the Participant or any other person shall have only the rights of a
+general unsecured creditor of the Company, its parent, if applicable, or a Subsidiary or Affiliated Entity with respect to any rights under the Plan or this Agreement. 
+10. Captions. The captions of specific provisions of this Agreement are for convenience and reference only, and in no way
+define, describe, extend or limit the scope of this Agreement or the intent of any provision hereof.  11. Counterparts. This
+Agreement may be executed in any number of identical counterparts, each of which shall be deemed an original for all purposes, but all of which taken together shall form one agreement. 
+12. Definitions. Words, terms, or phrases used in this Agreement shall have the meaning set forth in this Section 12.
+Capitalized terms used in this Agreement but not defined herein shall have the meaning designated in the Plan.  (a) Accrued
+Dividends has the meaning set forth in Section 3(c).  (b) Agreement has the meaning set forth in the preamble. 
+(c) Award has the meaning set forth in Section 2. 
+(d) Company has the meaning set forth on the Cover Page. 
+(e) Date of Grant has the meaning set forth in the preamble. 
+(f) Date of Termination means the first day occurring on or after the Date of Grant on which the Participant is not a member of
+the Board.  (g) Escrow Agent has the meaning set forth in Section 3(a). 
+(h) Mandatory Retirement means the Participants mandatory retirement from the Board of Directors at the next annual meeting
+of shareholders following the date the Participant reaches his 73rd birthday.  (i)
+Restricted Stock has the meaning set forth in Section 2.  (i) Vested Stock has the meaning set forth in
+Section 3(b).  (k) Vesting Date has the meaning set forth in Section 3(b). 
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the day and year first
+above written.   
+
+
+
+
+
+
+
+
+
+
+
+
+COMPANY
+ 
+
+ 
+DEVON ENERGY CORPORATION
+
+
+ 
+
+ 
+a Delaware corporation
+
+
+
+
+
+PARTICIPANT
+ 
+
+ 
+%%FIRST_NAME%-% %%MIDDLE_NAME%-%
+
+%LAST_NAME%-%
+ 
+
+ 
+%%ADDRESS_LINE_1%-%
+
+
+ 
+
+ 
+%%ADDRESS_LINE_2%-%
+
+
+ 
+
+ 
+%%CITY%-%, %%STATE%-%, %%ZIPCODE%-%
+
+
+ 
+
+ 
+ID %%EMPLOYEE_IDENTIFIER%-%
+
+
+

@@ -1,0 +1,1346 @@
+
+EX-10.39
+2
+d326005dex1039.htm
+SIXTH AMENDMENT TO CREDIT AGREEMENT
+
+
+Sixth Amendment to Credit Agreement
+
+ 
+
+ Exhibit 10.39  SIXTH AMENDMENT TO CREDIT AGREEMENT  THIS SIXTH AMENDMENT TO CREDIT
+AGREEMENT (hereinafter referred to as the Amendment) is dated as of April 27, 2012, by and among EXCO RESOURCES, INC. (Borrower), CERTAIN SUBSIDIARIES OF BORROWER, as Guarantors (the
+Guarantors), the LENDERS party hereto (the Lenders), and JPMORGAN CHASE BANK, N.A., as Administrative Agent (Administrative Agent). Unless the context otherwise requires or unless otherwise
+expressly defined herein, capitalized terms used but not defined in this Amendment have the meanings assigned to such terms in the Credit Agreement (as defined below).  WITNESSETH:  WHEREAS, Borrower, the Guarantors, Administrative
+Agent and the Lenders have entered into that certain Credit Agreement dated as of April 30, 2010 (as the same has been and may hereafter be amended, restated, amended and restated, supplemented or otherwise modified from time to time, the
+Credit Agreement); and  WHEREAS, Administrative Agent, the Lenders, Borrower and the Guarantors
+desire to amend the Credit Agreement as provided herein upon the terms and conditions set forth herein.  NOW,
+THEREFORE, for and in consideration of the mutual covenants and agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged and confessed, Borrower, the Guarantors,
+Administrative Agent and the Lenders hereby agree as follows:  SECTION 1. Amendments to Credit Agreement. Subject to the
+satisfaction or waiver in writing of each condition precedent set forth in Section 3 hereof, and in reliance on the representations, warranties, covenants and agreements contained in this Amendment, the Credit Agreement shall be amended
+in the manner provided in this Section 1.  1.1 Amended Definitions. The following definitions in
+Section 1.01 of the Credit Agreement shall be and they hereby are amended and restated in their respective entireties to read as follows:  Aggregate Commitment means, at any time, the sum of the Commitments of all the Lenders at such time, as such amount may be reduced or increased from time to time pursuant to
+Section 2.02 or Section 2.03; provided that such amount shall not at any time exceed the lesser of (a) the Maximum Facility Amount and (b) the Borrowing Base then in effect. If at any time the Borrowing Base is reduced
+below the Aggregate Commitment, the Aggregate Commitment shall be reduced automatically to the amount of the Borrowing Base in effect at such time. As of the Sixth Amendment Effective Date, the Aggregate Commitment is $1,400,000,000. 
+Applicable Rate means, for any day, with respect to any Eurodollar Loan or ABR Loan, or with
+respect to the Unused Commitment Fees payable hereunder, as the case may be, the applicable rate per annum set forth below under the caption Eurodollar Spread, ABR Spread or Unused Commitment Fee Rate, as the case
+may be, based upon the Borrowing Base Usage applicable on such date: 
+   Sixth Amendment to Credit
+Agreement  Page 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+$xxx.xxxx,xxx
+
+
+
+$xxx.xxxx,xxx
+
+
+
+$xxx.xxxx,xxx
+
+
+ Borrowing Base
+Usage
+  
+EurodollarSpread
+ 
+ 
+ABRSpread
+ 
+ 
+UnusedCommitmentFee Rate
+ 
+
+
+
+ > 90%
+  
+ 
+2.75
+% 
+ 
+ 
+1.75
+% 
+ 
+ 
+0.50
+% 
+
+ > 75% and < 90%
+  
+ 
+2.50
+% 
+ 
+ 
+1.50
+% 
+ 
+ 
+0.50
+% 
+
+ > 50% and < 75%
+  
+ 
+2.25
+% 
+ 
+ 
+1.25
+% 
+ 
+ 
+0.50
+% 
+
+ > 25% and < 50%
+  
+ 
+2.00
+% 
+ 
+ 
+1.00
+% 
+ 
+ 
+0.375
+% 
+
+ < 25%
+  
+ 
+1.75
+% 
+ 
+ 
+0.75
+% 
+ 
+ 
+0.375
+% 
+ Each change in the Applicable Rate shall apply during the period commencing on the
+effective date of such change and ending on the date immediately preceding the effective date of the next change.  Net Cash Proceeds means, (A) with respect to any sale, transfer, assignment or other disposition of any Borrowing Base Properties (whether pursuant to a sale, transfer, assignment or
+other disposition of Equity Interests of a Restricted Subsidiary or otherwise) by the Borrower or any Restricted Subsidiary and during the period described in the first sentence of Section 2.12(b), any sale, transfer, assignment or other
+disposition of any other assets, properties or interests of Borrower or any of its Restricted Subsidiaries, the excess, if any, of (a) the sum of cash and cash equivalents received in connection with such sale, but only as and when so received,
+over (b) the sum of (i) the principal amount of any Indebtedness that is secured by Liens on such asset senior to Liens securing the Obligations and that is required to be repaid in connection with the sale thereof (other than the Loans),
+(ii) the out-of-pocket expenses incurred by the Borrower or such Restricted Subsidiary in connection with such sale, (iii) all legal, title and recording tax expense and all federal, state, provincial, foreign and local taxes required to
+be accrued as a liability under GAAP as a consequence of such sale, (iv) all distributions and other payments required to be made to minority interest holders in Restricted Subsidiaries as a result of such sale or other disposition,
+(v) the deduction of appropriate amounts provided by the seller as a reserve, in accordance with GAAP, against any liabilities associated with the property or other assets disposed of in such sale and retained by the Borrower or any Restricted
+Subsidiary after such sale or other disposition, (vi) cash payments made to satisfy obligations resulting from Swap Modifications or the early termination of any Swap Agreements in connection with or as a result of any such sale or other
+disposition of Borrowing Base Properties, and (vii) any portion of the purchase price from such sale placed in escrow, whether as a reserve for adjustment of the purchase price, for satisfaction of indemnities in respect of such sale or
+otherwise in connection with such sale or other disposition; provided, however, that upon the termination of that escrow, Net Cash Proceeds will be increased by any portion of funds in the
+
+   Sixth Amendment to Credit
+Agreement  Page 2 
+
+
+
+
+
+ 
+escrow that are released to the Borrower or any Restricted Subsidiary (B) with respect to any Permitted Refinancing, the cash proceeds from such refinancing net of underwriting discounts and
+commissions and other reasonable costs and expenses associated therewith, including reasonable legal fees and expenses, and (C) with respect to any Swap Modification by the Borrower or any Restricted Subsidiary, the excess, if any, of
+(i) the sum of cash and cash equivalents received in connection with such Swap Modification (after giving effect to any netting arrangements), over (ii) the out-of-pocket expenses incurred by the Borrower or such Restricted Subsidiary in
+connection with such Swap Modification.  1.2 Additional Definition. The following definition shall be and it hereby
+is added to Section 1.01 of the Credit Agreement in appropriate alphabetical order:  Sixth Amendment
+Effective Date means April 27, 2012.  1.3 Borrowing Base Value. Clause (d) of
+Section 2.02 of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows:  (d) With respect to any sale, transfer or disposition of Borrowing Base Properties (other than sales, transfers or dispositions permitted under Section 7.03(a)(vii)), the Borrowing Base shall be
+automatically reduced by an amount equal to the value assigned to such Borrowing Base Properties by the Required Lenders at the time of such sale, transfer or other disposition. 
+1.4 Net Cash Proceeds. Clause (b) of Section 2.12 of the Credit Agreement shall be and it hereby is amended and
+restated in its entirety to read as follows:  (b) If the Borrower or any Restricted Subsidiary sells, transfers or otherwise
+disposes of any Borrowing Base Properties (other than sales, transfers or dispositions permitted under Section 7.03(a)(vii)) or any other material assets, properties or interests of Borrower or any of its Restricted Subsidiaries at any time
+from and after the Sixth Amendment Effective Date (whether pursuant to a sale, transfer, or other disposition of Equity Interests of a Restricted Subsidiary or Unrestricted Subsidiary permitted pursuant to Section 7.03 or otherwise), the
+Borrower shall deliver 100% of the Net Cash Proceeds from such sale, transfer or other disposition to the Administrative Agent, on or before three (3) Business Days after the consummation of any such disposition, to prepay the Borrowings (or if
+no Borrowings are outstanding, to cash collateralize outstanding Letters of Credit), with a corresponding permanent reduction of the Borrowing Base equal to the Net Cash Proceeds applied until such time as the aggregate amount of Net Cash Proceeds
+applied to reduce the outstanding Borrowings is equal to or greater than the sum of (i) the Borrowing Base value assigned by the Required Lenders to the Borrowing Base Properties pursuant to Section 2.02(d) disposed of since the Sixth
+Amendment Effective Date (which with the consent of the Required Lenders may 
+   Sixth Amendment to Credit
+Agreement  Page 3 
+
+
+
+
+
+ 
+include all or any portion of any Borrowing Base Properties disposed of pursuant to Section 7.03(a)(vii) so long as the Borrowing Base is permanently reduced by the Net Cash Proceeds
+received from such disposition), plus (ii) $200,000,000. From and after the date on which the Net Cash Proceeds are equal to or exceed the amount specified in the immediately preceding sentence, if the Borrower or any Restricted
+Subsidiary sells, transfers or otherwise disposes of any Borrowing Base Properties at any time (whether pursuant to a sale, transfer, or other disposition of Equity Interests of a Restricted Subsidiary permitted pursuant to Section 7.03 or
+otherwise), the Borrower shall prepay the Borrowings to the extent necessary to eliminate any Borrowing Base Deficiency that may exist or that may have occurred as a result of such sale, transfer or other disposition within one (1) Business Day
+of the date it or any Restricted Subsidiary receives the Net Cash Proceeds from such sale, transfer or other disposition and any Net Cash Proceeds in excess of the amount necessary to eliminate any such Borrowing Base Deficiency shall be used within
+three hundred sixty (360) days after such disposition to (i) acquire property, plant and equipment or any business entity used or useful in carrying on the business of the Borrower and its Restricted Subsidiaries and having a fair market
+value at least equal to the fair market value of the properties sold or otherwise disposed of or to improve or replace any existing property of the Borrower and its Restricted Subsidiaries used or useful in carrying on the business of the Borrower
+and its Restricted Subsidiaries or (ii) prepay the Loans in accordance with the instructions of the Borrower (unless an Event of Default exists in which event any amounts prepaid shall be applied to the Loans at the discretion of the
+Administrative Agent).  1.5 Financial Covenants. Clause (b) of Section 7.11 of the Credit
+Agreement shall be and it hereby is amended and restated in its entirety to read as follows:   
+
+
+ 
+(b)
+Leverage Ratio. The Borrower will not permit the Consolidated Leverage Ratio, determined as of the end of each fiscal quarter ending on or after
+March 31, 2012 to be greater than 4.50 to 1.00. As used herein, with respect to any fiscal quarter, Consolidated Leverage Ratio means the ratio of (A) Consolidated Funded Indebtedness as of the end of such fiscal quarter
+to (B) Consolidated EBITDAX for the trailing four fiscal quarter period ending on the last day of such fiscal quarter.  1.6 Schedules. Schedule 2.01 of the Credit Agreement shall be and it hereby is amended and restated in its entirety and replaced with Schedule 2.01 attached hereto. 
+SECTION 2. Redetermined Borrowing Base. This Amendment shall constitute notice of a Scheduled Redetermination of the Borrowing Base
+pursuant to Section 3.04 of the Credit Agreement, and Administrative Agent, the Lenders, Borrower and the Guarantors hereby acknowledge that effective as of the date of this Amendment, the Borrowing Base is $1,400,000,000 and such
+redetermined Borrowing Base shall remain in effect until the earlier of (a) the next Redetermination of the Borrowing Base or (b) the date such Borrowing Base is otherwise reduced pursuant to the terms of the Credit Agreement. 
+   Sixth Amendment to Credit
+Agreement  Page 4 
+
+
+
+
+
+ SECTION 3. Conditions. The amendments to the Credit Agreement contained in
+Section 1 of this Amendment and the redetermination of the Borrowing Base contained in Section 2 of this Amendment shall be effective upon the satisfaction of each of the conditions set forth in this Section 3.
+ 3.1 Execution and Delivery. Each Credit Party, the Lenders and Administrative Agent shall have executed and delivered
+this Amendment.  3.2 No Default. No Default or Event of Default shall have occurred and be continuing or shall result
+after giving effect to this Amendment.  3.3 Fees. Borrower, Administrative Agent and J.P. Morgan Securities LLC
+(J.P. Morgan) shall have executed and delivered a fee letter in connection with this Amendment, and Administrative Agent and J.P. Morgan shall have received the fees separately agreed upon in such fee letter. 
+3.4 Certificates. Administrative Agent shall have received such documents and certificates as Administrative Agent or its counsel
+may reasonably request relating to the organization, existence and good standing of each Credit Party, the authorization of this Amendment and the transactions contemplated hereby and any other legal matters relating to the Credit Parties, this
+Amendment or the transactions contemplated hereby, all in form and substance satisfactory to Administrative Agent and its counsel.  3.5 Other Documents. Administrative Agent shall have received such other instruments and documents incidental and appropriate to the transactions provided for herein as Administrative Agent or its
+special counsel may reasonably request, and all such documents shall be in form and substance satisfactory to Administrative Agent. 
+SECTION 4. Representations and Warranties of Borrower. To induce the Lenders to enter into this Amendment, each Credit Party hereby
+represents and warrants to the Lenders as follows:  4.1 Reaffirmation of Representations and Warranties/Further
+Assurances. After giving effect to the amendments herein, each representation and warranty of such Credit Party contained in the Credit Agreement or in any other Loan Document is true and correct in all material respects on the date hereof
+(except to the extent such representations and warranties relate solely to an earlier date, in which case such representations and warranties shall have been true and correct in all material respects as of such date and any representation or
+warranty which is qualified by reference to materiality or Material Adverse Effect is true and correct in all respects).  4.2 Corporate Authority; No Conflicts. The execution, delivery and performance by such Credit Party of this Amendment and all documents, instruments and agreements contemplated herein are within
+such Credit Partys corporate or other organizational powers, have been duly authorized by all necessary action, require no action by or in respect of, or filing 
+   Sixth Amendment to Credit
+Agreement  Page 5 
+
+
+
+
+
+ 
+with, any court or agency of government and do not violate or constitute a default under any provision of any applicable law or other agreements binding upon such Credit Party or result in the
+creation or imposition of any Lien upon any of the assets of such Credit Party except for Liens permitted under Section 7.02 of the Credit Agreement.  4.3 Enforceability. This Amendment has been duly executed and delivered by each Credit Party and constitutes the valid and binding obligation of such Credit Party enforceable in accordance with its
+terms, except as (i) the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors rights generally, and (ii) the availability of equitable remedies may be limited by equitable principles of
+general application.  4.4 No Default. As of the date of this Amendment, both before and immediately after giving effect
+to this Amendment, no Default or Event of Default has occurred and is continuing.  SECTION 5. Miscellaneous. 
+5.1 Reaffirmation of Loan Documents and Liens. Except as amended and modified hereby, any and all of the terms and provisions of
+the Credit Agreement and the other Loan Documents shall remain in full force and effect and are hereby in all respects ratified and confirmed by each Credit Party. Each Credit Party hereby agrees that the amendments and modifications herein
+contained shall in no manner affect or impair the liabilities, duties and obligations of any Credit Party under the Credit Agreement and the other Loan Documents or the Liens securing the payment and performance thereof. 
+5.2 Parties in Interest. All of the terms and provisions of this Amendment shall bind and inure to the benefit of the parties
+hereto and their respective successors and assigns.  5.3 Legal Expenses. Each Credit Party hereby agrees to pay all
+reasonable fees and expenses of special counsel to Administrative Agent incurred by Administrative Agent in connection with the preparation, negotiation and execution of this Amendment and all related documents. 
+5.4 Counterparts. This Amendment may be executed in one or more counterparts and by different parties hereto in separate
+counterparts each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument; signature pages may be detached from multiple separate counterparts and
+attached to a single counterpart so that all signature pages are physically attached to the same document. Delivery of photocopies of the signature pages to this Amendment by facsimile or electronic mail shall be effective as delivery of manually
+executed counterparts of this Amendment.  5.5 Complete Agreement. THIS AMENDMENT, THE CREDIT AGREEMENT, AND THE OTHER
+LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES. 
+   Sixth Amendment to Credit
+Agreement  Page 6 
+
+
+
+
+
+ 5.6 Headings. The headings, captions and arrangements used in this Amendment are,
+unless specified otherwise, for convenience only and shall not be deemed to limit, amplify or modify the terms of this Amendment, nor affect the meaning thereof.  5.7 Severability. Any provision of this Amendment held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity,
+illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other
+jurisdiction.  5.8 Governing Law. This Amendment shall be construed in accordance with and governed by the laws of the
+State of New York.  5.9 Reference to and Effect on the Loan Documents. 
+(a) This Amendment shall be deemed to constitute a Loan Document for all purposes and in all respects. Each reference in the Credit
+Agreement to this Agreement, hereunder, hereof, herein or words of like import, and each reference in the Credit Agreement or in any other Loan Document, or other agreements, documents or other
+instruments executed and delivered pursuant to the Credit Agreement to the Credit Agreement, shall mean and be a reference to the Credit Agreement as amended by this Amendment. 
+(b) The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of any Lender
+or Administrative Agent under any of the Loan Documents, nor constitute a waiver of any provision of any of the Loan Documents. 
+   Sixth Amendment to Credit
+Agreement  Page 7 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed as of
+the date first above written.   
+
+
+
+
+
+
+
+
+
+
+ BORROWER:  
+EXCO RESOURCES, INC.
+
+
+
+
+By:
+ 
+/s/ J. Douglas Ramsey
+
+Name: J. Douglas Ramsey, Ph.D.
+
+Title: Vice PresidentFinance
+  
+
+
+
+
+
+
+
+
+
+
+   GUARANTORS:
+  EXCO HOLDING (PA), INC.
+EXCO PRODUCTION COMPANY (PA), LLC EXCO
+PRODUCTION COMPANY (WV), LLC EXCO RESOURCES (XA), LLC EXCO SERVICES, INC. EXCO MIDCONTINENT MLP, LLC
+EXCO PARTNERS GP, LLC EXCO PARTNERS
+OLP GP, LLC VERNON GATHERING, LLC
+
+
+
+
+By:
+ 
+/s/ J. Douglas Ramsey
+
+Name: J. Douglas Ramsey, Ph.D.
+
+Title: Vice PresidentFinance
+  
+
+
+
+
+
+
+
+
+
+
+
+
+EXCO OPERATING COMPANY, LP
+
+
+
+
+By:
+ 
+ EXCO Partners OLP GP, LLC, its general partner
+
+
+ 
+
+ 
+
+
+
+ 
+By:
+ 
+/s/ J. Douglas Ramsey
+
+
+ 
+Name: J. Douglas Ramsey, Ph.D.
+
+
+ 
+Title: Vice PresidentFinance
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ EXCO GP PARTNERS OLD, LP
+ 
+
+By:
+ 
+ EXCO Partners GP, LLC, its general partner
+
+
+ 
+
+ 
+
+
+
+ 
+By:
+ 
+/s/ J. Douglas Ramsey
+
+
+ 
+Name: J. Douglas Ramsey, Ph.D.
+
+
+ 
+Title: Vice PresidentFinance
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+EXCO EQUIPMENT LEASING, LLC
+
+
+
+
+By:
+ 
+/s/ J. Douglas Ramsey
+
+Name: J. Douglas Ramsey, Ph.D.
+
+Title: Vice President  Finance
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ JPMORGAN CHASE BANK, N.A., as a Lender and as Administrative Agent and Issuing Bank
+
+
+
+
+By:
+ 
+/s/ Kimberly A. Bourgeois
+
+Name: Kimberly A. Bourgeois
+
+Title: Authorized Officer
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ BANK OF AMERICA, N.A., as a Lender and as Co-Lead Arranger and Co-Syndication Agent
+
+
+
+
+By:
+ 
+/s/ Sandra M. Serie
+
+Name: Sandra M. Serie
+
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ BNP PARIBAS, as a Lender and as Co-Lead Arranger and Co-Syndication Agent
+
+
+
+
+By:
+ 
+/s/ PJ De Filippis
+
+Name: PJ De Filippis
+
+Title: MD
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ MICHIEL V.M. VAN DER VOORT
+
+Name: MICHIEL V.M. VAN DER VOORT
+
+Title: Managing Director
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ WELLS FARGO BANK, NATIONAL ASSOCIATION, as a Lender and as Co-Documentation Agent
+
+
+
+
+By:
+ 
+/s/ Matt Colemen
+
+Name: Matt Colemen
+
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ BANK OF MONTREAL, as a Lender and as Co- Syndication Agent
+
+
+
+
+By:
+ 
+/s/ Kevin Utsey
+
+Name: Kevin Utsey
+
+Title: Director
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ CITIBANK, N.A., as a Lender and as Co- Documentation Agent
+
+
+
+
+By:
+ 
+/s/ Yasantha Gunaratna
+
+Name: Yasantha Gunaratna 
+
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+KEYBANK N.A., as a Lender
+
+
+
+
+By:
+ 
+/s/ Craig Hanselman
+
+Name: Craig Hanselman
+
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+NATIXIS, as a Lender
+
+
+
+
+By:
+ 
+/s/ Louis P. Laville, III
+
+Name: Louis P. Laville, III
+
+Title: Managing Director
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Mary Lou Allen
+
+Name: Mary Lou Allen
+
+Title: Director
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+UNION BANK, N.A., as a Lender
+
+
+
+
+By:
+ 
+/s/ Whitney Randolph
+
+Name: Whitney Randolph
+
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BANK OF SCOTLAND PLC, as a Lender
+
+
+
+
+By:
+ 
+/s/ Julia R Franklin
+
+Name: Julia R Franklin
+
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ DEUTSCHE BANK TRUST COMPANY AMERICAS, as a Lender
+
+
+
+
+By:
+ 
+/s/ Evelyn Thierry
+
+Name: Evelyn Thierry
+
+Title: Director
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Michael Getz
+
+Name: Michael Getz
+
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, as a Lender
+
+
+
+
+By:
+ 
+/s/ Darrell Stanley
+
+Name: Darrell Stanley
+
+Title: Managing Director
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Michael D. Willis
+
+Name: Michael D. Willis
+
+Title: Managing Director
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ U.S. BANK NATIONAL ASSOCIATION, as a Lender
+
+
+
+
+By:
+ 
+/s/ Daria M. Mahoney
+
+Name: Daria M. Mahoney
+
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+COMERICA BANK, as a Lender
+
+
+
+
+By:
+ 
+/s/ John S. Lesikar
+
+Name: John S. Lesikar
+
+Title: Assistant Vice President
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ SUMITOMO MITSUI BANKING CORPORATION, as a Lender
+
+
+
+
+By:
+ 
+/s/ Shuji Yabe
+
+Name: Shuji Yabe
+
+Title: Managing Director
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BARCLAYS BANK PLC, as a Lender
+
+
+
+
+By:
+ 
+/s/ Vanessa A. Kurbatskiy
+
+Name: Vanessa A. Kurbatskiy
+
+Title: Vice President
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+THE BANK OF NOVA SCOTIA, as a Lender
+
+
+
+
+By:
+ 
+/s/ Terry Donovan
+
+Name: Terry Donovan
+
+Title: Managing Director
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK AGENCY, as a Lender
+
+
+
+
+By:
+ 
+/s/ Trudy Nelson
+
+Name: Trudy Nelson
+
+Title: Executive Director
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Robert Casey
+
+Name: Robert Casey
+
+Title: Executive Director
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ UBS LOAN FINANCE LLC, as a Lender
+
+
+
+
+By:
+ 
+/s/ Mary E. Evans
+
+Name: Mary E. Evans
+
+Title: Associate Director
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Irja R. Otsa
+
+Name: Irja R. Otsa
+
+Title: Associate Director
+
+  
+
+
+
+
+
+
+
+Sixth Amendment to Credit Agreement
+  
+Signature Page
+
+
+

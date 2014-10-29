@@ -1,0 +1,195 @@
+
+EX-10.1
+2
+dex101.htm
+FORM OF GRANT AGREEMENT RELATING TO UNIT BASED AWARDS - EXECUTIVES
+
+
+FORM OF GRANT AGREEMENT RELATING TO UNIT BASED AWARDS - EXECUTIVES
+
+ 
+
+ Exhibit 10.1  Constellation Energy Partners LLC  2009 Omnibus Incentive Compensation
+Plan  Amended and Restated Grant Agreement Relating to 
+Unit-Based Awards - Executives  Grantee: []  Grant Date: [], 2011  1. Grant of Unit-Based Awards. 
+(a) Grant. Constellation Energy Partners LLC, a Delaware limited liability company (the Company), hereby grants
+to you [] Unit-Based Awards (each, a UBA) under the Constellation Energy Partners LLC 2009 Omnibus Incentive Compensation Plan (the Plan) on the terms and
+conditions set forth herein and in the Plan, which is attached hereto as Appendix A and incorporated herein by reference as a part of this agreement (the Grant Agreement). Each UBA has a value of $100.00 (the Cash
+Value).  (b) General. Capitalized terms used in this Grant Agreement but not defined herein shall have the
+meanings ascribed to such terms in the Plan, unless the context requires otherwise.  2. Vesting of UBAs. 
+(a) Vesting Date. The UBAs shall fully vest on the earlier of (i) December 31, 2013 (the UBA Termination
+Date), (ii) a Change of Control or (iii) a Qualifying Event (the earlier of such dates, the Vesting Date). Except as otherwise provided in Section 2(b), the UBAs shall become payable on the UBA
+Termination Date at the following applicable percentage:  (i) if the Unit Price is less than $3.50, then 0%;
+ (ii) if the Unit Price is equal to or greater than $3.50 and less than $4.00, then 50%; 
+(iii) if the Unit Price is equal to or greater than $4.00 and less than $6.00, then 100%; and 
+(iv) if the Unit Price is equal to or greater than $6.00, then 200%. 
+(b) Change of Control. Notwithstanding Section 2(a), if the Vesting Date arises as a result of a Change of Control
+specified in clause (iii) (Business Combination) (including a cash tender offer), (iv) (Liquidation) or (v) (Asset Sale) of the definition thereof in the Employment Agreement, the UBAs shall be payable as of the date of such Change of
+Control in amounts, if any, based on the applicable Unit Price and percentage set forth in clauses (i) through (iv) of Section 2(a). In connection with the payment of a UBA as a result of a Change of Control event described in
+the preceding sentence, if the payment is subject to Section 409A of the Internal Revenue Code (Code), the definition of such Change of Control event is intended to comply with the definition of change in control under
+Section 
+
+
+
+
+ 
+409A of the Code and, to the extent that such definition does not so comply, such definition shall be modified to the extent necessary to ensure that such definition complies with the definition
+of change in control prescribed in the regulations or other regulatory guidance issued under Section 409A of the Code by the appropriate governmental authority. For the sake of clarity, any such modification shall not affect the vesting of such
+UBA under Section 2(a) under the terms of the Change of Control event as originally written, and if the UBA is not payable under the terms of the Change of Control event as originally written because of any such modification, it shall be
+payable on the UBA Termination Date (or such earlier date as permissible) using the Unit Price as determined under Section 2(d)(iii)(B) or (C), as applicable.  (c) Interpolation. If the Unit Price falls within one of the ranges set forth in Section 2(a)(ii), (iii) or (iv), then the percentage of UBAs that shall be payable
+shall be interpolated on a linear basis based on the Unit Price within such applicable range.  (d) Definitions.
+ (i) As used herein, Change of Control shall have the meaning set forth in that certain
+Employment Agreement, dated May 1, 2009, between the Company and Grantee, as amended, restated or otherwise modified from time to time (the Employment Agreement). 
+(ii) As used herein, Qualifying Event means (1) death of Grantee, (2) delivery by the Company
+of a Disability Notice with respect to Grantee, (3) Involuntary Termination of Grantee, or (4) a CEG Ownership Event (with each of the foregoing capitalized terms having the definitions therefore set forth in the Employment Agreement)).
+ (iii) As used herein, Unit Price means: 
+(A) if determined on the UBA Termination Date, the average of the closing prices for the Units for the twenty
+(20) trading days immediately prior to and including the UBA Termination Date, as reported on the NYSE Arca or any other exchange or quotation system on which the Units are then-traded; 
+(B) if determined on the date of a Change of Control specified in clause (iii) (Business Combination) of the
+definition thereof in the Employment Agreement, the value of the per Unit consideration paid to holders of Units in connection with such transaction; and  (C) if determined on the date of a Change of Control specified in clause (iv) (Liquidation) or (v) (Asset Sale) of the definition thereof in the Employment Agreement, the per Unit value to be
+distributed to holders of Units in connection with such transaction after taking into account all cash payments to be made to all holders of Unit-based awards then outstanding. 
+(e) Forfeiture.  (i) Subject to Sections 2(a) and 2(e)(ii), all UBAs that are then unvested shall become forfeited, null and void on the date on which Grantees employment by the Company or its
+Affiliates is terminated. 
+   2 
+
+
+
+
+
+ (ii) Notwithstanding anything to the contrary herein, if Grantees
+Employment Agreement provides for a treatment of the UBAs that differs from this Section 2, then the terms of the Employment Agreement shall control upon the termination of Grantees employment by the Company or its Affiliates.
+ (f) Committee Discretion. The Committee may, in its discretion, waive in whole or in part any forfeiture pursuant to
+this Section 2.  3. Cash Settlement. Subject to the tax withholding requirements of Section 4,
+any vested UBAs shall be paid in cash to Grantee (a) if payable on the UBA Termination Date, within thirty (30) days after the UBA Termination Date and (b) if payable because of a Change of Control, within three (3) business days
+after the Change of Control, with payment in each case being an amount equal to the number of UBAs granted pursuant to this Agreement multiplied by the applicable percentage set forth in Section 2(a) multiplied by the Cash Value. For all
+purposes of this Grant Agreement, Grantee shall be considered to have terminated employment with the Company when Grantee incurs a separation from service with the Company within the meaning of Section 409A(a)(2)(A)(i) of the Code
+and applicable administrative guidance issued thereunder. If any payment under this Grant Agreement would be subject to additional taxes under Section 409A of the Code because the timing of such payment is not delayed as provided in
+Section 409A(a)(2)(B) of the Code, then such payment shall be paid on the date that is six months after the date of Grantees termination of employment with the Company (or if such payment date does not fall on a business day of the
+Company, the next following business day of the Company), or such earlier date upon which such payment can be paid under Section 409A of the Code without being subject to such additional taxes. 
+4. Withholding of Tax. The Company or any Affiliate is authorized to withhold from any payment due pursuant to this Grant
+Agreement or from any compensation or other amount owing to Grantee the amount (in cash, Units, other securities or other property) of any applicable taxes payable at the minimum statutory rate in respect of this Grant Agreement, the vesting or any
+payment or transfer under the Grant Agreement and to take such other action as may be necessary in the opinion of the Company to satisfy its withholding obligations for the payment of such taxes, and in this regard, such withholding obligation may
+be satisfied by Grantee timely remitting (in cash, check or wire transfer) to the Company or the Internal Revenue Service, at the Companys election, the amount of any such applicable taxes (as determined by the Company). 
+5. No Unit Ownership or Voting Rights. The UBAs shall not vest Grantee in any ownership of Units, any voting rights with respect
+to Units or any right to receive distributions with respect to Units.  6. Limitations on Transfer. All rights under
+this Grant Agreement shall belong to Grantee alone and may not be transferred, assigned, pledged or hypothecated by Grantee in any way (whether by operation of law or otherwise), other than by will or the laws of descent and distribution and shall
+not be subject to execution, attachment or similar process. Upon any attempt by Grantee to transfer, assign, pledge, hypothecate or otherwise dispose of such rights contrary to the provisions in this Grant Agreement or the Plan, or upon the levy of
+any attachment or similar process upon such rights, such rights shall immediately become null and void.  7. Binding
+Effect. This Grant Agreement shall be binding upon and inure to the benefit of any successor or successors of the Company and upon any person lawfully claiming under Grantee. 
+8. Rights of Grantee. Any benefits payable under Section 2 or 3 shall be provided from the general assets of the
+Company. Grantees rights arising under this Grant Agreement shall not rise above those of a general creditor of the Company. 
+   3 
+
+
+
+
+
+ 9. Entire Agreement and Amendment. This Grant Agreement constitutes the entire
+agreement of the parties with regard to the subject matter hereof, and contains all the covenants, promises, representations, warranties and agreements between the parties with respect to the UBAs granted hereby. Without limiting the scope of the
+preceding sentence, all prior understandings and agreements, if any, among the parties hereto relating to the subject matter hereof are hereby made null and void and of no further force and effect. Grantee and the Company agree that, with respect to
+the UBAs, the vesting provisions set forth in this Grant Agreement supersede, and govern and control over, any performance criteria achievement and vesting provisions set forth in the Plan. 
+10. Notices. Any notices given in connection with this Grant Agreement shall, if issued to Grantee, be delivered to Grantees
+current address on file with the Company, or if issued to the Company, be delivered to the Companys principal offices. 
+11. Execution of Receipts and Releases. Payment of cash or other property to Grantee, or to Grantees legal representatives,
+heirs, legatees or distributees, in accordance with the provisions hereof, shall, to the extent thereof, be in full satisfaction of all claims of such persons hereunder. The Company may require Grantee or Grantees legal representatives, heirs,
+legatees or distributees, as a condition precedent to such payment or issuance, to execute a release and receipt therefor in such form as it shall reasonably determine. Such release (if any) will be provided by the Company to Grantee (or
+Grantees legal representatives, heirs, legatees or distributees) at least sixty (60) days prior to the applicable payment event described in Section 2(a) or (b), with payment hereunder conditioned on Grantee (or
+Grantees legal representatives, heirs, legatees or distributees) returning to the Company, in a non-revocable form, such executed release prior to such payment event.  12. Reorganization of the Company. The existence of this Grant Agreement shall not affect in any way the right or power of the Company and its Affiliates or their respective unitholders,
+stockholders or other equity holders to make or authorize (a) any or all adjustments, recapitalizations, reorganizations or other changes in the respective capital structures or businesses of any of the Company and its Affiliates; (b) any
+merger or consolidation of any of the Company and its Affiliates; (c) any issue of bonds, debentures, preferred or prior preference units or securities ahead of or affecting the UBAs or the rights thereof; (d) the dissolution or
+liquidation of any of the Company and its Affiliates, or any sale or transfer of all or any part of their assets or business; or (e) or any other corporate act or proceeding, whether of a similar character or otherwise. 
+13. Recapitalization Events. In the event that the Committee determines that any distribution (whether in the form of cash, Units,
+other securities or other property), recapitalization, split, reverse split, reorganization, merger, consolidation, split-up, spin-off, combination, repurchase, or exchange of Units or other securities of the Company, issuance of warrants or other
+rights to purchase Units or other securities of the Company, or other similar transaction or event affects the Units such that an adjustment is determined by the Committee to be appropriate in order to prevent dilution or enlargement of the benefits
+or potential benefits intended to be made available under this Grant Agreement, then the Committee shall, in such manner as it may deem equitable, adjust the Cash Value or the Unit Price set forth in Section 2(a) or, if deemed appropriate by
+the Committee, make provision for a cash payment to Grantee.  14. Certain Restrictions. By executing this Grant
+Agreement, Grantee acknowledges that he or she has received a copy of the Plan and agrees that Grantee will enter into such written representations, warranties and agreements and execute such documents as the Company may reasonably request in order
+to comply with the securities laws or any other applicable laws, rules or regulations or with this document or the terms of the Plan. 
+   4 
+
+
+
+
+
+ 15. Amendment and Termination. No amendment or termination of this Grant Agreement
+that adversely affects the rights of the Grantee shall be made by the Company at any time without the prior written consent of Grantee.  16. Amended and Restated Grant. This Grant Agreement amends and restates, and replaces in its entirety, that certain Grant Agreement dated April 19, 2011 between the Company and the Grantee.
+ 17. Governing Law. This grant shall be governed by, and construed in accordance with, the laws of the State of
+Delaware, without regard to conflicts of laws principles thereof.  [Signature page follows] 
+   5 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have executed this Grant Agreement to be
+effective as of [], 2011.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Constellation Energy Partners LLC
+ 
+
+ 
+Grantee
+
+
+
+
+
+
+
+By:
+ 
+  
+ 
+
+ 
+By:
+ 
+  
+
+Name:
+ 
+  
+ 
+
+ 
+Name:
+ 
+  
+
+Title:
+ 
+  
+ 
+
+ 
+Title:
+ 
+  
+
+   6 
+
+
+
+
+
+ APPENDIX A  CONSTELLATION ENERGY PARTNERS LLC  2009 OMNIBUS INCENTIVE COMPENSATION
+PLAN 
+   7 
+
+
+

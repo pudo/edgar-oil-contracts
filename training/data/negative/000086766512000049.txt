@@ -1,0 +1,1117 @@
+
+EX-10.1
+6
+amendedfacitily.htm
+AMENDMENT NO. 3 TO AMENDED CREDIT FACILITY
+
+
+
+    amendedfacitily.htm
+    
+    
+    
+
+
+ 
+
+ 
+
+Exhibit 10.1
+
+
+
+
+Execution Version
+
+
+
+
+AMENDMENT NO. 3 TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+
+ 
+
+This Amendment No. 3 to Second Amended and Restated Credit Agreement dated as of October 31, 2012 (this “Agreement”) is among Abraxas Petroleum Corporation, a Nevada corporation (the “Borrower”), the undersigned Guarantors (the “Guarantors”), the financial institutions party to the Credit Agreement described below as Lenders (the “Lenders”), and Société Générale, as Administrative Agent for the Lenders (the “Administrative Agent”).
+
+ 
+
+INTRODUCTION
+
+ 
+
+A. The Borrower, the Lenders, the Issuing Lender, and the Administrative Agent have entered into the Second Amended and Restated Credit Agreement dated as of June 30, 2011, as amended by Amendment No. 1 dated as of September 6, 2011 and Amendment No. 2 to Second Amended and Restated Credit Agreement dated as of June 29, 2012 (as so amended, the “Credit Agreement”).
+
+ 
+
+B. Reference is made to that certain Second Amended and Restated Guaranty Agreement made by the Guarantors in favor of the Administrative Agent dated as of June 30, 2011 (as amended, supplemented or otherwise modified, the “Guaranty”).
+
+ 
+
+C. The Borrower has requested, and the Administrative Agent and the Lenders have agreed, subject to the terms and conditions hereof, to amend the Credit Agreement as set forth herein.
+
+ 
+
+D. The Guarantors wish to reaffirm their guarantees of the Obligations as amended by this Agreement.
+
+ 
+
+THEREFORE, in fulfillment of the foregoing, the Borrower, the Guarantors, the Administrative Agent, and the Lenders hereby agree as follows:
+
+ 
+
+Section 1. Definitions; References.  All capitalized terms not otherwise defined in this Agreement that are defined in the Credit Agreement shall have the meanings assigned to such terms by the Credit Agreement.
+
+ 
+
+Section 2. Amendments to Credit Agreement.  On the Effective Date (as defined below), the Credit Agreement is amended as follows:
+
+ 
+
+(a) Section 1.01 of the Credit Agreement is hereby amended by adding the following new definitions in appropriate alphabetical order:
+
+ 
+
+“Nordheim Disposition” means the (a) the entry by the Borrower into a purchase and sale agreement with a bona fide purchaser providing for the sale to such purchaser of the Nordheim Properties; and (b) the consummation of the asset sale described in such agreement in accordance with the material terms of such agreement.
+
+ 
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+“Nordheim Properties” means certain Oil and Gas Properties owned by the Borrower located in DeWitt County, Texas that were initially owned by the Blue Eagle Joint Venture.
+
+ 
+
+“Third Amendment Effective Date” means October 31, 2012.
+
+ 
+
+(b) Section 1.01 of the Credit Agreement is hereby amended by amending and restating the following definition in its entirety:
+
+ 
+
+“Non-Conforming Borrowing Base Period” means the period from and including the Second Amendment Effective Date to but excluding the earlier of (a) the date on which the Borrowing Base is redetermined in accordance with Section 2.02(b)(i) based upon the Internal Engineering Report to be dated effective as of December 31, 2012 and (b) April 30, 2013.
+
+ 
+
+(c) Section 1.01 of the Credit Agreement is hereby amended by deleting the following definitions in their entirety: “Adjusted Permitted Oil and Gas CapEx Amount,” “Blue Eagle Disposition”, “Borrowing Base Availability Percentage,” “Capital Expenditures” or “Capex,” “Oil and Gas CapEx,” “Oil and Gas CapEx Rollover Amount,” and “Oil and Gas CapEx Pull-Back Amount.”
+
+ 
+
+(d) Section 2.02(a) of the Credit Agreement is hereby restated in its entirety as follows:
+
+ 
+
+(a)           Borrowing Base.  As of the Third Amendment Effective Date, the Administrative Agent and the Lenders have set and the Borrower has acknowledged the Conforming Borrowing Base as $140,000,000 and the Borrowing Base as $150,000,000.  Each of the Conforming Borrowing Base and Borrowing Base determined pursuant to this Section 2.02(a) shall remain in effect until the next redetermination of the Borrowing Base or Conforming Borrowing Base made pursuant to this Section 2.02 or Section 6.04(b).  The Borrowing Base and Conforming Borrowing Base shall be determined in accordance with the standards set forth in Section 2.02(e) and is subject to reduction or periodic redetermination pursuant to Sections 2.02(b), 2.02(c), 2.02(d) and 6.04(b).
+
+ 
+
+(e) Section 2.02(d)(ii) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+
+ 
+
+(ii)           “Borrowing Base Reduction Event” means a Disposition of Oil and Gas Properties (other than the Nordheim Disposition) or a Hedge Termination which causes the Borrowing Base Reduction Value to exceed 5% of the Borrowing Base in effect as of the most recent redetermination.
+
+ 
+
+(f) Section 2.02(f) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+
+ 
+
+
+
+  
+
+
+
+-2-
+
+
+
+
+
+
+
+  
+
+
+
+(f)           Non-Conforming Borrowing Base Period.  Notwithstanding anything to the contrary contained in this Agreement:
+
+ 
+
+(i)           At all times during the Non-Conforming Borrowing Base Period:
+
+ 
+
+(A)           The “Borrowing Base” in effect at any time shall equal the sum of the Conforming Borrowing Base in effect at such time and $10,000,000 (and each reference herein to the term “Borrowing Base” as in effect at any time shall be a reference to the Borrowing Base as so constituted);
+
+ 
+
+(B)           Each reference to “Borrowing Base” in the defined terms “Borrowing Base Assets,” “Independent Engineering Report,” “Internal Engineering Report,” and “Proven Reserves” shall be deemed instead to be a reference to “Borrowing Base or Conforming Borrowing Base, as applicable.”
+
+ 
+
+(C)           Each reference to “Borrowing Base” (other than a reference to “Borrowing Base Reduction Amount”, “Borrowing Base Reduction Event”, “Borrowing Base Reduction Value” or “Borrowing Base Deficiency”) in Section 2.02(b)(i) (other than the reference to “Borrowing Base” in subsection (B) of the last sentence of such section), Section 2.02(b)(ii) (other than the reference to “Borrowing Base” in subsection (B) of the last sentence of such section), Section 2.02(b)(iii), Section 2.02(c), Section 2.02(d), Section 2.02(e), Section 2.05(b)(ii), Section 5.06(g)(iii) and Section 5.06(g)(iv) shall instead be deemed to be a reference to “Conforming Borrowing Base;” and
+
+ 
+
+(D)           Each reference to “Borrowing Base” in Section 9.01 shall be deemed to be a reference to “Borrowing Base or the Conforming Borrowing Base;” and
+
+ 
+
+(ii)           On the first calendar day after the expiration of the Non-Conforming Borrowing Base Period, the Borrowing Base then in effect shall, without any further action, automatically equal the Borrowing Base determined as of such date in accordance with Section 2.02(b)(i) (or, if the Non-Conforming Borrowing Base Period ends prior to the date on which the Borrowing Base is redetermined in accordance with Section 2.02(b)(i) based upon the Internal Engineering Report to be dated effective as of December 31, 2012, the Borrowing Base that would have been in effect without giving effect to Section 2.02(f)(i)(A)); provided, that notwithstanding the foregoing, during the Non-Conforming Borrowing Base Period and thereafter, each reference in the Credit 
+
+ 
+
+
+
+  
+
+
+
+-3-
+
+
+
+
+
+
+
+  
+
+
+
+Agreement, as amended hereby, to “the last Borrowing Base determination” or any words of similar import shall be deemed to refer to the immediately preceding determination of the Borrowing Base or Conforming Borrowing Base, as the case may be.
+
+ 
+
+(g) Section 2.05(b)(ii) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+
+ 
+
+(ii)           Asset Disposition or Hedge Termination.  Upon any reductions to the Borrowing Base pursuant to Section 2.02(d) in connection with a Disposition or Hedge Termination, if a Borrowing Base Deficiency exists, then the Borrower shall prepay Advances or, if the Advances have been repaid in full, make deposits into the Cash Collateral Account to provide cash collateral for the Letter of Credit Exposure, such that the Borrowing Base Deficiency is cured.  In addition, the Borrower shall prepay Advances or, if the Advances have been repaid in full, make deposits into the Cash Collateral Account to provide cash collateral for the Letter of Credit Exposure, with 100% of the net cash proceeds of the Nordheim Disposition. The Borrower shall be obligated to make the prepayments and/or deposits of cash collateral described in this clause (ii) on the date it or any Subsidiary receives cash proceeds as a result of such Disposition or Hedge Termination; provided that (A) all payments required to be made pursuant to this Section 2.05(b)(ii) must be made on or prior to the Commitment Termination Date and (B) on the date that the Nordheim Disposition is consummated, the Borrower shall arrange for the prepayment and/or deposit of cash collateral with the proceeds of the Nordheim Disposition to be wired directly to the Administrative Agent by the purchaser of the Nordheim Properties.
+
+ 
+
+(h) Section 5.14 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+Section 5.14                      Hedge Contracts.
+
+ 
+
+(a)           From and after the Second Amendment Effective Date, the Borrower shall enter into (including through novations) and maintain its position in one or more Hydrocarbon Hedge Contracts through their stated termination dates with minimum volumes and prices as follows:
+
+ 
+
+
+
+
+
+Term
+
+
+Barrels
+
+
+$/Barrel
+
+
+Term
+
+
+Barrels
+
+
+$/Barrel
+
+
+
+October 2012
+
+
+10,000
+
+
+$82.72
+
+
+December 2013
+
+
+10,000
+
+
+$82.72
+
+
+
+November 2012
+
+
+10,000
+
+
+$82.72
+
+
+January 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+December 2012
+
+
+10,000
+
+
+$82.72
+
+
+February 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+January 2013
+
+
+10,000
+
+
+$82.72
+
+
+March 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+February 2013
+
+
+10,000
+
+
+$82.72
+
+
+April 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+March 2013
+
+
+10,000
+
+
+$82.72
+
+
+May 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+ 
+
+
+
+  
+
+
+
+-4-
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+April 2013
+
+
+10,000
+
+
+$82.72
+
+
+June 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+May 2013
+
+
+10,000
+
+
+$82.72
+
+
+July 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+June 2013
+
+
+10,000
+
+
+$82.72
+
+
+August 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+July 2013
+
+
+10,000
+
+
+$82.72
+
+
+September 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+August 2013
+
+
+10,000
+
+
+$82.72
+
+
+October 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+September 2013
+
+
+10,000
+
+
+$82.72
+
+
+November 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+October 2013
+
+
+10,000
+
+
+$82.72
+
+
+December 2014
+
+
+10,000
+
+
+$82.72
+
+
+
+November 2013
+
+
+10,000
+
+
+$82.72
+
+  
+  
+  
+
+
+
+
+
+
+ 
+
+(b)           In addition to the Hydrocarbon Hedge Contracts required under Section 5.14(a), from and after the Third Amendment Effective Date, the Borrower shall enter into (including through novations) and maintain its position in one or more Hydrocarbon Hedge Contracts through their stated termination dates with minimum volumes and prices as follows:
+
+ 
+
+
+
+
+
+Term
+
+
+Barrels
+
+
+$/Barrel
+
+
+Term
+
+
+Barrels
+
+
+$/Barrel
+
+
+
+January 2014
+
+
+6,000
+
+
+$86.00
+
+
+July 2015
+
+
+28,000
+
+
+$85.00
+
+
+
+February 2014
+
+
+6,000
+
+
+$86.00
+
+
+August 2015
+
+
+28,000
+
+
+$85.00
+
+
+
+March 2014
+
+
+6,000
+
+
+$86.00
+
+
+September 2015
+
+
+28,000
+
+
+$85.00
+
+
+
+April 2014
+
+
+6,000
+
+
+$86.00
+
+
+October 2015
+
+
+28,000
+
+
+$85.00
+
+
+
+May 2014
+
+
+6,000
+
+
+$86.00
+
+
+November 2015
+
+
+28,000
+
+
+$85.00
+
+
+
+June 2014
+
+
+6,000
+
+
+$86.00
+
+
+December 2015
+
+
+28,000
+
+
+$85.00
+
+
+
+July 2014
+
+
+6,000
+
+
+$86.00
+
+
+January 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+August 2014
+
+
+6,000
+
+
+$86.00
+
+
+February 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+September 2014
+
+
+6,000
+
+
+$86.00
+
+
+March 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+October 2014
+
+
+6,000
+
+
+$86.00
+
+
+April 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+November 2014
+
+
+6,000
+
+
+$86.00
+
+
+May 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+December 2014
+
+
+6,000
+
+
+$86.00
+
+
+June 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+January 2015
+
+
+28,000
+
+
+$85.00
+
+
+July 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+February 2015
+
+
+28,000
+
+
+$85.00
+
+
+August 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+March 2015
+
+
+28,000
+
+
+$85.00
+
+
+September 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+April 2015
+
+
+28,000
+
+
+$85.00
+
+
+October 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+May 2015
+
+
+28,000
+
+
+$85.00
+
+
+November 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+June 2015
+
+
+28,000
+
+
+$85.00
+
+
+December 2016
+
+
+26,500
+
+
+$84.00
+
+
+
+
+
+
+
+(i) Section 6.04(b)(iv)(B) of the Credit Agreement is hereby amended by adding the words “or such Disposition is the Nordheim Disposition,” after the words “if such Disposition causes a Borrowing Base Reduction Event,”.
+
+ 
+
+(j) The text of Section 6.21 of the Credit Agreement is hereby deleted in its entirety, and the heading for such Section is hereby amended to read “Reserved”.
+
+ 
+
+(k) Section 6.22 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+
+
+  
+
+
+
+-5-
+
+
+
+
+
+
+
+  
+
+
+
+Section 6.22                                Minimum Liquidity.                                           For each fiscal quarter ending on or after June 30, 2012 and on or before March 31, 2013, the Borrower shall not permit Liquidity to be less than $7,500,000 as of the last day of such fiscal quarter.
+
+ 
+
+Section 3. New Lender; Reallocation of Commitments and Advances.
+
+ 
+
+(a) The Borrower, the Administrative Agent and each Lender party to the Credit Agreement immediately prior to the Effective Date have agreed that on the Effective Date, (i) Cadence Bank (the “New Lender”) shall become a Lender, the Documentation Agent, and a party to the Credit Agreement and bound by the terms thereof and the other Loan Documents and (ii) ING Capital LLC (the “Exiting Lender”) shall no longer be a Lender or a party to the Credit Agreement.
+
+ 
+
+(b) On the Effective Date and after giving effect to foregoing, the Commitment Amounts of each Lender (including the New Lender) shall be reallocated and restated as set forth on Schedule I of this Agreement, which Schedule I supersedes and replaces the Schedule I to the Credit Agreement.  Any reallocation of the Commitment Amounts among the Lenders and the Exiting Lender shall be deemed to have been consummated pursuant to the terms of the Assignment and Assumption attached as Exhibit A to the Credit Agreement as if such Lenders and the Exiting Lender had executed an Assignment and Assumption with respect to such reallocation.  The Borrower and the Administrative Agent hereby consent to any such assignment and reallocation.  The Administrative Agent hereby waives the $3,500 processing and recording fee set forth in Section 9.08(b)(iv) of the Credit Agreement with respect to the assignments and reallocations contemplated by this Section 3.
+
+ 
+
+(c) On the Effective Date, all Eurodollar Rate Advances outstanding shall be converted into new Eurodollar Rate Advances allocated among all Lenders in accordance with the applicable percentages set forth on Schedule I and the Borrower shall pay to the Lenders party to the Credit Agreement immediately prior to the Effective Date such amounts, if any, as are due under Section 2.12 of the Credit Agreement. The Lenders (including the New Lender) have agreed to reallocate the outstanding Advances funded prior to the Second Amendment Effective Date (the “Existing Advances”), such that as of the Effective Date each Lender (including the New Lender) holds the same pro rata share of the Existing Advances as its Pro Rata Share of the Commitments after giving effect to this Amendment and such share shall be acquired free and clear of any Liens created by, through or under the transferring Lender.  Accordingly, the Lenders shall, through the Administrative Agent, make such adjustments among themselves as shall be necessary so that after giving effect to such adjustments and reallocations the Lenders shall hold the Existing Advances in the amounts in accordance with their respective Pro Rata Shares as of the Effective Date.  With respect to the Existing Advances, each Lender (other than the New Lender) and the Exiting Lender shall receive all interest and fees accrued on its portion thereof in accordance with its Pro Rata Share (as in effect immediately prior to the Effective Date) to but excluding the Effective Date.  Interest and fees accruing on the Existing Advances on and after the Effective Date shall be paid to the Lenders (including the New Lender) in accordance with their respective Pro Rata Shares pursuant to the terms of the Credit Agreement.
+
+ 
+
+
+
+  
+
+
+
+-6-
+
+
+
+
+
+
+
+  
+
+
+
+Section 4. Reaffirmation of Liens.
+
+ 
+
+(a) Each of the Borrower and the Guarantors (i) is party to certain Security Instruments securing and supporting the Borrower’s and Guarantors’ obligations under the Loan Documents, (ii) represents and warrants that it has no defenses to the enforcement of the Security Instruments and that according to their terms the Security Instruments will continue in full force and effect to secure the Borrower’s and Guarantors’ obligations under the Loan Documents, as the same may be amended, supplemented, or otherwise modified (including by this Agreement), and (iii) acknowledges, represents, and warrants that the liens and security interests created by the Security Instruments are valid and subsisting and create an Acceptable Security Interest in the Collateral to secure the Borrower’s and Guarantors’ obligations under the Loan Documents, as the same may be amended, supplemented, or otherwise modified (including by this Agreement).
+
+ 
+
+(b) The delivery of this Agreement does not indicate or establish a requirement that any Guaranty or Security Instrument requires the Borrower’s or any Guarantor’s approval of amendments to the Credit Agreement.
+
+ 
+
+Section 5. Reaffirmation of Guaranty.  Each Guarantor hereby ratifies, confirms, and acknowledges that its obligations under the Guaranty are in full force and effect and that such Guarantor continues to unconditionally and irrevocably guarantee the full and punctual payment, when due, whether at stated maturity or earlier by acceleration or otherwise, of all of the Obligations, as such Obligations may have been amended by this Agreement.  Each Guarantor hereby acknowledges that its execution and delivery of this Agreement do not indicate or establish an approval or consent requirement by such Guarantor under the Guaranty in connection with the execution and delivery of amendments, modifications or waivers  to the Credit Agreement, the Notes or any of the other Loan Documents.
+
+ 
+
+Section 6. Representations and Warranties.  The Borrower and each Guarantor represents and warrants to the Administrative Agent and the Lenders that:
+
+ 
+
+(a) the representations and warranties set forth in the Credit Agreement, the Guaranties and in the other Loan Documents are true and correct in all material respects as of the date of this Agreement (except to the extent such representations and warranties relate to an earlier date, in which case such representations and warranties shall be true and correct in all material respects as of such earlier date); provided that such materiality qualifier shall not apply if such representation or warranty is already subject to a materiality qualifier in the Credit Agreement or such other Loan Document;
+
+ 
+
+(b) (i) the execution, delivery, and performance of this Agreement are within the corporate, limited liability company or other power and authority of the Borrower or such Guarantor, as applicable, and have been duly authorized by appropriate proceedings and (ii) this Agreement constitutes a legal, valid, and binding obligation of the Borrower or such Guarantor, as applicable, enforceable against the Borrower or such Guarantor in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting the rights of creditors generally and general principles of equity; and
+
+ 
+
+
+
+  
+
+
+
+-7-
+
+
+
+
+
+
+
+  
+
+
+
+(c) as of the effectiveness of this Agreement and after giving effect thereto, no Default or Event of Default has occurred and is continuing.
+
+ 
+
+Section 7. Effectiveness.  This Agreement shall become effective and enforceable against the parties hereto, upon the occurrence of the following conditions precedent (such date being the “Effective Date”):
+
+ 
+
+(a) The Administrative Agent shall have received multiple original counterparts, as requested by the Administrative Agent, of this Agreement duly and validly executed and delivered by duly authorized officers of the Borrower, the Guarantors, the Administrative Agent, the Exiting Lender and each Lender;
+
+ 
+
+(b) The Borrower shall have entered into one or more Hedge Contracts meeting the requirements of Section 5.14(b) of the Credit Agreement, as amended hereby;
+
+ 
+
+(c) The representations and warranties in this Agreement shall be true and correct before and after giving effect to this Agreement;
+
+ 
+
+(d) No Default shall have occurred and be continuing;
+
+ 
+
+(e) The Administrative Agent shall have received (i) for the account of the New Lender, an upfront fee in an amount equal to $100,000.00, (ii) for the account of Société Générale, an upfront fee in an amount equal to $4,000.00, (iii) for the account of The Royal Bank of Scotland plc, an upfront fee in an amount equal to $6,000.00, (iv)  for the account of One West Bank, FSB, an upfront fee in an amount equal to $20,000.00, and (v) for the account of CIT Finance LLC, an upfront fee in an amount equal to $4,000.00;
+
+ 
+
+(f) The Administrative Agent shall have received mortgages, or supplements to mortgages, and evidence satisfactory to it showing that the Borrower is in compliance with Section 5.08 and Section 5.11 of the Credit Agreement; and
+
+ 
+
+(g) The Borrower shall have paid all other costs, expenses, and fees which have been invoiced and are payable pursuant to Section 9.04 of the Credit Agreement or any other written agreement.
+
+ 
+
+Section 8. Effect on Loan Documents.  Except as amended herein, the Credit Agreement and the Loan Documents remain in full force and effect as originally executed, and nothing herein shall act as a waiver of any of the Administrative Agent’s or Lenders’ rights under the Loan Documents, as amended.  This Agreement is a Loan Document for the purposes of the provisions of the other Loan Documents.  Without limiting the foregoing, any breach of representations, warranties, and covenants under this Agreement may be a Default or Event of Default under other Loan Documents.
+
+ 
+
+Section 9. Choice of Law.  This Agreement shall be governed by and construed and enforced in accordance with the laws of the State of New York.
+
+ 
+
+Section 10. Miscellaneous.
+
+ 
+
+
+
+  
+
+
+
+-8-
+
+
+
+
+
+
+
+  
+
+
+
+(a) Counterparts.  This Agreement may be signed in any number of counterparts, each of which shall be an original.  Delivery of this Agreement by facsimile or electronic transmission shall be effective as delivery of a manually executed counterpart hereof.
+
+ 
+
+(b) NO ORAL AGREEMENT.  THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+
+ 
+
+(c) Payment of Expenses.  The Borrower agrees to pay or reimburse the Administrative Agent for all of its out-of-pocket costs and expenses incurred in connection with this Agreement, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees, charges and disbursements of counsel to the Administrative Agent.
+
+ 
+
+(d) Severability.  If any provision of this Agreement is held to be illegal, invalid or unenforceable, (i) the legality, validity and enforceability of the remaining provisions of this Agreement shall not be affected or impaired thereby and (ii) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions.  The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+ 
+
+(e) Successors and Assigns.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns.
+
+ 
+
+[Remainder of page left blank; signatures follow.]
+
+ 
+
+ 
+
+ 
+
+-9-
+
+
+

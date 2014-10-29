@@ -1,0 +1,1144 @@
+
+EX-10.4
+4
+a13-19583_1ex10d4.htm
+EX-10.4
+
+
+
+
+
+
+
+  
+
+
+Exhibit 10.4
+ 
+July 30, 2013
+ 
+Sanchez Energy Corporation
+SEP Holdings III, LLC
+SN Marquis, LLC
+SN Cotulla Assets, LLC
+1111 Bagby Street, Suite 1800
+Houston, Texas 77002
+Attention: Alfredo Gutierrez
+ 
+Re:                             Waiver and Amendment for Amended and Restated Credit Agreement dated as of May 31, 2013 (as amended, supplemented or otherwise modified to date, the Credit Agreement), among Sanchez Energy Corporation, SEP Holdings III, LLC, SN Marquis, LLC and SN Cotulla Assets, LLC (collectively, the Borrowers), each of the Lenders from time to time party thereto (the Lenders), and Royal Bank of Canada, as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the Administrative Agent)
+ 
+Ladies and Gentlemen:
+ 
+This letter (this Letter) relates to the Credit Agreement.  Each capitalized term not defined herein shall have the meaning assigned to such term in the Credit Agreement.  All references to sections in this Letter shall be to sections of the Credit Agreement unless otherwise indicated.
+ 
+Waiver
+ 
+The Borrowers have informed the Administrative Agent that the Borrowers recently entered into certain oil Swap Agreements which, when aggregated with existing oil Swap Agreements, bring total oil Swap Agreements for the six month period ending on June 30, 2014 to 5,750 barrels per day (the Specified Swaps).  This results in oil Swap Agreement volumes of 50.8% of total Proved Reserves based off of the 6/30/13 Reserve Report.  This exceeds the maximum allowed limit of 50% of total Proved Reserves specified in Section 9.17 of the Credit Agreement (the Specified Event).
+ 
+The Borrowers have requested, and the Required Lenders hereby consent to, a waiver with regard to the Specified Event as it relates to the Specified Swaps.
+ 
+Amendments
+ 
+A.            The Credit Agreement currently defines Unrestricted Cash to include Investments described in Section 9.05(c) (accounts receivable arising in the ordinary course of business) and excludes Investments described in Section 9.05(g) (deposits in money market funds).  The definition of Unrestricted Cash in the Credit Agreement is hereby amended to read as follows:
+ 
+
+
+
+
+
+
+ 
+Unrestricted Cash means Investments of the Borrowers and their Unrestricted Subsidiaries described in Section 9.05(d), Section 9.05(e), Section 9.05(f) and Section 9.05(g) which are subject to no Liens other than Liens in favor of the Lenders and Secured Swap Providers.
+ 
+B.            The Credit Agreement, in relevant part, currently limits commodity hedging through Swap Agreements to no more than the greater of (i) 90% of the value of proved developed producing reserves and (ii) 50% of total proved reserves during the first two years of the Agreement and to no more than the greater of (y) 85% of the value of proved developed producing reserves and (z) 50% of total proved reserves during the third and fourth years of the Agreement.  However, it is desired to have the 90% and 50% limits apply on a rolling 2-year basis from the testing date and the 85% and 50% limits apply on a rolling 2-year basis to the third and fourth years from the testing date.  It is also desired to make more explicit that certain types of Swap Agreements, specifically floor and put options, are permissible if entered into with an Approved Counterparty but are not subject to the percentage limits otherwise applicable to Swap Agreements.  Therefore, Section 9.17 of the Agreement is hereby amended to read in its entirety as follows:
+ 
+Section 9.17. Swap Agreements.  The Borrowers will not, and will not permit any Restricted Subsidiary to, enter into any Swap Agreements with any Person other than (a) Swap Agreements constituting floor or put options in respect of commodities with an Approved Counterparty, (b) Swap Agreements (other than floor or put options) in respect of commodities with an Approved Counterparty that are limited to notional quantities at any time no more than (i) during the first two years following such time the greater of (x) ninety percent (90%) of the value of proved developed producing reserves included in the then most recently delivered Reserve Report and (y) fifty percent (50%) of Borrowers total Proved Reserves (such amounts computed on a semi-annual basis and calculated on a product-by-product basis), (ii) during the third and fourth years following such time the greater of (x) eighty-five percent (85%) of the value of proved developed producing reserves included in the then most recently delivered Reserve Report and (y) fifty percent (50%) of Borrowers total Proved Reserves (such amounts computed on a semi-annual basis and calculated on a product-by-product basis), and (iii) after the fourth year following such time, zero (no commodity Swap Agreements other than floor or put options); provided that the aggregate amount of all such commodity Swap Agreements (other than floor or put options) shall not exceed the most recent months actual production, calculated separately on a product-by-product basis, in any given month, (c) Swap Agreements in respect of interest rates with an Approved Counterparty, as follows: (i) Swap Agreements effectively converting interest rates from fixed to floating, the notional amounts of which (when aggregated with all other Swap Agreements of the Borrowers and their Restricted Subsidiaries then in effect effectively converting interest rates from fixed to floating) do not exceed 75% of the then outstanding principal amount of the Borrowers Debt for borrowed money which bears interest at a fixed rate and (ii) Swap Agreements effectively converting interest rates from floating to fixed, the notional amounts of which
+ 
+2
+
+
+
+
+
+
+ 
+(when aggregated with all other Swap Agreements of the Borrowers and their respective Restricted Subsidiaries then in effect effectively converting interest rates from floating to fixed) do not exceed 75% of the then outstanding principal amount of the Borrowers Debt for borrowed money which bears interest at a floating rate and (d) those certain Swap Agreements existing on the date hereof and described on Schedule 9.17 between SEP and Shell Energy North America (US), L.P. and between SEP and Macquarie Bank Limited. The Borrowers will not, and will not permit any other Loan Party to, Liquidate any Swap Agreement in respect of commodities unless (x) if such Swap Liquidation would result in an automatic redetermination of the Borrowing Base pursuant to Section 2.07(b)(iv), the Borrowers deliver reasonable prior written notice thereof to the Administrative Agent, and (y) if a Borrowing Base Deficiency would result from such Swap Liquidation as a result of an automatic redetermination of the Borrowing Base pursuant to Section 2.07(b)(iv), the Borrowers prepay Borrowings, prior to or contemporaneously with the consummation of such Swap Liquidation to the extent that such prepayment would have been required under Section 3.04(c)(i) after giving effect to such automatic redetermination of the Borrowing Base.
+ 
+Agreements and Acknowledgements
+ 
+This Letter is a Loan Document.  Except as affected by this Letter, the Loan Documents are unchanged and continue in full force and effect.  However, in the event of any inconsistency between the terms of the Credit Agreement, as amended by this Letter, and any other Loan Document, the terms of the Credit Agreement will control and the other document will be deemed to be amended to conform to the terms of the Credit Agreement.  All references to the Credit Agreement will refer to the Credit Agreement as amended by this Letter and any other amendments properly executed among the parties.  Borrowers agree that all Loan Documents to which they are a party (whether as an original signatory or by assumption of the Obligations) remain in full force and effect and continue to evidence their respective legal, valid and binding obligations enforceable in accordance with their terms (as the same are affected by this Letter or are amended in connection with this Letter).  AS A MATERIAL INDUCEMENT TO THE ADMINISTRATIVE AGENT AND LENDERS PARTY HERETO TO ENTER INTO THIS LETTER, BORROWERS RELEASE THE ADMINISTRATIVE AGENT, THE ISSUING BANK, THE LENDERS AND THEIR RESPECTIVE PREDECESSORS, SUCCESSORS, ASSIGNS, DIRECTORS, OFFICERS, EMPLOYEES, TRUSTEES, AGENTS AND ATTORNEYS FROM ANY LIABILITY FOR ACTIONS OR FAILURES TO ACT IN CONNECTION WITH THE LOAN DOCUMENTS PRIOR TO THE DATE OF THIS LETTER.  NO COURSE OF DEALING BETWEEN BORROWERS OR ANY OTHER PERSON, ON THE ONE HAND, AND THE ADMINISTRATIVE AGENT, ISSUING BANK AND THE LENDERS, ON THE OTHER, WILL BE DEEMED TO HAVE ALTERED OR AMENDED THE CREDIT AGREEMENT OR AFFECTED EITHER BORROWERS, THE ADMINISTRATIVE AGENTS, THE ISSUING BANKS OR THE LENDERS RIGHT TO ENFORCE THE CREDIT AGREEMENT AS WRITTEN.  This Letter will be binding upon and inure to the benefit of each of the undersigned and their respective successors and permitted assigns.
+ 
+3
+
+
+
+
+
+
+ 
+Neither the execution by the Administrative Agent or the Lenders of this Letter, nor any other act or omission by the Administrative Agent or the Lenders or their officers in connection herewith, shall be deemed a waiver by the Administrative Agent or the Lenders of any other defaults which may exist or which may occur in the future under the Credit Agreement and/or the other Loan Documents, or any future defaults of the same provision waived hereunder (collectively Other Violations).  Similarly, nothing contained in this Letter shall directly or indirectly in any way whatsoever either: (i) impair, prejudice or otherwise adversely affect the Administrative Agents or the Lenders right at any time to exercise any right, privilege or remedy in connection with the Loan Documents with respect to any Other Violations, (ii) except for the Amendment herein provided, amend or alter any provision of the Credit Agreement, the other Loan Documents, or any other contract or instrument, or (iii) constitute any course of dealing or other basis for altering any obligation of the Borrowers and/or the Guarantors or any right, privilege or remedy of the Administrative Agent or the Lenders under the Credit Agreement, the other Loan Documents, or any other contract or instrument.  Nothing in this Letter shall be construed to be a consent by the Administrative Agent or the Lenders to any Other Violations.
+ 
+This Letter shall be governed by, and construed in accordance with, the laws of the State of New York without regard to any choice of law provisions that would require the application of the law of another jurisdiction.
+ 
+This Letter may be separately executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to constitute one and the same agreement.  This Letter shall become effective when it shall have been executed by Administrative Agent and when Administrative Agent shall have received counterparts hereof that, when taken together, bear the signatures of each of the Loan Parties and Required Lenders.  This Letter may be transmitted and/or signed by facsimile, telecopy or electronic mail.  The effectiveness of any such documents and signatures shall, subject to applicable law, have the same force and effect as manually signed originals and shall be binding on all Loan Parties, all Lenders and the Administrative Agent.  The Administrative Agent may also require that any such documents and signatures be confirmed by a manually signed original thereof; provided, however, that the failure to request or deliver the same shall not limit the effectiveness of any facsimile document or signature
+ 
+THIS LETTER, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO SUBSEQUENT ORAL AGREEMENTS AMONG THE PARTIES.
+ 
+Guarantors Acknowledgment
+ 
+Each Guarantor by its execution in the space provided below under ACKNOWLEDGED for purposes of Guarantors Acknowledgment hereby ratifies, confirms, acknowledges and agrees that its obligations under the Guaranty are in full force and effect and that such Guarantor continues to unconditionally and irrevocably guarantee the full
+ 
+4
+
+
+
+
+
+
+ 
+and punctual payment, when due, whether at stated maturity or earlier by acceleration or otherwise, of the Obligations, and its execution and delivery of this Letter does not indicate or establish an approval or consent requirement by any Guarantor under the Guaranty in connection with the execution and delivery of amendments to the Credit Agreement, the Notes or any of the other Loan Documents (other than the Guaranty or any other Loan Document to which a Guarantor is a party).
+ 
+[Signature Pages Follow]
+ 
+5
+
+
+
+
+
+
+ 
+If the foregoing correctly states your understanding with respect to the matters stated in this Letter, please acknowledge by signing in the space provided below.
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Letter to be duly executed effective as of the date first written above.
+ 
+
+
+
+     
+
+     
+
+Very   truly yours,       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+ROYAL   BANK OF CANADA,       
+
+
+     
+
+     
+
+as   Administrative Agent       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Ann Hurley       
+
+
+     
+
+     
+
+Name:    
+
+Ann   Hurley       
+
+
+     
+
+     
+
+Title    
+
+Manager,   Agency       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+ROYAL   BANK OF CANADA,       
+
+
+     
+
+     
+
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Mark Lumpkin, Jr.       
+
+
+     
+
+     
+
+Name:    
+
+Mark   Lumpkin, Jr.       
+
+
+     
+
+     
+
+Title    
+
+Authorized   Signatory       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+cc:    
+
+Akin   Gump Strauss Hauer & Feld LLP    
+
+     
+
+     
+
+        
+
+
+     
+
+1111   Louisiana Street, 44th Floor    
+
+     
+
+     
+
+        
+
+
+     
+
+Houston,   Texas 77002    
+
+     
+
+     
+
+        
+
+
+     
+
+Attn:   David Elder    
+
+     
+
+     
+
+          
+ 
+Signature Page 1 to Sanchez Energy, et al
+
+
+
+
+
+
+ 
+
+
+
+     
+
+     
+
+CAPITAL   ONE, NATIONAL ASSOCIATION,       
+
+
+     
+
+     
+
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Michael Higgins       
+
+
+     
+
+     
+
+Name:    
+
+Michael   Higgins       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Michael Spaight    
+
+/s/   Kevin Buddhdew       
+
+
+     
+
+     
+
+Name:    
+
+Michael   Spaight    
+
+Kevin   Buddhdew       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory    
+
+Authorized   Signatory       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+COMPASS   BANK,       
+
+
+     
+
+     
+
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Dorothy Marchand       
+
+
+     
+
+     
+
+Name:    
+
+Dorothy   Marchand       
+
+
+     
+
+     
+
+Title:    
+
+Executive   Vice President       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+SUNTRUST BANK,       
+
+
+     
+
+     
+
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Shannon Inhan       
+
+
+     
+
+     
+
+Name:    
+
+Shannon   Inhan       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+ING   CAPITAL LLC,       
+
+
+     
+
+     
+
+as   a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Charles Hall       
+
+
+     
+
+     
+
+Name:    
+
+Charles   Hall       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page 2 to Sanchez Energy, et al
+
+
+
+
+
+
+ 
+
+
+
+     
+
+     
+
+BRANCH BANKING AND TRUST COMPANY, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Ryan K. Michael       
+
+
+     
+
+     
+
+Name:    
+
+Ryan   K. Michael       
+
+
+     
+
+     
+
+Title:    
+
+Senior   Vice President       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+IBERIABANK,   as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   W. Bryan Chapman       
+
+
+     
+
+     
+
+Name:    
+
+W.   Bryan Chapman       
+
+
+     
+
+     
+
+Title:    
+
+Executive   Vice President       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+UNION BANK, N.A., as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Haylee Dallas       
+
+
+     
+
+     
+
+Name:    
+
+Haylee   Dallas       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+SOCIÉTÉ   GENÉRALÉ, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Graeme Bullen       
+
+
+     
+
+     
+
+Name:    
+
+Graeme   Bullen       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page 3 to Sanchez Energy, et al
+
+
+
+
+
+
+ 
+Accepted and Agreed to as of the date first written above by:
+ 
+ 
+
+
+
+BORROWERS:    
+
+SANCHEZ   ENERGY CORPORATION,       
+
+
+     
+
+a   Delaware corporation       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael G. Long       
+
+
+     
+
+Michael   G. Long       
+
+
+     
+
+Senior   Vice President  Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SEP   HOLDINGS III, LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael G. Long       
+
+
+     
+
+Michael   G. Long       
+
+
+     
+
+Senior   Vice President  Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SN   MARQUIS LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael G. Long       
+
+
+     
+
+Michael   G. Long       
+
+
+     
+
+Senior   Vice President  Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SN   COTULLA ASSETS, LLC,       
+
+
+     
+
+a   Texas limited liability company       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael G. Long       
+
+
+     
+
+Michael   G. Long       
+
+
+     
+
+Senior   Vice President  Chief Financial Officer       
+
+
+     
+
+          
+ 
+Signature Page 4 to Sanchez Energy, et al
+
+
+
+
+
+
+ 
+
+
+
+Acknowledged   for Purposes of Guarantors Acknowledgment    
+
+        
+
+
+     
+
+        
+
+
+GUARANTOR:    
+
+SN   OPERATING, LLC, a Texas limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael G. Long       
+
+
+     
+
+Michael   G. Long       
+
+
+     
+
+Senior   Vice President  Chief Financial Officer         
+ 
+Signature Page 5 to Sanchez Energy, et al
+
+
+
+
+
+
+

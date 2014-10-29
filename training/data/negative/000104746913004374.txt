@@ -1,0 +1,355 @@
+
+EX-10.10
+3
+a2213616zex-10_10.htm
+EX-10.10
+
+
+
+
+
+
+
+Exhibit 10.10
+ 
+VENOCO, INC.
+2012 STOCK-BASED CASH INCENTIVE PLAN
+ 
+1.                                      PURPOSES.
+ 
+(a)                                 Background. This Plan was adopted on November 13, 2012 (the Effective Date) following the closing on October 3, 2012 (the Merger Date) of the going private transaction among Timothy M. Marquez and affiliated entities and the Company and is intended to replace the Companys 2000 and 2005 Stock Incentive Plans, which were terminated on the Merger Date.
+ 
+(b)                                 Eligible Award Recipients. The persons eligible to receive Awards under the Plan are the Employees, Directors and Consultants of the Company and its Affiliates.
+ 
+(c)                                  Available Awards. The Plan provides a means by which eligible recipients may be given an opportunity to benefit from increases in the value of the Common Stock of Denver Parent through the granting of the following awards, all of which are settled in cash: (i) Stock Appreciation Rights, (ii) Restricted Stock Units, and (iii) Other Cash-Settled Awards.
+ 
+(d)                                 General Purpose. The Company, by means of the Plan, seeks to retain the services of the group of persons eligible to receive Awards, to secure and retain the services of new members of this group and to provide incentives for such persons to exert maximum efforts for the success of the Company and its Affiliates.
+ 
+2.                                      DEFINITIONS.
+ 
+(a)                                 Affiliate means any entity that controls, is controlled by, or is under common control with the Company.
+ 
+(b)                                 Award means any right granted under the Plan, including a Stock Appreciation Right, a Restricted Stock Unit, and an Other Cash-Settled Award.
+ 
+(c)                                  Award Agreement means a written agreement between the Company and a Participant evidencing the terms and conditions of an Award granted under the Plan.
+ 
+(d)                                 Board means the Board of Directors of the Company.
+ 
+(e)                                  Cause has the meaning of such term or of any similar term (such as Misconduct) set forth in the individual employment, severance, or similar agreement between the Company and the Participant (if any), and if none, Cause shall mean (i) conviction or plea of nolo contendere to any felony or to any misdemeanor that involves fraud or moral turpitude; (ii) theft or embezzlement of Company property, a material act of dishonesty or fraud involving the Companys property or business, or intentional falsification of any employment or Company records; (iii) material violation of any Company non-competition or confidentiality agreement or of any Company employment,
+ 
+
+
+
+
+
+
+ 
+business, or ethics policy; (iv) willful failure to follow lawful instructions of the person or body to which Participant reports; (v) gross negligence, willful misconduct, or unsatisfactory performance of Participants assigned duties; (vi) actions or failures to act by Participant that are materially detrimental to the Company, monetarily or otherwise; or (vii) Participants failure of any lawfully administered Company drug test or Participants abuse of alcohol or drugs that unreasonably interferes with the performance of Participants customary job duties.
+ 
+(f)                                   Change of Control means: (a) a purchase or acquisition, directly or indirectly, by any person or group within the meaning of Section 13(d)(3) and 14(d)(2) of the Exchange Act (a Group), other than a Permitted Holder, of beneficial ownership (as such term is defined in Rule 13d-3 under the Exchange Act) of securities of Denver Parent which, together with any securities owned beneficially by any affiliates or associates of such Group (as such terms are defined in Rule 12b-2 under the Exchange Act), shall represent more than thirty percent (30%) of the combined voting power of Denver Parents securities which are entitled to vote generally in the election of directors and which are outstanding on the date immediately prior to the date of such purchase or acquisition; provided, however, that no such Change of Control shall be deemed to have occurred under this clause (a) if, and for so long as, Permitted Holders have beneficial ownership (as such term is defined in Rule 13d-3 under the Exchange Act) of more than fifty percent (50%) of the combined voting power of Denver Parents securities which are entitled to vote generally in the election of directors and which are outstanding on the date of determination or as a result of the Merger; (b) a bona-fide sale to a third-party of all or substantially all of the assets of the Company and its Subsidiaries taken as a whole; (c) the liquidation or dissolution of the Company; (d) the first day on which a majority of the Board of Directors of Denver Parent are not Continuing Directors (as herein defined); or (e) Denver Parent fails to beneficially own, directly or indirectly, 100% of the capital stock of the Company.  As herein defined, Continuing Directors means any member of the Board of Directors of Denver Parent who (x) is a member of such Board of Directors as of the Effective Date or (y) was nominated for election or elected to such Board of Directors with the affirmative vote of two-thirds of the Continuing Directors who were members of such Board of Directors at the time of such nomination or election.
+ 
+(g)                                 Code means the Internal Revenue Code of 1986, as amended, and the rules and regulations promulgated thereunder.
+ 
+(h)                                 Committee means a pre-existing or newly formed committee of members of the Board appointed by the Board in accordance with subsection 3(c).
+ 
+(i)                                    Common Stock means the common stock of Denver Parent, par value US$0.01 per share.
+ 
+(j)                                    Company means Venoco, Inc., a Delaware corporation.
+ 
+2
+
+
+
+
+
+
+ 
+(k)                                 Consultant means any person, including an advisor, (i) engaged by the Company or an Affiliate to render consulting or advisory services and who is compensated for such services or (ii) who is a member of the Board of Directors of an Affiliate.
+ 
+(l)                                    Continuous Service means that the Participants service with the Company or an Affiliate, whether as an Employee, Director or Consultant, is not interrupted or terminated. Unless otherwise provided in an Award Agreement, the Participants Continuous Service shall not be deemed to have terminated merely because of a change in the capacity in which the Participant renders service to the Company or an Affiliate as an Employee, Consultant or Director or a change in the entity for which the Participant renders such service, provided that there is no interruption or termination of the Participants service to the Company or an Affiliate as an Employee, Director or Consultant. For example, a change in status from an Employee of the Company to a Consultant of an Affiliate will generally not constitute an interruption of Continuous Service. The Board or the Committee, in its sole discretion, may determine whether Continuous Service shall be considered interrupted in the case of any leave of absence.
+ 
+(m)                             Denver Parent means Denver Parent Corporation, a Delaware corporation.
+ 
+(n)                                 Director means a member of the Board of Directors of the Company.
+ 
+(o)                                 Disability means the Participants inability, due to illness, accident, injury, physical or mental incapacity or other disability, to carry out effectively the duties and obligations to the Company and its Affiliates performed by such person immediately prior to such disability for a period of at least six (6) months, as determined in the good faith judgment of the Board.
+ 
+(p)                                 Employee means any person employed by the Company or an Affiliate. Service as a Director or payment of a directors fee by the Company or an Affiliate alone shall not be sufficient to constitute employment by the Company or an Affiliate.
+ 
+(q)                                 Exchange Act means the Securities Exchange Act of 1934, as amended.
+ 
+(r)                                  Fair Market Value means, as of any date, the value of the Common Stock determined in accordance with Section 409A of the Code.  It is anticipated, but not required, that an independent third party appraisal will be conducted at least annually.  The Fair Market Value of the Common Stock will be as set forth in the immediately preceding valuation, unless otherwise designated by the Board or Committee.
+ 
+(s)                                   Other Cash-Settled Award has the meaning set forth in Section 8(a) below.
+ 
+(t)                                    Participant means an individual to whom an Award is granted pursuant to the Plan or, if applicable, such other person who holds an outstanding Award.
+ 
+3
+
+
+
+
+
+
+ 
+(u)                                 Permitted Holder means (a) Timothy M. Marquez and Bernadette B. Marquez, individually or as Trustees of the Marquez Trust dated February 26, 2002, as amended on April 22, 2010 (a trust for which Timothy M. Marquez and Bernadette B. Marquez serve as Trustees), and any entity of which any such Person owns, directly or indirectly, and exercises voting power with respect to, 80% or more of the capital stock, partnership or membership interests or other ownership interests entitled (without regard to the occurrence of any contingency) to vote in the election of (i) the board of directors of such entity, if such entity is a corporation, (ii) the board of directors of its general partner, if such entity is a limited partnership or (iii) the board or committee of such entity serving a function comparable to that to the board of directors of a corporation, if such entity is neither a corporation nor limited partnership, (b) any employee stock plan of Denver Parent or its Subsidiaries and (c) any member of management of Denver Parent or its Subsidiaries.
+ 
+(v)                                 Person means an individual, sole proprietorship, partnership, corporation, limited liability company, business trust, joint stock company, trust, unincorporated association, limited liability partnership, joint venture, entity or governmental authority.
+ 
+(w)                               Plan means this Venoco, Inc. 2012 Stock-Based Cash Incentive Plan.
+ 
+(x)                                 Restricted Stock Unit has the meaning set forth in Section 7(a) below.
+ 
+(y)                                 Securities Act means the Securities Act of 1933, as amended.
+ 
+(z)                                  Stock Appreciation Right has the meaning set forth in Section 6(a) below.
+ 
+(aa)                          Subsidiary of a Person means any corporation, association, partnership, joint venture or other business entity of which more than 50% of the voting stock or other equity interests (in the case of Persons other than corporations), is owned or controlled directly or indirectly, at the relevant time, by the Person, or one or more of the Subsidiaries of the Person, or a combination thereof.
+ 
+3.                                      ADMINISTRATION.
+ 
+(a)                                 Administration by Board. The Board shall administer the Plan unless and until the Board delegates administration to a Committee, as provided in subsection 3(c). The Board may, at any time and for any reason in its sole discretion, rescind some or all of such delegation.
+ 
+(b)                                 Powers of Board. The Board shall have the power, subject to, and within the limitations of, the express provisions of the Plan:
+ 
+(i)                                     To determine from time to time which of the persons eligible under the Plan shall be granted Awards; when and how each Award shall be granted; what type or combination of types of Award shall be granted; the provisions of each Award granted (which need not be
+ 
+4
+
+
+
+
+
+
+ 
+identical), including the time or times when a person shall be permitted to receive payment pursuant to an Award; and the number of shares of Common Stock covered by such Award.
+ 
+(ii)                                  To construe and interpret the Plan, Awards granted under it, Award Agreements, and to establish, amend and revoke rules and regulations for their administration. The Board, in the exercise of this power, may correct any defect, omission or inconsistency in the Plan or in any Award Agreement, in a manner and to the extent it shall deem necessary or expedient to make the Plan fully effective.
+ 
+(iii)                               To amend the Plan, an Award, or an Award Agreement as provided in Section 11.
+ 
+(iv)                              Generally, to exercise such powers and to perform such acts as the Board deems necessary or expedient to promote the best interests of the Company which are not in conflict with the provisions of the Plan.
+ 
+(c)                                  Delegation to Committee.
+ 
+(i)                                     General. The Board may delegate administration of the Plan and its powers and duties thereunder to a Committee or Committees, and the term Committee shall apply to any person or persons to whom such authority has been delegated. Upon such delegation, the Committee shall have the powers theretofore possessed by the Board, including the power to delegate to a subcommittee any of the administrative powers the Committee is authorized to exercise (and references in this Plan to the Board shall thereafter be deemed to include the Committee or subcommittee), subject, however, to such resolutions, not inconsistent with the provisions of the Plan, as may be adopted from time to time by the Board.  In its absolute discretion, the Board may at any time and from time to time exercise any and all rights and duties of the Committee under this Plan.  In no event shall any member of the Board or any Committee vote or take any action with respect to any Award granted to such individual.
+ 
+(ii)                                  Committee Composition. A Committee shall consist solely of at least one or more individuals who are either (i) Directors or (ii) Employees who are members of the Companys senior management.
+ 
+(d)                                 Effect of Boards Decision; No Liability. All determinations, interpretations and constructions made by the Board or the Committee in good faith shall not be subject to review by any person and shall be final, binding and conclusive on all persons. No member of the Board or the Committee or any person to whom duties hereunder have been delegated shall be liable for any action, interpretation or determination made in good faith, and such persons shall be entitled to full indemnification and reimbursement consistent with applicable law and in the manner provided in the
+ 
+5
+
+
+
+
+
+
+ 
+Companys Certificate of Incorporation, as the same may be amended from time to time, or as otherwise provided in any agreement between any such member and the Company.
+ 
+(e)                                  Conformance to Section 409A of the Code. If, at any time, tax advisors to the Company determine that the terms of any outstanding Award result in additional tax or interest to the holder under Section 409A of the Code, the Board or the Committee shall have the authority to enter into an amendment of such Award, consistent with this Plan, that is designed to avoid such additional tax or interest. If any Award constitutes deferred compensation within the meaning of Section 409A of the Code, any acceleration of the payment of such Award upon a Change of Control as provided under this Plan shall occur only if the Change of Control constitutes, in the good-faith determination of the Board or the Committee, a change in control event as defined in Treasury Regulation Section 1.409A-3(i)(5). If any other payment under this Plan constitutes deferred compensation within the meaning of Section 409A of the Code and if any provisions of the Award Agreement fails to satisfy the requirements of Section 409A(2), (3) or (4) of the Code with respect to such payment, such provision shall be operated in a manner that, in the good-faith determination of the Board or the Committee, seeks to bring the provision into compliance with those requirements while preserving as closely as possible the original intent of the provision.
+ 
+(f)                                   No Guaranty of Favorable Tax Treatment. Although the Company intends to administer the Plan so that Awards will be exempt from, or will comply with, the requirements of Section 409A of the Code, the Company does not warrant that any Award under the Plan will qualify for favorable tax treatment under Section 409A of the Code or any other provision of federal, state, local or foreign law. The Company shall not be liable to any Participant for any tax, interest or penalties the Participant might owe as a result of the grant, holding, vesting, exercise or payment of any Award under the Plan.
+ 
+4.                                      [intentionally left blank]
+ 
+5.                                      ELIGIBILITY.
+ 
+Employees, Directors and Consultants shall be eligible to receive Awards under the Plan.  There are no restrictions on the types of Awards that may be granted to Employees, Directors and Consultants.
+ 
+6.                                      STOCK APPRECIATION RIGHTS.
+ 
+(a)                                 Definition.  A Stock Appreciation Right is a right to receive a payment in cash equal to the excess of the Fair Market Value of a specified number of Common Stock on the date the Stock Appreciation Right is exercised over the base price for such Stock Appreciation Right as set forth in the applicable Award Agreement.
+ 
+(b)                                 Award Agreement for Stock Appreciation Rights.  Each Award Agreement evidencing the grant of a Stock Appreciation Right shall be subject to the terms and conditions of this Plan. Each Stock Appreciation Right and related Award Agreement
+ 
+6
+
+
+
+
+
+
+ 
+shall be in such form and shall contain such terms and conditions as the Board or the Committee shall deem appropriate. The provisions of separate Stock Appreciation Rights need not be identical.
+ 
+(c)                                  Provisions Applicable to All Stock Appreciation Rights.
+ 
+(i)                                     Base Price. The base price of each Stock Appreciation Right shall be not less than one hundred percent (100%) of the Fair Market Value of the Common Stock on the date the Stock Appreciation Right is granted. Notwithstanding the foregoing, a Stock Appreciation Right may be granted with an exercise price lower than that set forth in the preceding sentence if such Stock Appreciation Right is granted pursuant to an assumption or substitution for another stock appreciation right in a manner satisfying the provisions of Section 409A of the Code.
+ 
+(ii)                                  Term. No Stock Appreciation Right shall be exercisable after the expiration of the Exercise Period next following ten (10) years from the date it was granted.
+ 
+(iii)                               Vesting Generally. A Stock Appreciation Right may (A) vest, and therefore become exercisable, in periodic installments that may, but need not, be equal, (B) have its vesting accelerated as set forth in an Award Agreement, or (C) be fully vested at the time of grant. The Stock Appreciation Right may be subject to such other terms and conditions on the time or times when it may be exercised (which may be based on performance or other criteria) as the Board or the Committee may deem appropriate. The vesting provisions, if any, of individual Stock Appreciation Rights (or portions thereof) may vary. The provisions of this subsection 6(c)(iii) are subject to any Plan or Award Agreement provisions governing when a Stock Appreciation Right may be exercised once vested and any minimum number of shares as to which a Stock Appreciation Right may be exercised.
+ 
+(iv)                              Exercise; Payment.  Once vested, a Stock Appreciation Right may be exercised within the Exercise Period, as defined in section 6(c)(v) below, in whole or in part, as elected by the Participant, subject to the provisions of any Award Agreement and the remaining provisions of this Section 6.  Such exercise shall be made in writing delivered to the Company and shall designate the exercise date as well as the number of shares of Common Stock as to which the Stock Appreciation Rights is being exercised.  On the exercise date, the Participant shall be entitled to a cash payment equal to the product of (x) the excess of (A) the Fair Market Value of the Common Stock over (B) the base price of the Stock Appreciation right, multiplied by (y) the number of shares of Common Stock as to which the Stock Appreciation Right is being exercised.
+ 
+7
+
+
+
+
+
+ 
+(v)                                 Exercise Period. Vested Stock Appreciation Rights may be exercised, if at all, only during an open Exercise Period.  An Exercise Period will be the period designated by the Board or the Committee and will generally be a 30 day period following the review and release of the annual Common Stock valuation.  The Board or the Committee may also establish an Exercise Period that coincides with vesting of specific Stock Appreciation Rights grants.  A designated Exercise Period will occur at least once per calendar year and must occur, as necessary, to provide a reasonable exercise period in conjunction with a Change in Control, unless vested Awards are otherwise settled in conjunction there with.  The Board or the Committee will establish additional administrative rules governing the establishment of the Exercise Period for Stock Appreciation Rights as it deems necessary.
+ 
+(vi)                              Termination of Continuous Service. Unless otherwise provided in the Award Agreement, in the event a Participants Continuous Service terminates for any reason, all Stock Appreciation Rights held by the Participant shall immediately terminate; provided, however, if a Participants Continuous Service is terminated by the Company for reasons other than for Cause, all vested Stock Appreciation Rights held by such person shall continue to be exercisable until the earlier of the expiration date of such Stock Appreciation Right or the expiration of the Exercise Period next following the date of such termination. All such vested Stock Appreciation Rights not exercised within the period described in the preceding sentence shall terminate.
+ 
+(vii)                           Limits on Exercise and Transfer. Unless otherwise expressly provided in (or pursuant to) this subsection 6(c)(vii), applicable law or the Award Agreement, as the same may be amended from time to time: (x) all Stock Appreciation Rights are non-transferable and will not be subject in any manner to sale, transfer, alienation, assignment, pledge, encumbrance or charge; (y) Stock Appreciation Rights will be exercised only by the Participant; and (z) amounts payable pursuant to a Stock Appreciation Rights will be delivered only to (or for the account of) the Participant.  The exercise and transfer restrictions in this subsection 6(c)(vii) will not apply to (A) transfers to the Company or, with the express written approval of the Board or the Committee, transfers by gift to immediate family, as that term is defined in SEC Rule 16a-1(e) promulgated under the Exchange Act, (B) the designation of a beneficiary to receive benefits if the Participant dies or, if the Participant has died, transfers to or exercises by the Participants beneficiary, or, in the absence of a validly designated beneficiary, transfers by will or the laws of descent and distribution, or (C) if the Participant has suffered a Disability, permitted transfers or exercises on behalf of the Participant by the Participants duly authorized legal representative.
+ 
+8
+
+
+
+
+
+
+ 
+7.                                      RESTRICTED STOCK UNITS.
+ 
+(a)                                 Definition.  Restricted Stock Units are a contractual right to receive from the Company on the payment date a cash payment equal to the Fair Market Value of a number of shares of Common Stock equal to the number of Restricted Stock Units that have become vested on such date.
+ 
+(b)                                 Restricted Stock Units. Each Award Agreement representing a grant of Restricted Stock Units shall be in such form and shall contain such restrictions, terms and conditions, if any, as the Board or the Committee shall deem appropriate and shall be subject to the terms and conditions of this Plan. The terms and conditions of Award Agreements representing Restricted Stock Units may change from time to time, and the terms and conditions of separate Award Agreements need not be identical, but each Award Agreement shall include (through incorporation of provisions hereof by reference in the agreement or otherwise) the substance of each of the following provisions:
+ 
+(i)                                     Vesting. Restricted Stock Units shall be subject to a vesting schedule to be determined by the Board or the Committee, which vesting schedule may include the Participants Continuous Service over a period of time or the achievement of performance goals, or a combination thereof.  The vesting of different grants of Restricted Stock Units (or portions thereof) need not be identical and may vary by Participant.
+ 
+(ii)                                  Payment.  On any payment date of a Restricted Stock Unit, the Participant shall be entitled to a cash payment equal to the product of (i) the number of Restricted Stock Units being paid out, multiplied by (ii) the Fair Market Value of the Common Stock on such date.  The payment date for a Restricted Stock Unit will be the date on which the Restricted Stock Unit vests, unless the payment has been properly deferred to a later date in accordance with Code Section 409A.
+ 
+(iii)                               Termination of Participants Continuous Service. Unless otherwise provided in the Award Agreement, in the event a Participants Continuous Service terminates prior to a vesting date set forth in the Award Agreement, any unvested Restricted Stock Units shall be forfeited and automatically transferred to and reacquired by the Company at no cost to the Company, and neither the Participant nor his or her heirs, executors, administrators or successors shall have any right or interest in the Restricted Stock Unit.
+ 
+(c)                                  Dividend Equivalent Rights.  If (and only if) required by the applicable Award Agreement, prior to the expiration of the applicable vesting period of a Restricted Stock Unit, the Board or the Committee may pay dividend equivalent rights with respect to Restricted Stock Units, in which case the Corporation shall establish an account for the participant and reflect in that account any ordinary cash dividends with respect to the Common Stock underlying each Restricted Stock Unit.  Each amount credited to any such 
+ 
+9
+
+
+
+
+
+
+ 
+account shall be subject to the same vesting conditions as the Restricted Stock Unit to which it relates.  The Participant shall be paid the amounts credited to such account in cash upon the payment of the related Restricted Stock Unit.
+ 
+8.                                      OTHER CASH-SETTLED AWARDS.
+ 
+(a)                                 Definition.  Other Cash-Settled Awards are contractual rights (other than Stock Appreciation Right or Restricted Stock Units) to receive cash payments upon satisfaction of vesting or other conditions, the value of which is derived (whether at a fixed or variable rate) from the value of the Common Stock and/or returns thereon.  Such grants may include, but are not limited to, awards such as performance units.
+ 
+(b)                                 Other Cash-Settled Awards. Each Award Agreement representing a grant of an Other Cash-Settled Award shall be in such form and shall contain such restrictions, terms and conditions, if any, as the Board or the Committee shall deem appropriate and shall be subject to the terms and conditions of this Plan. The terms and conditions of Award Agreements representing Other Cash-Settled Awards may change from time to time, and the terms and conditions of separate Award Agreements need not be identical.
+ 
+(i)                                     Vesting. Other Cash-Settled Awards may be subject to a vesting schedule to be determined by the Board or the Committee, which vesting schedule may include the Participants Continuous Service over a period of time or the achievement of performance goals, or a combination thereof.  The vesting of different grants of Other Cash-Settled Awards (or portions thereof) need not be identical and may vary by Participant.
+ 
+(ii)                                  Payment.  Each Other Cash-Settled Award shall be payable at such times and in such amounts as may be determined by the Board or the Committee and set forth in the applicable Award Agreement or other controlling document.
+ 
+(iii)                               Termination of Participants Continuous Service. Unless otherwise provided in the Award Agreement, in the event a Participants Continuous Service terminates prior to a vesting date set forth in the Award Agreement, any unvested Other Cash-Settled Awards shall be forfeited and automatically transferred to and reacquired by the Company at no cost to the Company, and neither the Participant nor his or her heirs, executors, administrators or successors shall have any right or interest therein.
+ 
+9.                                      MISCELLANEOUS.
+ 
+(a)                                 Exercise of Awards. Awards shall be exercisable at such times or upon the occurrence of such event or events as the Board or the Committee shall determine and, except as may be otherwise provided herein or in any Award Agreement, may be exercised in whole or in part.
+ 
+10
+
+
+
+
+
+
+ 
+(b)                                 Acceleration of Exercisability and Vesting. The Board or the Committee shall have the power to accelerate the time at which an Award may first be exercised or the time during which an Award or any part thereof will vest in accordance with the Plan, notwithstanding the provisions in the Award Agreement stating the time at which it may first be exercised or the time during which it will vest.
+ 
+(c)                                  Board Discretion. Notwithstanding any provision to the contrary herein, in the event of, or in anticipation of, a termination of employment or service with the Company for any reason, other than a discharge for Cause, the Board or the Committee may accelerate the vesting and exercisability of all or a portion of an Award and/or extend the exercisability period of a Participants Stock Appreciation Right upon such terms as the Board or the Committee determines as expressly set forth in or by amendment to the Award Agreement evidencing such Stock Appreciation Right or other Award; provided that, in the good faith determination of the Board or the Committee, such acceleration or extension will not likely result in the imposition of additional tax or interest under Section 409A of the Code for the holder of the affected Award.
+ 
+(d)                                 Awards in Substitution for Equity Awards Granted by Other Corporations.  Stock Appreciation Rights and other Awards may be granted to Employees, Directors and Consultants under this Plan in substitution for employee stock options or stock appreciation rights or other equity incentive awards granted by other entities, in connection with a merger or reorganization by or with the granting entity or an affiliated entity, or the acquisition by the Company, directly or indirectly, of all or a substantial part of the stock or assets of the employing entity; provided that, in the good faith determination of the Board or the Committee, the terms of such substitution are not likely to result in the imposition of additional tax or interest under Section 409A of the Code for the holder of the affected Award.
+ 
+(e)                                  Stockholder Rights.   In no event shall any Participant have any stockholder rights as a result of the receipt, vesting, or payment of any Award under the Plan.  All such Awards shall represent only an unfunded, unsecured obligation of the Company to pay cash compensation pursuant to the terms and conditions of the Plan and the applicable Award Agreement, and in no event shall any such Award be treated as an ownership interest in Denver Parent or in the Company.  All amounts payable hereunder shall be paid from the general assets of the Company; no amounts shall be set aside in trust for any Participant or beneficiary, nor shall any Participant or beneficiary have any rights to any specific assets of the Company or of Denver Parent.
+ 
+(f)                                   No Employment or other Service Rights. Neither the Plan nor any Award Agreement nor any Award granted pursuant thereto shall confer upon any Participant any right to continue to serve the Company or an Affiliate in the capacity in effect at the time the Award was granted, or any other capacity, or shall affect the right of the Company or an Affiliate to terminate with or without notice and with or without cause (i) the employment of an Employee, (ii) the service of a Consultant to the Company or an Affiliate or (iii) the service of a Director of the Company or an Affiliate.
+ 
+11
+
+
+
+
+
+
+ 
+(g)                                 Withholding Obligations. The Company shall be entitled to perform all applicable federal, state, and local tax withholdings from any amounts payable under this Plan. 
+ 
+(h)                                 Transferability. Except as expressly provided herein to the contrary, Awards shall be transferable by the Participant only upon such terms and conditions as the Board or the Committee shall determine in its discretion and set forth in the Award Agreement; provided, however, that in all cases the transferred Awards shall remain subject to the terms of the Award Agreement.  The exercise and transfer restrictions in this subsection will not apply to (A) the designation of a beneficiary to receive benefits if the Participant dies or, if the Participant has died, transfers to or exercises by the Participants beneficiary, or, in the absence of a validly designated beneficiary, transfers by will or the laws of descent and distribution, or (B) if the Participant has suffered a Disability, permitted transfers or exercises on behalf of the Participant by the Participants duly authorized legal representative.
+ 
+(i)                                    Non-Uniform Determinations. The Boards or the Committees determinations under this Plan (including, without limitation, determinations of the persons to receive Awards, the form, term, provisions, amount and timing of the grant of such Awards and of the agreements evidencing the same) need not be uniform and may be made by it selectively among persons who receive, or are eligible to receive, Awards under this Plan, whether or not such persons are similarly situated.
+ 
+(j)                                    Legal Compliance.  This Plan and all Awards shall be subject to applicable United States federal and state laws, rules and regulations and to such approvals by any government or regulatory agency as may be required.  The Company, in its discretion, may delay the issuance of any Award or the payment of any amounts thereunder until compliance with such laws, rules and regulations has been secured (although the Company is under no obligation or legal liability to secure such compliance), and may require any individual to whom an Award is granted, and such individuals beneficiary or legal representative, as applicable, to make such representations and furnish such information as the Board or the Committee may consider necessary, desirable or advisable in connection with the issuance or exercise of Awards under the Plan in order to comply with applicable laws, rules and regulations.
+ 
+10.                               ADJUSTMENTS UPON CHANGES IN STOCK.
+ 
+(a)                                 Capitalization Adjustments. In the event of any reclassification, recapitalization, stock split (including in the form of a stock dividend) or reverse stock split, merger, combination, consolidation or other reorganization of Denver Parent, the Plan will be appropriately adjusted with respect to the class(es) and maximum number of securities that may underlie Awards (as set forth in subsection 4(a)), and the outstanding Awards will be appropriately adjusted with respect to the class(es) and number of securities of securities on which the Awards are based as well as the base price per share of Common Stock subject to such outstanding Awards; provided, however, that subsection 10(b) shall apply to any such transaction that constitutes a Change of Control; 
+ 
+12
+
+
+
+
+
+
+ 
+and provided further that, in the good faith determination of the Board or the Committee, the terms of such adjustment are not likely to result in the imposition of additional tax or interest under Section 409A of the Code for the holder of an affected Award. The Board or the Committee shall make such adjustments, and its determination shall be final, binding and conclusive.
+ 
+(b)                                 Change of Control. Except as otherwise set forth in an Award Agreement, unless prior to a Change of Control the Board or the Committee determines that, upon its occurrence, benefits under any or all Awards will not accelerate or determines that only certain or limited benefits under any or all Awards will be accelerated and the extent to which they will be accelerated, and/or establishes a different time in respect of such event for such acceleration, then upon (or, as may be necessary to effectuate the purposes of this acceleration, immediately prior to) the occurrence of a Change of Control each Award will become immediately vested and exercisable. Any acceleration of an Award will comply with applicable legal requirements and, if necessary to accomplish the purposes of the acceleration or if the circumstances otherwise require, may be deemed by the Board or the Committee to occur not more than thirty (30) days before or only upon the consummation of the Change of Control.
+ 
+(c)                                  Termination of Awards. Without any limitation on the Boards or the Committees authority pursuant to the foregoing, if the vesting of any Award has been fully accelerated as required or permitted pursuant to the foregoing but is not exercised prior to (x) a dissolution of the Company, (y) an event described in subsection 10(a) that the Company does not survive or (z) the consummation of a Change of Control approved by the Board or the Committee, the Award shall terminate, subject to any provision that has been expressly made by the Board or the Committee for the survival, substitution, assumption, exchange or other settlement of the Award.
+ 
+(d)                                 Possible Rescission of Acceleration. If the vesting of any Award has been accelerated in anticipation of an event or upon stockholder approval of an event and the Board or the Committee later determines that the event will not occur, the Board or the Committee may rescind the effect of the acceleration as to any then outstanding and unexercised or otherwise unvested Award.
+ 
+(e)                                  Alternative Settlement. In the event of any transaction subject to subsection 10(a) or (b), the Board or the Committee may make provision for a settlement or for the substitution of any or all outstanding Awards for cash, securities or other property (or for other awards) based on the distribution or consideration payable to holders of the Common Stock upon or in respect of such event; provided that, in the good faith determination of the Board or the Committee, the terms of such settlement or substitution are not likely to result in the imposition of additional tax or interest under Section 409A of the Code to the holder of an affected Award.
+ 
+13
+
+
+
+
+
+
+ 
+11.                               AMENDMENT OF THE PLAN AND AWARDS.
+ 
+(a)                                 Amendment of Plan. The Board or the Committee at any time, and from time to time, may amend the Plan; provided, however, that no amendment shall be effective unless approved in accordance with the Companys organizational documents and is consistent with any loan covenants or similar contractual restrictions then affecting the Company.
+ 
+(b)                                 No Impairment of Rights. Rights under any Award granted before amendment of the Plan shall not be impaired by any amendment of the Plan unless the Participant consents in writing.
+ 
+(c)                                  Amendment of Awards. The Board or the Committee at any time, and from time to time, may amend the terms of any one or more Awards; provided, however, that the rights under any Award shall not be impaired by any such amendment unless the applicable Participant consents in writing.
+ 
+(d)                                 Amendment to Conform to Law. Notwithstanding any other provision of this Plan to the contrary, the Board may amend the Plan or an Award or Award Agreement, to take effect retroactively or otherwise, as deemed necessary or advisable for the purpose of conforming the Plan or an Award to any present or future law relating to plans of this or similar nature (including Section 409A of the Code), and to the administrative regulations and rulings promulgated thereunder.
+ 
+12.                               TERMINATION OR SUSPENSION OF THE PLAN.
+ 
+(a)                                 Plan Term. The Board or the Committee may suspend or terminate the Plan at any time. Unless sooner terminated, the Plan shall terminate on the day before the tenth (10th) anniversary of the date this Plan is adopted by the Company. No Awards may be granted under the Plan while the Plan is suspended or after it is terminated.
+ 
+(b)                                 No Impairment of Rights. Suspension or termination of the Plan shall not impair rights and obligations under any Award granted while the Plan is in effect except with the written consent of the Participant.
+ 
+(c)                                  Savings Clause. This Plan is intended to comply in all aspects with applicable laws and regulations. In case any one or more of the provisions of this Plan shall be held invalid, illegal or unenforceable in any respect under applicable law or regulation, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby and the invalid, illegal or unenforceable provision shall be deemed null and void; however, to the extent permissible by law, any provision which could be deemed null and void shall first be construed, interpreted or revised retroactively to permit this Plan to be construed in compliance with all applicable laws so as to foster the intent of this Plan.
+ 
+14
+
+
+
+
+
+
+ 
+13.                               EFFECTIVE DATE OF PLAN.
+ 
+The Plan shall become effective on the Effective Date.
+ 
+14.                              CHOICE OF LAW.
+ 
+The law of the Delaware shall govern all questions concerning the construction, validity and interpretation of this Plan, without regard to such states conflict of laws rules.
+ 
+15
+
+
+
+
+
+
+
+
+

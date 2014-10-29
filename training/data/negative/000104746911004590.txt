@@ -1,0 +1,2778 @@
+
+EX-10.3
+2
+a2203590zex-10_3.htm
+EX-10.3
+
+
+
+
+
+
+
+Exhibit 10.3
+ 
+THIRD AMENDMENT
+ 
+TO
+ 
+FIFTH AMENDED AND RESTATED
+SENIOR REVOLVING CREDIT AGREEMENT
+ 
+among
+ 
+PETROHAWK ENERGY CORPORATION,
+as the Borrower,
+ 
+BNP PARIBAS,
+as Administrative Agent,
+ 
+and
+ 
+THE LENDERS PARTY HERETO
+ 
+ 
+Dated as of April 29, 2011
+ 
+
+
+
+
+
+
+ 
+THIRD AMENDMENT TO
+FIFTH AMENDED AND RESTATED SENIOR REVOLVING CREDIT AGREEMENT
+ 
+This THIRD AMENDMENT TO FIFTH AMENDED AND RESTATED SENIOR REVOLVING CREDIT AGREEMENT (this Third Amendment) executed as of April 29, 2011 is among PETROHAWK ENERGY CORPORATION, a corporation duly formed and existing under the laws of the State of Delaware (the Borrower); each of the Guarantors signatory hereto (the Guarantors); each of the Lenders from time to time party hereto; and BNP PARIBAS (in its individual capacity, BNP Paribas), as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the Administrative Agent).
+ 
+Recitals
+ 
+A.                                   The Borrower, the Administrative Agent, the other Agents and Lenders named and defined therein as lenders and agents, are parties to that certain Fifth Amended and Restated Senior Revolving Credit Agreement dated as of August 2, 2010, as amended by the First Amendment to Fifth Amended and Restated Senior Revolving Credit Agreement, dated as of November 8, 2010, and by the Second Amendment to Fifth Amended and Restated Senior Revolving Credit Agreement, dated as of December 22, 2010, pursuant to which such lenders and agents provided certain loans and extensions of credit to the Borrower (as amended, the Credit Agreement).
+ 
+B.                                     The Borrower has requested, and the Borrower, the Administrative Agent and the Lenders have agreed to amend certain provisions of the Credit Agreement.
+ 
+C.                                     NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+ 
+Section 1.                             Defined Terms.  Each capitalized term which is defined in the Credit Agreement, but which is not defined in this Third Amendment, shall have the meaning ascribed such term in the Credit Agreement.  Unless otherwise indicated, all section references in this Third Amendment refer to sections in the Credit Agreement.
+ 
+Section 2.                             Amendments to Credit Agreement.
+ 
+2.1                                 Certain Defined Terms.  The following defined terms in Section 1.02 are hereby amended and restated, or added, in their entirety as follows:
+ 
+Agreement means this Fifth Amended and Restated Senior Revolving Credit Agreement, as amended by the First Amendment to Fifth Amended and Restated Senior Revolving Credit Agreement, dated as of November 8, 2010, by the Second Amendment to Fifth Amended and Restated Senior Revolving Credit Agreement, dated as of December 22, 2010 and by the Third Amendment to Fifth Amended and Restated Senior Revolving Credit Agreement, dated as of April 29, 2011, as the same may from time to time be further amended, modified, supplemented or restated.
+ 
+1
+
+
+
+
+
+
+ 
+Applicable Margin means, for any day, with respect to any ABR Loan or Eurodollar Loan, or with respect to the Commitment Fee Rate, as the case may be, the rate per annum set forth in the Borrowing Base Utilization Grid below based upon the Borrowing Base Utilization Percentage then in effect:
+ 
+
+
+
+Borrowing Base   Utilization Percentage    
+
+     
+
+<25%    
+
+     
+
+³25% <50%    
+
+     
+
+³50% <75%    
+
+     
+
+³75% <90%    
+
+     
+
+³90%    
+
+        
+
+
+LIBOR Margin    
+
+     
+
+1.50    
+
+%    
+
+1.75    
+
+%    
+
+2.00    
+
+%    
+
+2.25    
+
+%    
+
+2.50    
+
+%       
+
+
+ABR Margin    
+
+     
+
+0.50    
+
+%    
+
+0.75    
+
+%    
+
+1.00    
+
+%    
+
+1.25    
+
+%    
+
+1.50    
+
+%       
+
+
+Commitment Fee Rate    
+
+     
+
+0.375    
+
+%    
+
+0.375    
+
+%    
+
+0.50    
+
+%    
+
+0.50    
+
+%    
+
+0.50    
+
+%         
+ 
+Each change in the Applicable Margin shall apply during the period commencing on the effective date of such change and ending on the date immediately preceding the effective date of the next such change, provided, however, that if at any time the Borrower fails to deliver a Reserve Report pursuant to Section 8.12(a), then the Applicable Margin means the rate per annum set forth on the grid when the Borrowing Base Utilization Percentage is at its highest level.
+ 
+Commitment Fee Rate has the meaning set forth in the definition of Applicable Margin.
+ 
+Interest Expense means, for any period, the sum (determined without duplication) of the aggregate of (a) all cash dividends paid on the Borrowers preferred Equity Interests and (b) gross interest expense of the Borrower and the Consolidated Restricted Subsidiaries for such period, including to the extent included in interest expense under GAAP:  (i) capitalized interest and (ii) the portion of any payments or accruals under Capital Leases allocable to interest expense, plus the portion of any payments or accruals under Synthetic Leases allocable to interest expense whether or not the same constitutes interest expense under GAAP but (c) excluding:  (i) amortization of debt issuance costs, (ii) amortization of original debt issuance discounts and premiums and (iii) costs associated with Permitted Refinancing Debt.
+ 
+Majority Lenders means, at any time while no Loans or LC Exposure is outstanding, Lenders having at least fifty-one percent (51%) of the Aggregate Maximum Credit Amounts; and at any time while any Loans or LC Exposure are outstanding, Lenders holding at least fifty-one percent (51%) of the outstanding aggregate principal amount of the Loans or participation interests in Letters of Credit (without regard to any sale by a Lender of a participation in any Loan under Section 12.04(c)).
+ 
+Maturity Date means July 1, 2016.
+ 
+2
+
+
+
+
+
+
+ 
+Super Majority Lenders means, at any time while no Loans or LC Exposure is outstanding, Lenders having at least sixty-six and two-thirds percent (66-2/3%) of the Aggregate Maximum Credit Amounts; and at any time while any Loans or LC Exposure are outstanding, Lenders holding at least sixty-six and two-thirds percent (66-2/3%) of the outstanding aggregate principal amount of the Loans or participation interests in Letters of Credit (without regard to any sale by a Lender of a participation in any Loan under Section 12.04(c)).
+ 
+2.2                                 Amendment to Section 2.07(b).  Section 2.07(b) is hereby amended by replacing the term Majority Lenders in each instance of its use in Section 2.07(b) with the term Super Majority Lenders.
+ 
+2.3                                 Amendment to Section 3.05(a).  Section 3.05(a) is hereby amended and restated in its entirety as follows:
+ 
+Commitment Fees.  The Borrower agrees to pay to the Administrative Agent for the account of each Lender a commitment fee, which shall accrue at the applicable Commitment Fee Rate on the average daily amount of the unused amount of the Commitment of such Lender during the period from and including the date of this Agreement to but excluding the Termination Date, provided that, for purposes of determining the Commitment of a Lender for this Section 3.05(a), each Lenders Applicable Percentage of the then effective Borrowing Base shall be equal to such Lenders Applicable Percentage of the sum of (i) the then effective Oil and Gas Borrowing Base and (ii) $100,000,000.  Accrued commitment fees shall be payable in arrears on the last day of March, June, September and December of each year and on the Termination Date, commencing on the first such date to occur after the date hereof.  All commitment fees shall be computed on the basis of a year of 360 days, unless such computation would exceed the Highest Lawful Rate, in which case interest shall be computed on the basis of a year of 365 days (or 366 days in a leap year), and shall be payable for the actual number of days elapsed (including the first day but excluding the last day).
+ 
+2.4                                 Amendment to Section 8.01(e).  Section 8.01(e) is hereby amended and restated in its entirety as follows:
+ 
+(e)                            Certificate of Financial Officer  Swap Agreements.  Concurrently with any delivery of any Reserve Report or at such other times as may be reasonably requested by the Administrative Agent, a certificate of a Financial Officer, in form and substance satisfactory to the Administrative Agent, setting forth as of the date of such Reserve Report, a true and complete list of all Swap Agreements of the Borrower and each Restricted Subsidiary, the material terms thereof (including the type, term, effective date, termination date and notional amounts or volumes), the net mark-to-market value therefor, any new credit support agreements relating thereto not listed on Schedule 7.20, any margin required or supplied under any credit support document, and the counterparty to each such agreement.
+ 
+3
+
+
+
+
+
+
+ 
+2.5                                 Amendment to Section 8.01(n).  Section 8.01(n) is hereby amended and restated in its entirety as follows:
+ 
+(n)                           Certain Production Information and Lease Operating Statements.  Within sixty (60) days after the end of each fiscal quarter, a report setting forth, for each calendar month during the then current fiscal year to the end of such fiscal quarter on a production date basis, the volume of production and sales attributable to production for which cash activity has been recorded (and the prices at which such sales were made and the revenues derived from such sales) for each such calendar month from the Oil and Gas Properties, and setting forth the related ad valorem, severance and production taxes and lease operating expenses attributable thereto and incurred for each such calendar month.
+ 
+2.6                                 Amendment to Section 8.13(c).  Section 8.13(c) is hereby amended by replacing the term Majority Lenders in Section 8.13(c) with the term Super Majority Lenders.
+ 
+2.7                                 Amendment to Section 9.06.  Section 9.06 is hereby amended by replacing each reference to Section 9.05(l) in Section 9.06(b) and Section 9.06(c) with a reference to Section 9.05(m).
+ 
+2.8                                 Amendment to Section 11.03.  Section 11.03 is hereby amended by replacing the parenthetical phrase (or such other number or percentage of the Lenders as shall be necessary under the circumstances as provided in Section 12.02) in Section 11.03 with the parenthetical phrase (or such other number or percentage of Lenders as shall be necessary under the circumstances as provided in Section 2.07(b), Section 5.04(b), Section 8.13(c) or Section 12.02).
+ 
+2.9                                 Amendments to Section 12.02(b).
+ 
+(a)                                  Section 12.02(b)(ii) is hereby amended by replacing the term Majority Lenders in each instance of its use in Section 12.02(b)(ii) with the term Super Majority Lenders.
+ 
+(b)                                 Section 12.02(b)(ix)(B) is hereby amended and restated in its entirety as follows:
+ 
+(B) the definitions of Majority Lenders, Super Majority Lenders, Required Lenders, Midstream Component or Midstream EBITDA,
+ 
+2.10                           Amendment to Annex I.  Annex I is hereby amended by deleting such Annex in its entirety and replacing it with Annex I attached hereto.
+ 
+Section 3.                             Increase in Aggregate Maximum Credit Amounts and Adjustment to Borrowing Base.
+ 
+3.1                                 Increase in Aggregate Maximum Credit Amounts and Reallocation of Commitments and Loans.  The Lenders have agreed among themselves, in consultation with the Borrower, to increase the Aggregate Maximum Credit Amounts and Commitments by allowing
+ 
+4
+
+
+
+
+
+
+ 
+each of the Lenders to increase its Maximum Credit Amount.  Subject to the terms of this Third Amendment, the Administrative Agent and the Borrower hereby consent to such increase.  On the Third Amendment Effective Date and after giving effect to such increase, the Maximum Credit Amount and Commitment of each Lender shall be as set forth on Annex I of this Third Amendment which Annex I supersedes and replaces the Annex I to the Credit Agreement.  On the Third Amendment Effective Date, the Administrative Agent shall record the information contained in Annex I attached hereto in the Register required to be maintained by the Administrative Agent pursuant to Section 12.04(b)(iv).
+ 
+3.2                                 Adjustment to Oil and Gas Borrowing Base.  For the period from and including the Third Amendment Effective Date to but excluding the next Redetermination Date, the Oil and Gas Borrowing Base shall be $1,800,000,000.  Notwithstanding the foregoing, the Oil and Gas Borrowing Base may be subject to further adjustments from time to time pursuant to Section 2.07(d), Section 8.13(c) or Section 9.13.
+ 
+Section 4.                             Conditions Precedent.  The effectiveness of this Third Amendment is subject to the receipt by the Administrative Agent of the following documents and satisfaction of the other conditions provided in this Section 4, each of which shall be reasonably satisfactory to the Administrative Agent in form and substance (the date on which such documents are received and conditions satisfied or waived pursuant to the Credit Agreement, the Third Amendment Effective Date):
+ 
+4.1                                 The Administrative Agent and the Lenders shall have received all fees and other amounts due and payable on or prior to the Third Amendment Effective Date, including, to the extent invoiced, reimbursement or payment of all out-of-pocket expenses required to be reimbursed or paid by the Borrower hereunder.
+ 
+4.2                                 The Administrative Agent shall have received from the Borrower, each Lender, and each of the Guarantors, counterparts (in such number as may be requested by the Administrative Agent) of this Third Amendment signed on behalf of such Person.
+ 
+4.3                                 The Administrative Agent shall have received from each party thereto duly executed counterparts (in such number as may be requested by the Administrative Agent) of the Security Instruments described in Exhibit A of this Third Amendment.
+ 
+4.4                                 The Administrative Agent shall have received an opinion of (i) Porter & Hedges L.L.P., special counsel to the Borrower, in form and substance reasonably acceptable to the Administrative Agent, and (ii) local counsel in Louisiana in form an substance reasonably satisfactory to the Administrative Agent.
+ 
+4.5                                 No Default or Event of Default shall have occurred and be continuing as of the Third Amendment Effective Date.
+ 
+4.6                                 The Administrative Agent shall have received such other documents as the Administrative Agent or its special counsel may reasonably require.
+ 
+The Administrative Agent is hereby authorized and directed to declare this Third Amendment to be effective when it has received documents confirming or certifying, to the
+ 
+5
+
+
+
+
+
+
+ 
+satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section 4 or the waiver of such conditions as permitted hereby. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes.
+ 
+Section 5.                             Representations and Warranties; Etc.  The Borrower and each Guarantor hereby affirms:  (a) that as of the date of execution and delivery of this Third Amendment, and after giving effect to the transactions contemplated hereby, all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (unless made as of a specific earlier date, in which case, was true as of such date); and (b) that after giving effect to this Third Amendment, no Defaults exist under the Loan Documents or will exist under the Loan Documents.
+ 
+Section 6.                             Miscellaneous.
+ 
+6.1                                 Confirmation.  The provisions of the Credit Agreement (as amended by this Third Amendment) shall remain in full force and effect in accordance with its terms following the effectiveness of this Third Amendment.
+ 
+6.2                                 Ratification and Affirmation of Borrower and Guarantors.  The Borrower and Guarantors hereby expressly (a) acknowledge the terms of this Third Amendment, (b) ratify and affirm their obligations under the Loan Documents to which they are a party, (c) acknowledge, renew and extend their continued liabilities under the Guarantee Agreement and the other Security Instruments to which they are a party and agree that their guarantee under the Guarantee Agreement and the other Security Instruments to which they are a party remains in full force and effect with respect to the Indebtedness as amended hereby.
+ 
+6.3                                 Counterparts.  This Third Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument.
+ 
+6.4                                 No Oral Agreement.  THIS WRITTEN THIRD AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.
+ 
+6.5                                 Governing Law.  THIS THIRD AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+ 
+[SIGNATURES BEGIN ON NEXT PAGE]
+ 
+6
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Third Amendment to be duly executed effective as of the date first written above.
+ 
+
+
+
+BORROWER:    
+
+     
+
+PETROHAWK ENERGY CORPORATION       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Mark J. Mize       
+
+
+     
+
+     
+
+     
+
+Mark   J. Mize       
+
+
+     
+
+     
+
+     
+
+Executive   Vice President  Chief Financial       
+
+
+     
+
+     
+
+     
+
+Officer   and Treasurer         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 1
+
+
+
+
+
+ 
+
+
+
+GUARANTORS:    
+
+     
+
+PETROHAWK OPERATING COMPANY       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+P-H ENERGY, LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+HAWK FIELD SERVICES, LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+PETROHAWK PROPERTIES, LP       
+
+
+     
+
+     
+
+     
+
+By:    
+
+P-H Energy, LLC       
+
+
+     
+
+     
+
+     
+
+     
+
+Its General Partner       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+WINWELL RESOURCES, L.L.C.       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+WSF, INC.       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+KCS RESOURCES, LLC       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+KCS ENERGY SERVICES, INC.       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+MEDALLION CALIFORNIA PROPERTIES COMPANY       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+PROLIQ, INC.       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+ONE TEC, LLC       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+ONE TEC OPERATING, LLC       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+BISON RANCH, LLC       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+HK   TRANSPORTATION, LLC       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+PETROHAWK   HOLDINGS, LLC       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Mark J. Mize       
+
+
+     
+
+     
+
+     
+
+Mark   J. Mize       
+
+
+     
+
+     
+
+     
+
+Executive   Vice President  Chief Financial       
+
+
+     
+
+     
+
+     
+
+Officer   and Treasurer       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+BIG   HAWK SERVICES, LLC       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Mark J. Mize       
+
+
+     
+
+     
+
+     
+
+Mark   J. Mize       
+
+
+     
+
+     
+
+     
+
+Treasurer       
+
+
+
+
+
+
+    
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 2
+
+
+
+
+
+
+ 
+
+
+
+     
+
+     
+
+HK ENERGY MARKETING, LLC       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Mark J. Mize       
+
+
+     
+
+     
+
+     
+
+Mark   J. Mize       
+
+
+     
+
+     
+
+     
+
+Chief   Financial Officer and Treasurer         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 3
+
+
+
+
+
+
+ 
+
+
+
+ADMINISTRATIVE AGENT:    
+
+     
+
+BNP PARIBAS,       
+
+
+     
+
+     
+
+as   Administrative Agent and Lender       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Juan Carlos Sandoval       
+
+
+     
+
+     
+
+Name:   Juan Carlos Sandoval       
+
+
+     
+
+     
+
+Title:   Director       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Edward Pak       
+
+
+     
+
+     
+
+Name:   Edward Pak       
+
+
+     
+
+     
+
+Title:   Director         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 4
+
+
+
+
+
+
+ 
+
+
+
+CO-SYNDICATION   AGENT:    
+
+     
+
+BANK OF MONTREAL, as Co-Syndication       
+
+
+     
+
+     
+
+Agent   and Lender       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ James V. Ducote       
+
+
+     
+
+     
+
+Name:   James V. Ducote       
+
+
+     
+
+     
+
+Title:   Director         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 5
+
+
+
+
+
+
+ 
+
+
+
+CO-SYNDICATION   AGENT:    
+
+     
+
+BANK OF AMERICA, N.A., as Co-Syndication       
+
+
+     
+
+     
+
+Agent   and Lender       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Jeffrey H. Rathkamp       
+
+
+     
+
+     
+
+Name:   Jeffrey H. Rathkamp       
+
+
+     
+
+     
+
+Title:   Managing Director         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 6
+
+
+
+
+
+
+ 
+
+
+
+CO-DOCUMENTATION   AGENT:    
+
+     
+
+JPMORGAN CHASE BANK, N.A., as       
+
+
+     
+
+     
+
+Co-Documentation   Agent and Lender       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Michael A. Kamauf       
+
+
+     
+
+     
+
+Name:   Michael A. Kamauf       
+
+
+     
+
+     
+
+Title:   Authorized Officer         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 7
+
+
+
+
+
+
+ 
+
+
+
+CO-DOCUMENTATION   AGENT:    
+
+     
+
+WELLS FARGO BANK, N.A., as       
+
+
+     
+
+     
+
+Co-Documentation   Agent and Lender       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Doug McDowell       
+
+
+     
+
+     
+
+Name:   Doug McDowell       
+
+
+     
+
+     
+
+Title:   Director         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 8
+
+
+
+
+
+
+ 
+
+
+
+LENDERS:    
+
+     
+
+BARCLAYS BANK PLC       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Allen Huang       
+
+
+     
+
+     
+
+Name:   Allen Huang       
+
+
+     
+
+     
+
+Title:   Assistant Vice President         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 9
+
+
+
+
+
+
+ 
+
+
+
+     
+
+     
+
+ROYAL   BANK OF CANADA       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Jay T. Sartain       
+
+
+     
+
+     
+
+Name:   Jay T. Sartain       
+
+
+     
+
+     
+
+Title:   Authorized Signatory         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 10
+
+
+
+
+
+
+ 
+
+
+
+     
+
+     
+
+MORGAN   STANLEY BANK, N.A.       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/ Sherrese Clarke       
+
+
+     
+
+     
+
+Name:   Sherrese Clarke       
+
+
+     
+
+     
+
+Title:   Authorized Signatory         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 11
+
+
+
+
+
+ 
+
+
+
+     
+
+MORGAN   STANLEY SENIOR FUNDING, INC.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Sherrese Clarke       
+
+
+     
+
+Name:   Sherrese Clarke       
+
+
+     
+
+Title:   Vice President         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 12
+
+
+
+
+
+
+ 
+
+
+
+     
+
+DEUTSCHE   BANK TRUST COMPANY AMERICAS       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Paul OLeary       
+
+
+     
+
+Name:   Paul OLeary       
+
+
+     
+
+Title:   Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Evelyn Thierry       
+
+
+     
+
+Name:   Evelyn Thierry       
+
+
+     
+
+Title:   Director         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 13
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   AGRICOLE CORPORATE AND INVESTMENT BANK       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Darrell Stanley       
+
+
+     
+
+Name:   Darrell Stanley       
+
+
+     
+
+Title:   Managing Director       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Sharada Manne       
+
+
+     
+
+Name:   Sharada Manne       
+
+
+     
+
+Title:   Director         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 14
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   SUISSE AG, CAYMAN ISLANDS BRANCH       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Karl M. Studer       
+
+
+     
+
+Name:   Karl M. Studer       
+
+
+     
+
+Title:   Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Vipul Dhadda       
+
+
+     
+
+Name:   Vipul Dhadda       
+
+
+     
+
+Title:   Associate         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 15
+
+
+
+
+
+
+ 
+
+
+
+     
+
+UBS   AG, STAMFORD BRANCH       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Mary E. Evans       
+
+
+     
+
+Name:   Mary E. Evans       
+
+
+     
+
+Title:   Associate Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Irja R. Otsa       
+
+
+     
+
+Name:   Irja R. Otsa       
+
+
+     
+
+Title:   Associate Director         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 16
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CAPITAL   ONE, N.A.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Wesley Fontana       
+
+
+     
+
+Name:   Wesley Fontana       
+
+
+     
+
+Title:   Vice President         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 17
+
+
+
+
+
+
+ 
+
+
+
+     
+
+ING   CAPITAL LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Charles Hall       
+
+
+     
+
+Name:   Charles Hall       
+
+
+     
+
+Title:   Managing Director         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 18
+
+
+
+
+
+
+ 
+
+
+
+     
+
+MIZUHO   CORPORATE BANK, LTD.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Leon Mo       
+
+
+     
+
+Name:   Leon Mo       
+
+
+     
+
+Title:   Authorized Signatory         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 19
+
+
+
+
+
+
+ 
+
+
+
+     
+
+AMEGY   BANK NATIONAL ASSOCIATION       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Charles W. Patterson       
+
+
+     
+
+Name:   Charles W. Patterson       
+
+
+     
+
+Title:   Senior Vice President         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 20
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CITIBANK,   N.A.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ John Miller       
+
+
+     
+
+Name:   John Miller       
+
+
+     
+
+Title:   Attorney-in-Fact         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 21
+
+
+
+
+
+ 
+
+
+
+     
+
+KEYBANK NATIONAL ASSOCIATION       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ David Morris       
+
+
+     
+
+Name:   David Morris       
+
+
+     
+
+Title:   Vice President         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 22
+
+
+
+
+
+
+ 
+
+
+
+     
+
+SUNTRUST   BANK       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Gregory C. Magnuson       
+
+
+     
+
+Name:   Gregory C. Magnuson       
+
+
+     
+
+Title:   Vice President         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 23
+
+
+
+
+
+
+ 
+
+
+
+     
+
+SUMITOMO   MITSUI BANKING CORPORATION       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Masakazu Hasegawa       
+
+
+     
+
+Name:   Masakazu Hasegawa       
+
+
+     
+
+Title:   General Manager         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 24
+
+
+
+
+
+
+ 
+
+
+
+     
+
+THE   BANK OF NOVA SCOTIA       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ John Frazell       
+
+
+     
+
+Name:   John Frazell       
+
+
+     
+
+Title:   Director         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 25
+
+
+
+
+
+
+ 
+
+
+
+     
+
+GOLDMAN   SACHS BANK USA       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Mark Walton       
+
+
+     
+
+Name:   Mark Walton       
+
+
+     
+
+Title:   Authorized Signatory         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 26
+
+
+
+
+
+
+ 
+
+
+
+     
+
+NATIXIS       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Liana Tchernysheva       
+
+
+     
+
+Name:   Liana Tchernysheva       
+
+
+     
+
+Title:   Managing Director       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Louis P. Laville, III       
+
+
+     
+
+Name:   Louis P. Laville, III       
+
+
+     
+
+Title:   Managing Director         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 27
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK   OF TEXAS, N.A.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Mari Salazar       
+
+
+     
+
+Name:   Mari Salazar       
+
+
+     
+
+Title:   Senior Vice President         
+ 
+Third Amendment  Fifth Amended and Restated Senior Revolving Credit Agreement
+Signature Page 28
+
+
+
+
+
+
+ 
+ANNEX I
+LIST OF MAXIMUM CREDIT AMOUNTS
+ 
+Aggregate Maximum Credit Amounts
+ 
+
+
+
+Name of Lender    
+
+     
+
+Applicable   Percentage    
+
+     
+
+Maximum   Credit Amount    
+
+        
+
+
+BNP Paribas    
+
+     
+
+7.702702635    
+
+%    
+
+$    
+
+192,567,566    
+
+        
+
+
+Bank of Montreal    
+
+     
+
+6.081081081    
+
+%    
+
+$    
+
+152,027,027    
+
+        
+
+
+Bank of America, N.A.    
+
+     
+
+6.081081081    
+
+%    
+
+$    
+
+152,027,027    
+
+        
+
+
+Barclays Bank PLC    
+
+     
+
+6.081081081    
+
+%    
+
+$    
+
+152,027,027    
+
+        
+
+
+JP Morgan Chase Bank, N.A.    
+
+     
+
+6.081081081    
+
+%    
+
+$    
+
+152,027,027    
+
+        
+
+
+Royal Bank of Canada    
+
+     
+
+6.081081081    
+
+%    
+
+$    
+
+152,027,027    
+
+        
+
+
+Wells Fargo Bank, N.A.    
+
+     
+
+6.081081081    
+
+%    
+
+$    
+
+152,027,027    
+
+        
+
+
+Morgan Stanley Bank, N.A.    
+
+     
+
+2.842105263    
+
+%    
+
+$    
+
+71,052,632    
+
+        
+
+
+Morgan Stanley Senior Funding, Inc.    
+
+     
+
+1.894736842    
+
+%    
+
+$    
+
+47,368,421    
+
+        
+
+
+Deutsche Bank Trust Company Americas    
+
+     
+
+5.129919416    
+
+%    
+
+$    
+
+128,247,985    
+
+        
+
+
+Credit Agricole CIB    
+
+     
+
+5.129919416    
+
+%    
+
+$    
+
+128,247,985    
+
+        
+
+
+Credit Suisse, Cayman Islands Branch    
+
+     
+
+4.736842105    
+
+%    
+
+$    
+
+118,421,053    
+
+        
+
+
+UBS AG, Stamford Branch    
+
+     
+
+5.129919416    
+
+%    
+
+$    
+
+128,247,985    
+
+        
+
+
+Capital One, N.A.    
+
+     
+
+4.736842105    
+
+%    
+
+$    
+
+118,421,053    
+
+        
+
+
+ING Capital, LLC    
+
+     
+
+3.157894737    
+
+%    
+
+$    
+
+78,947,368    
+
+        
+
+
+Mizuho Corporate Bank, Ltd.    
+
+     
+
+2.631578947    
+
+%    
+
+$    
+
+65,789,474    
+
+        
+
+
+Amegy Bank National Association    
+
+     
+
+2.157894737    
+
+%    
+
+$    
+
+53,947,368    
+
+        
+
+
+Citibank, N.A.    
+
+     
+
+3.157894737    
+
+%    
+
+$    
+
+78,947,368    
+
+        
+
+
+KeyBank National Association    
+
+     
+
+2.105263158    
+
+%    
+
+$    
+
+52,631,579    
+
+        
+
+
+SunTrust Bank    
+
+     
+
+2.000000000    
+
+%    
+
+$    
+
+50,000,000    
+
+        
+
+
+Sumitomo Mitsui Banking Corporation    
+
+     
+
+2.000000000    
+
+%    
+
+$    
+
+50,000,000    
+
+        
+
+
+The Bank of Nova Scotia    
+
+     
+
+2.000000000    
+
+%    
+
+$    
+
+50,000,000    
+
+        
+
+
+Goldman Sachs Bank USA    
+
+     
+
+2.000000000    
+
+%    
+
+$    
+
+50,000,000    
+
+        
+
+
+Natixis    
+
+     
+
+3.157894737    
+
+%    
+
+$    
+
+78,947,368    
+
+        
+
+
+Bank of Texas, N.A.    
+
+     
+
+1.842105263    
+
+%    
+
+$    
+
+46,052,632    
+
+        
+
+
+TOTAL    
+
+     
+
+100.000000000    
+
+%    
+
+$    
+
+2,500,000,000.00    
+
+          
+ 
+
+
+
+
+
+
+ 
+EXHIBIT A
+SECURITY INSTRUMENTS
+ 
+1.                                       Mortgage, Fixture Filing, Assignment of As-Extracted Collateral, Security Agreement and Financing Statement dated as of April 28, 2011 and effective as of April 29, 2011 by KCS Resources, LLC, as Mortgagor, for the benefit of BNP Paribas, as Mortgagee and Administrative Agent, on behalf and for the ratable benefit of the Secured Parties (Louisiana).
+ 
+2.                                       Mortgage, Fixture Filing, Assignment of As-Extracted Collateral, Security Agreement and Financing Statement dated as of April 28, 2011 and effective as of April 29, 2011 by Petrohawk Properties, LP, as Mortgagor, for the benefit of BNP Paribas, as Mortgagee and Administrative Agent, on behalf and for the ratable benefit of the Secured Parties (Louisiana).
+ 
+3.                                       Mortgage, Fixture Filing, Assignment of As-Extracted Collateral, Security Agreement and Financing Statement dated as of April 28, 2011 and effective as of April 29, 2011 by Winwell Resources, L.L.C., as Mortgagor, for the benefit of BNP Paribas, as Mortgagee and Administrative Agent, on behalf and for the ratable benefit of the Secured Parties (Louisiana).
+ 
+4.                                       Mortgage, Line of Credit Mortgage, Deed of Trust, Fixture Filing, Assignment of As-Extracted Collateral, Security Agreement and Financing Statement dated as of April 28, 2011 and effective as of April 29, 2011 from Petrohawk Properties, LP, as Mortgagor, to Brian M. Malone, as Trustee for the Benefit of BNP Paribas, as Administrative Agent, and Others (Texas).
+ 
+5.                                       Deed of Trust, Assignment, Security Agreement, Fixture Filing and Financing Statement dated as of April 28, 2011 and effective as of April 29, 2011 from Hawk Field Services, LLC to Brian M. Malone, as Trustee for BNP Paribas, as Administrative Agent, on behalf and for the ratable benefit of the Secured Parties (Texas).
+ 
+
+
+
+
+
+
+
+
+

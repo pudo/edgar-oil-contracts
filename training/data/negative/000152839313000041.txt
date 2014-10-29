@@ -1,0 +1,1636 @@
+
+EX-10.8
+8
+zaza-20130331ex1082246ea.htm
+EX-10.8
+
+
+
+
+	
+		
+			Ex 10.8 - ZaZa Energy Amended and Restated  Lock up Agreement
+		
+	
+	
+
+		
+
+			EXECUTION VERSION
+
+		
+
+
+		
+			Exhibit 10.8
+		
+		
+			AMENDED AND RESTATED LOCK-UP AGREEMENT
+		
+		
+			This AMENDED AND RESTATED LOCK-UP AGREEMENT (this “Agreement”), is made and entered into as of March 28, 2013, by and among MSDC ZEC Investments, LLC, a Delaware limited liability company, Senator SIDECAR MASTER FUND LP, a Cayman Islands exempted limited partnership, O-CAP Offshore Master Fund, L.P., a Cayman Islands exempted limited partnership, O-CAP Partners, L.P., a Delaware limited partnership, CAPITAL VENTURES INTERNATIONAL, a Cayman Islands corporation, TALARA MASTER FUND, LTD., a Cayman Islands partnership, BLACKWELL PARTNERS, LLC, a Georgia limited liability company, PERMAL TALARA LTD., a British Virgin Islands corporation, WINMILL INVESTMENTS LLC, a Delaware limited liability company (together with their respective successors and assigns, including any future holder of the Warrants (collectively, the “Warrant Holders”)), Blackstone Oil & Gas, LLC, a Texas limited liability company, Omega Energy, LLC, a Texas limited liability company,  Lara Energy, Inc., a Texas corporation, Todd Alan Brooks, Gaston L. Kearby, John E. Hearn, Jr.,  and  HEARN FAMILY HOLDINGS, LTD. (each, a “Restricted Stockholder” and together, the “Restricted Stockholders”) and ZaZa Energy Corporation, a Delaware corporation (the “Company”) but shall not be effective until the Effective Time (as defined in the Amendment No. 5 to the Securities Purchase Agreement and Amendment No. 1 to the Sanchez Consent).
+		
+		
+			WHEREAS, in connection with that certain Securities Purchase Agreement, dated as of February 21, 2012 (as the same from time to time hereafter may be amended, restated, supplemented or otherwise modified, the “Securities Purchase Agreement”), the Warrant Holders, the Restricted Stockholders (other than Hearn Family Holdings, Ltd.) and the Company entered into that certain Lock Up Agreement, dated as of February 21, 2012 (the “Prior Agreement”);
+		
+		
+			WHEREAS, on December 26, 2012, Hearn Family Holdings, Ltd. became a party to the Prior Agreement by executing a Joinder Agreement as required by Section 5 of the Prior Agreement;
+		
+		
+			WHEREAS, pursuant to Section 15 of the Prior Agreement, any provision of the Prior Agreement may be waived, by the written consent of the Warrant Holders who collectively hold Warrants that represent more than 50% of the Warrant Shares issuable upon conversion of the then outstanding Warrants (the “Required Warrant Holders”);
+		
+		
+			WHEREAS, pursuant to Section 13C of the Securities Purchase Agreement, the Prior Agreement may be amended by the written consent of the Required Holders (as defined therein and together with the Required Warrant Holders, the “Requisite Holders”) of each class of Securities entitled to the benefits of such term; and
+		
+		
+			WHEREAS, the Requisite Holders previously waived certain provisions of the Prior Agreement on June 8, 2012 and agreed to amend certain provisions of the Prior Agreement pursuant to Amendment No. 4 to the Securities Purchase Agreement, dated as of December 17, 2012;
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.5 
+
+		
+
+ 
+		WHEREAS, the Restricted Stockholders have requested that the Requisite Holders consent to certain amendments to Section 3 of the Prior Agreement and that the Prior Agreement be amended and restated in order to reflect the previously granted waivers and amendments;
+		
+		
+			WHEREAS, the undersigned collectively hold Warrants that represent more than 50% of the Warrant Shares issuable upon conversion of the Warrants outstanding as of the date hereof and also constitute the Required Holders of each class of Securities issued under the Securities Purchase Agreement. 
+		
+		
+			NOW, THEREFORE, in consideration of the foregoing, the mutual agreements herein contained and other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto, intending to be legally bound, hereby agree to amend and restate the terms and conditions of the Prior Agreement as follows:
+		
+		
+			
+				 1.
+			
+		
+			
+			Definitions.  Terms not otherwise defined herein have the same respective meanings given to them in the Securities Purchase Agreement.  In addition, the following terms shall have the following meanings:
+		
+			“Transfer” means to (a) sell, offer to sell, contract or agree to sell, hypothecate, pledge, grant any option to purchase or otherwise dispose of or agree to dispose of, directly or indirectly, (including, without limitation, by Transferring any equity interests in an entity that beneficially owns Common Stock) in respect of, or establish or increase a put equivalent position or liquidate or decrease a call equivalent position within the meaning of Section 16 of the Exchange Act with respect to, any Common Stock of the Company or any securities convertible into or exercisable or exchangeable for Common Stock, or warrants or other rights to purchase Common Stock or any such securities, or any securities substantially similar to the Common Stock, (b) enter into any swap or other arrangement that transfers to another, in whole or in part, any of the economic consequences of ownership of Common Stock or any securities convertible into or exercisable or exchangeable for Common Stock or any such securities, or warrants or other rights to purchase Common Stock, whether any such transaction is to be settled by delivery of Common Stock or such other securities, in cash or otherwise, or (c) publicly announce an intention to effect any transaction specified in clause (a) or (b).
+		
+		
+			“Resale Percentage” shall mean (i) 10% of the then outstanding shares of the Common Stock if the VWAP of the Common Stock is less than $9.45 per share, (ii) 15% of the then outstanding shares of the Common Stock if the VWAP is equal to or greater than $9.45 but less than $12.60 per share, and (iii) 40% of the then outstanding shares of the Common Stock if the VWAP is equal to or greater than $12.60 per share, in each case, as appropriately adjusted for stock splits, combinations, reorganizations, reclassifications and the like. 
+		
+		
+			“VWAP” means the daily volume weighted average price of the Common Stock for the 10 trading days prior to any determination as quoted on the Nasdaq Capital Market or any other U.S. exchange on which the Common Stock is listed, whichever is applicable, as posted by Bloomberg L.P.
+		
+		 
+
+		
+
+			-2-
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.5 
+
+		
+
+ 
+		
+			
+				 2.
+			
+		
+			
+			Lock-Up Period.  Each Restricted Stockholder hereby agrees that from February 21, 2012 until August 19, 2012 (the “Lock-Up Period”), it will not, and will cause its Affiliates not to, Transfer any shares of Common Stock.    
+		
+			
+				 3.
+			
+		
+			
+			Continuing Sale Restrictions.  Each Restricted Stockholder hereby further agrees that for the period commencing upon the expiration of the Lock-Up Period and continuing until February 21, 2017, it shall not, and will cause its Affiliates not to, Transfer any Common Stock, if such Transfer, when aggregated with all Transfers executed by each other Restricted Party in the 12-consecutive month period commencing on the date of the expiration of the Lock-Up Period, or the nearest preceding anniversary thereof, would exceed the Resale Percentage in effect at the time of such proposed Transfer.  Notwithstanding the foregoing, nothing contained in this Agreement shall restrict any Restricted Stockholder from Transferring any Common Stock acquired after February 21, 2012 (the “Unrestricted Shares”), other than any shares of Common Stock received on account of a stock split or distribution upon or otherwise in connection with the shares acquired on February 21, 2012, and any Transfers of Unrestricted Shares shall not be counted towards the Resale Percentage under this Agreement.  All covenants (other than the covenant to provide notification to the Warrant Holders set forth in the last sentence of Section 5) regarding shares of Common Stock under this Agreement shall not apply to the Unrestricted Shares.  
+		
+			
+				 4.
+			
+		
+			
+			Void Transfers.  Any purported transfer by a Restricted Stockholder of any shares of Common Stock in violation of the provisions of this Agreement shall be null and void.  
+		
+			
+				 5.
+			
+		
+			
+			Permitted Transfers.  Notwithstanding anything herein to the contrary, the Restricted Stockholders shall, collectively, be entitled to Transfer (i) at any time until December 31, 2012, up to 6,000,000 shares of Common Stock, in the aggregate, to any employee or consultant who provided services to ZaZa Energy, LLC on or prior to February 21, 2012, so long as such employees have agreed to be bound by an 180-day restriction on Transfers substantially on the terms provided in Section 2 hereof, it being understood that executing a joinder agreement to the Existing Stockholders’ Agreement (as defined in the Securities Purchase Agreement) as an “Other Stockholder” will constitute satisfaction of such requirement, and (ii) at any time within 10 business days of February 21, 2012, up to 9,000,000 shares of Common Stock, in the aggregate, to third-party investors.  In addition, after the expiration of the Lock-Up Period, the Restricted Stockholders shall, collectively, be entitled to (i) pledge, in connection with any bona fide lending transaction or series of transactions, any of the shares of Common Stock held by the Restricted Stockholders in order to secure the payment obligations pursuant to such lending transaction, and (ii) make bona fide gifts of up to 2,000,000 shares of Common Stock annually to any charity or other non-profit organization with 501(c)(3) status.  Each Restricted Stockholder hereby agrees not to waive the provisions of Article V of the Existing Stockholders’ Agreement in order to permit any “Other Stockholder” thereunder to Transfer shares of Common Stock during the Lock-Up Period.  None of the limitations contained in this Section 5 shall limit the ability of a pledgee to foreclose upon any shares of Common Stock that have been pledged in compliance herewith.  
+		
+			Notwithstanding the foregoing, and subject to the conditions below, the Restricted Stockholders may Transfer any of the shares of Common Stock (i) to any trust only for the direct 
+		
+		 
+
+		
+
+			-3-
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.5 
+
+		
+
+ 
+		or indirect benefit of such Restricted Stockholder or the immediate family of the Restricted Stockholder (for purposes of this Agreement, “immediate family” means any (1) relative, by consanguinity or marriage, of a Restricted Stockholder living in the Restricted Stockholder’s household and (2) any natural, foster or adopted children); (ii) to any corporation or other organization (including a limited liability company or a partnership), whether incorporated or unincorporated that is wholly-owned and controlled by such Restricted Stockholder and/or other persons satisfying the requirements of a Permitted Transferee hereunder; or (iii) as a distribution to limited partners, stockholders or members of the Restricted Stockholder, so long as such limited partner, stockholder or member is also a Restricted Stockholder (a “Permitted Transferee”); provided in each case that (i) the Warrant Holders receive a signed lock-up agreement in the form of this Agreement from each trustee, distributee, or transferee, as the case may be, and in which such trustee, distributee, or transferee agrees to be subject to all of the provisions set forth in this Agreement, including both the Lock-Up Period contained in Section 2 and the Continuing Sale Restrictions contained in Section 3; (ii) any such Transfer shall not involve a disposition for value; (iii) such transfers are not required to be reported with the Securities and Exchange Commission on Form 4 in accordance with Section 16 of the Exchange Act; and (iv) the Restricted Stockholder does not otherwise voluntarily effect any public filing or report regarding such Transfers.
+		
+		
+			Each Restricted Stockholder shall provide to the Warrant Holders, in accordance with the notice provisions set forth in Section 11 below, within 30 days of any Transfer of Common Stock (including any Transfer of any Unrestricted Shares), a statement confirming that such Transfer was made in compliance with the terms of this Agreement.
+		
+		
+			
+				 6.
+			
+		
+			
+			Company Covenants.  
+		
+			The Company shall not record on its books any Transfers of Common Stock which are subject to this Agreement unless such Transfer is permitted hereunder.  
+		
+		
+			The Company shall cause appropriate legends to be conspicuously placed on the Common Stock certificates, and, in the case of uncertificated shares, shall cause to be properly sent to the Company’s stockholders any notices required by law, in each case as may be necessary to ensure that the Company’s stockholders have due notice of the existence of this Agreement and the restrictions contained herein.  
+		
+		
+			The Company shall, at its own expense, take such action as may be necessary to enforce this Agreement upon the Restricted Stockholders for the benefit of the Warrant Holders.  
+		
+		
+			The Company shall pay to any Warrant Holder, upon written demand, the amount of any and all expenses, including the fees and expenses of its counsel and of any experts or agents, which such Warrant Holder incurs in connection with the exercise or enforcement of any of the rights hereunder, if the Company, after receipt of notice from such Warrant Holder, indicating that such Warrant Holder has a reasonable basis for believing a breach of this Agreement is occurring or has occurred, fails or declines to take prompt action to enforce this Agreement on behalf of the Warrant Holders.
+		
+		 
+
+		
+
+			-4-
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.5 
+
+		
+
+ 
+		
+			
+				 7.
+			
+		
+			
+			Future Warrant Holders as Third-Party Beneficiaries.  The Company and each Restricted Stockholder acknowledge that the foregoing agreement is for the express benefit of and enforceable by, any and all Warrant Holders, including, for the avoidance of doubt, any Person who acquires a Warrant after the date hereof.  As such, any Warrant Holder shall be entitled to take any action or assert any claim with respect to the enforcement of this Agreement and the Company and each Restricted Stockholder irrevocably waives the right to oppose an action brought hereunder on the basis of lack of privity of contract with such Warrant Holder.  
+		
+			
+				 8.
+			
+		
+			
+			Specific Performance. The Company and each Restricted Stockholder acknowledge that it would be impossible to measure in money the damage to the Warrant Holders if a party hereto were to fail to comply with any of the obligations imposed by this Agreement, that every such obligation is material and that, in the event of any such failure, the Warrant Holders will not have an adequate remedy at law or damages. Accordingly, each Restricted Stockholder agrees that injunctive relief or other equitable remedy, in addition to remedies at law or damages, is the appropriate remedy for any such failure and will not oppose the seeking of such relief on the basis that a Warrant Holder has an adequate remedy at law. Each Restricted Stockholder agrees that it will not seek, and agrees to waive any requirement for, the securing or posting of a bond in connection with a Warrant Holder seeking or obtaining such equitable relief. 
+		
+			
+				 9.
+			
+		
+			
+			Representations and Warranties.  
+		
+			The Company hereby represents and warrants that this Agreement has been duly authorized, executed and delivered and constitutes a valid and binding obligation of the Company, enforceable in accordance with its terms.
+		
+		
+			Each Restricted Stockholder hereby represents and warrants as follows that (i) this Agreement has been duly authorized, executed and delivered by such Restricted Stockholder and constitutes the valid and binding obligation of such Restricted Stockholder, enforceable in accordance with its terms, (ii) such Restricted Stockholder owns, beneficially and of record, the number of shares of Common Stock set forth opposite its name on Schedule 2, not including any Unrestricted Shares, and (iii) such Restricted Stockholder has not granted any right and is not a party to any agreement which is inconsistent with or conflicts with the provisions of this Agreement. 
+		
+		
+			
+				 10.
+			
+		
+			
+			Warrant Legend.  The Warrant shall contain an appropriate legend conspicuously placed thereon indicating that the Warrant Holders are entitled to the benefit of this Agreement.  
+		
+			
+				 11.
+			
+		
+			
+			Notices.  All notices and other communications which are required and may be given pursuant to the terms of this Agreement shall be in writing and shall be sufficient and effective in all respects if given in writing and emailed, telecopied, delivered or mailed by certified mail, postage prepaid, as follows:
+		
+
+		
+		 
+
+		
+
+			-5-
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.5 
+
+		
+
+ 
+		if to a Warrant Holder, at the address set forth below such Warrant Holder’s name on Schedule 1; and
+		
+		
+			if to a Restricted Stockholder, at the address set forth below such Restricted Stockholder’s name on Schedule 2; and 
+		
+		
+			if to the Company, at:
+		
+		
+			            1301 McKinney Street, Suite 2850
+		
+		
+			            Houston, TX  77010
+		
+		
+			            Tel:  713-595-1900
+		
+		
+			            Fax: 713-595-1919
+		
+		
+			            Email: scott.gaille@zazaenergy.com
+		
+		
+			or such other address or addresses as any party hereto shall have designated by written notice to the other parties hereto.  Notices shall be deemed given and effective upon the earlier to occur of (x) the third day following deposit thereof in the U.S. mail or (y) receipt by the party to whom such notice is directed.
+		
+		
+			
+				 12.
+			
+		
+			
+			Governing Law.  THIS AGREEMENT SHALL BE CONSTRUED AND ENFORCED IN ACCORDANCE WITH, AND THE RIGHTS OF THE PARTIES SHALL BE GOVERNED BY, THE INTERNAL LAW OF THE STATE OF NEW YORK, EXCLUDING CHOICE-OF-LAW PRINCIPLES OF THE LAW OF SUCH STATE THAT WOULD PERMIT THE APPLICATION OF THE LAWS OF A JURISDICTION OTHER THAN SUCH STATE.
+		
+			
+				 13.
+			
+		
+			
+			Waiver of Jury Trial.  EACH OF THE RESTRICTED STOCKHOLDERS IRREVOCABLY WAIVE ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM (WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT, OR ANY OTHER AGREEMENT, DOCUMENT OR INSTRUMENT DELIVERED IN CONNECTION HEREWITH OR THEREWITH.
+		
+			
+				 14.
+			
+		
+			
+			Personal Jurisdiction.  Each of the parties irrevocably submits to the non-exclusive jurisdiction of any New York State or federal court sitting in the Borough of Manhattan, The City of New York, over any suit, action or proceeding arising out of or relating to this Agreement or any of the agreements, documents or instruments delivered in connection herewith or therewith.  To the fullest extent permitted by applicable law, each of the parties irrevocably waives and agrees not to assert, by way of motion, as a defense or otherwise, any claim that it is not subject to the jurisdiction of any such court, any objection that it may now or hereafter have to the laying of the venue of any such suit, action or proceeding brought in any such court and any claim that any such suit, action or proceeding brought in any such court has been brought in an inconvenient forum.  
+		
+			
+				 15.
+			
+		
+			
+			Miscellaneous.  This Agreement may be executed in several counterparts and by each party on a separate counterpart, each of which when so executed and delivered shall be an original, and all of which together shall constitute one instrument.  A signature page forwarded as a facsimile or electronic image for attachment to an assembled document shall be deemed 
+		
+		 
+
+		
+
+			-6-
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.5 
+
+		
+
+ 
+		delivery of an original signature page.  In proving this Agreement, it shall not be necessary to produce or account for more than one such counterpart signed by the party against which enforcement is sought.  Any waiver of any provision of this Agreement shall be effective only if in writing and signed by Warrant Holders who collectively hold Warrants that represent more than 50% of the Warrant Shares issuable upon conversion of the then outstanding Warrants.  This Agreement shall be binding upon and shall inure to the benefit of each party and their respective heirs, executors, legal representatives, successors and permitted transferees.  
+		
+			 
+		
+		
+			[Remainder of Page Intentionally Left Blank]
+		
+		
+
+		
+		 
+
+		
+
+			-7-
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.5 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		MSDC ZEC INVESTMENTS, LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By: ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.5 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		 
+		
+		
+			SENATOR SIDECAR MASTER FUND LP
+		
+		
+			By:            Senator Investment Group LP, its investment manager
+		
+		
+			 
+		
+		
+			 
+		
+		
+			            By:  ___________________________
+		
+		
+			            Name:
+		
+		
+			            Title:
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.5 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		BLACKSTONE OIL & GAS, LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:  ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			___________________________
+		
+		
+			Todd Alan Brooks
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.5 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		OMEGA ENERGY, LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:  ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			___________________________
+		
+		
+			Gaston L. Kearby
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		 
+		
+		
+			LARA ENERGY, INC.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:  ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			___________________________
+		
+		
+			John E. Hearn Jr.
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		HEARN FAMILY HOLDINGS, LTD.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:  ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		O-CAP OFFSHORE MASTER FUND, L.P.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:   ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		 
+		
+		
+			O-CAP PARTNERS, L.P.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:   ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		 
+		
+		
+			CAPITAL VENTURES INTERNATIONAL
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:   ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		TALARA MASTER FUND, LTD.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:   ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		 
+		
+		
+			 
+		
+		
+			BLACKWELL PARTNERS, LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:   ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		 
+		
+		
+			 
+		
+		
+			PERMAL TALARA LTD.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:   ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		 
+		
+		
+			 
+		
+		
+			WINMILL INVESTMENTS LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:   ___________________________
+		
+		
+			Name:
+		
+		
+			Title:
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		Schedule 1
+		
+		
+			Warrant Holders:
+		
+		
+			
+				
+					
+						Name and Notice Details
+				
+			
+			
+				
+					
+						MSDC ZEC Investments, LLC
+					
+						c/o MSDC Management, L.P.
+					
+						645 Fifth Avenue, 21st Floor
+					
+						New York, NY  10022
+					
+						Attn:  Marcello Liguori
+					
+						Tel: 212-303-1650
+					
+						Fax: 212-303-1772
+					
+						Email: legal@msdcapital.com
+				
+			
+			
+				
+					
+						Senator Sidecar Master Fund LP
+					
+						c/o Senator Investment Group LP
+					
+						510 Madison Avenue, 28th Floor
+					
+						New York, NY  10022
+					
+						Attn: Evan Gartenlaub, Esq.
+					
+						Tel: 212-376-4319
+					
+						Fax: 855-212-4466
+					
+						Email: egartenlaub@senatorlpl.com
+				
+			
+			
+				
+					
+						O-CAP Offshore Master Fund, L.P.
+					
+						600 Madison Avenue, 14th Floor
+					
+						New York, NY  10022
+					
+						Attn: Lloyd Jagai
+					
+						Tel: 212-554-4622
+					
+						Fax: 646-225-5208
+					
+						Email: Lloyd@o-corp.com
+				
+			
+			
+				
+					
+						O-CAP Partners, L.P.
+					
+						600 Madison Avenue, 14th Floor
+					
+						New York, NY  10022
+					
+						Attn: Lloyd Jagai
+					
+						Tel: 212-554-4622
+					
+						Fax: 646-225-5208
+					
+						Email: Lloyd@o-corp.com
+				
+			
+			
+				
+					
+						Capital Ventures International
+					
+						c/o Heights Capital Management
+					
+						101 California Street, Suite 350
+					
+						San Francisco, CA  94111
+					
+						Attn: Martin Kobinger
+					
+						Tel: 415-403-6500
+					
+						Fax: 415-403-6501
+					
+						Email: martin.kobinger@sig.com
+				
+			
+		
+		 
+
+		
+
+			1
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		
+			 
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		
+			
+				
+					
+						Talara Master Fund, Ltd.
+					
+						805 Third Avenue, 20th Floor
+					
+						New York, NY  10022
+					
+						Attn: Binish Bulsara
+					
+						Tel: 646-396-6041
+					
+						Fax: 646-396-6060
+					
+						Email: bbulsara@talaracapital.com
+				
+			
+			
+				
+					
+						Blackwell Partners, LLC
+					
+						280 S. Mangum Street, Suite 210
+					
+						Duke Box #104330Durham, NC  27701-3675
+					
+						Attn: Bart Brunk / Justin Nixon
+					
+						Tel: 919-668-9962
+					
+						Fax: 919-668-9954
+					
+						Email: bbulsara@talaracapital.com
+				
+			
+			
+				
+					
+						Permal Talara Ltd.
+					
+						900 Third AvenueNew York, NY  10022
+					
+						Attn: Jessica Gerstein
+					
+						Tel: 212-418-6647
+					
+						Fax: 212-407-2837
+					
+						Email: bbulsara@talaracapital.com
+				
+			
+			
+				
+					
+						Winmill Investments LLC
+					
+						9 West 57th Street, 30th FloorNew York, NY  10019
+					
+						Attn: Lawrence Palmero
+					
+						Tel: 212-821-1600
+					
+						Fax: 212-821-1625
+					
+						Email: lpalermo@40north.com
+				
+			
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			3
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		Schedule 2
+		
+		
+			Restricted Stockholders
+		
+		
+			
+				
+					
+						Name and Notice Details
+				
+				
+					
+						Number of Shares of Common Stock
+				
+			
+			
+				
+					
+						Name and Notice Details
+				
+				
+					
+						Number of Shares of Common Stock
+				
+			
+			
+				
+					
+						Blackstone Oil & Gas, LLC
+					
+						c/o ZaZa Energy Corporation
+					
+						1301 McKinney Street, Suite 2850
+					
+						Houston, TX  77010
+					
+						Tel:  713-595-1900
+					
+						Fax: 713-595-1919
+					
+						 
+				
+				
+					
+						20,820,200
+				
+			
+			
+				
+					
+						Omega Energy, LLC
+					
+						c/o ZaZa Energy Corporation
+					
+						1301 McKinney Street, Suite 2850
+					
+						Houston, TX  77010
+					
+						Tel:  713-595-1900
+					
+						Fax: 713-595-1919
+				
+				
+					
+						20,820,200
+				
+			
+			
+				
+					
+						Hearn Family Holdings, Ltd.
+					
+						c/o ZaZa Energy Corporation
+					
+						1301 McKinney Street, Suite 2850
+					
+						Houston, TX  77010
+					
+						Tel:  713-595-1900
+					
+						Fax: 713-595-1919
+				
+				
+					
+						20,670,201
+				
+			
+			
+				
+					
+						Todd Alan Brooks
+					
+						c/o ZaZa Energy Corporation
+					
+						1301 McKinney Street, Suite 2850
+					
+						Houston, TX  77010
+					
+						Tel:  713-595-1900
+					
+						Fax: 713-595-1919
+				
+				
+					
+						20,820,200
+				
+			
+			
+				
+					
+						Gaston L. Kearby
+					
+						c/o ZaZa Energy Corporation
+					
+						1301 McKinney Street, Suite 2850
+					
+						Houston, TX  77010
+					
+						Tel:  713-595-1900
+					
+						Fax: 713-595-1919
+				
+				
+					
+						20,820,200
+				
+			
+			
+				
+					
+						John E. Hearn Jr.
+					
+						c/o ZaZa Energy Corporation
+					
+						1301 McKinney Street, Suite 2850
+					
+						Houston, TX  77010
+					
+						Tel:  713-595-1900
+					
+						Fax: 713-595-1919
+				
+				
+					
+						20,670,201
+				
+			
+		
+		 
+
+		
+
+			1
+
+		
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		
+			*Beneficially, but not of record.
+		
+		 
+
+		
+
+			 
+
+		
+
+		
+
+			A/75465631.3 
+
+		
+
+
+	
+
+

@@ -1,0 +1,149 @@
+
+EX-10.33
+3
+d464712dex1033.htm
+ANNUAL PERFORMANCE INCENTIVE PLAN FOR NAMED EXECUTIVE OFFICERS
+
+
+Annual Performance Incentive Plan for Named Executive Officers
+
+ 
+
+ Exhibit 10.33  Annual Performance Incentive Plan   
+
+
+
+Participation in this plan is determined by the Compensation Committee.   
+
+
+
+Target payout is 50% of participants annual salary on the last day of the performance period. 
+ 
+
+
+
+PXP performance will be measured against the performance of the following index to determine the payout. 
+ 
+
+
+ 
+
+S&P Oil & Gas E&P (SPSIOP)   
+
+
+
+The performance period will be the prior calendar year.   
+
+
+
+Performance will be measured from the closing price on the last trading day of the year proceeding the performance period, through the last trading day of the
+performance period.   
+
+
+
+PXPs stock performance will be stated in percentage of change in price over the performance period. 
+ 
+
+
+ 
+
+For example: Stock closes at 40.00 on 12/30/11 and has a closing price of 44.00 on 12/30/12. The percentage change is 10%. 
+ 
+
+
+
+Index performance will be stated in percent change in price over the performance period. 
+ 
+
+
+ 
+
+For example: S&P Oil & Gas E&P index closes at 7,000.00 on 12/30/11 and has a closing price of 8,400.00 on 12/30/12. The percentage change is 20%.
+  
+
+
+
+To calculate the impact of PXP stock versus the index the following steps will be taken. 
+ 
+
+
+ 
+
+Calculate the % in change for PXP stock over the performance period.   
+
+
+ 
+
+Calculate the % in change for the index over the performance period.   
+
+
+ 
+
+Subtract the index performance from PXP performance to determine Performance Delta. 
+ 
+
+
+ 
+
+Multiply the performance delta by four to obtain the percentage which is added to or subtracted from the target to obtain the payout percentage.
+  
+
+
+
+
+
+
+
+
+ Performance Delta
+  
+ Payout Percentage
+
+
+
+25
+  
+200%
+
+20
+  
+180%
+
+15
+  
+160%
+
+10
+  
+140%
+
+5
+  
+120%
+
+0
+  
+100%
+
+-5
+  
+-80%
+
+-10
+  
+-60%
+
+-15
+  
+-40%
+
+-20
+  
+-20%
+
+-25
+  
+-0%
+
+
+

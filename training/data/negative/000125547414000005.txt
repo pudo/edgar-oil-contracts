@@ -1,0 +1,321 @@
+
+EX-10.14
+4
+exhibit10-14.htm
+FORM OF RESTRICTED STOCK AGREEMENT PURSUANT TO THE WHITING PETROLEUM CORPORATION 2013 EQUITY INCENTIVE PLAN FOR PERFORMANCE VESTING AWARDS
+
+
+
+    exhibit10-14.htm
+    
+    
+    
+
+
+
+
+
+
+
+
+Exhibit 10.14
+
+
+
+
+WHITING PETROLEUM CORPORATION
+
+ 
+
+RESTRICTED STOCK AGREEMENT
+
+ 
+
+THIS RESTRICTED STOCK AGREEMENT (this “Agreement”) is made and entered into as of [·], 20[·] by and between Whiting Petroleum Corporation, a Delaware corporation with its principal offices at Denver, Colorado (the “Company”), and the executive officer of the Company or one of its affiliates whose signature is set forth on the signature page hereof (the “Participant”).
+
+ 
+
+W I T N E S S E T H :
+
+
+
+
+WHEREAS, the Company has adopted the Whiting Petroleum Corporation 2013 Equity Incentive Plan (the “Plan”) to permit shares of the Company’s common stock (the “Stock”), to be awarded to certain key salaried employees and non-employee directors of the Company and any affiliate of the Company; and
+
+ 
+
+WHEREAS, the Participant is an executive officer of the Company, and the Company desires such person to remain in such capacity and to further an opportunity for his or her stock ownership in the Company in order to increase his or her proprietary interest in the success of the Company;
+
+ 
+
+NOW, THEREFORE, in consideration of the premises and of the covenants and agreements herein set forth, the parties hereby mutually covenant and agree as follows:
+
+ 
+
+1. Award of Restricted Stock.  Subject to the terms and conditions set forth herein, the Company hereby awards the Participant the number of shares of Stock set forth on the signature page hereof (the “Restricted Stock”).
+
+ 
+
+2. Restrictions.  (a)  Except as otherwise provided herein, Restricted Stock may not be sold, transferred, pledged, assigned, encumbered or otherwise alienated or hypothecated until the date of release (the “Release Date”) determined as follows:
+
+ 
+
+(i) the Release Date with respect to one-third of the shares of Restricted Stock shall be the first anniversary of the Grant Date specified on the signature page hereof (the “Grant Date”) if the Compensation Committee of the Board of Directors of the Company (the “Committee”) determines the Performance Contingency (as defined below) has been satisfied with respect to the Company’s fiscal year immediately preceding the first anniversary of the Grant Date;
+
+ 
+
+(ii) the Release Date with respect to two-thirds of the shares of Restricted Stock (less any shares of Restricted Stock for which there already has been a Release Date) shall be the second anniversary of the Grant Date if the Committee determines the Performance Contingency has been satisfied with respect to the Company’s two fiscal years immediately preceding the second anniversary of the Grant Date; and
+
+ 
+
+(iii) the Release Date with respect to all of the shares of Restricted Stock (less any shares of Restricted Stock for which there already has been a Release Date) shall be the third anniversary of the Grant Date if the Committee determines the Performance Contingency has been satisfied with respect to the Company’s three fiscal years immediately preceding the third anniversary of the Grant Date.
+
+ 
+
+If the Committee determines that the Performance Contingency has not been satisfied with respect to the criteria set forth in Section 2(a)(iii), then all Restricted Stock that previously has not been released shall be forfeited to the Company on the date the Committee makes such determination.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+(b) Within six weeks after the end of each of the Company’s fiscal years preceding the first three anniversaries of the Grant Date, the Committee will determine whether the Performance Contingency has been satisfied with respect to such fiscal year based on the criteria set forth in this Section 2.  The “Performance Contingency” will be satisfied with respect to such a fiscal year (i) if the Company Stock Price Percentage (as defined below) at the end of such fiscal year is a positive number and either (A) the Peer Group Stock Price Percentage (as defined below) at the end of such fiscal year is a positive number and such Company Stock Price Percentage is greater than such Peer Group Stock Price Change or (B) the Peer Group Stock Price Percentage is a negative number or (ii) if the Company Stock Price Percentage at the end of such fiscal year is a negative number and the Peer Group Stock Price Percentage at the end of such fiscal year is a negative number and the absolute value of such Company Stock Price Percentage is less than the absolute value of such Peer Group Stock Price Percentage.
+
+ 
+
+(c) “Company Stock Price Percentage” means the percentage (whether positive or negative) equal to the quotient of (i) the amount determined by subtracting (A) $[·] (i.e., the closing price of the Stock on December 31, 20[·]), which shall be adjusted equitably for any stock split, stock dividend, special cash dividend or similar event affecting the Stock (the “Company Base Price”), from (B) the closing price of the Stock on each of the fiscal year ends (or the last trading day of each such year) preceding the first three anniversaries, as applicable, of the Grant Date divided by (ii) the Company Base Price.
+
+ 
+
+(d) “Peer Group” means [·].  If any of the foregoing companies is no longer a publicly traded company at any time during a fiscal year, then such company shall be removed from the Peer Group and the remaining companies shall make up the Peer Group for purposes of determining the Peer Group Stock Price Percentage and whether the Performance Contingency has been satisfied for such fiscal year and any applicable future fiscal years.
+
+ 
+
+(e) “Peer Group Stock Price Percentage” means the percentage (whether negative or positive) equal to the average of the percentages determined for each company in Peer Group by calculating the quotient of (i) the amount determined by subtracting (A) the closing price of the common stock of such Peer Group company on December 31, 20[·], which shall be adjusted equitably for any stock split, stock dividend, special cash dividend or similar event affecting the common stock of such Peer Group company (the “Peer Group Company Base Price”), from (B) closing price of the common stock of such Peer Group company on each of the fiscal year ends (or the last trading day of each such year) preceding the first three anniversaries, as applicable, of the Grant Date divided by (ii) the Peer Group Company Base Price.
+
+ 
+
+3. Initial Issuance.  The Restricted Stock shall be issued as soon as practicable in the name of the Participant but shall be held in a segregated account by the transfer agent of the Company.  Unless forfeited as provided herein, Restricted Stock eligible for release pursuant to the terms hereof shall cease to be held in such segregated account and certificates for such Restricted Stock shall be delivered or such Restricted Stock shall be transferred electronically to the Participant on the applicable Release Date.
+
+ 
+
+4. Transfer After Release Date; Securities Law Restrictions.  On the applicable Release Date as determined in accordance with Section 2, that portion of Restricted Stock shall become free of the restrictions of Section 2 and be freely transferable by the Participant.  Notwithstanding the foregoing or anything to the contrary herein, the Participant agrees and acknowledges with respect to any Restricted Stock that has not been registered under the Securities Act of 1933, as amended (the “Act”) (i) he or she will not sell or otherwise dispose of such Stock except pursuant to an effective registration statement under the Act and any applicable state securities laws, or in a transaction which, in the opinion of counsel for the Company, is exempt from such registration, and (ii) a legend will be placed on the certificates for the Restricted Stock to such effect.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+5. Termination of Employment or Death.  If the Participant’s employment with the Company (as applicable) is terminated for any reason (including death) prior to the Release Date, all Restricted Stock that has not been released shall be forfeited to the Company on the date on which such termination of status occurs.
+
+ 
+
+6. Certificate Legend.  In addition to any legends placed on certificates for Restricted Stock under Section 4 hereof, each certificate for shares of Restricted Stock may bear the following legend:
+
+ 
+
+“THE SALE OR OTHER TRANSFER OF THE SHARES OF STOCK REPRESENTED BY THIS CERTIFICATE, WHETHER VOLUNTARY, INVOLUNTARY OR BY OPERATION OF LAW, IS SUBJECT TO CERTAIN RESTRICTIONS SET FORTH IN THE WHITING PETROLEUM CORPORATION 2013 EQUITY INCENTIVE PLAN AND A RESTRICTED STOCK AGREEMENT BETWEEN WHITING PETROLEUM CORPORATION AND THE REGISTERED OWNER HEREOF.  A COPY OF SUCH PLAN AND SUCH AGREEMENT MAY BE OBTAINED FROM THE CORPORATE SECRETARY OF WHITING PETROLEUM CORPORATION.”
+
+ 
+
+When the restrictions imposed by Section 2 hereof terminate, the Participant shall be entitled to have the foregoing legend removed from the certificates representing such Restricted Stock.
+
+ 
+
+7. Voting Rights; Dividends and Other Distributions. (a)  While the Restricted Stock is subject to restrictions under Section 2 and prior to any forfeiture thereof, the Participant may exercise full voting rights for the Restricted Stock registered in his or her name and held in a segregated account hereunder.
+
+ 
+
+(b) While the Restricted Stock is subject to the restrictions under Section 2 and prior to any forfeiture thereof, the Participant shall be entitled to receive all dividends and other distributions paid with respect to the Restricted Stock.  If any such dividends or distributions are paid in Stock, such shares shall be subject to the same terms, conditions and restrictions as the shares of Restricted Stock with respect to which they were paid, including the requirement that Restricted Stock be held in a segregated account pursuant to Section 3 hereof.
+
+ 
+
+(c) Subject to the provisions of this Agreement, the Participant shall have, with respect to the Restricted Stock, all other rights of holders of Stock.
+
+ 
+
+8. Tax Withholding.  (a)  It shall be a condition of the obligation of the Company to issue or release from the segregated account Restricted Stock to the Participant, and the Participant agrees, that the Participant shall pay to the Company upon demand such amount as may be requested by the Company for the purpose of satisfying its liability to withhold federal, state, or local income or other taxes incurred by reason of the award of the Restricted Stock or as a result of the termination of the restrictions on such Stock hereunder.
+
+ 
+
+(b) If the Participant does not make an election under Section 83(b) of the Internal Revenue Code of 1986, as amended, with respect to the Restricted Stock awarded hereunder, the Participant may satisfy the Company’s withholding tax requirements by electing to have the Company withhold that number of shares of Restricted Stock otherwise deliverable to the Participant from the segregated account hereunder or to deliver to the Company a number of shares of Stock, in each case, having a Fair Market Value (as defined in the Plan) on the Tax Date (as defined below) equal to the minimum amount required to be withheld as a result of the termination of the restrictions on such Restricted Stock.  The election must be made in writing and must be delivered to the Company prior to the Tax Date.  If the number of shares so determined shall include a fractional share, the Participant shall deliver cash in lieu of such fractional share.  All elections shall be made in a form approved by the Committee and shall be subject to disapproval, in whole or in part, by the Committee.  As used herein, “Tax Date” means the date on which the Participant must include in his or her gross income for federal income tax purposes the fair market value of the Restricted Stock over the purchase price therefor, if any.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+9. Powers of Company Not Affected.  The existence of the Restricted Stock shall not affect in any way the right or power of the Company or its stockholders to make or authorize any combination, subdivision or reclassification of the Stock or any reorganization, merger, consolidation, business combination, exchange of shares, or other change in the Company’s capital structure or its business, or any issue of bonds, debentures or stock having rights or preferences equal, superior or affecting the Restricted Stock or the rights thereof, or dissolution or liquidation of the Company, or any sale or transfer of all or any part of its assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise.  Nothing in this Agreement shall confer upon the Participant any right to continue in the employment of the Company, or interfere with or limit in any way the right of the Company to terminate the Participant’s employment at any time.
+
+ 
+
+10. Interpretation by Committee.  The Participant agrees that any dispute or disagreement which may arise in connection with this Agreement shall be resolved by the Committee, in its sole discretion, and that any interpretation by the Committee of the terms of this Agreement or the Plan and any determination made by the Committee under this Agreement or the Plan may be made in the sole discretion of the Committee and shall be final, binding, and conclusive. Any such determination need not be uniform and may be made differently among Participants awarded Restricted Stock.
+
+ 
+
+11. Miscellaneous.  (a)  This Agreement shall be governed and construed in accordance with the internal laws of the State of Delaware applicable to contracts made and to be performed therein between residents thereof.
+
+ 
+
+(b) This Agreement may not be amended or modified except by the written consent of the parties hereto.
+
+ 
+
+(c) The captions of this Agreement are inserted for convenience of reference only and shall not be taken into account in construing this Agreement.
+
+ 
+
+(d) Any notice, filing or delivery hereunder or with respect to Restricted Stock shall be given to the Participant at either his or her usual work location or his or her home address as indicated in the records of the Company, and shall be given to the Committee or the Company at 1700 Broadway, Suite 2300, Denver, Colorado 80290-2300, Attention:  Corporate Secretary.  All such notices shall be given by first class mail, postage prepaid, or by personal delivery.
+
+ 
+
+(e) This Agreement shall be binding upon and inure to the benefit of the Company and its successors and assigns and shall be binding upon and inure to the benefit of the Participant, except that the Participant may not transfer any interest in any Restricted Stock prior to the release of the restrictions imposed by Section 2.
+
+ 
+
+(f) This Agreement is subject in all respects to the terms and conditions of the Plan.
+
+ 
+
+12. Change of Control.  Notwithstanding any other provision to the contrary contained in this Agreement, effective upon a Change in Control(as defined in the Plan), the restrictions imposed upon the Restricted Stock (except for any such shares which were previously forfeited to the Company) by Section 2 of this Agreement shall immediately be deemed to have lapsed and the Release Date shall be deemed to have occurred as of the date of the Change in Control with respect to such Restricted Stock.
+
+ 
+
+[Signature page follows]
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+IN WITNESS WHEREOF, the Company has caused this instrument to be executed by its duly authorized officer and the Participant has hereunto affixed his or her signature, all as of the day and year first set forth above.
+
+ 
+
+
+
+
+
+WHITING PETROLEUM CORPORATION
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+
+By:
+
+  
+  
+  
+
+  
+
+James J. Volker
+
+  
+
+«Name»
+
+
+  
+
+Chief Executive Officer
+
+  
+
+No. of Shares of Restricted Stock: «Shares»
+
+
+  
+  
+  
+
+Grant Date:
+
+
+
+
+
+
+
+
+
+
+
+

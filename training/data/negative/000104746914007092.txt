@@ -1,0 +1,900 @@
+
+EX-10.1
+2
+a2221033zex-10_1.htm
+EX-10.1
+
+
+
+
+
+
+
+Exhibit 10.1
+ 
+FIFTH AMENDMENT AND WAIVER TO CREDIT AGREEMENT
+ 
+THIS FIFTH AMENDMENT AND WAIVER TO CREDIT AGREEMENT (this Amendment), dated as of August 15, 2014 (the Effective Date), is entered into by and among VENOCO, INC. (the Company) and the undersigned Lenders party to the Credit Agreement defined below, and acknowledged by CITIBANK, N.A., as administrative agent for the Lenders (in such capacity, the Administrative Agent).
+ 
+W I T N E S S E T H:
+ 
+WHEREAS, the Company, the Lenders, the Administrative Agent, CITIGROUP GLOBAL MARKETS, INC., as Arranger, THE BANK OF NOVA SCOTIA, as Syndication Agent, KEYBANK NATIONAL ASSOCIATION, as Documentation Agent and the other persons from time to time party thereto have entered into that certain Fifth Amended and Restated Credit Agreement dated as of October 3, 2012 (as amended, supplemented, restated or otherwise modified from time to time, the Credit Agreement);
+ 
+WHEREAS, the present Borrowing Base is $280,000,000;
+ 
+WHEREAS, the Company has proposed a Disposition of the Oil and Gas Properties set forth on Annex I attached hereto for a fair cash consideration that will exceed 10% of the present Borrowing Base (the Proposed Disposition);
+ 
+WHEREAS, a portion of the Oil and Gas Properties included in the Proposed Disposition have been included in the Borrowing Base;
+ 
+WHEREAS, the Company has requested (i) a waiver of Section 8.2(f) of the Credit Agreement and consent of the undersigned Lenders in order to permit the Proposed Disposition, (ii) the release of the collateral related to the Proposed Disposition and (iii) a reduction of the present Borrowing Base to $180,000,000, as hereinafter provided.
+ 
+NOW THEREFORE, in consideration of the foregoing premises and the mutual agreements set forth herein, the parties hereto agree as follows:
+ 
+SECTION 1.                                                 Definitions.  Unless otherwise defined in this Amendment, each capitalized term used in this Amendment has the meaning assigned to such term in the Credit Agreement.
+ 
+SECTION 2.                                                 Waivers.  To the extent but only to the extent the Proposed Disposition would cause a breach of the following identified provisions of the Credit Agreement, the undersigned Lenders hereby waive as of the Effective Date the prohibition set forth in Section 8.2(f) of the Credit Agreement of a Disposition of Oil and Gas Properties for an aggregate sales price that exceeds 10% of the currently effective Borrowing Base.
+ 
+The express waiver set forth in this Section 2 is limited to the extent described herein and shall not be construed to be a waiver of any of the other terms, provisions, covenants, warranties, Events of Default or agreements contained in the Credit Agreement or in any of the other Loan Documents.  The express waivers set forth in this Section 2 pertain exclusively to the Proposed Disposition and shall not waive any part of Section 8.2 of the Credit Agreement in the event of any other Disposition of assets by the Company.
+ 
+1
+
+
+
+
+
+
+ 
+The Required Lenders also hereby agree to the release of all Liens encumbering the assets subject to the Proposed Disposition on the closing date for the Proposed Disposition and hereby direct the Administrative Agent to execute and deliver to Borrower all documents necessary to release such Liens on the closing date of the Proposed Disposition.
+ 
+SECTION 3.                                                 Conditions and Event of Default.  This Amendment and the waiver granted herein are conditioned upon (i) the Company receiving fair cash consideration for the Proposed Disposition, and (ii) the Companys making a prepayment of the Loans in the amount of the greater of (a) $185,000,000, or (b) the Net Cash Proceeds received from the Proposed Disposition, such prepayment to be made immediately after the receipt of the cash proceeds of the Proposed Disposition. Failure to meet any of the conditions set forth in this Section 3 shall give rise to an Event of Default of the type described in Section 9.1(e) of the Credit Agreement as if such conditions were a covenant, with the cure periods and remedies related thereto.
+ 
+SECTION 4.                                                 Amendments to the Credit Agreement.  The Credit Agreement is hereby amended as follows:
+ 
+(a)                                 Section 2.6(f) of the Credit Agreement is hereby amended by inserting the following new subclause (v) immediately following the last subclause of such Section 2.6(f):
+ 
+(v)  The Company shall prepay the Loans immediately upon receipt of any cash proceeds from the Proposed Disposition (as defined in that certain Fifth Amendment and Waiver to Credit Agreement, dated as of August 15, 2014, by and among the Company and the Lenders party thereto and acknowledged by the Administrative Agent).
+ 
+(b)                                 Section 2.6(c) of the Credit Agreement is hereby amended by inserting the following new language immediately following the last sentence of such Section 2.6(c):
+ 
+Notwithstanding anything to the contrary in this Agreement, in substitution of the Reserve Report due on or before October 1, 2014, the Company shall deliver the certified Reserve Report described in Section 7.2(c)(ii) on or before September 1, 2014, effective as of July 1, 2014; and upon receipt by the Administrative Agent of such Reserve Report, the Administrative Agent shall make a determination and notify the Lenders of the Semi-Annual Proposed Borrowing Base by October 1, 2014, or if later, within 25 days of the receipt of such Reserve Report; and thereafter the Lenders shall approve or submit their recommendations regarding the Semi-Annual Proposed Borrowing Base in accordance with the terms and conditions of this Section 2.6(c).
+ 
+SECTION 5.                                                 Representations and Warranties, Etc.  To induce the Administrative Agent and the Lenders to enter into this Amendment, the Company and each of the Loan Parties represents and warrants to the Administrative Agent, the Lenders and the other Persons party to the Credit Agreement that as of the Effective Date:
+ 
+(a)                                 each of the representations and warranties by the Loan Parties contained in the Credit Agreement and in the other Loan Documents are true and correct on and as of the Effective Date in all material respects as though made as of the Effective Date, except those that by their terms relate solely as to an earlier date, in which event they shall be true and correct in all material respects on and as of such earlier date;
+ 
+2
+
+
+
+
+
+
+ 
+(b)                                 the execution, delivery and performance of this Amendment has been duly authorized by all requisite organizational action on the part of the Company and each other Loan Party;
+ 
+(c)                                  the Credit Agreement as modified hereby and each other Loan Document constitute valid and legally binding agreements enforceable against each Loan Party that is a party thereto in accordance with their respective terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent transfer or other similar laws relating to or affecting creditors rights generally and by general principles of equity, regardless of whether considered in a proceeding in equity or at law; and
+ 
+(d)                                 no Default or Event of Default exists under the Credit Agreement or any of the other Loan Documents.
+ 
+SECTION 6.                                                 Ratification.  The Company and each other Loan Party hereby ratifies and confirms, as of the Effective Date, (a) the covenants and agreements contained in each Loan Document to which it is a party, including, in each case, as such covenants and agreements may be modified by this Amendment and the transactions contemplated thereby and (b) all of the Obligations under the Credit Agreement and the other Loan Documents.
+ 
+SECTION 7.                                                 Borrowing Base.  The Borrowing Base under the Credit Agreement shall be reduced to $180,000,000 after giving effect to the Proposed Distribution until such time as the Borrowing Base is redetermined in accordance with the Credit Agreement.
+ 
+SECTION 8.                                                 Effectiveness.  This Amendment shall become effective as of the Effective Date when all of the conditions set forth in this Section have been satisfied.
+ 
+(a)                                 The Administrative Agent shall have received executed counterparts of this Amendment from the Company, the Guarantors, and the Required Lenders.
+ 
+(b)                                 The Administrative Agent shall have received all reasonable out-of-pocket fees, costs and expenses incurred in connection with the negotiation, preparation, execution and delivery of this Amendment and related documents (including the fees, charges and disbursements of counsel to the Administrative Agent) for which an invoice has been delivered to the Borrower at least one Business Day prior to the date on which the Required Lenders have executed and delivered this Amendment.
+ 
+SECTION 9.                                                 Governing Law; Severability; Integration.  THIS WAIVER SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.  If any provision of this Amendment or any other Loan Document is held to be illegal, invalid or unenforceable, (a) the legality, validity and enforceability of the remaining provisions of this Amendment and the other Loan Documents shall not be affected or impaired thereby and (b) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions.  The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.  This Amendment and the other Loan Documents constitute the entire contract among the parties relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof.
+ 
+3
+
+
+
+
+
+
+ 
+SECTION 10.                                          Execution in Counterparts.  This Amendment may be executed by the parties hereto in several counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original and all of which when taken together shall constitute a single document.
+ 
+SECTION 11.                                          Successors and Assigns.  This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective permitted successors and assigns; provided, however, that (a) the Company may not assign or transfer its rights or obligations hereunder without the prior written consent of the Administrative Agent and each Lender; and (b) the rights of sale, assignment and transfer of the Lenders are subject to Section 11.8 of the Credit Agreement.
+ 
+SECTION 12.                                          Miscellaneous.  (a) On and after the effectiveness of this Amendment, each reference in each Loan Document to the Credit Agreement, thereunder, thereof or words of like import referring to the Credit Agreement shall mean and be a reference to the Credit Agreement as amended, waived or otherwise modified by this Amendment; (b) this Amendment is a Loan Document executed pursuant to the Credit Agreement and shall (unless otherwise expressly indicated therein) be construed, administered and applied in accordance with the terms and provisions of the Credit Agreement; and (c) a facsimile signature of any party hereto shall be deemed to be an original signature for purposes of this Amendment.
+ 
+SECTION 13.                                          ENTIRE AGREEMENT.  THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+ 
+(Remainder of Page Left Intentionally Blank)
+ 
+4
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of the date first above written.
+ 
+ 
+
+
+
+     
+
+COMPANY:       
+
+
+     
+
+        
+
+
+     
+
+VENOCO, INC.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Timothy A. Ficker       
+
+
+     
+
+     
+
+Timothy   A. Ficker, Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+GUARANTORS:       
+
+
+     
+
+        
+
+
+     
+
+WHITTIER PIPELINE CORPORATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Timothy A. Ficker       
+
+
+     
+
+     
+
+Timothy   A. Ficker, Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+TEXCAL ENERGY (LP) LLC       
+
+
+     
+
+By:       
+
+VENOCO, INC.,   its Manager       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Timothy A. Ficker       
+
+
+     
+
+     
+
+Timothy   A. Ficker, Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+TEXCAL ENERGY (GP) LLC       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Timothy A. Ficker       
+
+
+     
+
+     
+
+Timothy   A. Ficker, Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+TEXCAL ENERGY SOUTH TEXAS L.P.       
+
+
+     
+
+By:       
+
+TEXCAL   ENERGY (GP) LLC,       
+
+
+     
+
+     
+
+as   general partner       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Timothy A. Ficker       
+
+
+     
+
+     
+
+Timothy   A. Ficker, Chief Financial Officer         
+ 
+Fifth Amendment and Waiver to Credit Agreement  Signature Page
+ 
+
+
+
+
+
+
+ 
+AGREED TO AND ACKNOWLEDGED THE FOREGOING:
+ 
+ 
+
+
+
+     
+
+CITIBANK, N.A.,   as Administrative Agent and as a        
+
+
+     
+
+Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Phil Ballard       
+
+
+     
+
+     
+
+Phil   Ballard, Managing Director         
+ 
+ 
+AGREED TO THE FOREGOING:
+ 
+ 
+
+
+
+     
+
+LENDERS:       
+
+
+     
+
+        
+
+
+     
+
+THE BANK OF NOVA SCOTIA       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Terry Donovan       
+
+
+     
+
+     
+
+Terry   Donovan, Managing Director       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+KEYBANK NATIONAL ASSOCIATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   John Dravenstott       
+
+
+     
+
+     
+
+John   Dravenstott, Vice President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+BANK OF AMERICA, N.A.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Raza Jafferi       
+
+
+     
+
+     
+
+Raza   Jafferi, Vice President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+RB INTERNATIONAL FINANCE (USA) LLC       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Christoph Hoedl       
+
+
+     
+
+     
+
+Christoph   Hoedl, First Vice President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Steven VanSteenbergen       
+
+
+     
+
+     
+
+Steven   VanSteenbergen, Vice President         
+ 
+Fifth Amendment and Waiver to Credit Agreement  Signature Page
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BOKF, NA dba BANK OF OKLAHOMA       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Sonja Borodko       
+
+
+     
+
+     
+
+Sonja   Borodko, Vice President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+AMEGY BANK NATIONAL ASSOCIATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Kevin Donaldson       
+
+
+     
+
+     
+
+Kevin   Donaldson, SVP       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael Spaight       
+
+
+     
+
+     
+
+Michael   Spaight, Authorized Signatory       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Samuel Miller       
+
+
+     
+
+     
+
+Samuel   Miller, Authorized Signatory       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SANTANDER BANK, N.A.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Aidan Lanigan       
+
+
+     
+
+     
+
+Aidan   Lanigan, Senior Vice President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Vaughn Buck       
+
+
+     
+
+     
+
+Vaughn   Buck, Executive Vice President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+ABN AMRO CAPITAL USA LLC       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   David Montgomery       
+
+
+     
+
+     
+
+David   Montgomery, Executive Director       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Darrell Holley       
+
+
+     
+
+     
+
+Darrell   Holley, Managing Director         
+ 
+Fifth Amendment and Waiver to Credit Agreement  Signature Page
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CIT FINANCE LLC, as   Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   John Feeley       
+
+
+     
+
+     
+
+John   Feeley, Director         
+ 
+Waiver to Credit Agreement  Annex 1
+ 
+
+
+
+
+
+
+
+
+

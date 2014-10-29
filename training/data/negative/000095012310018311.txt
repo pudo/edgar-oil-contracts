@@ -1,0 +1,4209 @@
+
+EX-10.16
+4
+h69016exv10w16.htm
+EX-10.16
+
+
+
+exv10w16
+
+
+
+
+
+
+Exhibit 10.16
+
+
+
+NON-QUALIFIED RETIREMENT/SAVINGS PLAN
+
+
+OF
+
+
+APACHE CORPORATION
+
+
+Amended and restated as of February 11, 2010
+
+
+ 
+
+
+
+
+ 
+
+
+
+Table of Contents
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+    ARTICLE I DEFINITIONS
+     
+     
+    1
+     
+
+
+     
+     
+     
+     
+     
+
+
+    1.01 Account
+     
+     
+    1
+     
+
+
+    1.02 Affiliated Entity
+     
+     
+    1
+     
+
+
+    1.03 Apache
+     
+     
+    1
+     
+
+
+    1.04 Beneficiary
+     
+     
+    1
+     
+
+
+    1.05 Change of Control
+     
+     
+    1
+     
+
+
+    1.06 Code
+     
+     
+    1
+     
+
+
+    1.07 Committee
+     
+     
+    1
+     
+
+
+    1.08 Company
+     
+     
+    1
+     
+
+
+    1.09 Company Deferrals
+     
+     
+    2
+     
+
+
+    1.10 Compensation
+     
+     
+    2
+     
+
+
+    1.11 Employee
+     
+     
+    3
+     
+
+
+    1.12 Enrollment Agreement
+     
+     
+    3
+     
+
+
+    1.13 ERISA
+     
+     
+    3
+     
+
+
+    1.14 Participant
+     
+     
+    3
+     
+
+
+    1.15 Participant Deferrals
+     
+     
+    3
+     
+
+
+    1.16 Payment Processing Date
+     
+     
+    3
+     
+
+
+    1.17 Plan
+     
+     
+    3
+     
+
+
+    1.18 Plan Year
+     
+     
+    3
+     
+
+
+    1.19 Retirement Plan
+     
+     
+    3
+     
+
+
+    1.20 Savings Plan
+     
+     
+    3
+     
+
+
+    1.21 Separation from Service and Separate from Service
+     
+     
+    3
+     
+
+
+    1.22 Spouse
+     
+     
+    3
+     
+
+
+    1.23 Trust
+     
+     
+    4
+     
+
+
+    1.24 Trust Agreement
+     
+     
+    4
+     
+
+
+    1.25 Trustee
+     
+     
+    4
+     
+
+
+     
+     
+     
+     
+     
+
+
+    ARTICLE II ELIGIBILITY AND PARTICIPATION
+     
+     
+    4
+     
+
+
+     
+     
+     
+     
+     
+
+
+    2.01 Eligibility and Participation
+     
+     
+    4
+     
+
+
+    2.02 Enrollment
+     
+     
+    4
+     
+
+
+    2.03 Failure of Eligibility
+     
+     
+    4
+     
+
+
+     
+     
+     
+     
+     
+
+
+    ARTICLE III CONTRIBUTION DEFERRALS
+     
+     
+    4
+     
+
+
+     
+     
+     
+     
+     
+
+
+    3.01 Participant Deferrals
+     
+     
+    4
+     
+
+
+    3.02 Company Deferrals
+     
+     
+    6
+     
+
+
+     
+     
+     
+     
+     
+
+
+    ARTICLE IV CREDITING OF ACCOUNTS
+     
+     
+    7
+     
+
+
+     
+     
+     
+     
+     
+
+
+    4.01 Accounts
+     
+     
+    7
+     
+
+
+    4.02 Investments
+     
+     
+    7
+     
+
+
+     
+     
+     
+     
+     
+
+
+    ARTICLE V DISTRIBUTIONS
+     
+     
+    7
+     
+
+
+     
+     
+     
+     
+     
+
+
+    5.01 Vesting and Forfeitures
+     
+     
+    7
+     
+
+
+    5.02 Rehires
+     
+     
+    8
+     
+
+
+    5.03 Distribution Overview
+     
+     
+    9
+     
+
+
+    5.04 Distributions after Separation from Service
+and In-Service Withdrawals
+     
+     
+    9
+     
+
+
+    5.05 Payments after a Participant Dies
+     
+     
+    11
+     
+
+
+    5.06 Change of Control
+     
+     
+    12
+     
+
+
+    5.07 Hardship Withdrawals
+     
+     
+    13
+     
+
+
+    5.08 Divorce
+     
+     
+    13
+     
+
+
+    5.09 Administrative Delays in Payments
+     
+     
+    14
+     
+
+
+    5.10 Noncompliance with Code §409A
+     
+     
+    14
+     
+
+
+    5.11 Cash Payment and Withholding
+     
+     
+    15
+     
+
+
+     
+     
+     
+     
+     
+
+
+    ARTICLE VI ADMINISTRATION
+     
+     
+    15
+     
+
+
+     
+     
+     
+     
+     
+
+
+    6.01 The Committee  Plan Administrator
+     
+     
+    15
+     
+
+
+    6.02 Committee Duties
+     
+     
+    15
+     
+
+
+    6.03 Organization of Committee
+     
+     
+    15
+     
+
+
+    6.04 Indemnification
+     
+     
+    16
+     
+
+
+    6.05 Agent for Process
+     
+     
+    16
+     
+
+
+    6.06 Determination of Committee Final
+     
+     
+    16
+     
+
+
+    6.07 No Bonding
+     
+     
+    16
+     
+
+
+     
+     
+     
+     
+     
+
+
+    ARTICLE VII TRUST
+     
+     
+    16
+     
+
+
+     
+     
+     
+     
+     
+
+
+    7.01 Trust Agreement
+     
+     
+    16
+     
+
+
+    7.02 Expenses of Trust
+     
+     
+    16
+     
+
+
+     
+     
+     
+     
+     
+
+
+    ARTICLE VIII AMENDMENT AND TERMINATION
+     
+     
+    16
+     
+
+
+     
+     
+     
+     
+     
+
+
+    8.01 Termination of Plan
+     
+     
+    16
+     
+
+
+    8.02 Amendment
+     
+     
+    16
+     
+
+
+     
+     
+     
+     
+     
+
+
+    ARTICLE IX MISCELLANEOUS
+     
+     
+    17
+     
+
+
+     
+     
+     
+     
+     
+
+
+    9.01 Funding of Benefits  No Fiduciary Relationship
+     
+     
+    17
+     
+
+
+    9.02 Right to Terminate Employment
+     
+     
+    17
+     
+
+
+    9.03 Inalienability of Benefits
+     
+     
+    17
+     
+
+
+    9.04 Claims Procedure
+     
+     
+    17
+     
+
+
+    9.05 Disposition of Unclaimed Distributions
+     
+     
+    19
+     
+
+
+    9.06 Distributions due Infants or Incompetents
+     
+     
+    19
+     
+
+
+    9.07 Use and Form of Words
+     
+     
+    19
+     
+
+
+    9.08 Headings
+     
+     
+    19
+     
+
+
+    9.09 Governing Law
+     
+     
+    19
+     
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+NON-QUALIFIED RETIREMENT/SAVINGS PLAN
+OF
+APACHE CORPORATION
+
+
+Apache established this Plan effective as of November 16, 1989. Apache is now restating the Plan
+in its entirety effective as of February 11, 2010.
+
+
+Apache intends for this Plan to provide a select group of management or highly compensated
+employees of the Company with deferred retirement benefits, in addition to the retirement benefits
+provided under the Retirement Plan and the Savings Plan, in consideration of the valuable services
+provided by such employees to the Company and to induce such employees to remain in the employ of
+the Company.
+
+
+Apache intends that the Plan not be treated as a funded plan for purposes of either the Code or
+ERISA. Apaches also intends for this Plan to comply with the requirements of Code §409A, and the
+Plan shall be interpreted in that light.
+
+
+
+ARTICLE I
+DEFINITIONS
+
+
+Defined terms used in this Plan have the meanings set forth below or the same meanings as in the
+Retirement Plan or the Savings Plan, as the case may be:
+
+
+
+
+
+
+
+    1.01
+     
+    Account
+
+
+
+     
+
+     
+     
+    Account means the account maintained for each Participant to which is credited all
+Participant Deferrals made by a Participant, all Company Deferrals on behalf of a Participant,
+and all adjustments thereto. Each Account is divided into a variety of subaccounts, as
+detailed in Article V.
+
+
+
+     
+
+    1.02
+     
+    Affiliated Entity
+
+
+
+     
+
+     
+     
+    Affiliated Entity means any legal entity that is treated as a single employer with Apache
+pursuant to Code §414(b), §414(c), §414(m), or §414(o).
+
+
+
+     
+
+    1.03
+     
+    Apache
+
+
+
+     
+
+     
+     
+    Apache means Apache Corporation or any successor thereto.
+
+
+
+     
+
+    1.04
+     
+    Beneficiary
+
+
+
+     
+
+     
+     
+    Beneficiary means a Participants beneficiary, as determined in section 5.05.
+
+
+
+     
+
+    1.05
+     
+    Change of Control
+
+
+
+     
+
+     
+     
+    Change of Control means an event described in Code §409A(a)(2)(A)(v). This definition
+applies to Apache only.
+
+
+
+     
+
+    1.06
+     
+    Code
+
+
+
+     
+
+     
+     
+    Code means the Internal Revenue Code of 1986, as amended.
+
+
+
+     
+
+    1.07
+     
+    Committee
+
+
+
+     
+
+     
+     
+    Committee means the administrative committee provided for in section 6.01.
+
+
+
+     
+
+    1.08
+     
+    Company
+
+
+
+     
+
+     
+     
+    Company means Apache and any Affiliated Entity that, with approval of the Board of Directors
+of Apache, has adopted the Plan.
+
+
+
+
+
+
+
+Page 1 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    1.09
+     
+    Company Deferrals
+
+
+
+     
+
+     
+     
+    Company Deferrals means the allocations to a Participants Account made pursuant to section 3.02.
+
+
+
+     
+
+    1.10
+     
+    Compensation
+
+
+
+     
+
+     
+     
+    Compensation generally means regular compensation paid by the Company.
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Inclusions. Specifically, Compensation includes:
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    regular salary or wages,
+
+
+
+     
+
+     
+    (ii)
+     
+    overtime pay, and
+
+
+
+     
+
+     
+    (iii)
+     
+    the regular annual bonus (i.e., incentive compensation), to the extent
+that it is payable in cash, and any other bonus designated by the Committee.
+
+
+
+
+
+
+
+
+
+     
+    (b)
+     
+    Exclusions. Compensation excludes:
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    commissions,
+
+
+
+     
+
+     
+    (ii)
+     
+    severance pay,
+
+
+
+     
+
+     
+    (iii)
+     
+    moving expenses,
+
+
+
+     
+
+     
+    (iv)
+     
+    any gross-up of moving expenses to account for increased income taxes,
+
+
+
+     
+
+     
+    (v)
+     
+    foreign service premiums paid as an inducement to work outside of the
+United States,
+
+
+
+     
+
+     
+    (vi)
+     
+    Company contributions under the Retirement Plan
+
+
+
+     
+
+     
+    (vii)
+     
+    Company contributions under the Savings Plan,
+
+
+
+     
+
+     
+    (viii)
+     
+    other contingent compensation,
+
+
+
+     
+
+     
+    (ix)
+     
+    contributions to any other fringe benefit plan (including, but not
+limited to, overriding royalty payments or any other exploration-related payments),
+
+
+
+     
+
+     
+    (x)
+     
+    any amounts relating to the granting of a stock option by the Company
+or an Affiliated Entity, the exercise of such a stock option, or the sale or deemed
+sale of any shares thereby acquired,
+
+
+
+     
+
+     
+    (xi)
+     
+    any bonus other than a bonus described in paragraph (a)(iii),
+
+
+
+     
+
+     
+    (xii)
+     
+    payments from any benefit plan, such as any stock appreciation right
+or payments from a Share Appreciation Plan, any payment from the Deferred Delivery
+Plan or the Executive Restricted Stock Plan, and payments pursuant to grants made
+under the Omnibus Equity Compensation Plan of 2007, and
+
+
+
+     
+
+     
+    (xiii)
+     
+    any benefit accrued under, or any payment from, any nonqualified plan of deferred
+compensation.
+
+
+
+
+
+
+
+
+
+     
+    (c)
+     
+    Timing Rules.
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    Participant Deferrals. For purposes of calculating Participant
+Deferrals, Compensation includes only those amounts paid after the Employee has
+made both his initial payout election under section 5.04 and his Enrollment
+Agreement under section 3.01. Compensation does not include any amounts paid after
+the Participant ceased to be eligible to participate in the Plan. A Participant
+who begins participating in the middle of a Plan Year cannot make Participant
+Deferrals from a bonus under paragraph (a)(iii) that is attributable to the
+Participants services during the Plan Year in which his participation begins. For
+example, a Participant hired in September 2010 cannot make Participant Deferrals
+from the incentive compensation paid to him in February 2011.
+
+
+
+
+
+
+
+Page 2 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+    (ii)
+     
+    Company Deferrals. The Company Deferrals for a Participant,
+including one who begins participating in the middle of a Plan Year, are calculated
+by taking into account all Compensation paid to him during the entire Plan Year,
+including any incentive compensation paid during the Plan Year.
+
+
+
+
+
+
+
+
+
+    1.11
+     
+    Employee
+
+
+
+     
+
+     
+     
+    Employee means any common-law employee of Apache or any Affiliated Entity. An Employee
+ceases to be an Employee on the date he Separates from Service.
+
+
+
+     
+
+    1.12
+     
+    Enrollment Agreement
+
+
+
+     
+
+     
+     
+    Enrollment Agreement means an agreement made by an eligible employee whereby he elects the
+amounts to be withheld from his Compensation pursuant to section 3.01.
+
+
+
+     
+
+    1.13
+     
+    ERISA
+
+
+
+     
+
+     
+     
+    ERISA means the Employee Retirement Income Security Act of 1974, as amended.
+
+
+
+     
+
+    1.14
+     
+    Participant
+
+
+
+     
+
+     
+     
+    Participant means any eligible employee who has begun to participate in this Plan.
+
+
+
+     
+
+    1.15
+     
+    Participant Deferrals
+
+
+
+     
+
+     
+     
+    Participant Deferrals means the amounts of a Participants Compensation that he elects to
+defer and have allocated to his Account pursuant to section 3.01.
+
+
+
+     
+
+    1.16
+     
+    Payment Processing Date
+
+
+
+     
+
+     
+     
+    Payment Processing Date means the date selected by the Committee on which payments from this
+Plan will be processed. Except in extraordinary circumstances, there will be at least one
+Payment Processing Date each calendar month.
+
+
+
+     
+
+    1.17
+     
+    Plan
+
+
+
+     
+
+     
+     
+    Plan means the plan set forth in this document, as amended.
+
+
+
+     
+
+    1.18
+     
+    Plan Year
+
+
+
+     
+
+     
+     
+    Plan Year means the period during which the Plan records are kept. The Plan Year is the calendar year.
+
+
+
+     
+
+    1.19
+     
+    Retirement Plan
+
+
+
+     
+
+     
+     
+    Retirement Plan means the Apache Corporation Money Purchase Retirement Plan, as amended.
+
+
+
+     
+
+    1.20
+     
+    Savings Plan
+
+
+
+     
+
+     
+     
+    Savings Plan means Apache Corporation 401(k) Savings Plan, as amended.
+
+
+
+     
+
+    1.21
+     
+    Separation from Service and Separate from Service
+
+
+
+     
+
+     
+     
+    Separation from Service has the same meaning as the term separation from service in Code
+§409A(a)(2)(A)(i), determined using the default rules in the regulations and other guidance of
+general applicability issued pursuant to Code §409A, except that a Separation from Service
+occurs only if both the Company and the Participant expect the Participants level of services
+to permanently drop by more than half. A Participant who has a Separation from Service
+Separates from Service.
+
+
+
+     
+
+    1.22
+     
+    Spouse
+
+
+
+     
+
+     
+     
+    Spouse means the individual of the opposite sex to whom a Participant is lawfully
+married according to the laws of the state of the Participants domicile.
+
+
+
+
+
+
+
+Page 3 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    1.23
+     
+    Trust
+
+
+
+     
+
+     
+     
+    Trust means the trust or trusts, if any, created by the Company to provide funding for the
+distribution of benefits in accordance with the provisions of the Plan. The assets of any
+such Trust remain subject to the claims of the Companys general creditors in the event of the
+Companys insolvency.
+
+
+
+     
+
+    1.24
+     
+    Trust Agreement
+
+
+
+     
+
+     
+     
+    Trust Agreement means the written instrument pursuant to which each separate Trust is created.
+
+
+
+     
+
+    1.25
+     
+    Trustee
+
+
+
+     
+
+     
+     
+    Trustee means one or more banks, trust companies, or insurance companies designated by the
+Company to hold and invest the Trust Fund and to pay benefits and expenses as authorized by
+the Committee in accordance with the terms and provisions of the Trust Agreement.
+
+
+
+
+
+ARTICLE II
+ELIGIBILITY AND PARTICIPATION
+
+
+
+
+
+
+
+    2.01
+     
+    Eligibility and Participation
+
+
+
+     
+
+     
+     
+    The Committee shall from time to time in its sole discretion select those Employees who are
+eligible to participate in the Plan from those Employees who are among a select group of
+management or highly compensated employees.
+
+
+
+     
+
+    2.02
+     
+    Enrollment
+
+
+
+     
+
+     
+     
+    Employees who have been selected by the Committee to participate in the Plan shall complete
+the enrollment procedure specified by the Committee. The enrollment procedure may include
+written or electronic form(s) for the employee to designate his beneficiary or beneficiaries,
+provide instructions regarding the investment of his Account, make Participant Deferrals by
+entering into one or more Enrollment Agreements with the Company, select one or more payment
+options for the eventual distribution of his benefits, and provide such other information as
+the Committee may reasonably require.
+
+
+
+     
+
+    2.03
+     
+    Failure of Eligibility
+
+
+
+     
+
+     
+     
+    The Committee has the authority to determine that a Participant is no longer eligible to
+participate in the Plan. No Company Deferrals will be accrued, nor any Participant Deferrals
+made after the Participant ceases to be eligible to participate in the Plan. The
+determination of the Committee with respect to the termination of participation in the Plan
+will be final and binding on all parties affected thereby. Any benefits accrued under the
+Plan at the time the Participant becomes ineligible to continue participation will be
+distributed in accordance with the provisions of Article V.
+
+
+
+
+
+ARTICLE III
+CONTRIBUTION DEFERRALS
+
+
+
+
+
+
+
+    3.01
+     
+    Participant Deferrals
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    General. A Participant may elect to defer a portion of his Compensation by
+submitting a completed Enrollment Agreement. Each Enrollment Agreement must specify the
+amount the Participant elects to defer. Participant Deferrals are deducted through
+payroll withholding from the Participants cash Compensation payable by the Company.
+
+
+
+     
+
+     
+    (b)
+     
+    Maximum and Minimum Deferrals. A Participant may elect to defer up to 50%
+of his Compensation (other than a bonus described in section 1.10(a)(iii)) and up to 75%
+of a bonus described in section 1.10(a)(iii). The minimum deferral that a Participant
+may elect, for both this Plan and the Savings Plan combined, is 6% of his Compensation.
+If the Participant does not elect the minimum deferral from a
+
+
+
+
+Page 4 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+    bonus described in section 1.10(a)(iii) (in his June election), he cannot make any
+deferrals from his regular pay during the next regular-pay deferral election (in
+December).
+
+
+
+
+
+
+
+
+
+     
+    (c)
+     
+    Deadlines for Enrollment Agreements.
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    Enrollment Period. In order to make Participant Deferrals, a
+Participant must submit an Enrollment Agreement during the enrollment period
+established by the Committee. The enrollment period must precede the Plan Year in
+which the services giving rise to the Compensation are performed, except in the
+following situations.
+
+
+
+
+
+
+
+
+
+     
+    (A)
+     
+    Performance-Based Compensation. If the
+Compensation is performance-based compensation based on services performed
+over a period of at least 12 months (within the meaning of Code
+§409A(a)(4)(B)(iii)), the enrollment period must end at least six months
+before the end of the performance period.
+
+
+
+     
+
+     
+    (B)
+     
+    New Participant. The enrollment period for a new
+Participant must end no later than 30 days after he became eligible to
+participate in the Plan; the new Participants initial Enrollment Agreement
+may only apply to Compensation for which he has not yet performed any
+services.
+
+
+
+
+
+
+
+
+
+     
+    (ii)
+     
+    Duration. The Enrollment Agreement shall apply to
+Compensation, or to a specific form of Compensation, paid during one entire Plan
+Year unless it is earlier canceled or revised by the Committee pursuant to
+subsection (f), cancelled because the Participant ceases to be eligible to
+participate in the Plan, or cancelled pursuant to subsection (e) (relating to
+hardship withdrawals).
+
+
+
+
+
+
+
+
+
+     
+    (d)
+     
+    Procedures for Making Elections. The Committee has complete discretion to
+establish procedures for the completion of Enrollment Agreements, including the
+acceptable forms and formats of the deferral election (for example, written or
+electronic, as a whole percentage of Compensation or specific dollar amount, and the
+manner in which the Enrollment Agreement coordinates with the Savings Plan). The
+Committee has complete discretion to establish the enrollment periods during which
+Participants may make Enrollment Agreements, within the bounds described in subsections
+(a) and (c). The Committee may establish different enrollment periods for different
+types of Compensation or different groups of Participants. The Committee may specify any
+default choices that will apply unless the Participant affirmatively elects otherwise.
+For example, the Committee could decide that the failure to complete a new Enrollment
+Agreement means that (i) the prior Plan Years Enrollment Agreement will be continued for
+another year, or (ii) no Participant Deferrals will be made, or (iii) the Participant
+will defer 6% of his Compensation.
+
+
+
+     
+
+     
+    (e)
+     
+    Cancellation or Modification of Enrollment Agreements Following a Hardship
+Withdrawal.
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    Hardship Withdrawal from this Plan. If a Participant receives
+a hardship withdrawal from this Plan pursuant to section 5.07, all his outstanding
+Enrollment Agreements shall be modified to require future Participant Deferrals of
+6% of his future Compensation. The Participant may subsequently enter into new
+Enrollment Agreements at the usual times specified in subsection (c).
+
+
+
+     
+
+     
+    (ii)
+     
+    Hardship Withdrawal from the Savings Plan. If the Participant
+receives a hardship withdrawal from the Savings Plan, all outstanding Enrollment
+Agreements that apply or might apply to Compensation paid in the six months after
+the hardship withdrawal shall be cancelled. The Participant may subsequently enter
+into new Enrollment Agreements at the usual times under subsection (c), but the new
+Enrollment Agreements cannot apply to any Compensation paid within the six-month
+period following the hardship withdrawal from the Savings Plan.
+
+
+
+
+
+
+
+
+
+     
+    (f)
+     
+    Committee-Initiated Changes in Enrollment Agreement. The Committee may
+adjust any Participants Enrollment Agreement for the remainder of any Plan Year by
+reducing the amount of the Participants future Participant Deferrals, provided that the
+Committee believes that such reduction will assist either
+
+
+
+
+Page 5 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+    the Retirement Plan or the Savings Plan in satisfying any legal requirement. If the
+amounts to be withheld from a Participants paycheck (including, without limitation,
+loan repayments, Participant Deferrals, taxes, contributions to the Savings Plan, and
+premium payments for various benefits) are greater than the paycheck, (i) the Committee
+shall establish the order in which the deductions are applied, with the result that
+Participant Deferrals may be reduced below what the Participant had elected, and (ii)
+the Committees procedures may also automatically increase a Participants Participant
+Deferrals in subsequent pay periods to make up for any missed deferrals.
+
+
+
+
+
+
+
+
+
+    3.02
+     
+    Company Deferrals
+
+
+
+     
+
+     
+     
+    The Company shall credit to a Participants Account a matching contribution for the Plan Year
+and a retirement-6 contribution for the Plan Year. Company Deferrals begin to share in the
+investment earnings (or losses) at the time specified in section 4.01. The Company may credit
+matching contributions to a Participants Account during the Plan Year on a contingent basis;
+if the Participant does not satisfy the requirements to receive a matching contribution for
+the Plan Year, or if the matching contribution credited to the Participants Account for the
+Plan Year is incorrect, the Participant will forfeit any excess matching contribution
+(adjusted to reflect investment earnings or losses thereon) credited to his Account.
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Matching Contribution.
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    Basic Match. The total match for the Plan Year is equal to
+the Participants total deferrals for the Plan Year, up to a maximum total match
+for the Plan Year of 6% of the Participants Compensation for the Plan Year, except
+that the match in this Plan is $0 if the Participant has not made the maximum
+contributions to the Savings Plan that are excludable from his gross income
+pursuant to Code §402(g).
+
+
+
+     
+
+     
+    (ii)
+     
+    Definitions.
+
+
+
+     
+
+     
+     
+     
+    The total match for a Plan Year is equal to the matching contribution to the
+Participants Account in this Plan for the Plan Year plus the Company Matching
+Contribution allocated to the Participants account in the Savings Plan for the
+Plan Year.
+
+
+
+     
+
+     
+     
+     
+    The total deferrals for a Plan Year are equal to the Participant Deferrals for
+the Plan Year plus the Before-Tax Contributions to the Savings Plan for the Plan
+Year.
+
+
+
+     
+
+     
+    (iii)
+     
+    Additional Match. If a Participants match in the Savings
+Plan is reduced to comply with any requirement of federal law (such as the ACP test
+of Code §401(m) or the limits imposed by Code §415 or §401(a)(17)) after the match
+for this Plan has been calculated, then the Participants match for this Plan will
+be increased by the amount of the reduction in the match in the Savings Plan.
+
+
+
+
+
+
+
+
+
+     
+    (b)
+     
+    Retirement-6. In order to receive an allocation of the retirement-6
+contribution, an employee must be eligible to participate in the Plan on the last
+business day of the Plan Year. The retirement-6 contribution is calculated each Plan
+Year after the Company Mandatory Contribution is calculated in the Retirement Plan for
+the Plan Year. The sum of the Participants retirement-6 contribution in this Plan and
+his Company Mandatory Contribution in the Retirement Plan are equal to 6% of the
+Participants Compensation for the Plan Year. If a Participants Company Mandatory
+Contribution in the Retirement Plan is reduced to comply with any requirement of federal
+law after the retirement-6 contribution for this Plan has been calculated, then the
+Participants retirement-6 contribution for this Plan will be increased by the amount of
+the reduction in the Company Mandatory Contribution in the Retirement Plan.
+
+
+
+     
+
+     
+    (c)
+     
+    Additional Contribution. A Company may make an additional Company Deferral
+to any Participants Account at any time, provided that the Company advises the Committee
+in writing of the contribution.
+
+
+
+
+
+
+
+
+Page 6 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ARTICLE IV
+CREDITING OF ACCOUNTS
+
+
+
+
+
+
+
+    4.01
+     
+    Accounts
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Establishment of Accounts. The Committee shall establish one Account for
+each Participant, which will be subdivided into various subaccounts. The Accounts and
+subaccounts are merely for recordkeeping purposes, and do not represent any actual
+property that has been set aside for Participants. Nothing contained in this Article may
+be construed to require the Company or the Committee to fund any Participants Account.
+
+
+
+     
+
+     
+    (b)
+     
+    Crediting of Contributions. Participant Deferrals are credited to a
+Participants Account as of the date that the Participant Deferral would have been paid
+to the Participant had there been no Enrollment Agreement. Company Deferrals are
+credited to a Participants Account as of the date that the Company Deferral was earned
+by the Participant.
+
+
+
+     
+
+     
+    (c)
+     
+    Crediting of Earnings. Each Account is credited with investment earnings
+or losses calculated in accordance with section 4.02. Participant Deferrals and Company
+Deferrals start to be credited with investment earnings or losses as soon as
+administratively convenient after such amounts are credited to Accounts, except that the
+retirement-6 contribution under section 3.02(b) is not credited with investment earnings
+or losses until the corresponding Company Mandatory Contribution to the Retirement Plan
+is actually paid to the Retirement Plan (usually in late February).
+
+
+
+
+
+
+
+
+
+    4.02
+     
+    Investments
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Investment Options. All amounts credited to a Participants Account are
+credited with investment earnings or losses as if the Participants Account was invested
+in one or more investments. The Committee shall designate the default investment as well
+as any alternatives, and may change the available alternatives or the default investment
+from time to time. One or more of the investment alternatives may consist, in whole or
+in part, of Apache common stock. At such times and under such procedures as the
+Committee may designate, a Participant may determine the portion of his Account that is
+to be deemed invested in each alternative. The Participant may make prospective changes
+for his investment selection as often as the Committee permits and subject to the
+procedures established by the Committee. A Participant may never make any retroactive
+changes to his investment selections.
+
+
+
+     
+
+     
+    (b)
+     
+    No Ownership Rights. A Participant has no ownership rights with respect to
+any investment of his Account. Nothing contained in this Article may be construed to
+give any Participant any power or control to make investment directions or otherwise
+influence in any manner the investment and reinvestment of assets contained within any
+investment alternative, such control being at all times retained in the full discretion
+of the Committee. As a consequence, for example, if a Participant has elected to invest
+a portion of his Account in Apache stock, the Participant has no voting rights with
+respect to that stock.
+
+
+
+
+
+ARTICLE V
+DISTRIBUTIONS
+
+
+
+
+
+
+
+    5.01
+     
+    Vesting and Forfeitures
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Participant Deferrals. A Participant is fully vested in the portion of his
+Account that is attributable to his Participant Deferrals.
+
+
+
+     
+
+     
+    (b)
+     
+    Company Deferrals, General Rule. A Participants years of completed
+service in this Plan are identical to his Period of Service in the Savings Plan. A
+Participant will vest in the portion of his Plan Account that is attributable to Company
+Deferrals according to the following schedule, unless subsection (c) provides for faster
+vesting:
+
+
+
+
+Page 7 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+    Years of Completed Service
+     
+    Vested Portion
+
+
+
+
+
+    Less than 1
+
+     
+     
+    0
+    %
+
+
+    1
+
+     
+     
+    20
+    %
+
+
+    2
+
+     
+     
+    40
+    %
+
+
+    3
+
+     
+     
+    60
+    %
+
+
+    4
+
+     
+     
+    80
+    %
+
+
+    5 or more
+
+     
+     
+    100
+    %
+
+
+
+
+
+
+
+(c) Company Deferrals, Accelerated Vesting. A Participant is fully vested in
+the portion of his Plan Account that is attributable to Company Deferrals in the
+following circumstances.
+
+
+
+
+
+
+     
+    (i)
+     
+    The Participant is fully vested if he attains age 65 while he is an
+Employee.
+
+
+
+     
+
+     
+    (ii)
+     
+    The Participant is fully vested if he becomes an Employee after
+attaining age 65.
+
+
+
+     
+
+     
+    (iii)
+     
+    The Participant is fully vested if, while he is an Employee, he incurs
+a disability that qualifies the Employee for long-term disability payments under
+Apaches Long-Term Disability Plan.
+
+
+
+     
+
+     
+    (iv)
+     
+    The Participant is fully vested if he dies while he is an Employee.
+
+
+
+     
+
+     
+    (v)
+     
+    All Participants are fully vested if a change of control, as defined in
+the Income Continuance Plan, occurs.
+
+
+
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+    (d)
+     
+    Forfeiture Timing. The portion of a Participants Account that is not
+vested is forfeited immediately upon his Separation from Service.
+
+
+
+
+
+
+
+
+
+
+    5.02
+     
+    Rehires
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Distributions. If a Participant Separated from Service and subsequently
+becomes eligible to participate in the Plan again, the benefits from his earlier episode
+of participation will be paid out as originally scheduled; the new participation will not
+affect the timing of any benefit payments from his earlier episode of participation.
+
+
+
+     
+
+     
+    (b)
+     
+    Vesting. If a Participant becomes eligible to again make Participant
+Deferrals more than five years after Separating from Service, (i) the Plan will establish
+a new Account for the benefits he accrues during his second episode of participation;
+(ii) his years of completed service for his new Account will include only his service
+from his second episode; and (iii) his new service will not increase the vesting of any
+benefits from his first episode of participation. If a Participant becomes eligible to
+again make Participant Deferrals less than five years after Separating from Service, the
+Participants years of completed service for his benefits from his second episode of
+participation will include his service from both episodes of employment.
+
+
+
+     
+
+     
+    (c)
+     
+    Restoration of Forfeiture. If a Participant begins to participate in the
+Plan again within five years after his Separation from Service, the exact amount of any
+forfeiture upon his earlier Separation from Service will be restored to his Account, and
+will be credited to a separate subaccount. The restoration will occur on the
+31st day after the Participant again begins participating in the Plan, but
+only if the Participant is still eligible to participate in the Plan on that date. The
+restored subaccount vests based on his service from both episodes of employment (and thus
+will almost always be partially vested immediately when the Participant again starts to
+participate). The vested portion of the restored subaccount will be paid to the
+Participant as the Participant elects in section 5.04(b) for the payment of his new
+Account attributable to Company Deferrals, unless section 5.05 or 5.06 require faster
+payment following the Participants death or a Change of Control or the Participant takes
+a hardship withdrawal under section 5.07.
+
+
+
+
+
+
+
+Page 8 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    5.03
+     
+    Distribution Overview
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    General. In general, a single payment will occur, or a stream of
+installment payments will commence, on the Payment Processing Date following the earliest
+of the following dates, or as soon thereafter as is administratively convenient:
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    Six months after the Participant Separates from Service. See section
+5.04.
+
+
+
+     
+
+     
+    (ii)
+     
+    For unmatched Participant Deferrals only, at the time(s) selected by
+the Participant. See sections 5.04(c)(ii) and 5.04(c)(iii).
+
+
+
+     
+
+     
+    (iii)
+     
+    The date the Participant dies. See section 5.05.
+
+
+
+     
+
+     
+    (iv)
+     
+    The date of a Change of Control. See section 5.06.
+
+
+
+
+
+
+
+
+
+     
+    (b)
+     
+    Hardships. A Participant may take a withdrawal under section 5.07 if he
+has a financial hardship.
+
+
+
+     
+
+     
+    (c)
+     
+    Divorce. Some or all of a Participants benefits in this Plan may be
+allocated to, and distributed to, his former Spouse, pursuant to section 5.08.
+
+
+
+
+
+
+
+
+
+    5.04
+     
+    Distributions after Separation from Service and In-Service Withdrawals
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    General. A Participant who Separated from Service before January 1, 2009
+will be paid according to the payout provisions in the Plan (and any payout elections
+that had been made) that were effective when he Separated from Service, except that (i)
+sections 5.05 or 5.06 will apply to such Participants (and accelerate any remaining
+payments) if there is a Change of Control or the Participant dies, (ii) section 5.07 will
+apply if the Participant has a financial hardship, and (iii) section 5.08 will apply if
+the Participant becomes divorced. This remainder of this section contains the rules for
+distributions following a Separation from Service that occurs on or after January 1,
+2009.
+
+
+
+     
+
+     
+    (b)
+     
+    Distribution of Company Deferrals.
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    Initial Election. Upon becoming a Participant, an Employee
+shall make a payout election to have his vested Account attributable to Company
+Deferrals paid out in a single payment or in two to ten annual installments. To be
+effective, the Participants payout election must be provided to the Plan within 30
+days after the date the Participant became a Participant or by such earlier date
+established by the Committee. The single payment or the first installment payment
+will be paid on the first Payment Processing Date that occurs six months or more
+after the Participants Separation from Service. Subsequent installments will be
+paid each 12 months thereafter.
+
+
+
+     
+
+     
+    (ii)
+     
+    Special 2007 Payout Election. The Committee extended to
+certain Participants the opportunity a new payout election in 2007 to have his
+vested Account attributable to Company Deferrals paid out in a single payment or in
+two to ten annual installments. To be effective, the Participants payout election
+must have been provided to the Plan by December 31, 2007 or by such earlier
+deadline established by the Committee, and the Participant must have been an
+Employee on the last business day of 2007. The single payment or the first
+installment payment will be paid on the first Payment Processing Date that occurs
+six months or more after the Participants Separation from Service; subsequent
+installments will be paid each 12 months thereafter.
+
+
+
+     
+
+     
+    (iii)
+     
+    Minimum Account Balance for Installments. See section 5.04(d)
+for the situations when a Participant will be paid a lump sum in spite of having
+elected installments.
+
+
+
+
+
+
+
+
+
+     
+    (c)
+     
+    Distribution of Participant Deferrals.
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    Matched and Unmatched Participant Deferrals. Because different
+payout alternatives are available for matched and unmatched Participant Deferrals,
+the Plan will separately account for matched and unmatched Participant Deferrals.
+Each Plan Years unmatched Participant
+
+
+
+
+Page 9 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+    Deferrals, if any, are equal to the amount by which the sum of the Participant
+Deferrals to this Plan for the Plan Year and the Before-Tax Contributions to the
+Savings Plan for the Plan Year are greater than 6% of the Participants
+Compensation for the Plan Year. The Committee has full discretion in determining
+an appropriate and administratively feasible method for differentiating between
+matched and unmatched Participant Deferrals. The Committee may wait until the end
+of the Plan Year to make this determination, and may attribute the investment
+earnings or losses on the Participant Deferrals to the matched Participant
+Deferrals, to the unmatched Participant Deferrals, or partly to each.
+
+
+
+
+
+
+
+
+
+     
+    (ii)
+     
+    Matched Participant Deferrals. A Participants matched
+Participant Deferrals will be paid out in the same fashion as the balance of his
+Account attributable to Company Deferrals under subsection (b).
+
+
+
+     
+
+     
+    (iii)
+     
+    Payout Elections for Unmatched Participant Deferrals. A
+Participant shall make a separate payout election for the next years unmatched
+Participant Deferrals. Beginning with Enrollment Agreements entered into in 2009,
+the payout election must be made no later than June 30 (or such earlier date
+established by the Committee) of the year preceding the year in which the unmatched
+Participant Deferral occurs. The payout elections for 2007, 2008, and 2009
+unmatched Participant Deferrals must be made by the end of the year preceding the
+year in which the unmatched Participant Deferral occurs or such earlier date
+established by the Committee. Newly eligible Participants must complete a payout
+election at the same time as their initial Enrollment Agreement. The Participant
+may choose from among the following payout alternatives for the subaccount
+containing that Plan Years unmatched Participant Deferrals.
+
+
+
+
+
+
+
+
+
+     
+    (A)
+     
+    No In-Service Withdrawal. The subaccount will be
+paid out in a single payment or in two to ten annual installments. The
+single payment or the first installment payment will be paid on the first
+Payment Processing Date that occurs six months or more after the
+Participants Separation from Service; subsequent installments will be paid
+each 12 months thereafter. Each installment will be equal to the balance in
+the subaccount measured as short a period of time before the installment is
+paid as is administratively convenient, divided by the number of remaining
+annual installments.
+
+
+
+     
+
+     
+    (B)
+     
+    In-Service Withdrawal, Single Payment. The
+subaccount will be paid in a single payment on the first Payment Processing
+Date that occurs during the month and year selected by the Participant. The
+Participant cannot choose to receive the single payment until the second year
+following the year in which the Participant Deferral occurred. For example,
+unmatched Participant Deferrals made in 2008 cannot be withdrawn pursuant to
+this paragraph until January 2010. If the Participant Separates from Service
+before receiving the single payment, (1) if the single payment is scheduled
+to be paid during the six months after the Separation from Service, it will
+be paid as scheduled, and (2) if the single payment is scheduled to be paid
+more than six months after the Separation from Service, it will instead be
+paid on the first Payment Processing Date that occurs six months or more
+after the Separation from Service.
+
+
+
+     
+
+     
+    (C)
+     
+    In-Service Withdrawal, Installments. The
+subaccount will be paid in a two to ten annual installments, with the first
+installment paid on the first Payment Processing Date that occurs during the
+month and year selected by the Participant, and subsequent installments paid
+each 12 months thereafter. The Participant cannot choose to receive his
+first installment until the second year following the year in which the
+Participant Deferral occurred. Each installment will be equal to the balance
+in the subaccount measured as short a period of time before the installment
+is paid as is administratively convenient, divided by the number of remaining
+annual installments. If the Participant Separates from Service before
+receiving all installments, (1) any installment scheduled to be paid
+
+
+
+
+Page 10 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+    during the six months after the Separation from Service will be paid as
+scheduled, and (2) the remaining subaccount balance will be paid on the
+first Payment Processing Date that occurs six months or more after the
+Separation from Service.
+
+
+
+
+
+
+
+
+
+     
+    (d)
+     
+    Calculating Installment Payments.
+
+
+
+     
+
+     
+     
+     
+    If the value of the Participants Account is less than $50,000 six months after the
+Participants Separation from Service, the Participant will be paid a lump sum of his
+Account on the first Payment Processing Date that occurs six months or more after his
+Separation from Service. If the preceding sentence does not apply, each installment,
+other than installments of unmatched Participant Deferrals under section 5.03(c)(iii)
+above, will be equal to the vested Account balance (ignoring the subaccount(s)
+containing unmatched Participant Deferrals) measured as short a period of time before
+the installment is paid as is administratively convenient, divided by the number of
+remaining annual installments.
+
+
+
+     
+
+     
+    (e)
+     
+    Additional Rules for Payout Elections. The Committee has complete
+discretion to establish procedures for the completion of payout elections, including the
+acceptable forms and formats of the payout election. The Committee has complete
+discretion to establish deadlines for the completion of payout elections, within the
+bounds described in this section. The Committee may establish default choices in the
+absence of an affirmative Participant election.
+
+
+
+     
+
+     
+    (f)
+     
+    Coordination with Other Distribution Sections.
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    Change of Control. Section 5.06 will apply to determine the
+timing and amount of certain payments made on or after a Change of Control.
+
+
+
+     
+
+     
+    (ii)
+     
+    Death. Section 5.05 will apply to determine the timing and
+amount of all payments made after the Participant dies.
+
+
+
+     
+
+     
+    (iii)
+     
+    Hardships. A Participant may take a withdrawal under section
+5.07 if he has a financial hardship.
+
+
+
+     
+
+     
+    (iv)
+     
+    Divorce. Some or all of a Participants benefits in this Plan
+may be allocated to, and distributed to, his former Spouse, pursuant to section
+5.08.
+
+
+
+
+
+
+
+
+
+    5.05
+     
+    Payments after a Participant Dies
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Payout. When a Participant dies, his remaining vested Account balance will
+be distributed to each of his Beneficiaries on the Payment Processing Date in the fourth
+month following the Participants death, provided that the Beneficiary has completed the
+tax-withholding forms and supplied such other information as the Committee may reasonably
+require. For example, if the Participant dies in November, the Beneficiary will be
+paid in March. This four-month delay should give the Beneficiary adequate time to decide
+whether to disclaim all or any part of his interest under subsection (d)). Each
+Beneficiary will receive a single payment.
+
+
+
+     
+
+     
+    (b)
+     
+    Beneficiary Designation. Each Participant shall designate one or more
+persons, trusts, or other entities as his Beneficiary to receive any amounts
+distributable hereunder at the time of the Participants death. In the absence of an
+effective beneficiary designation as to part or all of a Participants interest in the
+Plan, such amount will be distributed to the Participants surviving Spouse, if any,
+otherwise to the personal representative of the Participants estate.
+
+
+
+     
+
+     
+    (c)
+     
+    Special Rules for Spouses. A beneficiary designation may be changed by the
+Participant at any time and without the consent of any previously designated Beneficiary.
+However, if the Participant is married, his Spouse will be his Beneficiary unless such
+Spouse has consented to the designation of a different Beneficiary. To be effective, the
+Spouses consent must be in writing, witnessed by a notary public, and filed with the
+Committee. If the Participant has designated his Spouse as a primary or contingent
+Beneficiary, and the Participant and Spouse later divorce (or their marriage is
+annulled),
+
+
+
+
+Page 11 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+    then the former Spouse will be treated as having pre-deceased the Participant for
+purposes of interpreting a beneficiary designation that was completed prior to the
+divorce or annulment; this provision will apply only if the Committee is informed of the
+divorce or annulment before payment to the former Spouse is authorized.
+
+
+
+
+
+
+
+
+
+     
+    (d)
+     
+    Disclaiming. Any individual or legal entity who is a beneficiary may
+disclaim all or any portion of his interest in the Plan, provided that the disclaimer
+satisfies the requirements of Code §2518(b) and applicable state law. The legal guardian
+of a minor or legally incompetent person may disclaim for such person. The personal
+representative (or the individual or legal entity acting in the capacity of the personal
+representative according to applicable state law) may disclaim on behalf of a beneficiary
+who has died. The amount disclaimed will be distributed as if the disclaimant had
+predeceased the individual whose death caused the disclaimant to become a beneficiary.
+
+
+
+
+
+
+
+
+
+    5.06
+     
+    Change of Control
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Former Employees.
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    Separated More than Six Months. Each Participant who Separated
+from Service more than six months before the date of a Change of Control, including
+those already receiving installment payments, will be paid a single payment of his
+entire remaining vested Account balance on the date of a Change of Control or as
+soon thereafter as is administratively practicable.
+
+
+
+     
+
+     
+    (ii)
+     
+    Recent Separations. Each Participant who Separated from
+Service within six months before the date of the Change of Control will be paid his
+normally scheduled payments for the first six months after he Separated from
+Service and the remainder of his vested Account balance will be paid to him six
+months after his Separation from Service or as soon thereafter as is
+administratively practicable.
+
+
+
+
+
+
+
+
+
+     
+    (b)
+     
+    Current Employees.
+
+
+
+
+
+
+
+
+
+     
+    (i)
+     
+    Payout upon Separation From Service. Except as provided in
+paragraph (ii), each Participant who is an Employee on the date of a Change of
+Control, and who Separates from Service before the first anniversary of the Change
+of Control, will be paid a single payment of his entire vested Account balance as
+soon as administratively practicable after the Separation from Service; however, if
+the Participant is a specified employee, (A) his normally scheduled payments for
+the first six months after he Separated from Service will be paid as scheduled and
+(B) the remainder of his vested Account balance will be paid as soon as
+administratively practicable six months after the Separation from Service. As used
+in this section, the term specified employee has the same meaning as in Code
+§409A(a)(2)(B)(i); in determining the identity of specified employees, the default
+rules contained in Treasury Regulation §1.409A-1(i) will be applied, except that
+the primary document evidencing the Change of Control (such as a Purchase and Sale
+Agreement or Merger Agreement or Stock Acquisition Agreement) may contain different
+rules for determining the identity of specified employees after the Change of
+Control. Except as provided in paragraph (ii), each Participant who does not
+Separate from Service within one year of a Change of Control will be paid his
+benefits pursuant to section 5.04, 5.05, 5.07, or 5.08.
+
+
+
+     
+
+     
+    (ii)
+     
+    Payout upon a Change of Control. This paragraph applies only
+to benefits accrued after December 31, 2010. A Participant may elect to have all
+his benefits accrued after December 31, 2010 paid to him in a single payment on the
+date of the Change of Control or as soon as administratively practicable
+thereafter; to the extent the Participant does not elect to receive payment upon
+the Change of Control, his benefits shall be paid pursuant to whichever of sections
+5.04, 5.05, 5.06(b)(i), 5.07, or 5.08 applies. The Participants election under
+this paragraph must be made no later than the later of (A) the deadline for the
+Participants initial payout election pursuant to section 5.04(b)(i) (that is,
+within 30 days of becoming eligible to
+
+
+
+
+Page 12 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+    participate in the Plan) or (B) June 30, 2010. The Committee may establish an
+earlier deadline for the payout election under this paragraph.
+
+
+
+
+
+
+
+
+
+    5.07
+     
+    Hardship Withdrawals
+
+
+
+     
+
+     
+     
+    A Participant may withdraw all or part of the vested portion of his Account if he has a
+financial hardship, subject to the following rules. A Participant may take a hardship
+withdrawal while he is an Employee and also after he has Separated from Service. Payment
+shall be made as soon as practicable after the Committee has approved the withdrawal, except
+that payment for a financial hardship that occurs less than six months after the Participants
+Separation from Service shall be made as soon as practicable after the Participant has been
+Separated from Service for six months.
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Request for Hardship Withdrawal. The Participant must file a request for
+withdrawal with the Committee, along with such information and documentation as the
+Committee may request for this purpose. The Committee shall review the information filed
+as soon as practicable after it is received and shall promptly inform the Participant of
+the results of the Committees determination.
+
+
+
+     
+
+     
+    (b)
+     
+    Unforeseeable Emergency. A hardship withdrawal may be made only for the
+purpose of meeting an unforeseeable emergency, which is a severe financial hardship to
+the Participant resulting from (i) a sudden and unexpected illness or accident of the
+Participant, the Participants Spouse, the Participants dependent (within the meaning of
+Code §152(a) without regard to Code §152(b)(1), §152(b)(2), or §152(d)(1)(B)), or the
+Participants Beneficiary; (ii) loss of the Participants property due to casualty; (iii)
+other similar extraordinary and unforeseeable circumstances arising as a result of events
+beyond the control of the Participant, such as the imminent foreclosure of or eviction
+from the Participants primary residence or the payment of medical expenses, or (iv) the
+funeral expenses of the Participants Spouse, Beneficiary, or dependent (within the
+meaning of Code §152(a) without regard to Code §152(b)(1), §152(b)(2), or §152(d)(1)(B)).
+The Committee shall determine whether an unforeseeable emergency exists based on all
+relevant facts and circumstances, all documentation provided by the Participant, and any
+guidance provided by the IRS.
+
+
+
+     
+
+     
+    (c)
+     
+    Amount of Withdrawal. The amount withdrawn with respect to an
+unforeseeable emergency may not exceed the amount necessary to satisfy the emergency plus
+amounts necessary to pay taxes reasonably anticipated to be incurred because of the
+withdrawal. The withdrawal will be reduced to take into account the extent to which such
+hardship is or may be relieved through reimbursement or compensation by insurance or
+otherwise or by liquidation of the Participants assets (to the extent the liquidation of
+such assets would not itself cause severe financial hardship).
+
+
+
+     
+
+     
+    (d)
+     
+    Coordination with Savings Plan. If the Participants circumstances are
+such that he can take a hardship withdrawal from both the Savings Plan and from this
+Plan, the withdrawal will first be taken from this Plan and, if the Participant exhausts
+his vested Account in this Plan, the Participant may elect to satisfy any remaining
+hardship by taking a hardship withdrawal from the Savings Plan.
+
+
+
+     
+
+     
+    (e)
+     
+    Cancellation or Modification of Participant Deferrals. See section 3.01(e)
+for the cancellation or modification of Enrollment Agreements after a hardship withdrawal
+from this Plan or the Savings Plan.
+
+
+
+     
+
+     
+    (f)
+     
+    Source of Funds. A Participants hardship withdrawal will be taken first
+from the subaccounts containing unmatched Participant Deferrals, with the earliest-made
+unmatched Participant Deferrals withdrawn first. Then, if necessary, amounts will be
+withdrawn from the subaccount(s) containing matched Participant Deferrals. And finally,
+if necessary, vested amounts will be withdrawn from the subaccount(s) containing Company
+Deferrals.
+
+
+
+
+
+
+
+
+
+    5.08
+     
+    Divorce
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    General. If a Participant has divorced his Spouse, all or a portion of his
+Account may be allocated to his former Spouse. The Participant may be a former or
+current employee of the Company.
+
+
+
+
+
+
+
+Page 13 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+    (b)
+     
+    Contents of Order. The allocation will occur as soon as practicable after
+the Plan receives a judgment, decree, or order (collectively, an order) that (i) is
+made pursuant to a state domestic relations law or community property law, (ii) relates
+to the marital property rights of the former Spouse, (iii) unambiguously specifies the
+amount or percentage of the Participants Account that is to be allocated to the former
+Spouse, or unambiguously specifies the manner in which the amount or percentage is to be
+calculated, (iv) does not allocate any benefits that have already been allocated to a
+different former Spouse, (v) contains the name and last known mailing address of the
+Participant and the former Spouse, (vi) the name of the Plan, (vii) does not contain any
+provision that violates subsections (c), (d), or (e), and (viii) contains the former
+Spouses Social Security number (or other similar taxpayer identification number) unless
+such number has been provided by the former Spouse to the Plan in a manner acceptable to
+the Committee.
+
+
+
+     
+
+     
+    (c)
+     
+    Payout Provisions. The vested portion of the amount allocated to the
+former Spouse will be paid to the former Spouse in a single payment on the first Payment
+Processing Date that is administratively practicable after (i) the Plan has determined
+that the order meets the requirements of subsection (b), (ii) the Plan has communicated
+its interpretation of the order to the Participant and former Spouse, and given them a
+reasonable amount of time (such as 30 days) to object to the Plans interpretation, (and
+if there is a timely objection, the parties must submit a revised order or withdraw their
+objections), and (iii) the parties agree to the Plans interpretation of the order.
+
+
+
+     
+
+     
+    (d)
+     
+    Not Fully Vested. If the former Spouse is allocated any unvested amounts,
+the Plan will establish a separate account for the former Spouse and she may direct the
+Plan as to how those amounts will be deemed to be invested, in the same manner as a
+Participant directs the Plan in Article IV. Unvested amounts are forfeited at the same
+time as the Participants unvested amounts are forfeited. If an amount allocated to the
+former Spouse subsequently become vested, the newly-vested amount will be paid to the
+former Spouse in a single payment on the first Payment Processing Date that is
+administratively practicable following the additional vesting. If the former Spouse dies
+before award is fully vested, she shall forfeit her remaining Account balance, and that
+exact amount shall be returned to the Participants subaccount containing Company
+Deferrals.
+
+
+
+     
+
+     
+    (e)
+     
+    Source of Funds. If a Participant is not fully vested in his Account when
+the allocation to the former Spouse occurs, the amount allocated to the former Spouse
+will be taken on a pro-rata basis from each of the Participants subaccounts.
+
+
+
+
+
+
+
+
+
+    5.09
+     
+    Administrative Delays in Payments
+
+
+
+     
+
+     
+     
+    The Committee may delay any payment from this Plan for as short a period as is
+administratively necessary. For example, a delay may be imposed upon all payments when there
+is a change of recordkeeper or trustee, and a delay may be imposed on payments to any
+recipient until the recipient has provided (a) the information needed to determine the
+appropriate tax withholding and tax reporting and (b)any other information reasonably
+requested by the Committee.
+
+
+
+     
+
+    5.10
+     
+    Noncompliance with Code §409A
+
+
+
+     
+
+     
+     
+    To the extent that the Company or the Committee takes any action that causes a violation of
+Code §409A or fails to take any reasonable action required to comply with Code §409A, Apache
+shall pay an additional amount (the gross-up) to the individual(s) who are subject to the
+penalty tax under Code §409A(a)(1); the gross-up will be sufficient to put the individual in
+the same after-tax position he would have been in had there been no violation of Code §409A.
+The Company shall not pay a gross-up if the cause of the violation of Code §409A is the due to
+the recipients action or due to the recipients failure to take reasonable actions (such as
+failing to timely provide the information required for tax withholding or failing to timely
+provide other information reasonably requested by the Committee  with the result that the
+delay in payment violates Code §409A). Any gross-up will be paid as soon as administratively
+convenient after the Committee determines the gross-up is owed, and no later than the end of
+the calendar year immediately following the calendar year in which the additional taxes are
+remitted. However, if the gross-up is due to a tax audit or
+
+
+
+
+Page 14 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+    litigation addressing the existence or amount of a tax liability, the gross-up will be paid as
+soon as administratively convenient after the litigation or audit is completed, and no later
+than the end of the calendar year following the calendar year in which the audit is completed
+or there is a final and non-appealable settlement or other resolution of the litigation.
+
+
+
+
+
+
+
+
+
+    5.11
+     
+    Cash Payment and Withholding
+
+
+
+     
+
+     
+     
+    All payments from the Plan will be made in cash. The Plan will withhold any taxes or other
+amounts that it is required to withhold pursuant to any applicable law.
+
+
+
+
+
+ARTICLE VI
+ADMINISTRATION
+
+
+
+
+
+
+
+    6.01
+     
+    The Committee  Plan Administrator
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Current. As of January 1, 2009, the Committee is comprised of the members
+of the Retirement Plan Advisory Committee.
+
+
+
+     
+
+     
+    (b)
+     
+    Before a Change of Control. Before a change of control, as defined in the
+Income Continuance Plan, the board of directors of Apache shall appoint an administrative
+Committee consisting of no fewer than three individuals who may be, but need not be,
+Participants, officers, directors, or employees of the Company. Apaches board of
+directors may remove Committee members at will. If the absence of any Committee members,
+Apache shall become the sole Committee member.
+
+
+
+     
+
+     
+    (c)
+     
+    After a Change of Control. This subsection applies on and after the date
+of a change of control, as defined in the Income Continuance Plan. The only individuals
+who are able to serve on the Committee after the date of the Change of Control are those
+who are not then employed by Apache, its successor, or any related legal entities. No
+Committee members may be added on or after the day of the Change of Control, except that,
+if the Committee is comprised solely of individuals, (i) the Committee may appoint a
+legal entity as a Committee member, and (ii) if the number of Committee members drops
+below three, the remaining member(s) may not resign until having appointed a legal entity
+or another individual as a Committee member. If all Committee members leave the
+Committee (if, for example, all Committee members die before the last one appoints a new
+Committee member or if the sole Committee member is a legal entity that goes out of
+business), the Committee shall automatically consist of the three Participants with the
+largest Accounts who are not then employed by Apache, its successor, or any related legal
+entities.
+
+
+
+     
+
+     
+    (d)
+     
+    Plan Administrator. The Committee is the Plans administrator within the
+meaning of ERISA §3(16)(A). The sole named fiduciaries of the Plan are the Committee and
+any Trustees.
+
+
+
+
+
+
+
+
+
+    6.02
+     
+    Committee Duties
+
+
+
+     
+
+     
+     
+    The Committee shall administer the Plan and shall have all discretion and powers necessary for
+that purpose, including, but not by way of limitation, full discretion and power to interpret
+the Plan, to determine the eligibility, status, and rights of all persons under the Plan and,
+in general, to decide any dispute and all questions arising in connection with the Plan. The
+Committee shall direct the Company, the Trustee, or both, as the case may be, concerning
+distributions in accordance with the provisions of the Plan. The Committee shall maintain all
+Plan records except records of any Trust. The Committee shall publish, file, or disclose 
+or cause to be published, filed, or disclosed  all reports and disclosures required by
+federal or state laws. The Committee may authorize one or more of its members or agents to
+sign instructions, notices, and determinations on its behalf.
+
+
+
+     
+
+    6.03
+     
+    Organization of Committee
+
+
+
+     
+
+     
+     
+    The Committee shall adopt such rules as it deems desirable for the conduct of its affairs and
+for the administration of the Plan. It may appoint agents (who need not be members of the
+Committee) to whom it may delegate such powers as it deems appropriate, except that any
+dispute shall be determined by the
+
+
+
+
+Page 15 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+    Committee. The Committee may make its determinations with or without meetings. It may
+authorize one or more of its members or agents to sign instructions, notices, and
+determinations on its behalf. If a Committee decision or action affects a relatively small
+percentage of Plan Participants including a Committee member, such Committee member will not
+participate in the Committee decision or action. The action of a majority of the
+disinterested Committee members constitutes the action of the Committee.
+
+
+
+
+
+
+
+
+
+    6.04
+     
+    Indemnification
+
+
+
+     
+
+     
+     
+    The Committee and all of the agents and representatives of the Committee shall be indemnified
+and saved harmless by the Company against any claims, and the expenses of defending against
+such claims, resulting from any action or conduct relating to the administration of the Plan,
+except claims judicially determined to be attributable to gross negligence or willful
+misconduct.
+
+
+
+     
+
+    6.05
+     
+    Agent for Process
+
+
+
+     
+
+     
+     
+    Apaches Vice President, General Counsel, and Secretary shall be the agents of the Plan for
+service of all process on the Plan.
+
+
+
+     
+
+    6.06
+     
+    Determination of Committee Final
+
+
+
+     
+
+     
+     
+    The decisions made by the Committee are final and conclusive on all persons.
+
+
+
+     
+
+    6.07
+     
+    No Bonding
+
+
+
+     
+
+     
+     
+    Neither the Committee nor any committee member is required to give any bond or other security
+in any jurisdiction in connection with the administration of the Plan, unless Apache
+determines otherwise or any applicable federal or state law so requires.
+
+
+
+
+
+ARTICLE VII
+TRUST
+
+
+
+
+
+
+
+    7.01
+     
+    Trust Agreement
+
+
+
+     
+
+     
+     
+    The Company may, but is not required to, adopt one or more Trust Agreements for the holding,
+investment, and administration of funds for Plan benefits. The Trustee may maintain and
+allocate assets to a separate account for each Participant under the Plan. The assets of any
+Trust remain subject to the claims of the Companys general creditors in the event of the
+Companys insolvency.
+
+
+
+     
+
+    7.02
+     
+    Expenses of Trust
+
+
+
+     
+
+     
+     
+    The parties expect that any Trust created pursuant to section 7.01 will be treated as a
+grantor trust for federal and state income tax purposes and that, as a consequence, the
+Company will recognize taxable income from the Trust assets, but the Trust itself will not
+separately be subject to income tax with respect to its income. However, if the Trust should
+be separately taxable, the Trustee will pay all such taxes out of the Trust. All expenses of
+administering any Trust, if not paid by the Company, will be a charge against and will be paid
+from the assets of the Trust.
+
+
+
+
+
+ARTICLE VIII
+AMENDMENT AND TERMINATION
+
+
+
+
+
+
+
+    8.01
+     
+    Termination of Plan
+
+
+
+     
+
+     
+     
+    Apache expects to continue the Plan indefinitely, but each Company may terminate its
+participation in the Plan at any time with Apaches permission, and Apache may terminate the
+entire Plan at any time.
+
+
+
+     
+
+    8.02
+     
+    Amendment
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    Before a Change of Control. Before a change of control, as defined in the
+Income Continuance Plan, Apache may amend the Plan at any time and from time to time,
+retroactively or otherwise, on behalf of
+
+
+
+
+Page 16 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+    all Companies, but no amendment may reduce any vested benefit that has accrued on the
+later of (a) the effective date of the amendment, or (b) the date the amendment is
+adopted.
+
+
+
+
+
+
+
+
+
+     
+    (b)
+     
+    After a Change of Control. The Plan may be amended after a change of
+control, as defined in the Income Continuance Plan, (i) at any time but only to the
+extent necessary to alleviate a material adverse tax consequence to one or more
+Participants, former Spouses, or Beneficiaries, and (ii) at any time after the second
+anniversary of such change of control, but only with respect to the benefits of
+Participants who are then employed by Apache, its successor, or any related entity.
+
+
+
+     
+
+     
+    (c)
+     
+    Procedure. Each amendment must be in writing. Each amendment must be
+approved by the board of directors of Apache or its successor, or by an officer of Apache
+or its successor who is authorized by its board of directors to amend the Plan. Each
+amendment must be executed by an officer of Apache or its successor who is authorized to
+execute the amendment.
+
+
+
+
+
+ARTICLE IX
+MISCELLANEOUS
+
+
+
+
+
+
+
+    9.01
+     
+    Funding of Benefits  No Fiduciary Relationship
+
+
+
+     
+
+     
+     
+    All benefits payable under the Plan will be paid either from the Trust or by the Company out
+of its general assets. Nothing contained in the Plan may be deemed to create any fiduciary
+relationship between the Company and the Participants. Notwithstanding anything herein to the
+contrary, to the extent that any person acquires a right to receive benefits under the Plan,
+such right will be no greater than the right of any unsecured general creditor of the Company,
+except to the extent provided in the Trust Agreement, if any.
+
+
+
+     
+
+    9.02
+     
+    Right to Terminate Employment
+
+
+
+     
+
+     
+     
+    The Company may terminate the employment of any Participant as freely and with the same effect
+as if the Plan were not in existence.
+
+
+
+     
+
+    9.03
+     
+    Inalienability of Benefits
+
+
+
+     
+
+     
+     
+    Except for disclaimers under section 5.05(d) and payments to a former Spouse pursuant to
+section 5.08, no Participant or Beneficiary has the right to assign, alienate, pledge,
+transfer, hypothecate, encumber, or anticipate his interest in any benefits under the Plan,
+nor are the benefits subject to garnishment by any creditor, nor may the benefits under the
+Plan be levied upon or attached. The preceding sentence does not apply to the enforcement
+of a federal tax levy made pursuant to Code §6331, the collection by the United States on a
+judgment resulting from an unpaid tax assessment, or any debt or obligation that is permitted
+to be collected from the Plan under federal law (such as the Federal Debt Collection
+Procedures Act of 1977).
+
+
+
+     
+
+    9.04
+     
+    Claims Procedure
+
+
+
+
+
+
+
+
+
+     
+    (a)
+     
+    General. Each claim for benefits will be processed in accordance with the
+procedures established by the Committee. The procedures will comply with the guidelines
+specified in this section. The Committee may delegate its duties under this section.
+
+
+
+     
+
+     
+    (b)
+     
+    Representatives. A claimant may appoint a representative to act on his
+behalf. The Plan will only recognize a representative if the Plan has received a written
+authorization signed by the claimant and on a form prescribed by the Committee, with the
+following exceptions. The Plan will recognize a claimants legal representative, once
+the Plan is provided with documentation of such representation. If the claimant is a
+minor child, the Plan will recognize the claimants parent or guardian as the claimants
+representative. Once an authorized representative is appointed, the Plan will direct all
+information and notification regarding the claim to the authorized representative and the
+claimant will be copied on all notifications regarding decisions, unless the claimant
+provides specific written direction otherwise.
+
+
+
+
+
+
+
+Page 17 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+    (c)
+     
+    Extension of Deadlines. The claimant may agree to an extension of any
+deadline that is mentioned in this section that applies to the Plan. The Committee or
+the relevant decision-maker may agree to an extension of any deadline that is mentioned
+in this section that applies to the claimant.
+
+
+
+     
+
+     
+    (d)
+     
+    Fees. The Plan may not charge any fees to a claimant for utilizing the
+claims process described in this section.
+
+
+
+     
+
+     
+    (e)
+     
+    Filing a Claim. A claim is made when the claimant files a claim in
+accordance with the procedures specified by the Committee. Any communication regarding
+benefits that is not made in accordance with the Plans procedures will not be treated as
+a claim.
+
+
+
+     
+
+     
+    (f)
+     
+    Initial Claims Decision. The Plan will decide a claim within a reasonable
+time up to 90 days after receiving the claim. The Plan will have a 90-day extension, but
+only if the Plan is unable to decide within 90 days for reasons beyond its control, the
+Plan notifies the claimant of the special circumstances requiring the need for the
+extension by the 90th day after receiving the claim, and the Plan notifies the claimant
+of the date by which the Plan expects to make a decision.
+
+
+
+     
+
+     
+    (g)
+     
+    Notification of Initial Decision. The Plan will provide the claimant with
+written notification of the Plans full or partial denial of a claim, reduction of a
+previously approved benefit, or termination of a benefit. The notification will include
+a statement of the reason(s) for the decision; references to the plan provision(s) on
+which the decision was based; a description of any additional material or information
+necessary to perfect the claim and why such information is needed; a description of the
+procedures and deadlines for appeal; a description of the right to obtain information
+about the appeal procedures; and a statement of the claimants right to sue.
+
+
+
+     
+
+     
+    (h)
+     
+    Appeal. The claimant may appeal any adverse or partially adverse decision.
+To appeal, the claimant must follow the procedures specified by the Committee. The
+appeal must be filed within 60 days of the date the claimant received notice of the
+initial decision. If the appeal is not timely and properly filed, the initial decision
+will be the final decision of the Plan. The claimant may submit documents, written
+comments, and other information in support of the appeal. The claimant will be given
+reasonable access at no charge to, and copies of, all documents, records, and other
+relevant information.
+
+
+
+     
+
+     
+    (i)
+     
+    Appellate Decision. The Plan will decide the appeal of a claim within a
+reasonable time of no more than 60 days from the date the Plan receives the claimants
+appeal. The 60-day deadline will be extended by an additional 60 days, but only if the
+Committee determines that special circumstances require an extension, the Plan notifies
+the claimant of the special circumstances requiring the need for the extension by the
+60th day after receiving the appeal, and the Plan notifies the claimant of the
+date by which the Plan expects to make a decision. If an appeal is missing any
+information from the claimant that is needed to decide the appeal, the Plan will notify
+the claimant of the missing information and grant the claimant a reasonable period to
+provide the missing information. If the missing information is not timely provided, the
+Plan will deny the claim. If the missing information is timely provided, the 60-day
+deadline (or 120-day deadline with the extension) for the Plan to make its decision will
+be increased by the length of time between the date the Plan requested the missing
+information and the date the Plan received it.
+
+
+
+     
+
+     
+    (j)
+     
+    Notification of Decision. The Plan will provide the claimant with written
+notification of the Plans appellate decision (positive or adverse). The notification of
+any adverse or partially adverse decision must include a statement of the reason(s) for
+the decision; reference to the plan provision(s) on which the decision was based; a
+description of the procedures and deadlines for a second appeal, if any; a description of
+the right to obtain information about the second-appeal procedures; a statement of the
+claimants right to sue; and a statement that the claimant is entitled to receive, free
+of charge and upon request, reasonable access to and copies of all documents, records,
+and other information relevant to the claim.
+
+
+
+
+
+
+
+Page 18 of 19
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+        (k)
+     
+    Limitations on Bringing Actions in Court. Once an appellate decision that
+is adverse or partially adverse to the claimant has been made, the claimant may file suit
+in court only if he does so by the earlier of the following dates: (i) the one-year
+anniversary of the date of an appellate decision made on or before a Change of Control or
+the three-year anniversary of the date of an appellate decision made after a Change of
+Control, or (ii) the date on which the statute of limitations for such claim expires.
+
+
+
+
+
+
+
+
+
+    9.05
+     
+    Disposition of Unclaimed Distributions
+
+
+
+     
+
+     
+     
+    It is the affirmative duty of each Participant to inform the Plan of, and to keep on file with
+the Plan, his current mailing address and the mailing address of any beneficiaries. If a
+Participant fails to inform the Plan of these current mailing addresses, neither the Plan nor
+the Company is responsible for any late payment of benefits or loss of benefits. The Plan,
+the Committee, and the Company have no duty to search for a missing individual until the date
+of a Change of Control, at which point the Company has the duty to undertake reasonable
+measures to search for the proper recipient of any payment under the Plan that is scheduled to
+be paid on or after the date of the Change of Control. If the missing individual is not found
+within a year after a payment should have been made to him, all his benefits will be
+forfeited. If the missing individual later is found, the exact amount forfeited will be
+restored to his Account as soon as administratively convenient, without any adjustment for
+forgone investment earnings or losses.
+
+
+
+     
+
+    9.06
+     
+    Distributions due Infants or Incompetents
+
+
+
+     
+
+     
+     
+    If any person entitled to a distribution under the Plan is an infant, or if the Committee
+determines that any such person is incompetent by reason of physical or mental disability,
+whether or not legally adjudicated an incompetent, the Committee has the power to cause the
+distributions becoming due to such person to be made to another for his benefit, without
+responsibility of the Committee to see to the application of such distributions.
+Distributions made pursuant to such power will operate as a complete discharge of the Company,
+the Trustee, the Plan, and the Committee.
+
+
+
+     
+
+    9.07
+     
+    Use and Form of Words
+
+
+
+     
+
+     
+     
+    When any words are used herein in the masculine gender, they are to be construed as though
+they were also used in the feminine gender in all cases where they would so apply, and vice
+versa. Whenever any words are used herein in the singular form, they are to be construed as
+though they were also used in the plural form in all cases where they would so apply, and vice
+versa.
+
+
+
+     
+
+    9.08
+     
+    Headings
+
+
+
+     
+
+     
+     
+    Headings of Articles and sections are inserted solely for convenience and reference, and
+constitute no part of the Plan.
+
+
+
+     
+
+    9.09
+     
+    Governing Law
+
+
+
+     
+
+     
+     
+    The Plan shall be construed in accordance with ERISA, the Code, and, to the extent applicable,
+the laws of the State of Texas excluding any conflicts-of-law provisions.
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    APACHE CORPORATION
+ 
+     
+
+     
+      
+    /s/ Margery M. Harris
+ 
+     
+
+     
+     
+    Margery M. Harris 
+     
+
+    
+     
+    Vice President, Human Resources 
+February 23, 2010  
+     
+
+
+     
+
+
+
+
+Page 19 of 19
+
+
+
+
+
+
+

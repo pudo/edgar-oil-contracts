@@ -1,0 +1,519 @@
+
+EX-10.27
+3
+brog_ex1027.htm
+SECOND AMENDMENT TO SECOND LIEN CREDIT AGREEMENT
+
+
+
+     
+
+
+
+EXHIBIT 10.27
+
+ 
+
+SECOND
+AMENDMENT TO SECOND LIEN CREDIT AGREEMENT
+
+ 
+
+This SECOND
+AMENDMENT TO SECOND LIEN CREDIT AGREEMENT (this “Amendment”), dated as of March 24, 2014, is by
+and among Black Ridge Oil & Gas, Inc., a Nevada corporation (“Borrower”), the several banks and other
+financial institutions or entities party to this Amendment (the “Lenders”) and CHAMBERS ENERGY MANAGEMENT,
+LP, as the agent (in such capacity, the “Agent”) under the Credit Agreement (as defined below).
+
+ 
+
+WHEREAS, Borrower, the Lenders and the
+Agent are parties to that certain Second Lien Credit Agreement, dated as of August 8, 2013 (as amended by that certain First Amendment
+to Second Lien Credit Agreement dated as of December 13, 2013, and as may be further amended, restated, amended and restated, supplemented
+or otherwise modified from time to time, the “Credit Agreement”);
+
+ 
+
+WHEREAS, Borrower has requested that
+the Lenders agree to make certain amendments to the Credit Agreement in accordance with Section 9.1 thereof;
+
+ 
+
+WHEREAS, on the terms and subject to
+the conditions contained herein, the Lenders are willing to make certain amendments to the Credit Agreement;
+
+ 
+
+NOW, THEREFORE, in consideration of the
+foregoing recitals, the mutual covenants and agreements set forth herein and other good and valuable consideration, the receipt
+and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+ 
+
+1.          Defined Terms.
+
+ 
+
+(a)          Capitalized terms used but not defined in this Amendment shall have the meanings ascribed to such terms in the Credit Agreement.
+The principles of interpretation set forth in Section 1.2 of the Credit Agreement shall apply to the provisions of this Amendment.
+
+ 
+
+(b)          Each reference to “hereof’, “hereunder”, “herein” and “hereby” and each
+other similar reference contained in the Credit Agreement, each reference to “this Agreement” or “the Credit
+Agreement” and each other similar reference contained in the Agreement or any other Loan Document and each reference contained
+in this Amendment to the “Credit Agreement” shall on and after the Second Amendment Effective Date (as defined below)
+refer to the Credit Agreement as amended by this Amendment. Any notices, requests, certificates and other instruments executed
+and delivered on or after the Second Amendment Effective Date may refer to the Credit Agreement without making specific reference
+to this Amendment but nevertheless all such references shall mean the Credit Agreement as amended by this Amendment unless the
+context otherwise requires.
+
+ 
+
+2.          Amendments to Credit Agreement. In reliance on the representations and warranties set forth in Section 3 below and
+subject to the satisfaction of the conditions set forth in Section 4 below, the parties hereby agree to the following amendments:
+
+ 
+
+(a)          Section 1.1 of the Credit Agreement is hereby amended by inserting therein the following new definition in its proper alphabetical
+place:
+
+ 
+
+"In Process Well Costs: the cash funded
+by Borrower pursuant to an authority for expenditure for the drilling and completion of a given well for which the Proved Reserves
+attributable to such well have yet to be included as Proved Developed Producing Reserves in a Reserve Report delivered to Agent
+pursuant to this Agreement."
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+(b)          Section 1.1 of the Credit Agreement is hereby amended by amending and restating the following defined term in its entirety:
+
+ 
+
+"Collateral Coverage Ratio: as of
+any date of determination, the ratio of (a) the sum of (i) Reserve Value plus (ii) Consolidated Working Capital plus
+(iii) In Process Well Costs to (b) Adjusted Total Indebtedness."
+
+ 
+
+"Reserve Value:  the PV 10 Value of
+the Oil and Gas Properties of the Loan Parties, as set forth in the Reserve Reports delivered pursuant hereto and adjusted at the
+date of determination for production, Asset Sales, new discoveries of Hydrocarbons, revisions and extensions and purchases of Hydrocarbon
+Interests occurring since the date of the most recent Reserve Report previously delivered pursuant hereto. For purposes of this
+calculation, (i) the present value, discounted at 10.0%, of Proved Developed Producing Reserves shall be multiplied by 95.0% (the
+“PDP Reserve Value”); (ii) the present value, discounted at 10.0%, of Proved Developed Non-Producing
+Reserves shall be multiplied by 75.0%; and (iii) the present value of Proved Undeveloped Reserves shall be zero."
+
+ 
+
+(c)          Paragraph (a) of Section 6.1 is hereby amended and restated in its entirety as follows:
+
+ 
+
+"(a)     Collateral Coverage Ratio. Permit the
+Collateral Coverage Ratio at the last day of any fiscal quarter of Borrower specified below to be less than the corresponding
+ratio set forth below:
+
+ 
+
+
+
+    Period
+    Minimum Collateral Coverage Ratio
+
+    December 31, 2013 through June 30, 2014
+    0.65 : 1.00
+
+    September 30, 2014 through December 31, 2014 
+    0.70 : 1.00
+
+    March 31, 2015 and thereafter
+    0.80 : 1.00
+
+ 
+
+(d)           
+Paragraph (b) of Section 6.1 is hereby amended and restated in its entirety as follows:
+
+“(b)     Consolidated Net Leverage Ratio. Permit
+the Consolidated Net Leverage Ratio as at the last day of any fiscal quarter of Borrower specified below to exceed the corresponding
+ratio set forth below:
+
+
+
+    Period
+    Maximum Consolidated Net Leverage Ratio
+
+    September 30, 2013 through December 31, 2013
+    3.50 : 1.00
+
+    March 31, 2014
+    3.75 : 1.00
+
+    June 30, 2014 and September 30, 2014
+    4.25 : 1.00
+
+    December 31, 2014
+    4.00 : 1.00
+
+    March 31, 2015 and thereafter
+    3.50 : 1.00
+
+ 
+
+provided that for the purposes of determining
+the Consolidated Net Leverage Ratio, (i) Consolidated EBITDA for the period ending September 30, 2013 shall be deemed to equal
+Consolidated EBITDA for the fiscal quarter ending September 30, 2013 multiplied by 4, (ii) Consolidated EBITDA for the period
+ending December 31, 2013 shall be deemed to equal Consolidated EBITDA for the fiscal quarters ending September 30, 2013 and December
+31, 2013 multiplied by 2, and (iii) Consolidated EBITDA for the period ending March 31, 2014 shall be deemed to equal Consolidated
+EBITDA for the fiscal quarters ending September 30, 2013, December 31, 2013 and March 31, 2014 multiplied by 4/3.”
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+3.          Representations and Warranties of Borrower. The Borrower represents and warrants as of the date hereof and on the
+Second Amendment Effective Date to the Agent and each Lender that:
+
+ 
+
+(a)            
+Borrower (i) has the power and authority, and the legal right, to make, deliver and perform this Amendment and (ii) has
+taken all necessary corporate or other action to authorize the execution, delivery and performance of this Amendment;
+
+ 
+
+(b)           
+No consent or authorization of, filing with, notice to or other act by or in respect of, any Governmental Authority or any
+other Person is required to be obtained by Borrower in connection with the execution, delivery, performance, validity or enforceability
+of this Amendment;
+
+ 
+
+(c)            
+This Amendment (i) has been duly executed and delivered on behalf of Borrower and (ii) constitutes a legal, valid and binding
+obligation of Borrower, enforceable against Borrower in accordance with its terms, except as enforceability may be limited by applicable
+bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights generally
+and by general equitable principles (whether enforcement is sought by proceedings in equity or at law);
+
+ 
+
+(d)           
+The execution, delivery and performance of this Amendment will not result in a violation by Borrower of any Requirement
+of Law or any Contractual Obligation of Borrower and will not result in, or require, the creation or imposition of any Lien on
+any of its Properties or revenues pursuant to any Requirement of Law or any such Contractual Obligation;
+
+ 
+
+(e)            
+After giving effect to the amendments set forth herein, the representations and warranties made by any Loan Party in or
+pursuant to the Loan Documents are true and accurate as of the date hereof with the same force and effect as if such had been made
+on and as of the date hereof;
+
+ 
+
+(f)            
+Borrower is in compliance in all material respects with all terms and provisions set forth in the Loan Documents to which
+it is a party; and
+
+ 
+
+(g)           
+No Default or Event of Default has occurred and is continuing.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+4.          Conditions Precedent. The effectiveness of this Amendment is subject to the satisfaction of the following conditions
+precedent (the date of satisfaction of such conditions precedent, the “Second Amendment Effective Date”):
+
+ 
+
+(a)            
+The Agent shall have received this Amendment duly executed and delivered by a Responsible Officer of Borrower;
+
+ 
+
+(b)              
+Borrower shall have paid, or caused to be paid, each of the outstanding invoices of Latham & Watkins, LLP, counsel for
+the Agent;
+
+ 
+
+(c)               
+The representations and warranties set forth in Section 3 of this amendment are true and correct; and
+
+ 
+
+(d)              
+Borrower shall have executed and delivered, or shall have caused to be executed and delivered, such other items as the Agent
+may reasonably request, each of which shall be in form and substance reasonably satisfactory to the Agent.
+
+ 
+
+5.          Loan Documents. This Amendment shall constitute a Loan Document, as such term is defined in the Credit Agreement.
+This Amendment is not intended to nor shall it be construed to create a novation or accord and satisfaction with respect to any
+of the Obligations.
+
+ 
+
+6.          Severability. Any provision of this Amendment that is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions
+hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision
+in any other jurisdiction.
+
+ 
+
+7.          Integration. This Amendment and the other Loan Documents represent the entire agreement of the Loan Parties, the
+Agent and the Lenders with respect to the subject matter hereof and thereof, and there are no promises, undertakings, representations
+or warranties by the Agent or any Lender relative to subject matter hereof not expressly set forth or referred to herein or in
+the other Loan Documents.
+
+ 
+
+8.          GOVERNING LAW. THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AMENDMENT SHALL BE
+GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+
+ 
+
+9.          Survival. The representations and warranties contained in Section 3 of this Amendment shall survive the execution
+and delivery of this Amendment and the Second Amendment Effective Date.
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+10.         Ratification; No Waiver; No Other Amendments. Except as expressly modified hereby, the Credit Agreement and each
+other Loan Document are each hereby ratified and confirmed by the parties hereto and remain in full force and effect in accordance
+with the respective terms thereof. Other than as otherwise expressly provided herein, this Amendment shall not be deemed to operate
+as an amendment or waiver of, or to prejudice, any right, power, privilege or remedy of any Lender, the Agent or any other Indemnitee
+under the Credit Agreement or any of the other Loan Documents, nor shall the entering into of this Amendment preclude any such
+Person from refusing to enter into any further amendments with respect to the Credit Agreement or any of the other Loan Documents.
+Other than as to otherwise expressly provided herein, this Amendment shall not constitute a waiver of compliance with any covenant
+or other provision in the Agreement or any other Loan Document or of the occurrence or continuance of any present or future Default
+or Event of Default.
+
+ 
+
+11.         Costs; Expenses. Subject to and in accordance with Section 9.5 of the Credit Agreement, regardless of whether the
+transactions contemplated by this Amendment are consummated, Borrower agrees to pay on demand all reasonable out-of-pocket costs
+and expenses of the Agent and each Lender incurred in connection with the development, preparation, execution and delivery of this
+Amendment, including the reasonable fees and disbursements and other charges of counsel and consultants to the Agent.
+
+ 
+
+12.         Headings. The section headings contained in this Amendment are inserted for convenience only and will not affect
+in any way the meaning or interpretation of this Amendment.
+
+ 
+
+13.         Amendments. This Amendment may not be amended or modified except in the manner specified for an amendment of or modification
+to the Credit Agreement in Section 9.1 of the Credit Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature Pages to Follow]
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment
+to be duly executed under seal and delivered by their respective duly authorized officers on the date first written above.
+
+ 
+
+BLACK RIDGE OIL & GAS, INC.,
+
+as Borrower
+
+ 
+
+By: /s/ Kenneth
+DeCubellis         Name: Kenneth DeCubellis         Title: Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Signature Page to Second Amendment to
+Second Lien Credit Agreement
+
+
+
+
+    6
+     
+    
+
+ 
+
+CHAMBERS ENERGY MANAGEMENT, LP,
+as the Agent
+
+ 
+
+By: /s/
+J. Robert Chambers         Name:	J. Robert
+Chambers         Title:	President & Chief Executive Officer
+
+ 
+
+ 
+
+CHAMBERS ENERGY CAPITAL II, LP,
+as a Lender
+
+ 
+
+ By: CEC Fund II GP, LLC, its general partner
+
+
+
+ 
+
+ 
+
+By: /s/ J.
+Robert Chambers
+
+        Name:	J. Robert
+Chambers
+
+        Title:	Managing Director
+
+ 
+
+ 
+
+CHAMBERS ENERGY CAPITAL II TE, LP,
+as a Lender
+
+ 
+
+ By: CEC Fund II GP, LLC, its general partner
+
+
+
+ 
+
+ 
+
+By: /s/ J.
+Robert Chambers
+
+        Name:
+J. Robert Chambers
+
+        Title:
+Managing Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature Page to Second Amendment to
+Second Lien Credit Agreement
+
+ 
+
+
+
+
+    7
+    
+
+ 
+
+
+
+

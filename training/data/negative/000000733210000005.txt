@@ -1,0 +1,486 @@
+
+EX-10
+5
+exhibit1022.htm
+GUARANTY BETWEEN SWN AND FEP
+
+
+EXHIBIT 10.22
+
+
+
+
+ EXHIBIT 10.22
+
+GUARANTY
+THIS GUARANTY (this Guaranty), is made and entered into as of
+September 30, 2008, by SOUTHWESTERN ENERGY COMPANY, a Delaware corporation
+(Guarantor), in favor of FAYETTEVILLE EXPRESS PIPELINE LLC, a Delaware limited
+liability company (Fayetteville).  (Except as otherwise defined herein,
+capitalized terms used herein and defined in the PA (as defined below) shall be
+used herein as therein defined.)
+W I T N E S S E T H :
+WHEREAS, Southwestern Energy Services Company, an Arkansas
+corporation (including its permitted affiliated assigns under Section 12 of the
+PA (as hereinafter defined), Foundation Shipper) is an indirect wholly-owned
+subsidiary of Guarantor; and Guarantor wishes Foundation Shipper to enter into
+the Precedent Agreement, dated as of September 30, 2008 (as it may from time to
+time be modified, supplemented, or amended, the PA)and the FTS Agreement
+described in Section 2 of the PA, to be entered into by Foundation Shipper and
+Fayetteville (as it may from time to time be modified or extended, the FTS
+Agreement);
+WHEREAS, pursuant to the PA, Foundation Shipper has certain
+obligations to Fayetteville upon the terms and conditions set forth in the PA
+and will incur certain additional obligations to Fayetteville under the FTS
+Agreement (all such obligations, including the obligations of Foundation Shipper
+to pay amounts due under the FTS Agreement, being referred to collectively as
+the Guaranteed Obligations); 
+WHEREAS, Fayetteville is willing to enter into the PA with
+Foundation Shipper on the condition that it receive certain assurances regarding
+the payment of the Guaranteed Obligations, and Guarantor is willing to provide
+such assurances in accordance with the terms and conditions of this Guaranty;
+and  
+WHEREAS, Guarantor acknowledges that, as the parent of Foundation
+Shipper, it will be considerably benefited by the execution and delivery of the
+PA.
+NOW, THEREFORE, in consideration of the premises and the mutual
+covenants contained herein and other good and valuable consideration, the
+adequacy and receipt of which are hereby acknowledged, Guarantor hereby agrees
+as follows: 
+1.
+Guarantor absolutely, irrevocably and unconditionally guarantees
+to Fayetteville payment when due by Foundation Shipper of the Guaranteed
+Obligations as follows:
+(a)
+(i) from the date hereof and until Fayettevilles filing of the
+Certificate Application with FERC, and (ii) during any period in which
+Foundation Shipper meets the creditworthiness requirements set forth in Section
+5.3(a) of the PA, the amount of the Guaranteed Obligations guaranteed by
+Guarantor hereunder shall be zero (0) (the Tier I Cap);
+
+
+
+(b)
+upon Fayettevilles filing of the Certificate Application with
+FERC and until Fayetteville shall have accepted a certificate of public
+convenience and necessity issued by FERC pursuant to section 7(c) of the Natural
+Gas Act which authorizes the construction of the Pipeline (the FERC
+Authorization), Guarantor guarantees full and prompt payment of the Guaranteed
+Obligations up to an amount not to exceed the product of (x) nine (9) months,
+(y) Foundation Shippers contract maximum daily quantity under the FTS Agreement
+and any firm transportation agreement entered into pursuant to Section 2.5 of
+the PA (collectively, and as in effect from time to time after taking into
+account the increases or decreases contemplated herein, the MDQ), and (z) as
+applicable to each portion of the MDQ, the monthly rates stated in Section
+2.1(c) of the PA or any Favored Nations Rate in effect pursuant to Section 2.6
+(such product being, the Tier II Cap); and 
+(c)
+upon Fayettevilles acceptance of the FERC Authorization, and
+subject to an earlier termination of the PA, Guarantor guarantees full and
+prompt payment of the Guaranteed Obligations up to an amount not to exceed the
+lesser of (x) (i) in the case of the Primary Term, the product of (A) thirty
+(30) months, (B) the MDQ and (C) as applicable to each portion of the MDQ, the
+monthly rates stated in Section 2.1(c) of the PA or any Favored Nations Rate in
+effect pursuant to Section 2.6 or, (ii) in the case of any extended term, the
+product of (A) thirty (30) months, (B) the MDQ and (C) as applicable to each
+portion of the MDQ, the monthly rates stated in Section 2.1(c) of the PA or any
+Favored Nations Rate in effect pursuant to Section 2.6 or the rate established
+pursuant to Section 2.7 and (y) the total reservation charges for the MDQ for
+the remainder of the Primary Term or any extended term, as the case may be (such
+product being the Tier III Cap).  The Tier I Cap, the Tier II Cap and the
+Tier III Cap are each referred to herein as a Guaranty Cap.  
+With respect to the increases in amount of the Guaranteed
+Obligations guaranteed by Guarantor hereunder triggered by the filing of the
+Certificate Application and the acceptance of the FERC Authorization, such
+increases shall become effective five (5) days after receipt by Foundation
+Shipper of notice from Fayetteville that Fayetteville has filed its Certificate
+Application with FERC or that Fayetteville has received and accepted FERC
+Authorization, whichever is applicable.  Thereafter, in the case of an
+increase of the MDQ under Section 2.5 of the PA or a reduction of the MDQ as a
+result of a Rollover Right under Section 2.7 of the PA, adjustments in the
+amount of the Guaranteed Obligations guaranteed by Guarantor hereunder shall
+become effective upon the execution and delivery of the documentation required
+under the PA, or in the case of a permanent release or assignment of capacity,
+the PA and the Tariff, as applicable. As of the date hereof, the MDQ under this
+Guaranty is 1,200,000 Dth/d.  With respect to any permanent release or
+assignment by Foundation Shipper of all or a portion of the MDQ either prior to
+or after the Effective Date pursuant to the PA or the Tariff, as applicable (
+Permanently Released Capacity) other than to a permitted affiliate assign of
+Foundation Shipper, the MDQ set forth in clauses (b)(y),  (c)(x)(i)(B) and
+(c)(x)(ii)(B) above shall be reduced by the amount permanently released or
+assigned and the amount of the Guaranteed Obligations hereunder shall be
+proportionately permanently reduced and this Guaranty shall 
+2
+
+
+
+terminate and be of no more force and effect with respect to
+Permanently Released Capacity.
+2.
+This Guaranty shall constitute a guaranty of payment, and not of
+collection.  The liability of Guarantor hereunder is exclusive and
+independent of any security for or other guaranty of the payment by Foundation
+Shipper of the Guaranteed Obligations, whether executed by Guarantor, any other
+guarantor or any other party.  This Guaranty shall terminate and be of no
+more force and effect upon the earlier to occur of (i) the date upon which
+either Foundation Shipper or Fayetteville exercises its respective termination
+rights under the PA; or (ii) the date upon which Foundation Shipper no longer
+has any of the MDQ in effect (the MDQ Termination Date).  Upon the
+effectiveness of such termination, Guarantor shall have no further liability
+except that termination of the Guaranty shall not affect the validity or
+enforceability of the Guaranty with respect to any Guaranteed Obligations
+incurred or arising prior to termination of the Guaranty.
+3.
+The obligations of Guarantor hereunder are independent of the
+obligations of any other guarantor and a separate action or actions may be
+brought and prosecuted against Guarantor whether or not action is brought
+against any other guarantor and whether or not any other guarantor be joined in
+any such action or actions.  If Foundation Shipper waives, to the fullest
+extent permitted by law, the benefit of any statute of limitations affecting its
+liability under the PA, Guarantor likewise waives, to the fullest extent
+permitted by law, the benefit of any statute of limitations affecting its
+liability hereunder or the enforcement thereof.  Any payment by Foundation
+Shipper or other circumstance which operates to toll any statute of limitations
+as to Foundation Shipper shall operate to toll the statute of limitations as to
+Guarantor.
+4.
+Guarantor hereby waives notice of acceptance of this Guaranty and
+notice of any liability to which it may apply, and waives promptness, diligence,
+presentment, demand of payment, protest, notice of dishonor or nonpayment of any
+such liabilities, suit or taking of other action by Fayetteville against, and
+any other notice to, any party liable thereon (including Guarantor or any other
+guarantor).
+5.
+Fayetteville, to the extent agreed to by Foundation Shipper or
+otherwise allowed by the PA, may at any time and from time to time without the
+consent of, or notice to, Guarantor, without incurring responsibility to
+Guarantor, and without impairing or releasing the obligations of Guarantor
+hereunder, upon or without any terms or conditions and in whole or in part,
+subject to the applicable Guaranty Cap:
+(a)
+make any change, amendment, or modification in the terms of any of
+the Guaranteed Obligations, and the guaranty herein made shall apply to the
+Guaranteed Obligations as so changed, amended or modified;
+(b)
+take and hold security for the payment of the Guaranteed
+Obligations and sell, exchange, release, surrender, impair, realize upon or
+otherwise deal with in any manner and in any order any property by whomsoever at
+any time 
+3
+
+
+
+pledged or mortgaged to secure, or howsoever securing, the
+Guaranteed Obligations or any liabilities (including any of those hereunder)
+incurred directly or indirectly in respect thereof or hereof, and/or any offset
+there against, and/or release any Person liable for all or any portion of the
+Guaranteed Obligations;
+(c)
+act or fail to act in any manner referred to in this Guaranty
+which may deprive Guarantor of its right to subrogation against Foundation
+Shipper to recover full indemnity for any payments made pursuant to this
+Guaranty; and/or
+(d)
+take any other action which would, under otherwise applicable
+principles of common law, give rise to a legal or equitable discharge of
+Guarantor from it liabilities under this Guaranty. 
+6.
+No invalidity, irregularity or unenforceability of all or any part
+of the Guaranteed Obligations or of any security therefor shall affect, impair
+or be a defense to this Guaranty, and this Guaranty shall be primary, absolute,
+irrevocable and unconditional notwithstanding the occurrence of any event or the
+existence of any other circumstances which might constitute a legal or equitable
+discharge of a surety or guarantor except indefeasible payment of an amount
+equal to the applicable Guaranty Cap.
+7.
+This Guaranty is a continuing one and all liabilities to which it
+applies or may apply under the terms hereof shall be conclusively presumed to
+have been created in reliance hereon.  No failure or delay on the part of
+Fayetteville in exercising any right, power or privilege hereunder shall operate
+as a waiver thereof; nor shall any single or partial exercise of any right,
+power or privilege hereunder preclude any other or further exercise thereof or
+the exercise of any other right, power or privilege.  The rights and
+remedies herein expressly specified are cumulative and not exclusive of any
+rights or remedies which Fayetteville would otherwise have.  No notice to
+or demand on Guarantor in any case shall entitle Guarantor to any other or
+further notice or demand in similar or other circumstances or constitute a
+waiver of the rights of Fayetteville to any other or further action in any
+circumstances without notice or demand.  It is not necessary for
+Fayetteville to inquire into the capacity or powers of Foundation Shipper or the
+officers, directors, partners or agents acting or purporting to act on its
+behalf.
+8.
+Guarantor hereby agrees with Fayetteville that it will not
+exercise any right of subrogation which it may at any time otherwise have as a
+result of this Guaranty (whether contractual, under Section 509 of the
+Bankruptcy Code or otherwise) until all Guaranteed Obligations have been
+indefeasibly paid in full (it being understood that Guarantor is not waiving any
+right of subrogation that it may otherwise have but is only waiving the exercise
+thereof as provided above).
+9.
+(a)
+Guarantor waives any right (except as shall be required by
+applicable statute and cannot be waived) to require Fayetteville to:  (i)
+proceed against Foundation Shipper, any other guarantor of the Guaranteed
+Obligations or any other party; (ii) proceed against or exhaust any security
+held from Foundation Shipper, any other guarantor of 
+4
+
+
+
+the Guaranteed Obligations or any other party; or (iii) pursue any
+other remedy in Fayettevilles power whatsoever.  Guarantor waives any
+defense based on or arising out of any defense of Foundation Shipper, Guarantor,
+any other guarantor of the Guaranteed Obligations or any other party other than
+indefeasible payment of an amount equal to the applicable Guaranty Cap,
+including, without limitation, any defense based on or arising out of the
+disability of Foundation Shipper, Guarantor, any other guarantor of the
+Guaranteed Obligations or any other party, or the unenforceability of the
+Guaranteed Obligations or any part thereof from any cause, or the cessation from
+any cause of the liability of Foundation Shipper other than indefeasible payment
+of an amount equal to the applicable Guaranty Cap.  
+(b)
+Guarantor waives all presentments, demands for performance,
+protests and notices, including, without limitation, notices of nonperformance,
+notices of protest, notices of dishonor, notices of acceptance of this Guaranty,
+and notices of the existence, creation or incurring of new or additional
+indebtedness.  Guarantor assumes all responsibility for being and keeping
+itself informed of Foundation Shippers financial condition and assets, and of
+all other circumstances bearing upon the risk of nonpayment of the Guaranteed
+Obligations and the nature, scope and extent of the risks which Guarantor
+assumes and incurs hereunder, and agrees that Fayetteville shall have no duty to
+advise Guarantor of information known to it regarding such circumstances or
+risks.
+10.
+In order to induce Fayetteville to enter into the PA, Guarantor
+represents, warrants and covenants that: 
+(a)
+Status.  Guarantor (i) is a duly organized and validly
+existing corporation, in good standing under the laws of the jurisdiction of its
+organization, (ii) has the corporate power and authority to own or lease its
+property and assets and to transact the business in which it is engaged and
+presently proposes to engage and (iii) is duly qualified and is authorized to do
+business and is in good standing in each jurisdiction where the conduct of its
+business requires such qualification, except for failures to be so qualified
+which, individually or in the aggregate, could not reasonably be expected to
+have a material adverse effect on the results of operations or financial
+condition of Guarantor and its subsidiaries, taken as a whole.
+(b)
+Power and Authority.  Guarantor has the corporate
+power and authority to execute, deliver and perform the terms and provisions of
+this Guaranty and has taken all necessary corporate action to authorize the
+execution, delivery and performance by it of this Guaranty.  Guarantor has
+duly executed and delivered this Guaranty and this Guaranty constitutes the
+legal, valid and binding obligation of Guarantor enforceable in accordance with
+its terms, except to the extent that the enforceability hereof and thereof may
+be limited by applicable bankruptcy, insolvency, fraudulent conveyance,
+reorganization, moratorium or other similar laws affecting creditors rights
+generally and by equitable principles (regardless of whether enforcement is
+sought in equity or at law).
+5
+
+
+
+(c)
+No Violation.  Neither the execution, delivery or
+performance by Guarantor of this Guaranty, nor compliance by it with the terms
+and provisions hereof and thereof (i) will contravene any applicable provision
+of any law, statute, rule or regulation, or any order, writ, injunction or
+decree of any court or governmental instrumentality, (ii) will conflict or be
+inconsistent with or result in any breach of any of the terms, covenants,
+conditions or provisions of, or constitute a default under, or result in the
+creation or imposition of (or the obligation to create or impose) any lien upon
+any of the property or assets of Guarantor or any of its subsidiaries pursuant
+to the terms of, any indenture, mortgage, deed of trust, credit agreement or
+loan agreement or any other material agreement, contract or instrument to which
+Guarantor or any of its subsidiaries is a party or by which it or any of its
+property or assets is bound or to which it may be subject, or (iii) will violate
+any provision of the certificate of incorporation, certificate of partnership,
+partnership agreement, limited liability company agreement, by-laws or similar
+documents, instruments or certificates (including amendments thereto) executed,
+adopted or filed in connection with the creation, formation or organization of
+Guarantor or any of its subsidiaries. 
+(d)
+Governmental Approvals.  No order, consent, approval,
+license, authorization or validation of, or filing, recording or registration
+with (except as have been obtained or made), or exemption by, any governmental
+or public body or authority, or any subdivision thereof, is required to
+authorize, or is required in connection with, (i) the execution, delivery and
+performance of this Guaranty or (ii) the legality, validity, binding effect or
+enforceability of this Guaranty.
+(e)
+Litigation.  There are no actions, suits or
+proceedings pending or, to the best knowledge of Guarantor, threatened (i) which
+purport to affect the legality, validity or enforceability of this Guaranty or
+(ii) that could reasonably be expected to have a material adverse effect on the
+results of operations or financial condition of Guarantor and its subsidiaries,
+taken as a whole. 
+11.
+Guarantor covenants and agrees that on and after the date hereof
+and until the Effective Date, Guarantor shall take, or will refrain from taking,
+as the case may be, all material actions that are necessary to be taken or not
+taken so that Foundation Shipper will be in material compliance with any
+provision, covenant or agreement of Foundation Shipper contained in the PA.
+12.
+Subject to the applicable Guaranty Cap, Guarantor hereby agrees to
+pay all out-of-pocket costs and expenses of Fayetteville in connection with the
+enforcement of this Guaranty (including reasonable legal fees and expenses) and
+the out-of-pocket costs and expenses of Fayetteville in connection with any
+amendment, waiver or consent relating hereto (including reasonable legal fees
+and expenses).
+13.
+This Guaranty shall be binding upon Guarantor and its successors
+and assigns and shall inure to the benefit of Fayetteville and its successors
+and assigns. Guarantor may not assign or transfer any of its rights or
+obligations hereunder without the prior written consent of Fayetteville (and any
+such attempted assignment or transfer without such consent shall be null and
+void).
+6
+
+
+
+14.
+Except as otherwise provided herein, neither this Guaranty nor any
+provision hereof may be changed, waived, discharged or terminated except with
+the written consent of Guarantor and Fayetteville.
+15.
+Guarantor acknowledges that an executed (or conformed) copy of the
+PA has been made available to Guarantor and Guarantor is familiar with the
+contents thereof.
+16.
+All notices, requests, demands and other communications hereunder
+will be in writing and will be deemed to have been duly given when (i) delivered
+by hand (with written acknowledgment of receipt), (ii) sent by facsimile
+transmission (with receipt confirmed by an electronically generated written
+confirmation), or (iii) received by the addressee, if sent by a nationally
+recognized delivery service or other traceable method, in each case to the
+appropriate addresses and facsimile numbers set forth below (or to such other
+addresses and facsimile numbers as a party may designate by notice to the
+others):
+If to Guarantor, to:  
+Southwestern Energy Company
+2350 North Sam Houston Parkway East, Suite 125
+Houston TX  77032
+Facsimile:
+ 281-618-4820
+Attention:
+ General Counsel
+ 
+If to Fayetteville, to:
+
+Fayetteville Express Pipeline LLC
+500 Dallas St., Suite 1000
+Houston, Texas  77002
+Facsimile:  713-369-9235
+Attention: General Counsel of Gas Pipelines 
+ 
+ 
+17.
+If a claim is ever made against Fayetteville for repayment or
+recovery of any amount or amounts received in payment or on account of any of
+the Guaranteed Obligations and Fayetteville repays all or part of said amount by
+reason of (i) any judgment, decree or order of any court or administrative body
+having jurisdiction over Fayetteville or any of its property or (ii) any
+settlement or compromise of any such claim effected by Fayetteville with any
+such claimant (including Foundation Shipper), then, subject to the applicable
+Guaranty Cap, in such event Guarantor agrees that any such judgment, decree,
+order, settlement or compromise shall be binding upon Guarantor, notwithstanding
+any revocation hereof or other instrument evidencing any liability of Foundation
+Shipper, and Guarantor shall be and remain liable to Fayetteville hereunder for
+the amount so repaid or recovered to the same extent as if such amount had never
+originally been received by Fayetteville.
+18.
+(a)  This Guaranty shall be binding upon the successors and
+assigns of Guarantor (although Guarantor may not assign its rights and
+obligations hereunder except in accordance with Section 13 hereof) and shall
+inure to the benefit of and be enforceable by Fayetteville and its respective
+successors and assigns.  THIS 
+7
+
+
+
+GUARANTY AND THE RIGHTS AND OBLIGATIONS OF FAYETTEVILLE AND OF
+GUARANTOR HEREUNDER SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE
+LAW OF THE STATE OF TEXAS.  Any legal action or proceeding with respect
+to this Guaranty may be brought in the courts of the State of Texas or of the
+United States of America for the Southern District of Texas, in each case which
+are located in Houston, and, by execution and delivery of this Guaranty,
+Guarantor hereby irrevocably accepts for itself and in respect of its property,
+generally and unconditionally, the jurisdiction of the aforesaid courts.
+ Guarantor hereby further irrevocably waives any claim that any such courts
+lack jurisdiction over Guarantor, and agrees not to plead or claim in any legal
+action or proceeding with respect to this Guaranty brought in any of the
+aforesaid courts that any such court lacks jurisdiction over Guarantor.
+ Guarantor further irrevocably consents to the service of process out of
+any of the aforementioned courts in any such action or proceeding by the mailing
+of copies thereof by registered or certified mail, postage prepaid, to Guarantor
+at its address set forth above, such service to become effective 30 days after
+such mailing.  Guarantor hereby irrevocably waives any objection to such
+service of process and further irrevocably waives and agrees not to plead or
+claim in any action or proceeding commenced hereunder that service of process
+was in any way invalid or ineffective.  Nothing herein shall affect the
+right of Fayetteville to serve process in any other manner permitted by law or
+to commence legal proceedings or otherwise proceed against Guarantor in any
+other jurisdiction.
+(b)
+Guarantor hereby irrevocably waives any objection which it may now
+or hereafter have to the laying of venue of any of the aforesaid actions or
+proceedings arising out of or in connection with this Guaranty brought in the
+courts referred to in clause (a) above and hereby further irrevocably waives and
+agrees not to plead or claim in any such court that such action or proceeding
+brought in any such court has been brought in an inconvenient forum.
+(c)
+WAIVER OF TRIAL BY JURY.  EACH OF GUARANTOR AND
+FAYETTEVILLE (BY ITS ACCEPTANCE OF THE BENEFITS OF THIS GUARANTY) HEREBY
+IRREVOCABLY WAIVES ALL RIGHTS TO A TRIAL BY JURY IN ANY ACTION, PROCEEDING OR
+COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS GUARANTY OR THE TRANSACTIONS
+CONTEMPLATED HEREBY OR THEREBY.
+19.
+Guarantor hereby confirms that it is its intention that this
+Guaranty not constitute a fraudulent transfer or conveyance for purposes of any
+bankruptcy, insolvency or similar law, the Uniform Fraudulent Conveyance Act or
+any similar Federal, state or foreign law.  To effectuate the foregoing
+intention, if enforcement of the liability of Guarantor under this Guaranty for
+an amount equal to the applicable Guaranty Cap would be an unlawful or voidable
+transfer under any applicable fraudulent conveyance or fraudulent transfer law
+or any comparable law, then the liability of Guarantor hereunder shall be
+reduced to the maximum amount for which such liability may then be enforced
+without giving rise to an unlawful or voidable transfer under any such law.
+8
+
+
+
+20.
+All payments made by Guarantor hereunder will be made without
+setoff, counterclaim or other defense.
+21.
+Any provision of this Guaranty held to be invalid, illegal or
+unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective
+to the extent of such invalidity, illegality or unenforceability without
+affecting the validity, legality and enforceability of the remaining provisions
+hereof; and the invalidity of a particular provision in a particular
+jurisdiction shall not invalidate such provision in any other
+jurisdiction.
+22.
+This Guaranty reflects the whole and entire agreement of the
+parties and, with the exception of the PA, supersedes all prior agreements
+related to the subject matter hereof.
+*    *    *
+IN WITNESS WHEREOF, Guarantor has caused this Guaranty to be
+executed and delivered as of the date first above written.
+
+GUARANTOR:
+SOUTHWESTERN ENERGY COMPANY
+
+
+By:____/s/ GREG D. KERLEY__________
+Name:
+Greg D. Kerley
+Title:
+Executive Vice President & Chief Financial Officer
+
+
+9
+
+
+

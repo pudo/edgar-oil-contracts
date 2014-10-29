@@ -1,0 +1,1731 @@
+
+EX-10.1
+2
+a12-19579_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+  
+
+
+EXHIBIT 10.1
+
+
+
+          
+ 
+FIFTH AMENDMENT
+TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+AMONG
+ 
+LAREDO PETROLEUM, INC.,
+as Borrower,
+ 
+WELLS FARGO BANK, N.A.,
+as Administrative Agent,
+ 
+THE GUARANTORS SIGNATORY HERETO,
+ 
+AND
+ 
+THE BANKS SIGNATORY HERETO
+
+
+
+          
+ 
+
+
+
+
+
+
+ 
+FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+This FIFTH AMENDMENT TO THIRD AMENDED AND RESTATED CREDIT AGREEMENT (this Fifth Amendment), dated as of November 7, 2012 (the Fifth Amendment Effective Date), is among LAREDO PETROLEUM, INC., a corporation formed under the laws of the State of Delaware (Borrower); each of the undersigned guarantors (the Guarantors, and together with Borrower, the Obligors); each of the Banks that is a party to the Credit Agreement referred to below on the date hereof; and WELLS FARGO BANK, N.A., as administrative agent for the Banks (in such capacity, together with its successors, Administrative Agent).
+ 
+Recitals
+ 
+A.                                    Borrower, Administrative Agent and the Banks are parties to that certain Third Amended and Restated Credit Agreement dated as of July 1, 2011 (as amended prior to the date hereof, the Credit Agreement), pursuant to which the Banks have, subject to the terms and conditions set forth therein, made certain credit available to and on behalf of Borrower.
+ 
+B.                                    The parties hereto desire to (i) amend certain terms of the Credit Agreement as set forth herein, and (ii) establish a Borrowing Base of $825,000,000, in each case to be effective as of the Fifth Amendment Effective Date.
+ 
+C.                                    Borrower has requested that Barclays Bank PLC, Citibank, N.A., Credit Suisse AG, Cayman Islands Branch, ING Capital LLC, and SunTrust Bank (each a New Bank and, collectively, the New Banks) become Banks hereunder with Maximum Credit Amounts as shown on Schedule 1 to the Credit Agreement (as amended hereby).
+ 
+D.                                    NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+ 
+Section 1.                                           Defined Terms.  Each capitalized term which is defined in the Credit Agreement, but which is not defined in this Fifth Amendment, shall have the meaning ascribed to such term in the Credit Agreement (as amended hereby).  Unless otherwise indicated, all section references in this Fifth Amendment refer to the Credit Agreement.
+ 
+Section 2.                                           Amendments to Credit Agreement.  In reliance on the representations, warranties, covenants and agreements contained in this Fifth Amendment, and subject to the satisfaction of the conditions precedent set forth in Section 5 hereof, the Credit Agreement shall be amended effective as of the Fifth Amendment Effective Date in the manner provided in this Section 2.
+ 
+2.1                               Amended Definitions.  The definitions of Excluded Taxes and Governmental Authority contained in Section 1.1 of the Credit Agreement are hereby amended and restated in their entirety to read in full as follows:
+ 
+1
+
+
+
+
+
+
+ 
+Excluded Taxes means, with respect to the Administrative Agent, any Bank, any Participant, any Assignee or any other recipient of any payment to be made by or on account of any obligation of Borrower or any guarantor hereunder or under any other Loan Papers, (a) taxes imposed on (or measured by) its net income, and franchise taxes (including the Texas Margin Tax) imposed on it (in lieu of net income taxes), in each case by the United States of America or such other jurisdiction under the laws of which such recipient is organized or in which its principal office is located or, in the case of any Bank, in which its applicable lending office is located, (b) any branch profits taxes imposed by the United States of America or any similar tax imposed by any other jurisdiction in which Borrower or any guarantor is located, (c) in the case of a Bank, Participant or Assignee described in Section 3.4, any withholding tax attributable to such Persons failure to comply with its representations, covenants or obligations set forth in Section 3.4, except to the extent that such Bank, Participant or Assignee was entitled, at the time of designation of a new lending office (or Assignment or Participation) to receive additional amounts with respect to such withholding tax pursuant to the second sentence of Section 13.6, and (d) any U.S. federal withholding taxes imposed under FATCA.
+ 
+Governmental Authority means any court or governmental department, commission, board, bureau, agency or instrumentality of any nation or of any province, state, commonwealth, nation, territory, possession, county, parish or municipality, whether now or hereafter constituted or existing (including any central bank or any supra-national body exercising such powers or functions, such as the European Union or the European Central Bank).
+ 
+2.2                               Amendment to Section 3.4 of the Credit Agreement.  Section 3.4 of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows:
+ 
+Section 3.4                                    Foreign Banks, Participants, and Assignees.  Each Bank, Participant (by accepting a participation interest under this Agreement), and Assignee (by executing an Assignment and Assumption Agreement) that is not organized under the Laws of the United States of America or one of its states (a) represents to Administrative Agent and Borrower that (i) no Taxes are required to be withheld by Administrative Agent or Borrower with respect to any payments to be made to it in respect of the Obligations, and (ii) it has furnished to Administrative Agent and Borrower two (2) duly completed copies of either U.S. Internal Revenue Service Form W-8, or other form acceptable to Administrative Agent that entitles it to exemption from U.S. federal withholding Tax on all interest payments under the Loan Papers, and (b) covenants to (i) provide Administrative Agent and Borrower a new Form W-8, or other form acceptable to Administrative Agent upon the expiration or obsolescence of any previously delivered form according to applicable Laws and regulations, duly executed and completed by it, and (ii) comply from time to time with all applicable Laws and regulations with regard to the withholding Tax exemption.  If any of the foregoing is not true or the applicable forms are not provided, then Borrower and Administrative Agent (but without duplication) may deduct and withhold from
+ 
+2
+
+
+
+
+
+
+ 
+interest payments under the Loan Papers any United States federal-income Tax at the maximum rate under the Code.  Notwithstanding the foregoing, the representation regarding the exemption from withholding Taxes and delivery of forms and the covenant with respect to delivery of new forms and compliance with applicable Laws and regulations shall not apply with respect to FATCA.
+ 
+2.3                               Amendment to Section 13.5 of the Credit Agreement.  Section 13.5(a) of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows:
+ 
+(a)                                 impose, modify or deem applicable any reserve, special deposit, compensatory loan, deposit insurance, capital adequacy, liquidity requirement, minimum capital, capital ratio or similar requirement against all or any assets held by, deposits or accounts with, credit extended by or to, or commitments to extend credit or any other acquisition of funds by any Bank (or its Lending Office), or impose on any Bank (or its Lending Office) any other condition, with respect to the maintenance by such Bank of all or any part of its Commitment; or
+ 
+2.4                               Amendment to Section 13.6 of the Credit Agreement.  Section 13.6 of the Credit Agreement is hereby amended to (a) add (a) at the beginning of the first paragraph contained in such Section so that such paragraph becomes clause (a) of Section 13.6 of the Credit Agreement, and (b) add a new clause (b) thereto immediately following clause (a) thereto, which clause (b) shall read in full as follows:
+ 
+(b)                                 Each Bank shall severally indemnify the Administrative Agent, within 10 days after demand therefor, for (i) any Indemnified Taxes attributable to such Bank (but only to the extent that Borrower has not already indemnified the Administrative Agent for such Indemnified Taxes and without limiting the obligation of the Borrower to do so), and (ii) any Excluded Taxes attributable to such Bank, in each case, that are payable or paid by the Administrative Agent in connection with any Loan Paper, and any reasonable expenses arising therefrom or with respect thereto, whether or not such Taxes were correctly or legally imposed or asserted by the relevant Governmental Authority.  A certificate as to the amount of such payment or liability delivered to any Bank by the Administrative Agent shall be conclusive absent manifest error.  Each Bank hereby authorizes the Administrative Agent to set off and apply any and all amounts at any time owing to such Bank under any Loan Paper or otherwise payable by the Administrative Agent to the Bank from any other source against any amount due to the Administrative Agent under this paragraph (b).
+ 
+2.5                               Amendment to Section 14.8 of the Credit Agreement.  The first sentence of Section 14.8(c) of the Credit Agreement is hereby amended and restated in its entirety to read in full as follows:
+ 
+(c)                            Each Bank may make assignments to the Federal Reserve Bank or any central bank having jurisdiction over such Lender.
+ 
+3
+
+
+
+
+
+
+ 
+2.6                               Amendment to Schedule 1 to the Credit Agreement; Branch Banking and Trust Company.  (a)                   The first table contained in Schedule 1 to the Credit Agreement is hereby amended and restated in its entirety as follows:
+ 
+
+
+
+Bank    
+
+     
+
+Maximum Credit   Amount    
+
+     
+
+Commitment   Percentage    
+
+        
+
+
+Wells Fargo Bank, N.A.    
+
+     
+
+$    
+
+242,424,242.58    
+
+     
+
+12.12121212    
+
+%       
+
+
+Bank of America, N.A.    
+
+     
+
+$    
+
+169,696,969.68    
+
+     
+
+8.48484848    
+
+%       
+
+
+JPMorgan Chase Bank, N.A.    
+
+     
+
+$    
+
+169,696,969.68    
+
+     
+
+8.48484848    
+
+%       
+
+
+Union Bank, N.A.    
+
+     
+
+$    
+
+151,515,151.50    
+
+     
+
+7.57575758    
+
+%       
+
+
+BMO Harris Financing, Inc.    
+
+     
+
+$    
+
+151,515,151.50    
+
+     
+
+7.57575758    
+
+%       
+
+
+Societe Generale    
+
+     
+
+$    
+
+130,909,090.90    
+
+     
+
+6.54545455    
+
+%       
+
+
+Bank of Scotland plc    
+
+     
+
+$    
+
+130,909,090.90    
+
+     
+
+6.54545455    
+
+%       
+
+
+The Bank of Nova Scotia    
+
+     
+
+$    
+
+130,909,090.90    
+
+     
+
+6.54545455    
+
+%       
+
+
+Capital One, National Association    
+
+     
+
+$    
+
+130,909,090.90    
+
+     
+
+6.54545455    
+
+%       
+
+
+Compass Bank    
+
+     
+
+$    
+
+130,909,090.90    
+
+     
+
+6.54545455    
+
+%       
+
+
+Comerica Bank    
+
+     
+
+$    
+
+84,848,484.84    
+
+     
+
+4.24242424    
+
+%       
+
+
+BOKF, NA DBA Bank of Oklahoma    
+
+     
+
+$    
+
+72,727,272.72    
+
+     
+
+3.63636364    
+
+%       
+
+
+Branch Banking and Trust Company    
+
+     
+
+$    
+
+72,727,272.72    
+
+     
+
+3.63636364    
+
+%       
+
+
+Goldman Sachs Bank USA    
+
+     
+
+$    
+
+48,484,848.48    
+
+     
+
+2.42424242    
+
+%       
+
+
+Barclays Bank PLC    
+
+     
+
+$    
+
+36,363,636.36    
+
+     
+
+1.81818182    
+
+%       
+
+
+Citibank, N.A.    
+
+     
+
+$    
+
+36,363,636.36    
+
+     
+
+1.81818182    
+
+%       
+
+
+Credit Suisse AG, Cayman Islands Branch    
+
+     
+
+$    
+
+36,363,636.36    
+
+     
+
+1.81818182    
+
+%       
+
+
+ING Capital LLC    
+
+     
+
+$    
+
+36,363,636.36    
+
+     
+
+1.81818182    
+
+%       
+
+
+SunTrust Bank    
+
+     
+
+$    
+
+36,363,636.36    
+
+     
+
+1.81818182    
+
+%       
+
+
+Totals:    
+
+     
+
+$    
+
+2,000,000,000.00    
+
+     
+
+100    
+
+%         
+ 
+(b)                                 On the Fifth Amendment Effective Date, each Bank the Commitment Percentage of which is increasing pursuant to this Fifth Amendment shall purchase a pro rata portion of the outstanding Revolving Loans (and participations in Letters of Credit) of each of the Banks the Commitment Percentages of which are decreasing pursuant hereto (and such Banks hereby agree to sell and to take all such further action to effectuate such sale) such that each Bank shall hold its applicable Commitment Percentage of the outstanding Revolving Loans (and participations in Letters of Credit) after giving effect to the increase in the aggregate Maximum Credit Amounts. For the sake of clarity, the sale and purchase of such Revolving Loans (and participations in
+ 
+4
+
+
+
+
+
+
+ 
+Letters of Credit) shall not result in any obligation on the part of Borrower under Section 3.3 of the Agreement.
+ 
+(c)                                  The Borrower, each Guarantor, the Administrative Agent and each Bank acknowledge and agree that Branch Banking and Trust Company is a Bank for all purposes of the Loan Papers and that each reference in the Loan Papers to such Bank as Branch Banking and Trust without the word Company is intended to be, and shall be deemed to be, a reference to Branch Banking and Trust Company.
+ 
+Section 3.                                           Omnibus Amendment to Loan Papers Regarding Buildings, etc.  Notwithstanding anything in any Loan Paper to the contrary, (a) in no event shall the defined terms Collateral, Realty Collateral or any similar defined term describing any interest in any asset or property pledged by any Credit Party pursuant to the Loan Papers to secure the Obligations include any Building (as defined in the applicable Flood Insurance Regulations (as defined below)) or Manufactured (Mobile) Home (as defined in the applicable Flood Insurance Regulations) and (b) no Building or Manufactured (Mobile) Home shall be subject to any Lien created by any Loan Papers.  Each Bank and Letter of Credit Issuer hereby empowers and authorizes Administrative Agent to execute and deliver any and all releases of Liens, termination statements, mortgage amendments or other documents required to effectuate the foregoing.  As used herein, Flood Insurance Regulations means (i) the National Flood Insurance Act of 1968 as now or hereafter in effect or any successor statute thereto, (ii) the Flood Disaster Protection Act of 1973 as now or hereafter in effect or any successor statute thereto, (iii) the National Flood Insurance Reform Act of 1994 (amending 42 USC § 4001, et seq.), as the same may be amended or recodified from time to time, and (iv) the Flood Insurance Reform Act of 2004 and any regulations promulgated thereunder.
+ 
+Section 4.                                           Borrowing Base.  In reliance on the representations, warranties, covenants and agreements contained in this Fifth Amendment, and subject to the satisfaction of the conditions precedent set forth in Section 5 hereof, the Borrowing Base shall be redetermined to be, effective as of the Fifth Amendment Effective Date, $825,000,000 and shall remain at $825,000,000 until the next Determination or other adjustment to the Borrowing Base under the Credit Agreement thereafter.  Borrower and Banks agree that the Determination provided for in this Section 4 will constitute the November 1, 2012 Periodic Determination for the purposes of the Credit Agreement and shall not be construed or deemed to be a Special Determination for purposes of the Credit Agreement.
+ 
+Section 5.                                           Conditions Precedent.  The effectiveness of this Fifth Amendment is subject to the following:
+ 
+5.1                               Administrative Agent shall have received counterparts of this Fifth Amendment from the Obligors and each of the Banks (including the New Banks).
+ 
+5.2                               Administrative Agent shall have received a Note payable to the order of each Bank in the amount of such Banks Maximum Credit Amount as indicated on Schedule 1 to the Credit Agreement (as amended hereby), in each case duly executed and delivered by Borrower.
+ 
+5
+
+
+
+
+
+
+ 
+5.3                               Contemporaneously with the effectiveness of the increase of the Borrowing Base contained in Section 4 hereof, Borrower shall pay to Administrative Agent, for the benefit of the Banks, a Borrowing Base increase fee equal to 40 basis points (0.40%) on the amount by which the Borrowing Base as established in Section 4 hereof exceeds the Borrowing Base that was in effect immediately prior to the establishment of the new Borrowing Base pursuant to Section 4 hereof (the Increase).  Such fee shall be distributed by Administrative Agent to the Banks in accordance with the portion of the Increase attributable to each such Bank (calculated based on the amount by which such Banks Commitment Percentage of the Borrowing Base as established in Section 4 hereof exceeds such Banks Commitment Percentage of the Borrowing Base, if any, that was in effect immediately prior to the establishment of the new Borrowing Base pursuant to Section 4 hereof).
+ 
+5.4                               Administrative Agent shall have received such other documents as Administrative Agent or special counsel to Administrative Agent may reasonably request.
+ 
+Administrative Agent shall notify Borrower and the Banks of the effectiveness of this Fifth Amendment, and such notice shall be conclusive and binding.  Promptly upon receipt of any replacement Note under Section 5.2 hereof, each Bank shall return to Administrative Agent (for delivery to Borrower for cancellation) any other Note in such Banks possession that was previously delivered to such Bank under the Credit Agreement.
+ 
+Section 6.                                           New Banks.  Each New Bank hereby joins in, becomes a party to, and agrees to comply with and be bound by the terms and conditions of the Credit Agreement as a Bank thereunder and under each and every other Loan Paper to which any Bank is required to be bound by the Credit Agreement, to the same extent as if such New Bank were an original signatory thereto.  Each New Bank hereby appoints and authorizes Administrative Agent to take such action as agent on its behalf and to exercise such powers and discretion under the Credit Agreement as are delegated to Administrative Agent by the terms thereof, together with such powers and discretion as are reasonably incidental thereto.  Each New Bank represents and warrants that (a) it has full power and authority, and has taken all action necessary, to execute and deliver this Fifth Amendment, to consummate the transactions contemplated hereby and to become a Bank under the Credit Agreement, (b) it has received a copy of the Credit Agreement and copies of the most recent financial statements delivered pursuant to Section 8.1 thereof, and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into this Fifth Amendment and to become a Bank on the basis of which it has made such analysis and decision independently and without reliance on Administrative Agent or any other Bank, and (c) from and after the Fifth Amendment Effective Date, it shall be a party to and be bound by the provisions of the Credit Agreement and the other Loan Papers and have the rights and obligations of a Bank thereunder.
+ 
+Section 7.                                           Representations and Warranties; Etc.  Each Obligor hereby affirms: (a) that as of the date hereof, all of the representations and warranties contained in each Loan Paper to which such Obligor is a party are true and correct in all material respects as though made on and as of the date hereof (unless made as of a specific earlier date, in which case, was true as of such date), (b) no Defaults exist under the Loan Papers or will, after giving effect to this Fifth Amendment, exist under the Loan Papers and (c) no Material Adverse Change has occurred.
+ 
+6
+
+
+
+
+
+
+ 
+Section 8.                                           Miscellaneous.
+ 
+8.1                               Confirmation and Effect.  The provisions of the Credit Agreement (as amended by this Fifth Amendment) shall remain in full force and effect in accordance with its terms following the effectiveness of this Fifth Amendment.  Each reference in the Credit Agreement to this Agreement, hereunder, hereof, herein, or words of like import shall mean and be a reference to the Credit Agreement as amended hereby, and each reference to the Credit Agreement in any other document, instrument or agreement executed and/or delivered in connection with the Credit Agreement shall mean and be a reference to the Credit Agreement as amended hereby.
+ 
+8.2                               Ratification and Affirmation of Obligors.  Each of the Obligors hereby expressly (a) acknowledges the terms of this Fifth Amendment, (b) ratifies and affirms its obligations under the Facility Guaranty and the other Loan Papers to which it is a party, (c) acknowledges, renews and extends its continued liability under the Facility Guaranty and the other Loan Papers to which it is a party and (d) agrees that its guarantee under the Facility Guaranty and the other Loan Papers to which it is a party remains in full force and effect with respect to the Obligations as amended hereby.
+ 
+8.3                               Counterparts.  This Fifth Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of this Fifth Amendment by facsimile or electronic (e.g. pdf) transmission shall be effective as delivery of a manually executed original counterpart hereof.
+ 
+8.4                               No Oral Agreement.  This written Fifth Amendment, the Credit Agreement and the other Loan Papers executed in connection herewith and therewith represent the final agreement between the parties and may not be contradicted by evidence of prior, contemporaneous, or unwritten oral agreements of the parties.  There are no subsequent oral agreements between the parties.
+ 
+8.5                               Governing Law.  This Fifth Amendment (including, but not limited to, the validity and enforceability hereof) shall be governed by, and construed in accordance with, the laws of the State of New York.
+ 
+8.6                               Payment of Expenses.  Borrower agrees to pay or reimburse Administrative Agent for all of its out-of-pocket costs and expenses incurred in connection with this Fifth Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to Administrative Agent.
+ 
+8.7                               Severability.  Any provision of this Fifth Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+ 
+7
+
+
+
+
+
+
+ 
+8.8                               Successors and Assigns.  This Fifth Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+ 
+8.9                               Loan Paper.  This Fifth Amendment shall constitute a Loan Paper for all purposes under the other Loan Papers.
+ 
+[signature pages follow]
+ 
+8
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Fifth Amendment to be duly executed effective as of the date first written above.
+ 
+ 
+
+
+
+BORROWER:    
+
+LAREDO   PETROLEUM, INC.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   W. Mark Womble       
+
+
+     
+
+     
+
+W.   Mark Womble       
+
+
+     
+
+     
+
+Senior Vice President, Chief Financial    Officer and Secretary       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+GUARANTORS:    
+
+LAREDO PETROLEUM   HOLDINGS, INC.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   W. Mark Womble       
+
+
+     
+
+     
+
+W.   Mark Womble       
+
+
+     
+
+     
+
+Senior Vice President, Chief Financial    Officer and Secretary       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+LAREDO   PETROLEUM TEXAS, LLC       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   W. Mark Womble       
+
+
+     
+
+     
+
+W.   Mark Womble       
+
+
+     
+
+     
+
+Senior Vice President, Chief Financial    Officer and Secretary       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+LAREDO   GAS SERVICES, LLC       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   W. Mark Womble       
+
+
+     
+
+     
+
+W.   Mark Womble       
+
+
+     
+
+     
+
+Senior Vice President, Chief Financial    Officer and Secretary       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+LAREDO   PETROLEUM  DALLAS, INC.,       
+
+
+     
+
+f/k/a   Broad Oak Energy, Inc.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   W. Mark Womble       
+
+
+     
+
+     
+
+W.   Mark Womble       
+
+
+     
+
+     
+
+Senior Vice President, Chief Financial    Officer and Secretary         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+WELLS   FARGO BANK, N.A.,       
+
+
+     
+
+as   Administrative Agent and as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Jason M. Hicks       
+
+
+     
+
+     
+
+Jason   M. Hicks       
+
+
+     
+
+     
+
+Managing   Director         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK   OF AMERICA, N.A., as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Margaret Niekrash       
+
+
+     
+
+Name:       
+
+Margaret   Niekrash       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+JPMORGAN   CHASE BANK, N.A., as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Mark E. Olson       
+
+
+     
+
+Name:       
+
+Mark   E. Olson       
+
+
+     
+
+Title:    
+
+Authorized   Officer         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+SOCIETE   GENERALE, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   David Bornstein       
+
+
+     
+
+Name:       
+
+David   Bornstein       
+
+
+     
+
+Title:    
+
+Director         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+UNION   BANK, N.A., as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   David Carter       
+
+
+     
+
+Name:       
+
+David   Carter       
+
+
+     
+
+Title:    
+
+Investment   Banking Officer         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BMO   HARRIS FINANCING, INC., as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Gumaro Tijerina       
+
+
+     
+
+Name:       
+
+Gumaro   Tijerina       
+
+
+     
+
+Title:    
+
+Director         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK   OF SCOTLAND plc, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Stephen Giacolone       
+
+
+     
+
+Name:       
+
+Stephen   Giacolone       
+
+
+     
+
+Title:    
+
+Assistant   Vice President         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+THE   BANK OF NOVA SCOTIA, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Mark Sparrow       
+
+
+     
+
+Name:       
+
+Mark   Sparrow       
+
+
+     
+
+Title:    
+
+Director         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CAPITAL   ONE, NATIONAL ASSOCIATON, as    a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Matthew L. Molero       
+
+
+     
+
+Name:       
+
+Matthew   L. Molero       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMPASS   BANK, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Kathleen J. Bowen       
+
+
+     
+
+Name:       
+
+Kathleen   J. Bowen       
+
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BOKF,   NA dba BANK OF OKLAHOMA,    as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Pam P. Schloeder       
+
+
+     
+
+Name:       
+
+Pam   P. Schloeder       
+
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BRANCH   BANKING AND TRUST    COMPANY, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   James Giordano       
+
+
+     
+
+Name:       
+
+James   Giordano       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMERICA   BANK, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   John S. Lesikar       
+
+
+     
+
+Name:       
+
+John   S. Lesikar       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+GOLDMAN   SACHS BANK USA, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Michelle Latzoni       
+
+
+     
+
+Name:       
+
+Michelle   Latzoni       
+
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BARCLAYS   BANK PLC, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Michael J. Mozer       
+
+
+     
+
+Name:       
+
+Michael   J. Mozer       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CITIBANK,   N.A., as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Larry Holden       
+
+
+     
+
+Name:       
+
+Larry   Holden       
+
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   SUISSE AG, CAYMAN ISLANDS    BRANCH, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Doreen Barr       
+
+
+     
+
+Name:       
+
+Doreen   Barr       
+
+
+     
+
+Title:    
+
+Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Michael Spaight       
+
+
+     
+
+Name:       
+
+Michael   Spaight       
+
+
+     
+
+Title:    
+
+Associate         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+ING   CAPITAL LLC, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Charles Hall       
+
+
+     
+
+Name:       
+
+Charles   Hall       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+SUNTRUST   BANK, as a Bank       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Scott Mackey       
+
+
+     
+
+Name:       
+
+Scott   Mackey       
+
+
+     
+
+Title:    
+
+Director         
+ 
+SIGNATURE PAGE TO FIFTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+
+
+
+
+
+
+

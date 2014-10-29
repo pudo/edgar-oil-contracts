@@ -1,0 +1,830 @@
+
+EX-10
+2
+rexx-ex10_20140331618.htm
+EXHIBIT 10.1
+
+
+
+ Exhibit 10.1 Execution Version   SECOND AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT AMONG REX ENERGY CORPORATION, as Borrower, THE GUARANTORS, KEYBANK NATIONAL ASSOCIATION, as Administrative Agent, ROYAL BANK OF CANADA, as Syndication Agent, SUNTRUST BANK, as Documentation Agent, KEYBANK NATIONAL ASSOCIATION, ROYAL BANK OF CANADA, AND SUNTRUST BANK, as Joint Lead Arrangers and Joint Bookrunners, AND THE LENDERS SIGNATORY HERETO DATED AS OF MARCH 25, 2014       
+
+ SECOND AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENTThis SECOND AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this “Second Amendment”) dated as of March 25, 2014 is among REX ENERGY CORPORATION, a corporation formed under the laws of the State of Delaware (the “Borrower”); each of the undersigned guarantors (the “Guarantors”, and together with the Borrower, the “Obligors”); KEYBANK NATIONAL ASSOCIATION, as administrative agent for the Lenders (in such capacity, together with its successors, the “Administrative Agent”); and the Lenders signatory hereto. RECITALS A. The Borrower, the Administrative Agent and the Lenders are parties to that certain Amended and Restated Credit Agreement dated as of March 27, 2013 (as amended by the First Amendment to Amended and Restated Credit Agreement dated January 14, 2013, the “Credit Agreement”), pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower. B. The Borrower and Guarantors are parties to that certain Amended and Restated Guaranty and Collateral Agreement dated as of March 27, 2013 made by each of the Grantors (as defined therein) in favor of the Administrative Agent (the “Guaranty”). C. The Borrower, the Administrative Agent and the Lenders have agreed to amend certain provisions of the Credit Agreement as more fully set forth herein. NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: Section 1. Defined Terms. Each capitalized term which is defined in the Credit Agreement, but which is not defined in this Second Amendment, shall have the meaning ascribed such term in the Credit Agreement. Unless otherwise indicated, all article and section references in this Second Amendment refer to articles and sections of the Credit Agreement. Section 2. Amendment to Section 1.02 – Certain Defined Terms. (a) The definition of “Applicable Margin” is hereby amended by amending and restating the Borrowing Base Utilization Grid therein to read as follows:  
+
+
+ 
+  
+Borrowing Base Utilization Grid
+ 
+
+
+Borrowing Base Utilization Percentage
+  
+ 
+<25.0
+% 
+ 
+ 
+³25.0<50.0
+% % 
+ 
+ 
+³50.0<75.0
+% % 
+ 
+ 
+³75.0<90.0
+% % 
+ 
+ 
+³90.0
+% 
+
+
+Eurodollar Loans
+  
+ 
+1.500
+% 
+ 
+ 
+1.750
+% 
+ 
+ 
+2.000
+% 
+ 
+ 
+2.225
+% 
+ 
+ 
+2.500
+% 
+
+
+ABR Loans
+  
+ 
+0.500
+% 
+ 
+ 
+0.750
+% 
+ 
+ 
+1.000
+% 
+ 
+ 
+1.250
+% 
+ 
+ 
+1.500
+% 
+
+
+Commitment Fee Rate
+  
+ 
+0.375
+% 
+ 
+ 
+0.375
+% 
+ 
+ 
+0.500
+% 
+ 
+ 
+0.500
+% 
+ 
+ 
+0.500
+% 
+
+Section 3. Amendments to the Credit Agreement. 3.1 Amendments to Section 9.02. Section 9.02 is hereby amended as follows: (a) sub-section (j) is hereby renamed to be sub-section (k); and (b) a new sub-section (j) is hereby added after sub-section (i) and before sub-section (k) to read as follows: (j) Debt of Keystone Clearwater Solutions, LLC. 3.2 Amendments to Section 9.03. Section 9.03 is hereby amended as follows: (a) sub-section (e) is hereby renamed to be sub-section (f); (b) sub-section (f) is hereby renamed to be sub-section (g); and (c) a new sub-section (e) is hereby added after sub-section (d) and before sub-section (f) to read as follows: (e) Liens, securing Debt permitted by Section 9.02(j), on Property of Keystone Clearwater Solutions, LLC not constituting Collateral for the Indebtedness and not otherwise permitted by the foregoing clauses of this Section 9.03. Page 1
+
+ Section 4. Increase in Aggregate Maximum Credit Amounts, Assignment, New Lender and Reallocation of Commitments and Loans; Borrowing Base Increase. 4.1 Increase in Aggregate Maximum Credit Amounts, Assignment, New Lender and Reallocation of Commitments and Loans. Each of the Lenders party to the Credit Agreement immediately prior to the Second Amendment Effective Date (each an “Existing Lender” and collectively, the “Existing Lenders”), the Borrower and The Huntington National Bank and One West Bank, FSB (each a “New Lender” and collectively, the “New Lenders”), hereby agree that as of the Second Amendment Effective Date: (a) the Existing Lenders hereby irrevocably sell and assign to the New Lenders, and the New Lenders hereby irrevocably purchase and assume from the Existing Lenders, an interest in the Aggregate Maximum Credit Amounts and Commitments (the “Assignment”) and (b) immediately after giving effect to the Assignment, each of the Existing Lenders and the New Lenders, as applicable, hereby agrees to increase the Aggregate Maximum Credit Amounts and Commitments by each increasing its respective Maximum Credit Amount such that after giving effect thereto, the Aggregate Maximum Credit Amounts are as set forth on Annex I attached to this Second Amendment (the “Commitment Increase”), which shall be deemed to have occurred pursuant to Section 2.06(c) (with the parties hereto waiving timing, notice or other requirements therein). The Administrative Agent, the Existing Lenders, the New Lenders and the Borrower hereby consent and agree to the Assignment and the Commitment Increase. On the Second Amendment Effective Date, (x) after giving effect to the Assignment, the New Lender shall become a party to the Credit Agreement, as amended by this Second Amendment, as a “Lender” and have all of the rights and obligations of a Lender under the Credit Agreement, as amended by this Second Amendment, and the other Loan Documents, and (y) after giving effect to the Assignment and the Commitment Increase, the Maximum Credit Amount and the Commitment of each Lender (including both the Existing Lenders and the New Lenders) shall be as set forth on Annex I of this Second Amendment, which Annex I supersedes and replaces Annex I to the Credit Agreement. With respect to the Assignment, each New Lender shall be deemed to have acquired the Maximum Credit Amount and Commitment assigned to it from the applicable Existing Lenders pursuant to the terms of the Assignment and Assumption attached as Exhibit F to the Credit Agreement (the “Assignment Agreement”), and on the Second Amendment Effective Date, the New Lenders and the Existing Lenders shall be deemed to have entered into the Assignment Agreement pursuant to which (i) the New Lenders shall each be an “Assignee”, (ii) the Existing Lenders shall each be an “Assignor”, (iii) the term “Effective Date” shall be the “Second Amendment Effective Date” as defined herein and (iv) item 6 therein shall be deemed to be deleted. Notwithstanding Section 12.04(b)(ii)(C) or Section 2.06(c), no Person shall be required to pay a processing and recordation fee of $3,500 or $5,000 (as applicable) to the Administrative Agent. If, on the Second Amendment Effective Date, any Eurodollar Loans have been funded, then the Borrower shall be obligated to pay any breakage fees or costs that are payable pursuant to Section 5.02, in connection with the reallocation of such outstanding Eurodollar Loans to effectuate the provisions of this paragraph. 4.2 Borrowing Base Increase. For the period from and including the Second Amendment Effective Date (as defined below) to but excluding the next Redetermination Date, the Borrowing Base shall be equal to $375,000,000. Notwithstanding the foregoing, the Borrowing Base may be subject to further adjustments from time to time pursuant to Sections 2.07(e), 2.07(f), 8.13(c) or 9.12 of the Credit Agreement. This Borrowing Base increase shall constitute the April 1, 2014 Scheduled Redetermination. Section 5. Conditions Precedent. This Second Amendment shall become effective on the date on which each of the following conditions is satisfied (or waived in accordance with Section 12.02) (the “Second Amendment Effective Date”): 5.1 Second Amendment. The Administrative Agent shall have received multiple counterparts as requested of this Second Amendment from the Borrower, each other Obligor and the Lenders. 5.2 Payment of Outstanding Invoices. Payment by the Borrower to the Administrative Agent of all fees and other amounts due and payable on or prior to the Second Amendment Effective Date, including, to the extent invoiced, reimbursement or payment of all reasonable out-of-pocket expenses required to be reimbursed or paid by the Borrower (including, but not limited to the reasonable fees of Paul Hastings LLP). 5.3 Notes. The Administrative Agent shall have received new duly executed Notes payable to the order of each Lender, to the extent requested by each such Lender, in a principal amount equal to the applicable new Maximum Credit Amount of such Lender, dated as of the Second Amendment Effective Date. 5.4 Title Coverage. The Administrative Agent shall have received, together with title information previously delivered to the Administrative Agent, satisfactory title information on at least 80% of the total value of the proved Oil and Gas Properties of the Borrower and the Subsidiaries evaluated in the most recently delivered Reserve Report. 5.5 Mortgage Coverage. The Administrative Agent shall have received duly executed and notarized deeds of trust/mortgages or supplements to existing deeds of trust/mortgages in form satisfactory to the Administrative Agent, to the extent necessary so that the Mortgaged Properties represent at least 80% of the total value of the proved Oil and Gas Properties of the Borrower and the Subsidiaries evaluated in the most recently delivered Reserve Report. 5.6 No Default. No Default or Event of Default shall be continuing as of the Second Amendment Effective Date. Page 2
+
+ Section 6. Representations and Warranties; Etc. Each Obligor hereby affirms: (a) that as of the date of execution and delivery of this Second Amendment, after giving effect to the terms of this Second Amendment, all of the representations and warranties made by it contained in each Loan Document to which it is a party are true and correct in all material respects as though made on and as of the Second Amendment Effective Date (unless made as of a specific earlier date, in which case, was true as of such date); and (b) that after giving effect to this Second Amendment and to the transactions contemplated hereby, no Default exists or will exist under any Loan Document to which it is a party. Section 7. Miscellaneous. 7.1 Confirmation. The provisions of the Credit Agreement (as amended by this Second Amendment) shall remain in full force and effect in accordance with its terms following the effectiveness of this Second Amendment. 7.2 Ratification and Affirmation of the Obligors. Each Obligor hereby expressly (a) acknowledges the terms of this Second Amendment; (b) ratifies and affirms its obligations under, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party, and agrees that each Loan Document to which it is a party remains in full force and effect, as amended hereby; and (c) agrees that from and after the Second Amendment Effective Date each reference to the Credit Agreement in the Guaranty and the other Loan Documents shall be deemed to be a reference to the Credit Agreement, as amended by this Second Amendment. 7.3 Loan Document. This Second Amendment is a “Loan Document” as defined and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto. 7.4 Severability. Any provision of this Second Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction. 7.5 Successors and Assigns. This Second Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns. 7.6 Counterparts. This Second Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Second Amendment by telecopy, facsimile or email transmission shall be effective as delivery of a manually executed counterpart of this Second Amendment. 7.7 No Oral Agreement. THIS WRITTEN SECOND AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES. 7.8 Governing Law. THIS SECOND AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS. [Signatures Begin on Next Page]    Page 3
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Second Amendment to be duly executed effective as of the Second Amendment Effective Date.  
+
+
+BORROWER:
+ 
+ 
+ 
+REX ENERGY CORPORATION
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Michael L. Hodges
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Michael L. Hodges
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Chief Financial Officer
+
+
+ 
+ 
+ 
+
+
+GUARANTORS:
+ 
+ 
+ 
+REX ENERGY OPERATING CORP.
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Michael L. Hodges
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Michael L. Hodges
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Chief Financial Officer
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+REX ENERGY I, LLCPENNTEX RESOURCES ILLINOIS, INC.REX ENERGY IV, LLCR.E. GAS DEVELOPMENT, LLC
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Michael L. Hodges
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Michael L. Hodges
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Chief Financial Officer
+
+   Second AmendmentSignature Page
+
+  
+
+
+ADMINISTRATIVE AGENT:
+ 
+ 
+ 
+KEYBANK NATIONAL ASSOCIATION,as Administrative Agent, Issuing Bank and Lender
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/John Dravenstott
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+John Dravenstott
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Vice President
+
+   Second AmendmentSignature Page
+
+  
+
+
+SYNDICATION AGENT AND LENDER:
+ 
+ 
+ 
+ROYAL BANK OF CANADA
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Kristan Spivey
+
+
+ 
+ 
+ 
+ 
+Name:
+ 
+Kristan Spivey
+
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Authorized Signatory
+
+   Second AmendmentSignature Page
+
+  
+
+
+DOCUMENTATION AGENT AND LENDER:
+ 
+ 
+ 
+SUNTRUST BANK
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Shannon Juhan
+
+
+ 
+ 
+ 
+ 
+Name:
+ 
+Shannon Juhan
+
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Vice President
+
+   Second AmendmentSignature Page
+
+  
+
+
+LENDERS:
+ 
+ 
+ 
+BMO HARRIS FINANCING, INC.
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ James V. Ducote
+
+
+ 
+ 
+ 
+ 
+Name:
+ 
+James V. Ducote
+
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Managing Director
+
+   Second AmendmentSignature Page
+
+  
+
+
+ 
+ 
+ 
+ 
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Suzanne Ridenhour
+
+
+ 
+ 
+ 
+ 
+Name:
+ 
+Suzanne Ridenhour
+
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Director
+
+   Second AmendmentSignature Page
+
+  
+
+
+ 
+ 
+ 
+ 
+UNION BANK, N.A.
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Lara Sorokolit
+
+
+ 
+ 
+ 
+ 
+Name:
+ 
+Lara Sorokolit
+
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Vice President
+
+   Second AmendmentSignature Page
+
+  
+
+
+ 
+ 
+ 
+ 
+CAPITAL ONE, NATIONAL ASSOCIATION
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Victor Ponce de León
+
+
+ 
+ 
+ 
+ 
+Name:
+ 
+Victor Ponce de León
+
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Vice President
+
+   Second AmendmentSignature Page
+
+  
+
+
+ 
+ 
+ 
+ 
+M&T BANK
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ David Ladori
+
+
+ 
+ 
+ 
+ 
+Name:
+ 
+David Ladori
+
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Vice President
+
+   Second AmendmentSignature Page
+
+  
+
+
+ 
+ 
+ 
+ 
+U.S. BANK NATIONAL ASSOCIATION
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Tara McLean
+
+
+ 
+ 
+ 
+ 
+Name:
+ 
+Tara McLean
+
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Vice President
+
+   Second AmendmentSignature Page
+
+  
+
+
+ 
+ 
+ 
+ 
+THE HUNTINGTON NATIONAL BANK
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Margaret Niekrash
+
+
+ 
+ 
+ 
+ 
+Name:
+ 
+Margaret Niekrash
+
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Vice President
+
+   Second AmendmentSignature Page
+
+  
+
+
+ 
+ 
+ 
+ 
+ONE WEST BANK, FSB
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Sean Murphy
+
+
+ 
+ 
+ 
+ 
+Name:
+ 
+Sean Murphy
+
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Executive Vice President
+
+   Second AmendmentSignature Page
+
+ Annex I ANNEX I LIST OF MAXIMUM CREDIT AMOUNTS Aggregate Maximum Credit Amounts  
+
+
+Name of Lender
+  
+Maximum Credit Amount
+ 
+
+
+KeyBank National Association
+  
+$
+48,000,000.00
+  
+
+
+Royal Bank of Canada
+  
+$
+45,000,000.00
+  
+
+
+SunTrust Bank
+  
+$
+45,000,000.00
+  
+
+
+BMO Harris Financing, Inc.
+  
+$
+40,000,000.00
+  
+
+
+Union Bank, N.A.
+  
+$
+40,000,000.00
+  
+
+
+Wells Fargo Bank, National Association
+  
+$
+40,000,000.00
+  
+
+
+Capital One, National Association
+  
+$
+36,000,000.00
+  
+
+
+U.S. Bank, National Association
+  
+$
+32,000,000.00
+  
+
+
+M&T Bank
+  
+$
+30,000,000.00
+  
+
+
+The Huntington National Bank
+  
+$
+12,000,000.00
+  
+
+
+One West Bank, FSB
+  
+$
+7,000,000.00
+  
+
+
+TOTAL
+  
+$
+375,000,000
+  
+
+ Annex I to Second Amendment
+
+

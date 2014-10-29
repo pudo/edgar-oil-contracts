@@ -1,0 +1,700 @@
+
+EX-10.116
+10
+worthingtonexh10116.htm
+FORM OF PROMISSORY NOTE, ISSUED TO MAGNA GROUP, LLC ON DECEMBER 11, 2012
+
+
+
+    worthingtonexh10116.htm
+    
+    
+    
+
+
+
+
+
+
+
+Exhibit 10.116
+
+
+
+
+WORTHINGTON ENERGY, INC.
+
+$42,000
+
+
+
+
+TWELVE PERCENT (12%) CONVERTIBLE NOTE
+
+DATED DECEMBER 11, 2012
+
+
+
+
+
+
+
+THIS NOTE (the “Note”) is a duly authorized Convertible Note of WORTHINGTON ENERGY, INC., a(n) NEVADA corporation (the “Company”).
+
+
+
+
+FOR VALUE RECEIVED, the Company promises to pay Magna Group, LLC (the “Holder”), the principal sum of $42,000 (the “Principal Amount”) or such lesser principal amount following the conversion or conversions of this Note in accordance with Paragraph 2 (the “Outstanding Principal Amount”) on December 11, 2013 (the “Maturity Date”), and to pay interest on the Outstanding Principal Amount (“Interest”) in a lump sum on the Maturity Date, at the rate of twelve percent (12%) per Annum (the “Rate”) from the date of issuance.
+
+
+
+
+Accrual of Interest shall commence on the date of this Note and continue until the Company repays or provides for repayment in full the Outstanding Principal Amount and all accrued but unpaid Interest.  Accrued and unpaid Interest shall bear Interest at the Rate until paid, compounded monthly.  The Outstanding Principal Amount of this Note is payable on the Maturity Date in such coin or currency of the United States as at the time of payment is legal tender for payment of public and private debts, at the address last appearing on the Note Register of the Company as designated in writing by the Holder from time to time.  The Company may prepay principal and interest on this Note at any time before the Maturity Date.
+
+
+
+
+The Company will pay the Outstanding Principal Amount of this Note on the Maturity Date, free of any withholding or deduction of any kind (subject to the provision of paragraph 2 below), to the Holder as of the Maturity Date and addressed to the Holder at the address appearing on the Note Register.
+
+
+
+
+This Note is subject to the following additional provisions:
+
+
+
+
+1.           All payments on account of the Outstanding Principal Amount of this Note and all other amounts payable under this Note (whether made by the Company or any other person) to or for the account of the Holder hereunder shall be made free and clear of and without reduction by reason of any present and future income, stamp, registration and other taxes, levies, duties, cost, and charges whatsoever imposed, assessed, levied or collected by the United States or any political subdivision or taxing authority thereof or therein, together with interest thereon and penalties with respect thereto, if any, on or in respect of this Note (such taxes, levies, duties, costs and charges being herein collectively called “Taxes”).
+
+ 
+
+2.           The Holder of this Note is entitled, at its option, at any time after the issuance of this Note, to convert all or any lesser portion of the Outstanding Principal Amount and accrued but unpaid Interest into Common Stock at a conversion price (the “Conversion Price”) for each share of Common Stock equal to a price which is a 45% discount from the lowest daily Volume Weighted Average Price (the “VWAP”) in the three days prior to the day that the Holder requests conversion, unless otherwise modified by mutual agreement between the Parties (the “Conversion Price”).  (The Common stock into which the Note is converted shall be referred to in this agreement as “Conversion Shares.”) If the Issuer’s Common stock is chilled for deposit at DTC and/or becomes chilled at any point while this Agreement remains outstanding, an additional 8% discount will be attributed to the Conversion Price defined hereof. The Issuer will not be obligated to issue fractional Conversion Shares.  For purpose of this section, the closing bid price of the Common Stock shall be the closing bid price as reported by the Nasdaq Stock Market, or the closing bid price in the over-the-counter market or, if the Common Stock is listed on another stock market or exchange, the closing bid price on such exchange as reported in the Wall Street Journal.  The Holder may convert this Note into Common Stock by surrendering the Note to the Company, with the form of conversion notice attached to the Note as Exhibit B, executed by the Holder of the Note evidencing such Holder’s intention to convert the Note.
+
+
+
+
+The Company will not issue fractional shares or scrip representing fractions of shares of Common Stock on conversion, but the Company will round the number of shares of Common Stock issuable up to the nearest whole share.  The date on which a Notice of Conversion is given shall be deemed to be the date on which the Holder notifies the Company of its intention to so convert by delivery, by facsimile transmission or otherwise, of a copy of the Notice of Conversion.  Notice of Conversion may be sent by email to the Company, attn: Mr. Anthony Mason, CEO, President.  The Holder will deliver this Note, together with original executed copy of the Notice of Conversion, to the Company within three (3) business days following the Conversion Date.  At the Maturity Date, the Company will pay any unconverted Outstanding Principal Amount and accrued Interest thereon, at the option of the Company, in either (a) cash or (b) Common Stock valued at a price equal to the Conversion Price determined as if the Note was converted in accordance with its terms into Common Stock on the Maturity Date.
+
+
+
+
+
+
+  
+
+
+
+1
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+3.           No provision of this Note shall alter or impair the obligation of the Company, which is absolute and unconditional, to the payment of the Outstanding Principal Amount of this Note at the Maturity Date, and in the coin or currency herein prescribed.  This Note and all other Notes now or hereafter issued on similar terms are direct obligations of the Company.  In the event of any liquidation, reorganization, winding up or dissolution, repayment of this Note shall not be subordinate in any respect to any other indebtedness of the Company outstanding as of the date of this Note or hereafter incurred by the Company.
+
+
+
+
+Such non-subordination shall extend without limiting the generality of the foregoing, to all indebtedness of the Company to banks, financial institutions, other secured lenders, equipment lessors and equipment finance companies, but shall exclude trade debts.  Any warrants, options or other securities convertible into stock of the Company issued before the date hereof shall rank pari passu with the Note in all respects
+
+ 
+
+4.           If at any time or from time to time after the date of this Note, the Common Stock issuable upon the conversion of the Note is changed into the same or different numbers of shares of any class or classes of stock, whether by recapitalization or otherwise, then in each such event the Holder shall have the right thereafter to convert the Note into the kind of security receivable in such recapitalization, reclassification or other change by holders of Common Stock, all subject to further adjustment as provided herein.  In such event, the formulae set forth herein for conversion and redemption shall be equitably adjusted to reflect such change in number of shares or, if shares of a new class of stock are issued, to reflect the market price of the class or classes of stock issued in connection with the above described transaction.
+
+
+
+
+5.           Events of Default.
+
+
+
+
+
+
+
+  
+
+5.1.
+
+
+A default shall be deemed to have occurred upon any one of the following events:
+
+
+
+
+
+
+
+
+
+
+  
+
+5.1.1.
+
+
+Withdrawal from registration of the Issuer under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), either voluntary or involuntary.
+
+
+
+
+
+
+
+
+
+
+  
+
+5.1.2.
+
+
+Issuer filing for bankruptcy protection under the federal bankruptcy laws, the calling of a meeting of creditors, or any act of insolvency under any state law regarding insolvency, without written notification to the Investor within five business days of such filing, meeting or action.
+
+
+
+
+
+
+
+
+
+
+  
+
+5.1.3.
+
+
+The Borrower fails to issue shares of Common Stock to the Holder (or announces or threatens in writing that it will not honor its obligation to do so) upon exercise by the Holder of the conversion rights of the Holder in accordance with the terms of this Note, fails to transfer or cause its transfer agent to transfer (issue) (electronically or in certificated form) any certificate for shares of Common Stock issued to the Holder upon conversion of or otherwise pursuant to this Note as and when required by this Note, the Borrower directs its transfer agent not to transfer or delays, impairs, and/or hinders its transfer agent in transferring or issuing (electronically or in certificated form) any certificate for shares of Common Stock to be issued to the Holder upon conversion of or otherwise pursuant to this Note as and when required by this Note, or fails to remove (or directs its transfer agent not to remove or impairs, delays, and/or hinders its transfer agent from removing) any restrictive legend (or to withdraw any stop transfer instructions in respect thereof) on any certificate for any shares of Common Stock issued to the Holder upon conversion of or otherwise pursuant to this Note as and when required by this Note (or makes any written announcement, statement or threat that it does not intend to honor the obligations described in this paragraph) and any such failure shall continue uncured (or any written announcement, statement or threat not to honor its obligations shall not be rescinded in writing) for four (4) business days after the Holder shall have delivered a Notice of Conversion.
+
+
+
+
+
+
+
+
+
+
+  
+
+5.1.4.
+
+
+Failure to pay the principal and unpaid but accrued interest on the Note when due.
+
+ 
+
+
+
+
+
+
+
+
+  
+
+
+5.1.5.         Any dissolution, liquidation, or winding up of Borrower or any substantial portion of its business.
+
+
+
+
+
+
+
+
+
+  
+
+
+
+2
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+5.1.6.
+
+
+Any cessation of operations by Borrower or Borrower admits it is otherwise generally unable to pay its debts as such debts become due, provided, however, that any disclosure of the Borrower’s ability to continue as a “going concern” shall not be an admission that the Borrower cannot pay its debts as they become due.
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+5.1.7.
+
+
+The failure by Borrower to maintain any material intellectual property rights, personal, real property or other assets which are necessary to conduct its business (whether now or in the future).
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+5.1.8.
+
+
+The Borrower effectuates a reverse split of its Common Stock without twenty (20) days prior written notice to the Holder.
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+5.1.9
+
+
+In the event that the Borrower proposes to replace its transfer agent, the Borrower fails to provide, prior to the effective date of such replacement, fully executed Irrevocable Transfer Agent Instructions in a form as initially delivered pursuant to the Purchase Agreement (including but not limited to the provision to irrevocable reserve shares of Common Stock in the Reserved Amount) signed by the successor transfer agent to Holder and the Borrower.
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+5.1.10
+
+
+The failure by Borrower to pay any and all Post-Closing Expenses as defined in section 7.4.
+
+
+
+
+
+
+
+
+
+
+  
+
+5.2.
+
+
+Default remedies.  Upon the occurrence and during the continuation of any Event of Default specified in Section 5.1.4 (solely with respect to failure to pay the principal hereof or interest thereon when due at the Maturity Date), the Note shall become immediately due and payable and the Borrower shall pay to the Holder, in full satisfaction of its obligations hereunder, an amount equal to the Default Sum (as defined herein). Upon the occurrence and during the continuation of any Event of Default specified in Sections 5.1.4 (solely with respect to failure to pay the principal hereof or interest thereon when due on this Note, 5.1.1, 5.1.2, 5.1.5, 5.1.6, 5.1.7, 5.1.8, and/or 5.1.9 exercisable through the delivery of written notice to the Borrower by such Holders (the “Default Notice”), and upon the occurrence of an Event of Default specified in the remaining sections of Section 5.1 (other than failure to pay the principal hereof or interest thereon at the Maturity Date specified in Section 5.1.4 hereof), the Note shall become immediately due and payable and the Borrower shall pay to the Holder, in full satisfaction of its obligations hereunder, an amount equal to the greater of (i) 150% times the sum of (w) the then outstanding principal amount of this Note plus (x) accrued and unpaid interest on the unpaid principal amount of this Note to the date of payment (the “Mandatory Prepayment Date”) plus (y) Default Interest, if any, on the amounts referred to in clauses (w) and/or (x) (the then outstanding principal amount of this Note to the date of payment plus the amounts referred to in clauses (x) and (y) shall collectively be known as the “Default Sum”) and all other amounts payable hereunder shall immediately become due and payable, all without demand, presentment or notice, all of which hereby are expressly waived, together with all costs, including, without limitation, reasonable legal fees and expenses, of collection, and the Holder shall be entitled to exercise all other rights and remedies available at low or in equity.
+
+ 
+
+If the Borrower fails to pay the Default Amount within five (5) business days of written notice that such amount is due and payable, then the Holder shall have the right at any time, so long as the Borrower remains in default (and so long and to the extent that there are sufficient authorized shares), to require the Borrower, upon written notice, to immediately issue, in lieu of the Default Amount, the number of shares of Common Stock of the Borrower equal to the Default Amount divided by the Conversion Price then in effect.
+
+ 
+
+
+
+
+6.           Prepayment.  At any time that the Note remains outstanding, upon three business days’ written notice (the “Prepayment Notice”) to the Holder, the Company may pay 150% of the entire Outstanding Principal Amount of the Note plus any accrued but unpaid Interest.  If the Company gives written notice of prepayment, the Holder continues to have the right to convert principal and interest on the Note into Conversion Shares until three business days elapses from the Prepayment Notice.
+
+
+
+
+7.           Reserved.
+
+
+
+
+8.           The Company covenants that until all amounts due under this Note are paid in full, by conversion or otherwise, unless waived by the Holder or subsequent Holder in writing, the Company shall, subject to securities laws limitations:
+
+
+
+
+give prompt written notice to the Holder of any Event of Default or of any other matter which has resulted in, or could reasonably be expected to result in a materially adverse change in its financial condition or operations;
+
+
+
+
+give prompt notice to the Holder of any claim, action or proceeding which, in the event of any unfavorable outcome, would or could reasonably be expected to have a Material Adverse Effect (as defined in the Note Purchase Agreement) on the financial condition of the Company;
+
+
+
+
+at all times reserve and keep available out of its authorized but unissued Common Stock, for the purpose of effecting the conversion of this Note into Common Stock, such number of its duly authorized shares of Common Stock as shall from time to time be sufficient to effect the conversion of the Outstanding Principal Amount of this Note into Common Stock.
+
+
+
+
+9.           Upon receipt by the Company of evidence from the Holder reasonably satisfactory to the Company of the loss, theft, destruction or mutilation of this Note,
+
+
+
+
+
+
+
+  
+
+(i) in the case of loss, theft or destruction, upon provision of indemnity reasonably satisfactory to it and/or its transfer agent, or
+
+
+
+
+
+
+
+
+
+
+  
+
+(ii) in the case of mutilation, upon surrender and cancellation of this Note, then the Company at its expense will execute and deliver to the Holder a new Note, dated the date of the lost, stolen, destroyed or mutilated Note, and evidencing the outstanding and unpaid principal amount of the lost, stolen, destroyed or mutilated Note.
+
+
+
+
+
+
+
+10.           If any term in this Note is found by a court of competent jurisdiction to be unenforceable, then the entire Note shall be rescinded, the consideration proffered by the Holder for the remaining Debt acquired by the Holder not converted by the Holder in accordance with this Note shall be returned in its entirety and any Conversion Shares in the possession or control of the Investor shall be returned to the Issuer.
+
+
+
+
+11.           The Note and the Agreement between the Company and the Holder (including all Exhibits thereto) constitute the full and entire understanding and agreement between the Company and the Holder with respect to the subject hereof.  Neither this Note nor any term hereof may be amended, waived, discharged or terminated other than by a written instrument signed by the Company and the Holder.
+
+
+
+
+12.           This Note shall be governed by and construed in accordance with the internal laws of the State of New York.
+
+
+
+
+13.           Legal Opinion.  The Issuer’s counsel has provided an opinion regarding the applicable exemption from registration under the Securities Act for the issuance of the Conversion Shares pursuant to the terms and conditions of this Agreement and the Note, which provides that upon conversion at any time following the date hereof, the shares received as a result of the conversion shall be issued unrestricted in accordance with the appropriate exemption. If the Issuer declines to provide, or requests that Investor counsel prepare an opinion, the Issuer agrees to bear the cost of the letter.
+
+
+
+
+14.           Conditions.  The Issuer acknowledges the Investor’s participation in respect to this Agreement is on a conditions permitting basis. In the event that the transaction risk profile substantially changes, market pricing or implied volatility substantially change, due diligence raises concerns or any other conditions material to the successful closing of the transaction change, the Investor reserves the right to terminate the Agreement at any time before delivering to the Non Affiliate Debtholder the cash consideration as described hereof.
+
+
+
+
+
+
+  
+
+
+
+3
+
+
+
+
+
+
+
+  
+
+
+
+15.           Post-Closing Expenses.  The Issuer will bear any and all third party miscellaneous expenses that may arise as a result of this Agreement post-closing. These expenses include, but are not limited to, the cost of legal opinion production, transfer agent fees, equity issuance fees, etc. The failure to pay any and all Post-Closing Expenses will be deemed a default as described in Section 5.1.10 herein.
+
+
+
+
+16.           Miscellaneous
+
+
+
+
+
+
+
+  
+
+16.1.
+
+
+Counterparts.  This Agreement may be executed in any number of counterparts by original, facsimile or email signature.  All executed counterparts shall constitute one Agreement not withstanding that all signatories are not signatories to the original or the same counterpart.  Facsimile and scanned signatures are considered original signatures.
+
+
+
+
+
+
+
+
+
+
+  
+
+16.2.
+
+
+Severability.  This Agreement is not severable.  If any term in this Agreement is found by a court of competent jurisdiction to be unenforceable, then the entire Agreement shall be rescinded, the consideration proffered by the Investor for the remaining Debt acquired by Investor not converted by the Investor in accordance with this Agreement shall be returned in its entirety and any Conversion Shares in the possession or control of the Investor shall be returned to the Issuer.
+
+
+
+
+
+
+
+
+
+
+  
+
+16.3.
+
+
+Legal Fees.  Except as provided in Section 15 of this agreement, each Party will bear its own legal expenses in the execution of this Agreement.  If the Issuer defaults and the Investor is required to expend funds for legal fees and expenses, such costs will be reimbursed to the Investor, solely by the Issuer.
+
+
+
+
+
+
+
+
+
+
+  
+
+16.4.
+
+
+Modification.  This Agreement and the Note may only be modified in a writing signed by all Parties.
+
+
+
+
+ 
+
+IN WITNESS WHEREOF, the Company has caused this instrument to be duly executed by an officer thereunto duly authorized, as of the date first written above.
+
+ 
+
+
+
+
+
+
+
+WORTHINGTON ENERGY, INC.
+
+
+
+
+
+
+
+
+
+
+By:___________________________________
+
+Anthony Mason, CEO, President
+
+
+
+
+
+
+
+
+
+  
+
+
+
+4
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+ 
+
+Exhibit B.
+
+
+
+
+NOTICE OF CONVERSION
+
+
+
+
+
+
+
+The undersigned hereby elects to convert $________________ principal amount of the Note (defined below) into Shares of Common Stock of WORTHINGTON ENERGY, INC., a(n) NEVADA Corporation (the “Borrower”) according to the conditions of the convertible Notes of the Borrower dated as of December 11, 2012 (the “Notes”), as of the date written below. No fee will be charged to the Holder or Holder’s Custodian for any conversion, except for transfer taxes, if any.
+
+
+
+
+Box Checked as to applicable instructions:
+
+
+
+
+
+
+
+
+  
+
+
+[  ]
+
+
+The Borrower shall electronically transmit the Common Stock issuable pursuant to this Notice of Conversion to the account of the undersigned or its nominee with DTC through its Deposit Withdrawal Agent Commission system (“DWAC Transfer”).
+
+
+
+
+
+
+
+Name of DTC Prime Broker: ___________________________________________
+
+
+
+
+Account Number: ____________________________________________________
+
+
+
+
+
+
+
+
+  
+
+
+[  ]
+
+
+The undersigned hereby requests that the Borrower issue a certificate or certificates for the number of shares of Common Stock set forth below (which numbers are based on the Holder’s calculation attached hereto) in the name(s) specified immediately below:
+
+
+
+
+ 
+ 
+
+Magna Group, LLC
+
+EIN #: 27-2162659
+
+
+
+
+
+
+
+
+
+
+
+Date of Conversion:
+
+  
+
+
+Conversion Price:
+
+  
+
+
+Shares to Be Delivered:
+
+  
+
+
+Remaining Principal Balance Due
+
+After This Conversion:
+
+  
+
+
+Signature
+
+  
+
+
+Print Name:
+
+  
+
+
+
+
+
+
+ 
+
+ 
+
+5
+
+  
+
+
+

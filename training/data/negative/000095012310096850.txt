@@ -1,0 +1,3098 @@
+
+EX-10.1
+2
+d76363exv10w1.htm
+EX-10.1
+
+
+
+exv10w1
+
+
+
+
+
+
+Exhibit 10.1
+
+
+
+EXECUTION VERSION
+
+
+
+TENTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+
+
+
+     THIS TENTH AMENDMENT TO THIRD AMENDED AND RESTATED CREDIT AGREEMENT (this Amendment)
+is dated as of October 8, 2010, by and among RANGE RESOURCES CORPORATION, a Delaware corporation
+(Borrower), certain Subsidiaries of Borrower, as Guarantors, the Lenders party hereto,
+and JPMORGAN CHASE BANK, N.A., a national banking association, as Administrative Agent for the
+Lenders (in such capacity, Administrative Agent).
+
+
+WITNESSETH:
+
+
+
+     WHEREAS, Borrower, Guarantors, Administrative Agent and the Lenders entered into that certain
+Third Amended and Restated Credit Agreement dated as of October 25, 2006 (as amended by that
+certain First Amendment to Third Amended and Restated Credit Agreement dated March 12, 2007, as
+further amended by that certain Second Amendment to Third Amended and Restated Credit Agreement
+dated as of March 26, 2007, as further amended by that certain Third Amendment to Third Amended and
+Restated Credit Agreement dated as of October 22, 2007, as further amended by that certain Fourth
+Amendment to Third Amended and Restated Credit Agreement dated as of March 31, 2008, as further
+amended by that certain Fifth Amendment to Third Amended and Restated Credit Agreement dated as of
+October 21, 2008, as further amended by that certain Sixth Amendment to Third Amended and Restated
+Credit Agreement dated as of December 11, 2008, as further amended by that certain Seventh
+Amendment to Third Amended and Restated Credit Agreement dated as of March 27, 2009, as further
+amended by that certain Eighth Amendment to Third Amended and Restated Credit Agreement dated as of
+September 30, 2009, as further amended by that certain Ninth Amendment to Third Amended and
+Restated Credit Agreement dated as of March 30, 2010, and as further amended, modified and restated
+from time to time, the Credit Agreement), pursuant to which the Lenders made a revolving
+credit facility available to Borrower; and
+
+
+     WHEREAS, Borrower has requested that Administrative Agent and the Lenders amend the Credit
+Agreement as provided herein, and Administrative Agent and the Lenders have agreed to do so on and
+subject to the terms and conditions hereinafter set forth.
+
+
+     NOW, THEREFORE, the parties agree to amend the Credit Agreement as follows:
+
+
+     1. Definitions. Unless otherwise defined herein, all capitalized terms used herein
+shall have the same meanings ascribed to such terms in the Credit Agreement.
+
+
+     2. Amendments to Credit Agreement.
+
+
+
+     2.1 Additional Definition. Section 1.01 of the Credit Agreement shall
+be and it hereby is amended by inserting the following definition in appropriate
+alphabetical order:
+
+
+
+     Tenth Amendment Effective Date means October 8, 2010.
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+     2.2 Amended Definitions. The following definitions set forth in Section
+1.01 of the Credit Agreement shall be and they hereby are amended in their respective
+entireties to read as follows:
+
+
+
+     Aggregate Commitment means the amount equal to the lesser of
+(i) the Maximum Facility Amount and (ii) the Borrowing Base then in effect;
+provided that notwithstanding anything to the contrary contained
+herein or in any other Loan Document, effective as of the Tenth Amendment
+Effective Date, the Aggregate Commitment shall be equal to $1,250,000,000
+until such time as the Aggregate Commitment is reduced or increased pursuant
+to the terms of this Agreement. The Aggregate Commitment may be reduced or
+increased pursuant to Section 2.02 and Section 2.03; provided that in
+no event shall the Aggregate Commitment exceed the Borrowing Base. If at any
+time the Borrowing Base is reduced below the Aggregate Commitment in effect
+prior to such reduction, the Aggregate Commitment shall be reduced
+automatically to the amount of the Borrowing Base in effect at such time.
+
+
+
+     Indenture means, collectively, (i) that certain Indenture
+dated March 9, 2005, among the Borrower, as issuer, certain of its
+Subsidiaries, as guarantors, and J.P. Morgan Trust Company, National
+Association, as amended or supplemented from time to time as permitted under
+the terms hereof, (ii) that certain Indenture dated May 23, 2006, among the
+Borrower, as issuer, certain of its Subsidiaries, as guarantors, and J.P.
+Morgan Trust Company, National Association, as amended or supplemented from
+time to time as permitted under the terms hereof, (iii) that certain
+Indenture dated September 28, 2007, among the Borrower, as issuer, certain of
+its Subsidiaries, as guarantors, and The Bank of New York Trust Company,
+N.A., as amended or supplemented from time to time as permitted under the
+terms hereof, (iv) that certain Indenture dated May 6, 2008, among the
+Borrower, as issuer, certain of its Subsidiaries, as guarantors, and The Bank
+of New York Trust Company, N.A., as amended or supplemented from time to time
+as permitted under the terms hereof, (v) that certain Indenture dated May 14,
+2009, among the Borrower, as issuer, certain of its Subsidiaries, as
+guarantors, and The Bank of New York Mellon Trust Company, N.A., as amended
+or supplemented from time to time as permitted under the terms hereof and
+(vi) that certain Indenture dated August 12, 2010, among the Borrower, as
+issuer, certain of its Subsidiaries, as guarantors, and The Bank of New York
+Mellon Trust Company, N.A., as amended or supplemented from time to time as
+permitted under the terms hereof.
+
+
+
+     Senior Subordinated Notes means (i) the 6 3/8% Senior
+Subordinated Notes due 2015, issued pursuant to the Indenture, (ii) the 7 1/2%
+Senior Subordinated Notes due 2016, issued pursuant to the Indenture, (iii)
+the 7 1/2% Senior Subordinated Notes due 2017, issued pursuant to the
+Indenture, (iv) the 7 1/4% Senior Subordinated Notes due 2018, issued pursuant
+to the Indenture, (v) the 8.0% Senior Subordinated Notes due 2019, issued
+pursuant to the Indenture, (vi) the 6 3/4% Senior Subordinated
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+2
+
+
+
+
+ 
+
+
+
+
+
+
+
+Notes due 2020, issued pursuant to the Indenture and (vii) additional
+senior unsecured subordinated notes issued after the Tenth Amendment
+Effective Date and prior to May 1, 2011; provided that (a) the terms of such
+Senior Subordinated Notes do not provide for any scheduled repayment,
+mandatory redemption or sinking fund obligation prior to the date that is six
+months after the Maturity Date, (b) the covenant, default and remedy
+provisions of such Senior Subordinated Notes are substantially on the same
+terms and conditions as the Indenture or are not materially more restrictive,
+taken as a whole, than those set forth in this Agreement, (c) the mandatory
+prepayment, repurchase and redemption provisions of such Senior Subordinated
+Notes are substantially on the same terms and conditions as the Indenture or
+are not materially more onerous or expansive in scope, taken as a whole, than
+those set forth in this Agreement, and (d) the subordination provisions set
+forth in such Senior Subordinated Notes are at least as favorable to the
+Secured Parties as the subordination provisions set forth in the Indenture.
+
+
+
+     Senior Unsecured Notes means senior unsecured notes issued
+after the Tenth Amendment Effective Date and prior to May 1, 2011; provided
+that (i) the terms of such Senior Unsecured Notes do not provide for any
+scheduled repayment, mandatory redemption or sinking fund obligation prior to
+the date that is six months after the Maturity Date, (ii) the covenant,
+default and remedy provisions of such Senior Unsecured Notes are
+substantially on the same terms and conditions as the Indenture (without
+giving effect to the subordination provisions) or are not materially more
+restrictive, taken as a whole, than those set forth in this Agreement and
+(iii) the mandatory prepayment, repurchase and redemption provisions of such
+Senior Unsecured Notes are substantially on the same terms and conditions as
+the Indenture (without giving effect to the subordination provisions) or are
+not materially more onerous or expansive in scope, taken as a whole, than
+those set forth in this Agreement.
+
+
+
+     2.3 Indebtedness. Section 7.01(h) of the Credit Agreement shall be and it
+hereby is amended in its entirety to read as follows:
+
+
+
+     (h) unsecured Indebtedness under the Senior Notes in an aggregate
+principal amount not exceeding $2,100,000,000 at any time outstanding and
+extensions, renewals, replacements and refinancings of any such Indebtedness
+that is unsecured and does not cause the aggregate principal amount of the
+Senior Notes to exceed the maximum principal amount permitted under this
+clause (h) as of the date of such extension, renewal, replacement or
+refinancing; and
+
+
+     3. Reaffirmation of Borrowing Base and Aggregate Commitment. This Amendment shall
+constitute a notice of reaffirmation of the Borrowing Base pursuant to Section 3.04 of the
+Credit Agreement and Administrative Agent hereby notifies Borrower that, as of the Tenth Amendment
+Effective Date, the Borrowing Base shall continue to be $1,500,000,000 until the next
+Redetermination of the Borrowing Base pursuant to Article III of the Credit Agreement.
+Additionally, notwithstanding anything to the contrary contained in the Credit Agreement or any
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+3
+
+
+
+
+ 
+
+
+
+
+
+other Loan Document, effective as of the Tenth Amendment Effective Date, the Aggregate
+Commitment shall continue to be $1,250,000,000 until such time as the Aggregate Commitment is
+reduced or increased pursuant to the terms of the Credit Agreement.
+
+
+
+     4. Binding Effect. Except to the extent its provisions are specifically amended,
+modified or superseded by this Amendment, the Credit Agreement, as amended, and all terms and
+provisions thereof shall remain in full force and effect, and the same in all respects are
+confirmed and approved by the Borrower, the Guarantors and the Lenders.
+
+
+     5. Tenth Amendment Effective Date. This Amendment (including the amendments to the
+Credit Agreement contained in Section 2 of this Amendment) shall be effective upon the
+satisfaction of the conditions precedent set forth in Section 6 hereof.
+
+
+     6. Conditions Precedent. The obligations of Administrative Agent and the Lenders
+under this Amendment shall be subject to the following conditions precedent:
+
+
+
+          (a) Execution and Delivery. Borrower, each Guarantor, and the Lenders (or at
+least the required percentage thereof) shall have executed and delivered this Amendment and
+each other required document to Administrative Agent, all in form and substance satisfactory
+to the Administrative Agent.
+
+
+
+          (b) No Default. No Default shall have occurred and be continuing or shall
+result from the effectiveness of this Amendment.
+
+
+
+          (c) Other Documents. The Administrative Agent shall have received such other
+instruments and documents incidental and appropriate to the transaction provided for herein
+as the Administrative Agent or its counsel may reasonably request, and all such documents
+shall be in form and substance satisfactory to the Administrative Agent.
+
+
+     7. Representations and Warranties. Each Credit Party hereby represents and warrants
+that (a) except to the extent that any such representations and warranties expressly relate to an
+earlier date, all of the representations and warranties contained in the Credit Agreement and in
+each Loan Document are true and correct as of the date hereof after giving effect to this
+Amendment, (b) the execution, delivery and performance by such Credit Party of this Amendment have
+been duly authorized by all necessary corporate, limited liability company or partnership action
+required on its part, and this Amendment and the Credit Agreement are the legal, valid and binding
+obligations of such Credit Party, enforceable against such Credit Party in accordance with their
+terms, except as their enforceability may be affected by the effect of bankruptcy, insolvency,
+reorganization, moratorium or other similar laws now or hereafter in effect relating to or
+affecting the rights or remedies of creditors generally, and (c) no Default or Event of Default has
+occurred and is continuing or will exist after giving effect to this Amendment.
+
+
+     8. Reaffirmation of Loan Documents. Any and all of the terms and provisions of the
+Credit Agreement and the Loan Documents shall, except as amended and modified hereby, remain in
+full force and effect. Each Credit Party hereby agrees that the amendments and modifications
+herein contained shall in no manner affect or impair the liabilities, duties and obligations of any
+Credit Party under the Credit Agreement and the other Loan Documents or the Liens securing the
+payment and performance thereof.
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+4
+
+
+
+
+ 
+
+
+
+
+
+
+     9. Counterparts. This Amendment may be executed in one or more counterparts and by
+different parties hereto in separate counterparts each of which when so executed and delivered
+shall be deemed an original, but all such counterparts together shall constitute but one and the
+same instrument; signature pages may be detached from multiple separate counterparts and attached
+to a single counterpart so that all signature pages are physically attached to the same document.
+Delivery of an executed counterpart to this Amendment by facsimile or other electronic means shall
+be effective as delivery of manually executed counterparts of this Amendment.
+
+
+     10. Legal Expenses. Each Credit Party hereby agrees to pay all reasonable fees and
+expenses of special counsel to the Administrative Agent incurred by the Administrative Agent in
+connection with the preparation, negotiation and execution of this Amendment and all related
+documents.
+
+
+     11. WRITTEN CREDIT AGREEMENT. THE CREDIT AGREEMENT, AS AMENDED BY THIS AMENDMENT AND
+TOGETHER WITH THE OTHER LOAN DOCUMENTS, REPRESENTS THE FINAL AGREEMENT BETWEEN AND AMONG THE
+PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL
+AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN AND AMONG THE PARTIES.
+
+
+     12. Governing Law. This Amendment shall be construed in accordance with and governed
+by the law of the State of Texas.
+
+
+     13. Guarantors. The Guarantors hereby consent to the execution of this Amendment by
+the Borrower and reaffirm their guarantees of all of the obligations of the Borrower to the
+Lenders. Borrower and Guarantors acknowledge and agree that the renewal, extension and amendment
+of the Credit Agreement shall not be considered a novation of account or new contract but that all
+existing rights, titles, powers, and estates in favor of the Lenders constitute valid and existing
+obligations in favor of the Lenders. Borrower and Guarantors each confirm and agree that (a)
+neither the execution of this Amendment or any other Loan Document nor the consummation of the
+transactions described herein and therein shall in any way effect, impair or limit the covenants,
+liabilities, obligations and duties of the Borrower and the Guarantors under the Loan Documents,
+and (b) the obligations evidenced and secured by the Loan Documents continue in full force and
+effect. Each Guarantor hereby further confirms that it unconditionally guarantees to the extent
+set forth in the Credit Agreement the due and punctual payment and performance of any and all
+amounts and obligations owed to the Lenders under the Credit Agreement or the other Loan Documents.
+
+
+[Signature Page Follows]
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+5
+
+
+
+
+ 
+
+
+
+
+
+
+     IN WITNESS WHEREOF, the parties have caused this Amendment to the Credit Agreement to be duly
+executed as of the date first above written.
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    BORROWER:
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    RANGE RESOURCES CORPORATION
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+
+     
+    /s/ Roger S. Manny
+ 
+Roger S. Manny, Executive Vice President
+
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    GUARANTORS:
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    AMERICAN ENERGY SYSTEMS, LLC
+     
+     
+
+
+     
+     
+    ENERGY ASSETS OPERATING COMPANY, LLC
+     
+     
+
+
+     
+     
+    RANGE ENERGY SERVICES COMPANY, LLC
+     
+     
+
+
+     
+     
+    RANGER GATHERING & PROCESSING COMPANY, LLC
+     
+     
+
+
+     
+     
+    RANGE OPERATING NEW MEXICO, LLC
+     
+     
+
+
+     
+     
+    RANGE PRODUCTION COMPANY
+     
+     
+
+
+     
+     
+    RANGE RESOURCES  APPALACHIA, LLC
+     
+     
+
+
+     
+     
+    RANGE RESOURCES  MIDCONTINENT, LLC
+     
+     
+
+
+     
+     
+    RANGE RESOURCES  PINE MOUNTAIN, INC.
+     
+     
+
+
+     
+     
+    RANGE TEXAS PRODUCTION, LLC
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+
+     
+    /s/ Roger S. Manny
+ 
+Roger S. Manny, Executive Vice President
+
+     
+     
+
+
+     
+
+     
+     
+     
+    of all of the foregoing Guarantors
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    OIL & GAS TITLE ABSTRACTING, LLC
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+
+     
+    /s/ Dori A. Ginn
+ 
+Dori A. Ginn, Vice President
+
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    JPMORGAN CHASE BANK, N.A., as
+     
+     
+
+
+     
+     
+    Administrative Agent and a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+
+     
+    /s/ Kimberly A. Bourgeois
+ 
+Kimberly A. Bourgeois, Senior Vice President
+
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    BANK OF SCOTLAND plc, as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Julia R. Franklin
+ 
+Julia R. Franklin
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Assistant Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    CREDIT AGRICOLE CORPORATE AND
+     
+     
+
+
+     
+     
+    INVESTMENT BANK (f/k/a Calyon New York 
+     
+     
+
+
+     
+     
+    Branch), as a Syndicated Agent and a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Tom Byargeon
+ 
+Tom Byargeon
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Managing Director
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s / Sharada Manne
+ 
+Sharada Manne
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Director
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    COMPASS BANK, as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Spencer Stasney
+ 
+Spencer Stasney
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    BANK OF AMERICA, N.A., as a Documentation 
+     
+     
+
+
+     
+     
+    Agent and a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Jeffrey H. Rathkamp
+ 
+Jeffrey H. Rathkamp
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Managing Director
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    BNP Paribas, as a Documentation Agent and a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Richard Hawthorne
+ 
+Richard Hawthorne
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Director
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Juan Carlos Sandoval
+ 
+Juan Carlos Sandoval
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    NATIXIS (formerly Natexis Banques Populaires), as a 
+Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Liana Tchernysheva
+ 
+Liana Tchernysheva
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Director
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Louis P. Laville, III
+ 
+Louis P. Laville, III
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Managing Director
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    COMERICA BANK, as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ James A. Morgan
+ 
+James A. Morgan
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    CAPITAL ONE, N.A. (f/k/a Hibernia National 
+     
+     
+
+
+     
+     
+    Bank), as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Nancy M. Mak
+ 
+Nancy M. Mak
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    AMEGY BANK N.A. (f/k/a Southwest Bank of 
+     
+     
+
+
+     
+     
+    Texas N.A.), as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Charles W. Patterson
+ 
+Charles W. Patterson
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Senior Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    BMO CAPITAL MARKETS FINANCING, INC.
+     
+     
+
+
+     
+     
+    (f/k/a Harris Nesbitt Financing, Inc.),
+     
+     
+
+
+     
+     
+    as a Syndication Agent and a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ James V. Ducote
+ 
+James V. Ducote
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Director
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    KEYBANK NATIONAL ASSOCIATION, as a
+ Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Todd Coker
+ 
+Todd Coker
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    WELLS FARGO BANK, NATIONAL 
+     
+     
+
+
+     
+     
+    ASSOCIATION (successor in interest by merger to 
+     
+     
+
+
+     
+     
+    Wachovia Bank, National Association), as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ David C. Brooks
+ 
+David C. Brooks
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Director
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    UNION BANK, N.A. (f/k/a Union Bank of
+     
+     
+
+
+     
+     
+    California, N.A.), as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Alison Fuqua
+ 
+Alison Fuqua
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Whitney Randolph
+ 
+Whitney Randolph
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    THE BANK OF NOVA SCOTIA, as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Marc Graham
+ 
+Marc Graham
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Director
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    THE FROST NATIONAL BANK, as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Alex Zemkoski
+ 
+Alex Zemkoski
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    CITIBANK, N.A., as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ John F. Miller
+ 
+John F. Miller
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Attorney-in-fact
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    CREDIT SUISSE AG, Cayman Islands Branch
+     
+     
+
+
+     
+     
+    (f/k/a Credit Suisse, Cayman Islands Branch),
+     
+     
+
+
+     
+     
+    as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Nupur Kumar
+ 
+Nupur Kumar
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Kevin Buddhdew
+ 
+Kevin Buddhdew
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Associate
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    SUNTRUST BANK, as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Gregory C. Magnuson
+ 
+Gregory C. Magnuson
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    SOCIÉTÉ GÉNÉRALE, as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Cameron Null
+ 
+Cameron Null
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    U.S. BANK NATIONAL ASSOCIATION,
+     
+     
+
+
+     
+     
+    as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Daria Mahoney
+ 
+Daria Mahoney
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    DEUTSCHE BANK TRUST COMPANY 
+     
+     
+
+
+     
+     
+    AMERICAS, as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Enrique Landaeta
+ 
+Enrique Landaeta
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Erin Morrissey
+ 
+Erin Morrissey
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    STERLING BANK, as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Jeff Forbis
+ 
+Jeff Forbis
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Senior Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    BARCLAYS BANK PLC,
+     
+     
+
+
+     
+     
+    as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Ann E. Sutton
+ 
+Ann E. Sutton
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Director
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    ROYAL BANK OF CANADA,
+     
+     
+
+
+     
+     
+    as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Don J. McKinnerney
+ 
+Don J. McKinnerney
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Authorized Signatory
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    BANK OF TEXAS, N.A.,
+     
+     
+
+
+     
+     
+    as a Lender
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+Name:
+
+     
+    /s/ Mynan C. Feldman
+ 
+Mynan C. Feldman
+
+     
+     
+
+
+     
+
+     
+    Title:
+
+     
+    Senior Vice President
+     
+     
+
+
+
+
+
+
+TENTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+ 
+
+
+
+
+
+
+

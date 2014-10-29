@@ -1,0 +1,1738 @@
+
+EX-10.(I)
+2
+d231723dex10i.htm
+FIRST AMENDMENT TO REVOLVING CREDIT AGREEMENT
+
+
+FIRST AMENDMENT TO REVOLVING CREDIT AGREEMENT
+
+ 
+
+ EXHIBIT 10(i)  EXECUTION VERSION  FIRST AMENDMENT TO REVOLVING CREDIT AGREEMENT
+ FIRST AMENDMENT TO REVOLVING CREDIT AGREEMENT, dated as of August 3, 2011 (this Amendment), to the
+Revolving Credit Agreement dated as of September 2, 2010 ( the Credit Agreement) among ANADARKO PETROLEUM CORPORATION, a corporation organized under the laws of the State of Delaware, as Borrower, JPMORGAN CHASE BANK, N.A.,
+as Administrative Agent, BANK OF AMERICA, N.A., DNB NOR BANK ASA, THE ROYAL BANK OF SCOTLAND PLC, SOCIETE GENERALE, and WELLS FARGO BANK, N.A, as co-syndication agents, and each of the Lenders from time to time party thereto. 
+W I T N E S S E T H: 
+WHEREAS, pursuant to the Credit Agreement, the Lenders have agreed to make, and have made, certain loans and other extensions of credit
+to the Borrower;  WHEREAS, the Borrower has requested that certain provisions of the Credit Agreement be amended as set forth
+in this Amendment; and  WHEREAS, the Lenders are willing to agree to such amendment on the terms and subject to the
+conditions set forth in this Amendment;  NOW THEREFORE, in consideration of the premises and mutual covenants contained in
+this Amendment, the undersigned hereby agree as follows: 
+I.           Defined Terms; Interpretation; Etc.
+Capitalized terms used but not defined in this Amendment shall have the meanings given to them in the Credit Agreement.  II.          Amendment to the Credit Agreement.  (a)         The definition of Applicable Margin set forth in Section 1.01 of the Credit Agreement is hereby deleted and replaced in its
+entirety as follows:  Applicable Margin  for any day, with respect to any Loan that
+is an Alternate Base Rate Loan or Eurodollar Loan, or with respect to the commitment fees payable hereunder, as the case may be, the applicable rate per annum set forth below under the caption Alternate Base Rate Spread, Eurodollar
+Spread or Commitment Fee Rate, as the case may be, based upon the rating for the senior, unsecured, long-term indebtedness for borrowed money of the Borrower that is not guaranteed by any other Person or subject to any other credit
+enhancement (an Index Debt Rating) by each of Moodys and S&P: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Index Debt Ratings:
+ 
+
+Alternate  Base Rate   Spread  
+ 
+
+Eurodollar   Spread  
+ 
+
+Commitment
+Fee Rate
+
+
+
+
+Category 1:
+Index Debt Rating of at least BBB+ by S&P or at least Baa1 by Moodys
+ 
+0.25%
+ 
+1.25%
+ 
+0.15%
+
+ Category 2:
+Index Debt Rating of at least BBB by S&P or at least Baa2 by Moodys and not Category 1
+ 
+0.50%
+ 
+1.50%
+ 
+0.20%
+
+
+Category 3:
+Index Debt Rating of at least BBB- by S&P or at least Baa3 by Moodys and not Category 2
+ 
+0.75%
+ 
+1.75%
+ 
+0.25%
+
+ Category 4:
+Index Debt Rating of at least BB+ by S&P or at least Ba1 by Moodys and not Category 1, 2 or 3
+ 
+1.00%
+ 
+2.00%
+ 
+0.30%
+
+
+Category 5:
+Index Debt Ratings below Category 4
+ 
+1.50%
+ 
+2.50%
+ 
+0.40%
+ For purposes of the foregoing, (i) if Moodys or S&P shall not have in
+effect an Index Debt Rating for the Borrower (other than by reason of the circumstances referred to in the last sentence of this definition), then such rating agency shall be deemed to have established a rating in Category 5; (ii) if the Index
+Debt Rating established or deemed to have been established by Moodys and S&P shall fall within different Categories, the Applicable Margin shall be based on the higher of the two ratings unless one of the two ratings is two or more
+Categories lower than the other, in which case the Applicable Margin shall be determined by reference to the Category next above that of the lower of the two ratings; and (iii) if the Index Debt Rating established or deemed to have been
+established by Moodys or S&P shall be changed (other than as a result of a change in the rating system of Moodys or S&P), such change shall be effective as of the date on which it is first announced by the applicable rating
+agency. Each change in the Applicable Margin shall apply during the period commencing on the date of such change and ending on the date immediately preceding the date of the next such change. If the rating system of Moodys or S&P changes,
+or if either such rating agency ceases to be in the business of rating corporate debt obligations, the Borrower and the Lenders shall negotiate in good faith to amend this definition to reflect such changed rating system or the unavailability of
+ratings from such rating agency and, pending the effectiveness of any such amendment, the Applicable Margin shall be determined by reference to the rating most recently in effect prior to such change or cessation. Notwithstanding the foregoing,
+(x) unless and until all or substantially all of the Collateral shall have been released with the written consent of all Lenders pursuant to clause (iv) of the proviso in Section 9.02(b) and (y) the Applicable Margin shall not
+then be determined by the provisions of clause (i) of this paragraph, the Applicable Margin shall be determined by reference to the Category immediately above the Category that would otherwise apply. 
+(b)        The definition of Indebtedness set forth in
+Section 1.01 of the Credit Agreement is hereby amended to add the following sentence following the last sentence of such definition: 
+   2 
+
+
+
+
+
+ Notwithstanding anything to the contrary set forth above, obligations
+of the kind referred to in clauses (a) through (i) of the first sentence hereof will not constitute Indebtedness of the Borrower or such Subsidiary if such obligations would not constitute Indebtedness of the
+Borrower or such Subsidiary but for the pledge by the Borrower or such Subsidiary of equity interests in any Person that is not a Subsidiary to secure an obligation of any Person that is not a Subsidiary. 
+(c)        Section 4.08 of the Credit Agreement is hereby deleted and
+replaced in its entirety as follows: 
+            Section 4.08
+Ratings.  Use commercially reasonable efforts to cause Moodys and S&P to have in effect an Index Debt Rating for the Borrower.  (d)        Section 5.05(w) of the Credit Agreement is hereby deleted and replaced in its entirety as follows: 
+(w)           Liens on property other than on Principal Property
+or on other property purported to be Collateral not otherwise permitted by this Section so long as (i) the aggregate outstanding principal amount of the obligations secured thereby does not exceed $1,000,000,000 at any one time (as to the
+Borrower and all Subsidiaries) and (ii) the aggregate fair market value (determined as of the date such Lien is incurred) of the assets subject thereto does not exceed $1,000,000,000 at any one time. 
+(e)        Section 5.05 of the Credit Agreement is hereby amended to add a
+new clause (x) to read in its entirety as follows: 
+(x)            Liens consisting of pledges, by the Borrower
+or a Subsidiary, of equity interests in any Person that is not a Subsidiary so long as the aggregate fair market value (determined as of the date such Lien is incurred) of the equity interests subject thereto does not exceed $300,000,000 at any one
+time.  III.        Conditions Precedent to the Effectiveness of this
+Amendment.  (a)  This Amendment shall become effective as of, and with effect from, the date
+(the Effective Date) on which the Administrative Agent has received:   
+
+
+ 
+(i)
+duly executed signature pages to this Amendment from the Borrower and each Lender party to the Credit Agreement as of the date hereof; and 
+ 
+
+
+ 
+(ii)
+payment by the Borrower, for the account of each Lender that has returned an executed signature page to this Amendment to the Administrative Agent, of an amendment fee
+in an amount equal to 0.10% of the Commitment of such Lender in effect as of the date hereof. 
+(b)  All corporate and other proceedings required in connection with this Amendment, and all documents,
+instruments and other legal matters in connection with the transactions contemplated by this Amendment, shall be satisfactory in all respects to 
+   3 
+
+
+
+
+
+ 
+the Lenders, which satisfaction shall be evidenced by the execution and delivery by the Lenders of this Amendment. 
+(c)  Each of the representations and warranties made by any Loan Party in or pursuant to the Loan Documents
+shall be true and correct in all material respects on and as of such date as if made on and as of such date, except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, on and as of the
+Effective Date, such representations and warranties shall continue to be true and correct as of such specified earlier date; provided, however, that references therein to the Credit Agreement shall be deemed to refer to the Credit
+Agreement as amended by this Amendment after giving effect to the amendments set forth herein. 
+(d)  After giving effect to this Amendment, no Default or Event of Default shall have occurred and be
+continuing as of the date hereof.  (e)  No litigation shall have been commenced against any Loan
+Party or any of its Subsidiaries, either on the date hereof or the Effective Date, seeking to restrain or enjoin (whether temporarily, preliminarily or permanently) the performance of any action by any Loan Party required or contemplated by this
+Amendment or the Credit Agreement. IV.        No Other Amendments;
+Confirmation. Except as expressly set forth herein, this Amendment shall not by implication or otherwise limit, impair, constitute a waiver of, or otherwise affect the rights and remedies of the Lenders, the Agents, the Borrower or any other
+Loan Party under the Credit Agreement or any other Loan Document, and shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan
+Document, all of which are ratified and affirmed in all respects and shall continue in full force and effect. Nothing herein shall be deemed to entitle the Borrower to any future consent to, or a waiver, amendment, modification or other change of,
+any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document in similar or different circumstances. This Amendment shall apply and be effective only with respect to the provisions of
+the Credit Agreement specifically referred to herein. After the Effective Date, any reference in any Loan Document to the Credit Agreement shall mean the Credit Agreement as modified hereby. As of the Effective Date, each reference in the Credit
+Agreement to this Agreement, hereunder, hereof, herein, or words of like import, and each reference in the other Loan Documents to the Credit Agreement (including, without limitation, by means of words
+like thereunder, thereof and words of like import), shall mean and be a reference to the Credit Agreement as amended hereby, and this Amendment and the Credit Agreement shall be read together and construed as a single
+instrument. Each of the table of contents and lists of Exhibits and Schedules of the Credit Agreement shall be amended to reflect the changes made in this Amendment as of the Effective Date. 
+V.         Expenses. The Borrower agrees to reimburse the Administrative Agent and
+the Lenders for their respective reasonable and documented out-of-pocket expenses incurred in connection with this Amendment (including the reasonable fees, disbursements and other charges of Simpson Thacher & Bartlett LLP). Notwithstanding
+the foregoing, nothing in this Section V shall be deemed or construed to amend, modify or limit the scope of Section 9.03 of the Credit Agreement or any of the Credit Parties rights thereunder. 
+VI.        Governing Law. THIS AMENDMENT, THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER
+THIS AMENDMENT AND ANY CLAIM OR CONTROVERSY ARISING OUT OF OR RELATED TO THIS AMENDMENT SHALL BE GOVERNED BY, AND 
+   4 
+
+
+
+
+
+ 
+CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.  VII.       Counterparts. This Amendment may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall
+constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page of this Amendment by email or facsimile transmission shall be effective as delivery of a
+manually executed counterpart of this Amendment.  VIII.      Headings. The Section
+headings used herein are for convenience of reference only, are not part of this Amendment and are not to affect the construction of, or to be taken into consideration in interpreting, this Amendment. 
+IX.        Notices. All communications and notices hereunder shall be given as provided
+in the Credit Agreement.  X.         Severability. Any provision of this
+Amendment held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of
+the remaining provisions hereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.  XI.        Successors. The terms of this Amendment shall be binding upon, and shall inure to the benefit of, the parties hereto and their respective
+successors and assigns.  XII.       Waiver of Jury Trial. EACH PARTY HERETO HEREBY
+WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THE LOAN DOCUMENTS OR THE TRANSACTIONS CONTEMPLATED HEREBY (WHETHER
+BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (a) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION,
+SEEK TO ENFORCE THE FOREGOING WAIVER AND (b) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AMENDMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION. 
+XIII.     Submission to Jurisdiction. Each party hereto hereby irrevocably and unconditionally submits,
+for itself and its property, to the nonexclusive jurisdiction of the courts of the Supreme Court of the State of New York, sitting in New York County and of the United States District Court of the Southern District of New York, and any appellate
+court from either thereof, in any action or proceeding arising out of or relating to this Amendment, or for recognition or enforcement of any judgment, and each of the parties hereto hereby irrevocably and unconditionally agrees that all claims in
+respect of any such action or proceeding may be heard and determined in such New York State court or, to the extent permitted by law, in such Federal court. Each of the parties hereto agrees that a final judgment in any such action or proceeding
+shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Nothing in this Amendment shall affect any right that the Administrative Agent, any of the other agents, any Issuing
+Lender or any Lender may otherwise have to bring any action or proceeding relating to this Amendment against the Borrower or its properties in the courts of any jurisdiction and agrees that nothing herein shall affect the right to effect
+
+   5 
+
+
+
+
+
+ 
+service of process in any other manner permitted by law or shall limit the right to sue in any other jurisdiction.  [Signature Pages Follow] 
+   6 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed by
+their respective officers thereunto duly authorized as of the day and year first above written.   
+
+
+
+
+
+
+
+
+
+
+ANADARKO PETROLEUM CORPORATION
+
+
+
+
+By:
+ 
+ /s/    Bruce W.
+Busmire
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Bruce W.
+Busmire
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Vice President, Finance and Treasurer
+
+   [Signature
+Page  First Amendment to Revolving Credit Agreement] 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A.,
+
+as Administrative Agent and as a Lender
+
+
+
+
+By:
+ 
+ /s/ Muhammad
+Hasan
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Muhammad
+Hasan
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Vice President
+
+   [Signature
+Page  First Amendment to Revolving Credit Agreement] 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ Bank of America, N.A.,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Ronald E.
+McKaig
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Ronald E.
+McKaig
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Managing Director
+
+   [Signature
+Page  First Amendment to Revolving Credit Agreement] 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ DnB NOR Bank ASA, 
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Barbara
+Gromquist
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Barbara
+Gromquist
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Senior Vice President
+
+
+
+
+By:
+ 
+ /s/    Evan Uhlick
+
+Name:
+ 
+ Evan Uhlick
+
+Title:
+ 
+ Vice President
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ The Royal Bank of Scotland plc,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Nathan
+Bautista
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Nathan
+Bautista
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Authorised Signatory
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ Societe Generale
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Stephen
+Warfel
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Stephen
+Warfel
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Managing Director
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ Wells Fargo Bank, National Association,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Leanne S.
+Phillips
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Leanne S.
+Phillips
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Director
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ Barclays Bank PLC,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    May
+Huang
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ May
+Huang
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Assistant Vice President
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ Citibank, N.A.,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    John F.
+Miller
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ John F.
+Miller
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Attorney-in-Fact
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ DEUTSCHE BANK AG NEW YORK
+BRANCH,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Philippe
+Sandmeier
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Philippe
+Sandmeier
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Managing Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Yvonne
+Tilden
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Yvonne
+Tilden
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Director
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ GOLDMAN SACHS BANK USA,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Rick
+Canonico
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Rick
+Canonico
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Authorized Signatory
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ MORGAN STANLEY BANK, N.A.,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Sherrese
+Clarke
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Sherrese
+Clarke
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Authorized Signatory
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ UBS Loan Finance LLC,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Irja R.
+Otsa
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Irja R.
+Otsa
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Associate Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Omar
+Musule
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Omar
+Musule
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Associate Director
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ CREDIT SUISSE AG, Cayman Islands Branch,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Nupur
+Kumar
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Nupur
+Kumar
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Vipul
+Dhadda
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Vipul
+Dhadda
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Associate
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ The Bank of Nova Scotia,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    John
+Frazell
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ John
+Frazell
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Director
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Andrew
+Oram
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Andrew
+Oram
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Managing Director
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ BNP Paribas,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Courtney
+Kubesch
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Courtney
+Kubesch
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Edward
+Pak
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Edward
+Pak
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Director
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ STANDARD CHARTERED BANK,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    James P. Hughes
+
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ James P. Hughes
+A2386
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Robert K.
+Reddington
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Robert K.
+Reddington
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Credit Documentation Manager
+Credit Documentation Unit, WB Legal-Americas
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ The Bank of New York Mellon,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Hussam S.
+Alsahlani
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Hussam S.
+Alsahlani
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Vice President
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ AMEGY BANK NATIONAL ASSOCIATION,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    C. Wakeford
+Thompson
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ C. Wakeford
+Thompson
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Vice President
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ ING CAPITAL, LLC,
+
+ as a Lender
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ /s/    Huma
+Manal
+
+
+
+
+
+
+
+
+
+Name:
+ 
+ Huma
+Manal
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ Director
+
+
+

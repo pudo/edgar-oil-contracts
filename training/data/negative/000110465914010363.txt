@@ -1,0 +1,1079 @@
+
+EX-10.9
+4
+a14-2693_1ex10d9.htm
+EX-10.9
+
+
+
+
+
+
+  
+
+
+Exhibit 10.9
+ 
+LOAN AGREEMENT
+ 
+This Loan Agreement (the Agreement) is dated November 27, 2013 and is made by and among KKM MAKAI, LLLP, a Hawaii limited liability limited partnership (KKM), and KD KONA 2013 LLLP, a Hawaii limited liability limited partnership (KD Kona) (KKM and KD Kona are individually and collectively referred to as the Borrower) and AMERICAN SAVINGS BANK, F.S.B., a federal savings bank (Lender).
+ 
+1.                                    Loan Terms.
+ 
+1.1       Loan Amount; Purpose and Related Information. Lender will make a loan to Borrower in the principal amount of FIVE MILLION AND NO/100 DOLLARS ($5,000,000.00) (the Loan) to be used to finance: (a) a portion of KKMs initial capital contribution to acquire a 60% general partnership interest (KKMs GP Interest) in Kaupulehu Makai, LLLP, a Hawaii limited liability limited partnership (KM LLLP) and (b) a portion of KD Konas initial capital contribution to acquire a 16% limited partnership interest (KD Konas LP Interest) in KM LLLP, which KM LLLP will then use, along with the initial capital contribution of KD Development, LLC, a Delaware limited liability company (KD Development), who is another limited partner of KM LLLP, to acquire the 60% membership interests owned by seller Westbrook United Land Investments, L.P. (WULI) in the following three limited liability companies (collectively, the Companies): (i) WB Kaupulehu, LLC, a Delaware limited liability company (WB Kaupulehu); (ii) WB Kukio Resorts, LLC, a Delaware limited liability company (WB Kukio); and (iii) WB Maniniowali, LLC, a Delaware limited liability company (WB Maniniowali). The remaining 40% interests in each of the Companies is owned by G&K Development, LLC, a Hawaii limited liability company (the Getty Member). The Loan will be available in one disbursement at the closing of the Loan, unless otherwise provided in this Agreement.
+ 
+WB Kaupulehu is the sole member of: (A) WB KD Member, LLC, a Delaware limited liability company, which is the sole member of WB KD Acquisition, LLC, a Delaware limited liability company (WB KD Acquisition LLC) and (B) WB KD Acquisition II, LLC, a Delaware limited liability company (WB KD Acquisition II LLC). WB Kukio, WB Maniniowali, WB KD Acquisition LLC and WB KD Acquisition II LLC are each referred to herein as a Developer Company and, collectively, as the Developer Companies. Each of the Developer Companies is an owner of underlying land and is involved in the development, ownership, marketing, financing and sale of four luxury residential communities on the Kona-Kohala coast of the Island of Hawaii (each, a Project and, collectively, the Projects) commonly known as: (1) Kaupulehu, Increment 1 (Increment 1) owned in fee simple by WB KD Acquisition LLC, subject to mortgage liens in favor of Bank of Hawaii and Kamehameha Schools; (2) Kaupulehu, Increment 2 (Increment 2), which WB KD Acquisition II LLC owns the leasehold interest pursuant to a ground lease with lessor Kamehameha Schools; (3) Kukio Resort owned in fee simple by WB Kukio; and (4) Maniniowali Resort owned in fee simple by WB Maniniowali.
+ 
+The Loan will be evidenced by an Adjustable Rate Promissory Note of even date herewith (the Note) made by Borrower and payable to Lender in the original principal amount of the Loan.
+ 
+1
+
+
+
+
+
+
+ 
+1.2       Interest Rate. The initial interest rate for the Loan shall be Four and one-half percent (4.50%) per annum. The interest rate will be adjusted every twelve (12) months during the term of the Loan as set forth in the Note. Interest shall be computed as provided in the Note. The interest rate may be increased, as set forth in the Note and in this Agreement, in the event Borrower fails to perform its obligations under the Loan Documents.
+ 
+1.3       Repayment of Loan. Monthly payments of accrued interest only shall be due on the first day of each calendar month. All unpaid principal and interest shall be due on December 1, 2015, unless sooner due as hereinafter provided.
+ 
+a.         Prepayment. Borrower may prepay the Loan in full or in part at any time, subject to the conditions set forth in the Note.
+ 
+b.         Late Charges. If any payment due under the Loan is not received by Lender within ten (10) calendar days of the date such payment is due, Borrower shall pay on demand a late charge in a sum equal to five percent (5%) of any amount overdue.
+ 
+c.         Default Interest Rate. Upon the occurrence and during the continuation of any default under this Agreement, all amounts due under the Loan will, at the option of Lender, bear interest at the default rate of interest set forth in the Note.
+ 
+d.         Mandatory Principal Payments. During the term of the Loan, Borrower agrees to make mandatory principal payments with respect to the Loan as follows:
+ 
+i.          A principal payment in an amount equal to 67% of an Increment 1 Percentage Payment as and when KD receives such payment pursuant to its rights under the Increment 1 PSA.
+ 
+ii.         A principal payment in an amount equal to 67% of an Increment 2 Percentage Payment as and when KD receives such payment pursuant to its rights under the Increment 2 PSA.
+ 
+iii.        A principal payment in an amount equal to 100% of each cash distribution made by KM LLLP to either or both Borrower pursuant to Borrowers rights under the KM LLLP Partnership Agreement.
+ 
+iv.        A principal payment in an amount equal to $1,400,000.00 from the sales proceeds received by Accommodation Obligor from the sale of the House/Lot.
+ 
+v.         A principal payment in an amount equal to all of the Net Sales Proceeds from the sale of each of the Finished Lots Net Sales Proceeds means the gross sales price for a Finished Lot minus reasonable real estate commissions and other customary and standard closing costs not to exceed, in the aggregate, seven percent (7%) of the gross sales price of the Finished Lot. Lender shall have the right to review the closing statements for the sale of each Finished Lot to insure that Lender is being paid all of the Net Sales Proceeds, and to review such commissions and closing costs to be deducted in the calculation of Net Sales Proceeds.
+ 
+2
+
+
+
+
+
+
+ 
+1.4       Security for Loan. The security for the Loan shall be the following:
+ 
+a.         An absolute assignment in favor of Lender of sixty-seven percent (67%) of the right and interest of Kaupulehu Developments, a Hawaii general partnership (KD), in and to those certain percentage payments to be paid by WB KD Acquisition LLC to KD (each, an Increment 1 Percentage Payment) pursuant to the terms of that certain Purchase and Sale Agreement by and between KD and WB KD Acquisition LLC dated February 13, 2004 (Increment 1 PSA).
+ 
+b.         An absolute assignment in favor of Lender of sixty-seven percent (67%) of KDs right and interest in and to those certain percentage payments to be paid by WB KD Acquisition II LLC to KD (each, an Increment 2 Percentage Payment) pursuant to the terms of that certain Amended and Restated Agreement as to Lot 4A, Increment 2 by and among KD, WB KD Acquisition LLC and WB KD Acquisition II LLC dated May 27, 2009 (the Increment 2 PSA).
+ 
+c.         The Mortgage, Security Agreement, Assignment of Leases and Rents, Fixture Filing, and Financing Statement of even date herewith made by Kaupulehu 2007, LLLP, a Hawaii limited liability limited company (Accommodation Obligor) in favor of Lender (the Accommodation Mortgage) granting a second mortgage lien (subject only to the first mortgage lien in favor of the Lender) encumbering three (3) lots of real property located at Kaupulehu, Hawaii (bearing Tax Map Key Nos. (3) 7-2-031: 022, 026 and 028), more particularly described in Exhibit A attached hereto and made a part hereof. The term Property shall mean such real property, together with all buildings, structures and other improvements now or hereafter located thereon (the Improvements), and the personal property described in the Accommodation Mortgage and the other Loan Documents (as defined below) (the Personalty). One (1) of the three (3) lots comprising the Property is improved with a residential house (the House Lot), and the remaining two (2) lots are finished for future construction of a house thereon (the Finished Lots).
+ 
+d.         The pledge of KKMs GP Interest in KM LLLP.
+ 
+e.         The pledge KD Konas LP Interest in KM LLLP.
+ 
+f.          The pledge(s) of the 10% membership interests in each Company that KKM, KM LLLP or an assignee of KM LLLP directly receives in any of the Companies pursuant to the WULI Interest PSA (as defined below), as and when such interests are received by KKM, KM LLLP or such assignee (each, an Additional Interest Pledge).
+ 
+g.         An absolute assignment in favor of Lender in and to all of the cash distributions to be made from KM LLLP to either Borrower pursuant to the Limited Liability Limited Partnership Agreement of Kaupulehu Makai, LLLP dated November 27, 2013 (the KM LLLP Partnership Agreement).
+ 
+h.         A perfected security interest in all furniture, fixtures, equipment and other personal property owned by Accommodation Obligor located on or used in connection with the day-to-day operation of the Property.
+ 
+3
+
+
+
+
+
+
+ 
+i.          A perfected second lien security interest in Accommodation Obligors deposit accounts with the Lender, accounts receivable, general intangibles, documents of title, tradenames and licenses, inventory, furniture, fixtures and equipment, now or hereafter acquired located within and outside the State of Hawaii.
+ 
+j.          The pledge of Borrowers Interest Reserve Account as more particularly described below.
+ 
+k.         The pledge of Borrowers Pledged Account as more particularly described below.
+ 
+1.5       Documentation.  At or prior to the closing of the Loan, Borrower must deliver the following documents and other items, executed and acknowledged as appropriate, all in form and substance satisfactory to Lender:
+ 
+a.         the Loan Documents (which means this Agreement, the Note, the security agreement, financing statements, pledges, absolute assignment agreements and any other documents evidencing, securing, guaranteeing or governing the Loan (except for the Accommodation Mortgage and the security agreement to be made by Accommodation Obligor), as they may be extended, renewed or modified from time to time);
+ 
+b.         a satisfactory appraisal of each of the 3 lots comprising the Property done by an appraiser approved by Lender in accordance with the Uniform Standards of Professional Appraisal Practices and federal applications applicable to Lender, reflecting a market value for each such lot in an amount acceptable to Lender;
+ 
+c.         evidence of the liability and other insurance coverage of KM LLLP, the Developer Companies and such others as required under this Agreement or otherwise by Lender in writing;
+ 
+d.         true and correct copies of the organizational documents of Borrower, Borrowers general partner and limited partners, each Guarantor, KM LLLP, each of the Companies, WB KD Acquisition LLC, WB KD Acquisition II LLC, and KD (collectively, the Affiliates), including any amendments and restatements thereof, evidence of such entities due formation and good standing (certificate of good standing), as well as due authorization and execution of the Loan Documents, as applicable, by such entities;
+ 
+e.         full payment of all fees, advances and costs, including but not limited to any loan or commitment fees, recording and filing fees, and escrow and title fees;
+ 
+f.          if required by Lender, a written opinion or opinions of legal counsel for Borrower and the Guarantors (as defined below), addressed to Lender, covering to Lenders satisfaction (1) the due authorization, execution, delivery, binding effect and enforceability of the Loan Documents, (2) no undisclosed litigation, (3) no consents or approvals required, (4) no conflicts with or violations of any agreements or laws, and (5) such other matters as Lender may require;
+ 
+4
+
+
+
+
+
+
+ 
+g.         true and correct copy of the letter of intent signed and delivered by Hualalai Investors, LLC (Hualalai) to Borrower, concerning the joint development of Increment 1 and Increment 2 (the Joint Development LOI), such letter of intent to have substantially similar form and content as the letter of intent issued by Hualalai dated October 24, 2013;
+ 
+h.         the purchase and sale agreement and any amendments thereto for KM LLLPs acquisition of WULIs membership interests in the Companies (collectively, the WULI Interest PSA);
+ 
+i.          the purchase and sale agreements evidencing KDs rights and entitlements to percentage payments in connection with the sale of all or any portion of the properties comprising Increment 1 and Increment 2;
+ 
+j.          on a best efforts basis, (i) the written consent to the pledge of KKMs GP Interest in KM LLLP and (ii) the written consent to the pledge of KD Konas LP Interest in KM LLLP, by the remaining partners of KM LLLP;
+ 
+k.         a true and correct copy of the assignment of membership interests in each of the Companies from WULI to KM LLLP;
+ 
+l.          an estoppel certificate signed and delivered by the Getty Member in favor of KM LLLP and each of its partners, certifying that the Companies operating agreements are in full force and effect and unchanged, except as disclosed in said certificate, and that WULI is not in default under such operating agreements which KM LLLP will be responsible to cure; and
+ 
+m.        such other documents, property information and other assurances as Lender may require.
+ 
+1.6       Additional Closing Conditions. The obligation of Lender to make the Loan under this Agreement is also subject to the satisfaction of the following conditions on or before the date on which the Lender shall make any disbursement of Loan proceeds to Borrower (the Closing Date):
+ 
+a.         Borrower shall have opened a demand deposit account (the Interest Reserve Account) with Lender and shall have funded an opening minimum balance of $1,000,000.00 (the Interest Reserve). Borrower shall have delivered to Lender irrevocable instructions for the Lender to automatically withdraw from the Interest Reserve a sufficient amount to pay for payments as and when they become due in accordance with the provisions of the Note. The Interest Reserve Account and the funds therein shall be pledged to Lender as security for the Loan; Borrower shall be restricted from withdrawing such funds or closing the Interest Reserve Account except as expressly set forth in the pledge agreement.
+ 
+b.         Borrower shall have opened a demand deposit account (the Pledged Account) with Lender and shall have funded an opening minimum balance of $1,000,000.00 (the Pledged Funds). The Pledged Account and the funds therein shall be pledged to Lender as security for the Loan; Borrower shall be restricted from withdrawing the Pledged Funds or closing the Pledged Account, provided that: (i) Borrower shall be entitled to withdraw $500,000
+ 
+5
+
+
+
+
+
+
+ 
+from the Pledged Account upon delivery to the Lender a true and correct copy of the fully-executed Joint Development LOI between Borrower or its affiliate and Hualalai in substantially similar form and content as the one Borrower received as a condition to closing of the Loan; and (ii) Borrower shall have the right to withdraw the remaining balance from the Pledged Account and to have the pledge of the Pledge Account released as security for the Loan upon delivery to Lender of a fully-executed joint development agreement between Borrower or its affiliate and Hualalai for the joint development of Increment 1 and Increment 2. The joint development agreement shall be materially consistent with the terms of the Joint Development LOI, unless the prior written consent of Lender is obtained, and in any event be in form and with content reasonably acceptable to Lender.
+ 
+1.7       Guarantors. Repayment of the Loan shall be guaranteed (as more particularly described in that certain guaranty dated the date hereof (the Guaranty) by the following persons and/or entities, jointly and severally (each, a Guarantor and, collectively, the Guarantors): BARNWELL INDUSTRIES, INC., a Delaware corporation (Barnwell); NOBLE ENTERPRISES, INC., a Nevada corporation (Noble); and NEARCO, INC., a Washington corporation (Nearco).
+ 
+1.8       Post-Closing Documentation. Within thirty (30) calendar days after the Closing Date, Borrower promises to deliver the following documents and other items, executed and acknowledged as appropriate, all in form and substance satisfactory to Lender:
+ 
+a.         the Accommodation Mortgage, encumbering the Property, and the security agreement relating to the collateral to be granted pursuant to Section 1.4.h. described hereinabove;
+ 
+b.         an American Land Title Association (ALTA) title insurance policy insuring Lender that the Accommodation Mortgage constitutes a valid and enforceable second lien on the Property subject and subordinate only to such liens or other matters as Lender has approved in writing, and with such endorsements as Lender may reasonably require;
+ 
+c.         a financing statement and personal property lien report, advising Lender that a search of the public records discloses no security agreements, chattel mortgages, financing statements, title retention agreements, notices or certificates of tax liens or other instruments or documents filed or recorded against Accommodation Obligor, except those which may have been approved by Lender in writing;
+ 
+d.         an Environmental Questionnaire and Disclosure Statement prepared and certified by Borrower, or, if Lender requires, an environmental survey of the Property prepared by an environmental consultant satisfactory to Lender;
+ 
+e.         a tax clearance certificate or certificates issued by the Department of Taxation of the State of Hawaii, certifying that all taxes due from Accommodation Obligor to the State of Hawaii have been paid;
+ 
+f.          if requested, a survey of the Property and the improvements thereon certified to Lender in accordance with the standards of the ALTA and the American Congress on Surveying & Mapping; and
+ 
+6
+
+
+
+
+
+
+ 
+g.         evidence of the casualty and other insurance coverage as required under the Accommodation Mortgage or otherwise by Lender in writing.
+ 
+2.                                    Covenants of the Borrower.
+ 
+Borrower promises to keep each of the following covenants:
+ 
+2.1       Payment of Loan. Borrower will pay when due all sums which may be due under the Loan Documents.
+ 
+2.2       Existence. Borrower shall preserve and maintain Borrowers and KM LLLPs legal existence and timely file all necessary and appropriate documents and exhibits and pay all appropriate fees and charges therewith. KKM, as general partner of KM LLLP, shall preserve and maintain the legal existence and timely file all necessary and appropriate documents and exhibits and pay all appropriate fees and charges related to the existence of KM LLLP and each of the Development Companies.
+ 
+2.3       Compliance with Law and Title Encumbrances. Borrower shall comply, and shall cause KM LLLP and each of the other Affiliates to comply, as applicable, with all existing and future laws, ordinances, rules, regulations, orders, building restrictions and requirements of, and all permits and approvals from, and agreements with and commitments to, all governmental, judicial or legal authorities having jurisdiction over Borrower, KM LLLP, Accommodation Obligor, the Property, the Projects or the Developer Companies business conducted thereon or therefrom, and with all restrictive covenants and other title encumbrances encumbering the Projects or the Property, including without limitation the Environmental Laws (described below and in the Accommodation Mortgage), the Americans with Disabilities Act, the Federal Fair Housing Act, as amended, Terrorism Laws (meaning Executive Order 13224 issued by the President of the United States of America, the Terrorism Sanctions Regulations (Title 31, Part 595 of the U.S. Code of Federal Regulations), the Terrorism List Governments Sanctions Regulations (Title 31, Part 596 of the U.S. Code of Federal Regulations), and the Foreign Terrorist Organizations Sanctions Regulations (Title 31, Part 597 of the U.S. Code of Federal Regulations), and all other present and future federal, state and local laws, ordinances, regulations, policies and any other requirements of any governmental agency or body (including, without limitation, the United States Department of the Treasury Office of Foreign Assets Control) addressing, relating to, or attempting to eliminate, terrorist acts and acts of war, each as hereafter supplemented, amended or modified from time to time, and the present and future rules, regulations and guidance documents promulgated under any of the foregoing, or under similar laws, ordinances, regulations, policies or requirements of other States or localities), and any laws, ordinances, rules, regulations or governmental orders the violation of which subjects or may subject the Property or the Projects or any portion thereof or interest therein to forfeiture or seizure or Borrower, the Affiliates or Lender to any civil or criminal fines or penalties (all collectively, the Requirements).
+ 
+2.4       Change in Nature of Business, Organizational Documents and Other Agreements. As long as this Agreement remains in effect, the Note remains outstanding and unpaid or any other amount is owing to Lender under any of the Loan Documents, the Borrower, will not, without the prior written consent of Lender, (a) change the nature of its business or the business
+ 
+7
+
+
+
+
+
+
+ 
+of KM LLLP or the Developer Companies, as conducted or proposed to be conducted on and as of the date hereof, or engage in any type of business not reasonably related to such business; (b) amend, modify, revise, supplement or otherwise change the terms of Borrowers, KM LLLPs, and any of the Companies or the Developer Companies Organizational Documents in a manner that violates any other provisions of the Loan Documents or which would adversely affect the Loan, the Borrowers Loan repayment obligations or the Lenders rights under the Loan Documents; and (c) amend, modify, revise, supplement or otherwise change the terms of the Increment 1 PSA, the Increment 2 PSA or the WULI Interest PSA. Organizational Documents means, with respect to a corporation, its articles of incorporation and bylaws and all amendments thereto, with respect to a limited liability company, its articles of organization and operating agreements and all amendments thereto, and with respect to a partnership or joint venture (of any kind), its partnership or joint venture agreement, and all amendments thereto.
+ 
+2.5       Accounting Records.  Borrower shall maintain for itself and for KM LLLP and the Companies accurate and proper accounting records and books, and provide Lender with access to such books and accounting records at Lenders request during normal business hours.
+ 
+2.6       Taxes and Other Liabilities. Borrower shall pay and discharge when due all of Borrowers indebtedness, obligations, assessments and taxes, except such as Borrower may in good faith contest or as to which a bona fide dispute may exist, provided that, if requested, Borrower shall provide evidence satisfactory to Lender regarding Borrowers ability to pay the disputed items in the event they are determined to be justly due.
+ 
+2.7       Insurance. Borrower shall obtain, maintain and keep in force insurance of the types and in such amounts as are satisfactory to the Lender, and in no event less than amounts customarily carried in lines of business similar to the Borrowers and the Developer Companies, including but not limited to, property and casualty, flood, commercial general liability and workers compensation insurance, and provide the Lender with a schedule or schedules or certificates of insurance from time to time setting forth all insurance then in effect along with copies of all such policies.
+ 
+If real or personal properties are given to secure either the obligations under the Loan Documents or any guaranty given in support of such obligations, such properties shall be covered by property and casualty insurance acceptable to the Lender, and such policies shall contain a mortgagees clause and/or lenders loss payable endorsement and shall require thirty (30) days prior written notice to the Lender of any cancellation or material change in coverage.
+ 
+2.8       Preservation of Rights. Borrower shall obtain, preserve and maintain in good standing, as applicable, all licenses and governmental approvals, rights, privileges and franchises necessary or desirable for the operation of the Projects and the conduct of Borrowers business thereon and therefrom.
+ 
+2.9       Maintenance and Repair. Borrower shall (i) maintain the Projects, in good condition and repair, and (ii) pay when due all claims for labor performed and materials furnished therefor in connection with any improvements or construction activities.
+ 
+8
+
+
+
+
+
+
+ 
+2.10     Payment of Expenses. Borrower must pay all costs and expenses incurred by Lender in connection with the making, disbursement and administration of the Loan, including any releases or partial releases of the House/Lot or either of the Finished Lots from the lien of the Accommodation Mortgage, as well as any revisions, extensions, renewals or workouts of the Loan, and in the exercise of any of Lenders rights or remedies under this Agreement. Such costs and expenses include title insurance, recording and escrow charges, fees for appraisal, environmental services, legal fees and expenses of Lenders counsel and any other reasonable fees and costs for services, regardless of whether such services are furnished by Lenders employees or by independent contractors. Borrower acknowledges that the loan fee does not include amounts payable by Borrower under this section. All such sums incurred by Lender and not immediately reimbursed by Borrower are considered additional loans to Borrower secured by the Accommodation Mortgage and bearing interest at the default rate provided in the Note.
+ 
+2.11     Affirmative Covenants. For as long as the Loan is outstanding, Borrower will or will cause each entity identified below, unless otherwise permitted by Lender in writing, to do the following (and with respect to any reports and other materials to be delivered hereunder, such reports and other materials shall in each case be in form and with substance acceptable to Lender):
+ 
+a.         Barnwell shall provide Lender, within one hundred twenty (120) days of the close of Barnwells fiscal year, with annual 10-K and annual financial statements, audited by a firm of independent certified public accountants (CPA), together with an unqualified CPA opinion to the same.
+ 
+b.         Barnwell shall provide Lender, within sixty (60) days after the end of each quarter of each fiscal year (except for the fiscal year end quarter), a quarterly 10-Q, signed by Barnwell.
+ 
+c.         Borrower shall provide copies of its annual federal income tax returns and any extensions thereof, together with all supporting schedules, within sixty (60) days of the applicable filing date.
+ 
+d.         Borrower shall provide a sales activity and escrow report for the immediately prior fiscal quarter of all projects and properties directly or indirectly, partially or wholly owned by Borrower, certified as true and correct by Borrower, within sixty (60) days of the close of Borrowers fiscal quarter.
+ 
+e.         Noble and Nearco shall provide annual financial statements or a net worth statement, prepared or issued by such corporations accountant or bank and certified as true and correct by the chief financial officer of such corporation, within one hundred twenty (120) days of the close of such corporations fiscal year.
+ 
+f.          Each of the Companies and KM LLLP shall provide Lender, within one hundred eighty (180) days of the close of each such entities fiscal year, with annual financial statements, prepared by a firm of CPAs and certified as true and correct by the managing member or general partner of such entity.
+ 
+9
+
+
+
+
+
+
+
+ 
+g.         Each of the Companies and KM LLLP shall provide a sales activity and escrow report for the immediately prior fiscal quarter of all projects and properties directly or indirectly, partially or wholly owned by such entities, certified as true and correct by the managing member or general partner of such entity, within sixty (60) days of the close of such entities fiscal quarter.
+ 
+h.         Promptly from time to time on request, Borrower shall provide or shall cause Guarantors, Companies and KM LLLP to provide Lender with any other financial or other information concerning any of their business, conditions and affairs as Lender may reasonably request.
+ 
+i.          Borrower shall conduct and carry on its business in substantially the same field of activity as has been originally planned and as documented in the application for the Loan.
+ 
+j.          Borrower will cause any loans to KM LLLP from a partner of KM LLLP or made between Borrower and KM LLLP to be subordinated to the Loan.
+ 
+k.         Borrower will cause Barnwell to maintain Barnwells financial condition at all times satisfactory to Lender, and maintain a Debt Service Coverage Ratio for the Loan of not less than 1.20 to one.
+ 
+Debt Service Coverage Ratio means Adjusted EBITDA of Barnwell for the twelve (12) months preceding the date of calculation divided by Total Debt Obligations for the same period of time on a rolling four (4) quarters basis. Adjusted EBITDA means earnings before interest, taxes and non-cash expenses, plus (a) cash contributions from minority shareholders, minus (b) 50% of non-financed oil and gas capital expenditures, (b) 100% of other unfinanced capital expenditures, (c) cash dividends and cash distributions, (d) retirement plan contributions, and (e) stock repurchases.  Total Debt Obligations is the total amount of the required principal and interest payments to Lender (excluding interest payment to be made from the Interest Reserve) and other parties that are unrelated to Barnwell over the twelve-month period preceding the date of calculation.
+ 
+Borrower shall provide evidence of the maintenance of this Debt Service Coverage Ratio in form and content satisfactory to Lender annually and also at other times upon request by Lender.
+ 
+i.          Borrower will cause Barnwell to maintain a Total Liabilities to Consolidated Tangible Net Worth ratio not to exceed the following ratios:
+ 
+(A)       While the first mortgage loan between Barnwell and Accommodation Obligor, as borrowers, and Lender, as lender (the Kaupulehu 2007 Loan), remains outstanding:
+ 
+(1)        2.65 to one for the fiscal year-ending September 30, 2014;
+ 
+10
+
+
+
+
+
+
+ 
+(2)        2.30 to one for the fiscal year-ending September 30, 2015;
+ 
+and
+ 
+(3)        2.00 to one for the fiscal year-ending September 30, 2016.
+ 
+(B)       Upon full repayment of the Kaupulehu 2007 Loan,
+ 
+(1)        2.00 to one for fiscal year-ending September 30, 2014; and
+ 
+(2)        1.85 to one thereafter.
+ 
+Consolidated Tangible Net Worth means that amount, determined on a consolidated basis in accordance with GAAP, that is equal to the Barnwells Total Assets less intangible assets, minus Total Liabilities, plus the principal amount of subordinated debt outstanding. Total Assets means all assets of the Barnwell, on a consolidated basis, that should, in accordance with GAAP, be classified as assets on the Barnwells financial statements. Total Liabilities means all liabilities of the Barnwell, on a consolidated basis, that should, in accordance with GAAP, be classified as liabilities on the Barnwells financial statements.
+ 
+2.12     Negative Covenants. As long as the Loan is outstanding, Borrower shall not, without Lenders prior written consent, do any of the following:
+ 
+a.         Enter into any merger or consolidation or assign, transfer, sell (including by way of agreement of sale), lease, or otherwise dispose of all or a substantial part of its assets, except in the ordinary course of its business as planned and as documented in the application for the Loan.
+ 
+b.         Change the ownership of KM LLLP.
+ 
+c.         Declare cash dividends or bonuses to officers, directors, partners, members or owners of Borrower, unless after tax profit was made in the preceding fiscal year and all of Borrowers debts are paid to current status.
+ 
+d.         Create, incur or permit to exist any liabilities for Borrower or KM LLLP resulting from borrowing, loans or advances, secured or unsecured, except for the liabilities of Borrower to Lender under this Agreement.
+ 
+2.13     Notices. Borrower must promptly notify Lender in writing of:
+ 
+a.         Any litigation affecting Borrower or any Affiliate, or the Projects or the Property, and any general partner or controlling shareholder or managing member of Borrower or any Affiliate, where the amount claimed is $50,000.00 or more; or
+ 
+11
+
+
+
+
+
+
+ 
+b.         Any notice that the Projects or the Property or Borrowers or any Affiliates business fails in any respect to comply with any applicable law, regulation or court order; or
+ 
+c.         Any material adverse change in the physical condition of the Projects or the Property or Borrowers or Affiliates financial condition or operations or other circumstance that adversely affects Borrowers intended development and sale of the Projects or the Property or Borrowers ability to repay the Loan.
+ 
+2.14     Indemnity. Borrower agrees to indemnify, defend with counsel acceptable to Lender, and hold Lender harmless from and against all liabilities, claims, actions, damages, costs and expenses (including all legal fees and expenses of Lenders counsel) arising out of or resulting from the ownership, management and operation of KM LLLP and the Companies, whether such claims are based on theories of derivative liability, comparative negligence or otherwise. Notwithstanding anything to the contrary in any other Loan Document, the provisions of this Section 2.14 shall survive the termination of this Agreement, repayment of the Loan and foreclosure of the Accommodation Mortgage or similar proceedings.
+ 
+2.15     Performance of Acts. Upon request by Lender, Borrower must perform all acts which may be necessary or advisable to perfect any lien or security interest provided for in the Loan Documents or to carry out the intent of the Loan Documents.
+ 
+2.16     Maintenance of Depository Relationship. Borrower shall, at all times while any portion of the Note remains unpaid, maintain a depository relationship with Lender, unless the same is contrary to state or federal law or regulations.
+ 
+3.                                    Representations and Warranties.
+ 
+Borrower promises that each representation and warranty set forth below is true, accurate and correct.
+ 
+3.1       Formation; Authority. If Borrower is anything other than a natural person (but not a trustee), it has complied with all laws and regulations concerning its organization, existence and the transaction of its business, and is in good standing in each state in which it conducts its business. Borrower is authorized to execute, deliver and perform its obligations under each of the Loan Documents.
+ 
+3.2       Compliance With Law. There are no claims, actions, proceedings or investigations pending or threatened against Borrower, KM LLLP or any of the Companies or the Developer Companies.
+ 
+3.3       No Violation. The execution and delivery of this Agreement and the other Loan Documents and the performance by Borrower of its obligations hereunder and thereunder will not result in a default under any other material agreement to which Borrower is a party, or violate any Requirements.
+ 
+3.4       Litigation. There is, to the knowledge of Borrower, no action, suit, proceeding or investigation pending at law or in equity or before any federal, state, territorial, municipal or
+ 
+12
+
+
+
+
+
+
+ 
+other governmental department, commission, board, bureau, agency or instrumentality or threatened against or affecting Borrower which might materially adversely affect Borrowers ability to operate its business or to perform its obligations under the Loan Documents.
+ 
+3.5       Financial Information. All financial information which has been and will be delivered to Lender, including all information relating to the financial condition of Borrower, any Affiliate or any of their partners, shareholders, members, or other principals, the Projects and the Property, does and will fairly and accurately represent the financial condition being reported on. As of the date hereof, there has been no material adverse change in any financial condition reported at any time to Lender.
+ 
+3.6       Borrower Not a Foreign Person. Borrower is not a foreign person within the meaning of Section 1445(f)(3) of the Internal Revenue Code of 1986, as amended from time to time.
+ 
+3.7       Disclosure to Affiliates and Third Parties. Before each, if applicable, Affiliate or third party executing the Accommodation Mortgage, the pledge agreements or other instrument securing or guaranteeing the Loan, became obligated in connection with the Loan, Borrower made full disclosure to that person regarding Borrowers financial condition and business operations and all other circumstances bearing upon Borrowers ability to pay and perform its obligations under the Loan Documents.
+ 
+3.8       Other Agreements. To Borrowers knowledge, there is no default nor any event with the passage of time or notice or both which would result in a default under the Increment 1 PSA, the Increment 2 PSA, the WULI Interest PSA or any Organizational Document of Borrower or any Affiliate.
+ 
+3.9       Commercial Loan. Borrower acknowledges and agrees that the Loan is for a commercial purpose and is not a consumer transaction under the Truth-in-Lending Act, 15 U.S.C. § 1601, et seq., and Regulation Z promulgated thereunder.
+ 
+4.                                    Default and Remedies.
+ 
+4.1       Events of Default. Borrower will be in default under this Agreement upon the occurrence of any one or more of the following events (Event of Default):
+ 
+a.         Borrower fails to make any payment due under the Note or Borrower fails to make any payment demanded by Lender under any other Loan Document; or
+ 
+b.         Borrower fails to timely observe, perform and comply with any covenant contained in this Agreement other than those referred to in clause (a), and does not cure that failure within thirty (30) calendar days after written notice from Lender; or
+ 
+c.         A default is declared or occurs under any of the other Loan Documents (and, if a cure period is provided with respect to said default, said default is not fully cured within the period provided in said Loan Document for cure of said default); or
+ 
+13
+
+
+
+
+
+
+ 
+d.         There shall be a sale, transfer, hypothecation, encumbrance, assignment or conveyance of the Property, or any portion thereof or interest therein, by Accommodation Obligor without the prior written consent of Lender, except as permitted under the Accommodation Mortgage and subject to payment of the release price and other conditions set forth in the Accommodation Mortgage; or
+ 
+e.         Borrower or any guarantor, or its managing general partner, if Borrower is a partnership, or its majority shareholder if Borrower is a corporation, or its manager or managing member if Borrower is a limited liability company, becomes insolvent or the subject of any bankruptcy or other voluntary or involuntary proceeding, in or out of court, for the adjustment of debtor-creditor relationships; or
+ 
+f.          Borrower or any guarantor dissolves, terminates, or liquidates, or any of these events happens to Borrowers managing general partner if it is a partnership or to its majority shareholder if it is a corporation, or its manager or managing member if Borrower is a limited liability company, or if Borrower is a trust, the trust is revoked or materially modified or there is a change or substitution of the trustee; or
+ 
+g.         Borrower or any guarantor dies or becomes permanently disabled, or any of these events happens to Borrowers managing general partner, if it is a partnership, or managing member, if it is a limited liability company, its chief executive officer, if it is a corporation, or its trustee, if it is a trust; or
+ 
+h.         Any representation or warranty made or given by Borrower in this Agreement or any other Loan Document proves to be false or misleading in any material respect; or
+ 
+i.          Any guarantor revokes its guaranty or any guaranty becomes ineffective for any reason; or
+ 
+j.          Lender fails to have an enforceable lien on or security interest in the priority required hereunder in any property given as security for the Loan (except for liens approved by Lender in writing); or
+ 
+k.         A judgment in an amount greater than $50,000.00 in excess of any insurance coverage is entered against Borrower or any obligor under any of the Loan Documents, or any government authority takes action that materially adversely affects or Borrowers or any co-makers ability to repay the Loan; or
+ 
+l.          Borrower, any co-maker or any person affiliated with Borrower or any co-maker fails to meet the conditions of, or fails to perform any obligation under, any other agreement Borrower or any co-maker has with Lender or any affiliate of Lender. For the purposes of this section, affiliated with means in control of, controlled by or under common control with; or
+ 
+m.        Borrower, any co-maker or any person affiliated with Borrower or any co-maker defaults in connection with any credit such person has with any lender, if the default consists of the failure to make a payment when due or gives the other lender the right to
+ 
+14
+
+
+
+
+
+
+ 
+accelerate the obligation. For the purposes of this section, affiliated with means in control of, controlled by or under common control with; or
+ 
+n.         There is a material adverse change in Borrowers or any co-makers or any guarantors financial condition, or an event occurs or condition changes that materially impairs Borrowers or any co-makers ability to repay the Loan.
+ 
+o.         A default is declared by Kamehameha Schools, as ground lessor, of Increment 2 for the failure of the ground lessee to obtain such ground lessors consent to the transfer of any interest in the ground lessee.
+ 
+4.2       Remedies. If an Event of Default occurs under this Agreement, Lender may exercise any right or remedy which it has under any of the Loan Documents, or which is otherwise available at law or in equity or by statute, and all of Lenders rights and remedies shall be cumulative. All of Borrowers obligations under the Loan Documents shall become immediately due and payable without notice of default, presentment or demand for payment, protest or notice of nonpayment or dishonor, or other notices or demands of any kind or character, all at Lenders option, exercisable in its sole discretion.
+ 
+Notwithstanding any provision in any of the Loan Documents to the contrary and in addition to the foregoing, in the event Borrower or any Affiliate shall violate any covenant contained in Section 2.11(a) through (g) of this Agreement, then Lender, at its sole option and upon written notice to Borrower, may increase the interest rate under the Note by one percent (1.0%) from the interest rate then in effect, and adjust the monthly payments due under the Note accordingly. If such violation is cured, then the interest rate shall be reduced to the interest rate then in effect under the provisions of the Note and the monthly payments due under the Note shall be readjusted accordingly.
+ 
+Notwithstanding any provision in any of the Loan Documents to the contrary and in addition to the foregoing, in the event Borrower or any Guarantor shall violate any covenant contained in Section 2.11(h) through 2.11(1) of this Agreement, then the interest rate under the Note shall be increased, at Lenders sole option and upon written notice to Borrower or any Guarantor, by one percent (1.0%) from the interest rate then in effect and the monthly payments due under the Note shall be adjusted accordingly. If such violation is not cured within 45 days after the increase in the interest rate, then the interest rate will be increased effective at the end of such 45 day period, at Lenders sole option and upon written notice to Borrower or such Guarantor, by an additional one percent (1.0%) and the monthly payments due under the Note shall be adjusted accordingly. If such violation is cured, then the interest rate shall be reduced to the interest rate then in effect under the provisions of the Note and the monthly payments due under the Note shall be readjusted accordingly.
+ 
+4.3       Lenders Right of Setoff. Unless specifically addressed in the Loan Documents, at any time Lender may set off obligations owed by Lender to Borrower (such as balances in checking and savings accounts, including the Interest Reserve Account and the Pledged Account) against the amounts due under the Loan, whether or not an Event of Default shall have occurred or shall have been declared, and without first resorting to other collateral securing payment of the Loan.
+ 
+15
+
+
+
+
+
+
+ 
+4.4       Provisional Remedies, Self-Help and Foreclosure. No provision of this Article 4 limits the right of any party to this Agreement to exercise self-help remedies such as setoff, foreclosure against or sale of any real or personal property collateral or security, or obtaining provisional or ancillary remedies from a court of competent jurisdiction before, after, or during the pendency of any arbitration or other proceeding. The exercise of a remedy does not waive the right of either party to resort to arbitration or reference. At Lenders option, foreclosure under a deed of trust or mortgage may be accomplished either by exercise of power of sale under the deed of trust or mortgage or by judicial foreclosure.
+ 
+5.                                    Miscellaneous Provisions.
+ 
+5.1       No Waiver; Consents. No alleged waiver by Lender is effective unless in writing, and no waiver may be construed as a continuing waiver. No waiver is implied from any delay or failure by Lender to take action on account of any default under the Loan Documents. Consent by Lender to any act or omission by Borrower may not be construed as a consent to any other or subsequent act or omission.
+ 
+5.2       No Third Parties Benefited. This Agreement is made and entered into for the sole protection and benefit of Lender and Borrower and their successors and assigns. No trust fund is created by this Agreement and no other persons or entities have any right of action under this Agreement or any right to the Loan funds.
+ 
+5.3       Notices. All notices, demands, requests, correspondence or documents which are required or permitted to be given or served hereunder shall be in writing addressed to the appropriate party and personally delivered or sent by first class United States mail, postage prepaid, addressed to Borrower or Lender at the following addresses:
+ 
+
+
+
+To Borrower:    
+
+KKM Makai, LLLP       
+
+
+     
+
+KD Kona 2013 LLLP       
+
+
+     
+
+1100 Alakea Street, Suite 2900       
+
+
+     
+
+Honolulu, Hawaii 96813       
+
+
+     
+
+        
+
+
+To Lender:    
+
+American Savings Bank,   F.S.B.       
+
+
+     
+
+Commercial Real Estate   Loans       
+
+
+     
+
+P.O. Box 2300       
+
+
+     
+
+Honolulu, Hawaii   96804-2300         
+ 
+Any party may designate a different address by giving notice thereof in accordance with this paragraph. Delivery of any or demand shall be deemed completed on the date of delivery or two (2) business days after the date of mailing, as applicable.
+ 
+5.4       Attorneys Fees. If any lawsuit, reference or arbitration is commenced which arises out of, or which relates to this Agreement, the Loan Documents or the Loan, including any alleged tort action, regardless of which party commences the action, the prevailing party is entitled to recover from each other party such sums as the court, referee or arbitrator may adjudge to be reasonable attorneys fees in the action or proceeding, in addition to costs and expenses otherwise allowed by law. Any such attorneys fees incurred by either party in enforcing a judgment in its favor under this Agreement are recoverable separately from and in
+ 
+16
+
+
+
+
+
+
+ 
+addition to any other amount included in such judgment, and such attorneys fees obligations are intended to be severable from the other provisions of this Agreement and to survive and not be merged into any such judgment. In all other situations, including any bankruptcy or other voluntary or involuntary proceeding, in or out of court, for the adjustment of debtor-creditor relationships, Borrower agrees to pay all of Lenders costs and expenses, including attorneys fees, which may be incurred in any effort to collect or enforce the Loan or any part of it or any term of any Loan Document. Attorneys fees include the allocated costs for services of in-house counsel.
+ 
+5.5       Loan Not Assumable. It is expressly understood by Borrower that the Loan is personal to Borrower and may not be assumed by any other person or entity.
+ 
+5.6       Assignment of Loan. Lender may assign its rights and delegate its obligations under this Agreement or any of the other Loan Documents and further may assign, or sell participations in, all or any part of the Loan, the Loan Documents, or any other interest herein or in the Note to any person or entity, all without notice to or the consent of Borrower or any co-makers or guarantors. To the extent of any such assignment, Lender shall be relieved of its obligations with respect to the Loan and the assignee shall have the same rights, benefits and obligations as it would if it were Lender hereunder and a holder of the Note. Without the consent of or notice to Borrower, Lender may furnish any information (including, without limitation, financial information) concerning the Loan, the collateral for the Loan, or Borrower, any Affiliates, and any of their assets to third parties from time to time for legitimate business purposes.
+ 
+5.7       Successors and Assigns. The terms of this Agreement shall bind and benefit the heirs, personal representatives, successors, successors in trust and assigns of the parties; provided, however, that Borrower may not assign this Agreement without the prior written consent of Lender, which consent may be withheld by Lender in its sole discretion for any reason or no reason.
+ 
+5.8       Interpretation. The language of this Agreement must be construed as a whole according to its fair meaning, and not strictly for or against any party. The word include(s) means include(s), without limitation, and the word including means including, but not limited to.
+ 
+5.9       Miscellaneous. This Agreement may not be modified or amended except by a written agreement signed by the parties. The invalidity or unenforceability of any one or more provisions of this Agreement in no way affects any other provision. If Borrower consists of more than one person or entity, each is jointly and severally liable to Lender for the faithful performance of this Agreement and the other Loan Documents. Time is of the essence in the performance of this Agreement and the other Loan Documents. This Agreement is governed by and construed in accordance with the laws of and decisions of the State of Hawaii and the United States of America and the rules and regulations promulgated thereunder, including without limitation the federal laws, rules and regulations for federal savings and loan associations and federal savings banks. This Agreement may be executed in one or more counterparts, each of which is, for all purposes deemed an original and all such counterparts taken together, constitute one and the same instrument.
+ 
+17
+
+
+
+
+
+
+ 
+5.10     Integration and Relation to Loan Commitment. The Loan Documents fully state all of the terms and conditions of the parties agreement regarding the matters mentioned in or incidental to this Agreement. The Loan Documents supersede all oral negotiations and prior writings concerning the subject matter of the Loan Documents.
+ 
+5.11     Actions. Lender has the right, but not the obligation, to commence, appear in, and defend any action or proceeding which might affect its security or its rights, duties or liabilities relating to the Loan, the Property, or any of the Loan Documents. Borrower must pay promptly on demand all of Lenders reasonable out-of-pocket costs, expenses, and legal fees and expenses of Lenders counsel incurred in those actions or proceedings.
+ 
+5.12     Relationships with Other Lender Customers. From time to time, Lender may have business relationships with Borrowers customers, suppliers, contractors, tenants, partners, shareholders, officers or directors, with businesses offering products or services similar to those of Borrower, or with persons seeking to invest in, borrow from or lend to Borrower. Borrower agrees that in no event is Lender obligated to disclose to Borrower any information concerning any other Lender customer. Borrower further agrees that Lender may extend credit to those parties and may take any action it may deem necessary to collect any such credit, regardless of any effect the extension or collection of such credit may have on Borrowers financial condition or operations.
+ 
+5.13     Loan Commission. Lender is not obligated to pay any brokerage commission or fee in connection with or arising out of the Loan. Borrower must pay any and all brokerage commissions or fees arising out of or in connection with the Loan and Borrower agrees to indemnify, defend and hold harmless Lender against any claim for any such fees or commissions.
+ 
+5.14     Standard of Conduct. Nothing contained in this Agreement, the Note, the Accommodation Mortgage or any other Loan Document shall limit the right of Lender to exercise its business judgment or to act, in the context of the granting or withholding of any consent required under the terms of this Agreement or any other Loan Document, or otherwise, in a subjective manner, whether or not objectively reasonable under the circumstances, as long as Lenders exercise of its business judgment or action, as the case may be, is made or undertaken in good faith. Borrower and Lender intend by the foregoing to set forth and affirm their entire understanding with respect to the standard pursuant to which Lenders duties and obligations are to be judged and the parameters within which Lenders discretion may be exercised hereunder and under the other Loan Documents. As used herein, the term good faith means honesty in fact in the conduct and transaction concerned.
+ 
+5.15     Counterparts. This document may be executed in counterparts. Each counterpart shall be executed by one or more of the parties to this document and the several counterparts shall constitute one document to the same effect as though the signature of all the parties were upon the same document.
+ 
+5.16     Jury Waiver. Lender and Borrower hereby waive trial by jury in any action, proceeding, claim, or counterclaim, whether in contract or tort, at law or in equity, arising out of or in any way related to this Agreement or any of the Loan Documents.
+ 
+18
+
+
+
+
+
+
+
+ 
+[THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK]
+ 
+19
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, Borrower and Lender have executed these presents the day and year first above written.
+ 
+
+
+
+     
+
+KKM MAKAI, LLLP,       
+
+
+     
+
+a Hawaii limited   liability limited partnership       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+NOBLE   ENTERPRISES, INC.,       
+
+
+     
+
+     
+
+a Nevada corporation       
+
+
+     
+
+     
+
+Its General Partner       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Terry Johnston       
+
+
+     
+
+     
+
+Name:   Terry Johnston       
+
+
+     
+
+     
+
+Its President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Its       
+
+
+     
+
+        
+
+
+     
+
+KD KONA 2013 LLLP,       
+
+
+     
+
+a Hawaii limited   liability limited partnership       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+BARNWELL HAWAIIAN   PROPERTIES,       
+
+
+     
+
+     
+
+INC., a Delaware   corporation   Its General Partner       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Alexander C.   Kinzler       
+
+
+     
+
+     
+
+Name:   Alexander C. Kinzler       
+
+
+     
+
+     
+
+Its President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Its       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+AMERICAN SAVINGS BANK,   F.S.B.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Alvin Takahashi       
+
+
+     
+
+     
+
+Name:  Alvin Takahashi       
+
+
+     
+
+     
+
+Its Vice President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Ann M.K. Lee       
+
+
+     
+
+     
+
+ANN M.K. LEE       
+
+
+     
+
+     
+
+Its First Vice   President         
+ 
+20
+
+
+
+
+
+
+ 
+
+
+
+STATE OF HAWAII    
+
+)    
+
+        
+
+
+     
+
+)    
+
+SS.       
+
+
+CITY AND COUNTY OF   HONOLULU    
+
+)    
+
+          
+ 
+On this the 27th day of November, 2013, before me personally appeared Terry Johnston opersonally known to me OR x proved to me on the basis of satisfactory evidence who, being by me duly sworn or affirmed, did say that such persons executed the foregoing instrument as the free act and deed of such persons, and if applicable in the capacities shown, having been duly authorized to execute such instrument in such capacities.
+ 
+
+
+
+     
+
+/s/ Edna Sagudang       
+
+
+     
+
+        
+
+
+     
+
+Edna Sagudang       
+
+
+     
+
+Notary Public,   State of Hawaii       
+
+
+     
+
+My commission   expires: 06/21/14         
+ 
+21
+
+
+
+
+
+
+ 
+
+
+
+STATE OF HAWAII    
+
+)    
+
+        
+
+
+     
+
+)    
+
+SS.       
+
+
+CITY AND COUNTY OF   HONOLULU    
+
+)    
+
+          
+ 
+On this the 27th day of November, 2013, before me personally appeared Alexander C. Kinzler opersonally known to me OR x proved to me on the basis of satisfactory evidence who, being by me duly sworn or affirmed, did say that such persons executed the foregoing instrument as the free act and deed of such persons, and if applicable in the capacities shown, having been duly authorized to execute such instrument in such capacities.
+ 
+
+
+
+     
+
+/s/ Edna Sagudang       
+
+
+     
+
+        
+
+
+     
+
+Edna Sagudang       
+
+
+     
+
+Notary Public,   State of Hawaii       
+
+
+     
+
+My commission   expires: 06/21/14         
+ 
+22
+
+
+
+
+
+
+ 
+
+
+
+STATE OF HAWAII    
+
+)    
+
+        
+
+
+     
+
+)    
+
+SS.       
+
+
+CITY AND COUNTY OF   HONOLULU    
+
+)    
+
+          
+ 
+On this the 27th day of November, 2013, before me personally appeared ALVIN TAKAHASHI and ANN M. K. LEE xpersonally known to me OR x proved to me on the basis of satisfactory evidence who, being by me duly sworn or affirmed, did say that such persons executed the foregoing instrument as the free act and deed of such persons, and if applicable in the capacities shown, having been duly authorized to execute such instrument in such capacities.
+ 
+
+
+
+     
+
+/s/ Edna Sagudang       
+
+
+     
+
+        
+
+
+     
+
+Edna Sagudang       
+
+
+     
+
+Notary Public,   State of Hawaii       
+
+
+     
+
+My commission   expires: 06/21/14         
+ 
+23
+
+
+
+
+
+
+ 
+EXHIBIT A
+ 
+-PARCEL FIRST:- (TMK No. (3) 7-2-031-022)
+ 
+All of that certain parcel of land situate at Kaupulehu, District of North Kona, Island and County of Hawaii, State of Hawaii, being LOT 30 of the KAUPULEHU LOT 4-A, INCREMENT 1, PHASE 1 SUBDIVISION, as shown on File Plan Number 2393, filed in the Bureau of Conveyances of the State of Hawaii, and containing an area of 1.271 acres, more or less.
+ 
+Together with a non-exclusive easement for access purposes over Roadway Easements, as set forth and provided in Kaupulehu Lot 4-A Declaration of Access Easement, dated December 23, 2005, recorded in said Bureau as Document No. 2005-262404; subject to the terms and provisions contained therein.
+ 
+Said Declaration was amended and/or supplemented by the following instruments:
+ 
+1.         Document No. 2007-170881.
+2.         Document No. 2009-131370.
+ 
+Together with non-exclusive easements for access and utility purposes as set forth in the following: (a) Grant of Non-Exclusive Access and Utility Easements, dated May 25, 2009, recorded in said Bureau as Document No. 2009-149017; (b) Grant of Non-Exclusive Access and Utility Easements (Hualalai Resort/Easement A), dated May 25, 2009, recorded in said Bureau as Document No. 2009-149023; and (c) Grant of Non-Exclusive Roadway and Utility Easements (Kukio Frontage Road), dated May 25, 2009, recorded in said Bureau as Document No. 2009-149029; all subject to the terms and conditions contained therein.
+ 
+BEING THE PREMISES ACQUIRED BY KAUPULEHU LOT 4-A, INCREMENT I, PHASE I, WARRANTY DEED WITH COVENANTS from WB KD ACQUISITION, LLC, a Delaware limited liability company, as Grantor, to KAUPULEHU 2007 LLLP, a Hawaii limited liability limited partnership, as Grantee, effective January 23, 2008, recorded in said Bureau as Document No. 2008-014897.
+ 
+-PARCEL SECOND:- (TMK No. (3) 7-2-031-026)
+ 
+All of that certain parcel of land situate at Kaupulehu, District of North Kona, Island and County of Hawaii, State of Hawaii, being LOT 34 of the KAUPULEHU LOT 4-A, INCREMENT 1, PHASE 1 SUBDIVISION, as shown on File Plan Number 2393, filed in the Bureau of Conveyances of the State of Hawaii, and containing an area of 1.074 acres, more or less.
+ 
+Together with a non-exclusive easement for access purposes over Roadway Easements, as set forth and provided in Kaupulehu Lot 4-A Declaration of Access Easement, dated December 23, 2005, recorded in said Bureau as Document No. 2005-262404; subject to the terms and provisions contained therein.
+ 
+24
+
+
+
+
+
+
+ 
+Said Declaration was amended and/or supplemented by the following instruments:
+ 
+1.         Document No. 2007-170881.
+2.         Document No. 2009-131370.
+ 
+Together with non-exclusive easements for access and utility purposes as set forth in the following: (a) Grant of Non-Exclusive Access and Utility Easements, dated May 25, 2009, recorded in said Bureau as Document No. 2009-149017; (b) Grant of Non-Exclusive Access and Utility Easements (Hualalai Resort/Easement A), dated May 25, 2009, recorded in said Bureau as Document No. 2009-149023; and (c) Grant of Non-Exclusive Roadway and Utility Easements (Kukio Frontage Road), dated May 25, 2009, recorded in said Bureau as Document No. 2009-149029; all subject to the terms and conditions contained therein.
+ 
+BEING THE PREMISES ACQUIRED BY KAUPULEHU LOT 4-A, INCREMENT I, PHASE I WARRANTY DEED WITH COVENANTS from WB KD ACQUISITION, LLC, a Delaware limited liability company, as Grantor, to KAUPULEHU 2007 LLLP, a Hawaii limited liability limited partnership, as Grantee, effective September 26, 2007, recorded in said Bureau as Document No. 2007-172486.
+ 
+-PARCEL THIRD:- (TMK No. (3) 7-2-031-028)
+ 
+All of that certain parcel of land situate at Kaupulehu, District of North Kona, Island and County of Hawaii, State of Hawaii, being LOT 36 of the KAUPULEHU LOT 4-A, INCREMENT 1, PHASE 1 SUBDIVISION, as shown on File Plan Number 2393, filed in the Bureau of Conveyances of the State of Hawaii, and containing an area of 1.109 acres, more or less.
+ 
+Together with a non-exclusive easement for access purposes over Roadway Easements, as set forth and provided in Kaupulehu Lot 4-A Declaration of Access Easement, dated December 23, 2005, recorded in said Bureau as Document No. 2005-262404; subject to the terms and provisions contained therein.
+ 
+Said Declaration was amended and/or supplemented by the following instruments:
+ 
+1.         Document No. 2007-170881.
+2.         Document No. 2009-131370.
+ 
+Together with non-exclusive easements for access and utility purposes as set forth in the following: (a) Grant of Non-Exclusive Access and Utility Easements, dated May 25, 2009, recorded in said Bureau as Document No. 2009-149017; (b) Grant of Non-Exclusive Access and Utility Easements (Hualalai Resort/Easement A), dated May 25, 2009, recorded in said Bureau as Document No. 2009-149023; and (c) Grant of Non-Exclusive Roadway and Utility Easements (Kukio Frontage Road), dated May 25, 2009, recorded in said Bureau as Document No. 2009-149029; all subject to the terms and conditions contained therein.
+ 
+BEING THE PREMISES ACQUIRED BY KAUPULEHU LOT 4-A, INCREMENT I, PHASE I WARRANTY DEED WITH COVENANTS from WB KD ACQUISITION, LLC, a Delaware limited liability company, as Grantor, to KAUPULEHU 2007 LLLP, a Hawaii limited
+ 
+25
+
+
+
+
+
+
+ 
+liability limited partnership, as Grantee, effective April 30, 2007, recorded in said Bureau as Document No. 2007-077140.
+ 
+26
+
+
+
+
+
+
+

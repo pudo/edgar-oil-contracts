@@ -1,0 +1,1313 @@
+
+EX-10.1
+2
+a12-8144_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+  
+
+
+Exhibit 10.1
+ 
+FOURTH AMENDMENT TO CREDIT AGREEMENT
+ 
+This Fourth Amendment (this Amendment) to that certain Credit Agreement, dated as of January 27, 2011 (as amended, the Credit Agreement), by and among EMPRESA ELÉCTRICA NUEVA ESPERANZA S.R.L., as borrower (the Borrower), BPZ RESOURCES, INC., and BPZ EXPLORACIÓN & PRODUCCIÓN S.R.L., as guarantors (the Guarantors and, together with the Borrower, the Loan Parties), the Lenders party thereto from time to time (the Lenders), and CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent (the Administrative Agent), is entered into as of April 27, 2012.
+ 
+WHEREAS, BPZ Energy International Holdings, L.P., BPZ Energy, BPZ Resources and BPZ Peru intend to sell to Pacific Stratus Energy S.A., a subsidiary of Pacific Rubiales Energy Corp., a 49% participating interest of BPZ Perus right, title and interest in and to, the Block Z-1 License Contract and of all assets, rights and contracts of BPZ Peru used or held for use in connection with the Block Z-1 License Contract; and
+ 
+WHEREAS, the Borrower has requested the Lenders to amend certain provisions of the Credit Agreement and the Lenders are agreeable to such request upon the terms and subject to the conditions set forth herein.
+ 
+NOW, THEREFORE, in consideration of the premises and the mutual agreements contained herein, and for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, and subject to the satisfaction of each of the conditions set forth in Section 4.1, the Credit Agreement shall be and is hereby amended by this Amendment.
+ 
+ARTICLE I
+DEFINITIONS AND RULES OF CONSTRUCTION
+ 
+Section 1.1             Definitions. Unless otherwise defined herein, terms defined in the Credit Agreement (as amended by this Amendment) are used herein as therein defined, and the rules of interpretation set forth in Section 1.2 of the Credit Agreement shall apply mutatis mutandis to this Amendment.
+ 
+ARTICLE II
+AMENDMENTS TO CREDIT AGREEMENT
+ 
+Section 2.1             Amendments to Credit Agreement. Effective as of the Amendment Effective Date, the Credit Agreement is hereby amended as follows:
+ 
+(a)               Section 1.1 of the Credit Agreement is hereby amended by:
+ 
+(i) replacing the definitions of the terms Applicable Margin, Consolidated EBITDAX, Consolidated Interest Expense, Consolidated Leverage Ratio, Consolidated Total Debt, Guarantors, Interest Payment Date, Interest Period, Loan Documents, Maturity Date, Net Cash Proceeds, Permitted License Transfers and Secured Obligations in their entirety with the following:
+ 
+
+
+
+
+
+
+ 
+Applicable Margin means a rate per annum equal to 8%.
+ 
+Consolidated EBITDAX means, with respect to any Person and its Consolidated Subsidiaries on a Consolidated basis for any Rolling Period, operating revenues minus operating expenses (including sales and administrative expenses to the extent included in operating expenses) of such Person and its Consolidated Subsidiaries for such Rolling Period, plus (i) amortization, depreciation provisions, other similar non-cash expenses (to the extent included in operating expenses) for such Rolling Period, (ii) geological, geophysical and engineering expenses of such Person and its Consolidated Subsidiaries made during such Rolling Period, and (iii) to the extent not included in clause (ii) above, prior to the Maximum Carry Amount Date geological, geophysical and engineering expenses made by PRE or any of its Subsidiaries during such Rolling Period in connection with the development of Block Z-1, in each case, determined on a Consolidated basis in accordance with GAAP; provided, that (x) the Consolidated EBITDAX of BPZ Peru during such period shall be calculated on a pro forma basis assuming that the Pacific Farm-Out Completion occurred as of January 1, 2012 (for purposes of this definition, the reference date), regardless of whether or not the Pacific Farm-Out Completion actually occurs, and (y) the Consolidated EBITDAX attributable to BPZ Peru for any period other than an entire Rolling Period commencing on or following the reference date (each such non-excluded period, a Stub Period) shall be determined by reference to the Consolidated EBITDAX for the period comprising the whole calendar months within such Stub Period multiplied by a fraction, the numerator of which is 12 and the denominator of which is the number of whole calendar months within such Stub Period.
+ 
+Consolidated Interest Expense means, with respect to any Person and its Consolidated Subsidiaries for a Rolling Period, the aggregate interest expense in respect of Debt (other than Debt incurred pursuant to the Pacific Farm-Out Documents that is outstanding after the date on which the Pacific Farm-Out Termination occurs) of such Person and its Consolidated Subsidiaries for such Rolling Period (including amortization of original issue discount and non-cash interest payments or accruals in respect of any Debt (other than Debt incurred under the Loan Documents, the BPZ Peru Financing Documents and the Convertible Notes Indenture)), determined on a Consolidated basis in accordance with GAAP; provided, that (x) the Consolidated Interest Expense of any Loan Party during such period shall be calculated on a pro forma basis assuming that the Pacific Farm-Out Completion occurred as of January 1, 2012, regardless of whether or not the Pacific Farm-Out Completion actually occurs, and (y) the Consolidated Interest Expense attributable to any Loan Party for any Stub Period shall be determined by reference to the Consolidated Interest Expense of the period comprising the entire calendar months within such Stub Period multiplied by a fraction, the numerator of which is 12 and the denominator of which is the number of entire calendar months within such Stub Period.
+ 
+Consolidated Leverage Ratio means, on any day, the ratio of (i) Consolidated Total Debt of BPZ Peru and its Consolidated Subsidiaries as of such day to (ii) Consolidated EBITDAX of BPZ Resources and its Consolidated Subsidiaries for the Rolling Period ended on such day (or, if such day is not the last day of a fiscal quarter of
+ 
+2
+
+
+
+
+
+
+ 
+each of such Person, ended on the last day of the Fiscal Quarter of such Person, most recently ended prior to such day).
+ 
+Consolidated Total Debt means, with respect to any Person and its Consolidated Subsidiaries on any date, the aggregate principal amount of all Debt (other than Debt incurred pursuant to the Pacific Farm-Out Documents and Debt in respect of the Corvina Offshore Field Project Payments) of such Person and its Consolidated Subsidiaries on such date, determined on a Consolidated basis in accordance with GAAP, excluding, for the avoidance of doubt, any Permitted Intercompany Debt.
+ 
+Guarantors means, collectively, BPZ Resources and BPZ Peru.
+ 
+Interest Payment Date means January 15, April 15, July 15 and October 15 of each calendar year and the Maturity Date; provided that if any of such dates (other than the Maturity Date) would otherwise fall on a day which is not a Business Day, such Interest Payment Date shall be the immediately succeeding Business Day, unless such Business Day falls in the next calendar month, in which case such Interest Payment Date shall be the immediately preceding Business Day.
+ 
+Interest Period means with respect to any Loan, (a) initially, the period commencing on the date such Loan is made and ending on the numerically corresponding day three months thereafter, and (b) thereafter, each period commencing on the last day of the immediately preceding Interest Period and ending on the numerically corresponding day three months thereafter; provided, however, that (i) the Interest Period ending in July 2012, shall end on July 15, 2012, and (ii) each Interest Period thereafter, shall commence on the last day of the immediately preceding Interest Period and shall end on the immediately succeeding Interest Payment Date.
+ 
+Loan Documents means, collectively, this Agreement, each Peruvian Promissory Note, the Collateral Documents, the Intercreditor Agreement, the Pacific Farm-Out Intercreditor Agreement, the Fee Letter and all other agreements, documents or instruments executed concurrently with or in connection with any of the foregoing.
+ 
+Maturity Date means January 15, 2015.
+ 
+Net Cash Proceeds means in connection with any incurrence of Debt (other than Debt permitted under Sections 7.8 (a), 7.8(b), 7.8(e), 7.8(h) and 7.8(i)) or the issuance and sale or other disposition of Capital Stock (including, without limitation, through an Equity Offering), the cash proceeds received from such incurrence, sale or disposition, net of reasonable attorneys fees, investment banking fees, accountants fees, underwriting discounts and commissions and other customary fees and expenses actually incurred in connection therewith.
+ 
+Permitted License Transfers means, in connection with the ongoing corporate reorganization of BPZ Peru, (a) the transfer by BPZ Peru of its interest in the Block XIX License Contract to BPZ Lote XIX SRL (Block XIX SRL), (b) the transfer by BPZ Peru of its interest in the Block XXII License Contract to BPZ Lote XXII SRL (Block XXII SRL), and (c) the transfer by BPZ Peru of its
+ 
+3
+
+
+
+
+
+
+ 
+interest in the Block XXIII License Contract to BPZ Lote XXIII SRL (Block XXIII SRL and together with Block XXII SRL and Block XIX SRL the Block Subsidiaries).
+ 
+Secured Obligations means the full and prompt payment and performance when due (whether at stated maturity, by acceleration or otherwise) of all obligations, liabilities and indebtedness (including, without limitation, principal, premium, interest (including, without limitation, all interest that accrues after the commencement of any case, proceeding or other action relating to the bankruptcy, insolvency, quiebra, reorganization or similar proceeding of any Loan Party at the rate provided for in the respective documentation, whether or not a claim for post-petition interest is allowed in any such proceeding)), fees, costs and indemnities owed by any Loan Party to any Secured Party, whether now existing or hereafter incurred under, arising out of, or in connection with, any Loan Document and the due performance and compliance by the Loan Parties to the Secured Parties with all of the terms, conditions and agreements contained in each such Loan Document.
+ 
+(ii) adding the following definitions of the following terms in Section 1.1 thereof, in the corresponding alphabetical order:
+ 
+BPZ Holdings means BPZ Holdings Limited Partnership, a limited partnership duly organized and validly existing under the laws of the British Virgin Islands.
+ 
+BPZ Norte means BPZ Norte Oil S.R.L., a sociedad comercial de responsabilidad limitada duly organized and validly existing under the laws of Peru.
+ 
+BPZ Peru Secured Parties shall have the meaning ascribed to such term in the BPZ Peru Credit Agreement.
+ 
+BPZ Peru Financing Documents means (i) the BPZ Peru Credit Agreement, and (ii) the Loan Documents (as defined in the BPZ Peru Credit Agreement) referred to therein.
+ 
+Capital and Exploratory Expenditures means, as to any Person, (i) any expenditure in respect of the purchase or other acquisition of any fixed or capital asset (excluding normal replacements and maintenance which are properly charged to current operations as expenses) classified and accounted for as a capital expenditure on a balance sheet of such Person under GAAP and, for purposes of this Agreement, the amount of such purchase or acquisition shall be the capitalized amount thereof (excluding any capitalized interest and other financing costs required to be included in such amount in accordance with GAAP), including any applicable geological, geophysical and engineering expenses incurred by such Person in connection with oil and gas exploration, determined in accordance with GAAP.
+ 
+4
+
+
+
+
+
+
+ 
+Carry Agreement means the Carry Agreement, executed on April 27, 2012, between BPZ Peru and BPZ Norte.
+ 
+Convertible Notes Indenture means the indenture between BPZ Resources and Wells Fargo Bank, National Association, as trustee, dated as of February 8, 2010, with respect to BPZ Resources 6.50% Convertible Senior Notes due 2015, as amended from time to time.
+ 
+Corvina Field means the exploitation area in Block Z-1 identified as the Corvina Field.
+ 
+Corvina Offshore Field Project means the CX-15 platform located in the Corvina Field.
+ 
+Corvina Offshore Field Project Completion means that all development, construction and engineering works required to be performed in connection with the construction of the Corvina Offshore Field Project shall have been completed and accepted by BPZ Peru in accordance with the relevant construction contract, in a manner satisfactory to the Administrative Agent.
+ 
+Exploratory Expenditures means any geological, geophysical and engineering expenses incurred by a Person in connection with oil and gas exploration, determined in accordance with GAAP.
+ 
+Farm-Out Available Proceeds means an amount equal to the cash proceeds derived from the Pacific Loans to be made in respect of the Pacific Reference Debt, in an aggregate amount not exceeding US$150,000,000, minus the sum of (i) the aggregate of all amounts actually paid by any Loan Party to Pacific Stratus and PRE pursuant to or in connection with the Pacific Farm-Out Documents, (ii) any taxes, levies and other charges required to be paid by any Loan Party to any Governmental Authority in connection with the receipt of such cash proceeds, (iii) fees and expenses payable by any Loan Party or any of its Subsidiaries under any Pacific Farm-Out Document (iv) the aggregate principal amount of loans prepaid pursuant to the Reference Prepayment, together with accrued and unpaid interest thereon and any other amounts paid in connection therewith and (v) amounts required to be paid or scheduled to be paid by any Loan Party or any Subsidiary thereof (other than amounts paid or payable by PRE or any of its Subsidiaries pursuant to the Pacific Farm-Out Documents) in order to (x) complete the Corvina Offshore Field Project and (y) drill and initiate production of four new wells in the Block Z-1 (other than existing wells as of the Closing Date and excluding any workovers or well reopenings).
+ 
+Fourth Amendment Effective Date means the date on which the Fourth Amendment to Credit Agreement becomes effective in accordance with its terms.
+ 
+Fourth Amendment to Credit Agreement means the Fourth Amendment to Credit Agreement, dated as of April 27, 2012, among the Borrower, the Guarantors, the Lenders and the Administrative Agent.
+ 
+5
+
+
+
+
+
+
+ 
+Gas to Power Non-Recourse Debt means Debt of the Borrower incurred to finance Capital and Exploratory Expenditures in connection with the Gas to Power Project,
+ 
+(i) as to which none of the Loan Parties or any of their Subsidiaries (other than the Borrower) (a) provides any Guarantee or credit support of any kind (including any undertaking, guarantee, indemnity, agreement or instrument that would constitute Debt (but excluding any commitment to contribute equity into the Borrower)) or (b) is directly or indirectly liable (as a guarantor or otherwise); and
+ 
+(ii) the explicit terms of which provide that there is no recourse against any of the assets of any of the Loan Parties or any of their Subsidiaries (other than the Borrower).
+ 
+Intercreditor Agreement means the intercreditor agreement, dated July 6, 2011, among the Lenders, the Administrative Agent, the lenders and the administrative agent under the BPZ Peru Credit Agreement and Credit Suisse AG, Cayman Islands Branch as Offshore Collateral Agent.
+ 
+Joint Operating Agreement means the Joint Operating Agreement, executed on April 27, 2012, between BPZ Peru and BPZ Norte.
+ 
+Maximum Carry Amount shall have the meaning ascribed to such term in the Carry Agreement (as in effect on the Fourth Amendment Effective Date).
+ 
+Maximum Carry Amount Date means the date on which PRE, directly or through any of its Subsidiaries, shall have funded Capital and Exploratory Expenditures in an amount equal to or exceeding the Maximum Carry Amount, in accordance with the Carry Agreement.
+ 
+Non Block Z-1 Farm-Out Transaction means, with respect to any block other than the Block Z-1, any agreement between a Loan Party or any of its Subsidiaries and any Person (other than a Loan Party or any of its Subsidiaries) primarily engaged in exploration and production of hydrocarbons in Peru (a Farmee) pursuant to which (i) such Loan Party or any of its Subsidiaries assigns or transfers to such Farmee all or any portion of such Loan Partys or such Subsidiarys rights and obligations to explore and develop an area in accordance with the license contract applicable to such area, while retaining an economic interest in such area, and (ii) such Farmee agrees to cover all or any portion of the development costs required to be incurred in connection with such obligations at its own risk and expense; provided that such Non Block Z-1 Farm-Out Transaction does not impose any obligation to any Loan Party or any of its Subsidiaries to make or commit to make Capital and Exploratory Expenditures in excess of the amounts permitted under Section 7.20.
+ 
+Operating Services Agreement means the Operating Services Agreement, executed on April 27, 2012, between BPZ Peru and BPZ Norte.
+ 
+6
+
+
+
+
+
+
+ 
+Pacific Farm-Out means (i) the acquisition of the Capital Stock of, and equity rights in, BPZ Norte by Pacific Stratus, and (ii) the joint operation of Block Z-1 by BPZ Peru and BPZ Norte, in each case, in accordance with the Pacific Farm-Out Documents.
+ 
+Pacific Farm-Out Completion means the satisfaction of the conditions to completion under Section 5 of the Stock Purchase Agreement (as in effect on the Fourth Amendment Effective Date) and the occurrence of the Completion as defined in the Stock Purchase Agreement (as in effect on the Fourth Amendment Effective Date).
+ 
+Pacific Farm-Out Completion Date means the date on which (i) the Pacific Farm-Out Completion occurs, (ii) all Liens created for the benefit of the Pacific Secured Parties (as defined in the Pacific Farm-Out Intercreditor Agreement) are released and discharged in full pursuant to definitive documentation in substance and form reasonably satisfactory to the Administrative Agent, and a first priority security interest inures for the benefit of the BPZ Secured Parties and the Secured Parties in respect of all Capital Stock of, and equity rights in, BPZ Peru, (iii) a first priority fully perfected Lien (subject to no other Liens) is duly created by BPZ Peru for the benefit of the BPZ Secured Parties and the Secured Parties, over a deposit account established by BPZ Peru in the City of New York with a financial institution acceptable to the Administrative Agent pursuant to definitive documentation in substance and form reasonably satisfactory to the Administrative Agent (the Reference Deposit Account), and (iv) the balance on deposit in the Reference Deposit Account as of such date is equal to or exceeds the aggregate principal amount of the loans outstanding under the BPZ Credit Agreement as of such date; it being understood, that during the period commencing on the Pacific Farm-Out Completion Date and ending on the Pacific Farm-Out Settlement Date, the balance on deposit shall at all times be equal to or exceeding the aggregate principal amount of the loans outstanding under the BPZ Credit Agreement outstanding at such time.
+ 
+Pacific Farm-Out Documents means, collectively, the (i) the Stock Purchase Agreement, (ii) the Carry Agreement, (iii) the Pacific Security Documents, (iv) the Guaranty, dated as of April 27, 2012, made by PRE in favor of BPZ Peru, BPZ Holdings and BPZ Energy, (v) the Guaranty, dated as of April 27, 2012, made by BPZ Resources in favor of the Pacific Lender, (vi) the Operating Services Agreement (vii) the Initial Note, Final Note and any other notes issued in favor of the Pacific Lender by any Loan Party or any of its Affiliates pursuant to the Stock Purchase Agreement, and (viii) the Joint Operating Agreement.
+ 
+Pacific Farm-Out Intercreditor Agreement means the Intercreditor Agreement to be entered into by and among the Loan Parties, BPZ Energy, BPZ Norte, Soluciones Energeticas, BPZ Holdings, the Administrative Agent, the administrative agent under the BPZ Peru Credit Agreement, PRE, Pacific Stratus and Pacific Lender, substantially in the form of Exhibit K, as amended, supplemented or modified from time to time.
+ 
+Pacific Farm-Out Settlement Date means the date falling after the Pacific Farm-Out Completion Date on which (i) the purchase price under the Stock Purchase Agreement is paid in full by Pacific Stratus to BPZ Energy and BPZ Holdings, and (ii) all
+ 
+7
+
+
+
+
+
+
+ 
+indebtedness of the Loan Parties pursuant to the Stock Purchase Agreement is extinguished, cancelled or repaid in full.
+ 
+Pacific Farm-Out Termination means the termination of the Stock Purchase Agreement pursuant to Section 10.2 thereof (as in effect on the Fourth Amendment Effective Date).
+ 
+Pacific Lender means Pacific Stratus International Energy Corp., a corporation duly organized and validly existing under the laws of the Province of British Columbia, Canada.
+ 
+Pacific Lender Final Note shall have the meaning ascribed to the term Final Note in the Stock Purchase Agreement (as in effect on the Fourth Amendment Effective Date).
+ 
+Pacific Lender Initial Note shall have the meaning ascribed to the term Initial Note in the Stock Purchase Agreement (as in effect on the Fourth Amendment Effective Date).
+ 
+Pacific Loans means any loans actually made by Pacific Lender to any Loan Party or any of its Affiliates under the Stock Purchase Agreement, in each case prior to the occurrence of the Pacific Farm-Out Completion Date.
+ 
+Pacific Reference Debt means Debt incurred by any Loan Party under the Pacific Lender Initial Note and the Pacific Lender Final Note.
+ 
+Pacific Security Documents shall have the meaning ascribed to the term Pacific Collateral Documents in the Pacific Farm-Out Intercreditor Agreement.
+ 
+Pacific Stratus means Pacific Stratus Energy S.A. a sociedad anónima duly organized and validly existing under the laws of the Republic of Panama.
+ 
+Permitted Block Z-1 Transfer means the transfer by BPZ Peru to BPZ Norte of a portion representing 49% of BPZ Perus right, title, and interest in and to the Block Z-1 License Contract and the assets, rights and contracts used or held for use in connection with the Block Z-1 License Contract.
+ 
+PRE means Pacific Rubiales Energy Corp., a corporation duly organized and validly existing under the laws of the Province of British Columbia, Canada.
+ 
+Reference Prepayment means the voluntary prepayment made on the Fourth Amendment Effective Date of loans made under the BPZ Peru Credit Agreement in an aggregate principal amount of US$40,000,000 together with accrued and unpaid interest thereon to the date of such prepayment.
+ 
+Stock Purchase Agreement means the Stock Purchase Agreement, dated as of April 27, 2012, among BPZ Holdings and BPZ Energy, as sellers, BPZ Resources, as borrower, Pacific Stratus, as buyer, and Pacific Lender, as lender.
+ 
+8
+
+
+
+
+
+
+ 
+(iii) amending the definition of the term Change in Control by deleting and BPZ Lote Z-1 and or BPZ Lote Z-1 therein.
+ 
+(iv) amending clause (e) of the definition of the term Permitted Liens by deleting or BPZ Lote Z-1 and and, if applicable, BPZ Lote Z-1, as Guarantors therein.
+ 
+(v) deleting in their entirety the definitions of the terms BPZ Lote Z-1, Capital Expenditures, Cash Consideration, Combined Basis, Farm-Out Transaction, Permitted Prepayment Date and Pro Forma Basis.
+ 
+(b)           Section 3.1 of the Credit Agreement is hereby amended by replacing it in its entirety with the following:
+ 
+SECTION 3.1 Repayment of the Loans. The Borrower hereby unconditionally promises to repay to the Administrative Agent, for the account of each Lender, the outstanding principal amount of each Loan in 11 consecutive quarterly installments on each Interest Payment Date commencing with the Interest Payment Date falling in July, 2012 and on the Maturity Date (each such Interest Payment Date and the Maturity Date, a Principal Repayment Date), each such installment in an amount equal to the lesser of (i) the principal amount set forth below opposite to the calendar month in which such Principal Repayment Date falls; and (ii) the principal amount of the Loans outstanding on such Principal Repayment Date, as applicable; provided, however, that all unpaid principal of the Loans on the Maturity Date shall be repaid by the Borrower on the Maturity Date,
+ 
+
+
+
+Calendar Month    
+
+     
+
+Amount    
+
+        
+
+
+July, 2012    
+
+     
+
+$    
+
+3,636,363    
+
+        
+
+
+October, 2012    
+
+     
+
+$    
+
+3,636,363    
+
+        
+
+
+January, 2013    
+
+     
+
+$    
+
+3,636,363    
+
+        
+
+
+April, 2013    
+
+     
+
+$    
+
+3,636,363    
+
+        
+
+
+July, 2013    
+
+     
+
+$    
+
+3,636,363    
+
+        
+
+
+October, 2013    
+
+     
+
+$    
+
+3,636,363    
+
+        
+
+
+January, 2014    
+
+     
+
+$    
+
+3,636,363    
+
+        
+
+
+April, 2014    
+
+     
+
+$    
+
+3,636,363    
+
+        
+
+
+July, 2014    
+
+     
+
+$    
+
+3,636,363    
+
+        
+
+
+October, 2014    
+
+     
+
+$    
+
+3,636,363    
+
+        
+
+
+Maturity Date    
+
+     
+
+$    
+
+3,636,370    
+
+          
+ 
+(c)               Section 3.3 of the Credit Agreement is hereby amended by replacing it in its entirety with the following:
+ 
+(a)     The Borrower shall have the right at any time to prepay the Loans in whole but not in part, subject in all cases to Section 4.3. Concurrently with (and on the same day of) such prepayment, the Borrower shall pay the Prepayment Premium and all accrued and unpaid interest on the principal amount so prepaid to the date of the prepayment.
+ 
+(b)       Amounts prepaid under this Section 3.3 may not be reborrowed.
+ 
+9
+
+
+
+
+
+
+ 
+(d)              Section 3.4 of the Credit Agreement is hereby amended by replacing it in its entirety with the following:
+ 
+SECTION 3.4 Mandatory Prepayments.
+ 
+(a) In case of receipt by any Loan Party or any of its Subsidiaries of any Net Cash Proceeds in connection with the incurrence of any Debt, the Borrower shall, if so requested by the Administrative Agent (acting on behalf of the Lenders), prepay the Loans of such Lenders electing to have their Loans prepaid, concurrently with (and on the same day of) the receipt of such Net Cash Proceeds by such Loan Party or such Subsidiary, in an amount equal to the lesser of (x) the aggregate principal of, and interest on, the Loans then outstanding, and (y) the aggregate amount of such Net Cash Proceeds (or the Dollar equivalent thereof).
+ 
+(b) Concurrently with (and on the same day of) each mandatory prepayment under this Section 3.4, the Borrower shall pay the Prepayment Premium and all accrued and unpaid interest on the principal amount so prepaid to the date of the prepayment.
+ 
+(e)               Section 7.5(b) of the Credit Agreement is hereby amended by replacing it in its entirety with the following:
+ 
+(b)        each time financial statements are required to be delivered under clause (a) (other than financial statements for and as of the end of the fiscal quarter of the Borrower ended March 31, 2012), a certificate of the chief financial officer (or more senior officer) of the each Loan Party: (i) providing a calculation (in reasonable detail) of each covenant under Section 7.21 as of the end of the most recent fiscal quarter, and (ii) certifying that his/her review has not disclosed the existence of a Default or, if any Default then exists, specifying the nature and period of existence thereof and what action has been taken or is proposed to be taken with respect thereto,
+ 
+(f)               Section 7.5(d) of the Credit Agreement is hereby amended by adding the following new clause (iii) at the end thereof:
+ 
+or (iii) relating to any Pacific Farm-Out Document.
+ 
+(g)              Section 7.5 of the Credit Agreement is hereby amended by adding the following new clauses (g), (h), (i) and (j) at the end thereof:
+ 
+(g)        within fifteen (15) Business Days after the last day of each calendar month, a certificate of the chief financial officer (or more senior officer) of the Borrower setting forth (i) the aggregate amount of Pacific Loans made during the immediately preceding calendar month, and (ii) the aggregate amount of all Pacific Loans made on or prior to the last day of the immediately preceding calendar month;
+ 
+(h)          within five (5) Business Days after the date of receipt thereof by PRE, Pacific Stratus, BPZ Norte or any of its Affiliates a true, correct and complete copy of any billing statement prepared in connection with the operation of the Block Z-1, including those statements setting forth the aggregate amount of (i) Exploratory Expenditures made by BPZ Resources and its Consolidated Subsidiaries and by BPZ Norte pursuant to the Pacific Farm-Out Documents, and
+ 
+10
+
+
+
+
+
+
+
+ 
+(ii) operating revenues and expenses of the Loan Parties and BPZ Norte derived from the operation of the Block Z-1, in each case, during the immediately preceding calendar month;
+ 
+(i)                                  (i) prompt notice of any material notices received or delivered by any Loan Party under any Pacific Farm-Out Document or in connection with the Pacific Farm-Out; (ii) prompt notice of any material filing with any Governmental Authority made by any Loan Party in connection with the Pacific Farm-Out; (iii) not later that ten (10) Business Days prior to the proposed date of execution and delivery thereof, a true, correct and complete copy of the final execution version of any proposed (x) amendment, supplement or modification to any Pacific Farm-Out Document, and (y) financing agreement with respect to Debt to be incurred by any Loan Party pursuant to Section 7.8(c); and concurrently with the execution and delivery thereof, a true, correct and complete copy of such amendment, supplement or modification to any Pacific Farm-Out Document or such financing agreement, as applicable and in each case, together with all the exhibits and schedules thereto and certificates delivered thereunder; and (iv) promptly (and, in any event within five (5) Business Days) after any Loan Party obtains knowledge thereof, notice of the occurrence of any breach or violation of any provision of any Pacific Farm-Out Document by any party thereto; and
+ 
+(j)                                          on the date on which the Loan Parties intend the Pacific Farm-Out Completion to occur, the Borrower shall deliver to the Administrative Agent a certificate dated as of such date, signed by the Chief Financial Officer (or more senior officer) of the Borrower, certifying the satisfaction as of such date of each of the conditions specified in the definition of the term Pacific Farm-Out Completion Date.
+ 
+(h)              Sections 7.8(c), 7.8(d), 7.8(f) and 7.8(g) of the Credit Agreement are hereby amended by replacing them in their entirety with the following:
+ 
+(c)                          following the Pacific Farm-Out Settlement Date and for so long as no Default or Event of Default shall have occurred and is continuing or would occur after giving pro-forma basis to such incurrence, Debt of BPZ Peru incurred in compliance with Section 7.21(e), but subject always to Section 3.4(a);
+ 
+(d)                               following the Pacific Farm-Out Settlement Date and for so long as no Default or Event of Default shall have occurred and is continuing or would occur after giving pro-forma basis to such incurrence, Gas to Power Non-Recourse Debt;
+ 
+(f)                                   following the Pacific Farm-Out Settlement Date and for so long as no Default or Event of Default shall have occurred and is continuing or would occur after giving effect on a pro-forma basis to the incurrence thereof, unsecured Debt of BPZ Resources, but subject always to Section 3.4(a);
+ 
+(g)                               following the Pacific Farm-Out Settlement Date and for so long as no Default or Event of Default shall have occurred and is continuing or would occur after giving effect on a pro-forma basis to the incurrence thereof, Non-Recourse Debt of any Block Subsidiary, but subject always to Section 3.4(a);
+ 
+(i)                                     Section 7.8 of the Credit Agreement is hereby amended by adding the following new clause (i) at the end thereof:
+ 
+11
+
+
+
+
+
+
+ 
+(i) Debt incurred pursuant to the Pacific Farm-Out Documents.
+ 
+(j)                                     Section 7.9 of the Credit Agreement is hereby amended by adding the following new clause (f) at the end thereof:
+ 
+(f)                                   Prior to the Pacific Farm-Out Completion Date, Liens created pursuant to the Pacific Security Documents.
+ 
+(k)                                  Section 7.14(b) of the Credit Agreement is hereby amended by replacing it in its entirety with the following:
+ 
+(b)                         None of the Loan Parties shall (or shall permit any of its Subsidiaries) to make any Asset Sale, other than (i) a Non Block Z-1 Farm-Out Transaction, and (ii) on the Pacific Farm-Out Completion Date, the Permitted Block Z-1 Transfer and the Pacific Farm-Out.
+ 
+(l)                                     Section 7.17(a) of the Credit Agreement is hereby amended by replacing it in its entirety with the following:
+ 
+(a)                                 following the Pacific Farm-Out Settlement Date, by BPZ Resources to the holders of its Capital Stock, so long as immediately before any such Restricted Payment is made and immediately after giving effect thereto on a pro forma basis (i) no Default or Event of Default shall have occurred and is continuing and (ii) the Consolidated Leverage Ratio for the Rolling Period most recently ended prior to the date on which such Restricted Payment is proposed to be made, is less than 0.75:1.00;
+ 
+(m)                               Section 7.17(c) of the Credit Agreement is hereby amended by replacing By each of BPZ Peru and BPZ Lote Z-1 with By BPZ Peru.
+ 
+(n)                                 Section 7.17 of the Credit Agreement is hereby amended by adding the following new clause (f) at the end thereof:
+ 
+(f)                             so long as immediately before any such Restricted Payment is made and immediately after giving effect thereto, no Default shall exist and be continuing, by any Loan Party or any of its Subsidiaries to any Loan Party and any of its Subsidiaries in an aggregate amount not to exceed any Farm-Out Available Proceeds (minus the amount of any Farm-Out Available Proceeds used to make Investments or Capital and Exploratory Expenditures in accordance with this Agreement prior to the date of such Restricted Payment).
+ 
+(o)                                 Section 7.18 of the Credit Agreement is hereby amended by replacing it in its entirety with the following:
+ 
+SECTION 7.18 Investments. None of the Loan Parties shall (nor shall permit any of its Subsidiaries to) make, hold or acquire any Investment, other than:
+ 
+(a)                               Investments by any Loan Party or any of its Subsidiaries in Cash Equivalents;
+ 
+12
+
+
+
+
+
+
+ 
+(b)                               Investments by any Loan Party or any of its Subsidiaries in any Person funded with the proceeds of Equity Offerings, so long as immediately before any such Investment is made and immediately after giving effect thereto, no Default shall exist and be continuing;
+ 
+(c)                                Investments by any Loan Party or any of its Subsidiaries in any Loan Party or any of its Subsidiaries in an amount not to exceed the aggregate amount of any Farm-Out Available Proceeds (minus the amount of any Farm-Out Available Proceeds used to make Restricted Payments or Capital and Exploratory Expenditures in accordance with this Agreement prior to the date of such Investment), so long as immediately before any such Investment is made and immediately after giving effect thereto no Default shall exist and be continuing;
+ 
+(d)                               Investments by any Loan Party or any of its Subsidiaries in a Loan Party; provided, that the obligations of any Loan Party under any Investment in the form of Debt owing to another Loan Party or any of its Subsidiaries shall be subordinated to the obligations of the Loan Parties under the Loan Documents; provided, further, that so long as no Default shall have occurred and be continuing or would occur after giving effect thereto, the Loan Party that incurred such Debt shall be permitted to pay interest, principal and other amounts thereon in compliance with Section 7.17;
+ 
+(e)                                Investments by BPZ Resources and BPZ Energy in any of their respective Subsidiaries in an aggregate amount (for both BPZ Resources and BPZ Energy) not to exceed US$7,500,000 in any Financial Year (minus the amount of any Capital and Exploratory Expenditures made in accordance with Section 7.21(d) in such Financial Year, so long as immediately before any such Investment is made and immediately after giving effect thereto, no Default shall exist and be continuing;
+ 
+(f)                                   Investments of the Loan Parties outstanding on the Closing Date in the Subsidiaries set forth in Schedule 6.1(d).
+ 
+(p)                                 Section 7.20 of the Credit Agreement is hereby amended by replacing it in its entirety with the following:
+ 
+SECTION 7.20 Limitation on Capital and Exploratory Expenditures. None of the Loan Parties shall (or shall permit any of its Subsidiaries to) make Capital and Exploratory Expenditures, other than:
+ 
+(a)                               so long as immediately before any such Capital and Exploratory Expenditures is made and immediately after giving effect thereto, no Default or Event of Default shall have occurred and is continuing, (i) Capital and Exploratory Expenditures made by any Loan Party or any of its Subsidiaries financed solely with proceeds from Equity Offerings, and (ii) following the Pacific Farm-Out Settlement Date, Capital and Exploratory Expenditures made by any Loan Party or any of its Subsidiaries with any Farm-Out Available Proceeds (minus the amount of any Farm-Out Available Proceeds used to make Investments or Restricted Payments in accordance with this Agreement prior to the date of such Capital and Exploratory Expenditures);
+ 
+(b)                             following the Pacific Farm-Out Settlement Date and for so long as immediately before any such Capital and Exploratory Expenditures is made and immediately after giving effect thereto, no Default or Event of Default shall have occurred and is continuing, Capital and
+ 
+13
+
+
+
+
+
+
+ 
+Exploratory Expenditures made by the Borrower solely in connection with the Gas to Power Project, but only to the extent that such Capital and Exploratory Expenditures are financed solely using the proceeds from Gas to Power Non-Recourse Debt;
+ 
+(c)                                with respect to Capital and Exploratory Expenditures made by any Loan Party or any of its Subsidiaries in connection with the development of Block Z-1, so long as immediately before any such Capital and Exploratory Expenditure is made and immediately after giving effect thereto, no Default or Event of Default shall have occurred and is continuing,
+ 
+(i) during the period commencing on the Fourth Amendment Effective Date and ending on the later of (x) the first anniversary of the Fourth Amendment Effective Date and (y) the Pacific Farm-Out Settlement Date, Capital and Exploratory Expenditures made by any Loan Party or any of its Subsidiaries financed solely with proceeds from Pacific Loans (other than Pacific Loans made in respect of the Pacific Reference Debt);
+ 
+(ii) during the period commencing on the later of (x) the first anniversary of the Fourth Amendment Effective Date and (y) the Pacific Farm-Out Settlement Date, and ending on the Maximum Carry Amount Date, Capital and Exploratory Expenditures made by any Loan Party or any of its Subsidiaries, not exceeding, individually or in the aggregate, US$15,000,000;
+ 
+(iii) following the later of the Pacific Farm-Out Settlement Date and the Maximum Carry Amount Date, Capital and Exploratory Expenditures by any Loan Party or any of its Subsidiaries, not exceeding, individually or in the aggregate, US$100,000,000 in any Financial Year, minus the aggregate amount of Capital and Exploratory Expenditures made during such Financial Year pursuant to Section 7.20(c)(ii), of which no more than US$50,000,000 shall be used for Exploratory Expenditures during any such Financial Year; provided, however, that any unused portion of the amount of all such Capital and Exploratory Expenditures in any Financial Year up to a maximum amount of US$15,000,000 (such amount, the Carry Over Amount) may be carried forward one single Financial Year and allocated to the next succeeding Financial Year, and for purposes of measuring compliance herewith, the Carry Over Amount shall be deemed to be the first amount spent on Capital and Exploratory Expenditures in the succeeding Financial Year; and
+ 
+(iv) following the Pacific Farm-Out Termination Date, if the Consolidated cash on hand of BPZ Resources as of the close of business on the last day of the fiscal quarter of BPZ Resources most recently ended prior to the date on which the relevant Capital and Exploratory Expenditures are made, in respect of which Consolidated financial statements of BPZ Resources have been actually delivered to the Administrative Agent pursuant to Section 7.5(a), is (after giving effect on a pro forma basis to the making of such Capital and Exploratory Expenditure) equal to or greater than US$40,000,000 (or its equivalent in other currencies), Capital and Exploratory Expenditures by any Loan Party or any of its Subsidiaries, not exceeding, individually or in the aggregate, during any Financial Year US$65,000,000, minus the aggregate amount of Capital and Exploratory Expenditures made during such Financial Year pursuant to Section 7.20(c)(ii), of which no more than US$15,000,000 shall be used for Exploratory Expenditures during any such Financial Year; and
+ 
+14
+
+
+
+
+
+
+ 
+(d)                               with respect to Capital and Exploratory Expenditures made by any Loan Party or any of its Subsidiaries for the development of any oil and gas exploration field in any exploration block other than the Block Z-1, so long as immediately before any such Capital and Exploratory Expenditure is made and immediately after giving effect thereto, no Default or Event of Default shall have occurred and is continuing,
+ 
+(i) prior to the earlier of (x) the Pacific Farm-Out Settlement Date, and (y) the Pacific Farm-Out Termination, Capital and Exploratory Expenditures by any Loan Party or any of its Subsidiaries, not exceeding, individually or in the aggregate, the positive difference, if any, between US$15,000,000 and the amount of any Investments made pursuant to Section 7.18(h) in such Financial Year;
+ 
+(ii) following the Pacific Farm-Out Settlement Date, Capital and Exploratory Expenditures by any Loan Party or any of its Subsidiaries (1) with proceeds from Non-Recourse Debt of any Block Subsidiary incurred in compliance with Section 7.8(g) and (2) not exceeding, individually or in the aggregate, during any Financial Year, the positive difference, if any, between (A) (x) with respect to the Financial Year ending on December 31, 2012, US$7,500,000 minus the aggregate amount of Capital and Exploratory Expenditures made during such Financial Year pursuant to Section 7.20(d)(i), and (y)with respect to any Financial Year ending on or after December 31, 2013, US$20,000,000 minus the aggregate amount of Capital and Exploratory Expenditures made during such Financial Year pursuant to Section 7.20(d)(i), and (B) the sum of (x) the amount of any Investments made pursuant to Section 7.18(h) in such Financial Year, and (y) the amount Capital and Exploratory Expenditures made pursuant to Section 7.20(c)(ii); and
+ 
+(iii) following the Pacific Farm-Out Termination, Capital and Exploratory Expenditures by any Loan Party or any of its Subsidiaries, not exceeding in any Financial Year, individually or in the aggregate, US$2,500,000 minus the aggregate amount of Capital and Exploratory Expenditures made during such Financial Year pursuant to Section 7.20(d)(i).
+ 
+(q)                                 Section 7.21(d) of the Credit Agreement is hereby amended by replacing it in its entirety with the following:
+ 
+(d)                         Minimum Barrel Production per Quarter. None of the Loan Parties shall permit the BPZ Perus aggregate crude oil barrel production for each of the fiscal quarters set forth in Annex III-D to be less than the number of barrels set forth therein opposite such quarter; provided that the aggregate crude oil barrel production of BPZ Peru for such periods shall be calculated on a pro forma basis assuming that the Pacific Farm-Out Completion occurred as of January 1, 2012, regardless of whether or not the Pacific Farm-Out Completion actually occurs.
+ 
+(r)                                    Section 7.21 of the Credit Agreement is hereby amended by adding the following new clause (e) at the end thereof:
+ 
+(e)                          Maximum Indebtedness of BPZ Peru. None of the Loan Parties shall permit the Consolidated Total Debt of BPZ Peru to exceed at any time US$90,000,000 (or its equivalent in other currencies).
+ 
+15
+
+
+
+
+
+
+ 
+(s)                                  Article VII of the Credit Agreement is hereby amended by adding the following Section 7.25 at the end thereof:
+ 
+7.25      Limitation on Amendments to Documents. None of the Loan Parties shall, or shall permit any of their respective Subsidiaries to, without the prior written consent of the Required Lenders, enter into or consent to any modification, supplement or waiver to any provision of (i) any Pacific Security Documents, or (ii) any Pacific Farm-Out Document (other than the Pacific Security Documents), except in the case of clause (ii) above, to the extent such modification, supplement or waiver does not adversely affects the interests of the Lenders hereunder in any respect.
+ 
+(t)                                    Clause (i) of Article VIII of the Credit Agreement is hereby amended by adding or the Pacific Farm-Out Documents to which it is a party at the end of clause (ii) thereof.
+ 
+(u)                                 Article VIII of the Credit Agreement is hereby amended by adding the following new clauses (o), (p), (q) and (r) at the end thereof:
+ 
+(o)                        any default, early amortization event or similar event (other than a permitted prepayment), shall occur with respect to the BPZ Peru Financing Documents; or
+ 
+(p)                               (i) any default by any Loan Party or any of its Affiliates under any Pacific Farm-Out Document shall have occurred, but only to the extent the occurrence thereof (A) entitles PRE or any of its Affiliates to terminate any Farm-Out Document or require the making of any payment (other than any payment pursuant to Section 10.2 or 10.3 of the Stock Purchase Agreement (as in effect on the Fourth Amendment Effective Date)) by any Loan Party or any of its Affiliates, individually or in the aggregate, in excess of US$5,000,000 (or the Dollar equivalent thereof); or (B) results in the loss of any material right of any Loan Party or any of its Affiliates under any Farm-Out Document (in each case, irrespective of whether any right or remedy of PRE or any of its Affiliates as a result thereof is actually asserted, exercised or waived); provided, that for purposes of this clause (p), a default by any Loan Party or any of its Affiliates under any Pacific Farm-Out Document shall not include a breach of any Seller Warranty (as defined in the Stock Purchase Agreement (as in effect on the Fourth Amendment Effective Date)), but subject always to clause (A) above if any payment is required to be made by any Loan Party or Affiliate thereof (including pursuant to Section 9 of the Stock Purchase Agreement (as in effect on the Fourth Amendment Effective Date)) as a result of the breach of such Seller Warranty; or
+ 
+(q)                               if the Pacific Farm-Out Settlement Date shall not occur on or prior to the date falling 30 days after the Pacific Farm-Out Completion Date; or
+ 
+(r)                                 (i) any principal in respect of Debt incurred by any Loan Party pursuant to the Pacific Farm-Out Documents, individually or in the aggregate, in excess of US$4,000,000 shall be paid or repaid by, or on behalf of, any Loan Party during any three-month period commencing on October 15, 2013; or (ii) any interest in respect of Debt incurred pursuant to the Pacific Farm-Out Documents (other than interest accrued on Pacific Loans made prior to the Pacific Farm-Out Termination) shall be paid by, or on behalf of, any Loan Party, at any time.
+ 
+(v)                                 Article X of the Credit Agreement is hereby amended by adding the following Section 10.8 at the end thereof:
+ 
+16
+
+
+
+
+
+
+ 
+10.8                  Execution of Loan Documents. Each Lender hereby acknowledges the terms of each of the Loan Documents and authorizes and instructs the Administrative Agent to execute and deliver, for the benefit of the Lenders, each of the Loan Documents to which it is an intended party.
+ 
+(w)                               Section 11.21 of the Credit Agreement is hereby amended by replacing it in its entirety with the following:
+ 
+Section 11.21 Termination; Release of Collateral. At such time as all of the Secured Obligations shall have been paid in cash in full, the Collateral shall be deemed to be automatically released from the Liens created under the Loan Documents, and this Agreement and all obligations (other than those expressly stated to survive such termination) hereunder shall terminate, all without delivery of any instrument or performance of any act by any party and all rights to and interests in the Collateral shall revert to the Loan Parties. At the request and sole expense of the Borrower following any such termination, the Administrative Agent shall promptly execute and deliver to the Borrower such documents as the Borrower shall reasonably request to evidence such release and termination.
+ 
+(x)                                   (i) Exhibit III-A to the Credit Agreement is hereby replaced in its entirety with Exhibit I hereto, (ii) Exhibit III-B to the Credit Agreement is hereby replaced in its entirety with Exhibit II hereto, (iii) Exhibit III-C to the Credit Agreement is hereby replaced in its entirety with Exhibit III hereto, (iv) Exhibit III-D to the Credit Agreement is hereby replaced in its entirety with Exhibit IV hereto, and (v) Exhibit V hereto is hereby added as new Exhibit K to the Credit Agreement.
+ 
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES
+ 
+Section 3.1                            Pacific Farm-Out Documents. The Borrower has delivered to the Administrative Agent a true, correct and complete duly executed copy of the Pacific Farm-Out Documents, including any amendments, supplements or modifications with respect thereto. Each of the Pacific Farm-Out Documents has been validly authorized, executed and delivered by each party thereto and constitutes the valid and binding obligation of each party thereto in accordance with the terms thereof. No provision of any Pacific Farm-Out Document has been amended, supplemented or modified in any respect. No default, event of default or similar event has occurred and is continuing under any of the Pacific Farm-Out Documents. No event or circumstance, the occurrence of which would result in any Loan Party having the ability to terminate its obligations under the Pacific Farm-Out Documents or to decline to consummate the Pacific Farm-Out, has occurred or is reasonably expected to occur on or prior to the Amendment Effective Date. The Joint Operating Agreement, the Operating Services Agreement and the Carry Agreement will not become effective at any time prior to the Pacific Farm-Out Completion Date.
+ 
+ARTICLE IV
+CONDITIONS TO EFFECTIVENESS
+ 
+Section 4.1                            Effectiveness. This Amendment shall become effective on and as of the date hereof (the Amendment Effective Date), subject to the satisfaction of each of the
+ 
+17
+
+
+
+
+
+
+ 
+following conditions on or prior to such date in a manner satisfactory to the Administrative Agent and the Lenders:
+ 
+(a)                          Officers Certificate. The Administrative Agent shall have received a certificate, dated as of the Amendment Effective Date and signed by an authorized officer or director of the Borrower and each Guarantor, substantially in the form of Exhibit VI.
+ 
+(b)                         Loan Documents. The Administrative Agent shall have received a true, correct and complete copy of the Pacific Farm-Out Intercreditor Agreement duly executed and delivered by a duly authorized officer of each party thereto, and such Loan Document shall be in full force and effect.
+ 
+(c)                          Pacific Farm-Out Documents. The Administrative Agent shall have received a true, correct and complete copy of each Pacific Farm-Out Document specified in Section 3.1, in each case, duly executed and delivered by a duly authorized officer of each party thereto, and each such Pacific Farm-Out Document shall be in full force and effect.
+ 
+(d)                         Opinion of Counsel. The Administrative Agent shall have received an opinion of Rodrigo, Elías & Medrano, special Peruvian counsel to the Borrower, in the form of Exhibit VII, with qualifications and exceptions acceptable to the Administrative Agent and its counsel (and the Borrower has instructed such counsel to deliver such opinion to the Administrative Agent and the Lenders).
+ 
+(e)                          Payment of Fees. The Administrative Agent shall have received all reasonable and documented fees and other amounts due and payable on or prior to the Amendment Effective Date, including reimbursement or payment of all reasonable and documented out-of-pocket expenses (including reasonable and documented fees, charges and disbursements of Rubio, Leguía & Normand and Skadden, Arps, Slate, Meagher & Flom LLP) required to be reimbursed or paid by the Borrower hereunder or under any other Loan Document.
+ 
+(f)                            Representations and Warranties. Each of the representations and warranties of each Loan Party set out in each of the Loan Documents (after giving effect to this Amendment) shall (i) if such representation and warranty is qualified as to materiality or by reference to the existence of a Material Adverse Effect, true and correct to the extent of such qualification on and as of the Amendment Effective Date (or, if any such representation or warranty is expressly stated to have been made as of a specific date, as of such specific date), or (ii) if such representation and warranty is not so qualified, true and correct in all material respects on and as of the Amendment Effective Date (or, if any such representation or warranty is expressly stated to have been made as of a specific date, as of such specific date) be true and correct on and as of the Amendment Effective Date.
+ 
+(g)                         No Material Adverse Effect. Since December 31, 2011, no event, development or circumstance shall have occurred that has had or could reasonably be expected to have a Material Adverse Effect.
+ 
+(h)                         No Default. After giving effect to this Amendment, no event, act or condition shall have occurred and be continuing which constitutes a Default or Event of Default.
+ 
+18
+
+
+
+
+
+
+ 
+(i)                             No Order. There shall not (i) be in effect any statute, regulation, order, decree or judgment of any Governmental Authority that makes illegal or enjoins or prevents the consummation of the transactions contemplated by this Amendment, any other Loan Document or any of the Pacific Farm-Out Documents or (ii) have been commenced any action or proceeding that seeks to prevent or enjoin any transactions contemplated by this Amendment or any other Loan Document or any Pacific Farm-Out Document.
+ 
+(j)                             Taxes. All applicable taxes and stamp duties due and payable on or prior to the Amendment Effective Date, if any, arising in connection with the execution, delivery and performance of this Amendment and the other Loan Documents shall have been paid in full.
+ 
+(k)                          Satisfaction of Conditions under Amendment to BPZ Peru Credit Agreement. All conditions precedent for the occurrence of the Amendment Effective Date under (and as defined in) the amendment to the BPZ Peru Credit Agreement, dated as of the date hereof (the BPZ Peru Amendment) among BPZ Peru, as borrower, BPZ Resources, BPZ Energy, Soluciones Energeticas and BPZ Norte, as guarantors, the lenders referred to therein, and Credit Suisse AG, Cayman Islands Branch, as administrative agent, shall have been satisfied in full and the Amendment Effective Date (as defined in the BPZ Peru Amendment) shall fall on the same Business Day on which the Amendment Effective Date falls.
+ 
+(l)                             New Peruvian Promissory Note. The Administrative Agent shall have received a Peruvian Promissory Note evidencing the Loans outstanding as of the Amendment Effective Date, duly executed and delivered by the Borrower, in exchange for the then existing Peruvian Promissory Note.
+ 
+ARTICLE V
+MISCELLANEOUS
+ 
+Section 5.1                            Notices. All notices, requests and other communications to any party hereto shall be given or served in the manner contemplated in Section 11.2 of the Credit Agreement.
+ 
+Section 5.2                            No Waiver; Status of Credit Documents. This Amendment shall not constitute an amendment, supplement or waiver of any provision of the Credit Agreement not expressly referred to herein and shall not be construed as an amendment, supplement, waiver or consent to any action on the part of any party hereto that would require an amendment, supplement, waiver or consent of the Lenders except as expressly stated herein. Except as expressly amended and supplemented hereby, the provisions of the Credit Agreement are and shall remain in full force and effect. No failure or delay on the part of the Lenders in the exercise of any power, right or privilege hereunder or under any other Loan Document shall impair such power, right or privilege or be construed to be a waiver of any default or acquiescence therein, nor shall any single or partial exercise of any such power, right or privilege preclude other or further exercise thereof or of any other power, right or privilege. All rights and remedies existing under this Amendment and the other Loan Documents are cumulative to, and not exclusive of, any rights or remedies available at equity or law. Nothing in this Amendment shall constitute a novation of any of the Borrowers obligations under the Credit Agreement or any other Loan Document.
+ 
+19
+
+
+
+
+
+
+ 
+Section 5.3                            Amendment. This Amendment may be amended, waived, discharged or terminated only by an instrument in writing signed by the party against which enforcement of such change, waiver, discharge or termination is sought.
+ 
+Section 5.4                            Amendment Binding. This Amendment shall be binding upon and inure to the benefit of and be enforceable by the parties hereto and the respective successors and permitted assigns of the parties hereto.
+ 
+Section 5.5                            Headings. Section headings used herein are for convenience of reference only, are not part of this Amendment and shall not affect the construction of, or be taken into consideration in interpreting, this Amendment.
+ 
+Section 5.6                            Governing Law. This Amendment shall be governed by, and construed in accordance with, the laws of the State of New York, without regard to its conflicts of laws principles.
+ 
+Section 5.7                            Execution in Counterparts. This Amendment may be executed in any number of counterparts and by different parties thereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same instrument.
+ 
+[Remainder of this page intentionally left blank]
+ 
+20
+
+ 
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of the date first above written.
+ 
+EMPRESA ELÉCTRICA NUEVA ESPERANZA S.R.L.,
+as Borrower
+ 
+
+
+
+By:    
+
+/s/ Luis Rafael Zoeger Nuñez    
+
+        
+
+
+     
+
+Name:    
+
+Luis Rafael Zoeger Nuñez    
+
+        
+
+
+     
+
+Title:    
+
+General Manager    
+
+          
+ 
+[Signature Page to Fourth Amendment to EENE Credit Agreement]
+ 
+
+
+
+
+
+
+ 
+BPZ RESOURCES, INC.,
+as Guarantor
+ 
+
+
+
+By:    
+
+/s/ Richard S Menniti    
+
+        
+
+
+     
+
+Name:    
+
+Richard S Menniti    
+
+        
+
+
+     
+
+Title:    
+
+Chief Financial Officer    
+
+          
+ 
+[Signature Page to Fourth Amendment to EENE Credit Agreement]
+ 
+
+
+
+
+
+
+ 
+BPZ EXPLORACIÓN & PRODUCCIÓN S.R.L.,
+as Guarantor
+ 
+
+
+
+By:    
+
+/s/ Luis Rafael Zoeger Nuñez    
+
+        
+
+
+     
+
+Name:    
+
+Luis Rafael Zoeger Nuñez    
+
+        
+
+
+     
+
+Title:    
+
+General Manager    
+
+          
+ 
+[Signature page to Fourth Amendment to EENE Credit Agreement]
+ 
+
+
+
+
+
+
+ 
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH,
+as Administrative Agent
+ 
+
+
+
+By:    
+
+/s/ Andreas Schenk Caviezel    
+
+        
+
+
+     
+
+Name:    
+
+Andreas Schenk Caviezel    
+
+        
+
+
+     
+
+Title:    
+
+Managing Director    
+
+        
+
+
+     
+
+     
+
+        
+
+
+By:    
+
+/s/ Martin Cameo    
+
+        
+
+
+     
+
+Name:    
+
+Martin Cameo    
+
+        
+
+
+     
+
+Title:    
+
+Director    
+
+          
+ 
+[Signature Page to Fourth Amendment to EENE Credit Agreement]
+ 
+
+
+
+
+
+
+ 
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH,
+as Lender
+ 
+
+
+
+By:    
+
+/s/ Andreas Schenk Caviezel    
+
+        
+
+
+     
+
+Name:    
+
+Andreas Schenk Caviezel    
+
+        
+
+
+     
+
+Title:    
+
+Managing Director    
+
+        
+
+
+     
+
+     
+
+        
+
+
+By:    
+
+/s/ Martin Cameo    
+
+        
+
+
+     
+
+Name:    
+
+Martin Cameo    
+
+        
+
+
+     
+
+Title:    
+
+Director    
+
+          
+ 
+[Signature Page to Fourth Amendment to EENE Credit Agreement]
+ 
+
+
+
+
+
+
+ 
+Exhibit I
+ 
+ANNEX III-A
+to Credit Agreement
+ 
+
+
+
+Rolling Period ended    
+
+     
+
+Maximum Ratio       
+
+
+June 30,   2012    
+
+     
+
+3.50x       
+
+
+September 30,   2012    
+
+     
+
+3.50x       
+
+
+December 31,   2012    
+
+     
+
+3.50x       
+
+
+March 31,   2013    
+
+     
+
+3.50x       
+
+
+June 30,   2013    
+
+     
+
+3.25x       
+
+
+September 30,   2013    
+
+     
+
+2.75x       
+
+
+December 31,   2013    
+
+     
+
+2.25x       
+
+
+March 31,   2014    
+
+     
+
+1.75x       
+
+
+June 30,   2014    
+
+     
+
+1.50x       
+
+
+September 30,   2014    
+
+     
+
+1.50x       
+
+
+December 31,   2014    
+
+     
+
+1.50x         
+ 
+
+
+
+
+
+
+ 
+Exhibit II
+ 
+ANNEX III-B
+to Credit Agreement
+ 
+
+
+
+Rolling Period ended    
+
+     
+
+Minimum Ratio       
+
+
+June 30,   2012    
+
+     
+
+1.00x       
+
+
+September 30,   2012    
+
+     
+
+1.00x       
+
+
+December 31,   2012    
+
+     
+
+1.00x       
+
+
+March 31,   2013    
+
+     
+
+1.00x       
+
+
+June 30,   2013    
+
+     
+
+1.00x       
+
+
+September 30,   2013    
+
+     
+
+1.25x       
+
+
+December 31,   2013    
+
+     
+
+2.00x       
+
+
+March 31,   2014    
+
+     
+
+2.50x       
+
+
+June 30,   2014    
+
+     
+
+2.50x       
+
+
+September 30,   2014    
+
+     
+
+3.00x       
+
+
+December 31,   2014    
+
+     
+
+3.00x         
+ 
+
+
+
+
+
+
+ 
+Exhibit III
+ 
+ANNEX III-C
+to Credit Agreement
+ 
+
+
+
+Quarter Ended    
+
+     
+
+Maximum Ratio       
+
+
+June 30,   2012    
+
+     
+
+70.0%       
+
+
+September 30,   2012    
+
+     
+
+70.0%       
+
+
+December 31,   2012    
+
+     
+
+70.0%       
+
+
+March 31,   2013    
+
+     
+
+70.0%       
+
+
+June 30,   2013    
+
+     
+
+70.0%       
+
+
+September 30,   2013    
+
+     
+
+70.0%       
+
+
+December 31,   2013    
+
+     
+
+70.0%       
+
+
+March 31,   2014    
+
+     
+
+70.0%       
+
+
+June 30,   2014    
+
+     
+
+70.0%       
+
+
+September 30,   2014    
+
+     
+
+70.0%       
+
+
+December 31,   2014    
+
+     
+
+70.0%         
+ 
+
+
+
+
+
+
+ 
+Exhibit IV
+ 
+ANNEX III-D
+to Credit Agreement
+ 
+
+
+
+Quarter Ended    
+
+     
+
+Minimum Barrel   Production (barrels) per   Quarter       
+
+
+June 30,   2012    
+
+     
+
+140,000       
+
+
+September 30,   2012    
+
+     
+
+140,000       
+
+
+December 31,   2012    
+
+     
+
+140,000       
+
+
+March 31,   2013    
+
+     
+
+165,000       
+
+
+June 30,   2013    
+
+     
+
+200,000       
+
+
+September 30,   2013    
+
+     
+
+270,000       
+
+
+December 31,   2013    
+
+     
+
+320,000       
+
+
+March 31,   2014    
+
+     
+
+325,000       
+
+
+June 30,   2014    
+
+     
+
+325,000       
+
+
+September 30,   2014    
+
+     
+
+325,000       
+
+
+December 31,   2014    
+
+     
+
+350,000         
+ 
+
+ 
+
+
+
+
+
+

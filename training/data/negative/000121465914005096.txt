@@ -1,0 +1,434 @@
+
+EX-10.8
+4
+ex10_8.htm
+EXHIBIT 10.8
+
+
+
+    ex10_8.htm
+    
+    
+    
+
+
+Exhibit 10.8
+
+
+
+
+SARA CREEK GOLD CORP.
+
+ 
+
+2014 STOCK PLAN
+
+ 
+
+STOCK OPTION AGREEMENT
+
+ 
+
+Pursuant to the Sara Creek Gold Corp. 2014 Stock Plan (the “Plan”), Sara Creek Gold Corp., a Nevada corporation (the “Company”), hereby grants to the optionee listed below (“Optionee”), an option (this “Option”) to purchase the number of shares of the Company’s common stock set forth below (the “Shares”), subject to the terms and conditions of the Plan and this Stock Option Agreement.
+
+ 
+
+
+
+
+
+I.
+
+
+NOTICE OF STOCK OPTION GRANT
+
+ 
+
+
+
+
+
+
+
+
+Optionee:
+
+  
+
+ 
+ 
+
+
+Date of Grant:
+
+  
+
+ 
+ 
+
+
+Exercise Price per Share:
+
+
+$
+
+
+ 
+ 
+
+
+Total Number of Shares Granted:
+
+  
+
+ 
+ 
+
+
+Expiration Date:
+
+  
+
+  
+
+Type of Option:  □  Incentive Stock Option                                  □ Nonstatutory Stock Option
+
+
+ 
+ 
+
+
+
+
+
+
+
+Vesting Schedule:
+
+
+This Option shall vest according to the following schedule:
+
+
+ 
+ 
+
+  
+
+[INSERT REGULAR VESTING SCHEDULE]  Vesting of this Option may be accelerated in accordance with Section 14(c) of the Plan.
+
+
+
+
+ 
+
+
+
+
+
+II.
+
+
+AGREEMENT
+
+
+
+
+ 
+
+1.           Definitions.  All capitalized terms used in this Stock Option Agreement without definition shall have the meanings ascribed to these terms in the Plan.
+
+ 
+
+2.           Grant of Option.  The Company hereby grants to Optionee an Option to purchase the number of Shares set forth in the Notice of Stock Option Grant above, at the exercise price per Share set forth in the Notice of Stock Option Grant (the “Exercise Price”).
+
+ 
+
+  If designated in the Notice of Stock Option Grant as an Incentive Stock Option, this Option is intended to qualify as an Incentive Stock Option as defined in Section 422 of the Code; provided, that to the extent that the aggregate Fair Market Value of stock with respect to which incentive stock options (within the meaning of Code Section 422, but without regard to Code Section 422(d)), including this Option, become exercisable for the first time by Optionee during any calendar year (under the Plan and all other incentive stock option plans of the Company or any Parent or Subsidiary of the Company) exceeds $100,000, the options shall not be treated as qualifying under Code Section 422, but rather shall be treated as Non-Qualified Stock Options to the extent required by Code Section 422. The rule set forth in the preceding sentence shall be applied by taking options into account in the order in which they were granted. For purposes of these rules, the Fair Market Value of stock shall be determined as of the time the option with respect to the stock is granted.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+3.           Exercise of Option.  This Option is exercisable as follows:
+
+ 
+
+(a)           Right to Exercise.
+
+ 
+
+(i)           This Option shall be exercisable cumulatively according to the vesting schedule set forth in the Notice of Stock Option Grant. For purposes of this Stock Option Agreement, Shares subject to this Option shall vest based on Optionee’s Continuous Service as a Service Provider.
+
+ 
+
+(ii)           This Option may not be exercised for a fraction of a Share.
+
+ 
+
+(iii)           In the event of Optionee’s death, disability or other termination of Optionee’s status as a Service Provider, the exercisability of this Option shall be governed by Sections 8, 9 and 10 below, as applicable.
+
+ 
+
+(iv)           In no event may this Option be exercised after 5:00 p.m. California time on the Expiration Date set forth in the Notice of Stock Option Grant.
+
+ 
+
+(b)           Method of Exercise.  This Option shall be exercisable by written notice (substantially in the form of Exhibit A, the “Exercise Notice”). The notice must state the number of Shares for which this Option is being exercised and contain representations and agreements with respect to the Shares required pursuant to the provisions of the Plan or otherwise requested by the Administrator. The Exercise Notice must be signed by Optionee and delivered in person or by certified mail to the Secretary of the Company and, regardless of the method of delivery, received by the Company no later than 5:00 p.m. California time on the Expiration Date. The Exercise Notice must be accompanied by payment of the Exercise Price plus payment of any applicable withholding tax.
+
+ 
+
+4.           Optionee’s Representations.  If the Shares purchasable pursuant to the exercise of this Option have not been registered under the Act or any applicable state laws at the time this Option is exercised, Optionee shall, unless a waiver of the requirement is expressly granted by the Administrator, concurrently with the exercise of all or any portion of this Option, deliver to the Company an executed Investment Representation Statement in the form of Exhibit B and shall make any other written representations and warranties deemed necessary or appropriate by the Administrator or the Company’s counsel.
+
+ 
+
+5.           Lock-Up Period.  Optionee agrees, if so requested by the Company or an underwriter of shares of stock in connection with any public offering of the Company, not to directly or indirectly offer, sell, contract to sell, sell any option or contract to purchase, purchase any option or contract to sell, grant any option, right or warrant for the sale of or otherwise dispose of or transfer any shares of stock held by him for that period, not to exceed 180 days following the effective date of the relevant registration statement filed under the Act.  The Company may impose stop-transfer instructions with respect to securities subject to the foregoing restrictions until the end of the 180-day period.
+
+ 
+
+
+
+  
+
+
+
+-2-
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+6.           Method of Payment.  Payment of the Exercise Price shall be paid:
+
+ 
+
+(a)           In cash, by certified check, or by wire transfer of immediately available funds;
+
+ 
+
+(b)           Through the delivery of shares of stock that have been purchased by Optionee on the open market or that are beneficially owned by Optionee and are not then subject to restrictions under any Company plan or agreement; provided that if the surrendered shares were acquired directly from the Company, those shares have (i)  been owned by the Optionee for more than six months as of the date of surrender, and (ii) a Fair Market Value on the date of surrender equal to the aggregate exercise price of the Shares as to which the Option is being exercised;
+
+ 
+
+(c)           If expressly authorized by the Administrator upon the request of Optionee (which authorization may be granted or withheld in the Administrator’s sole and absolute discretion), by Optionee delivering to the Company a properly executed Exercise Notice together with irrevocable instructions to a broker to promptly deliver to the Company the purchase price in cash, by cashier’s check payable to the Company, or by wire transfer of immediately available funds; provided that if Optionee chooses to pay the purchase price in this manner, Optionee and the broker shall comply with procedures and enter into agreements of indemnity and other agreements prescribed by the Administrator as a condition of the payment procedure;
+
+ 
+
+(d)           If expressly authorized by the Administrator upon the request of Optionee (which authorization may be granted or withheld in the Administrator’s sole and absolute discretion), and upon such terms and conditions as prescribed by the Administrator, in the Administrator’s sole and absolute discretion, by a “net exercise” arrangement pursuant to which the Company will reduce the number of Shares issuable upon exercise of this Option by the largest whole number of shares with a Fair Market Value that does not exceed the aggregate Exercise Price; or
+
+ 
+
+(e)           any combination of the foregoing methods of payment (subject to approval or authorization of the Administrator).
+
+ 
+
+7.           Restrictions on Exercise.  Notwithstanding anything herein to the contrary, this Option may not be exercised if the issuance of Shares upon exercise or if the method of payment for the Shares would constitute a violation of any applicable laws or regulations, including, without limitation, applicable federal and state securities laws and regulations.  The Company may require Optionee to make any representations and warranties to the Company required by any applicable law or regulation before allowing this Option to be exercised.  Shares issued upon exercise of this Option may not be issued in the name of any person or entity other than Optionee unless Optionee and/or the person or entity in whose name the Shares are proposed to be issued have delivered to the Company all information and documents the Administrator deems relevant in connection therewith, including, without limitation, information with respect to the person or entity in whose name the Shares are proposed to be issued, representations regarding exemptions from registration under applicable federal and state securities laws (and, if requested by the Administrator, an opinion of legal counsel of Optionee and/or the person or entity in whose name the Shares are proposed to be issued, which counsel shall be reasonably acceptable to the Administrator, regarding exemptions from registration under applicable federal and state securities laws), and the person or entity in whose name the Shares are proposed to be issued agreeing in writing to the terms and conditions of this Stock Option Agreement and the Plan concerning the issuance of any such Shares.  No Shares will be issued pursuant to the exercise of this Option unless the issuance and the exercise comply with all relevant requirements of any stock exchange upon which the Shares may then be listed.
+
+ 
+
+
+
+  
+
+
+
+-3-
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+8.           Termination of Relationship. Upon a cessation of Optionee’s Continuous Service (other than by reason of termination for Cause or Optionee’s death or Disability), then to the extent (a) not vested as of the date on which Optionee ceases to be a Service Provider, the unvested portion of this Option shall immediately terminate, and (b) vested as of the date on which Optionee ceases to be a Service Provider (taking into account any vesting that may occur in connection with termination), the vested portion of this Option shall remain exercisable for a period of six months immediately following the date of termination (but in no event later than 5:00 p.m. California time on the Expiration Date set forth in the Notice of Stock Option Grant). If Optionee does not exercise the vested portion of this Option within the time specified in this Section 8, the vested portion of this Option shall terminate.
+
+ 
+
+9.           Termination for Cause.  Upon a cessation of Optionee’s Continuous Service by reason of termination for Cause, this Option shall terminate in full as of the start of business on the date of Optionee’s termination, regardless of whether this Option is then vested and/or exercisable with respect to any Shares.
+
+ 
+
+10.           Disability or Death of Optionee.  Upon a cessation of Optionee’s Continuous Service as a result of Disability or as a result of Optionee’s death, then to the extent (a) not vested as of the date on which Optionee ceases to be a Service Provider due to Disability or death, the unvested portion of this Option shall immediately terminate, and (b) vested as of the date on which Optionee ceases to be a Service Provider due to Disability or death, the vested portion of this Option shall remain exercisable for a period of six months immediately following the date of termination (but in no event later than 5:00 p.m. California time on the Expiration Date set forth in the Notice of Stock Option Grant). If Optionee does not exercise the vested portion of this Option within the time specified in this Section 10, the vested portion of this Option shall terminate.
+
+ 
+
+11.           Non-Transferability of Option.  Neither this Option nor any rights herein may be sold, pledged, assigned, hypothecated, transferred, or disposed of in any manner other than by will or by the laws of descent and distribution.  Any sale, pledge, assignment, hypothecation, transfer or disposition in violation of the foregoing shall be void.
+
+ 
+
+12.           Term of Option.  Subject to earlier termination in accordance with Sections 8, 9 and 10, this Option may be exercised only prior to 5:00 p.m. California time on the Expiration Date set forth in the Notice of Stock Option Grant.
+
+ 
+
+
+
+  
+
+
+
+-4-
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+13.           Construction.  The titles of Sections in this Stock Option Agreement are used for convenience only and are not, and shall not be, considered in construing or interpreting this Stock Option Agreement.  The words “include,” “includes,” and “including” when used herein are deemed in each case to be followed by the words “without limitation.”  Words (including defined terms) in the singular shall be held to include the plural and vice versa and words of one gender shall be held to include the other gender or neutral gender as the context requires.  The terms “hereof,” “herein” and “herewith” and words of similar import shall, unless otherwise expressly specified, be construed to refer to this Stock Option Agreement as a whole and not to any particular provision of this Stock Option Agreement.
+
+ 
+
+14.           No Right to Employment.  Nothing in the Plan or in this Stock Option Agreement confers upon Optionee any right to continue as an employee, officer, director or consultant of the Company or any Parent, Subsidiary or other Affiliate of the Company, or interferes with or restricts in any way the rights of the Company or any Parent, Subsidiary or other Affiliate of the Company, which are hereby expressly reserved, to discharge Optionee at any time for any reason whatsoever, with or without Cause, except to the extent expressly provided otherwise in a written employment agreement, or written consulting agreement, between Optionee and the Company or any Parent, Subsidiary or other Affiliate of the Company.
+
+ 
+
+15.           Interpretation.  Any dispute regarding the interpretation of this Stock Option Agreement shall be submitted by Optionee or by the Company, as applicable, forthwith to the Administrator, which shall review the dispute at its next regular meeting. The resolution of a dispute by the Administrator shall be final and binding on the Company and on Optionee.
+
+ 
+
+16.           Plan Terms.  This Stock Option Agreement and the terms and conditions of this Option granted hereunder is subject in all respects to the terms of the Plan.  The terms of the Plan are expressly incorporated herein by this reference.  In the event of a conflict between the terms of this Stock Option Agreement and the terms of the Plan, the terms of the Plan shall control.
+
+ 
+
+(Signature Page Follows)
+
+ 
+
+
+
+  
+
+
+
+-5-
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+This Stock Option Agreement may be executed in two or more counterparts, each of which shall be deemed an original and all of which shall constitute one document. A signed copy of this Agreement delivered by facsimile, e-mail or other means of electronic transmission shall be deemed to have the same legal effect as delivery of an original signed copy of this Agreement.
+
+ 
+
+
+
+
+  
+
+SARA CREEK GOLD CORP.
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+
+By:
+
+  
+
+  
+
+Name:
+
+  
+
+  
+
+Title:
+
+  
+
+
+
+ 
+
+Optionee acknowledges receipt of a copy of the Plan and represents that he is familiar with the terms and provisions of the Plan. Optionee hereby accepts this Option subject to all of the terms and provisions of this Stock Option Agreement and of the Plan. Optionee has reviewed the Plan and this Stock Option Agreement in their entirety, has had an opportunity to obtain the advice of counsel prior to executing this Stock Option Agreement and fully understands all provisions of the Plan and this Stock Option Agreement. Optionee hereby agrees to accept as binding, conclusive and final all decisions or interpretations of the Administrator upon any questions arising under the Plan or this Stock Option Agreement.
+
+ 
+
+
+
+
+
+
+
+
+Dated:
+
+  
+  
+
+By:
+
+  
+
+  
+  
+
+Name:
+
+  
+
+
+
+ 
+
+ -6- 
+
+
+
+
+
+
+

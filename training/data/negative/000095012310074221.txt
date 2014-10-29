@@ -1,0 +1,1899 @@
+
+EX-10.4
+4
+h74335exv10w4.htm
+EX-10.4
+
+
+
+exv10w4
+
+
+
+
+
+
+Exhibit 10.4
+
+
+
+APACHE CORPORATION
+2007 Omnibus Equity Compensation Plan
+As amended and restated July 13, 2010; effective December 31, 2009
+
+
+
+Section 1
+
+
+
+Introduction
+
+
+1.1 Establishment. Apache Corporation, a Delaware corporation (hereinafter referred to,
+together with its Affiliates (as defined below) as the Company except where the context otherwise
+requires), hereby establishes the Apache Corporation 2007 Omnibus Equity Compensation Plan (the
+Plan).
+
+
+1.2 Purpose. The purpose of the Plan is to provide Eligible Persons designated by the
+Committee for participation in the Plan with equity-based incentives to: (i) encourage such
+individuals to continue in the long-term service of the Company and its Affiliates, (ii) create in
+such individuals a more direct interest in the future success of the operations of the Company,
+(iii) attract outstanding individuals, and (iv) retain and motivate such individuals. The Plan is
+intended to provide eligible individuals with the opportunity to invest in the Company, thereby
+relating incentive compensation to increases in stockholder value and more closely aligning the
+compensation of such individuals with the interests of the Companys stockholders.
+
+
+Accordingly, this Plan provides for the granting of Incentive Stock Options, Non-Qualified Stock
+Options, Performance Awards, Restricted Stock, Restricted Stock Units, Stock Appreciation Rights or
+any combination of the foregoing, as the Committee determines is best suited to the circumstances
+of the particular individual as provided herein.
+
+
+1.3 Effective Date. The Effective Date of the Plan (the Effective Date) is May 2, 2007.
+This amendment and restatement is effective as of December 31, 2009.
+
+
+
+Section 2
+
+
+
+Definitions
+
+
+2.1 Definitions. The following terms shall have the meanings set forth below:
+
+
+
+     (a) Administrative Agent means any designee or agent that may be appointed by the
+Committee pursuant to subsections 3.1(h) and 3.4 hereof.
+
+
+     (b) Affiliate means any entity other than the Company that is affiliated with the Company
+through stock or equity ownership or otherwise and is designated as an Affiliate for purposes of
+the Plan by the Committee; provided, however, that,
+
+
+1
+
+
+
+
+ 
+
+
+
+
+
+notwithstanding any other provisions of the Plan to the contrary, for purposes of NQSOs and SARs,
+if an individual who otherwise qualifies as an Eligible Person provides services to such an entity
+and not to the Company, such entity may only be designated an Affiliate if the Company qualifies as
+a service recipient, within the meaning of Internal Revenue Code Section 409A, with respect to
+such individual; provided further that such definition of service recipient shall
+be determined by (a) applying Internal Revenue Code Section 1563(a)(1), (2), and (3), for purposes
+of determining a controlled group of corporations under Internal Revenue Code Section 414(b), using
+the language at least 50 percent instead of at least 80 percent each place it appears in
+Internal Revenue Code Section 1563(a)(1), (2), and (3), and by applying Treasury Regulations
+Section 1.414(c)-2, for purposes of determining trades or businesses (whether or not incorporated)
+that are under common control for purposes of Internal Revenue Code Section 414(c), using the
+language at least 50 percent instead of at least 80 percent each place it appears in Treasury
+Regulations Section 1.414(c)-2, and (b) where the use of Shares with respect to the grant of an
+Option or SAR to such an individual is based upon legitimate business criteria, by applying
+Internal Revenue Code Section 1563(a)(1), (2), and (3), for purposes of determining a controlled
+group of corporations under Internal Revenue Code Section 414(b), using the language at least 20
+percent instead of at least 80 percent at each place it appears in Internal Revenue Code Section
+1563(a)(1), (2), and (3), and by applying Treasury Regulations Section 1.414(c)-2, for purposes of
+determining trades or businesses (whether or not incorporated) that are under common control for
+purposes of Internal Revenue Code Section 414(c), using the language at least 20 percent instead
+of at least 80 percent at each place it appears in Treasury Regulations Section 1.414(c)-2;
+provided further that for purposes of ISOs, Affiliate shall mean any present or future
+corporation which is or would be a subsidiary corporation of the Company as the term is defined
+in Section 424(f) of the Internal Revenue Code.
+
+
+     (c) Award means any Stock Option, Stock Appreciation Right, Restricted Stock, Restricted
+Stock Unit, Performance Award, Dividend Equivalent or any other stock-based award granted to a
+Participant under the Plan.
+
+
+     (d) Board means the Board of Directors of the Company.
+
+
+     (e) Change of Control shall have the meaning assigned to such term in the Companys
+Income Continuance Plan as in effect on the Effective Date.
+
+
+     (f) Committee means the Stock Option Plan Committee of the Board or such other Committee
+of the Board that is empowered hereunder to administer the Plan. The Committee shall be
+constituted at all times so as to permit the Plan to be administered by non-employee directors
+(as defined in Rule 16b-3 of the Exchange Act) and outside directors (as defined in Treasury
+Regulations Section 1.162-27 (e)(3)) and to satisfy such additional regulatory or listing
+requirements as the Board may determine to be applicable or appropriate.
+
+
+     (g) Deferred Delivery Plan means the Companys Deferred Delivery Plan, as it has been or
+may be amended from time to time, or any successor plan.
+
+
+2
+
+
+
+
+ 
+
+
+
+     (h) Dividend Equivalent means a right, granted to an Eligible Person to receive cash,
+Stock, other Awards or other property equal in value to dividends paid with respect to a specified
+number of shares of Stock, or other periodic payments.
+
+
+     (i) Eligible Persons means those employees of the Company or of any Affiliates, members
+of the Board, and members of the board of directors of any Affiliates who are designated as
+Eligible Persons by the Committee. Notwithstanding the foregoing, grants of Incentive Stock
+Options may not be granted to anyone who is not an employee of the Company or an Affiliate.
+
+
+     (j) Exchange Act means the Securities Exchange Act of 1934, as amended.
+
+
+     (k) Exercise Date means the date of exercise determined in accordance with subsection
+6.2(g) hereof.
+
+
+     (l) Fair Market Value means the per share closing price of the Stock as reported on The
+New York Stock Exchange, Inc. Composite Transactions Reporting System for a particular date or, if
+the Stock is not so listed on such date, as reported on NASDAQ or on such other exchange or
+electronic trading system which, on the date in question, reports the largest number of traded
+shares of Stock, provided, however, that if on the date Fair Market Value is to be
+determined there are no transactions in the Stock, Fair Market Value shall be determined as of the
+immediately preceding date on which there were transactions in the Stock; provided
+further, however, that if the foregoing provisions are not applicable, the fair
+market value of a share of the Stock as determined by the Committee by the reasonable application
+of such reasonable valuation method, consistently applied, as the Committee deems appropriate;
+provided further, however, that, with respect to ISOs, such Fair Market
+Value shall be determined subject to Section 422(c)(7) of the Internal Revenue Code.
+
+
+     (m) Incentive Stock Option or ISO means any Option intended to be and
+designated as an incentive stock option and which satisfies the requirements of Section 422 of the
+Internal Revenue Code or any successor provision thereto.
+
+
+     (n) Internal Revenue Code means the Internal Revenue Code of 1986, as it may be amended
+from time to time, and any successor thereto. Any reference to a section of the Internal Revenue
+Code or Treasury Regulation shall be treated as a reference to any successor section.
+
+
+     (o) Non-Qualified Stock Option or NQSO means any Option that is not intended to
+qualify as an incentive stock option under Section 422 of the Internal Revenue Code.
+
+
+     (p) Option means an option to purchase a number of shares of Stock granted pursuant to
+subsection 6.1.
+
+
+3
+
+
+
+
+ 
+
+
+
+     (q) Option Price means the price at which shares of Stock subject to an option may be
+purchased, determined in accordance with subsection 6.2(b) hereof.
+
+
+     (r) Participant means an Eligible Person designated by the Committee, from time to time
+during the term of the Plan to receive one or more Awards under the Plan.
+
+
+     (s) Performance Award is a right to either a number of shares of Stock or SARs
+(Performance Shares) determined (in either case) in accordance with subsection 9.1 of this Plan
+based on the extent to which the applicable Performance Goals are achieved. A Performance Share
+shall be of no value to a Participant unless and until earned in accordance with subsection 9.2
+hereof.
+
+
+     (t) Performance Goals are the performance conditions, if any, established pursuant to
+subsection 9.1 by the Committee in connection with an Award.
+
+
+     (u) Performance Period with respect to a Performance Award is a period not less than one
+calendar year or one fiscal year of the Company, beginning not earlier than the year in which such
+Performance Award is granted, which may be referred to herein and by the Committee by use of the
+calendar of fiscal year in which a particular Performance Period commences.
+
+
+     (v) Prior Plans means the Companys 2005 Stock Option Plan and the Executive Restricted
+Stock Plan.
+
+
+     (w) Restricted Stock means Stock granted to an Eligible Person under Section 8 hereof,
+that is subject to certain restrictions and to a risk of forfeiture.
+
+
+     (x) Restricted Stock Unit means a right, granted to an Eligible Person under Section 8
+hereof, to receive Stock, cash or a combination thereof at the end of a specified vesting period.
+
+
+     (y) Restriction Period shall have the meaning assigned to such term in subsection 8.1.
+
+
+     (z) Stock means the $0.625 par value common stock of the Company and or any security into
+which such common stock is converted or exchanged upon merger, consolidation, or any capital
+restructuring (within the meaning of Section 13) of the Company.
+
+
+     (aa) Stock Appreciation Right or SAR means a right granted to an Eligible
+Person to receive an amount in cash, Stock, or other property equal to the excess of the Fair
+Market Value as of the Exercise Date of one share of Stock over the SAR Price times the number of
+shares of Stock to which the Stock Appreciation Right relates. Stock Appreciation Rights may be
+granted in tandem with Options or other Awards or may be freestanding.
+
+
+4
+
+
+
+
+ 
+
+
+
+     (bb) SAR Price means the price at which the Stock Appreciation Right was granted, which
+shall be determined in the same manner as the Option Price of an Option in accordance with
+subsection 6.2 hereof.
+
+
+     (cc) Involuntary Termination means the termination of employment of the Participant by the
+Company or its successor for any reason on or after a Change of Control; provided, that the
+termination does not result from an act of the Participant that (i) constitutes common-law fraud, a
+felony, or a gross malfeasance of duty, or (ii) is materially detrimental to the best interests of
+the Company or its successor.
+
+
+     (dd) Voluntary Termination with Cause occurs upon a Participants separation from service of his
+own volition and one or more of the following conditions occurs without the Participants consent
+on or after a Change of Control:
+
+
+          (i) There is a material diminution in the Participants base compensation, compared
+to his rate of base compensation on the date of the Change of Control.
+
+
+
+          (ii) There is a material diminution in the Participants authority, duties or
+responsibilities.
+
+
+
+          (iii) There is a material diminution in the authority, duties or responsibilities
+of the Participants supervisor, such as a requirement that the Participant (or his
+supervisor) report to a corporate officer or employee instead of reporting directly
+to the board of directors.
+
+
+
+          (iv) There is a material diminution in the budget over which the Participant
+retains authority.
+
+
+
+          (v) There is a material change in the geographic location at which the Participant
+must perform his service, including, for example the assignment of the Participant
+to a regular workplace that is more than 50 miles from his regular workplace on the
+date of the Change of Control.
+
+
+The Participant must notify the Company of the existence of one or more adverse conditions
+specified in clauses (i) through (v) above within 90 days of the initial existence of the adverse
+condition. The notice must be provided in writing to Apache Corporations Vice President, Human
+Resources or her delegate. The notice may be provided by personal delivery or it may be sent by
+email, inter-office mail, regular mail (whether or not certified), fax, or any similar method.
+Apache Corporations Vice President, Human Resources or her delegate shall acknowledge receipt of
+the notice within 5 business days; the acknowledgement shall be sent to the Participant by
+certified mail. Notwithstanding the foregoing provisions of this definition, if the Company
+remedies the adverse condition within 30 days of being notified of the adverse condition, no
+Voluntary Termination with Cause shall occur.
+
+
+
+5
+
+
+
+
+ 
+
+
+
+
+
+2.2 Headings; Gender and Number. The headings contained in the Plan are for reference
+purposes only and shall not affect in any way the meaning or interpretation of the Plan. Except
+when otherwise indicated by the context, the masculine gender shall also include the feminine
+gender, and the definition of any term herein in the singular shall also include the plural.
+
+
+
+Section 3
+
+
+
+Plan Administration
+
+
+3.1 Administration by the Committee. The Plan shall be administered by the Committee. In
+accordance with the provisions of the Plan, the Committee shall, in its sole discretion, adopt
+rules and regulations for carrying out the purposes of the Plan, including, without limitation, the
+authority to:
+
+
+
+     (a) Grant Awards;
+
+
+     (b) Select the Eligible Persons and the time or times at which Awards shall be granted;
+
+
+     (c) Determine the type and number of Awards to be granted, the number of shares of Stock
+to which an Award may relate and the terms, conditions, restrictions, and Performance
+Goals relating to any Award;
+
+
+     (d) Determine whether, to what extent, and under what circumstances an Award may be
+settled, canceled, forfeited, exchanged, or surrendered;
+
+
+     (e) Construe and interpret the Plan and any Award;
+
+
+     (f) Prescribe, amend, and rescind rules and procedures relating to the Plan;
+
+
+     (g) Determine the terms and provisions of agreements;
+
+
+     (h) Appoint designees or agents (who need not be members of the Committee or employees of
+the Company) to assist the Committee with the administration of the Plan; and
+
+
+     (i) Make all other determinations deemed necessary or advisable for the administration of
+the Plan.
+
+3.2 The Committee shall, in its absolute discretion, and without amendment to the Plan, have the
+power to accelerate, waive or modify, at any time, any term or condition of an Award that is not
+mandatory under this Plan; provided, however, that the Committee
+
+6
+
+
+
+
+ 
+
+
+
+
+shall not have any discretion to accelerate, waive or modify any term or condition of an
+Award that is intended to qualify as performance-based compensation for purposes of Section
+162(m) of the Internal Revenue Code if such discretion would cause the Award to not so qualify. In
+the event of a Change of Control, the provisions of Section 12 hereof shall be mandatory and shall
+govern the vesting and exercisability schedule of any Award granted hereunder.
+
+
+3.3 No member of the Committee shall be liable for any action, omission, or determination made in
+good faith. The Company shall indemnify (to the extent permitted under Delaware law) and hold
+harmless each member of the Committee and each other director or employee of the Company to whom
+any duty or power relating to the administration or interpretation of the Plan has been delegated
+against any cost or expense (including counsel fees) or liability (including any sum paid in
+settlement of a claim with the approval of the Committee) arising out of any action, omission or
+determination relating to the Plan, unless, in either case, such action, omission or determination
+was taken or made by such member, director or employee in bad faith and without reasonable belief
+that it was in the best interests of the Company. The determination, interpretations and other
+actions of the Committee pursuant to the provisions of the Plan shall be binding and conclusive for
+all purposes and on all persons.
+
+
+3.4 The Committee may from time to time adopt such rules and regulations for carrying out the
+purposes of the Plan as it may deem proper and in the best interests of the Company. The Committee
+may appoint an Administrative Agent, who need not be a member of the Committee or an employee of
+the Company, to assist the Committee in administration of the Plan and to whom it may delegate such
+powers as the Committee deems appropriate, except that the Committee shall determine any dispute.
+The Committee may correct any defect, supply any omission or reconcile any inconsistency in the
+Plan, or in any agreement entered into hereunder, in the manner and to the extent it shall deem
+expedient, and it shall be the sole and final judge of such inconsistency.
+
+
+3.5 Compliance with Section 162(m). Except as expressly otherwise stated in any resolution
+of the Committee, the Plan is intended to comply with the requirements of Section 162(m) or any
+successor section(s) of the Internal Revenue Code (Section 162(m)) as to any covered employee
+as defined in Section 162(m), and shall be administered, interpreted, and construed consistently
+therewith. The Committee is authorized to take such additional action, if any, that may be
+required to ensure that the Plan and any Award under the Plan satisfy the requirements of Section
+162(m), taking into account any regulations or other guidance issued by the Internal Revenue
+Service.
+
+
+
+7
+
+
+
+
+ 
+
+
+
+
+
+
+Section 4
+
+
+
+Stock Subject to the Plan
+
+
+4.1 Number of Shares. Subject to adjustments pursuant to Section 4.4 hereof, up to 15,000,000
+shares of Stock, plus any shares of Stock available for issuance under the Prior Plans but not
+underlying outstanding stock options or other awards under the Prior Plans or which shares are
+allocable to any outstanding stock options or other awards under the Prior Plans to the extent such
+stock options or other awards expire, are forfeited or otherwise terminate unexercised, are
+authorized for issuance under the Plan in accordance with the Plans terms and subject to such
+restrictions or other provisions as the Committee may from time to time deem necessary. Of such
+total number of shares of Stock so authorized, not more than 10,000,000 may be designated for
+Restricted Stock, Restricted Stock Units, and Performance Awards. During the duration of the Plan,
+no Eligible Person may be granted Options which in the aggregate cover in excess of 10 percent of
+the total shares of Stock authorized under the Plan. No Award may be granted under the Plan on or
+after the 10-year anniversary of the Effective Date. The foregoing to the contrary
+notwithstanding, the total number of shares of Stock that may be issued pursuant to ISOs granted
+under the Plan shall be equal to 5,000,000, subject to adjustments pursuant to Section 4.4 hereof.
+
+
+4.2 Availability of Shares Not Issued under Awards. If shares of Stock which may be issued
+pursuant to the terms of the Plan awarded hereunder are forfeited, cancelled, exchanged or
+surrendered or if an Award otherwise terminates or expires without a distribution of shares to the
+holder of such Award, the shares of Stock with respect to such Award shall, to the extent of any
+such forfeiture, cancellation, exchange, surrender, termination or expiration, again be available
+for Awards under the Plan.
+
+
+4.3 Stock Offered. The Company shall at all times during the term of the Plan retain as
+authorized and unissued Stock and/or Stock in the Companys treasury, at least the number of shares
+from time to time required under the provisions of the Plan, or otherwise assure itself of its
+ability to perform its obligations hereunder.
+
+
+4.4 Adjustments for Stock Split, Stock Dividend, Etc. If the Company shall at any time
+increase or decrease the number of its outstanding shares of Stock or change in any way the rights
+and privileges of such shares by means of the payment of a Stock dividend or any other
+distribution upon such shares payable in Stock or rights to acquire Stock, or through a Stock
+split, reverse Stock split, subdivision, consolidation, combination, reclassification or
+recapitalization involving the Stock (any of the foregoing being herein called a capital
+restructuring), then in relation to the Stock that is affected by one or more of the above events,
+the numbers, rights, and privileges of the following shall be, in each case, equitably and
+proportionally adjusted to take into account the occurrence of any of the above events, (i) the
+number and kind of shares of Stock or other property (including cash) that may thereafter be issued
+pursuant to subsections 4.1 and 4.10, (ii) the number and kind of shares of Stock or other property
+(including cash) issued or issuable in respect of outstanding Awards; and (iii) the exercise price,
+grant price, or
+
+
+
+8
+
+
+
+
+ 
+
+
+
+
+
+purchase price relating to any Award; provided that, with respect to Incentive Stock Options, such
+adjustment shall be made in accordance with Section 424(h) of the Internal Revenue Code; (iv) the
+Performance Goals, and (v) the individual limitations applicable to Awards.
+
+
+4.5 Other Changes in Stock. In the event there shall be any change, other than as
+specified in subsections 4.4 hereof, in the number or kind of outstanding shares of Stock or of any
+stock or other securities into which the Stock shall be changed or for which it shall have been
+exchanged, and if the Committee shall in its discretion determine that such change equitably
+requires an adjustment in the number or kind of shares subject to outstanding Awards or which have
+been reserved for issuance pursuant to the Plan but are not then subject to an Award, then such
+adjustments shall be made by the Committee and shall be effective for all purposes of the Plan and
+on each outstanding Award that involves the particular type of stock for which a change was
+effected.
+
+
+4.6 Rights to Subscribe. If the Company shall at any time grant to the holders of its
+Stock rights to subscribe pro rata for additional shares thereof or for any other securities of the
+Company or of any other corporation, there shall be reserved with respect to the shares then under
+an outstanding Award to any Participant of the particular class of Stock involved the Stock or
+other securities which the Participant would have been entitled to subscribe for if immediately
+prior to such grant the Participant had exercised his entire Option. If, upon exercise of any such
+Option, the Participant subscribes for the additional shares or other securities, the aggregate
+Option Price shall be increased by the amount of the price that is payable by the Participant for
+such additional shares or other securities as if the Participant had exercised his entire Option
+immediately prior to the grant of such additional shares or other securities.
+
+
+4.7 General Adjustment Rules. No adjustment or substitution provided for in this Section 4
+shall require the Company to sell a fractional share of Stock under any Option, or otherwise issue
+a fractional share of Stock, and the total substitution or adjustment with respect to each Option
+shall be limited by deleting any fractional share. In the case of any such substitution or
+adjustment, the aggregate Option Price for the shares of Stock then subject to the Option shall
+remain unchanged but the Option Price per share under each such Option shall be equitably adjusted
+by the Committee to reflect the greater or lesser number of shares of Stock or other securities
+into which the Stock subject to the Option may have been changed.
+
+
+4.8 Determination by the Committee, Etc. Adjustments under this Section 4 shall be made by
+the Committee, whose determinations with regard thereto shall be final and binding upon all
+parties.
+
+
+4.9 Code Section 409A. For any Award that is not subject to Internal Revenue Code Section
+409A before the adjustments identified in the preceding sections of this Section 4, no adjustment
+shall be made that would cause the Award to become subject to Internal Revenue Code Section 409A.
+For an Award that is subject to Internal Revenue Code Section 409A before the adjustments
+identified in the preceding sections of this Section
+
+
+
+9
+
+
+
+
+ 
+
+
+
+
+
+4, no adjustment shall cause the Award to violate Internal Revenue Code Section 409A, without the
+prior written consent of both the Participant and the Committee.
+
+
+4.10 Award Limits. The following limits shall apply to grants of all Awards under the
+Plan:
+
+
+
+     (a) Options: The maximum aggregate number of shares of Stock that may be
+subject to Options granted in any calendar year to any one Participant shall be 250,000
+shares.
+
+
+     (b) SARs: The maximum aggregate number of shares that may be subject to Stock
+Appreciation Rights granted in any calendar year to any one Participant shall be 250,000
+shares. Any shares covered by Options which include tandem SARs granted to one Participant
+in any calendar year shall reduce this limit on the number of shares subject to SARs that
+can be granted to such Participant in such calendar year.
+
+
+     (c) Restricted Stock or Restricted Stock Units: The maximum aggregate number
+of shares of Stock that may be subject to Awards of Restricted Stock or Restricted Stock
+Units granted in any calendar year to any one Participant shall be 250,000 shares.
+
+
+     (d) Performance Awards: The maximum aggregate grant with respect to
+Performance Awards granted in any calendar year to any one Participant shall be 250,000
+shares (or SARs based on the value of such number of shares).
+
+To the extent required by Section 162(m) of the Code, shares subject to Options or SARs which are
+canceled shall continue to be counted against the limits set forth in paragraphs (a) and (b)
+immediately preceding.
+
+
+
+Section 5
+
+
+
+Granting of Awards to Participants
+
+
+5.1 Participation. Participants in the Plan shall be those Eligible Persons who, in the
+judgment of the Committee, are performing, or during the term of their incentive arrangement will
+perform, vital services in the management, operation, and development of the Company or an
+Affiliate, and significantly contribute, or are expected to significantly contribute, to the
+achievement of the Companys long-term corporate economic objectives. Participants may be granted
+from time to time one or more Awards; provided, however, that the grant of each such Award shall be
+separately approved by the Committee, and receipt of one such Award shall not result in automatic
+receipt of any other Award. Upon determination by the Committee that an Award is to be granted to
+a Participant, as soon as practicable, written notice shall be given to such person, specifying the
+terms, conditions, rights and duties related thereto. Each
+Participant shall, if required by the Committee, enter into an agreement with the
+
+10
+
+
+
+
+ 
+
+
+
+
+Company, in such form as the Committee shall determine and which is consistent with the provisions of the Plan,
+specifying such terms, conditions, rights, and duties. Awards shall be deemed to be granted as of
+the date specified in the grant resolution of the Committee, which date shall be the date of any
+related agreement with the Participant. In the event of any inconsistency between the provisions
+of the Plan and any such agreement entered into hereunder, the provisions of the Plan shall govern.
+
+
+Awards granted to members of the Board shall be recommended to the full Board by the Management
+Development and Compensation Committee and approved by the full Board.
+
+
+5.2 Notification to Participants and Delivery of Documents. As soon as practicable after
+such determinations have been made, each Participant shall be notified of (a) his/her designation
+as a Participant, (b) the date of grant, (c) the number and type of Awards granted to the
+Participant, (d) in the case of Performance Awards, the Performance Period and Performance Goals,
+(e) in the case of Restricted Stock or Restricted Stock Units, the Restriction Period (as defined
+in subsection 8.1), and (f) any other terms or conditions imposed by the Committee with respect to
+the Award.
+
+
+5.3 Delivery of Award Agreement. This requirement for delivery of a written Award
+agreement is satisfied by electronic delivery of such agreement provided that evidence of the
+Participants receipt of such electronic delivery is available to the Company and such delivery is
+not prohibited by applicable laws and regulations.
+
+
+
+Section 6
+
+
+
+Stock Options
+
+
+6.1 Grant of Stock Options. Coincident with or following designation for participation in
+the Plan, an Eligible Person may be granted one or more Options. Grants of Options under the Plan
+shall be made by the Committee. In no event shall the exercise of one Option affect the right to
+exercise any other Option or affect the number of shares of Stock for which any other Option may be
+exercised, except as provided in subsection 6.2(j) hereof.
+
+
+6.2 Stock Option Agreements. Each Option granted under the Plan shall be identified as
+either an Incentive Stock Option or a Non-Qualified Stock Option (or, if no such identification is
+made, then it shall be a Non-Qualified Stock Option) and evidenced by a written agreement which
+shall be entered into by the Company and the Participant to whom the Option is granted, and which
+shall contain the following terms and conditions set out in this subsection 6.2, as well as such
+other terms and conditions, not inconsistent therewith, as the Committee may consider appropriate.
+
+
+
+11
+
+
+
+
+ 
+
+
+
+
+
+
+     (a) Number of Shares. Each Stock Option agreement shall state that it covers a
+specified number of shares of Stock, as determined by the Committee.
+
+
+     (b) Price. The price at which each share of Stock covered by an Option may be
+purchased, the Option Price, shall be determined in each case by the Committee and set forth in the
+Stock Option agreement. The price may vary according to a formula specified in the Stock Option
+agreement, but in no event shall the Option Price ever be less than the Fair Market Value of the
+Stock on the date the Option is granted.
+
+
+     (c) No Backdating. There shall be no backdating of Options, and each Option shall be
+dated the actual date that the Committee adopts the resolution awarding the grant of such Option.
+
+
+     (d) Limitations on Incentive Stock Options. No Incentive Stock Option may be granted
+to an individual if, at the time of the proposed grant, such individual owns (or is attributed to
+own by virtue of the Internal Revenue Code) Stock possessing more than 10 percent of the total
+combined voting power of all classes of stock of the Company or any Affiliate unless (i) the
+exercise price of such Incentive Stock Option is at least 110 percent of the Fair Market Value of a
+share of Stock at the time such Incentive Stock Option is granted and (ii) such Incentive Stock
+Option is not exercisable after the expiration of five years from the date such Incentive Stock
+Option is granted.
+
+
+     To the extent that the aggregate Fair Market Value of Stock of the Company with respect to
+which Incentive Stock Options are exercisable for the first time by a Participant during any
+calendar year under the Plan and any other option plan of the Company (or any Affiliate) shall
+exceed $100,000, such Options shall be treated as Non-Qualified Stock Options. Such Fair Market
+Value shall be determined as of the date on which each such Incentive Stock Option is granted.
+
+
+     (e) Duration of Options. Each Stock Option agreement shall state the period of time,
+determined by the Committee, within which the Option may be exercised by the Participant (the
+Option Period). The Option Period must end, in all cases, not more than ten years from the date
+an Option is granted.
+
+
+     (f) Termination of Options. During the lifetime of a Participant to whom a Stock
+Option is granted, the Stock Option may be exercised only by such Participant or, in the case of
+disability (as determined pursuant to the Companys Long-Term Disability Plan or any successor
+plan) by the Participants designated legal representative, except to the extent such exercise
+would cause any Award intended to qualify as an ISO not to so qualify. Once a
+Participant to whom a Stock Option was granted dies, the Stock Option may be exercised only by the
+personal representative of the Participants estate. Unless the Stock Option agreement shall
+specify a longer or shorter period, at the discretion of the Committee, then the Participant (or
+representative) may exercise the Stock Option for a period of up to three months after such
+Participant terminates employment or ceases to be a member of the Board.
+
+
+12
+
+
+
+
+ 
+
+
+
+     (g) Exercise, Payments, Etc.
+
+
+          (i) Each Stock Option agreement shall provide that the method for exercising the Option
+granted therein shall be by delivery to the Office of the Secretary of the Company or to the
+Administrative Agent of written notice specifying the number of shares of Stock with respect to
+which such Option is exercised and payment to the Company of the aggregate Option Price. Such
+notice shall be in a form satisfactory to the Committee and shall specify the particular Options
+(or portions thereof) which are being exercised and the number of shares of Stock with respect to
+which the Options are being exercised. The Participants obligation to deliver written notice of
+exercise is satisfied by electronic delivery of such notice through means satisfactory to the
+Committee and prescribed by the Company. The exercise of the Option shall be deemed effective on
+the date such notice is received by the Office of the Secretary or by the Administrative Agent and
+payment is made to the Company of the aggregate Option Price (the Exercise Date); however, if
+payment of the aggregate Option Price is made pursuant to a sale of shares of Stock as contemplated
+by subsection 6.2(g)(iv)(E) below, the Exercise Date shall be deemed to be the date of such sale.
+If requested by the Company, such notice shall contain the Participants representation that he or
+she is purchasing the Stock for investment purposes only and his or her agreement not to sell any
+Stock so purchased in any manner that is in violation of the Exchange Act or any applicable state
+law, and such restriction, or notice thereof, shall be placed on the certificates representing the
+Stock so purchased. The purchase of such Stock shall take place upon delivery of such notice to
+the Office of the Secretary of the Company or to the Administrative Agent, at which time the
+aggregate Option Price shall be paid in full to the Company by any of the methods or any
+combination of the methods set forth in subsection 6.2(g)(iv) below.
+
+
+          (ii) The shares of Stock to which the Participant is entitled as a result of the exercise of
+the Option shall be issued by the Company and either (A) delivered by electronic means to an
+account designated by the Participant or (B) delivered to the Participant in the form of a properly
+executed certificate or certificates representing such shares of Stock. If shares of Stock are
+used to pay all or part of the aggregate Option Price, the Company shall issue and deliver to the
+Participant the additional shares of Stock, in excess of the aggregate Option Price or portion
+thereof paid using shares of Stock, to which the Participant is entitled as a result of the Option
+exercise.
+
+
+          (iii) The Companys obligation to deliver the shares of Stock to which the Participant is
+entitled as a result of the exercise of the Option shall be subject to the payment in full to the
+Company of the aggregate Option Price and the required tax withholding.
+
+
+          (iv) The aggregate Option Price shall be paid by any of the following methods or any
+combination of the following methods:
+
+
+               (A) in cash, including the wire transfer of funds in U.S. dollars to one of the Companys
+bank accounts located in the United States, with such bank account to be designated from time to
+time by the Company;
+
+
+13
+
+
+
+
+ 
+
+
+
+               (B) by personal, certified or cashiers check payable in U.S. dollars to the order of the
+Company;
+
+
+               (C) by delivery to the Company or the Administrative Agent of certificates representing a
+number of shares of Stock then owned by the Participant, the aggregate Fair Market Value of which
+(as of the Exercise Date) is equal to the aggregate Option Price of the Option being exercised,
+properly endorsed for transfer to the Company, provided that the shares of Stock used for this
+purpose must have been owned by the Participant for a period of at least six months;
+
+
+               D) by certification or attestation to the Company or the Administrative Agent of the
+Participants ownership (as of the Exercise Date) of a number of shares of Stock, the aggregate
+Fair Market Value of which (as of the Exercise Date) is not greater than the aggregate Option Price
+of the Option being exercised, provided that the shares of Stock used for this purpose have been
+owned by the Participant for a period of at least six months; or
+
+
+               (E) by delivery to the Company or the Administrative Agent of a properly executed notice of
+exercise together with irrevocable instructions to a broker to promptly deliver to the Company, by
+wire transfer or check as noted in subsection 6.2(g)(iv)(A) and (B) above, the amount of the
+proceeds of the sale of all or a portion of the Stock or of a loan from the broker to the
+Participant necessary to pay the aggregate Option Price.
+
+
+     (h) Tax Withholding. Each Stock Option agreement shall provide that, upon exercise of
+the Option, the Participant shall make appropriate arrangements with the Company to provide for not
+less than the minimum amount of tax withholding required by law, including without limitation
+Sections 3102 and 3402 or any successor section(s) of the Internal Revenue Code and applicable
+state and local income and other tax laws, by payment of such taxes in cash (including wire
+transfer), by check, or as provided in Section 11 hereof.
+
+
+     (i) Repricing Prohibited. Subject to Sections 4, 6, 12, 13, and 16, outstanding Stock
+Options granted under this Plan shall not be repriced without approval by the Companys
+stockholders. In particular, neither the Board nor the Committee may take any action: (1) to
+amend the terms of an outstanding Option or SAR to reduce the Option Price or grant price thereof,
+cancel an Option or SAR and replace it with a new Option or SAR with a lower Option Price or grant
+price, or that has an economic effect that is the same as any such reduction or cancellation or (2)
+to cancel an outstanding Option or SAR having an Option Price or grant price above the then-current
+Fair Market Value of the Stock in exchange for the grant of another type of Award, without, in each
+such case, first obtaining approval of the stockholders of the Company of such action.
+
+
+     (j) Stockholder Privileges. No Participant shall have any rights as a stockholder
+with respect to any shares of Stock covered by an Option until the Participant becomes the holder
+of record of such Stock. Except as provided in Section 4 hereof, no adjustments shall be made for
+dividends or other distributions or other rights as to which
+
+
+14
+
+
+
+
+ 
+
+
+there is a record date preceding the date on which such Participant becomes the holder of
+record of such Stock.
+
+
+
+     (k) Section 409A Avoidance. Once granted, no Stock Option shall be modified,
+extended, or renewed in any way that would cause the Stock Option to be subject to Internal Revenue
+Code Section 409A. The Option Period shall not be extended to any date that would cause the Stock
+Option to become subject to Internal Revenue Code Section 409A. The Option Price shall not be
+adjusted to reflect any dividends declared and paid on the Stock between the date of grant and the
+date the Stock Option is exercised; however, the right to one or more dividends declared and paid
+on the Stock between the date of grant and the date the Option is exercised may be set forth in a
+separate arrangement.
+
+
+Section 7
+
+
+7.1 Stock Appreciation Rights. The Committee is authorized to grant SARs to Participants
+either alone (freestanding) or in tandem with other Awards, including Performance Awards,
+Options, and Restricted Stock. Stock Appreciation Rights granted in tandem with any Award must be
+granted at the same time as the Award is granted. Stock Appreciation Rights granted in tandem with
+Options shall terminate and no longer be exercisable upon the termination or exercise of the
+related Stock Options Options granted in tandem with Stock Appreciation Rights shall terminate
+and no longer be exercisable upon the termination or exercise of the related Stock Appreciation
+Rights. The Committee shall establish the terms and conditions applicable to any Stock
+Appreciation Rights, which terms and conditions need not be uniform but may not be inconsistent
+with the terms of the Plan. Freestanding Stock Appreciation Rights shall generally be subject to
+terms and conditions substantially similar to those described in Section 4 and subsection 6.2 for
+Options, including, but not limited to, the requirements of subsections 6.2(b), (d), and (i) and
+subsection 4.7 regarding general adjustment rules, minimum price, duration, and prohibition on
+repricing.
+
+
+7.2 Section 409A Avoidance. The SAR Price may be fixed on the date it is granted or the
+SAR Price may vary according to an objective formula specified by the Committee at the time of
+grant. However, the SAR Price can never be less than the Fair Market Value of the Stock on the
+date of grant. The SAR grant must specify the number of shares to which it applies, which must be
+fixed at the date of grant (subject to adjustment pursuant to Sections 4, 6, and 11). Once
+granted, no SAR shall be modified, extended, or renewed in any way that would cause the SAR to be
+subject to Internal Revenue Code Section 409A. The period during which the SAR may be exercised
+shall not be extended to any date that would cause the SAR to become subject to Internal Revenue
+Code Section 409A. The value of the SAR shall not be adjusted to reflect any dividends declared
+and paid on the Stock between the date of grant and the date the SAR is exercised; however, the
+right to one or more dividends declared and paid on the Stock between the date of grant and the
+date the SAR is exercised may be set forth in a separate arrangement.
+
+
+
+15
+
+
+
+
+ 
+
+
+
+
+
+
+Section 8
+
+
+
+Restricted Stock and Restricted Stock Units
+
+
+8.1 Restriction Period. At the time an Award of Restricted Stock or Restricted Stock Units
+is made, the Committee shall establish the terms and conditions applicable to such Award, including
+the period of time (the Restriction Period) and attainment of performance goals during which
+certain restrictions established by the Committee shall apply to the Award. Each such Award, and
+designated portions of the same Award, may have a different Restriction Period, at the discretion
+of the Committee. Except as permitted or pursuant to Sections 12 and 13 hereof, the Restriction
+Period applicable to a particular Award shall not be changed. Restricted Stock or Restricted Stock
+Units may or may not be subject to Internal Revenue Code Section 409A. If they are subject to
+Internal Revenue Code Section 409A, the grant of the Restricted Stock or Restricted Stock Units
+must contain the provisions needed to comply with the requirements of Internal Revenue Code Section
+409A, including but not limited to (i) the timing of any election to defer receipt of the
+Restricted Stock or Restricted Stock Units beyond the date of vesting, (ii) the timing of any
+payout election, and (iii) the timing of the settlement of Restricted Stock or a Restricted Stock
+Unit. Restricted Stock or Restricted Stock Units that are subject to Internal Revenue Code Section
+409A may be adjusted to reflect any dividends declared and paid on the Stock between the date of
+grant and the date the Restricted Stock or Restricted Stock Unit vests, but only to the extent
+permitted in IRS guidance of general applicability.
+
+
+8.2 Certificates for Stock. Restricted Stock shall be evidenced in such manner as the
+Committee shall determine. If certificates representing Restricted Stock are registered in the
+name of the Participant, the Committee may require that such certificates bear an appropriate
+legend referring to the terms, conditions, and restrictions applicable to such Restricted Stock,
+that the Company retain physical possession of the certificates, and that the Participant deliver a
+stock power to the Company, endorsed in blank, relating to the Restricted Stock represented by a
+stock certificate registered in the name of the Participant.
+
+
+8.3 Restricted Stock Terms and Conditions. Participants shall have the right to enjoy
+all shareholder rights during the Restriction Period except that:
+
+
+
+     (a) The Participant shall not be entitled to delivery of the Stock certificate until the
+Restriction Period shall have expired.
+
+
+     (b) The Participant may not sell, transfer, pledge, exchange, hypothecate, or otherwise
+dispose of the Stock during the Restriction Period.
+
+
+     (c) A breach of the terms and conditions established by the Committee with respect to the
+Restricted Stock shall cause a forfeiture of the Restricted Stock and any dividends
+withheld thereon.
+
+
+     (d) Dividends and Splits. As a condition to the grant of an Award of Restricted Stock,
+the Committee may specify whether any cash dividends paid on a share of Restricted Stock
+be automatically reinvested in additional shares of Restricted Stock or applied to the
+purchase of additional Awards under this
+
+
+16
+
+
+
+
+ 
+
+
+
+
+
+Plan. Unless otherwise determined by the Committee, Stock distributed in connection
+with a Stock split or Stock dividend, and other property distributed as a dividend,
+shall be subject to restrictions and a risk of forfeiture to the same extent as the
+Restricted Stock with respect to which such Stock or other property has been
+distributed.
+
+8.4 Restricted Stock Units. The Committee is authorized to grant Restricted Stock Units to
+Participants, which are rights to receive Stock at the end of a specified deferral period, subject
+to the following terms and conditions:
+
+
+
+
+Award and Restrictions. Settlement of an Award of Restricted Stock Units shall occur upon
+expiration of the deferral period specified for such Restricted Stock Unit by the Committee
+(or, if permitted by the Committee, as elected by the Participant). In addition, Restricted
+Stock Units shall be subject to such restrictions (which may include a risk of forfeiture) as
+the Committee may impose, if any, which restrictions may lapse at the expiration of the
+deferral period or at earlier specified times (including based on achievement of performance
+goals and/or future service requirements), separately or in combination, in installments or
+otherwise, as the Committee may determine. Restricted Stock Units shall be satisfied by the
+delivery of cash or Stock in the amount equal to the Fair Market Value of the specified number
+of shares of Stock covered by the Restricted Stock Units, or a combination thereof, as
+determined by the Committee at the date of grant or thereafter.
+
+8.5 Deferral of Receipt of Restricted Stock Units. With the consent of the Committee, a
+Participant who has been granted a Restricted Stock Unit may by compliance with the then applicable
+procedures under the Plan irrevocably elect in writing to defer receipt of all or any part of any
+distribution associated with that Restricted Stock Unit Award in accordance with either the terms
+and conditions of the Deferred Delivery Plan or the terms and conditions specified under the grant
+agreement and related documents. The terms and conditions of any such deferral, including, but not
+limited to, the period of time for, and form of, election; the manner and method of payout; and the
+use and form of Dividend Equivalents in respect of stock-based units resulting from such deferral,
+shall be as determined by the Committee. The Committee may, at any time and from time to time, but
+prospectively only except as hereinafter provided, amend, modify, change, suspend, or cancel any
+and all of the rights, procedures, mechanics, and timing parameters relating to such deferrals. In
+addition, the Committee may, in its sole discretion, accelerate the pay out of such deferrals (and
+any earnings thereon), or any portion thereof, either in a lump sum or in a series of payments, but
+only to the extent that the payment or the change in timing of the payment will not cause a
+violation of Internal Revenue Code Section 409A.
+
+
+8.6 Bonus Stock and Awards in Lieu of Obligations. The Committee is authorized to grant
+Stock as a bonus, or to grant Stock or other Awards in lieu of obligations to pay cash or deliver
+other property under this Plan or under plans or compensatory arrangements, provided that, in the
+case of Participants subject to Section 16 of the Exchange Act, the amount of such grants remains
+within the discretion of the Committee
+
+
+
+17
+
+
+
+
+ 
+
+
+
+
+
+to the extent necessary to ensure that acquisitions of Stock or other Awards are exempt from
+liability under Section 16(b) of the Exchange Act. Stock or Awards granted hereunder shall be
+subject to such other terms as shall be determined by the Committee. In the case of any grant of
+Stock to an officer of the Company or an Affiliate in lieu of salary or other cash compensation,
+the number of shares granted in place of such compensation shall be reasonable, as determined by
+the Committee.
+
+
+8.7 Dividend Equivalents. The Committee is authorized to grant Dividend Equivalents to a
+Participant, entitling the Participant to receive cash, Stock, other Awards, or other property
+equal in value to dividends paid with respect to a specified number of shares of Stock, or other
+periodic payments. Dividend Equivalents may be awarded on a free-standing basis or in connection
+with another Award. The Committee may provide that Dividend Equivalents shall be paid or
+distributed when accrued or shall be deemed to have been reinvested in additional Stock, Awards, or
+other investment vehicles, and subject to risk of forfeiture, as the Committee may specify.
+
+
+
+Section 9
+
+
+
+Performance Awards
+
+
+9.1 Establishment of Performance Goals for Company. Performance Goals applicable to a
+Performance Award shall be established by the Committee in its absolute discretion on or before the
+date of grant and within the time period prescribed by, and shall otherwise comply with the
+requirements of, Code Section 162(m)(4)(C), or any successor provision thereto, and the regulations
+thereunder, for performance-based compensation. Such Performance Goals may include or be based
+upon any of the following criteria, either in absolute amount, per share, or per barrel of oil
+equivalent (boe): pretax income or after tax income, operating profit, return on equity, capital
+or investment, earnings, book value, increase in cash flow return, sales or revenues, operating
+expenses (including, but not limited to, lease operating expenses, severance taxes and other
+production taxes, gathering and transportation, general and administrative costs, and other
+components of operating expenses), stock price appreciation, implementation or completion of
+critical projects or processes, production growth, reserve growth, and/or corporate acquisition
+goals based on value of assets acquired or similar objective measures.
+
+
+Where applicable, the Performance Goals may be expressed in terms of attaining a specified level of
+a particular criteria or attaining a percentage increase or decrease in a particular criteria, and
+may be applied relative to internal goals or levels attained in prior years or related to other
+companies or indices or as ratios expressing relationship between Performance Goals, or any
+combination thereof, as determined by the Committee.
+
+
+The Performance Goals may include a threshold level of performance below which no vesting will
+occur, levels of performance at which specified vesting will occur, and a maximum level of
+performance at which full vesting will occur.
+
+
+
+18
+
+
+
+
+ 
+
+
+
+
+
+The Committee may in its discretion classify Participants into as many groups as it determines, and
+as to any Participant relate his/her Performance Goals partially, or entirely, to the measured
+performance, either absolutely or relatively, of an identified subsidiary, division, operating
+company, test strategy, or new venture of the Company and/or its Affiliates.
+
+
+Notwithstanding any other provision of the Plan, payment or vesting of any Performance Award shall
+not be made until the applicable Performance Goals have been satisfied and any other material terms
+of such Award were in fact satisfied. The Committee shall certify in writing the attainment of
+each Performance Goal. Notwithstanding any provision of the Plan to the contrary, with respect to
+any Performance Award, (a) the Committee may not adjust, downwards or upwards, any amount payable,
+or other benefits granted, issued, retained, and/or vested pursuant to such an Award on account of
+satisfaction of the applicable Performance Goals and (b) the Committee may not waive the
+achievement of the applicable Performance Goals, except in the case of the Participants death or
+disability, or a Change of Control.
+
+
+9.2 Levels of Performance Required to Earn Performance Awards. At or about the same time
+that Performance Goals are established for a specific period, the Committee shall in its absolute
+discretion establish the percentage of the Performance Awards granted for such Performance Period
+which shall be earned by the Participant for various levels of performance measured in relation to
+achievement of Performance Goals for such Performance Period.
+
+
+9.3 Other Restrictions. The Committee shall determine the terms and conditions applicable
+to any Performance Award, which may include restrictions on the delivery of Stock payable in
+connection with the Performance Award and restrictions that could result in the future forfeiture
+of all or part of any Stock earned. The Committee may provide that shares of Stock issued in
+connection with a Performance Award be held in escrow and/or legended. Performance Awards may or
+may not be subject to Internal Revenue Code Section 409A. If a Performance Award is subject to
+Internal Revenue Code Section 409A, the Performance Award grant agreement shall contain the terms
+and conditions needed to comply with the requirements of Internal Revenue Code Section 409A,
+including but not limited to (i) the timing of any election to defer receipt of the Performance
+Award, (ii) the timing of any payout election, and (iii) the timing of the actual payment of the
+Performance Award. Performance Awards that are subject to Internal Revenue Code Section 409A may
+be adjusted to reflect any dividends declared and paid on the Stock between the date of grant and
+the date the Performance Award is paid, but only to the extent permitted in IRS guidance of general
+applicability.
+
+
+9.4 Notification to Participants. Promptly after the Committee has established the
+Performance Goals with respect to a Performance Award, the Participant shall be provided with
+written notice of the Performance Goals so established.
+
+
+
+19
+
+
+
+
+ 
+
+
+
+
+
+9.5 Measurement of Performance against Performance Goals. The Committee shall, as soon as
+practicable after the close of a Performance Period, determine (a) the extent to which the
+Performance Goals for such Performance Period have been achieved and (b) the percentage of the
+Performance Awards earned as a result.
+
+
+These determinations shall be absolute and final as to the facts and conclusions therein made and
+be binding on all parties. Promptly after the Committee has made the foregoing determination, each
+Participant who has earned Performance Awards shall be notified. For all purposes of this Plan,
+notice shall be deemed to have been given the date action is taken by the Committee making the
+determination. Participants may not sell, transfer, pledge, exchange, hypothecate, or otherwise
+dispose of all or any portion of their Performance Awards during the Performance Period.
+
+
+9.6 Treatment of Performance Awards Earned. Upon the Committees determination that a
+percentage of any Performance Award has been earned for a Performance Period, Participants to whom
+such earned Performance Awards have been granted and who have been in the employ of the Company or
+Affiliates continuously from the date of grant until the end of the Performance Period, subject to
+the exceptions set forth in the Performance Award agreement and in Sections 10 and 12 hereof, shall
+be entitled, subject to the other conditions of this Plan, to payment in accordance with the terms
+and conditions of the Performance Awards. Performance Awards shall under no circumstances become
+earned or have any value whatsoever for any Participant who is not in the employ of the Company or
+its Affiliates continuously during the entire Performance Period for which such Performance Award
+was granted, except as provided in Sections 10 and 12.
+
+
+9.7 Subsequent Performance Award Grants. Following the grant of Performance Awards with
+respect to a Performance Period, additional Participants may be designated by the Committee for
+grant of Performance Awards for such Performance Period subject to the same terms and conditions
+set forth for the initial grants, except that the Committee, in its sole discretion, may reduce the
+value of the amounts to which subsequent Participants may become entitled, prorated according to
+reduced time spent during the Performance Period, and the applicable Performance Award agreement
+shall be modified to reflect such reduction.
+
+
+9.8 Stockholder Privileges. No Participant shall have any rights as a stockholder with
+respect to any shares of Stock covered by a Performance Award until the Participant becomes the
+holder of record of such Stock.
+
+
+
+Section 10
+
+
+
+Termination of Employment, Death, Disability, etc.
+
+
+10.1 Termination of Employment. Except as provided herein, the treatment of an Award upon
+a termination of employment or any other service relationship by and
+
+20
+
+
+
+
+ 
+
+
+
+
+between a Participant and the Company or an Affiliate shall be specified in the agreement
+controlling such Award.
+
+
+10.2 Termination for Cause. If the employment of the Participant by the Company is
+terminated for cause, as determined by the Committee, all Awards to such Participant shall
+thereafter be void for all purposes. As used in subsections 9.1, 10.2, and 10.3 hereof, cause
+shall mean a gross violation, as determined by the Committee, of the Companys established policies
+and procedures, provided that the effect of this subsection 10.2 shall be limited to determining
+the consequences of a termination and that nothing in this subsection 10.2 shall restrict or
+otherwise interfere with the Companys discretion with respect to the termination of any employee.
+
+
+10.3 Performance Awards. Except as set forth below, each Performance Award shall state
+that each such Award shall be subject to the condition that the Participant has remained an
+Eligible Person from the date of grant until the applicable vesting date as follows:
+
+
+
+     (a) If the Participant voluntarily leaves the employment of the Company or an Affiliates, or
+if the employment of the Participant is terminated by the Company for cause or otherwise, any
+Performance Award to such Participant not previously vested shall thereafter be void and forfeited
+for all purposes.
+
+
+     (b) A Participant shall become vested in all Performance Awards that have met the Performance
+Goals within the Performance Period on the date the Participant retires from employment with the
+Company on or after attaining retirement age (which for all purposes of this Plan is determined to
+be age 65, unless otherwise designated by the Committee at the time the Award is granted), on the
+date the Participant dies while employed by the Company, or on the date the Participant terminates
+service with the Company and the Affiliates due to permanent disability (as determined pursuant to
+the Companys Long-Term Disability Plan or any successor plan, unless the Performance award is
+subject to Internal Revenue Code Section 409A, in which case permanent disability must also fall
+within the meaning specified in Internal Revenue Code Section 409A(a)(2)(C) or a more restrictive
+meaning established by the Committee) while employed by the Company. Such Participant shall not
+become entitled to any payment which may arise due to the occurrence of a Performance Goal after
+the Participant dies, terminates service due to permanent disability, or retires. Payment shall
+occur as soon as administratively convenient following the date the Participant dies, terminates
+service due to permanent disability, or retires, but in no event shall the payment occur later than
+March 15 in the calendar year immediately following the calendar year in which the Participant
+died, so terminates service, or retired. If the Participant dies before receiving payment, the
+payment shall be made to those entitled under the Participants will or, if there is no will, to
+the Participants estate.
+
+10.4 Forfeiture Provisions. Subject to Sections 12 and 14, in the event a Participant
+terminates employment during a Restriction Period for the Participants Restricted Stock or
+Restricted Stock Units, such Awards will be forfeited; provided, however, that the
+
+
+
+21
+
+
+
+
+ 
+
+
+
+
+
+Committee may provide for proration or full payout in the event of (a) death, (b) permanent
+disability, or (c) any other circumstances the Committee may determine.
+
+
+
+Section 11
+
+
+
+Tax Withholding
+
+
+11.1 Withholding Requirement. The Company and any Affiliate is authorized to withhold from
+any Award granted, or any payment relating to an Award under this Plan, including from a
+distribution of Stock, amounts of withholding and other taxes or social security payments due or
+potentially payable in connection with any transaction involving an Award, and to take such other
+action as the Committee may deem advisable to enable the Company and Participants to satisfy
+obligations for the payment of withholding taxes and other tax or social security obligations
+relating to any Award. This authority shall include authority to withhold or receive Stock or
+other property and to make cash payments in respect thereof, in satisfaction of a Participants tax
+obligations, either on a mandatory or elective basis at the discretion of the Committee.
+
+
+11.2 Withholding Requirement  Stock Options and SARs. The Companys obligations to
+deliver shares of Stock upon the exercise of an Option or SAR shall be subject to the Participants
+satisfaction of all applicable federal, state, and local income and other tax and social security
+withholding requirements.
+
+
+At the time the Committee grants an Option, it may, in its sole discretion, grant the Participant
+an election to pay all such amounts of required tax withholding, or any part thereof:
+
+
+
+     (a) by the delivery to the Company or the Administrative Agent of a number of shares of
+Stock then owned by the Participant, the aggregate Fair Market Value of which (as of the
+Exercise Date) is not greater than the amount required to be withheld, provided that such
+shares have been held by the Participant for a period of at least six months;
+
+
+     (b) by certification or attestation to the Company or the Administrative Agent of the
+Participants ownership (as of the Exercise Date) of a number of shares of Stock, the
+aggregate Fair Market Value of which (as of the Exercise Date) is not greater than the
+amount required to be withheld, provided that such shares of Stock have been owned by the
+Participant for a period of at least six months; or
+
+
+     (c) by the Company or the Administrative Agent withholding from the shares of Stock
+otherwise issuable to the Participant upon exercise of the Option, a number of shares of
+Stock, the aggregate Fair Market Value of which (as of the Exercise Date) is not greater
+than the amount required to be withheld. Any such elections by Participants to have shares
+of Stock withheld for this purpose will be subject to the following restrictions:
+
+
+22
+
+
+
+
+ 
+
+
+
+          (i) all elections shall be made on or prior to the Exercise Date; and
+
+
+
+          (ii) all elections shall be irrevocable.
+
+
+11.3 Section 16 Requirements. If the Participant is an officer or director of the Company
+within the meaning of Section 16 or any successor section(s) of the Exchange Act (Section 16),
+the Participant must satisfy the requirements of Section 16 and any applicable rules and
+regulations thereunder with respect to the use of shares of Stock to satisfy such tax withholding
+obligation.
+
+
+11.4 Restricted Stock and Performance Award Payment and Tax Withholding. Each Restricted
+Stock and Performance Award agreement shall provide that, upon payment of any entitlement under
+such an Award, the Participant shall make appropriate arrangements with the Company to provide for
+the amount of minimum tax and social security withholding required by law, including without
+limitation Sections 3102 and 3402 or any successor section(s) of the Internal Revenue Code and
+applicable state and local income and other tax and social security laws. The withholding may be
+deducted from the Award. Any payment under such an Award shall be made in a proportion of cash and
+shares of Stock, determined by the Committee, such that the cash portion shall be sufficient to
+cover the withholding amount required by this Section. The cash portion of any payment shall be
+based on the Fair Market Value of the shares of Stock on the applicable date of vesting to which
+such tax withholding relates. Such cash portion shall be withheld by the Company to satisfy
+applicable tax and social security withholding requirements.
+
+
+
+Section 12
+
+
+
+Change of Control
+
+
+12.1 In General. In the event of the occurrence of a Change of Control of the Company:
+
+
+
+     (a) Without further action by the Committee or the Board,
+
+
+          (i) all outstanding Options granted on or prior to December 31, 2009 shall
+automatically vest so as to make all such Options fully vested and exercisable as
+of the date of such Change of Control;
+
+
+
+          (ii) all outstanding Options granted on or after January 1, 2010 shall fully vest
+upon the Participants Involuntary Termination or Voluntary Termination with Cause
+occurring on or after a Change of Control. Such newly vested Options shall be
+fully exercisable as of the date of the Involuntary Termination or Voluntary
+Termination with Cause on or after a Change of Control occurs.
+
+
+
+23
+
+
+
+
+ 
+
+
+
+
+
+
+     (b) Without further action by the Committee or the Board,
+
+
+          (i) all unvested Restricted Stock Awards and Restricted Stock Units granted on or
+prior to December 31, 2009 shall automatically vest. Such newly vested Restricted
+Stock Units shall be converted to Stock and the Participant shall be issued the
+requisite number of shares, after any withholding under Section 11, as soon as
+administratively practicable after the Change of Control occurs, unless the
+Participant had elected to defer Restricted Stock Units to the Deferred Delivery
+Plan in which case the Participants account in the Deferred Delivery Plan shall be
+credited with deferred Restricted Stock Units as of the date of the Change of
+Control;
+
+
+
+          (ii) all unvested Restricted Stock Awards and Restricted Stock Units granted on or
+after January 1, 2010 shall fully vest upon the Participants Involuntary
+Termination or Voluntary Termination with Cause occurring on or after a Change of
+Control. Such newly vested Restricted Stock Units shall be converted to Stock and
+the Participant shall be issued the requisite number of shares, after any
+withholding under Section 11, as soon as administratively practicable after the
+Involuntary Termination or Voluntary Termination with Cause on or after a Change of
+Control occurs, unless the Participant had elected to defer Restricted Stock Units
+to the Deferred Delivery Plan in which case the Participants account in the
+Deferred Delivery Plan shall be credited with deferred Restricted Stock Units as of
+the date of the Involuntary Termination or Voluntary Termination with Cause on or
+after the Change of Control occurs.
+
+
+
+     (c) Assuming the achievement of a Performance Goal, the entitlement to receive cash and
+Stock under any outstanding Performance Award grants shall vest automatically, without
+further action by the Committee or the Board, and shall become payable as follows:
+
+
+          (i) For Performance Awards granted on or prior to December 31, 2009, if such Change
+of Control occurs subsequent to the achievement of a Performance Goal, any
+remainder of such payout amount shall vest as of the date of such Change of Control
+and shall be paid by the Company to the Participant within thirty (30) days of the
+date of such Change of Control in the manner set out in subsection 12.1 hereof.
+
+
+          (ii) For Performance Awards granted on or prior to December 31, 2009, if the
+achievement of a Performance Goal occurs subsequent to the date of a Change of
+Control, the applicable payout amount shall vest in full for which the Performance
+Period has not yet ended and shall be paid by the Company to the Participant within
+thirty (30) days after the Performance Goal is reached. The payment will occur
+only if the Participant is employed at the time that the Performance Goal is
+reached
+
+
+24
+
+
+
+
+ 
+
+
+
+
+
+or if the Performance Goal is reached after the Participant was terminated for any
+reason (or without reason) after the Change of Control.
+
+
+          (iii) For Performance Awards granted on or after January 1, 2010, if such Change of
+Control occurs subsequent to the achievement of a Performance Goal, any remainder
+of such payout amount shall vest as of the date of the Participants Involuntary
+Termination or Voluntary Termination with Cause occurring on or after the date of
+such Change of Control and shall be paid by the Company to the Participant within
+thirty (30) days of the date of such Involuntary Termination or Voluntary
+Termination with Cause which occurs on or after the date of the Change of Control
+in the manner set out in subsection 12.1 hereof.
+
+
+          (iv) For Performance Awards granted on or after January 1, 2010, if the achievement
+of a Performance Goal occurs subsequent to the date of a Change of Control, the
+applicable payout amount shall vest in full for which the Performance Period has
+not yet ended as of the date of the Participants Involuntary Termination or
+Voluntary Termination with Cause occurring on or after such Change of Control and
+shall be paid by the Company to the Participant within thirty (30) days after the
+later of (1) the date of the Participants Involuntary Termination or Voluntary
+Termination with Cause or (2) the date that the Performance Goal is reached. The
+payment will occur only if the Participant is employed at the time that the
+Performance Goal is reached or if the Performance Goal is reached after the
+Participants Involuntary Termination or Voluntary Termination with Cause occurring
+on or after the Change of Control.
+
+
+     (d) To the extent that any Award is subject to Internal Revenue Code Section 409A, the
+Award shall contain appropriate provisions to comply with Internal Revenue Code Section
+409A, which shall supersede the provisions of subsections (a), (b), and (c).
+
+
+Section 13
+
+
+
+Reorganization or Liquidation
+
+
+In the event that the Company is merged or consolidated with another corporation and the Company is
+not the surviving corporation, or if all or substantially all of the assets or more than 20 percent
+of the outstanding voting stock of the Company is acquired by any other corporation, business
+entity or person, or in case of a reorganization (other than a reorganization under the United
+States Bankruptcy Code) or liquidation of the Company, then the Committee, or the board of
+directors of any corporation assuming the obligations of the Company, shall, as to the Plan and
+outstanding Awards make appropriate provision for the adoption and continuation of the Plan by the
+acquiring or successor corporation and for the protection of any holders of such outstanding Awards
+by the substitution on an equitable basis of appropriate stock of the Company or of the merged,
+consolidated, or
+
+
+
+25
+
+
+
+
+ 
+
+
+
+
+
+otherwise reorganized corporation which will be issuable with respect to the Stock. Additionally,
+upon the occurrence of such an event and provided that a Performance Goal has occurred, upon
+written notice to the Participants, the Committee may accelerate the vesting and payment dates of
+the entitlement to receive cash and Stock under outstanding Awards so that all such existing
+entitlements are paid prior to any such event. If a Performance Goal has not yet been attained,
+the Committee in its discretion may make equitable payment or adjustment.
+
+
+In its discretion, and on such terms and conditions as it deems appropriate, the Committee may
+provide, either by the terms of an agreement applicable to any Award or by resolution adopted prior
+to the occurrence of a Change of Control or an event described in this Section 13, that any
+outstanding Award (or portion thereof) shall be converted into a right to receive cash, on or as
+soon as practicable following the closing date or expiration date of the transaction resulting in
+the Change of Control or such event in an amount equal to the highest value of the consideration to
+be received in connection with such transaction for one share of Stock, or, if higher, the highest
+Fair Market Value of a share of Stock during the thirty (30) consecutive business days immediately
+prior to the closing date or expiration date of such transaction, less the per-share Option Price
+or grant price of SARs, as applicable to the Award, multiplied by the number of shares subject to
+such Award, or the applicable portion thereof.
+
+
+
+Section 14
+
+
+
+Rights of Employees and Participants
+
+
+14.1 Employment. Neither anything contained in the Plan or any agreement nor the granting
+of any Award under the Plan shall confer upon any Participant any right with respect to the
+continuation of his or her employment by the Company or any Affiliate, or interfere in any way with
+the right of the Company or any Affiliate, at any time, to terminate such employment or to increase
+or decrease the level of the Participants compensation from the level in existence at the time of
+the Award.
+
+
+An Eligible Person who has been granted an Award in one year shall not necessarily be entitled to
+be granted Awards in subsequent years.
+
+
+14.2 Non-transferability. Except as otherwise determined at any time by the Committee as
+to any Awards other than ISOs, no right or interest of any Participant in an Award granted pursuant
+to the Plan shall be assignable or transferable during the lifetime of the Participant, either
+voluntarily or involuntarily, or subjected to any lien, directly or indirectly, by operation of
+law, or otherwise, including execution, levy, garnishment, attachment, pledge, bankruptcy, or court
+order; provided that the Committee may permit further transferability of Awards other than
+ISOs, on a general or a specific basis, and may impose conditions and limitations on any permitted
+transferability, subject to any applicable Restriction Period; provided further,
+however, that no Award may be transferred for value or other consideration without first
+obtaining approval thereof by the
+
+
+
+26
+
+
+
+
+ 
+
+
+
+
+
+stockholders of the Company. In the event of a Participants death, a Participants rights and
+interests in any Award as set forth in an Award agreement, shall be transferable by testamentary
+will or the laws of descent and distribution, and payment of any entitlements due under the Plan
+shall be made to the Participants legal representatives, heirs, or legatees. If in the opinion of
+the Committee a person entitled to payments or to exercise rights with respect to the Plan is
+disabled from caring for his or her affairs because of mental condition, physical condition, or
+age, payment due such person may be made to, and such rights shall be exercised by, such persons
+guardian, conservator, or other legal personal representative upon furnishing the Committee with
+evidence satisfactory to the Committee of such status. If any individual entitled to payment or to
+exercise rights with respect to the Plan is a minor, the Committee shall cause the payment to be
+made to (or the right to be exercised by) the custodian or representative who, under the state law
+of the minors domicile, is authorized to act on behalf of the minor or is authorized to receive
+funds on behalf of the minor. With respect to those Awards, if any, that are permitted to be
+transferred to another individual, references in the Plan to exercise or payment related to such
+Awards by or to the Participant shall be deemed to include, as determined by the Committee, the
+Participants permitted transferee. A Participants unexercised Option or SAR, or amounts due but
+remaining unpaid to such Participant, at the Participants death, shall be exercised or paid as
+designated by the Participant by will or by the laws of descent and distribution. In the event any
+Award is exercised by or otherwise paid to the executors, administrators, heirs or distributees of
+the estate of a deceased Participant, or the transferee of an Award, in any such case, pursuant to
+the terms and conditions of the Plan and the applicable Award agreement and in accordance with such
+terms and conditions as may be specified from time to time by the Committee, the Company shall be
+under no obligation to issue shares of Stock thereunder unless and until the Company is satisfied,
+as determined in the discretion of the Committee, that the person or persons exercising such Award,
+or to receive such payment, are the duly appointed legal representative of the deceased
+Participants estate or the proper legatees or distributees thereof, or the valid transferee of
+such Award, as applicable. Any purported assignment, transfer or encumbrance of an Award that does
+not comply with this Section 14.2 shall be void and unenforceable against the Company.
+
+
+14.3 Noncompliance with Internal Revenue Code Section 409A. If an Award is subject to the
+requirements of Internal Revenue Code Section 409A, to the extent that the Company or an Affiliate
+takes any action that causes a violation of Internal Revenue Code Section 409A or fails to take
+reasonable actions required to comply with Internal Revenue Code Section 409A, in each case as
+determined by the Committee, the Company shall pay an additional amount to the Participant (or
+beneficiary) equal to the additional income tax imposed pursuant to Internal Revenue Code Section
+409A on the Participant as a result of such violation, plus any taxes imposed on this additional
+payment.
+
+
+
+27
+
+
+
+
+ 
+
+
+
+
+
+
+Section 15
+
+
+
+Other Employee Benefits
+
+
+The amount of any income deemed to be received by a Participant as a result of the payment under an
+Award or exercise shall not constitute earnings or compensation with respect to which any other
+employee benefits of such Participant are determined, including without limitation benefits under
+any pension, profit sharing, life insurance, or salary continuation plan.
+
+
+
+Section 16
+
+
+
+Amendment, Modification, and Termination
+
+
+The Committee or the Board may at any time terminate, and from time to time may amend or modify the
+Plan, and the Committee or the Board may, to the extent permitted by the Plan, from time to time
+amend or modify the terms of any Award theretofore granted, including any Award agreement, in each
+case, retroactively or prospectively; provided, however, that no amendment or
+modification of the Plan may become effective without approval of the amendment or modification by
+the Companys stockholders if stockholder approval is required to enable the Plan to satisfy an
+applicable statutory or regulatory requirements, unless the Company, on the advice of outside
+counsel, determines that stockholder approval is not necessary.
+
+
+Notwithstanding any other provision of this Plan, no amendment, modification, or termination of the
+Plan or any Award shall adversely affect the previously accrued material rights or benefits of a
+Participant under any outstanding Award theretofore awarded under the Plan, without the consent of
+such Participant holding such Award, except to the extent necessary to avoid a violation of
+Internal Revenue Code Section 409A or the Board or the Committee determines, on advice of outside
+counsel or the Companys independent accountants, that such amendment or modification is required
+for the Company, the Plan, or the Award to satisfy, comply with, or meet the requirements of any
+law, regulation, listing rule, or accounting standard applicable to the Company.
+
+
+The Committee shall have the authority to adopt (without the necessity for further stockholder
+approval) such modifications, procedures, and subplans as may be necessary or desirable to comply
+with the provisions of the laws (including, but not limited to, tax laws and regulations) of
+countries other than the United States in which the Company may operate, so as to assure the
+viability of the benefits of the Plan to Participants employed in such countries.
+
+
+
+28
+
+
+
+
+ 
+
+
+
+
+
+
+Section 17
+
+
+
+Requirements of Law
+
+
+17.1 Requirements of Law. The issuance of Stock and the payment of cash pursuant to the
+Plan shall be subject to all applicable laws, rules, and regulations, including applicable federal
+and state securities laws. The Company may require a Participant, as a condition of receiving
+payment under an Award, to give written assurances in substance and form satisfactory to the
+Company and its counsel to such effect as the Company deems necessary or appropriate in order to
+comply with federal and applicable state securities laws.
+
+
+17.2 Section 16 Requirements. If a Participant is an officer or director of the Company
+within the meaning of Section 16 of the Exchange Act, Awards granted hereunder shall be subject to
+all conditions required under Rule 16b-3, or any successor rule(s) promulgated under the Exchange
+Act, to qualify the Award for any exemption from the provisions of Section 16 available under such
+Rule. Such conditions are hereby incorporated herein by reference and shall be set forth in the
+agreement with the Participant, which describes the Award.
+
+
+17.3 Governing Law. The Plan and all agreements hereunder shall be construed in accordance
+with and governed by the laws of the State of Texas.
+
+
+
+Section 18
+
+
+
+Duration of the Plan
+
+
+The Plan shall terminate on the ten year anniversary of the Effective Date. No grants shall be
+awarded after such termination; however, the terms of the Plan shall continue to apply to all
+Awards outstanding when the Plan terminates.
+
+
+Dated: July 13, 2010; Effective December 31, 2009.
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+    ATTEST:  
+     
+    APACHE CORPORATION
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+    Cheri L. Peper
+
+     
+     
+     
+    By:
+
+     
+    Margery M. Harris
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+    Cheri L. Peper
+
+     
+     
+     
+     
+     
+    Margery M. Harris
+     
+     
+
+
+    Corporate Secretary
+
+     
+     
+     
+     
+     
+    Vice President, Human Resources
+     
+     
+
+
+
+
+
+
+
+29
+
+
+
+
+
+
+

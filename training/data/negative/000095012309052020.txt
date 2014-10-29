@@ -1,0 +1,4806 @@
+
+EX-10.1
+2
+d68787exv10w1.htm
+EX-10.1
+
+
+
+exv10w1
+
+
+
+
+
+
+Exhibit 10.1
+
+
+
+EIGHTH AMENDMENT TO
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+
+
+
+     THIS EIGHTH AMENDMENT TO THIRD AMENDED AND RESTATED CREDIT AGREEMENT (this
+Amendment) is dated as of September 30, 2009, by and among RANGE RESOURCES CORPORATION, a
+Delaware corporation (Borrower), certain Subsidiaries of Borrower, as Guarantors, the
+Lenders party hereto, and JPMORGAN CHASE BANK, N.A., a national banking association, as
+Administrative Agent for the Lenders (in such capacity, Administrative Agent).
+
+
+WITNESSETH:
+
+
+
+     WHEREAS, Borrower, Guarantors, Administrative Agent and the Lenders entered into that certain
+Third Amended and Restated Credit Agreement dated as of October 25, 2006 (as amended by that
+certain First Amendment to Third Amended and Restated Credit Agreement dated March 12, 2007, as
+further amended by that certain Second Amendment to Third Amended and Restated Credit Agreement
+dated as of March 26, 2007, as further amended by that certain Third Amendment to Third Amended and
+Restated Credit Agreement dated as of October 22, 2007, as further amended by that certain Fourth
+Amendment to Third Amended and Restated Credit Agreement dated as of March 31, 2008, as further
+amended by that certain Fifth Amendment to Third Amended and Restated Credit Agreement dated as of
+October 21, 2008, as further amended by that certain Sixth Amendment to Third Amended and Restated
+Credit Agreement dated as of December 11, 2008, as further amended by that certain Seventh
+Amendment to Third Amended and Restated Credit Agreement dated as of March 27, 2009, and as further
+amended, modified and restated from time to time, the Credit Agreement), pursuant to
+which the Lenders made a revolving credit facility available to Borrower; and
+
+
+     WHEREAS, Borrower has requested that Administrative Agent and the Lenders (i) amend the Credit
+Agreement to permit the Borrower to incur additional unsecured Indebtedness and for certain other
+purposes as provided herein, and (ii) consent to the amendment and restatement of each Restricted
+Subsidiarys bylaws, operating agreement, company agreement or limited liability company agreement,
+as applicable, in substantially the forms attached as Annex 1 and Annex 2 hereto,
+and Administrative Agent and the Lenders have agreed to do so on and subject to the terms and
+conditions hereinafter set forth.
+
+
+     NOW, THEREFORE, the parties agree to amend the Credit Agreement as follows:
+
+
+     1. Definitions. Unless otherwise defined herein, all capitalized terms used herein
+shall have the same meanings ascribed to such terms in the Credit Agreement.
+
+
+     2. Amendments to Credit Agreement.
+
+
+
+     2.1 Additional Definition. Section 1.01 of the Credit Agreement shall
+be and it hereby is amended by inserting the following definition in appropriate
+alphabetical order:
+
+
+     Eighth Amendment Effective Date means September 30, 2009.
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+     2.2 Amended Definitions. The following definitions set forth in Section
+1.01 of the Credit Agreement shall be and they hereby are amended in their respective
+entireties to read as follows:
+
+
+
+     Aggregate Commitment means the amount equal to the lesser of
+(i) the Maximum Facility Amount and (ii) the Borrowing Base then in effect;
+provided that notwithstanding anything to the contrary contained
+herein or in any other Loan Document, effective as of the Eighth Amendment
+Effective Date, the Aggregate Commitment shall be equal to $1,250,000,000
+until such time as the Aggregate Commitment is reduced or increased pursuant
+to the terms of this Agreement. The Aggregate Commitment may be reduced or
+increased pursuant to Section 2.02 and Section 2.03; provided that in
+no event shall the Aggregate Commitment exceed the Borrowing Base. If at any
+time the Borrowing Base is reduced below the Aggregate Commitment in effect
+prior to such reduction, the Aggregate Commitment shall be reduced
+automatically to the amount of the Borrowing Base in effect at such time.
+
+
+
+     Indenture means, collectively, (i) that certain Indenture
+dated as of July 21, 2003, by and between the Borrower, as issuer, certain of
+its Subsidiaries, as guarantors, and JPMorgan Chase Bank, N.A. (successor to
+Bank One, N.A.), as trustee, pursuant to which the Borrower issued the Senior
+Subordinated Notes, as amended and supplemented by that certain Supplemental
+Indenture dated as of June 22, 2004 and as further amended and supplemented
+from time to time as permitted under the terms thereof, (ii) that certain
+Indenture dated March 9, 2005, among the Borrower, as issuer, certain of its
+Subsidiaries, as guarantors, and J.P. Morgan Trust Company, National
+Association, as amended or supplemented from time to time as permitted under
+the terms hereof, (iii) that certain Indenture dated May 23, 2006, among the
+Borrower, as issuer, certain of its Subsidiaries, as guarantors, and J.P.
+Morgan Trust Company, National Association, as amended or supplemented from
+time to time as permitted under the terms hereof, (iv) that certain Indenture
+dated September 28, 2007, among the Borrower, as issuer, certain of its
+Subsidiaries, as guarantors, and The Bank of New York Trust Company, N.A., as
+amended or supplemented from time to time as permitted under the terms
+hereof, (v) that certain Indenture dated May 6, 2008, among the Borrower, as
+issuer, certain of its Subsidiaries, as guarantors, and The Bank of New York
+Trust Company, N.A., as amended or supplemented from time to time as
+permitted under the terms hereof, and (vi) that certain Indenture dated May
+14, 2009, among the Borrower, as issuer, certain of its Subsidiaries, as
+guarantors, and The Bank of New York Mellon Trust Company, N.A., as amended or supplemented from time to time as permitted under the
+terms hereof.
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+2
+
+
+
+
+ 
+
+
+
+
+     Senior Subordinated Notes means (i) the 7 3/8% Senior
+Subordinated Notes due 2013, issued pursuant to the Indenture, (ii) the 6
+3/8% Senior Subordinated Notes due 2015, issued pursuant to the Indenture,
+(iii) the 7 1/2% Senior Subordinated Notes due 2016, issued pursuant to the
+Indenture, (vi) the 7 1/2% Senior Subordinated Notes due 2017, issued pursuant
+to the Indenture, (v) the 7 1/4% Senior Subordinated Notes due 2018, issued
+pursuant to the Indenture, (vi) the 8.0 % Senior Subordinated Notes due 2019,
+issued pursuant to the Indenture, and (vii) additional senior unsecured
+subordinated notes issued after the Eighth Amendment Effective Date and prior
+May 1, 2010; provided that (a) the terms of such Senior Subordinated Notes do
+not provide for any scheduled repayment, mandatory redemption or sinking fund
+obligation prior to the date that is six months after the Maturity Date, (b)
+the covenant, default and remedy provisions of such Senior Subordinated Notes
+are substantially on the same terms and conditions as the Indenture or are
+not materially more restrictive, taken as a whole, than those set forth in
+this Agreement, (c) the mandatory prepayment, repurchase and redemption
+provisions of such Senior Subordinated Notes are substantially on the same
+terms and conditions as the Indenture or are not materially more onerous or
+expansive in scope, taken as a whole, than those set forth in this Agreement,
+and (d) the subordination provisions set forth in such Senior Subordinated
+Notes are at least as favorable to the Secured Parties as the subordination
+provisions set forth in the Indenture.
+
+
+
+     Senior Unsecured Notes means senior unsecured notes issued
+after the Eighth Amendment Effective Date and prior to May 1, 2010; provided
+that (i) the terms of such Senior Unsecured Notes do not provide for any
+scheduled repayment, mandatory redemption or sinking fund obligation prior to
+the date that is six months after the Maturity Date, (ii) the covenant,
+default and remedy provisions of such Senior Unsecured Notes are
+substantially on the same terms and conditions as the Indenture (without
+giving effect to the subordination provisions) or are not materially more
+restrictive, taken as a whole, than those set forth in this Agreement and
+(iii) the mandatory prepayment, repurchase and redemption provisions of such
+Senior Unsecured Notes are substantially on the same terms and conditions as
+the Indenture (without giving effect to the subordination provisions) or are
+not materially more onerous or expansive in scope, taken as a whole, than those set forth in this
+Agreement.
+
+
+
+     2.3 Letters of Credit. Section 2.07(b) of the Credit Agreement shall
+be and it hereby is amended in its entirety to read as follows:
+
+
+
+     (b) Notice of Issuance, Amendment, Renewal, Extension; Certain
+Conditions. To request the issuance of a Letter of Credit (or the
+amendment, renewal or extension of an outstanding Letter of Credit), the
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+3
+
+
+
+
+ 
+
+
+
+
+Borrower shall hand deliver or telecopy (or transmit by electronic
+communication, if arrangements for doing so have been approved by the Issuing
+Bank) to the Issuing Bank and the Administrative Agent (reasonably in advance
+of the requested date of issuance, amendment, renewal or extension) a notice
+requesting the issuance of a Letter of Credit, or identifying the Letter of
+Credit to be amended, renewed or extended, and specifying the date of
+issuance, amendment, renewal or extension (which shall be a Business Day),
+the date on which such Letter of Credit is to expire (which shall comply with
+paragraph (c) of this Section), the amount of such Letter of Credit, the name
+and address of the beneficiary thereof and such other information as shall be
+necessary to prepare, amend, renew or extend such Letter of Credit. If
+requested by the Issuing Bank, the Borrower also shall submit a letter of
+credit application on the Issuing Banks standard form in connection with any
+request for a Letter of Credit. A Letter of Credit shall be issued, amended,
+renewed or extended only if (and upon issuance, amendment, renewal or
+extension of each Letter of Credit the Borrower shall be deemed to represent
+and warrant that), after giving effect to such issuance, amendment, renewal
+or extension (i) the LC Exposure shall not exceed $150,000,000 and (ii) the
+Aggregate Credit Exposure shall not exceed the Aggregate Commitment.
+Notwithstanding the foregoing, the Issuing Bank shall not at any time be
+obligated to issue, amend, renew or extend any Letter of Credit if any Lender
+is at such time a Defaulting Lender hereunder, unless (x) the Borrower cash
+collateralizes such Defaulting Lenders portion of the total LC Exposure
+(calculated after giving effect to the issuance, amendment, renewal or
+extension of such Letter of Credit) in accordance with the procedures set forth in Section 2.07(j) or (y) the Issuing Bank has
+entered into arrangements satisfactory to the Issuing Bank in its sole
+discretion with the Borrower or such Defaulting Lender to eliminate the
+Issuing Banks risk with respect to such Defaulting Lenders portion of the
+total LC Exposure.
+
+
+
+     2.4 Indebtedness Under the Senior Notes. Section 7.01(h) of the Credit
+Agreement shall be and it hereby is amended in its entirety to read as follows:
+
+
+
+     (h) unsecured Indebtedness under the Senior Notes in an aggregate
+principal amount not exceeding $1,900,000,000 at any time outstanding and
+extensions, renewals, replacements and refinancings of any such Indebtedness
+that is unsecured and does not cause the aggregate principal amount of the
+Senior Notes to exceed the maximum principal amount permitted under this
+clause (h) as of the date of such extension, renewal, replacement or
+refinancing; and
+
+
+
+     2.5 Notices. Clause (ii) of Section 11.01(a) of the Credit Agreement
+shall be and it hereby is amended in its entirety to read as follows:
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT 
+
+4
+
+
+
+
+ 
+
+
+
+
+     (ii) if to the Administrative Agent or Issuing Bank, to JPMorgan Chase
+Bank, N.A., JPMorgan Loan Services, 10 South Dearborn St., 19th Floor,
+Chicago, Illinois 60603-2003, Telecopy No.: (312) 385-7098, Attention:
+Margaret Mamani (margaret.m.mamani@jpmchase.com), with a copy to
+JPMorgan Chase Bank, N.A., Mail Code TX1-2911, 2200 Ross Avenue, 3rd Floor,
+Dallas, Texas 75201, Facsimile No. (214) 965-3280, Attention: Kimberly A.
+Bourgeois, Senior Vice President (kimberly.a.bourgeois@jpmorgan.com);
+and
+
+
+     3. Reaffirmation of Borrowing Base and Aggregate Commitment. This Amendment shall
+constitute a notice of reaffirmation of the Borrowing Base pursuant to Section 3.04 of the
+Credit Agreement and Administrative Agent hereby notifies Borrower that, as of the Eighth Amendment
+Effective Date, the Borrowing Base shall continue to be $1,500,000,000 until the next
+Redetermination of the Borrowing Base pursuant to Article III of the Credit Agreement.
+Additionally, notwithstanding anything to the contrary contained in the Credit Agreement or any
+other Loan Document, effective as of the Eighth Amendment Effective Date, the Aggregate Commitment
+shall continue to be $1,250,000,000 until such time as the Aggregate Commitment is reduced or
+increased pursuant to the terms of the Credit Agreement.
+
+
+     4. Consent. The Administrative Agent and the Lenders (or at least the required
+percentage thereof) hereby consent to the amendment and restatement of each Restricted Subsidiarys
+bylaws, operating agreement, company agreement or limited liability company agreement, as
+applicable, in substantially the forms attached as Annex 1 and Annex 2 hereto.
+
+
+     5. Binding Effect. Except to the extent its provisions are specifically amended,
+modified or superseded by this Amendment, the Credit Agreement, as amended, and all terms and
+provisions thereof shall remain in full force and effect, and the same in all respects are
+confirmed and approved by the Borrower, the Guarantors and the Lenders.
+
+
+     6. Eighth Amendment Effective Date. This Amendment (including the amendments to the
+Credit Agreement contained in Section 2 of this Amendment and the consent contained in
+Section 4 of this Amendment) shall be effective upon the satisfaction of the conditions
+precedent set forth in Section 7 hereof.
+
+
+     7. Conditions Precedent. The obligations of Administrative Agent and the Lenders
+under this Amendment shall be subject to the following conditions precedent:
+
+
+
+          (a) Execution and Delivery. Borrower, each Guarantor, and the Lenders (or at
+least the required percentage thereof) shall have executed and delivered this Amendment and
+each other required document to Administrative Agent, all in form and substance satisfactory
+to the Administrative Agent.
+
+
+
+          (b) No Default. No Default shall have occurred and be continuing or shall
+result from the effectiveness of this Amendment.
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT 
+
+5
+
+
+
+
+ 
+
+
+
+
+          (c) Other Documents. The Administrative Agent shall have received such other
+instruments and documents incidental and appropriate to the transaction provided for herein
+as the Administrative Agent or its counsel may reasonably request, and all such documents
+shall be in form and substance satisfactory to the Administrative Agent.
+
+
+     8. Representations and Warranties. Each Credit Party hereby represents and warrants
+that (a) except to the extent that any such representations and warranties expressly relate to an
+earlier date, all of the representations and warranties contained in the Credit Agreement and in
+each Loan Document are true and correct as of the date hereof after giving effect to this
+Amendment, (b) the execution, delivery and performance by such Credit Party of this Amendment have
+been duly authorized by all necessary corporate, limited liability company or partnership action
+required on its part, and this Amendment and the Credit Agreement are the legal, valid and binding
+obligations of such Credit Party, enforceable against such Credit Party in accordance with their
+terms, except as their enforceability may be affected by the effect of bankruptcy, insolvency, reorganization, moratorium or other similar laws now
+or hereafter in effect relating to or affecting the rights or remedies of creditors generally, and
+(c) no Default or Event of Default has occurred and is continuing or will exist after giving effect
+to this Amendment.
+
+
+     9. Reaffirmation of Loan Documents. Any and all of the terms and provisions of the
+Credit Agreement and the Loan Documents shall, except as amended and modified hereby, remain in
+full force and effect. Each Credit Party hereby agrees that the amendments and modifications
+herein contained shall in no manner affect or impair the liabilities, duties and obligations of any
+Credit Party under the Credit Agreement and the other Loan Documents or the Liens securing the
+payment and performance thereof.
+
+
+     10. Counterparts. This Amendment may be executed in one or more counterparts and by
+different parties hereto in separate counterparts each of which when so executed and delivered
+shall be deemed an original, but all such counterparts together shall constitute but one and the
+same instrument; signature pages may be detached from multiple separate counterparts and attached
+to a single counterpart so that all signature pages are physically attached to the same document.
+Delivery of photocopies of the signature pages to this Amendment by facsimile or electronic mail
+shall be effective as delivery of manually executed counterparts of this Amendment.
+
+
+     11. Legal Expenses. Each Credit Party hereby agrees to pay all reasonable fees and
+expenses of special counsel to the Administrative Agent incurred by the Administrative Agent in
+connection with the preparation, negotiation and execution of this Amendment and all related
+documents.
+
+
+     12. WRITTEN CREDIT AGREEMENT. THE CREDIT AGREEMENT, AS AMENDED BY THIS AMENDMENT AND
+TOGETHER WITH THE OTHER LOAN DOCUMENTS, REPRESENTS THE FINAL AGREEMENT BETWEEN AND AMONG THE
+PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL
+AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN AND AMONG THE PARTIES.
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+
+6
+
+
+
+
+ 
+
+
+
+
+     13. Governing Law. This Amendment shall be construed in accordance with and governed
+by the law of the State of Texas.
+
+
+     14. Guarantors. The Guarantors hereby consent to the execution of this Amendment by
+the Borrower and reaffirm their guaranties of all of the obligations of the Borrower to the
+Lenders. Borrower and Guarantors acknowledge and agree that the renewal, extension and amendment of the Credit Agreement shall not be considered a novation of account or new
+contract but that all existing rights, titles, powers, and estates in favor of the Lenders
+constitute valid and existing obligations in favor of the Lenders. Borrower and Guarantors each
+confirm and agree that (a) neither the execution of this Amendment or any other Loan Document nor
+the consummation of the transactions described herein and therein shall in any way effect, impair
+or limit the covenants, liabilities, obligations and duties of the Borrower and the Guarantors
+under the Loan Documents, and (b) the obligations evidenced and secured by the Loan Documents
+continue in full force and effect. Each Guarantor hereby further confirms that it unconditionally
+guarantees to the extent set forth in the Credit Agreement the due and punctual payment and
+performance of any and all amounts and obligations owed to the Lenders under the Credit Agreement
+or the other Loan Documents.
+
+
+[Signature Page Follows]
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+
+7
+
+
+
+
+
+
+ 
+
+
+
+     IN WITNESS WHEREOF, the parties have caused this Amendment to the Credit Agreement to be duly
+executed as of the date first above written.
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BORROWER:
+
+
+RANGE RESOURCES CORPORATION
+ 
+     
+
+     
+    By:  
+    /s/ Roger S. Manny
+ 
+     
+
+     
+     
+    Roger S. Manny,  
+     
+
+     
+     
+    Executive Vice President 
+     
+
+
+     
+
+
+     
+
+
+
+     
+    GUARANTORS:
+
+
+AMERICAN ENERGY SYSTEMS, LLC
+MOUNTAIN FRONT PARTNERS, LLC
+RANGE ENERGY I, INC.
+RANGE ENERGY SERVICES COMPANY
+RANGE HOLDCO, INC.
+RANGE OPERATING NEW MEXICO, INC.
+RANGE OPERATING TEXAS, LLC
+RANGE PRODUCTION COMPANY
+RANGE RESOURCES  PINE MOUNTAIN, INC.
+ 
+     
+
+     
+    By:  
+    /s/ Roger S. Manny
+ 
+     
+
+     
+     
+    Roger S. Manny,  
+     
+
+     
+     
+    Executive Vice President
+of all of the foregoing Guarantors 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    RANGE RESOURCES  APPALACHIA, LLC 
+(f/k/a Great Lakes Energy Partners, L.L.C.)
+ 
+     
+
+     
+    By:  
+    RANGE HOLDCO, INC., Its member
+ 
+     
+
+     
+     
+    RANGE ENERGY I, INC., Its member 
+     
+
+
+
+     
+     
+     
+     
+
+
+     
+    By:  
+                    /s/ Roger S. Manny
+ 
+     
+
+     
+     
+    Roger S. Manny,  
+     
+
+     
+     
+    Executive Vice President of each
+of the foregoing members 
+     
+
+
+     
+
+
+     
+    RANGE RESOURCES  MIDCONTINENT, LLC
+(f/k/a Range Resources, L.L.C.)
+ 
+     
+
+     
+    By:  
+    RANGE HOLDCO, INC., Its member
+ 
+     
+
+
+
+     
+     
+     
+
+     
+    By:  
+                  /s/ Roger S. Manny
+ 
+     
+
+     
+     
+    Roger S. Manny,  
+     
+
+     
+     
+    Executive Vice President 
+     
+
+
+     
+
+
+     
+    RANGE TEXAS PRODUCTION, LLC
+ 
+     
+
+     
+    By:  
+    Range Energy I, Inc., Its Member
+ 
+     
+
+
+
+     
+     
+     
+
+     
+    By:  
+                   /s/ Roger S. Manny
+ 
+     
+
+     
+     
+    Roger S. Manny,  
+     
+
+     
+     
+    Executive Vice President 
+     
+
+
+     
+
+
+     
+    REVC HOLDCO, LLC
+ 
+     
+
+     
+    By:  
+    Range Resources Corporation, Its member
+ 
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                    /s/ Roger S. Manny
+ 
+     
+
+     
+     
+    Roger S. Manny,  
+     
+
+     
+     
+    Executive Vice President 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    JPMORGAN CHASE BANK, N.A., (successor by merger to Bank
+One, N.A. (Illinois)), as Administrative Agent and a
+Lender
+ 
+     
+
+
+
+     
+     
+     
+     
+     
+
+
+
+     
+    By:  
+    /s/ Kimberly A. Bourgeois
+ 
+     
+
+     
+     
+    Kimberly A. Bourgeois,  
+     
+
+     
+     
+    Senior Vice President 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANK OF SCOTLAND plc, as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Karen Weich
+ 
+     
+
+     
+     
+    Name:  
+    Karen Weich 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    CALYON NEW YORK BRANCH, as a Syndicated 
+Agent and a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Sharada Manne
+ 
+     
+
+     
+     
+    Name:  
+    Sharada Manne 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                            /s/ David Gurghigian
+ 
+     
+
+     
+     
+    Name:  
+    David Gurghigian 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    COMPASS BANK, as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Christopher S. Parada
+ 
+     
+
+     
+     
+    Name:  
+    Christopher S. Parada 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANK OF AMERICA, N.A., as a Documentation 
+Agent and a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Jeffrey H. Rathkamp
+ 
+     
+
+     
+     
+    Name:  
+    Jeffrey H. Rathkamp 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+    EIGHTH AMENDMENT TO THIRD AMENDED
+     
+     
+     
+     
+
+
+    AND RESTATED CREDIT AGREEMENT
+     
+     
+     
+     
+
+
+     
+
+     
+    Signature Page
+     
+    
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    FORTIS CAPITAL CORP., as a Documentation 
+Agent and a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Michele Jones
+ 
+     
+
+     
+     
+    Name:  
+    Michele Jones 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                             /s/ Ilene Fowler
+ 
+     
+
+     
+     
+    Name:  
+    Ilene Fowler 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+    EIGHTH AMENDMENT TO THIRD AMENDED
+     
+     
+     
+     
+
+
+    AND RESTATED CREDIT AGREEMENT
+     
+     
+     
+     
+
+ 
+
+     
+     
+    Signature Page
+     
+     
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    NATIXIS (formerly Natexis Banques Populaires), as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Donovan C. Broussard
+ 
+     
+
+     
+     
+    Name:  
+    Donovan C. Broussard 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+     
+
+
+     
+     
+     
+
+     
+    By:  
+            /s/ Liana Tchernysheva
+ 
+     
+
+     
+     
+    Name:  
+    Liana Tchernysheva 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+    EIGHTH AMENDMENT TO THIRD AMENDED
+     
+     
+     
+     
+
+
+    AND RESTATED CREDIT AGREEMENT
+     
+     
+     
+     
+
+
+
+ 
+
+     
+     
+    Signature Page
+     
+     
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    COMERICA BANK, as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Peter L. Sefzik
+ 
+     
+
+     
+     
+    Name:  
+    Peter L. Sefzik 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+    EIGHTH AMENDMENT TO THIRD AMENDED
+     
+     
+     
+     
+
+
+    AND RESTATED CREDIT AGREEMENT
+     
+     
+     
+     
+
+ 
+
+     
+     
+    Signature Page
+     
+     
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    CAPITAL ONE, N.A. (f/k/a Hibernia National 
+Bank), as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Nancy M. Mak
+ 
+     
+
+     
+     
+    Name:  
+    Nancy M. Mak 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+    EIGHTH AMENDMENT TO THIRD AMENDED
+     
+     
+     
+     
+
+
+    AND RESTATED CREDIT AGREEMENT
+     
+     
+     
+     
+
+
+
+
+ 
+
+     
+     
+    Signature Page
+     
+     
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    AMEGY BANK N.A. (f/k/a Southwest Bank of
+Texas N.A.), as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ W. Bryan Chapman
+ 
+     
+
+     
+     
+    Name:  
+    W. Bryan Chapman 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+    EIGHTH AMENDMENT TO THIRD AMENDED
+     
+     
+     
+     
+
+
+    AND RESTATED CREDIT AGREEMENT
+     
+     
+     
+     
+
+
+ 
+
+     
+     
+    Signature Page
+     
+     
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BMO CAPITAL MARKETS FINANCING, INC.
+(f/k/a HARRIS NESBITT FINANCING, INC.),
+as a Syndication Agent and a Lender
+ 
+     
+
+     
+    By:  
+    /s/ James V. Ducote
+ 
+     
+
+     
+     
+    Name:  
+    James V. Ducote 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+    EIGHTH AMENDMENT TO THIRD AMENDED
+     
+     
+     
+     
+
+
+    AND RESTATED CREDIT AGREEMENT
+     
+     
+     
+     
+
+
+
+ 
+
+     
+     
+    Signature Page
+     
+     
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    KEYBANK NATIONAL ASSOCIATION, as a 
+Lender
+ 
+     
+
+     
+    By:  
+    /s/ Angela McCracken
+ 
+     
+
+     
+     
+    Name:  
+    Angela McCracken 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+     
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+
+
+    EIGHTH AMENDMENT TO THIRD AMENDED
+     
+     
+     
+     
+
+
+    AND RESTATED CREDIT AGREEMENT
+     
+     
+     
+     
+
+
+
+ 
+
+     
+     
+    Signature Page
+     
+     
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    WACHOVIA BANK, NATIONAL ASSOCIATION, 
+as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Charles D. Kirkham
+ 
+     
+
+     
+     
+    Name:  
+    Charles D. Kirkham 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    UNION BANK, N.A., (f/k/a UNION BANK OF CALIFORNIA, N.A.)
+as a Lender
+ 
+     
+
+     
+    By:  
+                          /s/ Alison Fuqua
+ 
+     
+
+     
+     
+    Name:  
+    Alison Fuqua 
+     
+
+     
+     
+    Title:  
+    Assistant Vice President 
+     
+
+
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                          /s/ Jarrod Bourgeois
+ 
+     
+
+     
+     
+    Name:  
+    Jarrod Bourgeois 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    THE BANK OF NOVA SCOTIA, as a Lender
+ 
+     
+
+     
+    By:  
+                       /s/ David G. Mills
+ 
+     
+
+     
+     
+    Name:  
+    David G. Mills 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    THE FROST NATIONAL BANK, as a Lender
+ 
+     
+
+     
+    By:  
+                       /s/ Alex Zemkoski
+ 
+     
+
+     
+     
+    Name:  
+    Alex Zemkoski 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    CITIBANK, N.A., as a Lender
+ 
+     
+
+     
+    By:  
+                     /s/ James. F. Reilly, Jr.
+ 
+     
+
+     
+     
+    Name:  
+    James. F. Reilly, Jr. 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    CREDIT SUISSE, Cayman Islands Branch,
+as a Lender
+ 
+     
+
+     
+    By:  
+                      /s/ Nupur Kumar
+ 
+     
+
+     
+     
+    Name:  
+    Nupur Kumar 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                      /s/ Kevin Buddhdew
+ 
+     
+
+     
+     
+    Name:  
+    Kevin Buddhdew 
+     
+
+     
+     
+    Title:  
+    Associate 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    SUNTRUST BANK, as a Lender
+ 
+     
+
+     
+    By:  
+                           /s/ Yann Pirio
+ 
+     
+
+     
+     
+    Name:  
+    Yann Pirio 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    SOCIÉTÉ GÉNÉRALE, as a Lender
+ 
+     
+
+     
+    By:  
+                       /s/ Stephen W. Warfel
+ 
+     
+
+     
+     
+    Name:  
+    Stephen W. Warfel 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    U.S. BANK NATIONAL ASSOCIATION,
+as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Daria Mahoney
+ 
+     
+
+     
+     
+    Name:  
+    Daria Mahoney 
+     
+
+     
+     
+    Title:  
+    Vice Presdient 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    DEUTSCHE BANK TRUST COMPANY AMERICAS, as a Lender
+ 
+     
+
+     
+    By:  
+    /s/ Anca Trifah
+ 
+     
+
+     
+     
+    Name:  
+    Anca Trifah 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                            /s/ Scottye Lindsey
+ 
+     
+
+     
+     
+    Name:  
+    Scottye Lindsey 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    STERLING BANK, as a Lender
+ 
+     
+
+     
+    By:  
+               /s/ Jeff A. Forbis
+ 
+     
+
+     
+     
+    Name:  
+    Jeff A. Forbis 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BARCLAYS BANK PLC,
+as a Lender
+ 
+     
+
+     
+    By:  
+           /s/ Ann E. Sutton
+ 
+     
+
+     
+     
+    Name:  
+    Ann E. Sutton 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    
+
+ROYAL BANK OF CANADA,
+as a Lender
+ 
+     
+
+     
+    By:  
+           /s/ Don J. McKinnerney
+ 
+     
+
+     
+     
+    Name:  
+    Don J. McKinnerney 
+     
+
+     
+     
+    Title:  
+    Authorized Signatory 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANK OF TEXAS, N.A.,
+as a Lender
+ 
+     
+
+     
+    By:  
+          /s/ Mike Delbridge
+ 
+     
+
+     
+     
+    Name:  
+    Mike Delbridge 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+     
+
+
+
+EIGHTH AMENDMENT TO THIRD AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+
+
+Signature Page
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+Annex 1
+
+
+
+Form of Amended and Restated Bylaws
+
+
+
+Annex 1
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+AMENDED AND RESTATED BYLAWS
+
+
+
+
+These Amended and Restated Bylaws are subject to, and governed by, the General Corporation Law
+of the State of Delaware (the Delaware General Corporation Law) and the certificate of
+incorporation (as the same may be amended and restated from time to time, the Certificate of
+Incorporation) of _________, a Delaware corporation (the Corporation).
+
+
+ARTICLE I
+
+
+
+Offices
+
+
+
+     Section 1.1 Registered Office. The registered office in the State of Delaware shall be in
+the City of Wilmington, County of New Castle, and the resident agent is The Corporation Trust
+Company. The registered office and registered agent of the Corporation shall be as designated from
+time to time by the appropriate filing by the Corporation in the office of the Secretary of State
+of the State of Delaware.
+
+
+     Section 1.2 Other Offices. The Corporation may also have offices at such other places both
+within and without the State of Delaware as the board of directors of the Corporation (the Board)
+may from time to time determine or the business of the Corporation may require.
+
+
+ARTICLE II
+
+
+
+Meetings of Stockholders
+
+
+
+     Section 2.1 Place of Meeting. All meetings of stockholders of the Corporation
+(Stockholders) for the election of directors of the Corporation (Directors) shall be held in
+the City of Fort Worth, Texas, or in such other places both within and without the State of
+Delaware as the Board may determine. The Board shall fix the place within Fort Worth, Texas for the
+holding of each meeting. Meetings of Stockholders for any other purpose may be held at such place,
+within or without the State of Delaware, and time as shall be stated in the notice of the meeting
+or in a duly executed waiver of notice thereof.
+
+
+
+     Section 2.2 Annual Meeting. The annual meeting of Stockholders (the Annual Meeting)
+shall be held at such date and time as the Board shall designate; provided, however, in lieu
+of the an Annual Meeting, the Stockholders may act pursuant to written consent as permitted
+by Section 2.15 of the these Bylaws and the Delaware General Corporation Law. The meeting
+shall be held for the purpose of electing by a plurality vote a Board and transacting such
+other business as may properly be brought before the meeting. If the election of Directors
+is not held on the day designated for any Annual Meeting, or at any adjournment, the Board
+shall cause the election to be held at a special meeting of the Stockholders as soon
+thereafter as conveniently possible. Except as otherwise permitted by law, no Stockholder
+shall require or have the right to require the Board to call an Annual Meeting.
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     Section 2.3 Special Meeting. Special meetings of the Stockholders, for any purpose or
+purposes, unless otherwise prescribed by statute or by the Certificate of Incorporation, may be
+called by the Chairman of the Board, the President or the Board, and shall be called by the
+Chairman of the Board or the President, or by the Secretary at the request in writing of
+Stockholders owning a majority in amount of the entire capital stock of the Corporation issued and
+outstanding and entitled to vote. The request shall state the purpose of the proposed meeting. The
+persons calling or requesting any special meeting shall fix the time and any place, either within
+or without the State of Delaware, as the place for holding the meeting. The only business that can
+be transacted at a special meeting is that which is specifically stated in the notice of the
+meeting or in a duly executed waiver of notice of the meeting.
+
+
+     Section 2.4 Notice of Meeting. Written notice of the Annual Meeting, and each special
+meeting of Stockholders, stating, in the case of a special meeting, the time, place and the
+business to be transacted, shall be served upon, mailed to or otherwise given to each Stockholder
+entitled to vote, at least ten (10) days but not more than sixty (60) days before the date of the
+meeting. If notice is to be sent by mail, it shall be directed to each Stockholder at the address
+as it appears on the records of the Corporation, unless the Stockholder has filed with the
+Secretary of the Corporation a written request that notices to be mailed to some other address, in
+which case notice shall be sent to the other address. Notice of any meeting of Stockholders is not
+be required to be given to any Stockholder who attends the meeting in person or by proxy and, at
+the beginning of the meeting, does not object to the transaction of any business asserting the
+meeting is not lawfully called or convened, or who either before or after the meeting, submits a
+signed waiver of notice, in person or by proxy.
+
+
+     Section 2.5 Quorum. The holders of a majority of the stock issued and outstanding and
+entitled to vote, present in person or represented by proxy, shall constitute a quorum at any
+meeting of Stockholders for the transaction of business except as otherwise provided by statute,
+the Certificate of Incorporation or these Bylaws. If a quorum is not present, in person or by
+proxy, at any meeting of Stockholders or any adjournment, the chairman of the meeting or a majority
+in interest of the Stockholders entitled to vote who are present, in person or by proxy, may
+adjourn the meeting from time to time, without notice other than announcement at the meeting
+(unless the Board, after the adjournment, fixes a new record date for the adjourned meeting), until
+a quorum is present, in person or by proxy. At any adjourned meeting at which a quorum is present,
+in person or by proxy, any business may be transacted that could have been transacted at the
+original meeting had a quorum been present; provided that, if the adjournment is for more than
+thirty (30) days or if after the adjournment a new record date is fixed for the adjourned meeting,
+a notice of the adjourned meeting shall be given to each Stockholder of record entitled to vote at
+the adjourned meeting as provided in Section 2.4.
+
+
+     Section 2.6 Voting. When a quorum is present at any meeting of Stockholders, the vote of the
+holders of a majority of the stock having voting power present in person or represented by proxy
+shall decide any question brought before the meeting, unless the question is one upon which a
+different percentage of the vote is required by express provision of the applicable Delaware
+statutes, the Certificate of Incorporation or these Bylaws. The Stockholders present at a meeting
+constituted in accordance with these Bylaws may continue to transact business until adjournment,
+even if Stockholders leave the meeting and the Stockholders remaining are less than a quorum. Every
+Stockholder with the right to vote is entitled to vote in
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+person, or by proxy appointed by a written document signed by the Stockholder, on a date not
+more than eleven months prior to voting, unless the written document provides for a longer period,
+and filed with the Secretary of the Corporation at the time of, the meeting.
+
+
+
+     If the written proxy designates two or more persons to act as proxies, unless the instrument
+provides to the contrary, a majority of such persons present at any meeting at which their powers
+thereunder are to be exercised shall have and may exercise all the powers of voting or giving
+consents thereby conferred, or if only one be present, then the powers may be exercised by that
+one; or, if an even number attend and a majority do not agree on any particular issue, each proxy
+so attending shall be entitled to exercise the proxys powers in respect of the same portion of the
+shares as he is of the proxies in attendance. Each Stockholder shall have one vote for each share
+of stock having voting power registered in his name on the books of the Corporation. Except where
+the transfer books of the Corporation shall have been closed or a date shall have been fixed as a
+record date for the determination of its Stockholders entitled to vote, no share of stock shall be
+voted at any election for Directors which has been transferred on the books of the Corporation
+within twenty (20) days preceding the election of Directors. No proxy shall be valid after three
+(3) years from the date of its execution, unless otherwise provided in the proxy. If no date is
+stated in a proxy, the proxy shall be presumed to have been executed on the date of the meeting at
+which it is first to be voted. Each proxy shall be revocable unless expressly provided therein to
+be irrevocable and coupled with an interest sufficient in law to support an irrevocable power or
+unless otherwise made irrevocable by law.
+
+
+     Section 2.7 Voting of Stock of Certain Holders. Shares standing in the name of another
+corporation, partnership, limited liability company or other entity, domestic or foreign, may be
+voted by such officer, agent or proxy as the governing documents of that entity may prescribe or,
+in the absence of such provision, as the board or other governing person or body of that entity may
+determine. Shares standing in the name of a deceased person may be voted by the executor or
+administrator of the deceased person, either in person or by proxy. Shares standing in the name of
+a guardian, conservator or trustee may be voted by such fiduciary, either in person or by proxy,
+but no such fiduciary shall be entitled to vote shares held in that fiduciary capacity without a
+transfer of the shares into the name of the fiduciary. Shares standing in the name of a receiver
+may be voted by the receiver. A Stockholder whose shares are pledged shall be entitled to vote
+those shares, unless in the transfer by the pledgor on the books of the Corporation he has
+expressly empowered the pledgee to vote the shares, in which case only the pledgee, or his proxy,
+may represent the shares and vote them.
+
+
+     Section 2.8 Treasury Stock. The Corporation shall not vote, directly or indirectly, shares
+of its own stock owned by it; and these shares shall not be counted in determining the total number
+of outstanding shares.
+
+
+     Section 2.9 Closing Transfer Books or Fixing Record Date. The Board may close the stock
+transfer books of the Corporation for a period not exceeding sixty (60) days preceding the date of
+any meeting of Stockholders, or the date for payment of any dividend or distribution, or the date
+for the allotment of rights or the date when any change, or conversion or exchange of capital stock
+shall go into effect or for a period not exceeding sixty (60) days in connection with obtaining the
+consent of Stockholders for any purpose. In lieu of closing the stock transfer books, the Board may
+fix in advance a date, not exceeding sixty (60) days preceding the date of any
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+meeting of Stockholders, or the date for payment of any dividend or distribution, or the date
+for the allotment of rights, or the date when any change, or conversion or exchange of capital
+stock shall go into effect, or a date in connection with obtaining written consent, as a record
+date for the determination of the Stockholders entitled to notice of, and to vote at, any meeting
+and any adjournment thereof, or entitled to receive payment of a dividend or distribution, or to
+any allotment of rights, or to exercise the rights in respect of any change, conversion or exchange
+of capital stock, or to give consent, and in each case those Stockholders and only those
+Stockholders as shall be Stockholders of record on the date so fixed shall be entitled to notice of
+the meeting to vote at the meeting or any adjournment thereof, or to receive payment of dividend or
+distribution, or to receive allotment of rights, or to exercise rights, or to give consent, as the
+case may be, notwithstanding any transfer of any stock on the books of the Corporation after any
+record date fixed as described above.
+
+
+
+     Section 2.10 Notice of Stockholder Business at Annual Meeting. At an Annual Meeting of the
+Stockholders, only such business shall be conducted as shall have been brought before the meeting
+(a) pursuant to the Corporations notice of meeting, (b) by or at the direction of a majority of
+the members of the Board, or (c) by any Stockholder of the Corporation of record at the time of
+giving of notice provided for in these Bylaws who shall be entitled to vote at such meeting.
+
+
+     Section 2.11 Order of Business. The order of business at all meetings of Stockholders shall
+be as determined by the chairman of the meeting.
+
+
+     Section 2.12 Conduct of Meeting. The Chairman of the Board, if office has been filled, and, if
+not or if the Chairman of the Board is absent or otherwise unable to act, the President shall
+preside at all meetings of Stockholders. The Secretary shall keep the records of each meeting of
+Stockholders. In the absence or inability to act of any officer, the officers duties shall be
+performed by the officer given the authority to act for such absent or non-acting officer under
+these Bylaws or by a person appointed by the meeting.
+
+
+     Section 2.13 Certain Rules of Procedure Relating to Stockholder Meetings. All Stockholder
+meetings, annual or special, shall be governed in accordance with the following rules:
+
+
+     (a) only Stockholders of record will be permitted to present motions from the floor at any
+meeting of Stockholders; and
+
+
+     (b) the chairman of the meeting shall preside over and conduct the meeting, and all questions
+of procedure or conduct of the meeting shall be decided solely by the chairman of the meeting. The
+chairman of the meeting shall have all power and authority vested in a presiding officer by law or
+practice to conduct an orderly meeting. Among other things, the chairman of the meeting shall have
+the power to adjourn or recess the meeting, to silence or expel persons to ensure the orderly
+conduct of the meeting, to declare motions or persons out of order, to prescribe rules of conduct
+and an agenda for the meeting, to impose reasonable time limits on questions and remarks by any
+Stockholder, to limit the number of questions a Stockholder may ask, to limit the nature of
+questions and comments to one subject matter at a time as dictated by any agenda for the meeting,
+to limit the number of speakers or persons addressing the chairman
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+of the meeting or the meeting, to determine when the polls shall be closed, to limit the
+attendance at the meeting to Stockholders of record, beneficial owners of stock who present letters
+from the record holders confirming their status as beneficial owners, and the proxies of record and
+beneficial holders, and to limit the number of proxies a Stockholder may name.
+
+
+
+     Section 2.14 Requests for Stockholder List. Stockholders shall have those rights afforded
+under Section 219 of the Delaware General Corporation Law to inspect a list of Stockholders during
+the ten (10) days preceding each meeting of Stockholders.
+
+
+     Section 2.15 Action without a Meeting. Unless otherwise restricted by the Certificate of
+Incorporation or these Bylaws, any action required or permitted to be taken at any meeting of the
+Stockholders may be taken by written consent without meeting, in accordance with the applicable
+provisions of the Delaware General Corporation Law. Directors may be appointed by the written
+consent of the Stockholders in lieu of the Annual Meeting if (a) the Stockholders unanimously
+approve the written consent, or (b) all of the directorships to which the Directors would be
+elected at the Annual Meeting are vacant and are filled by the written consent.
+
+
+ARTICLE III
+
+
+
+Board of Directors
+
+
+
+     Section 3.1 Powers. The business and affairs of the Corporation shall be managed by its
+Board, which may exercise all such powers of the Corporation and do all such lawful acts and things
+as are not by statute, the Certificate of Incorporation or these Bylaws directed or required to be
+exercised or done by the Stockholders.
+
+
+     Section 3.2 Number, Election and Term. The number of Directors that constitutes the whole
+Board shall be not less than three (3) nor more than five (5). This number of Directors shall, from
+time to time, be fixed and determined by the Directors and shall be set forth in the notice of any
+meeting of Stockholders held for the purpose of electing Directors. Election of Directors need not
+be by ballot. Except as provided in Sections 2.15 and 3.3, the Directors shall be elected at the
+Annual Meeting of Stockholders at which a quorum is present by a plurality of the votes of the
+shares present in person or represented by proxy and entitled to vote on the election of directors
+or a class of directors. Each Director elected shall hold office until the Annual Meeting of
+Stockholders of the Corporation next succeeding his election or until his successor is duly elected
+and qualified or until his earlier resignation as a Director or resignation as an officer or
+employee of the Corporation, Range Resources Corporation or any other entity directly or indirectly
+owned or controlled by Range Resources Corporation, or his removal. Directors need not be residents
+of Delaware or Stockholders of the Corporation. Range Resources Corporation and all other entities
+directly or indirectly owned or controlled by it are collectively called the Affiliates.
+
+
+     Section 3.3 Vacancies and Additional Directors. Any Director may resign at any time by
+written notice to the Corporation. Any resignation shall take effect at the date of receipt of
+notice or at any later time specified therein, and, unless otherwise specified therein, the
+acceptance of such resignation shall not be necessary to make it effective. If any vacancy occurs
+in the Board caused by death, resignation, retirement, disqualification or removal from office of
+any Director, or otherwise, or if any new directorship is created by an increase in the authorized
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+number of Directors, a majority of the Directors then in office, though less than a quorum,
+may choose a successor or fill the newly created directorship; and a Director so chosen shall hold
+office until the next election of the class for which the Director shall have been chosen, and
+until his successor shall be duly elected and shall qualify, unless sooner displaced. No decrease
+in the number of Directors constituting the entire Board shall have the effect of shortening the
+term of any incumbent Director.
+
+
+
+     Section 3.4 Chairman of the Board. From time to time, the Board may appoint a Director to
+serve as Chairman of the Board and preside over all meetings of Stockholders and meetings of the
+Board. By virtue of this office, he shall be a member of the Executive Committee if that committee
+is created. The Chairman of the Board shall perform such duties as may be designated by the Board
+or the Executive Committee, but he shall not be deemed an officer of the Corporation by reason of
+being appointed Chairman of the Board.
+
+
+     Section 3.5 Regular Meeting. A regular meeting of the Board shall be held each year, without
+other notice than these Bylaws, at the place of, and immediately following, the Annual Meeting of
+Stockholders; and other regular meetings of the Board shall be held each year, at such time and
+place as the Board may provide, by resolution, either within or without the State of Delaware,
+without other notice than such resolution.
+
+
+     Section 3.6 Special Meeting. A special meeting of the Board may be called by the Chairman of
+the Board or by the President and shall be called by the Secretary on the written request of a
+majority of the Directors. The Chairman of the Board or President so calling, or the Directors so
+requesting, any such meeting shall fix the time and any place, either within or without the State
+of Delaware, as the place for holding the meeting.
+
+
+     Section 3.7 Notice of Special Meeting. Written notice of special meetings of the Board shall
+be given to each Director at least twenty-four (24) hours prior to the time of such meeting. Any
+Director may waive notice of any meeting.
+
+
+     Section 3.8 Quorum. A majority of the Board shall constitute a quorum for the transaction of
+business at any meeting of the Board, and the act of a majority of the Directors present at any
+meeting at which there is a quorum shall be the act of the Board, except as may be otherwise
+specifically provided by statute, by the Certificate of Incorporation or by these Bylaws. If a
+quorum shall not be present at any meeting of the Board, the Directors present may adjourn the
+meeting from time to time, without notice other than announcement at the meeting, until a quorum
+shall be present. A majority of committee members shall constitute a quorum for the transaction of
+business at any meeting of a Board committee provided that fifty percent (50%) of the members of
+any committee of the Board shall constitute a quorum for transacting business at any meeting of
+such committee, if the committee is comprised of an even number of committee members.
+
+
+     Section 3.9 Action Without a Meeting. Unless otherwise restricted by the Certificate of
+Incorporation any action required or permitted to be taken at any meeting of the Board, or of any
+committee thereof, as provided in Article IV of these Bylaws, may be taken without a meeting, if a
+written consent is signed by all of the members of the Board or of a
+committee, as the case may be, and such written consent is filed with the minutes of
+proceedings of the Board or committee.
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     Section 3.10 Presumption of Assent. A Director of the Corporation who is present at a
+meeting of the Board at which action on any corporate matter is taken shall be conclusively
+presumed to have assented to the action taken unless his dissent shall be entered in the minutes of
+the meeting or unless he shall file his written dissent with the person acting as the Secretary of
+the meeting before the adjournment thereof or shall forward his dissent in the manner for giving
+the notice provided in Section 5.1 to the Secretary of the Corporation immediately after the
+adjournment of the meeting. This right to dissent shall not be available to a Director who voted in
+favor of an action.
+
+
+     Section 3.11 Compensation. Directors who are employees of the Corporation or any of the
+Affiliates shall not be entitled to any compensation for their services except for reimbursement of
+expenses of attendance, if any, for attendance at each regular or special meeting of the Board or
+any meeting of a committee of Directors. Directors who are not employees of the Corporation or any
+of the Affiliates shall be entitled to compensation as determined by the Board. No provision of
+these Bylaws shall be construed to preclude any Director from serving the Corporation in any other
+capacity and receiving compensation for those services.
+
+
+ARTICLE IV
+Committee of Directors
+
+
+
+     Section 4.1 Designation, Powers and Name. The Board may, by resolution passed by a majority
+of the whole Board, designate one or more committees, with each committee to consist of two or more
+of the Directors of the Corporation. Committees shall have and may exercise such of the powers of
+the Board in the management of the business and affairs of the Corporation, as may be provided in
+the resolution, and may authorize the seal of the Corporation to be affixed to all papers which may
+require it; provided, however, no committee shall have the power denied to committees by the
+Certificate of Incorporation or the Delaware General Corporation Law. A committee or committees
+shall have such name or names and such limitations of authority as may be determined from time to
+time by resolution adopted by the Board. The Board may also designate a member of any committee to
+be the chairman thereof, and the chairman shall preside at the meetings of the committee and shall
+perform such other duties as may be designated by the Board.
+
+
+     Section 4.2 Routine Matters Committee. Notwithstanding anything in these Bylaws to the
+contrary, (a) the President and all other appointed officers of the Corporation who are also
+Directors shall be ex officio members of the Routine Matters Committee, a standing committee of the
+Board which shall exist to consider routine matters that may come before the Corporation, and (b)
+the quorum for any action of this committee shall be two-thirds (2/3) of the Directors serving on
+the Routine Matters Committee. This committee shall have the authority to adopt standard form
+resolutions with the same force and effect as if the resolutions were adopted by the Board,
+provided those resolutions relate to routine matters in the business of the Corporation, and the
+committee promptly causes a copy of those resolutions to be placed in the Corporations minute book
+along with other minutes and
+
+
+
+Annex 1
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+resolutions of the Board. As used in this Section 4.2, routine matters that may come before
+the Corporation shall include, but not be limited to, (w) the opening of checking, money market,
+securities brokerage, commodities trading, and other similar accounts; (x) qualifying the
+Corporation to transact business in another jurisdiction and the appointment of agents for service
+of process; (y) investing or hedging the Corporations assets and the execution and delivery of
+related contracts; and (z) any matters or transactions that relate to matters or transactions
+previously approved by the Board of Directors of Range Resources Corporation. The Boards
+appointment of the President and any other Director(s) to be officer(s) of the Corporation shall
+automatically be appointment to this committee without further action.
+
+
+
+     Section 4.3 Minutes. Each committee of Directors shall keep regular minutes of its
+proceedings and report the same to the Board when required.
+
+
+     Section 4.4 Compensation. Members of a special or standing committee who are not employees
+of the Corporation or its affiliates may be allowed compensation for attending committee meetings,
+if the Board shall so determine.
+
+
+     Section 4.5 Reliance Upon Certain Statements, Etc. A Director serving on the Board or on any
+committee of the Board shall, in the performance of the Directors duties, be fully protected in
+relying in good faith upon the records of the Corporation and upon information, opinions, reports
+or statements presented to the Corporation by any of its officers or employees or committees of the
+Board, or by any other person as to matters the Director reasonably believes are within the other
+persons professional or expert competence and who has been selected with reasonable care by or on
+behalf of the Corporation.
+
+
+ARTICLE V
+Notice
+
+
+
+     Section 5.1 Methods of Giving Notice. Whenever under the provisions of the statutes, the
+Certificate of Incorporation or these Bylaws notice is required to be given to any Director, member
+of any committee or Stockholder, and no provision is made as to how the notice shall be given,
+personal notice shall not be required and the notice shall be given in writing, (a) by hand
+delivery, (b) by mail, postage prepaid, addressed to such committee member, Director or Stockholder
+at his address as it appears on the books or (in the case of a Stockholder) the stock transfer
+records of the Corporation, or (c) by any other method permitted by law (including but not limited
+to electronic notice by email, overnight courier service, or telefax). Notice shall be deemed
+delivered upon the earlier of actual receipt or the next business day after being sent as provided
+in the this Section 5.1.
+
+
+     Section 5.2 Written Waiver. Whenever any notice is required to be given under the provisions
+of the statutes, the Certificate of Incorporation or these Bylaws, a waiver thereof in writing,
+signed by the person or persons entitled to the notice, whether before or after the time stated
+therein, shall be deemed equivalent to notice. Attendance of a Stockholder, Director, or committee
+member at a meeting shall constitute a waiver of notice of the meeting, except where the person
+attends for the express purpose of objecting to the transaction of any business on the ground that
+the meeting is not lawfully called or convened.
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ARTICLE VI
+Officers
+
+
+
+     Section 6.1 Officers. The officers of the Corporation shall be a President, and a
+Secretary. The Board may appoint such other officers, including one or more Vice Presidents and a
+Treasurer, as it deems necessary, who shall hold their offices for such terms and shall exercise
+such powers and perform such duties as shall be determined by the Board. Any two or more offices,
+other than the offices of the President and Secretary, may be held by the same person. No officer
+shall execute, acknowledge, verify or countersign any instrument on behalf of the Corporation in
+more than one capacity, if that instrument is required by law, these Bylaws or any act of the
+Corporation to be executed, acknowledged, verified or countersigned by two or more officers. None
+of the other officers need be a Director, and none of the officers need be a Stockholder of the
+Corporation or a resident of the State of Delaware.
+
+
+     Section 6.2 Election and Term of Office. The officers of the Corporation may be elected from
+time to time by the Board. Each officer may be elected to hold office until his successor shall
+have been chosen and shall have qualified or until his death or the effective date of his
+resignation or removal, or until he shall cease to be an employee of the Corporation or any of the
+Affiliates.
+
+
+     Section 6.3 Removal and Resignation. Any officer or agent elected or appointed by the Board
+may be removed without cause by the affirmative vote of a majority of the Board, but removal shall
+be without prejudice to any separate contractual and other rights, if any, of the person so
+removed, including the right of indemnification for actions taken prior to removal and the
+advancing of expenses incurred in connection with any of the matters that may be entitled to
+indemnification. Any officer may resign at any time by giving notice to the Corporation. Any
+resignation shall take effect at the date of the receipt of such notice or at any later time
+specified therein, and, unless otherwise specified in the notice, the acceptance of such
+resignation shall not be necessary to make it effective.
+
+
+     Section 6.4 Vacancies. Any vacancy occurring in any office of the Corporation by death,
+resignation, removal or otherwise, may be filled by the Board.
+
+
+     Section 6.5 Salaries. The salaries of all officers and agents of the Corporation shall be
+fixed by the Board or pursuant to its direction and no officer shall be prevented from receiving
+such salary by reason of his also being a Director.
+
+
+     Section 6.6 President. The President shall be a member of the Board. By virtue of his office
+he shall be a member of the Executive Committee if such committee is created. In the absence of the
+Chairman of the Board (if such office is filled by the Board and it is not the same person as the
+President), the President shall preside at all meetings of the Board and the Stockholders. The
+President shall perform such duties as may be assigned to him by the Board, the Executive Committee
+or the Chairman of the Board (if the Chairman of the Board shall have been designated Chief
+Executive Officer).
+
+
+     Section 6.7 Chief Executive Officer. The President shall also serve as the Chief Executive
+Officer, and, subject to the control of the Board, shall be responsible for and control
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+the business and affairs of the Corporation. The Chief Executive Officer shall have the power
+to appoint and remove subordinate officers, agents and employees, except those elected or appointed
+by the Board. The Chief Executive Officer shall keep the Board and any Executive Committee fully
+informed and shall consult with them concerning the business of the Corporation. He may sign with
+the Secretary or any other officer of the Corporation thereunto authorized by the Board,
+certificates for shares of the Corporation and any deeds, bonds, mortgages, contracts, checks,
+notes, drafts or other instruments which the Board has authorized to be executed, except in cases
+where the signing and execution thereof has been expressly delegated by these Bylaws or by the
+Board to some other officer or agent of the Corporation, or shall be required by law to be
+otherwise executed. He shall vote, or give a proxy to any other officer of the Corporation to vote,
+all shares of the stock of any other corporation standing in the name of the Corporation and in
+general he shall perform all other duties as usually appertain to the Chief Executive Officer and
+such other duties as may be prescribed by the Stockholders, the Board or the Executive Committee
+from time to time.
+
+
+
+     Section 6.8 Vice Presidents. The Vice Presidents shall perform such duties as from time to
+time may be assigned to them by the Chief Executive Officer, the Board or, if appointed, the
+Executive Committee. Any Vice President may sign with the Secretary or any other officer of the
+Corporation thereunto authorized by the Board, certificates for shares of the Corporation and any
+deeds, bonds, mortgages, contracts, checks, notes, drafts or other instruments which the Board has
+authorized to be executed, except in cases where the signing and execution thereof has been
+expressly delegated by these Bylaws or by the Board to some other officer or agent of the
+Corporation, or shall be required by law to be otherwise executed.
+
+
+     Section 6.9 Secretary. The Secretary shall: (a) keep the minutes of the meetings of the
+Stockholders, the Board, the Executive Committee and such other committees as the Board shall
+designate; (b) see that all notices are duly given in accordance with the provisions of these
+Bylaws or as required by law; (c) keep or cause to be kept a register of the post office address of
+each Stockholder as furnished by the Stockholder; (d) sign with the President or a Vice-President
+certificates for shares of the Corporation, the issue of which shall have been authorized by
+resolution of the Board; (e) have general charge of the stock transfer books of the Corporation;
+and (f) in general, perform all duties incident to the office of Secretary and such other duties as
+from time to time may be assigned to him by the Chief Executive Officer, the Board or the Executive
+Committee.
+
+
+     Section 6.10 Treasurer. The Treasurer shall: (a) oversee all funds and securities of the
+Corporation; (b) prepare, or cause to be prepared, such reports as shall be requested by the
+Directors, the Executive Committee or the Chief Executive Officer; and (c) in general, perform all
+the duties incident to the office of Treasurer and such other duties as from time to time may be
+assigned to him by the Chief Executive Officer, the Board or the Executive Committee; provided,
+however, the Corporations books and records may be kept by a Stockholder of the Corporation if
+needed to facilitate the preparation of consolidated financial statements that include the
+Corporation.
+
+
+     Section 6.11 Assistant Secretary or Treasurer. Any Assistant Secretaries and Assistant
+Treasurers shall, in general, perform such duties as shall be assigned to them by the Secretary or
+the Treasurer, respectively, or by the Chief Executive Officer, the Board or the
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+Executive Committee. The Assistant Secretaries and Assistant Treasurers shall, in the absence
+of the Secretary or Treasurer, respectively, perform all functions and duties which such absent
+officers may delegate, but this delegation shall not relieve the absent officer from the
+responsibilities and liabilities of his office. The Assistant Secretaries may sign with the
+President or any Vice President certificates for shares of the Corporation, the issue of which
+shall have been authorized by a resolution of the Board.
+
+
+
+     Section 6.12 No Employment Contract. Notwithstanding anything herein to contrary, nothing in
+these Bylaws create any right of continued employment or an employment contract with respect to any
+of the Corporations Stockholders, Directors, officers, or employees.
+
+
+ARTICLE VII
+Contracts, Loans, Checks and Deposits
+
+
+
+     Section 7.1 Contracts. Any officer or officers is authorized to enter into any contract or
+execute and deliver any instrument in the name of and on behalf of the Corporation consistent with
+the established authorizations for that officer as shown in the records of the Corporation.
+
+
+     Section 7.2 Loans. No loans shall be contracted on behalf of the Corporation and no evidence
+of indebtedness shall be issued in its name unless authorized by the President or a resolution of
+the Board (or a resolution of a committee of Directors pursuant to authority conferred upon the
+committee). This authorization may be general or confined to specific instances.
+
+
+     Section 7.3 Checks, etc. All checks, demands, drafts or other orders for the payment of
+money, notes or other evidences of indebtedness issued in the name of the Corporation, shall be
+signed by an officer or officers of the Corporation, and in such manner, as shall be determined by
+the Board.
+
+
+     Section 7.4 Deposits. All funds of the Corporation not otherwise in use shall be deposited
+from time to time to the credit of the Corporation in such banks, trust companies or other
+depositories as the Routine Matters Committee may select.
+
+
+ARTICLE VIII
+Certificates of Stock
+
+
+
+     Section 8.1 Issuance. Each Stockholder of the Corporation whose shares have been fully paid
+up shall be entitled to a certificate or certificates showing the number of shares registered in
+his name on the books of the Corporation. The certificates of stock of the Corporation shall be in
+such form as may be determined by the Board, shall be issued in numerical order and shall be
+entered in the books of the Corporation as they are issued. Any certificates issued after the
+effective date of these bylaws shall exhibit the holders name and number of shares, shall be
+signed by the President and by the Secretary or an Assistant Secretary, shall bear the seal of the
+Corporation and shall be countersigned by any Transfer Agent and Registrar designated and appointed
+by the Board. If any stock certificate is signed (1) by a transfer agent or an assistant transfer
+agent, or (2) by a transfer clerk acting on behalf of the Corporation and a registrar, the
+signature of any such officer and the seal of the Corporation thereon may be facsimile. All
+certificates surrendered to the Corporation for transfer shall be
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+cancelled. No new certificate shall be issued until the former certificate for a like number
+of shares shall have been surrendered and cancelled, except that in the case of a lost, stolen,
+destroyed or mutilated certificate, a new one may be issued therefor upon such terms and with such
+indemnity (if any) to the Corporation as the Board may prescribe. Certificates shall not be issued
+representing fractional shares of stock.
+
+
+
+     Section 8.2 Lost Certificates. The Board may direct a new certificate or certificates to be
+issued in place of any certificate or certificates theretofore issued by the Corporation alleged to
+have been lost, stolen or destroyed, upon the making of an affidavit of that fact by the person
+claiming the certificate of stock to be lost, stolen or destroyed. When authorizing the issuance of
+a new certificate or certificates, the Board may, in its discretion as a condition precedent to the
+issuance thereof, require the owner of the lost, stolen or destroyed certificates, or his legal
+representative, to advertise the missing certificate in such manner as it shall require and/or to
+give the Corporation a bond in such sum as it may direct as indemnity against any claim that may be
+made against the Corporation with respect to the missing certificate.
+
+
+     Section 8.3 Transfers. Upon surrender to the Corporation or the transfer agent of the
+Corporation of a certificate for shares duly endorsed or accompanied by proper evidence of
+succession, assignment or authority to transfer, it shall be the duty of the Corporation to issue a
+new certificate to the appropriate person, cancel the old certificate and record the transaction
+upon its books. Transfer of shares shall be made only on the books of the Corporation by registered
+holder, or by his attorney-in-fact as authorized by power of attorney filed with the Secretary of
+the Corporation or the Transfer Agent.
+
+
+     Section 8.4 Registered Stockholders. The Corporation shall be entitled to treat the holder
+of record of any share or shares of stock as the holder in fact thereof and, accordingly, shall not
+be bound to recognize any equitable or other claim to or interest in such share or shares on the
+part of any other person, whether or not it shall have express or other notice thereof, except as
+otherwise provided by the laws of Delaware.
+
+
+     Section 8.5 Regulations. The Board shall have the power and authority to adopt all such
+rules and regulations as they may deem expedient concerning the issue, transfer and registration or
+the replacement of certificates for shares of stock of the Corporation.
+
+
+     Section 8.6 Legends. The Board shall have the power and authority to provide that
+certificates representing shares of stock bear such legends as the Board deems appropriate to
+assure that the Corporation does not become liable for violations of federal or state securities
+laws or other applicable law.
+
+
+ARTICLE IX
+Dividends
+
+
+
+     Section 9.1 Declaration. Dividends upon the capital stock of the Corporation, subject to the
+provisions of the Certificate of Incorporation, if any, may be declared by the Board at any regular
+or special meeting or by consent. Dividends may be paid in cash, in property, or in shares of the
+capital stock, subject to the provisions of the Certificate of Incorporation. Such declaration and
+payment shall be at the discretion of the Board.
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+     Section 9.2 Reserve. Before payment of any dividend, there may be set aside out of any funds
+of the Corporation available for dividends such sum or sums as the Directors from time to time, in
+their absolute discretion, think proper as a reserve or reserves to meet contingencies, or for
+equalizing dividends, or for repairing or maintaining any property of the Corporation, or for such
+other purpose as the Directors shall think conducive to the interest of the Corporation, and the
+Directors may modify or abolish any such reserve in the manner in which it was created.
+
+
+ARTICLE X
+Indemnification
+
+
+
+     Section 10.1 Right to Indemnification.
+
+
+     (a) Each person who was or is made a party or is threatened to be made a party to any
+threatened, pending or completed action, suit or proceeding, whether civil, criminal,
+administrative or investigative (other than an action by or in the right of the Corporation), by
+reason of the fact that he or she (or a person of whom he or she is a legal representative) is or
+was a Director or officer of the Corporation, or is or was serving or has agreed to serve at the
+request of the Corporation in any capacity, any corporation, limited liability company,
+partnership, joint venture, trust or other enterprise, including service with respect to employee
+benefit plans, whether the basis of such proceeding is alleged action in an official capacity as an
+officer, director, employee or agent, shall be indemnified and held harmless by the Corporation to
+the fullest extent authorized by the Delaware General Corporation Law, as the same exists or may be
+amended (but, in the case of such amendment, only to the extent that such amendment permits the
+Corporation to provide broader indemnification rights than permitted prior to such amendment),
+against all expense, liability and loss (including, without limitation, attorneys fees),
+judgments, fines, ERISA excise taxes or penalties and amounts paid or to be paid in settlement)
+actually and reasonably incurred or suffered by such person in connection therewith and such
+indemnification shall continue as to person who has ceased to be a director, officer, employee or
+agent and shall inure to the benefit of his or her heirs, executors and administrators, if the
+person acted in good faith and in a manner the person reasonably believed to be in or not opposed
+to the best interests of the Corporation, and, with respect to any criminal action or proceeding,
+had no reasonable cause to believe the persons conduct was unlawful. The termination of any
+action, suit or proceeding by judgment, order, settlement, conviction, or upon a plea of nolo
+contendere or its equivalent, shall not, of itself, create a presumption that the person did not
+act in good faith and in a manner which the person reasonably believed to be in or not opposed to
+the best interests of the Corporation, and, with respect to any criminal action or proceeding, had
+reasonable cause to believe that the persons conduct was unlawful.
+
+
+     (b) The Corporation shall indemnify any person who was or is a party or is threatened to be
+made a party to any threatened, pending or completed action or suit by or in the right of the
+Corporation to procure a judgment in its favor by reason of the fact that the person is or was a
+Director or officer of the Corporation, or is or was serving at the request of the Corporation as a
+director, manager or officer of another corporation, limited liability company, partnership, joint
+venture, trust or other enterprise against expenses (including attorneys fees) actually and
+reasonably incurred by the person in connection with the defense or settlement of such action or
+suit if the person acted in good faith and in a manner the person reasonably believed to be in or
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+not opposed to the best interests of the Corporation and except that no indemnification shall
+be made in respect of any claim, issue or matter as to which such person shall have been adjudged
+to be liable to the Corporation unless and only to the extent that the Delaware Court of Chancery
+or the court in which such action or suit was brought shall determine upon application that,
+despite the adjudication of liability but in view of all the circumstances of the case, such person
+is fairly and reasonably entitled to indemnity for such expenses which the Delaware Court of
+Chancery or such other court shall deem proper.
+
+
+
+     (c) To the extent that a present or former Director or officer of the Corporation has been
+successful on the merits or otherwise in defense of any action, suit or proceeding referred to in
+subsections (a) and (b) of this Section 10.1, or in defense of any claim, issue or matter therein,
+such person shall be indemnified against expenses (including attorneys fees) actually and
+reasonably incurred by such person in connection therewith.
+
+
+     (d) Any indemnification under subsections (a) and (b) of this Section 10.1 (unless ordered by
+a court) shall be made by the Corporation only as authorized in the specific case upon a
+determination that indemnification of the present or former Director or officer is proper in the
+circumstances because the person has met the applicable standard of conduct set forth in
+subsections (a) and (b) of this Section 10.1. This determination shall be made, with respect to a
+person who is a Director or officer at the time of such determination, (1) by a majority vote of
+the Directors who are not parties to such action, suit or proceeding, even though less than a
+quorum, or (2) by a committee of such Directors designated by majority vote of such Directors, even
+though less than a quorum, or (3) if there are no such Directors, or if such directors so direct,
+by independent legal counsel in a written opinion, or (4) by the Stockholders.
+
+
+     (e) Upon authorization of the Board and subject to any limitations or conditions imposed by
+it, the Corporation may indemnify its employees and agents to the same extent and in the same
+manner provided to Directors and officers in this Section 10.1. Also, the Board may authorize the
+advancing of expenses to its employees and agents to the same extent provided to Directors and
+officers in Section 10.2 subject to any limitations or conditions the Board may deem appropriate.
+
+
+     Section 10.2 Advances for Expenses. Expenses (including attorneys fees) incurred by an
+officer or Director in defending any civil, criminal, administrative or investigative action, suit
+or proceeding may be paid by the Corporation in advance of the final disposition of such action,
+suit or proceeding upon receipt of an undertaking by or on behalf of such Director or officer to
+repay such amount if it shall ultimately be determined that such person is not entitled to be
+indemnified by the Corporation as authorized in this section. Such expenses (including attorneys
+fees) incurred by former Directors and officers or other employees and agents may be so paid upon
+such terms and conditions, if any, as the Corporation deems appropriate
+
+
+     Section 10.3 Non-Exclusivity of Rights. The right to indemnification and the payment of
+expenses incurred in defending a proceeding in advance of its final disposition conferred in this
+Section shall not be exclusive of any other right which any person may have or hereafter acquire
+under any statute, provision of the Certificate of Incorporation, these Bylaws, agreement, vote of
+stockholders or disinterested Directors or otherwise.
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+     Section 10.4 Insurance. The Corporation may maintain insurance, at its expense, to
+protect itself and any Director, officer, employee or agent of the Corporation or another
+corporation, partnership, joint venture, trust or other enterprise against any such expense,
+liability or loss, whether or not the Corporation would have the power to indemnify such
+person against such expense, liability or loss under the Delaware General Corporation Law.
+
+
+
+     Section 10.5 Savings Clause. If all or any part of Article X is invalidated on any
+ground by any court of competent jurisidiction, then the Corporation shall nevertheless
+indemnify and hold harmless each current, former or proposed Director and officer of the
+Corporation, as to costs, charges and expenses (including attorneys fees), judgments,
+fines, and amounts paid in settlement with respect to any action, suit or proceeding,
+whether civil, criminal, administrative or investigative to the full extent permitted by any
+applicable portion of this Article X that is invalidated and to the fullest extent permitted
+by applicable law.
+
+
+ARTICLE XI
+Miscellaneous
+
+
+
+     Section 11.1 Fiscal Year. The fiscal year of the Corporation shall be determined by the
+Board.
+
+
+     Section 11.2 Books. The books of the Corporation may be kept (subject to any provisions
+contained in the statutes) outside the State of Delaware at the offices of the Corporation in Fort
+Worth, Texas, or at such other place or places as may be designated from time to time by the Board.
+
+
+     Section 11.3 Securities of Other Corporations. The Chairman of the Board, the President, or
+any Vice President, the Corporation shall have the power and authority to transfer, endorse for
+transfer, vote, consent, or take any other action with respect to any securities of another issuer
+which may be held or owned by the Corporation and to make, execute, and deliver any waiver, proxy
+or consent with respect to any such securities.
+
+
+     Section 11.4 Telephone Meetings. Stockholders (acting for themselves or through a proxy),
+members of the Board and members of a committee of the Board may participate in and hold a meeting
+of the Stockholders, Board or committee by means of a conference telephone or similar
+communications equipment by means of which persons participating in the meeting can hear each
+other, and participation in a meeting pursuant to this section shall constitute presence in person
+at such meeting, except where a person participates in the meeting for the express purpose of
+objecting to the transaction of any business on the ground that the meeting is not lawfully called
+or convened.
+
+
+     Section 11.5 Inspection of Books and Records. A request to inspect the Corporations books
+and records shall be in writing and otherwise comply with Section 220 of the Delaware General
+Corporation Law. In addition, any Stockholder making such a request must agree that any information
+so inspected, copied or extracted by the Stockholder shall be kept confidential, that any copies or
+extracts of such information shall be returned to the
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+Corporation and that information shall only be used for the purpose stated in the request.
+Information so requested shall be made available for inspecting, copying or extracting at the
+principal executive offices of the Corporation.
+
+
+
+     Section 11.6 Invalid Provisions. If any part of these Bylaws shall be held invalid or
+inoperative for any reason, the remaining parts, so far as it is possible and reasonable, shall
+remain valid and operative.
+
+
+     Section 11.7 Mortgages, etc. With respect to any deed, deed of trust, mortgage or other
+instrument executed by the Corporation through its duly authorized officer or officers, the
+attestation to the execution by the Secretary of the Corporation shall not be necessary to
+constitute such deed, deed of trust, mortgage or other instrument a valid and binding obligation
+against the Corporation unless the resolutions, if any, of the Board authorizing such execution
+expressly state that such attestation is necessary.
+
+
+     Section 11.8 Headings. The headings used in these Bylaws have been inserted for
+administrative convenience only and do not constitute matter to be construed in interpretation.
+
+
+     Section 11.9 References. Whenever herein the singular number is used, the same shall include
+the plural where appropriate, and words of any gender should include each other gender where
+appropriate.
+
+
+ARTICLE XII
+Amendment
+
+
+
+
+     These Bylaws may be altered, amended or repealed by a majority of the Board present at
+any regular meeting of the Board without prior notice, or at any special meeting of the
+Board if notice of such alteration, amendment or repeal be contained in the notice of such
+special meeting. In addition to any affirmative vote of the holders of any particular class
+or series of the capital stock of the Corporation required by law or by the Certificate of
+Incorporation of the Corporation, the affirmative vote of the holders of not less than
+eighty percent (80%) of the outstanding shares of the Corporation then entitled to vote upon
+the election of directors, voting together as a single class, shall be required for the
+alteration, amendment, or repeal of the Bylaws or adoption of new Bylaws by the Stockholders
+of the Corporation.
+
+
+
+Annex 1
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+     IN WITNESS WHEREOF, the undersigned Directors and Stockholders adopted these Amended and
+Restated Bylaws as of the 30th day of June, 2009.
+
+
+
+
+
+     
+     
+     
+     
+
+
+
+
+     
+    DIRECTORS:
+     
+     
+
+
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+
+
+
+
+     
+    John S. Pinkerton
+     
+     
+
+
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+
+
+
+
+     
+    Roger S. Manny
+     
+     
+
+
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+
+
+
+
+     
+    Rodney L. Waller
+     
+     
+
+
+     
+     
+     
+     
+
+
+     
+    STOCKHOLDER:
+     
+     
+
+
+     
+     
+     
+     
+
+
+     
+    [                                                            ]
+     
+     
+
+
+     
+     
+     
+     
+
+
+     
+
+By:                                                                                     
+     
+     
+
+
+     
+     
+     
+     
+
+
+     
+                                                     ,
+                                         
+     
+     
+
+
+
+
+
+
+Annex 1
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+Annex 2
+
+
+
+Form of Amended and Restated Company Agreement
+
+
+
+Annex 2
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+AMENDED AND RESTATED
+COMPANY AGREEMENT
+OF
+
+
+ 
+
+     This Amended and Restated Company Agreement (this Agreement, as it may be amended from time
+to time as provided below) for                     , a Delaware limited liability company (the Company) is
+made and entered into effective as of June 30, 2009 (the Effective Date), by                      as
+the sole member of the Company (the Member) and accepted by the Company.
+
+
+Recitals
+
+
+
+     WHEREAS, the Company was formed as a limited liability company under the Delaware Limited
+Liability Company Act, as it may be amended from time to time (the DLLCA), by filing a
+Certificate of Formation with the Secretary of State of the State of Delaware;
+
+
+     WHEREAS, the Member desires to amend and restate in its entirety any and all company
+agreements previously executed or adopted by the Member or its predecessor, if any; and
+
+
+     WHEREAS, the Member desires to enter into this Agreement to set for the Members rights and
+obligations and other matters with respect to the Company.
+
+
+     NOW, THEREFORE, in consideration of the promises, covenants and provisions hereinafter
+contained, the Member hereby adopts the following:
+
+
+Agreement
+
+
+
+ARTICLE I
+
+
+
+Organizational and Other Matters
+
+
+
+     Section 1.1 Organization; Admission. The Company was organized as a limited liability
+company pursuant to Section 18-201 of the DLLCA by filing the Certificate of Formation (the
+Certificate) with the Secretary of the State of Delaware. The sole Member of the Company is
+                    .
+
+
+     Section 1.2 Name. The name of the Company is ___, and the business of
+the Company is conducted under such name. The Member may, in its sole discretion, change the name
+of the Company from time to time. In any such event, the change shall be effective upon the Member
+filing or causing to be filed in the office of the Secretary of the State of Delaware an amendment
+to the Certificate reflecting such change of name.
+
+
+     Section 1.3 Limited Liability. Except as otherwise provided by the DLLCA, the debts,
+obligations and liabilities of the Company, whether arising in contract, tort or otherwise,
+
+
+Annex 2
+
+
+
+ 
+
+
+
+
+ 
+
+
+shall
+be the debts, obligations and liability solely of the Company, and the Member shall not be
+obligated personally for any such debts, obligations or liabilities by reason of being a Member.
+
+
+
+     Section 1.4 Registered Office and Agent. The address of the Companys registered office
+(required by 18-104 of the DLLCA to be maintained in the State of Delaware) shall be The
+Corporation Trust Center, 1209 Orange Street, Wilmington, Delaware 19801 and the name of the
+Companys registered agent at such address is The Corporation Trust Company. The Companys
+principal place of business shall be 100 Throckmorton Street, Suite 1200, Fort Worth, Texas 76102.
+The Company may change the registered office, registered agent, or place of business from time to
+time. The Company may from time to time have such other place or places of business within or
+without the State of Delaware as may be determined by the Member.
+
+
+     Section 1.5 Fiscal Year. The fiscal year of the Company shall be the calendar year unless,
+for United States federal income tax purposes, another fiscal year is required. The Company shall
+have the same fiscal year for United States federal income tax purposes and for accounting
+purposes.
+
+
+     Section 1.6 No State-Law Partnership. The Company shall not be a partnership or joint
+venture for any reason other than for United States federal income and state tax purposes, and no
+provision of this Agreement shall be construed otherwise.
+
+
+     Section 1.7 Company Property. All real and personal property owned by the Company shall be
+deemed owned by the Company as an entity and held in its name. No Member shall have any ownership
+interest in any Company property by any reason of his interest in the Company.
+
+
+     Section 1.8 Merger and Conversion. The Company may merge with, or convert into, another
+entity only in accordance with a plan of merger or conversion approved by the Member.
+
+
+ARTICLE II
+
+
+
+Purpose and Powers
+
+
+
+     Section 2.1 Purpose of the Company. The purpose of the Company shall be to engage or
+participate in any lawful business activities in which a limited liability company formed in the
+State of Delaware may engage or participate.
+
+
+     Section 2.2 Powers of the Company. The Company shall have the power to do any and all acts
+reasonably necessary, appropriate, proper, advisable, incidental or convenient to or for the
+furtherance of the purpose and business described herein and for the protection and benefit of the
+Company.
+
+
+ARTICLE III
+
+
+
+Members and Interests
+
+
+
+Annex 2
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+     Section 3.1 Current Members. The Person executing this Agreement as a Member is the sole
+Member of the Company, and there are no other Members.
+
+
+     Section 3.2 Capital Contributions.
+
+
+
+(a) Indirect or direct consideration has previously been given by the Member.
+
+
+
+(b) No Member shall have any obligations to make any contribution to the Company.
+
+
+     Section 3.3 Admission of Additional Limited Members. The Board of Managers may cause the
+Company to issue additional ownership interests in the Company (the Interests) and may admit an
+additional Person to the Company as a Member on such terms as the Board of Managers shall
+determine, if but only if each such new Member agrees in writing to be bound by the provisions of
+this Agreement as a Member and notifies the other Members of its address for notices under this
+Agreement.
+
+
+     Section 3.4 Members Generally. The Members shall have no authority to take part in the
+control, conduct or operation of the Company and shall have no right or authority to act for or
+bind the Company, including during the winding up of the Company. Other than as specifically
+provided in this Agreement or non-waivable provisions of the DLLCA, no Member shall have the right
+to vote upon any matter concerning the business and affairs of the Company.
+
+
+     Section 3.5 Compensation of Members. No Member shall receive any compensation for its
+services to the Company.
+
+ARTICLE IV
+Distributions
+
+
+
+     The Member shall decide whether and in what amounts assets of the Company shall be distributed
+to the Member, subject to the requirements of applicable law. All amounts distributed to a Member,
+if any, shall be distributed in proportion to the Members sharing percentage show opposite each
+Members signature of this Agreement.
+
+ARTICLE V
+Management of the Company
+
+
+
+     Section 5.1 Management by Managers. Subject to the provisions of Section 5.2 and the
+rights and powers, statutory or otherwise, possessed by a member of a limited liability company
+under the DLLCA, the powers of the Company shall be exercised by or under the authority of, and the
+business and affairs of the Company shall be managed under the direction of, one or more managers
+of the Company (each, a Manager and collectively, the Managers), and any Manager, acting alone,
+has the authority to act on behalf of, and to bind, the Company. Each Manager shall be a natural
+person.
+
+
+     Section 5.2 Decisions Requiring Member Consent. Notwithstanding any power or authority
+granted to the Managers under the DLLCA or this Agreement, the Managers may not make any decision
+or take any action for which the consent of the Member is expressly required by the DLLCA or this
+Agreement without first obtaining such consent of the Member as so required.
+
+
+Annex 2
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+     Section 5.3 Selection of Managers. The number of Managers of the Company shall be three,
+unless such number is changed by the consent of the Member. The Managers on the Effective Date of
+this Agreement shall be John H. Pinkerton, Roger S. Manny and Rodney L. Waller. Managers need not
+be Members or residents of the State of Delaware. Each Manager (whether an initial or successor
+Manager) shall cease to be a Manager upon the earliest to occur of the following events: (a) a
+successor to a Manager shall be appointed by the Member, (b) the Manager shall be removed, with or
+without cause, by the action of the Member at a meeting of the Member called for that purpose or by
+written consent of the Member; (c) the Manager shall resign as a Manager or as an officer or
+employee of the Company, Range Resources Corporation or any other company directly or indirectly
+controlled or owned by Range Resources Corporation, by giving written notice of resignation to the
+Company; or (d) the death of the Manager shall die. Any vacancy in any Manager position may be
+filled by the action of the Member at a meeting of the Member, or by written consent of a majority
+of the remaining Managers, though less than a quorum of the Managers. Range Resources Corporation
+and all other entities directly or indirectly owned or controlled by it are collectively called
+Affiliates.
+
+
+     Section 5.4 Meetings of the Mangers. Regular meetings of the Managers as a board of
+managers (the Board) are not required, but may be held on such dates and at such times as shall
+be determined by the Managers, with notice of the establishment of such regular meeting schedule
+being given to each Manager who was not present at the meeting at which it was adopted. Special
+meetings of the Managers may be called by any Manager by notice thereof (specifying the place and
+time of such meeting) that is delivered to each other Manager at least 24 hours prior to the
+meeting. The notice or the waiver of notice need not specify either the business to be transacted
+or the purpose of the special meeting. Unless otherwise expressly provided in this Agreement, at
+any meeting of the Managers, a majority of the Managers shall constitute a quorum for the
+transaction of business, and an act of a majority of the Managers who are present at such a meeting
+at which a quorum is present shall be the act of the managers. Managers may vote in person or by
+proxy.
+
+
+     Section 5.5 Action Without a Meeting; Resolutions In Ordinary Course. Any action required
+or permitted to be taken at any meeting of the Board, or any committee designated by the Board, may
+be taken without a meeting if at least two-thirds (2/3) of the Managers serving on the Board or on
+a committee of the Board as the case may be, consent in writing to the action under consideration,
+and the consent or consents are filed with the minutes of proceedings of the Board or committee. A
+written consent shall have the same force and effect as a vote at a meeting. In addition, (a) any
+two of the Managers or (b) the President together with any Vice President of the Company shall have
+the authority to adopt standard form resolutions with the same force and effect as if the
+resolutions were adopted by the Board, provided those resolutions relate to routine matters in the
+business of the Company, and the Manager, President or Vice President promptly causes a copy of
+those resolutions to be placed in the Companys minute book along with the other minutes and
+resolutions of the Board. As used in this Section 5.5, routine matters in the course of the
+Companys business shall include, but not be limited to, (a) the opening of checking, money
+market, securities brokerage, commodities trading, and other similar accounts, (b) qualifying the
+
+
+Annex 2
+
+
+
+ 
+
+
+
+
+ 
+
+
+Company to transact business in another jurisdiction and the appointment of agents for service of
+process; (c) investing or hedging the Companys assets and the execution and delivery of related
+contracts, and (d) any matters or transactions that relate to matters or transactions previously
+approved by the Board of Directors of Range Resources Corporation including guaranteeing the
+indebtedness of Range Resources Corporation.
+
+
+
+     Section 5.6 Conference Call Meeting. The Board, or members of any committee designated by
+the Board, may participate in a meeting of such Board or committee, as the case may be, by means of
+a conference telephone or similar communications equipment by means of which all persons
+participating in the meeting can hear each other, and participation in such a meeting shall
+constitute presence in person at such meeting, except where a person participates in the meeting
+for the express purpose of objecting to the transaction of any business on the ground that the
+meeting is not lawfully called or convened.
+
+
+     Section 5.7 Waiver of Notice Through Attendance. Attendance of a Manager at any meeting of
+the Board or any committee thereof (including by telephone) shall constitute a waiver of notice of
+such meeting, except where the Manager attends the meeting for the express purpose of objecting to
+the transaction of any business on the ground that the meeting is not lawfully called or convened.
+
+
+     Section 5.8 Reliance on Books, Reports and Records. A Member, Manager or liquidating
+trustee shall be fully protected in relying in good faith upon the records of the Company and upon
+information, opinions, reports or statements presented by another Member, Manager, liquidating
+trustee, an officer or employee of the Company or committees of the Company or any other person as
+to matters the relying person reasonably believes are within the other persons professional or
+expert competence, including information, opinions, reports or statements as to the value and
+amount of assets, liabilities, profits or losses of the Company or the value and amount of assets
+or reserves or contracts, agreements or other undertakings that would be sufficient to pay claims
+and obligations of the Company or to make reasonable provision to pay those claims and obligations,
+or any other facts pertinent to the existence and amount of assets from which distributions might
+be made to the Member or creditors might be properly paid. To the extent permitted by Delaware
+law, the officers may also rely on the information, opinions, reports and statements of other
+persons in the manner and with the same protection provided in the preceding sentence.
+
+
+Annex 2
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+     Section 5.9 Actions By Members, Managers & Officers. No member or the Manager, or any of
+their respective officers, directors, shareholders, constituent partners, managers, members,
+trustees, representatives, agents or employees, shall be liable to the Company or to any of the
+other Members for any action taken (or any failure to act) by it in good faith on behalf of the
+Company and reasonably believed by it to be authorized or within the scope of its authority, unless
+that action (or failure to act) constitutes fraud, gross negligence, bad faith or willful
+misconduct, and then only to the extent otherwise provided by law.
+
+
+     Section 5.10 Officers.
+
+
+     (a) Authority to Appoint; Powers. The Managers may appoint, and remove with or
+without cause, such officers of the Company as the Managers from time to time may determine, in
+their sole and absolute discretion to manage and control the business and affairs of the Company.
+Officers need not be Members or Managers. The Member and the Company contemplate that Managers
+acting separately (and not as the Board) and officers of the Company will conduct the business of
+the Company without the formality of frequent meetings of the Board or obtaining written consent of
+two-thirds (2/3) of the Managers. Therefore, in accordance with the provisions of the DLLCA, the
+Member and the Company agree and consent that, except as provided in the following sentence or as
+required by the DLLCA, any of the Managers, the President or any Vice President shall have full
+authority to transact the business of the Company in all regards without the formality of Board or
+Member approval, including without limitation the authority (i) to declare and make distributions,
+(ii) to sell or transfer assets of the Company so long as those assets are not all or substantially
+all of the assets of the Company, (iii) to encumber any or all of the Companys assets to secure
+funded indebtedness of the Company or any of the Affiliates, (iv) to enter into leases, contracts
+and agreements in the ordinary course of the Companys business without regard to the amount or
+duration of the leases, contracts or agreements, and (v) to conduct any other activities consistent
+with matters or transactions previously approved by the Board of Directors of Range Resources
+Corporation or to enter into contracts, agreements, deeds of trust, guarantees, derivatives
+contracts and other documents pertaining to those matters or transactions. Notwithstanding
+anything herein to the contrary, the powers granted to a Manager acting separately and officers of
+the Company shall not include (1) the power to amend this Agreement or the Certificate; (2) the
+admission of one or more other persons as Members of the Company, whether by new issuance of
+interests in the Company or total or partial transfer of the current Members interest in the
+Company; (3) any activity that is unlawful or violates the resolutions or policies adopted by the
+Companys Board or the Board of Directors of Range Resources Corporation, (4) action calling for
+the dissolution, merger or consolidation of the Company or a sale of substantially all of its
+assets, (5) any matter in which the approving Manager, President or Vice President or any member of
+his family has a financial interest or an interest adverse to the Company, Range Resources
+Corporation or any company directly or indirectly controlled or owned by Range Resources
+Corporation, and (6) to do anything contrary to the provisions of this Agreement or the Companys
+Certificate. The powers granted in this subsection 5.10(a) of this Agreement are in addition to
+the powers described in Section 5.5 of this Agreement.
+
+
+     (b) Term. Subject to any express term of any written agreement between the Company
+and any officer approved by the Managers in writing, any officer so appointed by the
+
+
+Annex 2
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Managers shall serve in the capacity so appointed until (i) removed with or without cause by
+the Managers, (ii) the officers successor shall be duly elected and appointed by the Managers or
+(iii) the officers death, disability or resignation.
+
+
+
+     (c) Titles. To the extent appointed by the Managers, the officers of the Company may
+be a President, a Secretary, one or more Vice Presidents (any one or more of whom may be designated
+to a class of Vice Presidents), a Treasurer and such other officers as the Managers may from time
+to time elect or appoint. Any number of offices may be held by the same person.
+
+
+     (d) Salaries. Subject to any express terms of any written agreement between the
+Company and any officer that was approved by the Managers in writing, the salaries or other
+compensation of the officers and agents of the Company shall be fixed from time to time by the
+Managers. Nothing in this Agreement shall be deemed to constitute an assurance of continued
+employment or an employment agreement for any Manager or officer of the Company.
+
+
+     (e) Vacancies. Any vacancy occurring in any office of the Company may be filled by
+the Managers.
+
+
+     (f) Chairman of the Board. If appointed, Chairman of the Board shall be a member of
+the Board. By virtue of his office he shall be a member of the Executive Committee if that
+committee be created. He shall preside at all meetings of the Board and Members.
+
+
+     (g) President. The President shall be a member of the Board. By virtue of his office
+he shall be the Companys chief executive officer and a member of the Executive Committee if that
+committee is created. In the absence of the Chairman of the Board, the President shall preside at
+all meetings of the Board. The President shall supervise and direct the operations of the Company
+and shall perform such other duties as may be assigned to him. He may sign with the Secretary, or
+any other authorized officer of the Corporation, any instruments which the Board has authorized to
+be executed.
+
+
+     (h) Vice Presidents. The Vice Presidents shall perform such duties as from time to
+time may be assigned to them by the President, the Board or the Executive Committee. The Board may
+appoint Vice Presidents in classes.
+
+
+     (i) Secretary. The Secretary shall: (a) keep the minutes of the meetings of the
+Members, the Board, the Executive Committee and such other committees as the Board shall designate;
+(b) see that all notices are duly given in accordance with the provisions of these Bylaws or as
+required by law; (c) keep or cause to be kept a register of the post office address of each Member,
+and (d) perform all duties incident to the office of Secretary and such other duties as from time
+to time may be assigned to him.
+
+
+     (j) Treasurer. If required by the Board, the Treasurer shall give a bond for the
+faithful discharge of his duties in such sum and with such surety or sureties as the Board shall
+determine. He shall such duties related to the Companys cash and its books and records as may be
+assigned to him by the Board.
+
+
+Annex 2
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+     (k) Assistant Secretary or Treasurer. The Assistant Secretaries and Assistant
+Treasurers shall, in the absence of the Secretary or Treasurer, respectively, perform all functions
+and duties which such absent officers may delegate, but any such delegation shall not relieve the
+absent officer from the responsibilities and liabilities of his office.
+
+
+ARTICLE VI
+
+
+
+Liability and Indemnification
+
+
+
+     Section 6.1 Liability Limitation. No Member or Manager is liable to any other Member or
+the Company for any act or omission made in good faith relating to the Members or Managers status
+as a Member or Manager, or in the course of the performance of the Members or Managers right and
+obligations under this Agreement; provided, however, that a Member or Manager is liable to other
+Members or the Company for damages caused by any act or omission resulting form the Members or
+Managers fraud, gross negligence, willful misconduct, or intentional breach of any provision of
+this Agreement.
+
+
+Section 6.2 Indemnity. The Company shall indemnify and hold each Member, each Manager and each
+office appointed by the Board harmless for and from all assessments, costs, damages, expenses,
+fines, judgments, liabilities, losses, penalties, and reasonable attorneys and paralegals fees
+and disbursements incurred by the Member, the Manager or officer by reason of any act or omission
+performed or omitted by the Member. the Manager or officer on behalf of the Company; provided,
+however, a Member, Manager or officer shall not be indemnified by the Company for any of the
+foregoing resulting from the Manager fraud, gross negligence, willful misconduct, or intentional
+breach of any provision of this Agreement. The Company shall, upon approval of the Board, have the
+power, but not the obligation, to indemnify any individual, other than a Manager, who is or was an
+employee or agent of the Company to the same extent as if such individual was a Member or Manager.
+
+
+     Section 6.3 Advances. Expenses (including attorneys fees) incurred by a Member, Manager or
+officer of the Company in defending any civil, criminal, administrative or investigative action,
+suit or proceeding may be paid by the Company in advance of the final disposition of such action,
+suit or proceeding upon receipt of an undertaking by or on behalf of the Member, Manager or officer
+of the Company to repay such amount if it shall ultimately be determined that such person is not
+entitled to be indemnified by the Company as authorized in this section. Expenses (including
+attorneys fees) incurred by a former Member, Manager or officer of the Company or other employees
+and agents may be so paid with such limitations, terms and conditions, if any, as the Board deems
+appropriate.
+
+
+ARTICLE VII
+
+
+
+Assignment of Membership Interests
+
+
+
+     The Member may assign all or any portion of such Members interest in the Company at any time.
+Upon any such assignment, (i) the assignee shall succeed to the rights and obligations of the
+member in respect of its interest transferred, (ii) upon the assignment of 100% of the outstanding
+interest in the Company held by a single member to one or more assignees, each assignee shall
+become a Member of the Company, and (iii) upon any other assignment of an interest in the Company,
+the assignee shall become a Member in the Company upon the consent
+
+
+Annex 2
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+of all Members other than the assigning Member or, if the assigning member shall be the sole
+member immediately prior to such assignment, upon the consent of the assigning Member.
+Notwithstanding anything to the contrary contained herein, no transfer of a Members interest in
+the Company shall operate to dissolve the Company.
+
+
+
+ARTICLE VIII
+Dissolution and Liquidation
+
+
+
+     Section 8.1 Dissolution. The Company shall be dissolved upon the occurrence of any
+dissolution event specified in the DLLCA; provided, however, that the Company shall not dissolve
+upon the occurrence of any of the events described in Section 18-801(a)(4) of the DLLCA (including,
+without limitation, the death or bankruptcy of the Member.
+
+
+
+Section 8.2 Effect of Dissolution. Upon dissolution, the Company shall cease carrying on its
+business but shall not terminate until the winding up of the affairs of the Company is
+completed, the assets of the Company shall have been distributed as provided below and a
+Certificate of Cancellation of the Company under the DLLCA has been filed in the office of the
+Secretary of State of the State of Delaware.
+
+
+     Section 8.3 Liquidation Upon Dissolution. Upon the dissolution of the Company, sole and
+plenary authority to effectuate the liquidation of the assets of the Company shall be vested in the
+Member, which shall have full power and authority to sell, assign and encumber any and all of the
+Companys assets and to wind up and liquidate the affairs of the Company in an orderly and
+business-like manner. The proceeds of liquidation of the assets of the Company distributable upon
+a dissolution and winding up of the Company shall be applied in the following order of priority.
+
+
+
+
+
+
+     
+    (a)
+     
+    first, to the creditors of the Company, including a creditor who is the
+Member, in the order of priority provided by law or contract, in satisfaction of all
+liabilities and obligations of the Company (of any nature whatsoever, including without
+limitation, fixed or contingent, matured or unmatured, legal or equitable, secured or
+unsecured), whether by payment or the making of reasonable provision for payment
+thereof; and
+
+
+
+     
+
+     
+    (b)
+     
+    thereafter, to the Member.
+
+
+
+
+
+     Section 8.4 Winding Up and Certificate of Cancellation. The winding up of the Company
+shall be completed when all of its debts, liabilities, and obligations have been paid and
+discharged or reasonable adequate provision therefore has been made, and all of the remaining
+property and assets of the Company have been distributed to the Member. Upon the completion of the
+winding up of the Company, a Certificate of Cancellation of the Company shall be filed in the
+office of the Secretary of State of the State of Delaware.
+
+
+ARTICLE IX
+Miscellaneous
+
+
+
+     Section 9.1 Amendment. This Agreement may be amended or modified only by a written
+instrument executed by the Member(s) holding a majority of the outstanding interests in
+the Company. In addition, the terms or conditions hereof may be waived by a written
+instrument executed by the party waiving compliance.
+
+
+
+Annex 2
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+     Section 9.2 Severability. If any provision of this Agreement shall be held to be invalid,
+illegal or unenforceable, the validity, legality or enforceability of the remaining provisions
+shall not in any way be affected or impaired, unless that provision was fundamental to the
+objectives of this Agreement.
+
+
+     Section 9.3 Governing Law. This Agreement shall be governed by laws of the State of
+Delaware, including the DLLCA, and the federal laws of the United States.
+
+
+[Remainder of this Page Intentionally Left Blank]
+
+
+Annex 2
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+     IN WITNESS WHEREOF, the undersigned Member has entered into this Agreement as of June 30,
+2009.
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+     
+     
+     
+     
+     
+     
+    SOLE MEMBER:
+     
+
+
+    Sharing Percentages
+     
+    [                                                ]
+     
+
+
+     
+
+     
+     
+    100.0
+    %
+     
+     
+     
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+    By:
+     
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+ 
+
+     
+
+     
+     
+     
+     
+     
+     
+     
+
+                                            
+,
+                                 
+
+
+
+
+
+
+
+
+Company Acceptance
+
+
+
+     The undersigned __________, a Delaware limited liability company defined as the Company in
+the foregoing agreement, agrees that it and its operations shall be bound by the foregoing Amended
+and Restated Company Agreement.
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+     
+     , 
+
+
+     
+     
+    (a Delaware limited liability company)
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+    By:
+     
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+     
+     
+    Name & Title:
+     
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+Date: __________, 2009 and effective June 30, 2009
+
+
+Annex 2
+
+
+
+ 
+
+
+
+
+
+
+

@@ -1,0 +1,1780 @@
+
+EX-10.46
+5
+amse_10k-ex1046.htm
+PRELIMINARY BUDGET
+
+
+
+     
+
+
+
+Exhibit 10.46
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+
+
+    American Sands Energy Corp.: Sunnyside Project
+Proposal No. ESPP14038-01
+Page 2 of 12
+     
+
+
+
+
+ 
+
+ 
+
+PROPRIETARY AND CONFIDENTIAL
+STATEMENT
+
+ 
+
+This proposal and all later refinements
+and amendments (collectively, “Proposal”) contain intellectual property, technical know-how, pricing and cost data
+and other highly confidential information that are proprietary to FLSmidth. This Proposal and related documents may only be used
+as a basis to evaluate FLSmidth as a potential supplier of equipment, technology, services and technical solutions. For that purpose,
+you may disclose and distribute this Proposal to persons in your organization and others retained by you to evaluate its contents.
+However, no part of this Proposal can otherwise be disclosed or distributed to others or quoted, copied or reproduced in any form
+for any purpose without FLSmidth’s prior express written permission.
+
+ 
+
+Revision Log
+
+ 
+
+
+
+    Revision
+    Date
+    Responsible
+    Description
+
+    
+         
+        A
+    
+         
+        11/06/14
+    
+         
+        P. Keyser
+    
+        Proposal for Review
+        & Approval
+
+    B
+    17/06/14
+    P. Keyser
+    As Sold / Approved
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, American Sands Energy
+Corp. has approved the Scope of Work hereto have executed this Agreement as of the date first set forth below.
+
+ 
+
+
+
+    American Sands Energy Corporation
+     
+    FLSmidth USA,Inc.
+     
+
+     
+     
+     
+     
+
+    By: 
+    William Gibbs
+     
+    By: 
+    Brian T. Field
+     
+
+    Title: 
+    CEO
+     
+    Title: 
+    Vice President
+     
+
+    Signature: 
+    /s/ William Gibbs
+     
+    Signature: 
+    /s/ Brian T. Field
+     
+
+    Date:  
+    6/26/14
+     
+    Date:
+    6/25/14
+     
+
+
+ 
+
+ 
+
+ 
+
+
+
+    2
+     
+    
+
+ 
+
+ 
+
+11 June 2014
+
+ 
+
+American Sands Energy Corp. Sunnyside Project
+
+201 S. Main St., Suite 1800
+
+Salt Lake City, UT 84111
+
+ 
+
+Ref: Engineering Activities for CAPEX
+and OPEX Estimate
+
+Attention: Mr. Robin Gereluk
+
+ 
+
+Dear Mr. Gereluk:
+
+ 
+
+FLSmidth is pleased to provide the following
+proposal for the Sunnyside Project Preliminary Budget Engineering Activities.
+
+ 
+
+For the execution of the project, FLSmidth
+recommends the following approach:
+
+ 
+
+Phase 1: FLSmidth will proceed with
+Preliminary Budget level efforts sufficient to confirm flowsheets, equipment lists, preliminary General Arrangements, costs and
+schedule to complete the design and supply. As a primary deliverable of this Phase, FLSmidth will prepare and submit a report with
+supporting doucmentation to ASEC for the CAPEX and OPEX of a 5,000 bbl/day oil sands plant and a budget proposal for supply of
+a defined FLS scope on an Engineering, Procurement, and technical Services (EPS) basis.
+
+ 
+
+Phase 2: Upon approval of ASEC,
+FLSmidth will proceed with Detailed Engineering, procurement of all required equipment, and all Project Management functions within
+the EPS battery limits.
+
+ 
+
+This proposal for the Phase 1, will be
+developed over a period of 2 - 3 months.
+
+ 
+
+We trust the enclosed meets your expectations. Please let us
+know how we may be of further assistance.
+
+ 
+
+Sincerely,
+
+ 
+
+FLSmidth USA, Inc.
+
+ 
+
+ 
+
+/s/ Paul M. Keyser                             
+
+
+Paul M. Keyser
+
+Global Director – Extended Scope
+
+Metallurgical Technologies
+
+ 
+
+ 
+
+
+
+    3
+     
+    
+
+ 
+
+TABLE
+OF CONTENTS
+
+ 
+
+ 
+
+
+
+    PROPRIETARY AND CONFIDENTIAL STATEMENT 
+    2
+
+     
+     
+
+    REVISION LOG 
+    2
+
+     
+     
+
+    PROPOSAL LETTER 
+    3
+
+     
+     
+
+    11 JUNE 2014
+    3
+
+     
+     
+
+    1.  PROPOSAL SCOPE 
+    5
+
+    1.1.  DIVISION OF RESPONSIBILITY (DOR) MATRIX
+     5
+
+    1.2.  BATTERY LIMIT / ASSUMPTIONS 
+    6
+
+     
+     
+
+    2. PROJECT ORGANIZATION CHART – FLSMIDTH
+    7
+
+     
+     
+
+    3. PRICING AND COMMERCIAL TERMS 
+    8
+
+    3.1.  PRICING 
+    8
+
+    3.2.  GENERAL TERMS AND CONDITIONS 
+    8
+
+     
+     
+
+    APPENDIX A: MUTUAL NON-DISCLOSURE AND NON-USE AGREEMENT 
+    10
+
+     
+     
+
+    APPENDIX B: TERMS AND CONDITIONS 
+    16
+
+     
+     
+
+    APPENDIX C: REPORT TABLE OF CONTENTS (DRAFT)
+    22
+
+ 
+
+ 
+
+
+
+    4
+     
+    
+
+ 
+
+1. PROPOSAL SCOPE
+
+ 
+
+The Scope of Work included in this proposal
+is to perform the Preliminary Budget Engineering activities to provide ASEC with a Class IV capital cost estimate (+/-25%) and
+OPEX estimate for a proposed 5,000 bbl/d mined oil sands plant near the city of Price, Utah.
+
+ 
+
+1.1.
+Division of Responsibility (DOR) Matrix
+
+ 
+
+The Scope of Work included on this proposal
+is according to the following DOR.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The information transmitted by this document is the proprietary
+and confidential property of FLSmidth and may not be duplicated, disclosed or utilized without written consent from FLSmidth.
+
+ 
+
+
+
+    5
+     
+    
+
+ 
+
+1.2.
+Battery Limit / Assumptions
+
+ 
+
+The block flow diagram below defines the
+battery limits of the study. FLSmidth will, however, incorporate ASEC supplied information into the study with respect to the
+distillation section of the plant.
+
+ 
+
+
+
+ 
+
+
+
+    6
+     
+    
+
+ 
+
+ 
+
+2. PROJECT ORGANIZATION
+CHART - FLSMIDTH
+
+ 
+
+The Services will be performed primarily
+through the FLSmidth’s Metallurgical Technologies Group, Extended Scope and Plant Systems Group within the Mineral Processing
+Division, headquartered in Salt Lake City, Utah, USA. Our group is uniquely positioned to provide the greatest value to ASEC. With
+an industry experienced team, full-discipline engineering and project managers and a world-class metallurgical testing laboratory
+combined with direct equipment design and supply, FLSmidth can deliver superior designs at lower cost and in less time than the
+traditional EPCM approach. Equipment supply specialists are an integral part of the Project Execution Team. Thus, the client will
+benefit from faster turn-around of OEM data, more reliable deliveries, and a more fully-integrated Execution Plan. This translates
+directly into compressed execution schedules, lower capital and assurances that the process will perform as intended.
+
+ 
+
+The Organization Chart proposed by FLSmidth
+is as follows:
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+    7
+     
+    
+
+ 
+
+3.	PRICING AND COMMERCIAL TERMS
+
+ 
+
+3.1.	Pricing
+
+ 
+
+The total cost for development of the Preliminary Budget Study
+is provided below. FLSmidth will supply the services on a T&M basis up, not-to-exceed the value below.
+
+ 
+
+ 
+
+
+
+    ITEM
+    DESCRIPTION
+    HOURS
+    USD
+
+    1
+    Engineering Support Man Hours
+    1,243
+    $151,771
+
+     
+     
+     
+     
+
+    2
+    Travel Provision
+    Not Included
+    Not Included
+
+ 
+
+Notes:
+
+ 
+
+1- Meetings
+
+A)	Travel
+Expenses (Tickets, living expenses and hotel) will be under reimbursable expenses and are excluded from this estimate.
+
+ 
+
+2- General Notes
+
+Note 1: Pricing excludes other taxes, duties or freight
+
+Note 2: Proposal Validity 30 days
+
+ 
+
+3.2.	General
+Terms and Conditions
+
+ 
+
+NDA Agreement Requirement:
+
+ 
+
+The MUTUAL NON-DISCLOSURE AND NON-USE AGREEMENT, executed
+on 3 June 2014 and signed by both ASEC and FLS will remain in effect.
+
+ 
+
+Schedule:
+
+ 
+
+FLSmidth will develop the project in 2-3 months commencing
+after the Project Kick-Off Meeting is completed.
+
+ 
+
+Terms and Conditions:
+
+ 
+
+FLSmidth is including its standard Terms and Conditions
+are attached an made part of this proposal.
+
+ 
+
+Payment Terms:
+
+ 
+
+FLSmidth proposes a T&M, not-to-exceed Contract,
+under the following conditions:
+
+ 
+
+
+•FLSmidth shall invoice on or about the effective date of the Contract and the Customer shall pay Contractor a twenty percent
+(20%) down payment of the Contract Price for Engineering Services (“Down Payment”).
+
+ 
+
+
+
+    8
+     
+    
+
+ 
+
+
+•FLSmidth shall invoice the Customer on a monthly basis for the hours expended
+during the previous month.
+
+ 
+
+
+•Should the total of all invoices (Down Payment plus monthly invoices) the
+not-to-exceed price less 10% be reached prior to completed of the project, FLSmidth will stop monthly invoices until the the study
+report is delivered to the Customer.
+
+ 
+
+
+•Upon delivery of the Report in electronic format, FLSmidth will invoice the
+remaining 10% of the contract value.
+
+ 
+
+
+•Customer shall make payment of the invoiced amount no later than 15 (15)
+Days after the date of Contractor’s invoice for such Engineering Services.
+
+ 
+
+
+•Payments by the Customer to FLSmidth shall be by Electronic Transfer.
+
+ 
+
+ 
+
+
+
+    9
+     
+    
+
+ 
+
+ 
+
+APPENDIX
+A: MUTUAL NON-DISCLOSURE AND NON-USE AGREEMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+    10
+     
+    
+
+ 
+
+MUTUAL NON-DISCLOSURE
+AND
+
+NON-USE AGREEMENT FOR
+PROJECTS
+
+ 
+
+This Non-Disclosure and Non-Use Agreement (“Agreement”)
+is made this   3rd   day of   June  , 2014    ,
+
+ 
+
+
+
+
+
+    BETWEEN [1]:
+    FLSmidth USA, Inc.       
+                                 , a Delaware corporation (“FLSmidth”), with an office at 7158 S. FLSmidth
+                                 Drive, Midvale, Utah 84047-5559                                 ,
+
+     
+     
+
+    AND [2]:
+ 
+    American Sands Energy Corporation                
+    , a x corporation 
+    £ partnership £                     
+    organized under the laws of Delaware          (“Company”),
+    its principal place of business being: 201 S. Main St., Suite 1800 Salt Lake City, UT 84111    .
+
+
+
+
+
+
+ 
+
+BACKGROUND:
+
+ 
+
+
+A.Each party or its client, or both, have certain technical and commercial information which it considers
+to be proprietary and confidential.
+
+ 
+
+
+
+B.Each
+party or its client, or both, have certain technical and commercial information which it considers to be proprietary and confidential.
+Each party wishes to disclose to the other party Confidential Information in relation to the Purpose. Each party wishes to ensure
+that the other party maintains the confidentiality of its Confidential Information. In consideration of the benefits to the parties
+of the disclosure of the Confidential Information, the parties have agreed to comply with the following terms in connection with
+the use and disclosure of Confidential Information.
+
+
+ 
+
+NOW, THEREFORE,
+in consideration of the mutually binding covenants and conditions set forth herein, as well as for other good and valuable consideration,
+the parties agree as follows:
+
+ 
+
+
+1.DEFINITIONS
+
+ 
+
+
+1.1The definitions and rules of interpretation in this article apply in this Agreement. 
+
+Confidential
+Information: all confidential information (however recorded, preserved or disclosed) disclosed or made available directly or
+indirectly (hereinafter “disclosed” or “disclose(s)”) by a party or its Representatives to the other party
+or that party's Representatives, or both, on or after the date of this Agreement in connection with:
+
+ 
+
+
+(a)the Purpose;
+
+ 
+
+
+(b)any information that would be regarded as confidential by a reasonable business person relating to:
+
+ 
+
+
+
+
+(i)the business, affairs, customers, clients, suppliers, plans, intentions, or market opportunities
+of the Disclosing Party; and
+
+ 
+
+
+(ii)the operations, processes, product information, systems, system services, know-how, designs, trade secrets technical data,
+design information, developments, discoveries, inventions, ideas, and theories of the Disclosing Party; or
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+    11
+     
+    
+
+ 
+
+
+(c)any information developed by the parties in the course of carrying out this Agreement.
+
+ 
+
+Disclosing
+Party: a party to this Agreement which discloses Confidential Information.
+
+ 
+
+Purpose:
+to enable Company to solicit offers, bids or quotations from FLSmidth for the supply of proprietary process and plant designs,
+proprietary and auxiliary equipment, and technical services, and, if a contract is executed by and between FLSmidth and Company,
+to enable FLSmidth to furnish or supply such proprietary process and plant designs, proprietary and auxiliary equipment and spare
+parts and technical services.
+
+ 
+
+Recipient:
+a party to this Agreement which receives or obtains directly or indirectly Confidential Information.
+
+ 
+
+Representative:
+employees, officers, agents and other representatives of a party, as the case may be.
+
+ 
+
+
+2.OBLIGATIONS OF CONFIDENTIALITY
+
+ 
+
+
+2.1The Recipient shall keep the Disclosing Party's Confidential Information confidential and, except
+with the prior written consent of the Disclosing Party, shall not, and shall ensure that its Representatives shall not:
+
+ 
+
+
+(a)use or exploit the Confidential Information in any way except for the Purpose; or
+
+ 
+
+
+(b)disclose the Confidential Information in whole or in part to any third party, except as expressly permitted by this Agreement;
+or
+
+ 
+
+
+(c)copy, reduce to writing or otherwise record the Confidential Information except as strictly necessary for the Purpose.
+
+ 
+
+
+
+
+2.2The Recipient may only disclose the Disclosing Party's Confidential Information to those of its Representatives who need to
+know this Confidential Information for the Purpose, provided that:
+
+ 
+
+
+
+     
+    (a)
+    it informs these Representatives of the confidential nature of the Confidential Information before disclosure; and
+
+     
+     
+     
+
+     
+    (b)
+    at all times, it is responsible for these Representatives' compliance with the obligations set out in this Agreement.
+
+ 
+
+
+2.3A party may disclose Confidential Information to the extent required by law, by any governmental
+or other regulatory authority or by a court or other authority of competent jurisdiction provided that, to the extent it is legally
+permitted to do so, it gives the other party as much notice of this disclosure as possible.
+
+ 
+
+
+2.4No party shall make, or permit any person to make, any public announcement concerning this Agreement,
+the Purpose or its prospective interest in the Purpose without the prior written consent of the other party (such consent not to
+be unreasonably withheld or delayed) except as required by law or any governmental or regulatory authority or by any court or other
+authority of competent jurisdiction. No party shall make use of the other party's name or any information acquired through its
+dealings with the other party for publicity or marketing purposes without the prior written consent of the other party.
+
+ 
+
+ 
+
+
+
+    12
+     
+    
+
+ 
+
+
+3.EXCLUSIONS
+
+ 
+
+Excluded
+from the obligations of this Agreement is any information that:
+
+ 
+
+
+(a)is or becomes generally available to the public other than as a result of its disclosure by the
+Recipient or its Representatives in breach of this Agreement; or
+
+ 
+
+
+(b)was available to the Recipient on a non-confidential basis prior to disclosure by the Disclosing
+Party; or
+
+ 
+
+
+(c)was, is or becomes available to the Recipient on a non-confidential basis from a person who, to
+the Recipient's knowledge, is not bound by a confidentiality agreement with the Disclosing Party or otherwise prohibited from disclosing
+the information to the Recipient; or
+
+ 
+
+
+(d)was lawfully in the possession of the Recipient before the information was disclosed to it by the
+Disclosing Party; or
+
+ 
+
+
+(e)the parties agree in writing is not confidential or may be disclosed; or
+
+ 
+
+
+(f)is developed by or for the Recipient independently of the information disclosed by the Disclosing
+Party.
+
+ 
+
+
+4.RETURN OF INFORMATION
+
+ 
+
+At
+the request of the Disclosing Party, the Recipient shall:
+
+ 
+
+
+(a)return to the Disclosing Party all documents and materials (and any copies) containing, reflecting,
+incorporating, or based on the Disclosing Party's Confidential Information and shall also destroy any material it prepared which
+incorporates any Confidential Information, and shall promptly certify such destruction in a writing to Disclosing Party;
+
+ 
+
+
+(b)erase all the Disclosing Party's Confidential Information from its computer systems or which is
+stored in electronic form (to the extent possible); and
+
+ 
+
+
+(c)certify in writing to the Disclosing Party that it has complied with the requirements of this article,
+provided that a Recipient may retain documents and materials containing, reflecting, incorporating, or based on the Disclosing
+Party's Confidential Information to the extent required by law or any applicable governmental or regulatory authority. The provisions
+of Article 2 shall continue to apply to any such documents and materials retained by the Recipient, subject to Article 3.
+
+ 
+
+
+5.RESERVATION OF RIGHTS AND ACKNOWLEDGEMENT
+
+ 
+
+
+5.1All Confidential Information shall remain the property of the Disclosing Party. Each party reserves
+all rights in its Confidential Information. No rights, including, but not limited to, intellectual property rights, in respect
+of a party's Confidential Information are granted to the other party and no obligations are imposed on the Disclosing Party other
+than those expressly stated in this Agreement.
+
+ 
+
+
+5.2Except as expressly stated in this agreement, no party makes any express or implied warranty or
+representation concerning its Confidential Information, or the accuracy or completeness of the Confidential Information.
+
+ 
+
+ 
+
+
+
+    13
+     
+    
+
+ 
+
+
+5.3The Recipient acknowledges that damages alone would not be an adequate remedy for the breach of
+any of the provisions of this Agreement. Accordingly, without prejudice to any other rights and remedies it may have, the Disclosing
+Party shall be entitled to seek equitable relief (including without limitation injunctive relief) concerning any threatened or
+actual breach of any of the provisions of this agreement.
+
+ 
+
+
+6.TERM AND TERMINATION
+
+ 
+
+
+6.1Either party may at any time elect to discontinue providing Confidential Information and to terminate
+this Agreement, effective on the giving of notice thereof in writing to the other party. Upon the giving of such notice, except
+as otherwise provided in this Agreement, the obligations and rights of the parties when providing and receiving Confidential Information
+hereunder and the right to use the Confidential Information for the Purpose shall cease. The obligations of each party accrued
+during the term of this Agreement shall continue for a period of 5 years from the termination of this Agreement provided that the
+Recipient’s obligations with respect to any Confidential Information that is comprised of trade secrets shall continue for
+so long as the information retains its trade secret status.
+
+ 
+
+
+6.2Termination of this Agreement shall not affect any accrued rights or remedies to which either party
+is entitled.
+
+ 
+
+
+7.MISCELLANEOUS
+
+ 
+
+
+7.1Entire Agreement and Variation.
+
+ 
+
+
+(a)This Agreement constitutes the whole agreement between the parties and supersedes all previous
+agreements between the parties relating to its subject matter. Each party acknowledges that, in entering into this Agreement, it
+has not relied on, and shall have no right or remedy in respect of, any statement, representation, assurance or warranty (whether
+made negligently or innocently) other than as expressly set out in this Agreement. Nothing in this clause shall limit or exclude
+any liability for fraud or for fraudulent misrepresentation.
+
+ 
+
+
+(b)No variation of this Agreement shall be effective unless it is in writing and signed by each of
+the parties (or their authorised representatives).
+
+ 
+
+
+7.2No Waiver. Failure to exercise, or any delay in exercising, any right or remedy provided under
+this Agreement or by law shall not constitute a waiver of that or any other right or remedy, nor shall it preclude or restrict
+any further exercise of that or any other right or remedy. No single or partial exercise of any right or remedy provided under
+this Agreement or by law shall preclude or restrict the further exercise of that or any other right or remedy.
+
+ 
+
+
+7.3Severability. All provisions of this Agreement are severable, and the unenforceability or invalidity
+of any of the provisions of this Agreement shall not affect the validity or enforceability of the remaining provisions of this
+Agreement. If any provision of this Agreement shall be found by a court of competent jurisdiction to be unenforceable in any respect,
+then the court shall revise such provision the least amount necessary in order to make it enforceable.
+
+ 
+
+ 
+
+
+
+    14
+     
+    
+
+ 
+
+
+7.4Assignment. Except as otherwise provided in this Agreement, no party may assign, sub-contract
+or deal in any way with, any of its rights or obligations under this Agreement or any document referred to in it without the written
+permission of the other party.
+
+ 
+
+
+7.5Independent Contractors. FLSmldth and Company are and will at all times solely remain Independent
+contractors of the other, and neither the execution nor delivery of this Agreement, nor the disclosure and receipt of the Confidential
+Information hereunder in any way implies or creates any onus or obligation on the part of either FLSmidth or the Company to enter
+into any business relationship or contract, or to purchase any product(s) or service(s). Nothing in this Agreement shall, nor Is
+Intended to, constitute the parties as principal-agent, partners, or trustee-beneficiary of each other.
+
+ 
+
+
+7.6Governing Law and Jurisdiction. This Agreement shall be governed by and construed in accordance
+with the laws of the jurisdiction where FLSmidth's main office is located (Pennsylvania for FLSmidth Inc. and Utah for FL.Smldth
+USA Inc.), notwithstanding the result that otherwise may arise from application of the conflict of law rules of any competent jurisdiction.
+All disputes concerning, arising from or relating In any way to this Agreement shall be decided solely in the courts of the jurisdiction
+where FLSmidth's main office Is located. The Parties agree that such courts shall have In personam jurisdiction and venue over
+each of them.
+
+ 
+
+
+7.7Counterparts. This Agreement may be executed in any number of counterparts, by original
+or facsimile signature, each of which shall be deemed to be an original and all counterparts taken together will be deemed to constitute
+one and the same instrument.
+
+ 
+
+IN WITNESS WHEREOF, the parties
+hereto have executed this Agreement as of the date first set forth below.
+
+ 
+
+ 
+
+
+
+    American Sands Energy Corporation
+     
+    FLSmidth USA,Inc.
+     
+
+     
+     
+     
+     
+
+    By: 
+    William Gibbs
+     
+    By: 
+    Brian T. Field
+     
+
+    Title: 
+    Chairman/CEO
+     
+    Title: 
+    Vice President, MetTech
+     
+
+    Signature: 
+    /s/ William Gibbs
+     
+    Signature: 
+     
+     
+
+    Date:  
+    6/5/14
+     
+    Date:
+     
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+    15
+     
+    
+
+
+
+
+
+ 
+
+ 
+
+APPENDIX
+B: TERMS AND CONDITIONS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+    16
+     
+    
+
+
+
+STANDARD TERMS
+AND CONDITIONS FOR SUPPLY OF ENGINEERING SERVICES
+
+ 
+
+
+1.DEFINITIONS:
+
+ 
+
+
+(a)“FLS” shall mean the FLSmidth entity providing the proposal.
+
+
+(b)“Buyer” shall mean the purchaser, its representatives and/or its agents acting on its
+behalf.
+
+
+(c)“Proprietary Data” shall mean engineering, drawings, specifications and/or instructions
+created by FLS.                         
+ (d)“Work”
+means the services that FLS is to perform or provide under this Contract as set forth in FLS’ proposal.
+
+
+
+
+ 
+
+
+2.PREVAILING DOCUMENTATION:
+
+ 
+
+
+(a)FLS’ proposal, including these terms and conditions, and any timely acceptance resulting
+from, arising out of, or connected with this proposal, shall constitute the contract (the “Contract”), regardless of
+any rejection or statement to the contrary in any document, which rejection, statement, and all additional or different terms or
+conditions, are rejected unless expressly accepted in writing by an authorized representative of FLS. No course of dealing, usage
+of trade or course of performance may be used to imply or add terms or conditions to or amend the terms or conditions of the Contract.
+
+
+(b)FLS’ proposal, these terms and conditions, any confidentiality agreement executed by the
+parties prior to or concurrent with the formation of the Contract, and any conditions agreed to in writing by the parties embody
+the entire understanding between FLS and Buyer. The Contract may only be amended by a written Change Order signed by authorized
+representatives of both parties.
+
+
+(c)Unless otherwise stated elsewhere in this proposal, or withdrawn or modified by FLS at an earlier
+date, the proposal is valid for thirty (30) days. FLS reserves the right to withdraw, or change the terms of this proposal at any
+time before formation of the Contract.
+
+
+(d)FLS’ obligation under the Contract shall not commence until the date when (i) any down payment
+required in the proposal has been received by FLS; and (ii) any Letter of Credit or other security instrument for payment as required
+in the proposal has been received by FLS (the “Commencement Date”). If the Commencement Date does not occur within
+thirty-one (31) days of the date on which the Contract is executed, FLS may, at its option, either renegotiate the Contract price
+and terms or terminate the Contract.
+
+
+(e)If FLS was authorized by Buyer to begin any part of the Work before the Commencement Date, all
+such Work shall be deemed to have been performed solely under and subject to these terms. Payments for such Work shall be credited
+against the Contract price.                                     
+ (f)Article
+headings are provided for convenience and are not to be used in construing this Contract.
+
+
+
+
+ 
+
+
+3.CONFIDENTIAL INFORMATION:
+
+ 
+
+
+(a)All drawings, specifications, instructions, manuals, products, intellectual property and other
+such information provided and/or furnished by FLS, whether in written, oral or electronic format, as well as any discovery, invention,
+development or improvement made or conceived by either party directly or indirectly as a result of FLS performing the Work hereunder
+(collectively, “Confidential Information”) shall be regarded as and shall remain the exclusive property of FLS and
+shall not be disclosed by Buyer to any third party without the express written permission of FLS. Buyer agrees to execute a confidentiality
+agreement in a form acceptable to FLS upon request.                                                             
+ (b) All
+Proprietary Data used by FLS in performing the Contract shall remain the sole property of FLS, regardless of its disclosure to
+Buyer or persons acting on Buyer’s behalf. Proprietary Data is confidential and Buyer shall not disclose any part of the
+data to others without the prior written consent of FLS. FLS grants to Buyer a non-exclusive license to utilize the Proprietary
+Data for purposes of design, installation and construction, maintenance, improvement or repair of the equipment, system, facility,
+works, or process which is the subject of the Work. Use of Proprietary Data by Buyer is limited to the purposes of the Contract.
+
+ (c)FLS and Buyer agree that, if Buyer breaches its obligations under this Article: (i) the confidentiality
+of FLS’ Confidential Information, its proprietary rights and interests in its Confidential Information and Proprietary Data,
+and its business will be substantially threatened and impaired; (ii) monetary relief will not provide an adequate remedy for such
+breach; (iii) and notwithstanding Article 17 (Governing Law and Dispute Resolution), FLS shall be entitled to immediate injunctive
+relief against Buyer and to such other equitable and other relief as the circumstances may require.
+
+
+
+
+ 
+
+
+
+
+
+
+
+    4.
+    CHANGES:
+
+
+
+ 
+
+
+(a)A change in the scope of work (a “Change”) shall mean any modification, addition, or
+deletion to the Work.
+
+
+(b)Buyer may initiate a Change within the general scope of the Work by issuing to FLS a written Change
+Request describing the proposed Change in detail, or requesting FLS to estimate the cost to perform Buyer’s desired Change.
+Within ten (10) days thereafter, or such longer period as Buyer may permit, FLS shall prepare and forward to Buyer a detailed Change
+Estimate which shall include any adjustment in price and schedule. If Buyer approves the Change Estimate, Buyer shall issue a corresponding
+contract amendment (“Change Order”) adjusting the price and schedule in accordance with the Change Estimate. Pending
+issuance of a Change Order, FLS shall continue with the Work to the extent not affected by the Change. If Buyer does not approve
+the Change Estimate, it shall either (i) withdraw the Change Request, or (ii) negotiate with FLS to perform the Change upon mutually
+agreeable terms. In any case, FLS shall be reimbursed for the cost of preparing the Change Estimate. All Changes must be mutually
+approved and agreed to in writing before they are to be performed by FLS.
+
+
+(c)In the event either party believes a Change has occurred because of a circumstance described in
+Article 4(d), it shall give written notice to the other within thirty (30) days following its first knowledge of the circumstance,
+and the parties shall endeavor to resolve by mutual agreement any dispute regarding the occurrence of the Change, and any resulting
+adjustment in price and schedule.                                           
+ (d)In
+the event (i) FLS is required by changes in applicable laws occurring after the date of this Contract to change the design of any
+equipment, system, facility, works, process, or other part of the Work, or (ii) the Work is canceled or delayed, suspended or interfered
+with by Buyer or any person or cause within Buyer’s direct or indirect control, such circumstances shall be treated as Changes.
+
+
+ 
+
+
+
+
+    17
+     
+    
+
+ 
+
+
+5.BUYER RESPONSIBILITY:
+
+ 
+
+Buyer shall furnish FLS,
+in English, with all information, instructions and drawings on which FLS’ timely and complete performance of the Contract
+is dependent. Buyer represents that all information, instructions and drawings that it has provided prior to the Contract date
+or provides thereafter to FLS are complete, up to date, accurate and conform to applicable codes, ordinances, laws, regulations
+and other requirements.
+
+
+ 
+
+
+6.WARRANTY:
+
+ 
+
+FLS warrants that all
+design and engineering services provided under this Contract shall be performed in a professional manner by qualified and efficient
+personnel, in accordance with generally accepted industry standards. FLS further warrants that drawings and specifications resulting
+from these design and engineering services shall conform to all applicable codes and standards in effect at the time these services
+were performed. Any design and engineering services not in conformance with the foregoing warranties shall be promptly reperformed
+by FLS at FLS’ sole cost and expense, provided FLS is notified by Buyer in writing of the nonconformance within one year
+after completion of such services. Reperformance of any design and engineering services not in conformance with the foregoing
+warranties constitutes FLS’ sole liability and Buyer’s exclusive remedy for breach of warranties.
+
+ 
+
+
+7.COMPLIANCE WITH LAWS AND REGULATIONS:
+
+ 
+
+In performing the Work, FLS
+shall comply with all applicable laws, ordinances, rules and regulations of governmental authorities located in the United States
+bearing on the conduct of the Work at the time the Work was performed, including, but not limited to, where applicable, laws and
+regulations pertaining to non-discrimination in employment, the Fair Labor Standards Act of 1938, as amended, OSHA, and MSHA. FLS
+shall be responsible for all U.S. federal, state and local taxes and charges, including social security and unemployment compensation
+taxes and withholding taxes, pertaining or applicable to its employees or its income.
+
+ 
+
+
+8.TIME OF PERFORMANCE OF THE WORK:
+
+ 
+
+
+(a)FLS shall proceed with the Work with all reasonable dispatch, and shall use its best efforts to
+complete the Work by the completion date(s) set forth in the proposal.                                                                                
+ (b)If
+FLS is rendered unable, wholly or in material part, by reason of Force Majeure to carry out any of its obligations hereunder, such
+obligations shall be suspended. “Force Majeure” shall include, but is not limited to events or causes that are not
+reasonably within the control of FLS, including but not limited to: fires and explosions; Acts of God (including, but not limited
+to, floods, tornadoes, hurricanes and earthquakes); riots, insurrections, or civil unrest; acts or threatened acts of terrorists
+and the results thereof; war, blockades or other acts or threatened acts of war or military action; trade embargoes or restrictions;
+changes in applicable law; governmental or judicial acts, decrees, injunctions, restrictions or other orders; strikes; faulty or
+defective castings, or unavailability of parts. FLS shall notify Buyer not later than fourteen (14) days after learning of the
+Force Majeure event. The occurrence of a Force Majeure event shall not excuse a party from any payment obligation it may have under
+the Contract.
+
+
+ 
+
+
+9.COMPENSATION:
+
+ 
+
+
+
+
+
+     
+    (a)
+    To the extent the proposal provides that the Work is to be performed by FLS for a fixed price, then Buyer agrees to timely pay FLS the fixed price amount set forth in the proposal, in U.S. dollars, as full compensation for the Work, subject to Article 4 (Changes). The fixed price does not include any cost items not included in the scope of work as set forth in the proposal.
+
+     
+    (b)
+    To the extent the proposal provides that the Work is to be performed by FLS on a cost-reimbursable basis, then Buyer agrees to timely pay FLS, in U.S. dollars, for the Work and associated expenses pursuant to FLS’ standard rates.
+
+ 
+
+
+10.TAXES:
+
+ 
+
+Buyer shall reimburse FLS, in
+addition to the price, for all federal, state, provincial, municipal and/or local customs, duties, sales, use, VAT and other similar
+taxes, excises and charges which FLS may pay or be required to pay in connection with the Work (not including taxes pertaining
+or applicable to its employees or its income).
+
+ 
+
+
+
+
+    18
+     
+    
+
+ 
+
+
+11.TERMS OF PAYMENT:
+
+ 
+
+
+
+     
+    (a)
+    For all fixed price work, unless the parties set forth a schedule of payments, FLS shall invoice Buyer monthly on a progress basis whereby the percent of the fixed price that is due will be equal to the percent of the Work that has been performed.
+
+     
+    (b)
+    For all cost-reimbursable Work, unless the parties agree otherwise, FLS shall invoice Buyer on a monthly basis in accordance with FLS’ standard invoicing procedures for Work completed and costs incurred during the previous month.
+
+     
+    (c)
+    Unless otherwise agreed, terms of payment are net thirty days to FLS from date of invoice. If any payment is not made within the specified time, interest will be charged at the prime rate of Citibank, N.A., of New York, New York, or at the maximum legal rate in the place where services were performed, whichever is lower, with interest computed and due monthly. In the event of any delay in payment, the Buyer will reimburse FLS for all costs incurred in collection of amounts due.
+
+     
+    (d)
+    This Contract is completely independent of all other contracts between the parties. Invoices issued under this Contract shall not be subject to set off against any money due or claimed to be due from FLS on account of any other transaction or claim.
+
+ 
+
+
+
+
+12.PATENT INDEMNIFICATION:
+
+ 
+
+
+
+     
+    (a)
+    Except as otherwise provided in (b), FLS shall defend, indemnify and hold harmless Buyer against claims for infringement of valid United States patents with respect to the Work. The Buyer shall notify FLS of such claims within ten (10) days from the time it knew or should have known of them. If FLS’ design is found to be infringing or the Buyer is enjoined from the use of such design, FLS will at its own expense and option, either: (i) provide Buyer with a non-infringing design; or (ii) obtain a license or other authorization permitting Buyer to use the design.
+
+     
+    (b)
+    FLS’ liability and obligations under this Article shall not apply if the basis of the alleged infringement is claimed or proved to have arisen in whole or in part from (i) a design, process, product, equipment, material, software or software documentation provided by or through or specified by Buyer to FLS for its use in supplying the Work; (ii)	a modification of the Work by Buyer or third persons after delivery by FLS; or (iii) a combination of the Work by Buyer or third persons with designs or equipment supplied by others.
+
+ 
+
+
+13.INDEMNIFICATION:
+
+ 
+
+Each party shall indemnify the
+other from any and all third-person claims for damages, losses, costs and expenses directly resulting from personal injury to or
+death of any person, and damage to tangible third- person property, to the extent such injury, death or damage is directly caused
+by the negligence, gross negligence or willful misconduct of the indemnifying party.
+
+ 
+
+
+14.INSURANCE:
+
+ 
+
+FLS shall provide the following
+insurance coverage and maintain it in place during the performance of the Work and for a period of one year thereafter: (i) Workers’
+Compensation Insurance, including Employer’s Liability coverage, in the amount as required by law, for FLS’ employees;
+(ii) Commercial General Liability and Property Damage Insurance with a combined single limit of $1,000,000 per occurrence and $2,000,000
+aggregate; and (iii)	Automobile Liability Insurance with a combined bodily injury and property damage limit of $1,000,000 per
+occurrence.
+
+ 
+
+
+15.TERMINATION AND SUSPENSION:
+
+
+
+ 
+
+
+
+
+(a)Termination for Convenience. Buyer may terminate this Contract in whole or part for its convenience
+by giving FLS fifteen (15) working days’ prior written notice, at which time FLS shall cease to perform Work as directed.
+Upon termination for convenience, Buyer shall pay FLS for all Work performed up to the effective date of termination plus all reasonable
+costs incurred in complying with Buyer’s instructions for terminating this Contract.                                                                                                    
+ (b)Suspension.
+Buyer may suspend all or any portion of the Work at any time by giving FLS seven (7) working days’ prior written notice,
+at which time FLS shall suspend Work as directed. Buyer shall compensate FLS for any additional costs incurred by FLS in suspending
+the Work and for maintaining its personnel on standby or protecting the documents and materials during the period of suspension
+if so requested by Buyer. In addition, FLS may by written notice to Buyer terminate all or any portion of its obligations under
+this Contract if the Work is suspended for thirty (30) or more consecutive days or a total of sixty (60) days in any continuous
+150-day period through no fault of FLS or FLS’ subcontractors and vendors. Notwithstanding the foregoing, Buyer shall immediately
+pay to FLS on demand all amounts due FLS for all Work executed prior to any such suspension or termination and any and all costs
+and expenses incurred by FLS arising out of or related in way to any such (a) suspension including, but not limited to, additional
+work, services and/or other cost escalations or increases, and any other cost or expense incurred by FLS by reason of such suspension,
+or (b) termination including, but not limited to, reasonable shutdown and termination expenses, and any and all amounts that would
+have been otherwise payable to FLS as profit, overhead, incentive or bonus through or upon completion or operation of the Work.
+
+
+ 
+
+
+    19
+     
+    
+
+
+
+ 
+
+
+(c)Buyer shall have the right to terminate this Contract if: (i) FLS becomes bankrupt or makes an
+assignment for the benefit of its creditors; (ii) an arbitration decision pursuant to the provisions of Article 17 (Governing Law
+and Dispute Resolution) has established that FLS has materially breached a material provision of the Contract and has failed to
+undertake remedial action to correct such failure pursuant to the Contract following notice in writing by Buyer; or (iii) FLS suspends
+or abandons performance of all work for a period of thirty (30) days and it is established by an arbitration decision pursuant
+to Article 17 (Governing Law and Dispute Resolution) that FLS was not entitled to suspend or abandon the work for such a period.
+In any such event, Buyer may terminate the Contract upon receipt of written notice of the arbitration award or by giving FLS thirty
+(30) days’ written notice of such termination. Upon such termination both parties shall be released from any further obligations
+under this Contract.                              
+ (d)FLS
+may suspend its performance of this Contract in whole or in part on account of Buyer’s failure to make a payment when due
+or post security when due, or on Buyer’s other material breach of Contract, following seven (7) days’ notice by FLS.
+If the Buyer fails to make such payment or submit such security for payment or cure such material breach within a period of thirty
+(30) days of such notice, FLS shall have the right at its sole discretion to terminate the Contract for Buyer’s default.
+In the event of such termination, FLS shall be entitled to an amount equal to the percentage stage of completion of the Work at
+the time of such termination times the Contract Price plus an amount equal to ten percent (10%) of the Contract Price in lieu of
+profit.
+
+
+ 
+
+
+
+
+16.LIMITATION OF LIABILITY:
+
+ 
+
+
+
+     
+    (a)
+    It is expressly agreed that this Contract sets forth the sole and exclusive remedies available to Buyer and that FLS’ liabilities are limited as set forth herein. For the purposes of this article, “FLS” and “Buyer” shall include such party’s parent companies, affiliates, subsidiaries, and related companies, its other contractors, sub-vendors and subcontractors, and their respective directors, officers, agents, employees, and assigns. Neither party has granted or assumed any other warranties, guarantees, duties, liabilities, or obligations, either express, implied, statutory, at law or in equity. It is further expressly agreed that no breach of warranty or of contract or failure by a party to fulfill any other conditions of this contract shall constitute a failure of the essential purpose of the exclusive limited remedies.
+
+     
+    (b)
+    Neither FLS nor Buyer shall under any circumstances be liable to the other party for loss of profits, anticipated revenue, interest, loss of use, loss by reason of plant shutdown or non-operation, cost of substitute power, equipment, facilities or services, additional usage of fuel or utilities, cost of removal of defective equipment and installation of conforming or non-defective equipment, delays in installation of the work or completion of the project or plant and/or alleged “impact” of any such delay (including, for example, interferences, congestion, disruption, lack or restriction of access, compression, coordination problems, loss of productivity or efficiency, acceleration, escalation, out of sequence work, etc.), or other such claims arising from any cause whatsoever, or for any special, incidental, indirect, exemplary, punitive, or consequential damages, whether or not such loss or damage is based in contract, warranty, tort (including negligence or strict liability), indemnity or otherwise, and each party hereby releases the other party and the respective agents and employees of each from all such liability.
+
+     
+    (c)
+    FLS’ maximum aggregate liability for loss or damage arising under, resulting from or in connection with the supply or use of the Work provided under this Contract, or from the performance or breach of any obligation(s) imposed hereunder, whether such liability arises from any one or more claims or actions for breach of contract, tort (including negligence or strict liability), delayed completion, warranty, indemnity or otherwise, unless otherwise more restrictively limited by the terms hereof, shall be limited to twenty-five percent (25%) of the total amount paid by Buyer to FLS hereunder. Buyer hereby releases FLS, its agents and employees from any further liability therefor.
+
+     
+    (d)
+    FLS EXPRESSLY DISCLAIMS ALL WARRANTIES OTHER THAN THOSE STATED IN THIS CONTRACT, WHETHER EXPRESS, IMPLIED, STATUTORY, AT LAW OR IN EQUITY. THERE ARE NO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS OF PURPOSE, OR OTHERWISE.
+
+ 
+
+
+17.GOVERNING LAW AND DISPUTE RESOLUTION:
+
+ 
+
+
+(a)The Contract shall be governed by and construed in accordance with the laws of the state in which
+FLS is located (Arizona for FLSmidth USA Inc.–Tucson Operations; Illinois for Excel Foundry & Machine; Nebraska for FLSmidth
+USA Inc.–Sioux City Operations; Pennsylvania for FLSmidth Inc. and FLSmidth USA Inc.–Pfister; Tennessee for FLSmidth
+USA Inc.–Johnson City Operations; Utah for FLSmidth USA Inc.–Salt Lake City Operations; Washington for FLSmidth USA
+Inc.–Spokane Operations); and West Virginia for FLSmidth USA Inc.– Charleston Operations), notwithstanding the result
+that otherwise may arise from application of the conflict of law rules of any competent jurisdiction.                                                                                                               
+ (b)All
+disputes and claims concerning, arising from or relating in any way to the Contract (collectively, “Disputes”) that
+cannot be settled by good faith discussion, shall be resolved through binding arbitration by the American Arbitration Association
+(“AAA”) pursuant to the AAA’s Commercial Arbitration Rules in effect at the time. The arbitration shall be held
+in New York, New York, and shall be conducted in English. The arbitrators shall have no right to add to, subtract from or modify
+any of the provisions of this Contract, and shall not exceed any limitations of liability and remedy provided in the Contract.
+The arbitration award shall not be appealable or subject to recourse to or review by any court or other arbitration. The arbitrator
+shall award the substantially prevailing party full reimbursement of all fees and costs assessed by or through the AAA (including
+arbitrator fees and any filing fee paid by that Party) plus that Party’s attorneys’ fees and arbitration- related costs.
+
+
+ 
+
+
+18.NOTICE:
+
+ 
+
+Service of all notices under
+the Contract shall be sufficient if given personally by mail, commercial express delivery, fax, electronically scanned e-mail attachment
+or other similar means at the address set forth in the proposal, or to such address as such party may provide in writing from time
+to time. All notices shall be effective upon receipt.
+
+ 
+
+
+
+
+    20
+     
+    
+
+ 
+
+
+19.ASSIGNMENT:
+
+ 
+
+Neither party shall assign this
+Contract or any benefits arising therefrom without prior written consent of the other party, except that FLS reserves the right
+without the consent of Buyer, to assign the Contract, or to subcontract any portion of the work under the Contract to an affiliated
+company of FLS. In the event FLS consents to any assignment, the rights of any assignee shall be subject to all set-offs, counterclaims
+and other rights of FLS arising hereunder and Buyer remains fully responsible for the performance by its assignee of all conditions
+hereof.
+
+ 
+
+
+20.DOCUMENTATION, PREVAILING LANGUAGE AND DATES: 
+
+ 
+
+Unless specifically provided
+for elsewhere in the Contract, all documentation, including drawings and written materials, shall be in the English language. In
+the event the text of the Contract is translated into a language other than English, the English text shall prevail, control and
+be binding in the event of any conflict or discrepancy. All dates shall be based on the Gregorian calendar.
+
+ 
+
+
+21.PUBLICITY:
+
+ 
+
+Neither party shall make or
+consent to publicity releases or announcements or otherwise make written or verbal references to this Contract or the Work performed
+or to be performed hereunder without the prior written consent of the other party, which consent shall not be unreasonably withheld.
+Notwithstanding the foregoing, FLS shall be entitled to include a summary description of the project in its general promotional
+materials.
+
+ 
+
+
+22.WAIVER OF BREACH:
+
+ 
+
+Neither payment nor receipt
+of payment by a party; failure by a party to insist on strict performance of the Contract; acceptance of the work by a party; or
+waiver by a party of any breach of the Contract shall constitute a waiver by that party of any other breach of the Contract or
+its right to demand and enforce the other party’s compliance with its obligations hereunder.
+
+ 
+
+
+23.INDEPENDENT CONTRACTOR:
+
+ 
+
+It is expressly understood that
+FLS is an independent contractor, and that neither FLS nor its principals, partners, employees or subcontractors are servants,
+agents, partners, joint ventures or employees of Buyer in any way whatsoever.
+
+ 
+
+
+24.SEVERABILITY:
+
+ 
+
+In the event that any of the
+provisions, or portions, or applications thereof, of the Contract are held to be unenforceable or invalid by any court or tribunal
+of competent jurisdiction, the parties shall negotiate an equitable adjustment in the provisions of the Contract with a view toward
+effecting the purpose and intent of the Contract and the validity and enforceability of the remaining provisions, or portions,
+or applications thereof, shall not be affected thereby.
+
+ 
+
+
+25.SURVIVAL OF TERMS:
+
+ 
+
+Articles 3 (Confidential Information),
+6 (Standards and Codes Controlling the Work), 10 (Taxes), 12 (Patent Indemnification), 13 (Indemnification), 16 (Limitation of
+Liability), 17 (Governing Law and Dispute Resolution) and 22 (Waiver of Breach) shall survive completion or termination of the
+Contract.
+
+ 
+
+ 
+
+
+
+    21
+     
+    
+
+ 
+
+ 
+
+APPENDIX
+C: REPORT TABLE OF CONTENTS (DRAFT)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+    22
+    
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+

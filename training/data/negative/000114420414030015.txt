@@ -1,0 +1,801 @@
+
+EX-10.37
+2
+v377211_ex10-37.htm
+EXHIBIT 10.37
+
+
+
+     
+
+
+
+
+
+ 
+
+SIXTH AMENDMENT
+TO
+
+AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+ 
+
+THIS SIXTH AMENDMENT
+TO AMENDED AND RESTATED CREDIT AGREEMENT (this “Sixth Amendment”) is entered into and effective as of
+the Sixth Amendment Closing Date (as defined below) among ENERJEX RESOURCES, INC., a Nevada corporation (“Parent”),
+ENERJEX KANSAS, INC. (f/k/a Midwest Energy, Inc.), a Nevada corporation (“EnerJex Kansas”), DD
+ENERGY, INC., a Nevada corporation (“DD Energy”), Working
+Interest, LLC, a Kansas limited liability company (“Working Interest”), BLACK SABLE ENERGY,
+LLC, a Texas limited liability company (“Black Sable”), BLACK RAVEN ENERGY, INC., a Nevada
+corporation (“Black Raven”) and ADENA, LLC, a Colorado limited liability company (“Adena”;
+together with Parent, EnerJex Kansas, DD Energy, Working Interest, Black Sable and Black Raven, collectively, “Borrowers”
+and each, a “Borrower”) and TEXAS CAPITAL BANK, N.A., a national banking association, as
+a Bank, L/C Issuer and Administrative Agent (in such latter capacity and together with its successors and permitted assigns in
+such capacity the “Administrative Agent”), and the several banks and financial institutions from time
+to time parties to the Credit Agreement, as defined below (the “Banks”). Capitalized terms used but not
+defined in this Sixth Amendment have the meaning given them in the Credit Agreement.
+
+ 
+
+RECITALS
+
+ 
+
+A.           Borrowers,
+Administrative Agent, L/C Issuer and Banks previously entered into that certain Amended and Restated Credit Agreement dated as
+of October 3, 2011, as amended by that certain First Amendment to Amended and Restated Credit Agreement dated as of December 14,
+2011, that certain Second Amendment to Amended and Restated Credit Agreement dated as of August 31, 2012, that certain Third Amendment
+to Amended and Restated Credit Agreement dated as of November 2, 2012, that certain Fourth Amendment to Amended and Restated Credit
+Agreement dated as of January 24, 2013 and that certain Fifth Amendment to Amended and Restated Credit Agreement dated as of September
+30, 2013 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”).
+
+ 
+
+B.           Borrowers,
+Administrative Agent, L/C Issuer and Banks have agreed to amend the Credit Agreement, subject to the terms and conditions of this
+Sixth Amendment.
+
+ 
+
+AGREEMENT
+
+ 
+
+NOW THEREFORE, for
+good and valuable consideration, the receipt and sufficiency of which are acknowledged, the undersigned hereby agree as follows:
+
+ 
+
+I.           Specific
+Amendments to Credit Agreement.
+
+ 
+
+A.           Article
+I, Definitions, of the Credit Agreement is hereby amended by adding the following definitions in their proper alphabetical
+order:
+
+ 
+
+“Sixth
+Amendment” means the Sixth Amendment to Amended and Restated Credit Agreement dated effective as of the Sixth Amendment
+Closing Date by and among Borrowers, Administrative Agent, L/C Issuer and Banks.
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+“Sixth
+Amendment Closing Date” means November 19, 2013.
+
+ 
+
+B.           Section
+7.12(c), Interest Coverage Ratio, of the Credit Agreement is hereby deleted in its entirety and replaced with the following:
+
+ 
+
+(c)          Interest
+Coverage Ratio. Permit, as of the last day of each fiscal quarter, commencing with the fiscal quarter ending March 31, 2014,
+the ratio of Borrowers’ and their Subsidiaries’ consolidated EBITDAX for each fiscal quarter to Interest Expense for
+that quarter to be less than 3.00:1.00. For the purpose of calculating the foregoing ratio, each of EBITDAX and Interest Expense
+will be annualized by: (i) multiplying by 4 for the three-month period ending March 31, 2014, (ii) multiplying by 2 for
+the six-month period ending June 30, 2014, and (iii) multiplying by 1.33 for the nine-month period ending September 30, 2014.
+For the twelve-month period ending December 31, 2014, and for each period thereafter, EBITDAX and Interest Expense will be calculated
+based on actual EBITDAX and Interest Expense for the previous four fiscal quarters.
+
+ 
+
+II.          Amendments
+to Schedules and Exhibits. Upon satisfaction of all conditions precedent set forth in Article III of this Sixth Amendment,
+Schedules 1.01 and 10.02 attached to the Credit Agreement are hereby deleted in their entirety and replaced with
+Schedules 1.01 and 10.02 to this Sixth Amendment and each reference in any Loan Document to such Schedules shall
+be deemed to refer to Schedules 1.01 and 10.02 attached to this Sixth Amendment.
+
+ 
+
+III.         Conditions
+Precedent to Sixth Amendment. This Sixth Amendment shall be effective once each of the following conditions have been satisfied
+in Administrative Agent’s sole discretion on or before the Sixth Amendment Closing Date:
+
+ 
+
+A.           Borrowers,
+Administrative Agent and Banks shall have executed and delivered this Sixth Amendment;
+
+ 
+
+B.           Borrowers
+and IBERIABANK shall have executed and delivered to Administrative Agent a Commitment Transfer Supplement in form and content satisfactory
+to Administrative Agent and Texas Capital Bank, N.A.;
+
+ 
+
+C.           Borrowers
+shall have executed and delivered to Texas Capital Bank, N.A. that certain Third Amended and Restated Note in the aggregate face
+amount of $65,789,473.68;
+
+ 
+
+D.           Borrowers
+shall have executed and delivered to IBERIABANK that certain Note in the aggregate face amount of $34,210,526.32; and
+
+ 
+
+E.           Administrative
+Agent shall have received, in form and content satisfactory to it, such other assurances, certificates, documents or consents related
+to the foregoing as Administrative Agent may request.
+
+ 
+
+
+
+    2
+     
+    
+
+ 
+
+IV.          Representations,
+Warranties and Covenants. Borrowers represent and warrant to Administrative Agent and Banks that (a) they possess all
+requisite Corporate Power and authority to execute, deliver and comply with the terms of this Sixth Amendment, (b) this Sixth
+Amendment has been duly authorized and approved by all requisite Corporate Action on the part of the Borrowers, (c) no other
+consent of any Person (other than Administrative Agent and Banks) is required for this Sixth Amendment to be effective, (d) the
+execution and delivery of this Sixth Amendment does not violate their Governing Documentation, (e)  the representations and
+warranties in each Loan Document to which they are a party are true and correct in all material respects on and as of the Sixth
+Amendment Closing Date as though made on the Sixth Amendment Closing Date, (f)  they are in full compliance with all covenants
+and agreements contained in each Loan Document to which they are a party, (g) no Event of Default or Default has occurred
+and is continuing, and (h) except as may be addressed in this Sixth Amendment, no exhibit or schedule to the Credit Agreement
+is required to be supplemented, amended or modified in connection with the transactions contemplated by this Sixth Amendment or
+any other matters occurring prior to the Sixth Amendment Closing Date. The representations and warranties made in this Sixth Amendment
+shall survive the execution and delivery of this Sixth Amendment. No investigation by Administrative Agent or any Bank is required
+for Administrative Agent or any Bank to rely on the representations and warranties in this Sixth Amendment.
+
+ 
+
+V.	Scope
+of Amendment; Reaffirmation; Release. All references to the Credit Agreement shall refer to the Credit Agreement as amended
+by this Sixth Amendment. Except as affected by this Sixth Amendment, the Loan Documents are unchanged and continue in full force
+and effect. However, in the event of any inconsistency between the terms of the Credit Agreement (as amended by this Sixth Amendment)
+and any other Loan Document, the terms of the Credit Agreement shall control and such other document shall be deemed to be amended
+to conform to the terms of the Credit Agreement. Borrowers hereby reaffirm their obligations under the Loan Documents to which
+they are a party to and agree that all Loan Documents to which they are a party to remain in full force and effect and continue
+to be legal, valid, and binding obligations enforceable in accordance with their terms (as the same are affected by this Sixth
+Amendment). Borrowers hereby release, discharge and acquit Administrative Agent, L/C Issuer
+and Banks from any and all claims, demands, actions, causes of action, remedies, and liabilities of every kind or nature (including
+without limitation, offsets, reductions, rebates, or lender liability) arising out of any act, occurrence, transaction or omission
+occurring in connection with the Credit Agreement and the other Loan Documents prior to the Sixth Amendment Closing Date.
+
+ 
+
+VI.          Miscellaneous.
+
+ 
+
+(a)          No
+Waiver of Defaults. This Sixth Amendment does not constitute (i) a waiver of, or a consent to, (A) any provision of the Credit
+Agreement or any other Loan Document, or (B) any present or future violation of, or default under, any provision of the Loan Documents,
+or (ii) a waiver of Administrative Agent’s or any Bank’s right to insist upon future compliance with each term, covenant,
+condition and provision of the Loan Documents.
+
+ 
+
+(b)          Form.
+Each agreement, document, instrument or other writing to be furnished to Administrative Agent under any provision of this Sixth
+Amendment, if any, must be in form and substance satisfactory to Administrative Agent and its counsel.
+
+ 
+
+
+
+    3
+     
+    
+
+ 
+
+(c)          Headings.
+The headings and captions used in this Sixth Amendment are for convenience only and will not be deemed to limit, amplify or modify
+the terms of this Sixth Amendment, the Credit Agreement, or the other Loan Documents.
+
+ 
+
+(d)          Costs,
+Expenses and Attorneys’ Fees. Borrowers agree to pay or reimburse Administrative Agent on demand for all its reasonable
+out-of-pocket costs and expenses incurred in connection with the preparation, negotiation, and execution of this Sixth Amendment,
+including, without limitation, the reasonable fees and disbursements of Administrative Agent’s counsel.
+
+ 
+
+(e)          Successors
+and Assigns. This Sixth Amendment shall be binding upon and inure to the benefit of each of the undersigned and their respective
+successors and permitted assigns.
+
+ 
+
+(f)          Multiple
+Counterparts. This Sixth Amendment may be executed in any number of counterparts with the same effect as if all signatories
+had signed the same document. All counterparts must be construed together to constitute one (1) and the same instrument. This Sixth
+Amendment may be transmitted and signed by facsimile or portable document file (pdf). The effectiveness of any such documents and
+signatures shall, subject to applicable law, have the same force and effect as manually-signed originals and shall be binding on
+Borrowers, Administrative Agent, L/C Issuer and Banks. Administrative Agent may also require that any such documents and signatures
+be confirmed by a manually-signed original; provided that the failure to request or deliver the same shall not limit
+the effectiveness of any facsimile document or signature.
+
+ 
+
+(g)          Governing
+Law. This Sixth Amendment and the other Loan Documents must be construed, and their
+performance enforced, under Texas law.
+
+ 
+
+(h)          Entirety.
+THIS SIXTH AMENDMENT, THE CREDIT AGREEMENT, AND THE OTHER LOAN DOCUMENTS CONSTITUTE A
+“LOAN AGREEMENT” AS DEFINED IN SECTION 26.02(A) OF THE TEXAS BUSINESS AND COMMERCE CODE, AND REPRESENT THE FINAL AGREEMENT
+BETWEEN THE PARTIES RELATING TO THE SUBJECT MATTER UNDER THIS SIXTH AMENDMENT AND UNDER THOSE OTHER WRITTEN DOCUMENTS AND MAY NOT
+BE CONTRADICTED BY EVIDENCE OR PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL
+AGREEMENTS BETWEEN THE PARTIES.
+
+ 
+
+(Signature pages follow)
+
+ 
+
+
+
+    4
+     
+    
+
+ 
+
+IN WITNESS WHEREOF,
+this Sixth Amendment is executed effective as of the Sixth Amendment Closing Date.
+
+ 
+
+
+
+     
+    BORROWERS:
+
+     
+     
+     
+
+     
+    ENERJEX RESOURCES, INC.
+
+     
+     
+     
+
+     
+    By:
+     
+
+     
+     
+    Robert G. Watson, Jr.
+
+     
+     
+    Chief Executive Officer
+
+     
+     
+     
+
+     
+    ENERJEX KANSAS, INC.
+
+     
+     
+     
+
+     
+    By:
+     
+
+     
+     
+    Robert G. Watson, Jr.
+
+     
+     
+    Chief Executive Officer
+
+     
+     
+     
+
+     
+    DD ENERGY, INC.
+
+     
+     
+     
+
+     
+    By:
+     
+
+     
+     
+    Robert G. Watson, Jr.
+
+     
+     
+    Chief Executive Officer
+
+     
+     
+     
+
+     
+    WORKING INTEREST, LLC
+
+     
+     
+     
+
+     
+    By:
+     
+
+     
+     
+    Robert G. Watson, Jr.
+
+     
+     
+    Chief Executive Officer
+
+     
+     
+     
+
+     
+    BLACK SABLE ENERGY, LLC
+
+     
+     
+     
+
+     
+    By:
+     
+
+     
+     
+    Robert G. Watson, Jr.
+
+     
+     
+    Chief Executive Officer
+
+ 
+
+Signature Page to Sixth Amendment
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+
+
+     
+    BLACK RAVEN ENERGY, INC.
+
+     
+     
+     
+
+     
+    By:
+     
+
+     
+     
+    Robert G. Watson, Jr.
+
+     
+     
+    Chief Executive Officer
+
+     
+     
+     
+
+     
+    – and –
+
+     
+     
+     
+
+     
+    ADENA, LLC
+
+     
+     
+     
+
+     
+    By:
+     
+
+     
+     
+    Robert G. Watson, Jr.
+
+     
+     
+    Chief Executive Officer
+
+ 
+
+Signature Page to Sixth Amendment
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+
+
+     
+    ADMINISTRATIVE AGENT AND L/C ISSUER:
+
+     
+     
+     
+
+     
+    TEXAS CAPITAL BANK, N.A.,
+
+     
+    as Administrative Agent, L/C Issuer and
+
+     
+    a Bank
+
+     
+     
+     
+
+     
+    By:
+     
+
+     
+     
+    W. David McCarver IV
+
+     
+     
+    Senior Vice President
+
+     
+     
+     
+
+     
+    BANKS:
+
+     
+     
+     
+
+     
+    TEXAS CAPITAL BANK, N.A.,
+
+     
+    as Administrative Agent, L/C Issuer and
+
+     
+    a Bank
+
+     
+     
+     
+
+     
+    By:
+     
+
+     
+     
+    W. David McCarver IV
+
+     
+     
+    Senior Vice President
+
+     
+     
+     
+
+     
+    IBERIABANK
+
+     
+     
+     
+
+     
+    By:
+     
+
+     
+     
+    Cameron D. Jones
+
+     
+     
+    Vice President
+
+ 
+
+Signature Page to Sixth Amendment
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+ 
+
+SCHEDULE
+1.01
+
+COMMITMENT AMOUNTS
+AND AGGREGATE COMMITMENT AMOUNT
+
+ 
+
+
+
+    Bank 
+    Percentage
+    Share  
+    Commitment
+    Amount  
+    Percentage
+    Share of Letters 
+of Credit under the Letter of 
+Credit Limit 
+
+    Texas Capital Bank, N.A. 
+     65.78947368% 
+    $65,789,473.68  
+     65.78947368%
+
+    IBERIABANK 
+     34.21052632% 
+    $34,210,526.32  
+     34.21052632%
+
+    Aggregate Commitment Amount: 
+     100.00000000% 
+    $100,000,000.00  
+     100.00000000%
+
+
+ 
+
+Schedule 1.01
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+SCHEDULE
+10.02
+
+ 
+
+ADDRESSES
+FOR NOTICES
+
+ 
+
+ENERJEX RESOURCES, INC.
+
+4040 Broadway, Suite 305
+
+San Antonio, Texas 78209
+
+ 
+
+Attn:	      Robert G. Watson, Jr., Chief Executive
+Officer
+
+Telephone: (210) 451-5545
+
+Electronic Mail: robert.watson@blacksableenergy.com
+
+ 
+
+With copy to:
+
+Reicker, Pfau, Pyle & McRoy LLP
+
+1421 State Street, Suite B
+
+Santa Barbara, CA 93101
+
+ 
+
+
+
+    Attn:
+    Michael E. Pfau
+
+     
+    Telephone: (805) 966-2440 ext. 444
+
+     
+    Facsimile: (805)966-3320
+
+     
+    Electronic Mail: mpfau@rppmh.com
+
+ 
+
+TEXAS CAPITAL BANK, N.A.
+
+One Riverway, Suite 2100
+
+Houston, Texas 77056
+
+ 
+
+
+
+    Attn:
+    W. David McCarver IV
+
+     
+    Telephone: (832) 308-7059
+
+     
+    Facsimile: (832) 308-7042
+
+     
+    Electronic Mail: david.mccarver@texascapitalbank.com
+
+ 
+
+With a copy to:
+
+ 
+
+PORTER HEDGES LLP
+
+1000 Main St., 36th Floor
+
+Houston, Texas 77002
+
+ 
+
+
+
+    Attn:
+    Ephraim del Pozo
+
+     
+    Telephone: (713) 226-6660
+
+     
+    Facsimile: (713) 226-6260 
+
+     
+    Electronic Mail: edelpozo@porterhedges.com
+
+ 
+
+Schedule 10.02
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+IBERIABANK
+
+11 E. Greenway Plaza, Suite 2900
+
+Houston, Texas 77046
+
+ 
+
+
+
+    Attn:
+    Cameron D. Jones
+
+     
+    Telephone: (713) 624-7726
+
+     
+    Facsimile: (713) 965-0276
+
+     
+    Electronic Mail: Cameron.jones@iberiabank.com
+
+ 
+
+Schedule 10.02
+
+ 
+
+
+
+     
+    
+
+
+
+
+
+
+
+

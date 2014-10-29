@@ -1,0 +1,549 @@
+
+EX-10.2
+3
+d510160dex102.htm
+EX-10.2
+
+
+EX-10.2
+
+ 
+
+ EXHIBIT 10.2 
+   
+  EIGHTH AMENDMENT
+ TO  SECOND AMENDED AND RESTATED CREDIT AGREEMENT  dated as of
+ March 13, 2013  among  GOODRICH PETROLEUM COMPANY, L.L.C., 
+as Borrower,  WELLS FARGO BANK, NATIONAL ASSOCIATION,  as Administrative Agent,
+ and  The Lenders Party Hereto   
+   
+WELLS FARGO SECURITIES, LLC,  as Sole Lead Arranger and Bookrunner 
+
+
+
+
+ EIGHTH AMENDMENT TO SECOND 
+AMENDED AND RESTATED CREDIT AGREEMENT  THIS EIGHTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT (this Eighth Amendment) dated as of March 13, 2013, is among GOODRICH PETROLEUM COMPANY, L.L.C., a Louisiana
+limited liability company (Borrower); each of the undersigned Guarantors (collectively, the Guarantors); WELLS FARGO BANK, NATIONAL ASSOCIATION, as administrative agent (in such capacity, together with its successors
+in such capacity, Administrative Agent) for the lenders party to the Credit Agreement (collectively, the Lenders).  R E C I T A L S  A. Borrower, Administrative Agent and the Lenders
+are parties to that certain Second Amended and Restated Credit Agreement dated as of May 5, 2009, as amended by that certain First Amendment dated as of September 22, 2009, that certain Second Amendment dated as of October 29, 2010,
+that certain Third Amendment dated as of February 4, 2011, that certain Fourth Amendment dated as of February 25, 2011, that certain Fifth Amendment dated as of May 16, 2011, that certain Sixth Amendment dated as of October 31,
+2011 and that certain Seventh Amendment dated as of November 2, 2012 (as amended, the Credit Agreement), pursuant to which the Lenders have made certain loans to and other extensions of credit on behalf of Borrower.
+ B. The Borrower, the Administrative Agent and the Majority Lenders desire to amend certain provisions of the Credit
+Agreement.  C. NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and
+valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+Section 1. Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given such term
+in the Credit Agreement. Unless otherwise indicated, all article and section references in this Eighth Amendment refer to articles and sections of the Credit Agreement.  Section 2. Amendments to Credit Agreement.  2.1 Amendment to
+Section 1.02. Section 1.02 is hereby amended by  (a) Adding the following definition in the appropriate
+alphabetical order:  New Preferred Stock means all shares of any series of preferred
+stock issued by the Parent Guarantor (other than the Existing Preferred Stock) that (a) have an aggregate stated value or liquidation preference not to exceed $250,000,000, and (b) do not constitute Disqualified Capital Stock.
+ (b) Amending and restating the following definitions: 
+   1 
+
+
+
+
+
+ Agreement means this Second Amended and Restated
+Credit Agreement as amended by that certain First Amendment dated as of September 22, 2009, that certain Second Amendment dated as of October 29, 2010, that certain Third Amendment dated as of February 4, 2011, that certain Fourth
+Amendment dated as of February 25, 2011, that certain Fifth Amendment dated as of May 16, 2011, that certain Sixth Amendment dated as of October 31, 2011, that certain Seventh Amendment dated as of November 2, 2012 and that
+certain Eighth Amendment dated as of March 13, 2013, as the same may from time to time be amended, amended and restated, supplemented or otherwise modified. 
+Maturity Date means July 1, 2014, provided, that if, prior to such date, (a) (i) net
+cash proceeds of any sale or issuance of any Permitted Refinancing Debt or Equity Interests of the Parent Guarantor (other than Disqualified Capital Stock) or (ii) proceeds of any Loans under this Agreement and/or cash on hand not otherwise
+required to be applied in a manner provided for in this Agreement in an amount under this clause (ii) not to exceed the aggregate net cash proceeds of any sale of New Preferred Stock for which such net cash proceeds were not previously
+deposited in the account described in Section 8.16(b), are deposited into an escrow account pursuant to Section 8.16 in an aggregate amount sufficient to prepay the outstanding principal of all 2029 Convertible Notes on October 1,
+2014, or (b) such 2029 Convertible Notes are otherwise Redeemed in accordance with Section 9.04(d) of this Agreement, the Maturity Date will be automatically extended to February 25, 2016. 
+2.2 Amendment to Section 8.16(b). Section 8.16(b) is hereby amended and restated in its entirety to read as follows:
+ (b) Maturity Date Escrow. For purposes of extending the Maturity Date as provided for in the
+definition thereof, upon deposit of an aggregate amount sufficient to Redeem the principal of the outstanding 2029 Convertible Notes on or before June 30, 2014 into an account with the Administrative Agent by the Parent Guarantor or the
+Borrower from the (i) net cash proceeds received from the sale or issuance of any Permitted Refinancing Debt or Equity Interests of the Parent Guarantor (other than Disqualified Capital Stock) and/or (ii) proceeds of any Loans under this
+Agreement and/or cash on hand not otherwise required to be applied in a manner provided for in this Agreement in an amount under this clause (ii) not to exceed the aggregate net cash proceeds of any sale of New Preferred Stock not previously
+deposited in such account, the Maturity Date shall in any such case be so extended. The Parent Guarantor may from time to time withdraw funds from such account to Redeem all or a portion of the 2029 Convertible Notes in an amount of the principal of
+the 2029 Convertible Notes so Redeemed at any time thereafter. 
+   2 
+
+
+
+
+
+ 2.3 Amendment to Section 9.04(a). Section 9.04(a) is hereby amended by
+deleting and at the end of clause (iii), deleting the period at the end of clause (iv) and adding the following in its place:  , and (v) the Parent Guarantor may pay regularly scheduled dividends, in cash, on the New Preferred Stock.  2.4 Amendment to Section 9.04(d). Section 9.04(d) is hereby amended and restated in its entirety to read as follows: 
+(d) Redemption of 2029 Convertible Notes. Neither the Parent Guarantor, the Borrower, nor any other Guarantor
+will, prior to the date that is 91 days after the Maturity Date: call, make or offer to make any optional or voluntary Redemption of or otherwise optionally or voluntarily Redeem (whether in whole or in part) the 2029 Convertible Notes; provided
+that, subject to the terms of Section 8.16, the Parent Guarantor, the Borrower or such other Guarantor may Redeem the 2029 Convertible Notes with (i) the proceeds of the sale of any 2019 High Yield Notes, (ii) the net cash proceeds
+from the sale or issuance of any Permitted Refinancing Debt or the issuance of Permitted Refinancing Debt in Redemption therefor, (iii) the net cash proceeds of any sale or issuance of Equity Interests of the Parent Guarantor (other than
+Disqualified Capital Stock) or the issuance of such Equity Interests in Redemption therefor, or (iv) the proceeds of any Loans under this Agreement and/or cash on hand not otherwise required to be applied in a manner provided for in this
+Agreement in an amount under this clause (iv) not to exceed the aggregate net cash proceeds of any sale of New Preferred Stock for which such net cash proceeds were not previously deposited in the account referred to in Section 8.16(b), if
+(y) no Default or Event of Default has occurred and is continuing and (z) after giving pro forma effect to any such Redemption, there is unfunded availability of not less than $25,000,000 under this Agreement. 
+Section 3. Conditions Precedent. This Eighth Amendment shall not become effective until the date on which each of the
+following conditions is satisfied (or waived in accordance with Section 12.02 of the Credit Agreement) (the Eighth Amendment Effective Date):  3.1 The Administrative Agent shall have received from Lenders constituting the Majority Lenders, the Borrower and the Guarantors, counterparts (in such number as may be requested by Administrative Agent)
+of this Eighth Amendment signed on behalf of such Persons.  3.2 The Administrative Agent and the Lenders shall have received
+all fees and other amounts due and payable on or prior to the date hereof, including, to the extent invoiced, reimbursement or payment of all documented out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit
+Agreement. 
+   3 
+
+
+
+
+
+ 3.3 No Default shall have occurred and be continuing, after giving effect to the terms of
+this Eighth Amendment.  3.4 The Administrative Agent shall have received such other documents as Administrative Agent or
+special counsel to Administrative Agent may reasonably request.  The Administrative Agent is hereby authorized and directed to
+declare this Eighth Amendment to be effective when it has received documents confirming or certifying, to the satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section 3 or the waiver of such conditions
+as permitted in Section 12.02 of the Credit Agreement. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes.  Section 4. Miscellaneous.  4.1 Confirmation. The provisions of
+the Credit Agreement, as amended by this Eighth Amendment, shall remain in full force and effect following the effectiveness of this Eighth Amendment.  4.2 Ratification and Affirmation; Representations and Warranties. Borrower and each Guarantor hereby (a) acknowledges the terms of this Eighth Amendment; (b) ratifies and affirms its
+obligations under, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended
+or modified hereby and (c) represents and warrants to the Lenders that as of the Eighth Amendment Effective Date, after giving effect to the terms of this Eighth Amendment: (i) all of the representations and warranties contained in each
+Loan Document to which it is a party are true and correct, except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and
+correct as of such specified earlier date, (ii) no Default has occurred and is continuing and (iii) no event, development or circumstance has occurred which individually or in the aggregate could reasonably be expected to be a Material
+Adverse Event.  4.3 Loan Document. This Eighth Amendment is a Loan Document as defined and described in the
+Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto. 
+4.4 Counterparts. This Eighth Amendment may be executed by one or more of the parties hereto in any number of separate
+counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of this Eighth Amendment by facsimile or electronic transmission shall be effective as delivery of a manually executed
+counterpart hereof.  4.5 NO ORAL AGREEMENT. THIS EIGHTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS
+EXECUTED IN CONNECTION 
+   4 
+
+
+
+
+
+ 
+HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO
+SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.  4.6 GOVERNING LAW. THIS EIGHTH AMENDMENT (INCLUDING, BUT NOT LIMITED
+TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.  [SIGNATURES BEGIN NEXT PAGE] 
+   5 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Eighth Amendment to be duly executed
+as of the date first written above.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BORROWER:
+ 
+
+ 
+GOODRICH PETROLEUM COMPANY, L.L.C.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /S/ Jan L. Schott
+
+
+ 
+
+ 
+Name: Jan Schott
+
+
+ 
+
+ 
+Title: Senior Vice President and Chief Financial Officer
+
+
+
+
+
+GUARANTOR:
+ 
+
+ 
+GOODRICH PETROLEUM CORPORATION
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /S/ Michael J. Killelea
+
+
+ 
+
+ 
+Name: Michael J. Killelea
+
+
+ 
+
+ 
+Title: Senior Vice President, General Counsel and Corporate Secretary
+
+   S-1
+ Signature Page to Eighth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE AGENT:
+ 
+
+ 
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as Administrative Agent and as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /S/ Greg Smothers
+
+
+ 
+
+ 
+Name:
+ 
+Greg Smothers
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+   S-2
+ Signature Page to Eighth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF MONTREAL, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /S/ James V. Ducote
+
+
+ 
+
+ 
+Name:
+ 
+James V. Ducote
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+   S-3
+ Signature Page to Eighth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+COMPASS BANK, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /S/ Ian Payne
+
+
+ 
+
+ 
+Name:
+ 
+Ian Payne
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   S-4
+ Signature Page to Eighth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+JPMORGAN CHASE BANK, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By
+ 
+ /S/ Ryan Aman
+
+
+ 
+
+ 
+Name:
+ 
+Ryan Aman
+
+
+ 
+
+ 
+Title:
+ 
+Authorized Officer
+
+   S-5
+ Signature Page to Eighth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF AMERICA, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /S/ Michael Clayborne
+
+
+ 
+
+ 
+Name:
+ 
+Michael Clayborne
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   S-6
+ Signature Page to Eighth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ROYAL BANK OF CANADA, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /S/ Jay T. Sartain
+
+
+ 
+
+ 
+Name:
+ 
+Jay T. Sartain
+
+
+ 
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   S-7
+ Signature Page to Eighth Amendment to Second A&R Credit Agreement 
+
+
+

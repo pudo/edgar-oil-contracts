@@ -1,0 +1,482 @@
+
+EX-10.16
+3
+d477194dex1016.htm
+EX-10.16
+
+
+EX-10.16
+
+ 
+
+ Exhibit 10.16 
+  
+
+
+
+     
+NOTICE OF GRANT OF PERFORMANCE RESTRICTED STOCK AWARD  AND AWARD AGREEMENT   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+%%FIRST_NAME%-% %%MIDDLE_NAME%-% %%LAST_NAME%-%
+  
+Award Number:                    
+
+%%OPTION_NUMBER%-%
+  
+
+  
+
+
+%%ADDRESS_LINE_1%-%
+  
+                            
+Plan:    %%EQUITY_PLAN%-%
+
+%%ADDRESS_LINE_2%-%
+  
+                           
+ ID:    %%EMPLOYEE_IDENTIFIER%-%
+
+%%CITY%-%, %%STATE%-%, %%ZIPCODE%-%
+  
+
+    
+Effective «Grant_Date», you have been granted a Performance Restricted Stock Award of %%TOTAL_SHARES_GRANTED%-% shares of
+Devon Energy Corporation (the Company) Common Stock (the Award) under the Companys 2009 Long-Term Incentive Plan, as amended and restated June 6, 2012. None of the shares subject to this Award shall vest, and this
+Award shall terminate in its entirety, should the Company fail to attain the Performance Goal specified in attached Schedule A for the Performance Period. Except as otherwise provided in the Award Agreement, if such Performance Goal is attained and
+certified, then the Restricted Shares will vest in four (4) separate installments as follows: (a) twenty-five percent (25%) of the Restricted Shares will vest upon the completion of the Performance Period and the Committees
+certification of the attainment of the Performance Goal, and Vested Stock will be released as soon as practicable following the Committees certification of the Companys attainment of the Performance Goal, and (b) the balance of the
+Restricted Shares will vest, and Vested Stock will be released, in a series of three (3) successive equal annual installments on the second, third and fourth anniversaries of the Date of Grant. 
+    By accepting this agreement online, you and the Company agree that this award is granted under and governed by the terms and conditions of the Companys 2009 Long-Term Incentive Plan, as amended
+and restated June 6, 2012, and the Award Agreement, both of which are attached and made a part of this document.   
+ 
+
+
+
+
+ DEVON ENERGY CORPORATION 
+2009 LONG-TERM INCENTIVE PLAN  PERFORMANCE RESTRICTED STOCK AWARD AGREEMENT  THIS PERFORMANCE RESTRICTED
+STOCK AWARD AGREEMENT (the Award Agreement) is entered into as of %%OPTION_DATE%-% (the Date of Grant), by and between Devon Energy Corporation (the Company) and %%FIRST_NAME%-% %%MIDDLE_NAME%-%
+%%LAST_NAME%-% (the Participant);  W I T N E S S E T H: 
+WHEREAS, the Devon Energy Corporation 2009 Long-Term Incentive Plan, as amended and restated June 6, 2012 (the Plan)
+permits the grant of Restricted Stock that vests based upon performance standards (referred to herein as a Performance Restricted Stock) to employees, officers and non-employee directors of the Company and its Subsidiaries and Affiliated
+Entities, in accordance with the terms and provisions of the Plan; and  WHEREAS, in connection with the Participants
+employment with the Company, the Company desires to award to the Participant %%TOTAL_SHARES_GRANTED%-% shares of the Companys Common Stock under the Plan subject to the terms and conditions of this Award Agreement and the Plan; and
+ NOW, THEREFORE, in consideration of the premises and the mutual promises and covenants herein contained, the Participant and
+the Company agree as follows:  1. The Plan. The Plan, a copy of which is attached hereto, is hereby incorporated by
+reference herein and made a part hereof for all purposes, and when taken with this Award Agreement shall govern the rights of the Participant and the Company with respect to the Award. 
+2. Grant of Award. The Company hereby grants to the Participant an award (the Award) of
+%%TOTAL_SHARES_GRANTED%-% shares of the Companys Common subject to the restrictions placed thereon pursuant to the terms of this Award Agreement (Performance Restricted Stock), on the terms and conditions set forth
+herein and in the Plan.  3. Terms of Award.  (a) Escrow of Shares. A certificate or book-entry registration representing the Performance Restricted Stock shall be issued in the name of the Participant and shall be escrowed with the Secretary
+of the Company (the Escrow Agent) subject to removal of the restrictions placed thereon or forfeiture pursuant to the terms of this Award Agreement.  (b) Vesting. Except as provided in this Section 3, if the Participants Date of Termination has not occurred as of the vesting dates specified below (the Vesting Dates), then,
+the Participant shall be entitled, subject to the applicable provisions of the Plan and this Award Agreement having been satisfied, to receive on or within a reasonable time after the applicable Vesting Dates the number of shares of Common Stock as
+described in the following schedule. Once vested pursuant to the terms of this Award Agreement, the Performance Restricted Stock shall be deemed Vested Stock. 
+
+
+
+
+ Vesting Schedule 
+If the Performance Goal (specified in attached Schedule A) for the Performance Period (specified in attached Schedule A) is attained and
+certified, then the Award will vest in four (4) separate installments as follows:  (i) twenty-five
+percent (25%) (or %%SHARES_Period1%-%) of the Restricted Shares will vest upon the completion of the Performance Period and the Vested Stock will be released within a reasonable time following the Committees certification of the
+Companys attainment of the Performance Goal;  (ii) 25% (or %%SHARES_Period2%-%) of the
+Restricted Shares will vest, and the Vested Stock will be released, on %%Vest_DATE_PERIOD2%-%;  (iii)
+25% (or %%SHARES_Period3%-%) of the Restricted Shares will vest, and the Vested Stock will be released, on %%Vest_DATE_PERIOD3%-%; and  (iv) the remaining 25% (or %%SHARES_Period4%-%) of the Restricted Shares will vest, and the Vested Stock will be released, on %%Vest_DATE_PERIOD4%-%. 
+Notwithstanding the foregoing, no fractional shares of Common Stock shall be issued pursuant to this Award, and any fractional share
+resulting from any calculation made in accordance with the terms of this Award Agreement shall be aggregated, and any such aggregated shares will vest, and the Vested Stock will be released, at the time provided in (3)(b)(iv) above. 
+Except as otherwise provided in Section 3(c) below, none of the shares subject to this Award shall vest should the Company fail to
+attain the Performance Goal for the Performance Period. Except to the extent that an Award has previously vested pursuant to Section 3(c) below, this Award shall terminate in its entirety and shall not vest should the Company fail to attain the
+Performance Goal for the Performance Period.  (c) Change in Control Event or Death or Disability. Notwithstanding any
+provision to the contrary in this Award Agreement, a Participant shall become fully and immediately vested in the Award in the event of the Participants death or the occurrence of a Change in Control Event, without regard to attainment or
+certification of the Performance Goal. In the event of the Participants death or the occurrence of a Change in Control Event, the Vested Stock will be released within a reasonable time thereafter. If the Participants Date of Termination
+occurs by reason of disability, the Committee may, in its sole and absolute discretion, elect to vest all or a portion of the unvested Performance Restricted Stock upon the Participants Date of Termination and the Vested Stock will be released
+within a reasonable time thereafter. 
+
+
+
+
+ (d) Termination of Employment. The Participant shall forfeit the unvested portion of
+the Award (including the underlying Performance Restricted Stock and Accrued Dividends) upon the occurrence of the Participants Date of Termination unless the Performance Goal is attained and certified and the Award becomes vested under the
+circumstances described below.  (i) If the Participants Date of Termination occurs under circumstances in which the
+Participant is entitled to a severance payment from the Company, a Subsidiary, or an Affiliated Entity under (1) the Participants employment agreement or severance agreement with the Company due to a termination of the Participants
+employment by the Company without cause or by the Participant for good reason in accordance with the Participants employment agreement or severance agreement or (2) the Devon Energy Corporation Severance Plan, and
+if the Participant signs and returns to the Company a release of claims against the Company in a form prepared by the Company (the Release) and such Release becomes effective, the Performance Restricted Stock shall be treated as vested
+as of the Participants Date of Termination, provided the Date of Termination occurs after the Performance Goal is attained and certified, and the Performance Restricted Stock shall be released within a reasonable time thereafter. If the
+Participants Date of Termination occurs before the Performance Goal is attained and certified, the Performance Restricted Stock shall be treated as vested as of the certification of attainment of the Performance Goal, and the Performance
+Restricted Stock, if vested, shall be released within a reasonable time thereafter. Notwithstanding the foregoing, if the Performance Goal is not attained and certified, or if Participant fails to sign and return the Release to the Company or
+revokes the Release prior to the date the Release becomes effective, then the unvested shares of Performance Restricted Stock subject to this Award Agreement shall not vest pursuant to this Section 3(d)(i) and shall be forfeited. 
+(ii) If a Participants Date of Termination occurs by reason of Normal Retirement Date, Early Retirement Date, or other special
+circumstances (as determined by the Committee), and the Committee determines, in its sole and absolute discretion, that the Performance Restricted Stock shall continue to vest following the Participants Date of Termination, the Performance
+Restricted Stock shall continue to vest after the Participants Date of Termination in accordance with the Vesting Schedule in Section 3(b) above and the Performance Restricted Stock shall be released within a reasonable time after the
+applicable Vesting Date; provided that, if the Participant is Retirement Eligible, the Participant shall, subject to the satisfaction of the conditions in Section 16, be eligible to vest in accordance with the Vesting Schedule above in
+Section 3(b), in the installments of Performance Restricted Stock that remain unvested on the Date of Termination as follows:   
+
+
+
+
+
+
+
+
+
+
+
+ Age at Retirement
+  
+Percentage of each Unvested Installment ofPerformance Restricted Stock Eligible
+tobe Earned by the Participant
+
+
+
+ 54 and earlier
+  
+ 
+ 
+0
+%
+
+ 55
+  
+ 
+ 
+60
+%
+
+ 56
+  
+ 
+ 
+65
+%
+
+ 57
+  
+ 
+ 
+70
+%
+
+ 58
+  
+ 
+ 
+75
+%
+
+ 59
+  
+ 
+ 
+80
+%
+
+ 60 and beyond
+  
+ 
+ 
+100
+%
+
+
+
+
+
+ (e) Voting Rights and Dividends. The Participant shall not have voting rights
+attributable to the shares of Performance Restricted Stock prior to the completion of the Performance Period and the Committees certification of the Companys attainment of the Performance Goal. Any dividends declared and paid by the
+Company with respect to shares of Performance Restricted Stock prior to the Committees certification of the attainment of the Performance Goal (the Accrued Dividends) shall not be paid to the Participant until and unless the
+Committee certifies the attainment of the Performance Goal. Any such Accrued Dividends shall be forfeited if the Award is terminated because the Performance Goal is not attained. If the Performance Goal is attained and certified, the Accrued
+Dividends shall be paid to the Participant within a reasonable time thereafter and any dividends or other distributions (in cash or other property, but excluding extraordinary dividends) that are declared and/or paid with respect to the shares of
+Performance Restricted Stock shall be paid to the Participant on a current basis. Any extraordinary dividends (i.e., special or nonrecurring dividends in excess of the regular dividends paid by the Company), in cash or property, on
+Performance Restricted Stock shall not be paid until and unless the Performance Restricted Stock becomes Vested Stock.  (f)
+Certification of Performance Goal. Except in the event of the occurrence of a Change in Control Event, the Committee shall, as soon as practicable following the last day of the Performance Period, determine and certify, based on the
+Companys financial statements for the fiscal year coincident with the Performance Period, whether the Performance Goal for the Performance Period has been attained. Such certification shall be final, conclusive and binding on the Participant,
+and on all other persons, to the maximum extent permitted by law.  (g) Vested StockRemoval of Restrictions. Upon
+Performance Restricted Stock becoming Vested Stock, all restrictions shall be removed from the certificates or book-entry registrations and the Secretary of the Company shall deliver to the Participant certificates or a Direct Registration Statement
+for the book-entry registration representing such Vested Stock free and clear of all restrictions, except for any applicable securities laws restrictions, together with a check in the amount of all Accrued Dividends attributed to such Vested Stock
+without interest thereon.  4. Legends. The shares of Performance Restricted Stock which are the subject of this Award
+Agreement shall be subject to the following legend:  THE SHARES OF STOCK EVIDENCED BY THIS CERTIFICATE OR BOOK-ENTRY
+REGISTRATION ARE SUBJECT TO AND ARE TRANSFERABLE ONLY IN ACCORDANCE WITH THAT CERTAIN AWARD AGREEMENT DATED %%OPTION_DATE%-% FOR THE DEVON ENERGY CORPORATION 2009 LONG-TERM INCENTIVE PLAN, AS AMENDED AND RESTATED JUNE 6, 2012. ANY
+ATTEMPTED TRANSFER OF THE SHARES OF STOCK EVIDENCED BY THIS CERTIFICATE OR BOOK-ENTRY REGISTRATION IN VIOLATION OF SUCH AWARD AGREEMENT SHALL BE NULL AND VOID AND WITHOUT EFFECT. A COPY OF THE AWARD AGREEMENT MAY BE OBTAINED FROM THE SECRETARY OF
+DEVON ENERGY CORPORATION.  5. Delivery of Forfeited Shares. The Participant authorizes the Secretary to deliver
+to the Company any and all shares of Performance Restricted Stock that are forfeited under the provisions of this Award Agreement. The Participant further authorizes the Company to hold as a general obligation of the Company any Accrued Dividends
+and to pay the Accrued Dividends to the Participant at the time the underlying Performance Restricted Stock becomes Vested Stock. 
+
+
+
+
+ 6. Certain Corporate Changes. If any change is made to the Common Stock (whether by
+reason of merger, consolidation, reorganization, recapitalization, stock dividend, stock split, combination of shares, or exchange of shares or any other change in capital structure made without receipt of consideration), then unless such event or
+change results in the termination of all the Performance Restricted Stock granted under this Award Agreement, the Committee shall adjust, in an equitable manner and as provided in the Plan, the number and class of shares underlying the Performance
+Restricted Stock, the maximum number of shares for which the Award may vest, and the share price or class of Common Stock as appropriate, to reflect the effect of such event or change in the Companys capital structure in such a way as to
+preserve the value of the Award.  7. Employment. Nothing in the Plan or in this Award Agreement shall confer upon the
+Participant any right to continue in the employ of the Company or any of its Subsidiaries or Affiliated Entities, or interfere in any way with the right to terminate the Participants employment at any time. 
+8. Nontransferability of Award. The Participant shall not have the right to sell, assign, transfer, convey, dispose, pledge,
+hypothecate, burden, encumber or charge any Performance Restricted Stock or any interest therein in any manner whatsoever.  9.
+Notices. All notices or other communications relating to the Plan and this Award Agreement as it relates to the Participant shall be in writing and shall be delivered electronically, personally or mailed (U.S. mail) by the Company to the
+Participant at the then current address as maintained by the Company or such other address as the Participant may advise the Company in writing.  10. Binding Effect and Governing Law. This Award Agreement shall be (i) binding upon and inure to the benefit of the parties hereto and their respective heirs, successors and assigns except as
+may be limited by the Plan, and (ii) governed and construed under the laws of the State of Delaware.  11. Company
+Policies. The Participant agrees that the Award will be subject to any applicable clawback or recoupment policies, share trading policies and other policies that may be implemented by the Companys Board of Directors or a duly authorized
+committee thereof, from time to time.  12. Withholding. The Company and the Participant shall comply with all federal
+and state laws and regulations respecting the required withholding, deposit and payment of any income, employment or other taxes relating to the Award (including Accrued Dividends). The Company shall withhold the employers minimum statutory
+withholding based upon minimum statutory withholding rates for federal and state purposes, including payroll taxes that are applicable to such supplemental taxable income. Any payment of required withholding taxes by the Participant in the form of
+Common Stock shall not be permitted if it would result in an accounting charge with respect to such shares used to pay such taxes unless otherwise approved by the Committee. 
+
+
+
+
+ 13. Award Subject to Claims of Creditors. The Participant shall not have any interest
+in any particular assets of the Company, its parent, if applicable, or any Subsidiary or Affiliated Entity by reason of the right to earn an Award (including Accrued Dividends) under the Plan and this Award Agreement, and the Participant or any
+other person shall have only the rights of a general unsecured creditor of the Company, its parent, if applicable, or a Subsidiary or Affiliated Entity with respect to any rights under the Plan or this Award Agreement. 
+14. Captions. The captions of specific provisions of this Award Agreement are for convenience and reference only, and in no way
+define, describe, extend or limit the scope of this Award Agreement or the intent of any provision hereof.  15.
+Counterparts. This Award Agreement may be executed in any number of identical counterparts, each of which shall be deemed an original for all purposes, but all of which taken together shall form one agreement. 
+16. Conditions to Post-Retirement Vesting.  (a) Notice of and Conditions to Post-Retirement Vesting. If the Participant is Retirement Eligible, the Company shall, within a reasonable period of time prior to the Participants Date of
+Termination, notify the Participant that the Participant has the right, pursuant to this Section 16(a), to continue to vest following the Date of Termination in any unvested installments of Performance Restricted Stock (each such unvested
+installment, an Installment). The Participant shall have the right to vest in such Installments of Performance Restricted Stock, provided that the Participant executes and delivers to the Company, with respect to each such Installment,
+the following documentation: (i) a non-disclosure letter agreement, in the form attached as Exhibit A, (a Non-Disclosure Agreement) on or before January 1 of the year in which such Installment vests pursuant to the Vesting
+Schedule (or, with respect to the calendar year in which the Date of Termination occurs, on or before the Date of Termination), and (ii) a compliance certificate, in the form attached as Exhibit B, (a Compliance Certificate)
+indicating the Participants full compliance with the Non-Disclosure Agreement on or before November 1 of the year in which such Installment vests pursuant to the Vesting Schedule. 
+(b) Consequences of Failure to Satisfy Vesting Conditions. In the event that, with respect to any given Installment, the
+Participant fails to deliver either the respective Non-Disclosure Agreement or Compliance Certificate for such Installment on or before the date required for the delivery of such document (such failure, a Non-Compliance Event), the
+Participant shall not be entitled to vest in any unvested Installments that would vest from and after the date of the Non-Compliance Event and the Company shall be authorized to take any and all such actions as are necessary to cause such unvested
+Performance Restricted Stock to not vest and to terminate. The only remedy of the Company for failure to deliver a Non-Disclosure Agreement or a Compliance Certificate shall be the failure to vest in, and cancellation of, any unvested Installments
+then held by the Participant.  17. Definitions. Words, terms or phrases used in this Award Agreement shall have the
+meaning set forth in this Section 17. Capitalized terms used in this Award Agreement but not defined herein shall have the meaning designated in the Plan.  (a) Accrued Dividends has the meaning set forth in Section 3(e).  (b) Award has the meaning set forth in Section 2. 
+
+
+
+
+ (c) Award Agreement has the meaning set forth in the preamble.
+ (d) Company has the meaning set forth on the Cover Page. 
+(e) Compliance Certificate has the meaning set forth in Section 16(a). 
+(f) Date of Grant has the meaning set forth in the preamble. 
+(g) Date of Termination means the first day occurring on or after the Date of Grant on which the Participant is not
+employed by the Company, a Subsidiary, or an Affiliated Entity regardless of the reason for the termination of employment; provided, however, that a termination of employment shall not be deemed to occur by reason of a transfer of the Participant
+between the Company, a Subsidiary, and an Affiliated Entity or between two Subsidiaries or two Affiliated Entities. The Participants employment shall not be considered terminated while the Participant is on a leave of absence from the Company,
+a Subsidiary, or an Affiliated Entity approved by the Participants employer pursuant to Company policies. If, as a result of a sale or other transaction, the Participants employer ceases to be either a Subsidiary or an Affiliated Entity,
+and the Participant is not, at the end of the 30-day period following the transaction, employed by the Company or an entity that is then a Subsidiary or Affiliated Entity, then the date of occurrence of such transaction shall be treated as the
+Participants Date of Termination.  (h) Early Retirement Date means, with respect to the Participant,
+the first day of a month that occurs on or after the date the Participant (i) attains age 55 and (ii) earns at least 10 Years of Service.  (i) Escrow Agent has the meaning set forth in Section 3(a).  (j) Installment has the meaning set forth in Section 16(a).  (k) Non-Compliance Event has the meaning set forth in Section 16(b).  (l) Non-Disclosure Agreement has the meaning set forth in Section 16(a).  (m) Normal Retirement Date means, with respect to the Participant, the first day of a month that occurs on or after the date the Participant attains age 65. 
+(n) Participant has the meaning set forth in the preamble. 
+(o) Plan has the meaning set forth in the preamble. 
+(p) Performance Restricted Stock has the meaning set forth in the preamble and Section 2. 
+(q) Retirement Eligible means the Participants Date of Termination occurs (i) by reason of the
+Participants retirement and (ii) on or after the Participants Early Retirement Date. 
+
+
+
+
+ (r) Vested Stock has the meaning set forth in Section 3(b).
+ (s) Vesting Date has the meaning set forth in Section 3(b). 
+(t) Year of Service means a calendar year in which the Participant is employed with the Company, a Subsidiary or
+Affiliated Entity for at least nine months of a calendar year. When calculating Years of Service hereunder, Participants first hire date with the Company, a Subsidiary or Affiliated Entity shall be used. 
+ 
+
+
+
+
+
+
+
+
+
+
+COMPANY
+  
+DEVON ENERGY CORPORATION
+
+
+  
+a Delaware corporation
+
+
+
+
+PARTICIPANT
+  
+%%FIRST_NAME%-% %%MIDDLE_NAME%-%
+
+
+  
+%%LAST_NAME%-%
+
+
+  
+%%ADDRESS_LINE1%-%
+
+
+  
+%%ADDRESS_LINE2%-%
+
+
+  
+%%CITY%-%, %%STATE%-%, %%ZIPECODE%-%
+
+
+  
+ID «ID»
+
+
+
+
+
+   
+
+
+
+  SCHEDULE A  PERFORMANCE PERIOD AND PERFORMANCE GOAL  1. Performance
+Period. The measurement period for the Performance Goal shall be the period beginning January 1, 2013 and ending December 31, 2013 (the Performance Period). 
+2. Performance Goal. The Performance Goal is based on the Companys cash flow before balance sheet changes. Vesting will be
+based on the Companys achievement of $3.5 billion in cash flow before balance sheet changes during the Performance Period and the Committees certification of the attainment of the Performance Goal. 
+3. Certification of Performance Goal. Except in the event of the occurrence of a Change in Control Event, the Committee shall, as
+soon as practicable following the last day of the Performance Period, determine and certify, based on the Companys financial statements for the fiscal year coincident with the Performance Period, whether the Performance Goal for the
+Performance Period has been attained. Such certification shall be final, conclusive and binding on the Participant, and on all other persons, to the maximum extent permitted by law. 
+4. Maximum Award. The maximum number of shares of Performance Restricted Stock that may become earned and vested pursuant to this
+Award is %%TOTAL_SHARES_GRANTED%-%. 
+
+
+
+
+ EXHIBIT A  Form of Non-Disclosure Agreement  [Insert Date] 
+Devon Energy Corporation  333 West Sheridan
+Avenue  Oklahoma City, OK 73102-5010   
+
+
+ 
+Re:
+Non-Disclosure Agreement  Ladies and Gentlemen:
+ This letter agreement is entered between Devon Energy Corporation (together with its subsidiaries and affiliates, the
+Company) and the undersigned (the Participant) in connection with that certain Performance Restricted Stock Award Agreement (the Agreement) dated
+                    , 20     between the Company and the Participant. All capitalized terms used in this letter agreement shall
+have the same meaning ascribed to them in the Agreement unless specifically denoted otherwise.  The Participant acknowledges
+that, during the course of and in connection with the employment relationship between the Participant and the Company, the Company provided and the Participant accepted access to the Companys trade secrets and confidential and proprietary
+information, which included, without limitation, information pertaining to the Companys finances, oil and gas properties and prospects, compensation structures, business and litigation strategies and future business plans and other information
+or material that is of special and unique value to the Company and that the Company maintains as confidential and does not disclose to the general public, whether through its annual report and/or filings with the Securities and Exchange Commission
+or otherwise (the Confidential Information).  The Participant acknowledges that his position with the Company was
+one of trust and confidence because of the access to the Confidential Information, requiring the Participants best efforts and utmost diligence to protect and maintain the confidentiality of the Confidential Information. Unless required by the
+Company or with the Companys express written consent, the Participant will not, during the term of this letter agreement, directly or indirectly, disclose to others or use for his own benefit or the benefit of another any of the Confidential
+Information, whether or not the Confidential Information is acquired, learned, attained or developed by the Participant alone or in conjunction with others.  The Participant agrees that, due to his access to the Confidential Information, the Participant would inevitably use and/or disclose that Confidential Information in breach of his confidentiality and
+non-disclosure obligations if the Participant worked in certain capacities or engaged in certain activities for a period of time following his employment with the Company, specifically in a position that involves (i) responsibility and
+decision-making authority or input at the executive level regarding any subject or responsibility, (ii) decision-making responsibility or input at any management level in the Participants individual area of assignment with the Company, or
+(iii) responsibility and decision-making authority or input that otherwise allows the use of the Confidential Information (collectively referred to as the Restricted Occupation). Therefore, except with the prior written consent of
+the Company, 
+
+
+
+
+ 
+during the term of this letter agreement, the Participant agrees not to be employed by, consult for or otherwise act on behalf of any person or entity in any capacity in which he would be
+involved, directly or indirectly, in a Restricted Occupation. The Participant acknowledges that this commitment is intended to protect the Confidential Information and is not intended to be applied or interpreted as a covenant against competition.
+ The Participant further agrees that during the term of this letter agreement, the Participant will not, directly or
+indirectly on behalf of a person or entity or otherwise, (i) solicit any of the established customers of the Company or attempt to induce any of the established customers of the Company to cease doing business with the Company, or
+(ii) solicit any of the employees of the Company to cease employment with the Company.  This letter agreement shall
+become effective upon execution by the Participant and the Company and shall terminate on December 31, 20    . [Note: Insert date that is the end of the calendar year of the letter agreement.] 
+If you agree to the above terms and conditions, please execute a copy of this letter agreement below and return a copy to me. 
+ 
+
+
+
+
+
+
+
+
+PARTICIPANT
+
+
+
+ 
+
+[Name of Participant]
+ THE UNDERSIGNED HEREBY ACCEPTS AND AGREES TO THE TERMS SET FORTH ABOVE AS OF THIS
+             DAY OF                     ,     .
+  
+
+
+
+
+
+
+
+
+
+
+COMPANY
+
+
+
+DEVON ENERGY CORPORATION 
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+  
+
+
+
+
+
+
+
+
+
+Name:
+ 
+  
+
+
+
+
+
+
+
+
+
+Title:
+ 
+ 
+  
+
+
+
+
+ EXHIBIT B  Form of Compliance Certificate  I hereby certify that I am in full compliance
+with the covenants contained in that certain letter agreement (the Agreement) dated as of                     ,
+         between Devon Energy Corporation and me and have been in full compliance with such covenants at all times during the period ending October 31,         .
+  
+
+
+
+
+
+
+
+
+[Name of Participant]
+ Dated:
+                                        
+
+
+

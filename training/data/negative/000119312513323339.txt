@@ -1,0 +1,869 @@
+
+EX-10.22.5.9.6
+2
+d542081dex1022596.htm
+EX-10.22.5.9.6
+
+
+EX-10.22.5.9.6
+
+ 
+
+ Exhibit 10.22596 
+    SIXTH AMENDMENT TO SECOND  AMENDED AND RESTATED CREDIT AGREEMENT 
+AMONG 
+PRIMEENERGY CORPORATION  THE GUARANTORS PARTY HERETO  COMPASS BANK 
+AS ADMINISTRATIVE AGENT, LETTER OF CREDIT ISSUER  AND COLLATERAL AGENT  AND 
+THE LENDERS SIGNATORY HERETO  Effective  June 28, 2013 
+   
+
+
+
+
+ TABLE OF CONTENTS 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  
+PAGE
+ 
+
+
+
+
+
+
+
+ ARTICLE I
+ 
+ DEFINITIONS
+  
+ 
+1
+  
+
+ 1.1
+ 
+ Terms Defined Above
+  
+ 
+1
+  
+
+ 1.2
+ 
+ Terms Defined in Agreement
+  
+ 
+2
+  
+
+ 1.3
+ 
+ References
+  
+ 
+2
+  
+
+ 1.4
+ 
+ Articles and Sections
+  
+ 
+2
+  
+
+ 1.5
+ 
+ Number and Gender
+  
+ 
+2
+  
+
+ 1.6
+ 
+ Negotiated Transaction
+  
+ 
+2
+  
+
+
+
+
+
+ ARTICLE II
+ 
+ AMENDMENTS
+  
+ 
+3
+  
+
+ 2.1
+ 
+ Amendments to Section 1.2
+  
+ 
+3
+  
+
+ 2.2
+ 
+ Addition of Section 2.26
+  
+ 
+4
+  
+
+ 2.3
+ 
+ Amendment to Section 5.4
+  
+ 
+5
+  
+
+ 2.4
+ 
+ Amendments to Section 6.1
+  
+ 
+5
+  
+
+ 2.5
+ 
+ Amendment to Section 6.2
+  
+ 
+6
+  
+
+ 2.6
+ 
+ Amendment to Section 6.4
+  
+ 
+6
+  
+
+ 2.7
+ 
+ Amendment to Section 6.5
+  
+ 
+6
+  
+
+ 2.8
+ 
+ Amendment to Section 7.2(e)
+  
+ 
+6
+  
+
+ 2.9
+ 
+ Amendment to Table of Contents
+  
+ 
+7
+  
+
+
+
+
+
+ ARTICLE III
+ 
+ CONDITION TO EFFECTIVENESS
+  
+ 
+7
+  
+
+
+
+
+
+ ARTICLE IV
+ 
+ RATIFICATION AND ACKNOWLEDGMENTS
+  
+ 
+7
+  
+
+
+
+
+
+ ARTICLE V
+ 
+ REPRESENTATIONS AND WARRANTIES
+  
+ 
+7
+  
+
+
+
+
+
+ ARTICLE VI
+ 
+ MISCELLANEOUS
+  
+ 
+7
+  
+
+ 6.1
+ 
+ Parties in Interest
+  
+ 
+7
+  
+
+ 6.2
+ 
+ Rights of Third Parties
+  
+ 
+7
+  
+
+ 6.3
+ 
+ Counterparts
+  
+ 
+8
+  
+
+ 6.4
+ 
+ Integration
+  
+ 
+8
+  
+
+ 6.5
+ 
+ Invalidity
+  
+ 
+8
+  
+
+ 6.6
+ 
+ Governing Law
+  
+ 
+8
+  
+
+ 6.7
+ 
+ Scope of Amendment
+  
+ 
+8
+  
+
+   - i -
+
+
+
+
+
+
+ SIXTH AMENDMENT TO SECOND 
+AMENDED AND RESTATED CREDIT AGREEMENT  This SIXTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT (this Amendment) is made and entered into effective as of June 28, 2013 (the Effective Date)
+by and among PRIMEENERGY CORPORATION, a Delaware corporation (the Borrower), PRIMEENERGY MANAGEMENT CORPORATION, a New York corporation, PRIME OPERATING COMPANY, a Texas corporation, EASTERN OIL WELL SERVICE COMPANY, a West
+Virginia corporation, SOUTHWEST OILFIELD CONSTRUCTION COMPANY, an Oklahoma corporation, E O W S MIDLAND COMPANY, a Texas corporation, PRIME OFFSHORE L.L.C., a Delaware limited liability company, each lender that is a signatory hereto (individually,
+together with its successors and assigns, a Lender and collectively, together with their respective successors and assigns, the Lenders) and COMPASS BANK, an Alabama banking association and successor in interest
+to Guaranty Bank, FSB, a federal savings bank, as agent for the Lenders, letter of credit issuer and collateral agent for the Lenders and any other Lender Hedge Counterparties (in such capacities, together with its successors in such capacity
+pursuant to the terms of the Second Amended and Restated Credit Agreement referred to hereinafter, the Agent).  W I T N E S S E T H:  WHEREAS, the Borrower, the Guarantors (as such term is defined in such Second Amended and Restated Credit Agreement), Prime Offshore (the Initial Guarantors and Prime Offshore, collectively, the
+Guarantors), the Lenders and the Agent are parties to that certain Second Amended and Restated Credit Agreement dated effective July 30, 2010, as amended by that certain First Amendment to Second Amended and Restated Credit
+Agreement dated effective September 30, 3010, that certain Second Amendment to Second Amended and Restated Credit Agreement dated effective June 22, 2011, that certain Third Amendment to Second Amended and Restated Credit Agreement dated
+effective December 8, 2011, that certain Fourth Amendment to Second Amended and Restated Credit Agreement dated effective June 25, 2012 and that certain Fifth Amendment to Second Amended and Restated Credit Agreement dated effective
+November 26, 2012 (as so amended, the Agreement), to which reference is here made for all purposes; 
+WHEREAS, the Borrower, the Guarantors, the Lenders and the Agent desire to amend the Agreement in the particulars hereinafter set forth;
+ NOW, THEREFORE, in consideration of the mutual covenants and agreements of the parties to the Agreement, as set forth
+therein, and the mutual covenants and agreements of the parties hereto, as set forth herein, the Borrower, the Initial Guarantors, the Lenders and the Agent agree as follows:  ARTICLE I  DEFINITIONS 
+1.1 Terms Defined Above. As used in this Sixth Amendment to Second Amended and Restated Credit Agreement, each of the terms
+Agent, Agreement, Amendment, Borrower, Effective Date, Guarantors, Lender and Lenders shall have
+the meaning assigned to such term hereinabove. 
+
+
+
+
+ 1.2 Terms Defined in Agreement. As used herein, each term defined in the Agreement
+shall have the meaning assigned thereto in the Agreement, unless expressly provided herein to the contrary.  1.3
+References. References in this Amendment to Schedule, Exhibit, Article, or Section numbers shall be to Schedules, Exhibits, Articles, or Sections of this Amendment, unless expressly stated to the contrary. References in this Amendment to
+hereby, herein, hereinafter, hereinabove, hereinbelow, hereof, hereunder and words of similar import shall be to this Amendment in its entirety and not only to the
+particular Schedule, Exhibit, Article, or Section in which such reference appears. Specific enumeration herein shall not exclude the general and, in such regard, the terms includes and including used herein shall mean
+includes, without limitation, or including, without limitation, as the case may be, where appropriate. Except as otherwise indicated, references in this Amendment to statutes, sections, or regulations are to be construed as
+including all statutory or regulatory provisions consolidating, amending, replacing, succeeding, or supplementing the statute, section, or regulation referred to. References in this Amendment to writing include printing, typing,
+lithography, facsimile reproduction, and other means of reproducing words in a tangible visible form. References in this Amendment to amendments and other contractual instruments shall be deemed to include all exhibits and appendices attached
+thereto and all subsequent amendments and other modifications to such instruments, but only to the extent such amendments and other modifications are not prohibited by the terms of this Amendment. References in this Amendment to Persons include
+their respective successors and permitted assigns.  1.4 Articles and Sections. This Amendment, for convenience only,
+has been divided into Articles and Sections; and it is understood that the rights and other legal relations of the parties hereto shall be determined from this instrument as an entirety and without regard to the aforesaid division into Articles and
+Sections and without regard to headings prefixed to such Articles or Sections.  1.5 Number and Gender. Whenever the
+context requires, reference herein made to the single number shall be understood to include the plural; and likewise, the plural shall be understood to include the singular. Definitions of terms defined in the singular or plural shall be equally
+applicable to the plural or singular, as the case may be, unless otherwise indicated. Words denoting sex shall be construed to include the masculine, feminine and neuter, when such construction is appropriate; and specific enumeration shall not
+exclude the general but shall be construed as cumulative.  1.6 Negotiated Transaction. Each party to this Amendment
+affirms to the other that it has had the opportunity to consult, and discuss the provisions of this Amendment with, independent counsel and fully understands the legal effect of each provision. 
+   -2-
+
+
+
+
+
+
+ ARTICLE II  AMENDMENTS  Effective as of the Effective Date, the Agreement is amended
+as follows:  2.1 Amendments to Section 1.2. Section 1.2 of the Agreement is amended as follows: 
+(a) clause (g) of the definition of Permitted Liens appearing in such Section 1.2 is amended to read as follows in
+its entirety:  (g) Liens securing the purchase price or rental obligations of or with respect to Property, including
+vehicles and equipment, acquired or leased by the Borrower or any of the Guarantors in the ordinary course of business (including Liens existing under conditional sale or title retention contracts) or Indebtedness secured by Liens against Property,
+including vehicles and equipment, owned by the Borrower or any of the Guarantors for use in the ordinary course of business at the time the relevant Lien is created, provided that such Liens cover only the acquired, leased or owned and the
+aggregate unpaid purchase price, rental obligations or Indebtedness secured by such Liens does not violate Section 6.1,; and  (b) to amend the definition of Obligations to except from the scope thereof all Excluded Swap Obligations; and  (c) to add to such Section 1.2 the following definitions, each in its proper alphabetical location:  Commodity Exchange Act shall mean the Commodity Exchange Act (7 U.S.C. § 1 et seq.).  Eligible Contract Participant shall mean an eligible contract participant as defined in the Commodity Exchange Act and the regulations thereunder. 
+Excluded Swap Obligation shall mean, with respect to any Guarantor, any Swap Obligation if, and to the extent that, all
+or a portion of the Guaranty of such Guarantor of, or the grant by such Guarantor of a security interest to secure, such Swap Obligation (or any Guaranty thereof) is or becomes illegal under the Commodity Exchange Act or any rule, regulation or
+order of the Commodity Futures Trading Commission (or the application or official interpretation of any thereof) by virtue of such Guarantors failure, for any reason, to constitute an Eligible Contract Participant thereunder at the time the
+Guaranty of such Guarantor or the grant of such security interest becomes effective with respect to such Swap Obligation and, if a Swap Obligation arises under a 
+   -3-
+
+
+
+
+
+
+ 
+master agreement governing more than one swap such exclusion shall apply only to the portion of such Swap Obligation that is attributable to Commodity Hedge Agreements or Interest Rate Hedge
+Agreements for which such Guaranty or security interest is or becomes illegal.  Qualified ECP Guarantor
+means, in respect of any Swap Obligation, each Guarantor that has total assets exceeding $10,000,000 at the time the relevant Guaranty or grant of the relevant security interest becomes effective with respect to such Swap Obligation or such other
+Person as constitutes as Eligible Contract Participant and can cause another Person to qualify as an Eligible Contract Participant at such time by entering into a keepwell under Section 1a(18)(A)(v)(II) of the Commodity Exchange Act.
+ Swap Obligation means, with respect to any Guarantor, any obligation to pay or perform under any agreement,
+contract or transaction that constitutes a swap within the meaning of Section 1a(47) of the Commodity Exchange Act.  2.2 Addition of Section 2.26. A new Section 2.26 is added to the Agreement reading as follows:  2.26 Keepwell. Each Qualified ECP Guarantor hereby jointly and severally, absolutely, unconditionally and irrevocably undertakes to provide such funds or other support as may be needed from
+time to time by each other Guarantor to honor all of its obligations under its Guaranty in respect of Swap Obligations; provided, however, that each Qualified ECP Guarantor shall only be liable under this Section 2.26 for
+the maximum amount of such liability that can be hereby incurred without rendering its obligations under this Section 2.26, or otherwise under its Guaranty, voidable under applicable law relating to fraudulent conveyance or fraudulent
+transfer, and not of any greater amount. The obligations of each Qualified ECP Guarantor under this Section 2.26 shall remain in full force and effect until the Obligations are paid in full and all Commitments are terminated or have
+lapsed. Each Qualified ECP Guarantor intends that this Section 2.26 constitute, and this Section 2.26 shall be deemed to constitute, a keepwell, support or other agreement for the benefit of each other Guarantor
+for all purposes of Section 1a(18)(A)(v)(II) of the Commodity Exchange Act. Notwithstanding any other provisions of this Agreement or any other Loan Document, the Obligations guaranteed by any Guarantor or secured by any Lien granted by such
+Guarantor under any Loan Document shall exclude all Excluded Swap Obligations with respect to such Guarantor. 
+   -4-
+
+
+
+
+
+
+ 2.3 Amendment to Section 5.4. Clause (ii) of subsection (a) of
+Section 5.4 of the Agreement is amended to read as follows in its entirety:  (ii) no later than November 1 of
+each year during the term of this Agreement, engineering reports in form and substance satisfactory to the Agent prepared by the Borrower evaluating, as of July 1 of the year for which such reserve reports are furnished, the Oil and Gas
+Properties of the Borrower, PrimeEnergy Management and those limited partnerships in which the Borrower is a partner and the partnership interest of the Borrower in such limited partnership is subject to a first priority Lien in favor of the Agent
+to secure the Obligations and updating the information provided in the reports delivered pursuant to the preceding clause (i).  2.4 Amendments to Section 6.1. Clause (iii) of the first proviso in subsection (a) of Section 6.1 of the Agreement is amended to read as follows in its entirety: 
+(iii) Commodity Hedge Agreements, in form and substance and with an Approved Hedge Counterparty, provided that the notional volumes
+for which (when aggregated with other Commodity Hedge Agreements then in effect, other than basis differential swaps on volumes already hedged pursuant to other Commodity Hedge Agreements) do not exceed, as of the date such Commodity Hedge Agreement
+is executed, ninety percent (90%) of the reasonably anticipated projected production from proved developed producing reserves for each month during the period during which such Commodity Hedge Agreement is in effect for each of crude oil and
+natural gas, calculated separately, for each of the next four succeeding calendar years and seventy percent (70%) of the reasonably anticipated projected production from proved developed producing reserves for each month during the period
+during which such Commodity Hedge Agreement is in effect for each of crude oil and natural gas, calculated separately, for the fifth succeeding calendar year and up to eighty percent (80%) of each component of the projected production of
+natural gas liquids from proved developed producing reserves for terms not exceeding three years; provided that puts and put options may be purchased on production that is subject of an acquisition, pending the completion of such acquisition,
+and puts, excluding the effect of the provision for pending acquisitions, may be purchased limited to total notional volumes of all Commodity Hedge Agreements and put options not exceeding 100% of projected production from proved developed producing
+reserves;  delete and preceding clause (viii) of the first proviso in Section 6.1 of the Agreement; insert
+and preceding new clause (ix) of the first proviso in Section 6.1 of the Agreement appearing below; and (x) new clause (ix) is added to the first proviso in Section 6.1 of the Agreement reading as follows:
+ (ix) in addition to other Indebtedness excepted from the prohibition of this Section 6.1, Indebtedness (for
+the avoidance of doubt, including capitalized lease obligations) not exceeding, when taken together with lease backs permitted pursuant to the provisions of the proviso to Section 6.5, $10,000,000 for the Borrower and the Guarantors in
+the aggregate at any time incurred for the acquisition or lease of vehicles or equipment for use in the business of the Borrower or the relevant Guarantor or secured by Liens against vehicles or equipment owned by the Borrower or the relevant
+Guarantor for use in the business of the Borrower or the relevant Guarantor at the time any relevant Lien is created. 
+   -5-
+
+
+
+
+
+
+ 2.5 Amendment to Section 6.2. Section 6.2 of the Agreement is amended to
+(a) delete the word or preceding clause (e) of the proviso in such Section 6.2, (b) add a comma preceding such clause e and (c) add the following to such proviso immediately preceding the period at the end of
+such Section 6.2:  and (f) guarantees of payment or performance of Indebtedness or leases permitted pursuant to
+the provisions of clause (ix) of the first proviso in Section 6.1 or the provisions of the proviso in Section 6.5, as the case may be.  2.6 Amendment to Section 6.4. Section 6.4 of the Agreement is amended to (a) delete the word or preceding clause (e) of the first proviso in such Section 6.4,
+(b) add a comma preceding such clause (e), and (c) add the following to such proviso immediately preceding the period at the end of such Section 6.4:  and (f) sales of vehicles or equipment which is leased back as permitted pursuant to the provisions of the proviso in Section 6.5. 
+2.7 Amendment to Section 6.5. Section 6.5 of the Agreement is amended to add the following proviso thereto immediately
+preceding the period at the end of such Section 6.5:  ; provided, however, the foregoing restriction
+shall not apply to the lease back of vehicles or equipment, so long as the aggregate obligations of the Borrower and the Guarantors, when taken together with Indebtedness permitted pursuant to clause (ix) of the first proviso in
+Section 6.1, under all such leases does not exceed $10,000,000.  2.8 Amendment to
+Section 7.2(e). Section 7.2(e) of the Agreement is amended to (a) add a period at the end of the existing language of such Section 7.2(e) and (b) add a new sentence to such Section 7.2(e) reading as follows:
+ Notwithstanding the foregoing, amounts received from the Borrower or any Guarantor that is not an Eligible Contract
+Participant shall not be applied to any Excluded Swap Obligations owing to a Lender Hedge Counterparty (it being understood, that in the event any amount is applied to the Obligations other than Excluded Swap Obligations as a result of this
+sentence, the Agent shall make such adjustments as it determines are appropriate pursuant to this sentence, from amounts received from Eligible Contract Participants to ensure, as nearly as 
+   -6-
+
+
+
+
+
+
+ 
+possible, that the proportional aggregate recoveries with respect to the Obligations described in the preceding sentence of this Section 7.2(e) by Lender Hedge Counterparties that are
+the holders of any Excluded Swap Obligations are the same as the proportional aggregate recoveries with respect to other Obligations pursuant to the preceding sentence of this Section 7.2(e). 
+2.9 Amendment to Table of Contents. The Table of Contents to the Agreement is amended as necessary to give effect to this
+Amendment.  ARTICLE III  CONDITION TO EFFECTIVENESS  The effectiveness of this Amendment is
+expressly subject to receipt by the Agent from the Borrower of payment, in immediately available funds, of the fees provided for in the Fee Letter dated October 25, 2012 between Compass Bank and the Borrower. 
+ARTICLE IV 
+RATIFICATION AND ACKNOWLEDGMENTS  Each of the Borrower, the Guarantors, the Lenders and the Agent does hereby adopt, ratify and confirm the Agreement, as amended hereby, and acknowledges and agrees that the Agreement, as amended hereby,
+and each of the other Loan Documents to which it is a party is and remains in full force and effect. Furthermore, each of the Borrower, the Agent and the Lenders hereby acknowledges and agrees that, pursuant to Section 2.10 of the Agreement, as
+of the Effective Date, the Borrowing Base in effect under the Agreement is $145,000,000 and the Monthly Reduction Amount in effect under the Agreement is $0.  ARTICLE V  REPRESENTATIONS AND WARRANTIES 
+The Borrower and each of the Guarantors does hereby re-make in favor of the Lenders and the Agent each of the representations and
+warranties made by it in the Loan Documents to which it is a party and further represents and warrants that each of such representations and warranties made by it remains true and correct as of the date of execution of this Amendment. Further to the
+foregoing, the Borrower and each of the Guarantors specifically represents and warrants to the Lenders and the Agent that no Default or Event of Default exists as of the date of execution of this Amendment and giving effect to this Amendment.
+ ARTICLE VI  MISCELLANEOUS  6.1 Parties in Interest. This Amendment shall be
+binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted pursuant to the Agreement.  6.2 Rights of Third Parties. Except as provided in Section 6.1, all provisions herein are imposed solely and exclusively for the benefit of the parties hereto. 
+   -7-
+
+
+
+
+
+
+ 6.3 Counterparts. This Amendment may be executed by one or more of the parties hereto
+in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument and shall be enforceable upon the execution of one or more counterparts hereof by each of the parties
+hereto. In this regard, each of the parties hereto acknowledges that a counterpart of this Amendment containing a set of counterpart execution pages reflecting the execution of each party hereto shall be sufficient to reflect the execution of this
+Amendment by each necessary party hereto and shall constitute one instrument.  6.4 Integration. This Amendment
+constitutes the entire agreement among the parties hereto with respect to the subject hereof. All prior understandings, statements and agreements, whether written or oral, relating to the subject hereof are superseded by this Amendment. 
+6.5 Invalidity. IN THE EVENT THAT ANY
+ONE OR MORE OF THE PROVISIONS CONTAINED IN THIS AMENDMENT SHALL FOR
+ANY REASON BE HELD INVALID, ILLEGAL OR UNENFORCEABLE IN ANY RESPECT,
+SUCH INVALIDITY, ILLEGALITY OR UNENFORCEABILITY SHALL NOT AFFECT ANY OTHER PROVISION
+OF THIS AMENDMENT.  6.6 Governing Law. THIS
+AMENDMENT SHALL BE DEEMED TO BE A CONTRACT MADE UNDER AND SHALL
+BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE
+STATE OF TEXAS, WITHOUT REGARD TO PRINCIPLES OF SUCH LAWS RELATING TO
+CONFLICT OF LAWS.  6.7 Scope of Amendment. This Amendment shall
+constitute a Loan Document. The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of any Lender or the Agent under any of the Loan Documents,
+nor, except as expressly provided herein, constitute a waiver or amendment of any provision of any of the Loan Documents. 
+(Signatures appear on following pages) 
+   -8-
+
+
+
+
+
+
+ IN WITNESS WHEREOF, this Sixth Amendment to Second Amended and Restated Credit Agreement is
+executed effective as of the Effective Date.   
+
+
+
+
+
+
+
+
+
+
+BORROWER:
+
+
+
+PRIMEENERGY CORPORATION
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Beverly A. Cummings
+
+
+ 
+Executive Vice President, Treasurer and Chief Financial Officer
+
+
+
+GUARANTORS:
+
+
+
+PRIMEENERGY MANAGEMENT CORPORATION
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Beverly A. Cummings
+
+
+ 
+Executive Vice President and Treasurer
+
+
+
+PRIME OPERATING COMPANY
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Beverly A. Cummings
+
+
+ 
+Executive Vice President and Treasurer
+
+
+
+EASTERN OIL WELL SERVICE COMPANY
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Beverly A. Cummings
+
+
+ 
+Executive Vice President and Treasurer
+
+   (Signatures
+continue on following pages)  (Signature page to Sixth Amendment to Second 
+Amended and Restated Credit Agreement) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOUTHWEST OILFIELD CONSTRUCTION COMPANY
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Beverly A. Cummings
+
+
+ 
+Executive Vice President and Treasurer
+
+
+
+E O W S MIDLAND COMPANY
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Beverly A. Cummings
+
+
+ 
+Executive Vice President and Treasurer
+
+
+
+PRIME OFFSHORE L.L.C.
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Beverly A. Cummings
+
+
+ 
+Executive Vice President and Chief Executive Officer
+
+   (Signatures
+continue on following pages)  (Signature page to Sixth Amendment to Second 
+Amended and Restated Credit Agreement) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AGENT:
+
+
+
+ COMPASS BANK, as
+Agent
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Kathleen J. Bowen
+
+
+ 
+Senior Vice President
+
+
+
+LENDER:
+
+
+
+COMPASS BANK,
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Kathleen J. Bowen
+
+
+ 
+Senior Vice President
+
+   (Signatures
+continue on following pages)  (Signature page to Sixth Amendment to Second 
+Amended and Restated Credit Agreement) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+  
+
+Name:
+ 
+  
+
+Title:
+ 
+  
+
+   (Signatures
+continue on following pages)  (Signature page to Sixth Amendment to Second 
+Amended and Restated Credit Agreement) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+
+
+
+JPMORGAN CHASE BANK, N.A.
+
+
+
+
+By:
+ 
+  
+
+Name:
+ 
+  
+
+Title:
+ 
+  
+
+   (Signatures
+continue on following pages)  (Signature page to Sixth Amendment to Second 
+Amended and Restated Credit Agreement) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+
+
+
+AMEGY BANK NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+  
+
+
+ 
+Mark A. Serice
+
+
+ 
+Senior Vice President
+
+   (Signatures
+continue on following page)  (Signature page to Sixth Amendment to Second 
+Amended and Restated Credit Agreement) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+
+
+
+KEYBANK NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+  
+
+Name:
+ 
+  
+
+Title:
+ 
+  
+
+   (Signature
+page to Sixth Amendment to Second  Amended and Restated Credit Agreement) 
+
+
+

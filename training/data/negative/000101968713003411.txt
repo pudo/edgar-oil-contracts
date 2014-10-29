@@ -1,0 +1,3224 @@
+
+EX-10.3
+2
+arx_ex1003.htm
+FEASIBILITY STUDY
+
+
+
+     
+
+
+
+Exhibit 10.3
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Feasibility Study
+
+ARX
+Springs & ARX Pacific Properties
+
+For mining project located in
+
+Wide Bay Burnett Region,
+
+Queensland, Australia
+
+15th
+June 2012
+
+ 
+
+
+
+
+    1
+     
+    
+
+ 
+
+To,
+
+ 
+
+Celframe ARX Resources
+Corp.
+
+(Incorporated in
+Nevada, USA)
+
+165, Level 36,                                                                                                                     120615-CH-CAR-1-L001
+
+Menara
+Citibank,
+
+Jalan Ampang,
+
+50450,
+Kuala Lumpur,
+
+Malaysia
+
+ 
+
+ 
+
+Report prepared by
+
+COCCIARDI HOLDINGS PTY
+LTD
+
+Unit 4, 2 Fiveways Boulevard
+
+Keysborough, Victoria 3173, Australia
+
+Phone: +61 3 9798 2633
+
+Fax: +61 3 9798 2422
+
+ 
+
+Peter
+Cocciardi,
+
+Director.
+
+Peterc@cocciardi.com.au
+
+ 
+
+ 
+
+ 
+
+Effective
+Dated: 15th June 2012
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+
+
+
+
+     
+     
+    COCCIARDI HOLDINGS PTY LTD
+    Unit 4, 2 Fiveways Boulevard
+    Keysborough, Victoria 3173, Australia
+    Phone: +61 3 9798 2633
+    Fax: +61 3 9798 2422
+    http://www.cocciardi.com.au/
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+To,
+
+ 
+
+Celframe ARX Resources Corp.
+
+(Incorporated in Nevada, USA)
+
+165, Level 36,                                                                                                               120615-CH-CAR-1-L001
+
+Menara
+Citibank,
+
+Jalan Ampang,
+
+50450, Kuala Lumpur,
+
+Malaysia
+
+ 
+
+Kind Attention:
+
+Mr. Arun Pudur, President
+
+Mr. Brian J Smith, CEO
+
+ 
+
+Dear Sir,
+
+ 
+
+CELFRAME ARX RESOURCES
+CORP. GOLD PROJECTS IN
+
+THE WIDE BAY BURNETT REGION,
+
+QUEENSLAND, AUSTRALIA
+
+ 
+
+
+•These statements are based on Celframe ARX Resources
+Corps’ current plans and expectations and involve risks, uncertainties and other factors that may cause actual results,
+performance or achievements to be different from any further results, performance and achievements expressed or implied by these
+statements.
+
+
+
+
+ 
+
+
+•The information provided in this documents is available
+for the assistance only of Celframe ARX Resources Corp’ and is not intended to be and must not be taken alone as the basis
+for an investment decision. Where required, any potential investor should make further investigations as it deems necessary to
+arrive at an independent evaluation of the project. In regards to this overview summary, there has been no consultation of legal
+counsel and financial, accounting, regulatory and tax advisors to determine the consequences of any proposal for the project.
+
+
+
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+
+•The report is to be read
+and its use must be in conjunction with the following disclaimer: CHPL do not accept any liability to any individual, organization
+or company and takes no responsibility for any loss or damage arising from the use of this report information data or assumptions
+contained. Achievability of life of mine plans, project
+plans, budgets and forecasts are inherently uncertain.
+Consequently actual results may be significantly more or less favorable. This report includes
+technical information, which assumes historical accuracy of data, and
+future prospective results, which may be subjective. We retain the right to change and or modify conclusions as further information
+becomes available. CHPL assumes no liability for the accuracy of the information provided within this report.
+
+ 
+
+•
+The
+report on the project, referred to, as the Celframe ARX Resources Corp Gold Project does not address potential corporate structure,
+individual interests or avenues for new participants in the project. I have been informed that Celframe ARX Resources Corp is the
+intended holding company for Arx Springs Pte Ltd, Singapore which owns two subsidiary companies ARX Springs Pty Ltd, Australia
+and ARX Pacific Resources Pty Ltd, Australia. It also includes financial evaluations and analyses as provided by external parties
+with significant experience in these areas. References
+to Celframe ARX Resources Corp Gold Project are made to provide an overview and summary. Hereinafter,
+the company shall also be referred to as "Celframe".
+
+
+ 
+
+Sincerely,
+
+COCCIARDI
+HOLDINGS PTY LTD
+
+
+
+Peter
+Cocciardi
+
+MANAGING DIRECTOR
+
+ 
+
+ 
+
+
+    4
+     
+    
+
+
+
+ 
+
+  
+
+TABLE
+OF CONTENTS
+
+ 
+
+
+
+
+
+
+
+
+
+    Executive Summary
+    7
+
+    Introduction
+    7
+
+    About the Project
+    7
+
+    Current Status of the Project
+    7
+
+    Satellite images of Celframe ARX Resources Corp Gold Project Sites
+    8
+
+    Financial Analysis Summary
+    9
+
+    Important Risks and Opportunities
+    10
+
+    Conclusions and Recommendations
+    11
+
+    Main Report
+    12
+
+    Introduction
+    12
+
+    History of the Area
+    13
+
+    Tenure
+    19
+
+    Permits/ Bonds
+    19
+
+    Ownership and Permits 
+    20
+
+    About Riverstone Resources
+    21
+
+    Terms of the Agreement with Riverstone 
+    23
+
+    Application of BRI Microfine Technology 
+    23
+
+    Terms of the Sub-License between BRI and the Project
+    25
+
+    Local Characteristics
+    26
+
+    Geology & Resource
+    26
+
+    Preliminary Operations 
+    29
+
+    Plant & Treatment of Stockpile
+    30
+
+    Access
+    31
+
+    Accommodation
+    32
+
+    Plant Site
+    32
+
+    Tailings 
+    32
+
+
+ 
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+ 
+
+
+
+    Water 
+    32
+
+    Power 
+    33
+
+    Site Buildings 
+    33
+
+    Mobile Equipment 
+    33
+
+    Communications 
+    33
+
+    Rehabilitation 
+    34
+
+    Infrastructure Summary
+    34
+
+    Financial 
+    35
+
+    Capital Cost Summary 
+    35
+
+    Production Data 
+    37
+
+    Economic Evaluation 
+    38
+
+    Valuation Methodology 
+    38
+
+    Royalties
+    38
+
+    Taxation 
+    38
+
+    Cash Flows 
+    39
+
+    Net Present Values and Sensitivities 
+    40
+
+    NPV Sensitivity – Single Parameter Analysis 
+    40
+
+    NPV Sensitivity – Twin Parameter Analysis
+    41
+
+    Payback 
+    42
+
+    Important Risks and Opportunities
+    42
+
+    Interpretation and Conclusions 
+    42
+
+    Recommendations 
+    42
+
+    Appendix 1: Assay Reports
+    43
+
+    References 
+    77
+
+    Date and Signature 
+    77
+
+    Report Distribution Record 
+    77
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+    6
+     
+    
+
+ 
+
+Executive
+Summary
+
+ 
+
+Introduction
+
+ 
+
+Celframe wishes
+to evaluate a proposed mining project with Australian interests in a mining property in the Wide Bay Burnett Region in central
+Queensland. We have been engaged by Celframe to update information for this project. The project can be operated in stages however
+for the purpose of this report there is not a significant difference in referring to the project as a whole.
+
+ 
+
+About
+the Project
+
+ 
+
+The Celframe Resources
+Gold Project (gold project) is located about 25 km East of Eidsvold in the Wide Bay Burnett Region of Queensland. The project
+site is situated at Coonambula on Cheltenham Road, (nearest town is Eidsvold) within a quarry and extractive industries operation.
+The project site is referred to as the ARX Springs Site.
+
+ 
+
+The ARX Springs
+site is located on the first stage of this extraction site. The ARX Pacific Resources site is located in the second stage. The
+staging of the extractive operations does not impose onerous conditions on proposed mining and processing production by Celframe.
+
+ 
+
+The deposit is described
+as alluvial grade sand and gravel resource with a varying depth of resource and for Phase 1 (ARX Springs) the project is contained
+within a continuous surface area of 600 ha and for phase 2 (ARX Pacific Resources) the project is contained within a continuous
+surface area 1000 ha. Average depth of resources estimated from extensive drilling is at between 15 m to 20 m. For the sake of
+this report we have assumed a conservative 12.5m average depth over the project site resulting in an estimated 200,000,000 cu
+metres of treatable material.
+
+ 
+
+The total resource
+is estimated to be between 300,000,000 tonnes and 320,000,000 tonnes of treatable material. The estimated recovery is based on
+assumptions of average low-grade recovery using BRI Microfine process at an average of only 1.8 gpt giving a targeted recovery
+of between 16,000,000 ounces and 18,000,000 ounces of gold from the current resource area. This targeted recovery is dependent
+upon operational factors once the project is in production and the consistent average recovery of the targeted yield.
+
+ 
+
+Current
+Status of the Project
+
+ 
+
+
+•The ARX Springs project is ready to start the construction
+phase and quickly move into production. We have verified with relevant agencies on the required permits and licenses and the required
+permits are in place for production to commence subject to specific building permits in relation to the construction of the processing
+plant.
+
+
+
+
+
+•Ownership: Riverstone Resources Pty Ltd is the extractive
+Industries license holder and has provided exclusive treatment farm-in agreements for mining to ARX Springs Pty Ltd and ARX Pacific
+Resources Pty Ltd.
+
+
+
+•Environmental, planning and local permits are issued and
+current.
+
+
+
+•Treatment rights have been granted specifically utilising
+existing mining license.
+
+
+
+•Technology sub license for BRI Microfine process has been
+signed.
+
+
+
+•Permits are in place with further requirement of mining
+plan and mining license application.
+
+
+
+•Additional survey of the specific surface area of the project
+is to be initiated.
+
+
+
+•A Joint application toward securing additional mining licence
+as expansion of existing permits.
+
+ 
+
+ 
+
+
+
+
+    7
+     
+    
+
+Satellite images
+of Celframe ARX Resources Corp Gold Project Sites
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+    8
+     
+    
+
+ 
+
+ 
+
+ 
+
+Financial
+Analysis Summary
+
+ 
+
+The
+Celframe ARX Resources Corp Gold Project feasibility study uses discounted cash flow techniques
+to determine a Net Present Value (‘NPV’) for the Project in real terms. The NPV is derived after royalties and tax,
+is ungeared and based on real cash flows. The effective date of the financial evaluation is March 1, 2012.
+
+ 
+
+The
+Life of Min e (LOM) is 20 years, which includes an initial two- yea r design and construction phase and subsequent capacity expansion
+over the next 8 years. The Gold prices used to develop the base case in the financial model are based on the current market price
+of gold and reasonable estimates of market prices in the future. Included is a detailed sensitivity analysis to test the various
+parameters for both revenue and costs.
+
+ 
+
+
+
+
+    9
+     
+    
+
+ 
+
+ 
+
+The NPV (14%) in
+real terms amounts to US$ 4.29 billion. Payback on capital is 3.5 years (2.5 years following commissioning). Total capital expenditure
+over the construction period is US$ 400 million with a peak funding requirement of US$ 60 million each in years 9 and 10.
+
+ 
+
+Project
+sensitivities to revenue, capital and operating costs are shown in the following tables in the report. The base case sensitivity
+analysis of the variation in NPV at various discounting rates is shown below
+
+ 
+
+Base Case Sensitivity Analysis (variation in
+NPV at various discount rates)
+
+
+
+ 
+
+Important
+Risks and Opportunities
+
+ 
+
+The project assessment
+indicated certain risks and opportunities, which should be evaluated in further detail by Celframe in order to assess the complete
+returns on the project. The key risks and opportunities are:
+
+ 
+
+Risks
+
+
+•Delay in establishing the initial production plant and
+consequently the financial impact on the project;
+
+
+
+
+
+•Decline in global demand of gold and consequent decrease
+in prices;
+
+
+
+•Increase in the costs of operations of the project by 10%
+or more on annual basis thereby affecting the margins;
+
+
+
+
+
+•The BRI Microfine process has not yet been commercially
+deployed on any project and during the process of developing the initial production plant and deploying the process, there could
+be unexpected issues and concerns arising out of the deployment of the process. This could delay the project commencement unless
+alternative processing methods are planned as contingencies;
+
+
+
+
+ 
+
+Opportunities
+
+
+•The BRI Microfine process has the potential to derive significant
+improvements in yield from the tailings at the project site. The upside from any potential increase in yield will have significant
+positive impact on the project returns;
+
+
+
+
+
+•The Master Agreement in place with Riverstone Resources
+provides for a total treatment area of 2500 hectares. The phase 1 and 2 as part of this report is for a total area of 1600 hectares
+and hence there is scope to include a significant additional area as part of the project in future (57.50% of the total area under
+phase 1 and 2 is the possible additional area for treatment)
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+    10
+     
+    
+
+ 
+
+ 
+
+Conclusions
+and Recommendations
+
+ 
+
+CHPL concludes that
+Celframe ARX Resources Corp Gold Project fulfils financing requirements in terms of payback period (less than 5 years), required
+returns (>15% real) and that the risk of returning a negative NPV is considered low especially because the yield assumed at
+1.8gpt is a conservative assumption. Any possible increases in costs or capital required or drop in commodity prices can be managed
+with this yield. The possibility of getting better yields is a potential but Celframe should retain conservative assumptions of
+yield in assessment of the financial viability of the project.
+
+ 
+
+Further, the microfine
+process adopted for this project is not capital intensive by its very nature and the production plant to be constructed is a modular
+design. This allows for a higher degree of flexibility to control the capital expansion in accordance with the change in market
+dynamics such as gold prices and increased costs. Hence, the likelihood of a negative NPV on the project is very low.
+
+ 
+
+CHPL recommends
+that Celframe progress the project to the detailed design and implementation phase. The various risks and opportunities identified
+should be closely monitored during the detail design and implementation phase, to take advantage of any further possible optimization.
+
+ 
+
+ 
+
+
+
+
+    11
+     
+    
+
+ 
+
+
+
+Main
+Report
+
+ 
+
+Introduction
+
+ 
+
+The
+Celframe ARX Resources Corp Gold Project is located about 25 km east of Eidsvold in the Wide
+Bay Burnett Region of Queensland. The project site is situated at Coonambula on Cheltenham Road, (nearest town is Eidsvold) within
+a quarry and extractive industries operation.
+
+ 
+
+ 
+
+ 
+
+The extractive industries
+operation has commenced. The project sites are located on the first and second stages of this extraction site, which is located
+in proximity to an additional extended mining lease area. The staging of the extractive operations does not impose onerous conditions
+on proposed mining and processing production by Celframe.
+
+ 
+
+The deposit at the sites can be described as alluvial grade sand and
+gravel resource with a varying depth of resource and for Phase 1 (Arx Springs) the project is contained within a continuous surface
+area of 600 ha and for phase 2 (Arx Pacific Resources) the project is contained within a continuous surface area 1000 ha. Average
+depth of resources estimated from extensive drilling is at between 15 m to 20 m.
+
+ 
+
+
+
+
+    12
+     
+    
+
+ 
+
+Overlay Image of Project
+site.
+
+ 
+
+ 
+
+
+
+The project site
+is a tertiary glacial till deposit and the recoverable grade is contained within paleo channels of alluvial sand, gravel and conglomerate
+associated with gravel beds of old alluvium and minor alluvial deposits. The tertiary glacial till deposit is composed of white
+to buff, poorly sorted, clayey sandstone, local unsorted granule to boulder gravel beds and the sands associated with the gravel
+beds.
+
+ 
+
+History
+of the Area
+
+ 
+
+Gold has historically
+been found, worked and extracted from the material in vicinity of the project. The mineral interest in this area dates back to
+the 1880s. The early geological reports identified a tertiary glacial till that extends extensively in the area of the project
+site. It is within this glacial till that the majority of the alluvial deposits occur and the surveys have indicated the presence
+of gold.
+
+ 
+
+Gold was
+discovered in the area in 1888. Production from the nearby St John's Creek field between 1888 and 1937 yielded 313 kg from
+15,669 t of ore (19.976gpt). Peak production was achieved in 1890 when 98.35 kg of gold was obtained from 7574 t of ore
+(12.985gpt). There has been no activity since 1937 reported. The first gold production recorded from the Hungry Hill Creek
+McKonkeys Creek area was in 1889. The field was worked intermittently until 1901, the total recorded production of 23.32 kg
+of gold from 938 t of ore (24.861gpt). No records of production from alluvial workings have been found.
+
+ 
+
+
+
+
+    13
+     
+    
+
+ 
+
+ 
+
+ 
+
+A number of shafts
+were dug which yielded widely varying results. The water accumulating at the bottom of shafts generally defeated the mining.
+
+ 
+
+The shafts are identified
+by various names, MacPherson's shaft, PC shaft, Harvey's shaft, Capers claim and Gully shaft. Subsequent reports indicated that
+these older workings were not at the deepest part of the lead. Reports indicated in most places there are two channels at the
+bottom of the lead both containing gold. Gold was detected at most points close to the bottom of the lead and stream and surface
+examination confirmed the presence of gold.
+
+ 
+
+The water table exists between 20 feet and 40 feet from the surface. Old sampling of
+dumps around old shafts show gold that was at least 10 divt per tonne. Sampling of undisturbed shallow ground also showed similar
+grades. Early miners would not have worked the large numbers of shafts at the depth they did unless they were getting something
+like 1 ounce to the tonne. Admittedly, this could have been in small pockets.
+
+ 
+
+
+
+
+    14
+     
+    
+
+ 
+
+Overlay Image of Shape
+of Paleo Channel
+
+
+
+You can clearly
+see the Paleochannel extending through all stages of the project.
+
+ 
+
+Antimony has also
+been produced from the project site surrounds. Since 1876 the deposits have been worked intermittently. In the period 1953 to
+1954, 23.6 t of antimony concentrate was produced from 111.8 t of ore. This area has been known previously under many identities:
+Spring Gully, McKonkeys Creek, Macpherson’s diggings, PC claim and so forth. Historically the Queensland government geologist
+William H Rand undertook a geological survey in 1901 over the Eidsvold goldfield and mapped locations, which indicated mineral
+deposits where the project site today exists. Geological survey was conducted in 1969, which indicated the existence of alluvial
+gold deposits in and around the vicinity of the project site. Further surveys have been undertaking more recently, Batstone and
+Cardno in 1984 and Morris and Savory in 1990. Kelly in 1979 conducted a review report of the 1969 survey.
+
+ 
+
+Early prospecting established
+the presence of an auriferous alluvial lead. Gold was extracted from the old workings by former mining operations in limited amounts
+but in variable grades up to 5 ounces per tonne. Preliminary surface examination has historically confirmed the presence of gold
+in the lead. Extensive drilling operations confirmed the presence of two deep channels within the area. Owing to an abundance
+of clay, which caused severe analytical difficulties the early drilling, was completed without obtaining critical assays. The
+early analytical techniques at that stage (1969) closely matched systems that were then available for production and it was assumed
+that production difficulties might be expected.
+
+ 
+
+ 
+
+
+
+
+    15
+     
+    
+
+ 
+
+ 
+
+The
+Celframe ARX Resources Corp Gold Project site and area has a history of intermittent working
+by small-scale mining and various private operators. The area has been subject to a number of previous investigations and has
+included reports by Rands (1897, 1901), Saint Smith (1926), Ball (1931) and Denmead (1943). Much of the previous investigations
+referred to the mining conducted in the area. Previous literature reported that some 51t of ore averaging 27 g per tonne from
+shafts up to 25 m deep in this area were worked. The best grades were apparently in coarse wash near the base of alluvial sands.
+Water from the water table discouraged much mining.
+
+ 
+
+ 
+
+ 
+
+William Rands
+report of 1901 showing results from 1887 through to 1900.
+
+Total recovery
+of 102,323 ounces from 98,205 tonnes of ore.
+
+ 
+
+ 
+
+
+    16
+     
+    
+
+ 
+
+Extracts from
+the Mining Maps of the Site
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+    17
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    18
+     
+    
+
+ 
+
+There
+is a long history of small-scale working and exploration on the property and surrounding areas and although reports are available
+on previous work those reports have not allowed the full potential of the property to be understood. Gold has been detected and
+recovered since the 1880s however in small disconnected independent operations. Attempts to evaluate the area by larger prospective
+operations/ companies found gold in low levels and based on the lower gold price before the last decade usually concluded the
+area and the project site was sub economic.
+
+ 
+
+However
+three factors now appear to work to Celframes advantage and allow the project to be operated as a low-level long-term project.
+Firstly the site has been amalgamated into a large continuous area available for treatment so offering volume of the resource
+and the ability to target low average per tonne grade. Secondly the use of the microfine process increases the viability, as it
+is one treatment that can target the low micron sized sandy alluvial material where 92% of the potential gold is likely to be
+found. Thirdly the sustained increase in the price of gold over recent years has made the operation viable.
+
+ 
+
+Tenure
+
+ 
+
+The
+current project area is approximately 1600 ha. The tenure of the Celframe ARX Resources Corp Gold Project is
+based on a mining lease; extractive industries permit, farm-in style treatment agreements with exclusive licences for the expected
+life of mine term to treat the anticipated resource.
+
+ 
+
+The
+mining lease is current until 2014 and it allows immediate production processing work subject to notification to the Queensland
+Department of Environment and Resource Management. The anticipation is that it will be renewed for a further five years in the
+ordinary course of business. The extractive industries permit covers all areas of the project. Exclusive treatment agreements
+have now been signed for the use of the mining licence to treat the project area. Licences have been granted to operating companies
+on an exclusive basis to mine process and treat for minerals.
+
+ 
+
+The extractive industry
+licence holder has contracted with ARX Springs Pty Ltd to expand the area of the mining lease in a joint application for additional
+mining lease grants as an overlay of the existing extractive industries permit. The joint applications will be in the names of
+Riverstone Resources Pty Ltd, ARX Springs Pty Ltd and ARX Pacific Resources Pty Ltd and will follow standard industry practices
+and procedures.
+
+ 
+
+Permits/
+Bonds
+
+ 
+
+On application for
+extended mining leases the Queensland Mines Department will assess an increase in the current bond for rehabilitation purposes.
+There is no reason known to Riverstone Resources or ARX Springs why the bond will not be assessed according to current guidelines
+and the actual amount of the bond while not yet known is covered by reasonable forward provisions.
+
+ 
+
+The mineral extraction
+and mining rights will be an overlay of the permits owned by Riverstone Resources. Those permits are in place and allow the extraction
+of sand, gravel and minerals to an area known as Coonambula Sand Operation.
+
+ 
+
+The sand and gravel
+operation is forecast to have a production life of 80 years. From the underlying extraction rights Riverstone Resources has granted
+mining rights for the anticipated life mine terms for all minerals to ARX Springs Pty Ltd and ARX Pacific Resources Pty Ltd. Riverstone
+Resources will indefinitely operate a sand and gravel operation and in so doing deliver to ARX Springs Pty Ltd screened crushed
+material for treatment.
+
+ 
+
+
+
+
+    19
+     
+    
+
+ 
+
+ 
+
+As the operation
+increases in size it is anticipated that primary earthmoving operations will be undertaken by ARX Springs as an expansion of the
+Riverstone Resources operation. There is no hard rock mining or underground mining involved. There is no need for blasting. There
+is no requirement for hard rock drilling, sampling or test work.
+
+ 
+
+The relationship between Riverstone Resources and ARX Springs
+Pty Ltd/ARX Pacific Resources Pty Ltd is one of a Farm-in exclusive treatment rights and licensed mine and with Riverstone Resources
+operating its own sand and gravel business, there are cost savings to ARX in the supply to it of raw material for processing as
+part of the relationship. Riverstone Resources is compensated by the payment of royalty on gold extracted.
+
+ 
+
+Overlay Image of Extractive
+Operation & Mineral Area
+
+
+
+Ownership
+and Permits
+
+ 
+
+The
+Celframe ARX Resources Corp Gold Project site is within a large area in total and the resource
+of this mine site is part of a larger deposit with similar geology. The land upon which the mine site is located comprises a total
+area in Lot 7, Crown Plan WK96, County of Wicklow, Parish of Boolgal, Title reference 487184; lot 5, Crown Plan WK96, County of
+Wicklow, Parish of Cheltenham, Title reference 50205095, Lot 6, Crown Plan WK96, County of Wicklow, Parish of Cheltenham,
+Title reference 50221359, Lot 8, Crown Plan WK149, County of Wicklow, Parish of Boolgal, Title reference 17487185. There is a
+long history of historical mining rights and licenses granted by the Queensland mines Department in respect of previous workings.
+The owner is confident that there will be no problems in securing additional mining rights. There is no vegetation, environmental,
+heritage, and historical, aboriginal or cultural impediments to treatment operations at the mine site.
+
+ 
+
+
+
+
+    20
+     
+    
+
+ 
+
+ 
+
+About Riverstone Resources
+
+ 
+
+Riverstone Resources
+Pty Ltd is a privately limited liability company, which was primarily established to generate a new supply of river-gravel and
+decorative stone to the building, and landscape industries in and around Queensland with some export potential also investigated.
+
+ 
+
+Riverstone Resources
+Pty Ltd and its consultant Mr Bob Lewers worked closely together since early 2008 in establishing extraction rights for sand and
+river-gravel from some 2500Ha surrounding a Mining lease owned by Riverstone Resources Pty Ltd. His experience in sand & gravel
+extraction as well as mineral exploration is immense as Bob Lewers is a protégé of the Farley & Lewers company,
+a well- known Australian quarrying, concrete manufacturing and mining company that were market leaders in the 50's, 60's and 70's
+throughout NSW and southern Queensland. Bob Lewers has been interested in the subject site and surrounding areas as a source of
+both precious metals and gravel for over 30 years. The current Managing Director and founder of Riverstone Resources Pty Ltd was
+previously Managing Director of Coloundra Sand & Gravel a medium sized (30 employees) private company operating in the sand
+and gravel supply business in South East Queensland for many years.
+
+ 
+
+Riverstone Resources
+Pty Ltd has obtained all the required permits to operate both for its business and to provide treatment agreements for the mineral
+extraction. Riverstone Resources Pty Ltd has obtained government planning and development authority and conditions granted with
+reasons in case No 1789 0f 2011, extraction and environment permits Environmental Authority IPCE01538909 dated 30 June 2009 issued
+by the State of Queensland Department Environment Resource Management for the extractive industries business and mineral extraction
+business, a Mining Lease ML 80077, the Environmental Authorities for Mining Lease ML 80077 dated 28 August 2009 and Extractive
+Industries permit No 175-09 dated 21 September 2011. A copy of the plan approved in DERM permit IPCE01538909 is included.
+
+ 
+
+Riverstone
+Resources Pty Ltd has consolidated the area, which contains the Arx Springs project so combined extractive operations, and mining
+operations can be conducted side by side. The management of Arx Springs Pty Ltd, Arx Pacific Resources Pty Ltd and Riverstone
+Resources Pty Ltd enjoy a good working relationship.
+
+ 
+
+
+
+
+    21
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+
+    22
+     
+    
+
+ 
+
+ 
+
+Terms of the Agreement with Riverstone
+
+ 
+
+Riverstone Resources
+Pty Ltd and Arx Springs Pty Ltd have signed tribute Treatment agreements. The treatment agreements provide exclusive rights to
+the project for extracting minerals from the mining operations. It contains a license and is subject to royalty payments payable
+to Riverstone Resources Pty Ltd. The grant of license of mineral extraction rights is for a term until the resource of the project
+is fully treated or the 25th annual anniversary (March 2037) from the date of agreement to treat.
+
+ 
+
+The company also
+has the right to occupy and utilise the land until the resource of the project is fully treated or the 25th annual anniversary
+from the date of its agreement, whichever is the earlier. There is provision in the agreement to extend the term of occupation
+of the land upon notice, if the resource is not fully treated within 25 years.
+
+ 
+
+The
+approvals and permits attached to the ARX Springs project are to be utilised freely and in accordance with the tribute treatment
+agreement. The approvals and permits are available to Celframe ARX Resources Corp Gold Project for
+use in its business on the project site area. The tribute treatment agreement provides for use of current permits and future and
+additional permits and approvals to be obtained within the ordinary scope of the development of the treatment operation. Those
+approvals and permits cover planning, environmental, landowner, local government, business operations, extraction rights, exploration
+and mining permits, mineral treatment extraction rights, work plans, rehabilitation plans and bonds, roads, power and water.
+
+ 
+
+The company has
+the right to transport material extracted from the resource of the project to an adjacent property for treatment using a proposed
+production, processing plant. The land the company is to occupy and the adjacent property share a common boundary and share free
+access between and over the areas. Vehicle access to the nearest public road is provided for and will be constructed within the
+scope of the mining work plan. The adjacent property is subject to a treatment agreement between Riverstone Resources Pty Ltd
+and Arx Pacific Resources Pty Ltd. The treatment agreement has similar terms to the Arx Springs Treatment agreement. The Arx Pacific
+Resources agreement covers the use of the current permits and mining license, is an exclusive right and license and allows immediate
+start of mining and processing operations.
+
+ 
+
+Application of
+BRI Microfine Technology
+
+ 
+
+A report in 1984
+on behalf CSR Ltd provided summary information about the area in which the project site is situated. The report refers to the
+known placer gold deposits occur at the base of a sedimentary sequence of probable Jurassic age. The gold occurs in a mature pebble
+conglomerate. There is indication that the material ore deposits from which the project has been drawn occurs in a paleo channel
+where working from the West to East there is a greater volume of coarse gravels overlain by finer sentiments in the West while
+to the east, there is a significantly less coarse material and a far greater volume of fine sediments in place. There are suggestions
+of a significant difference in the environment of the deposits of the material probably affected by a tertiary drainage.
+
+ 
+
+In recent times
+with development work and the establishment of the extractive industries operation various samples have been taken from in and
+around the project site area mainly for petrological analysis. Whilst the stone testing was being conducted, samples were also
+taken and submitted for testing (gold) to three separate labs.
+
+ 
+
+
+
+
+    23
+     
+    
+
+ 
+
+ 
+
+The conventional
+assays, which resulted from the submission to the labs, show mineral concentration that match with historical archive results
+relating to this area. The BRI Microfine process has consistently produced superior results than the conventional assays.
+
+ 
+
+Testing of the sand
+and gravel of samples taken from the ARX Springs Project and the surrounding geological material has shown the BRI Microfine process
+can recover gold from the project resource. The basis of a potential productive mine operation is twofold, firstly the BRI Microfine
+process can obtain moderately better results than historical mining on the site notwithstanding it is a low grade alluvial sand
+deposit and secondly the recent sustained increase in the price of gold. A large-scale mining operation, albeit at low recovery
+grades, in current times is potentially feasible as the BRI Microfine process may lift recovery from sub economic levels when
+compared to previous assessments and the price of gold may sustain profitable operations.
+
+ 
+
+The definition of
+the BRI Microfine process and technology is broadly as an enhanced chemical leaching process which has been shown to concentrate
+gold, particularly in a Microfine state, from concentrates, ores, tailings, solutions and other friable or pulverized materials
+even when conventional methods of assay do not disclose the presence of gold and metals or do not disclose the extent of the presence
+of gold and metals.
+
+ 
+
+Microfine technology
+is still a relatively new technology process to recover gold and other precious metals that exist in a Microfine form. The BRI
+Microfine technology aims to recover gold, silver and platinum by processing material at the Microfine level in many cases from
+existing tailings dumps. Treatment processing is a leaching style mining operation using the BRI Microfine Technology for the
+treatment of tailings ore. The ore body can be an alluvial source and need not have prior processing. While tailings denote an
+ore body having appearance of pulverized low micron material whether it be alluvial source, reprocessed or crushed ore it can
+include alluvial sands.
+
+ 
+
+Independent assessments
+have been conducted by numerous parties over decades are recited below, Extensive sampling and drilling has been undertaken on
+the material on the project site and its surrounds. Although there is some disagreement the number of the geological reports referring
+to this area and sites recommended (when the reports were done) that it was not economically viable to mine the area commercially
+as the mineral concentration although definitely existing was not noted as overly outstanding. However, in one of the reports
+of investigation in the area on alluvial material it was noted that the 92.6% of the gold occurred in the -5 mm size material.
+
+ 
+
+Sample testing produced
+an observation that gold particles appear to be highly uniform in size and screening indicated that some 92% of the gold was contained
+in the -30-mesh fraction. It is this size material (as a by-product of the extractive industry operation) which is targeted by
+the Microfine process. The highest gold values recorded in the previous investigations seem to be recorded in a coarse clayey
+basal wash material and it is intended that the Microfine process by its ability to obtain the gold in coarse clayey material
+will obtain economic grade.
+
+ 
+
+The extractive industries
+operation means that the project is not a stand-alone mine and will be able to treat the low micron size material produced from
+the extractive industries operation and from its own screening and movement of material. The increase in the gold price since
+all of the previous investigations were undertaken indicates that an economic recovery can be made from what is a low- grade alluvial
+deposit.
+
+ 
+
+
+
+
+    24
+     
+    
+
+ 
+
+ 
+
+In many cases the
+estimates of grade were low to uneconomic based on the then prevailing technology for recovering of fine gold from alluvial sands.
+Microfine technology has tested samples from the total deposit from which the area of this resource is derived and the grade that
+has been assessed by the Microfine test work is 1 .80 gpt to 2.10 gpt. There are no records of recent gold sales from this property.
+The historical information contained in reports from the government geologist and seven other independent geologists confirms
+recovery of gold and antimony.
+
+ 
+
+Samples were taken
+and submitted to a USA based laboratory with instructions to ascertain assay of gold without allowing for the gold assays to be
+affected by the abundance of clay component in the sand and gravel samples. The assay results were good, all above the target
+grade for the project and twice the assay result exceeded 15 g per tonne.
+
+ 
+
+There has been a
+recent assessment of the project by its owner in his project development and all legal and business matters were successfully
+completed for the start-up of the sand and gravel component of the extractive industries project. The geology observed on the
+property during site visits is similar to the geology observed in areas in close proximity to the project. The surface and wildcat
+drilling gravels are similar in nature to ones observed nearby. The sand and gravel component extends extensively in the north
+and south direction kilometres either side of the property there is no observable reason why successful alluvial goldmining cannot
+take place.
+
+ 
+
+Recent inspections
+vindicated that the historical more recent mining activities have been based on the principle where the mining was blind and it
+was not based on a mining plan where definable grade block models existed. Many of the previous workings potholes and the gold
+bearing trenches were not identified in indicated on plans. However, based on test work current observations in available data
+the area is prospective.
+
+ 
+
+The Assay reports
+are included in Appendix 1 at the end of this report.
+
+ 
+
+Terms of the
+SubLicense between BRI and the Project
+
+ 
+
+A technology Sub
+License has been signed between BRI Microfine Pty Ltd and Arx Springs Pty Ltd. In summary the sub license agreement is a contractual
+right permitting Arx Springs Pty Ltd and Arx Pacific Resources Pty Ltd exclusive rights to operate a Licensed Business with the
+utilisation of the Technology for the purpose of recovering gold from friable, or pulverised earth and operate microfine production
+plants at the site at Arx Springs Wide Bay Queensland.
+
+ 
+
+It is a grant of
+the use of the technology for the Arx Springs Project. It is exclusive sub license and is limited to the project only. The technology
+sub license covers the project and is not limited by any term, as it is available at the project site for as long as the resource
+exists and can be treated. BRI provides the technology, operating management of the plant, operation security and the design build
+delivery and commissioning of plant and equipment.
+
+ 
+
+For these operations
+BRI will provide the operating systems, facility management systems and software. During operations BRI will provide technical
+and operational support and personnel for LOM. At the end of the treatment of the project resource BRI will oversee the dismantling
+of the plant and equipment.
+
+ 
+
+
+
+
+    25
+     
+    
+
+ 
+
+ 
+
+Local Characteristics
+
+ 
+
+Climate: the area
+lies within a temperate region with the average rainfall is around 700 mm. approximately 67% falls in the summer months. Normal
+mean temperature is approximately 25°C. Vegetation; a major portion of the area has been at least partially cleared the more
+densely vegetated areas being confined to a few hills. Most of the areas covered by low grasses and eucalyptus.
+
+ 
+
+Topography: the
+topography is generally a low medium relief, which consists of gently undulating hills and plains.
+
+ 
+
+Land use: for beef
+cattle grazing horse racing and grain growing are the main industries within the area.
+
+ 
+
+Geology &
+Resource
+
+ 
+
+The project site is a tertiary glacial till deposit and the recoverable grade is contained within paleo channels of
+alluvial sand, gravel and conglomerate associated with gravel beds of old alluvium and minor alluvial deposits. The tertiary glacial
+till deposit is composed of white to buff, poorly sorted, clayey sandstone, local unsorted granule to boulder gravel beds and
+the sands associated with the gravel beds.
+
+ 
+
+ 
+
+
+    26
+     
+    
+
+
+
+ 
+
+The general characteristics
+of the area are shown in the table marked Lithology Code in the map.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    27
+     
+    
+
+ 
+
+ 
+
+Numerous geological
+reports exist which identify that the area has been of interest as a potential source of alluvial mineralisation since the turn
+of the century. A literature review on the area indicates existence of precious metals and heavy minerals (predominantly gold/antimony,
+ilmenite, rutile, and zircon) in this area. Minor resources have been historically exploited (indicated by the appearance of many
+mining leases) in and around this area. A significant degree of interest exists in the exploration potential of the area.
+
+ 
+
+The project site
+and the mining lease covers a section of Carboniferous Permian Granitoids (Coonambulla Granodiorite and Cheltenham Adamelite )
+in the north of the lease area whilst in the south, a series of tertiary glacial till paleo channels host the majority of recorded
+mineralisation on site. The granitoids are basement to the tertiary alluvium in the area. The maximum-recorded thickness of the
+alluvial channel is 28 m however it varies significantly in both thickness and lateral extent (800 m to 1500 m). Mineralisation
+within the placer leads is in the form of ultrafine -5 um-alluvial gold slightly coarser heavy mineral also occurring generally
+between the -50 um and -150 um fraction. The map illustrates the regional geology of the area and also displays known occurrences
+of mineralisation. It should be noted that if blind or deep leads within the placer can be identified and delineated then this
+enrichment could quickly and significant upgrade the quantum of a resource on the mining lease area and the project site.
+
+ 
+
+ 
+
+ 
+
+
+
+
+    28
+     
+    
+
+ 
+
+Preliminary Operations
+
+ 
+
+Riverstone
+Resources has commenced operations on the site and has begun stockpiling materials for treatment by the Celframe ARX Resources
+Corp Gold Project. Sufficient stockpile has been produced and exists for three months operation
+of the pilot production plant to be installed. Stockpiling will continue during the construction period of pilot production plant,
+the initial 10 t per hour processing plant and construction of the first 100 t per hour commercial plant. It is anticipated that
+by the time of the commissioning of the 10 t per hour initial production plant the stockpile of treated material available to
+ARX will provide 4 to 6 months of resource available for treatment processing. The topography of the project area is relatively
+benign and is flat with slightly undulating hills. Riverstone Resources operations confirm the area is conducive to the use of
+earthmoving equipment. The project sites topography does not represent any major infrastructure or construction obstacles.
+
+  
+
+
+
+ 
+
+The actual mining
+will consist of earthmoving activities within the paleo channel of Coonambula sand operation. Most of the mining in the sense
+of obtaining the material for treatment and processing will consist of operations with moderate sized, low risk earthmoving equipment.
+Some of the equipment is already on site and commissioned and assessments have been made performance of the resource material
+to loading screening and crushing. No difficulties in loading, screening and crushing the material is anticipated based on the
+work carried out to date.
+
+ 
+
+First mining of
+the target resource will occur at local creek level with loaders operating to create working face and long narrow strikes into
+resource sands away from the creek toward Cheltenham Road.
+
+ 
+
+
+
+
+    29
+     
+    
+
+ 
+
+ 
+
+Open pit extraction
+of resource is not required for the first 2 to 3 years of production. It may not be required at any time during the life of the
+mine. However, it is an unknown. Should open pit mining be most efficient method a pit design will be modelled by engineers and
+plans lodged with the Queensland Mines Department. The design and work plan utilising open pit will conform to the mining and
+environmental regulations of the Queensland Mines Department. Open pit mining may require reassessment of the bond however it
+is considered low risk and will not occur in the first three years of operations. Any open pit work will not be extensive as the
+resource targeted is found in a long paleo channel, which varies in widths with an average depth of 20 m, and an adopted average
+by ARX is 12.5 m. Sample drilling has logged maximum depth at 35 m in some spots.
+
+ 
+
+The first useful
+production resource will be obtained by working long strikes in a narrow band and keeping a consistent depth along the strike.
+Once the first earthmoving strikes have been established the loaders will widen the working face. Loaders will transfer to dump
+trucks for delivery to the extractive sand, gravel plant for crushing screening and processing.
+
+ 
+
+Plant & Treatment
+of Stockpile
+
+ 
+
+Stockpile material
+for treatment by the ARX Springs project will be accumulated next to the extractive industries sand & gravel plant. Stock
+stockpile material will be handled by the ARX Springs project using a lift loader and conveyor and will follow the design, build,
+supply, install and commissioning of a series of conveyors and associated feed hoppers for an alluvial sand wash plant.
+
+ 
+
+The purpose of these
+conveyors is to deliver the Alluvial sand to the process plant and take the wash sand and deposit this into (waste) stockpiles.
+This will be in preparation for backfill loading to extraction areas. The proposed conveyor systems will feed 10 separate process
+production lines with an average of 10 tons per hour per production line, with each production line 15 meters apart. Therefore
+the conveyor feed system will need to accommodate this. Initially the plant will process a total of 100 tons per hour via ten
+process production lines. These 10 production lines will ultimately increase to 30 production lines, and then the process plant
+will produce a total output of 300 tons per hour.
+
+ 
+
+The 10tph production
+lines are a constant process line and are simply replicated to increase overall production. The system being delivered must be
+capable of dealing with this expansion in production without the need for significant upgrade. The proposed sand conveying system
+is required to be a covered type conveyor with associated access and maintenance walkways. The site is reasonably flat with only
+slight undulations.
+
+ 
+
+Location of the
+proposed process production plant will be nearby to existing sand stockpile but may ultimately be up to 100 metres away from a
+stockpile location. Various Alluvial sand stockpiles will be situated within a 1 square kilometre project site. The proposed process
+production plant will treat this alluvial sand taken from the stockpiles. The new stockpile of processed sand will be within 100m
+of the process plant.
+
+ 
+
+Plant construction
+will follow the path of off-site assembly; build and test of each plant section in a progressive step up in production capacity.
+Planned modules will be constructed in discrete operating units; however the overall design allows each unit to work independently
+as modules. Processing plant will start with a pilot production and 10 t per hour capacity operation. Once commissioned the 10
+t per two further modules will expand hour plant module each time until 100 t per hour capacity is achieved. The overall design
+allows modules to be built from then on at 20 t per hour capacity.
+
+ 
+
+
+
+
+    30
+     
+    
+
+ 
+
+ 
+
+The process plant
+itself is being designed as an isolated, largely self-contained element that can be replicated as required. The entire process
+plant will be enclosed within large portal steel shed. This structure will be fully reusable and can be replicated at various
+locations throughout the site. These sheds will be approx 180m long with a span of approx 60metres.
+
+ 
+
+Its main purpose
+is to provide protection from the elements for the operators and a heighted level of security over the process. The process will
+be fully enclosed and therefore unable to be viewed without security clearance. They will contain some laboratory facilities and
+secure gold room.
+
+ 
+
+The material required
+to feed the processing plant will be delivered from the stock pile via conveyors, the material will then be processed, then delivered
+onto another set of conveys and stockpiled ready for drying and delivery back into the site from where it was initially extracted.
+
+ 
+
+As the current process
+allows for retreatment of the material, a conveyor system allowing for this will be incorporated into the stockpiling conveyor
+systems. This will allow material requiring processing to be delivered directly from the initial stockpile or from the treated
+stockpile as required.
+
+ 
+
+The conveyor systems
+will be let on a design and construct basis. The supplier will be required to provide the design, fabrication, installation, and
+commissioning and possibly ongoing maintenance of the conveyor systems as part of their contract. This system will incorporate
+a recovery pit and reclaim conveyor (or similar). The contract will incorporate both incentives and penalties for the handling
+of the sand thereby, as much as is practical, ensuring the processing capacities and associated timelines. The material will be
+fed onto the main conveyor system for distribution to the various process lines. The material will ultimately be fed onto each
+of the process feed lines. These process lines will be nominally 15meters apart and approx 50metres long.
+
+ 
+
+The process plant
+is being designed to allow expansion of capacity of each process line from the initial 10 tph up to 30tph. This will allow the
+initial plant to commence processing 100tph but quickly move up to 300 tph as design refinements within the process are developed.
+Modular expansion of the process lines is aimed at lifting the total plant production to approx 450-500tph. It is simply a matter
+of replicating the entire plant to achieve a plant with 900tph – 1000tph capacity each at multiple locations within the
+project site.
+
+ 
+
+Access
+
+ 
+
+Access to the site
+is easy and does not present difficulties for delivery of equipment during construction phase or operation phase. Main roads in
+Queensland have provided permits for the use of roadways by heavy vehicles. Access within the site is easily constructed on the
+surface of the project area using loaders and earthmoving equipment utilised in mining.
+
+ 
+
+An upgrade of roads
+is not acquired for construction and operations traffic. If it is required (and the probability is very low) a gravel airstrip
+can be constructed on the project site as well as a helipad for personnel transfers and secure air transport. However the townships
+of Eidsvold and Mundubbera are close by and there are mostly all-weather roads in the area. It is considered more likely that
+the personnel will transfer to and from the project site on a daily basis.
+
+ 
+
+
+
+
+    31
+     
+    
+
+ 
+
+ 
+
+Accommodation
+
+ 
+
+There is no need
+to build an accommodation village or overnight accommodation other than for security staff.
+
+ 
+
+Plant Site
+
+ 
+
+The plant site will
+be located on the site of the existing extractive industries operation. An initial area of 20000 m² has been set-aside in
+the mining lease for the construction of the initial processing plant. The plant site will not be constrained by mine waste, as
+tailings will not be a significant cost or operational issue. The site will be moderately levelled and presents very little difficulty
+with the advantage of the flat topography. Drains will isolate the plant site from run-off for diversion around the plant. Within
+the plant area, drainage will be collected and recovered to the process.
+
+ 
+
+Tailings
+
+ 
+
+A tailings facility
+is not required. Microfine processing allows the waste to be stockpiled on site and after a short time to allow for monitoring
+and drying, the waste will be returned to the extraction areas as backfill. The stockpiling can occur in bunded (with soil) secure
+low-level indents in the surface area of the project site. The stockpile areas will have diversion drains constructed to minimise
+capture of rainfall in the stockpile areas. There is sufficient area on the project site to allow process material to be dried
+by natural weather.
+
+ 
+
+Prior to return
+to the extraction areas quality tests will be conducted to ensure the mineral content of the material complies with Mines Department
+regulations. It is a feature of the microfine process that's the resource material may be treated more than once, and as such
+the handling of the material both during the process and at completion of the process will be conducted in similar methods to
+the stockpiling of sand and gravel with the use of movable conveyors and lifters.
+
+ 
+
+Water
+
+ 
+
+Perennial streams
+and local groundwater can supply the project’s water needs. There is ample evidence numerous small underground streams existing
+between the surface area and the actual water table. Groundwater use will not involve the local water table.
+
+ 
+
+The Coonambula area
+overall is a significant catchment area with well-developed streams creeks and rivers and groundwater can therefore be developed
+from surface water leakage, groundwater storage and groundwater through flow and the local streams.
+
+ 
+
+In years one to
+three of plant operation the average water demand for the project is estimated to be easily accommodated by the local streams
+and will be augmented by an initial water feed dam to be constructed in the initial construction phase. Once full-scale commercial
+operations are established, it is not anticipated there will be any significant risk to operations from the supply of water from
+the local area around the project site.
+
+ 
+
+Stormwater runoff
+from undisturbed areas of the plant site will be allowed to run into local creeks, through diversion channels and sediment control
+structures if necessary. Rainfall onto bunded areas will be recovered by the sump pumps and used in the process. Rainfall onto
+other plant areas will flow into a secure event pond and returned to the process, as it may be contaminated with chemicals or
+ore spillage.
+
+ 
+
+
+
+
+    32
+     
+    
+
+ 
+
+ 
+
+Power
+
+ 
+
+Power will be generated
+for the operations by diesel generator sets at 11 kV to meet the expected maximum demands. Power can be supplied by transportable
+equipment and it will 4 years into the operations before a permanent power installation may be required. Any boreholes will have
+a separate generator and a stand-by generator will be located at the plant area.
+
+ 
+
+Site Buildings
+
+ 
+
+Wherever practical,
+flat-pack type buildings will be used, imported in containers and assembled on site. This construction method will be used for
+the laboratory, administration and training facility. Larger facilities such as the workshop and warehouse will be made up of
+stacked shipping containers, with roofing over the enclosed spaces and concrete floors as required. The containers will be used
+as stores and offices. Specialised buildings such as the plant control rooms and laboratory will be prefabricated in shipping
+containers and brought to site fully assembled.
+
+ 
+
+Staff and office
+rooms will likewise be prefabricated and pre-wired inside shipping containers, with the wiring tested in the factory before despatch,
+to minimise site work. The main processing plant will be fully enclosed inside a large weather resistant building providing security
+and protection for operating systems and to allow operations to be conducted 24/ 6 with 20 hours per day and 4 hours per day allocated
+for maintenance. Lighting and safety procedures will also be more easily installed within a large building envelope.
+
+ 
+
+Mobile Equipment
+
+ 
+
+In addition to the
+mining fleet, four 4WD vehicles will be provided for use by the treatment plant and administration department to transfer staff
+around the site. An ambulance will be provided. A 5 t truck with hoists will be provided to carry light freight to and from site.
+
+ 
+
+Other equipment
+to be provided to the operations include a mobile crane, portable stand-by generators and lighting towers, diesel welders and
+HDPE pipe fusion welder, an Integrated tool carrier / forklift for reagent bag handling and a small FEL / Bobcat for plant clean-up.
+
+ 
+
+Four-diesel storage
+tanks will provide approximately two weeks supplies for the mine and power station. The facility will be bunded with unloading
+pumps, light vehicle and heavy vehicle rapid fill bowsers. Mining trucks will refuel at the plant site, but a service truck will
+refuel other mining equipment and remote generators. Transfer pumps will be used to supply the plant diesel generator set day
+tanks. During construction, two additional 2 kL storage bladders will supplement the existing 2 kL tank, until such time as the
+permanent fuel storage tanks can be constructed.
+
+ 
+
+Communications
+
+ 
+
+The existing satellite
+service for voice and data will be used until a new expanded system can be installed for use during construction and later for
+operations. A two-way radio system will be installed at the site, covering the mine operations and extending to a solar powered
+transmitter tower will be installed on a convenient hill and the system will provide additional security for the area. Vehicles
+travelling between off site and the site will be equipped with mobile telephones for safety reasons. Within the plant, additional
+security will be provided around the gold room.
+
+ 
+
+
+
+
+    33
+     
+    
+
+ 
+
+ 
+
+Rehabilitation
+
+ 
+
+At the end of the
+mine life, major items of process equipment and mining plant will be sold. Structures will be dismantled and the construction
+materials sold for use in other projects. Waste dumps will be battered during operation to conform to typical slopes in the land
+and all extraction areas then vacant will be backfilled. Seepage bores will be monitored for several years after closure to ensure
+that no drainage problems from returned material arise.
+
+ 
+
+The mine operation
+will work with its waste material to back fill extraction areas as part of the ongoing operations. It is intended that constantly
+returning material to extraction areas will aim for efficient handling and transport and at end of LOM the task of rehabilitation
+will be simplified. The work plans to be lodged and approved by Queensland Government Mines Department will contain all rehabilitation
+requirements and it is expected the requirements can be managed.
+
+ 
+
+Infrastructure
+Summary
+
+ 
+
+The infrastructure
+in the district is good and the area is readily accessible by well-maintained tarmac then sand and gravel roads. Telecommunications
+equipment has been installed. Access within the site will be over widened and packed farm tracks. Electricity will need to be
+supplied by on site local transportable power generation. There is adequate water for domestic and agricultural purposes and sufficient
+water to commence mining operations. Large-scale mining operations may require pumping from local water table, utilising boreholes
+that would require government approval. The planning and environmental permits allow borehole pumping to be part of a mining work
+plans.
+
+ 
+
+
+
+
+    34
+     
+    
+
+ 
+
+Financial
+
+ 
+
+Capital Cost
+Summary
+
+ 
+
+The capital expenditure
+summary over the first two years (initial design and construction phase) is shown in the table below, with sustaining capital
+for capacity expansion shown in the subsequent table.
+
+ 
+
+ 
+
+ 
+
+
+
+
+    35
+     
+    
+
+ 
+
+Table Capital
+Cost After initial Design and Construction Phase (Refer to NPV Sheet)
+
+ 
+
+ 
+
+ 
+
+Table Capacity
+Build Up
+
+ 
+
+ 
+
+ 
+
+
+
+
+    36
+     
+    
+
+ 
+
+Production Data
+
+ 
+
+The
+data of production planned during the design and construction phase (Y1 and 2), capacities build up phase (Y3-10) and operating
+phase (Y11-20) is shown in the table below:
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Direct Cost and
+Plant Operating Costs
+
+ 
+
+ 
+
+ 
+
+
+
+
+    37
+     
+    
+
+ 
+
+Economic
+Evaluation
+
+ 
+
+Valuation Methodology
+
+ 
+
+Valuation of the project
+is by using Discounted Cash Flow (“DCF”) techniques to determine a Net Present Value (“NPV”) for the Project
+in real terms. The NPV is derived from post royalties and tax, pre-debt real cash flows. The cash flows extracted from the Financial
+Model (“FM”) are presented in real terms using the Technical Parameters (“TP”), commodity price and macro-
+economic projections. To accommodate taxation a nominal financial model has been populated and the final free cash flow has been
+de-escalated to real terms prior to discounting.
+
+ 
+
+To populate the nominal
+financial model the commodity prices have been escalated over the LoM by US$ inflation which is estimated to be 3.5% per annum.
+All capital and operating costs have been escalated from Month 1 to the end of the LoM by inflation, which is estimated to be
+3% per annum.
+
+ 
+
+The timing of the cash
+flow has been adjusted to take into consideration the effects of revenue delay. The project valuation is based on a zero starting
+balance with respect to unredeemed capital expenditure.
+
+ 
+
+The FM is based on
+calendar years running from June to May. The FM commences on 1 June 2012. The LoM is 20 years, consisting of 10 years of full
+capacity production and 10 years of production during capacity build-up.
+
+ 
+
+Royalties
+
+ 
+
+Royalties have been
+deducted from the operating margin as per the terms agreed to in the Royalty Agreement with Riverstone Resources:
+
+ 
+
+
+1.On the first 100 ha of surface area of the project mined
+– 19% of the gross revenue earned by the project
+
+
+
+
+
+2.Subsequent to the first 100 ha of surface area of the project
+mined – 15% of the gross revenue earned by the project
+
+
+ 
+
+Taxation
+
+ 
+
+Company
+tax has been deducted from profits at a rate of 30% in line with the Australian corporate tax rate. Taxable income is determined
+from operating profit less depreciation.
+
+ 
+
+
+
+
+    38
+     
+    
+
+ 
+
+ 
+
+Cash Flows
+
+ 
+
+Table below presents
+the post-tax real cash flows for the Project. Each period reflects the calendar year from June to May. The valuations are derived
+from the projected cash flows commencing in June 2012.
+
+ 
+
+ 
+
+ 
+
+
+
+
+    39
+     
+    
+
+ 
+
+Net Present Values
+and Sensitivities
+
+ 
+
+Based on the real cash
+flows calculated in the FM, CHPL has reported a DCF valuation, and performed single and double parameter sensitivity analyses
+to ascertain the impact of discount factors, commodity prices and total costs;
+
+ 
+
+Net Present Values (“NPV”)
+for the project are presented. The NPV of the post-tax pre-finance nominal cash flows as derived from the FM compiled are presented
+here, as follows:
+
+ 
+
+The variations in NPV
+with discount factors for the Project are presented in the following table. The discount factors are arranged from 10% to 25%.
+A rate of 14% is used to represent the NPV for the project and as a base case to compare sensitivity. The NPV for the Project,
+at a 14% discount rate, amounts to US$ 4.29 billion.
+
+ 
+
+ 
+
+ 
+
+NPV Sensitivity –
+Single Parameter Analysis
+
+ 
+
+The variations in NPV
+based on single parameter sensitivities for the Project are presented in the following table. For the single parameter sensitivity,
+we have kept the revenues of the LoM at an average of US$2525 per Oz based on an escalation of 3.5% per annum from the current
+base price of US$ 1600 per Oz. The single parameter is “Cost” and we have shown the impact of increase in costs on
+the NPV at various discounting rates. Our base cost escalation is assumed at 3% pa over the LoM.
+
+ 
+
+ 
+
+ 
+
+
+
+
+    40
+     
+    
+
+ 
+
+ 
+
+NPV Sensitivity –
+Twin Parameter Analysis
+
+ 
+
+The variations in NPV
+based on twin parameter sensitivities for the Project are presented in the following table. The parameters tested for sensitivity
+are “commodity price” and “cost” and we have presented the impact at various discounting rates.
+
+ 
+
+ 
+
+ 
+
+From an analysis of
+the twin parameter sensitivity table above, the project has a very high sensitivity to a combination of falling gold prices and
+increase in costs of operations. If we were to factor drop in the commodity price combined with increase in costs, we will approach
+negative NPV scenarios if the twin affect of a 5% drop in price is combined with an approximate 10% annual increase in costs.
+While the risk of such a combined affect occurring is relatively medium-low, it could affect the viability of the project.
+
+ 
+
+We have also evaluated
+a possible scenario of an increase/decrease in yield affecting the NPV at 14% discounting rate. The emphasis is to test the negative
+impact from a drop in actual yield from the recoveries from the estimated average of 1.8gpt. A scenario analysis in such a situation
+is exhibited in the table below and even at an average yield of 0.9gpt (50% discount to the 1.8gpt adopted yield) the NPV is US$2.07
+billion.
+
+ 
+
+ 
+
+ 
+
+
+
+
+    41
+     
+    
+
+ 
+
+Payback
+
+ 
+
+The payback period is
+3.5 years (including 1 year of design and construction) for a LoM of 20 years.
+
+ 
+
+Important Risks and
+Opportunities
+
+ 
+
+The project assessment
+indicated certain risks and opportunities, which should be evaluated in further detail by Celframe in order to assess the complete
+returns on the project. The key risks and opportunities are:
+
+ 
+
+Risks
+
+
+•Delay in establishing the initial production plant and
+consequently the financial impact on the project;
+
+
+
+•Decline in global demand of gold and consequent decrease
+in prices;
+
+
+
+•Increase in the costs of operations of the project by 10%
+or more on annual basis thereby affecting the margins;
+
+
+
+
+
+•The Microfine process has not yet been commercially deployed
+on any project and during the process of developing the initial production plant and deploying the process, there could be unexpected
+issues and concerns arising out of the deployment of the process. This could delay the project commencement unless alternative
+processing methods are planned as contingencies;
+
+
+ 
+
+Opportunities
+
+
+•The Microfine process has the potential to derive significant
+improvements in yield from the tailings at the project site. The upside from any potential increase in yield will have significant
+positive impact on the project returns;
+
+
+
+
+
+•The Master Agreement in place with Riverstone Resources
+provides for a total treatment area of 2500 hectares. The phase 1 and 2 as part of this report is for a total area of 1600 hectares
+and hence there is scope to include a significant additional area as part of the project in future (57.50% of the total area under
+phase 1 and 2 is the possible additional area for treatment)
+
+
+
+
+ 
+
+Interpretation
+and Conclusions
+
+ 
+
+The
+ARX Gold Project fulfils financing requirements in terms of payback period (less than 5 years), required returns (>15% real)
+and that the risk of returning a negative NPV is considered low especially because the yield assumed at 1.8gpt is an extremely
+conservative assumption. Any possible increases in costs or capital required or drop in commodity prices can be managed if the
+yield is even marginally higher. The possibility of getting better yields is good based on the test results from the site but
+we have retained conservative assumptions of yield in our assessment of the financial viability of the project.
+
+ 
+
+Further,
+the microfine process adopted for this project is not capital intensive by its very nature and the production plant to be constructed
+is a modular design. This allows for a higher degree of flexibility to control the capital expansion in accordance with the change
+in market dynamics such as gold prices and increased costs. Hence, the likelihood of a negative NPV on the project is very low.
+
+ 
+
+Recommendations
+
+ 
+
+CHPL
+recommends that Celframe progress the project to the detailed design and implementation phase. The various risks and opportunities
+identified should be closely monitored during the detail design and implementation phase, to take advantage of any further possible
+optimization
+
+ 
+
+
+
+
+    42
+     
+    
+
+ 
+
+ 
+
+Appendix
+1: Assay
+
+Reports
+
+ 
+
+ 
+
+
+
+
+    43
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+
+    44
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    45
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+
+    46
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+
+    47
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+
+    48
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+
+    49
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+
+    50
+     
+    
+
+
+
+ 
+
+ 
+
+ 
+
+
+    51
+     
+    
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    52
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+
+
+    53
+     
+    
+
+ 
+
+ 
+
+ 
+
+Labmark
+Internal Quality Control Review
+
+ 
+
+General
+
+ 
+
+1.
+Laboratory QC results for Method Blanks, Duplicates, Matrix Spikes, and Laboratory Control Samples are included in this QC report
+where applicable. Additional QC data may be available on request.
+
+2.
+Matrix spike recoveries are calculated on an ‘As Received’ basis; the parent sample result is moisture corrected after
+the % recovery is determined.
+
+3.
+Proficiency trial results are available upon request.
+
+4.
+Actual PQLs are matrix dependant. Quotes PQLs may be raised where sample extracts are diluted due to interferences.
+
+5.
+Results are uncorrected for matrix spike or surrogate recoveries.
+
+6.
+Test samples are duplicated or spiked, are for this job only and are identified in the following QC report.
+
+7.
+SVOC analyses on waters are performed on homogenized, unfiltered sample, unless noted otherwise.
+
+8.
+When individual results are qualified in the body of a report, refer to the qualifier descriptions that follow.
+
+9.
+Samples were analysed on an as received basis.
+
+10.
+This report replaces any interim results previously issued.
+
+ 
+
+Holding
+Times
+
+ 
+
+Please
+refer to ‘Sampling and Preservation Chart for Soils & Waters’ for holding times (LM-FOR-ADM-020)
+
+ 
+
+For
+samples received on the last day of holding time, notification of testing requirements should have been received at least 6 hours
+prior to sample receipt deadlines as stated on the Sample Receipt Acknowledgement.
+
+If
+the Laboratory did not receive the information in the required timeframe, and regardless of any other integrity issues, suitability
+qualified results may still be reported.
+
+ 
+
+Holding
+times apply from the date of sampling, therefore compliance to these may be outside the laboratory’s control
+
+ 
+
+**NOTE:
+pH duplicates are reported as a rant NOT as an RPD
+
+ 
+
+Qualtity
+Control Results
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    54
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+    Sample Integrity
+     
+
+    Custody Seals Intact (if used)
+    N/A
+
+    Attempt to Chill was evident
+    No
+
+    Samples correctly preserved
+    Yes
+
+    Organic samples had Teflon liners
+    N/A
+
+    Samples received with Zero Headspace
+    N/A
+
+    Samples received within Holding Time
+    Yes
+
+    Some samples have been subcontracted
+    No
+
+
+
+
+
+ 
+
+
+
+
+
+    Authorized By
+     
+     
+
+    Carol Cawrse
+    Client Services Officer
+     
+
+    Mark Herbstreit
+    Senior Analyst - Metals
+    Accreditation Number: 1645
+
+     
+     
+     
+
+    Laboratory Manager
+     
+     
+
+    Anthony Crane
+    Operations Manager
+    /s/ Anthony Crane
+
+
+
+
+
+ 
+
+
+
+
+
+    Final Report
+     
+
+    - Indicates Not Requested
+    * Indicates NATA accreditation
+    does not cover the performance of this service
+
+
+
+
+
+ 
+
+
+
+
+    55
+     
+    
+
+ 
+
+ 
+
+ 
+
+24
+April 2009
+
+ 
+
+EMA
+Log #” 0904159
+
+ 
+
+Project
+Name: Gold
+
+ 
+
+Enclosed
+are the results of analyses for samples received by the laboratory on 04/07/09 09:48. Samples were analyzed pursuant
+to client request utilizing EPA or other ELAP approved methodologies. I certify that this data is in compliance both
+technically and for completeness.
+
+ 
+
+/s/
+Dan Verdon
+
+ 
+
+Dan
+Verdon
+
+Laboratory
+Director
+
+ 
+
+CA
+ELAP Certification #: 2564
+
+ 
+
+4340
+Viewridge Avenue, Suite A - San Diego, California 92123 - (858) 560-7717 - Fax (858) 560-7763
+
+Analytical
+Chemistry Laboratory
+
+ 
+
+
+
+
+    56
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    57
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+    58
+     
+    
+
+ 
+
+ 
+
+ 
+
+
+    59
+     
+    
+
+
+
+ 
+
+ 
+
+
+
+
+    60
+     
+    
+
+ 
+
+
+
+
+    61
+     
+    
+
+ 
+
+
+
+
+    62
+     
+    
+
+ 
+
+
+
+
+
+
+    63
+     
+    
+
+ 
+
+
+    64
+     
+    
+
+
+
+ 
+
+
+
+
+    65
+     
+    
+
+ 
+
+
+
+
+    66
+     
+    
+
+ 
+
+
+
+
+    67
+     
+    
+
+ 
+
+
+
+
+    68
+     
+    
+
+ 
+
+ 
+
+
+
+
+    69
+     
+    
+
+ 
+
+
+
+
+    70
+     
+    
+
+ 
+
+ 
+
+
+
+
+    71
+     
+    
+
+ 
+
+ 
+
+
+
+
+    72
+     
+    
+
+ 
+
+
+
+
+    73
+     
+    
+
+ 
+
+ 
+
+
+
+Notes and Definitions
+
+ 
+
+ 
+
+QR-02	 The RPD result
+exceeded the QC limits due to non-homogeneity of sample.
+
+ 
+
+QM-4X	 The spike recovery
+was outside of the QC acceptance limits for the MS
+and/or MSD due to analyte concentration
+at 4 times or greater
+the spike concentration. The QC batch was accepted based on LCS and/or
+LCSD recoveries within the
+acceptance limits.
+
+QM-06	Due to noted non-homogeneity
+of the QC sample matrix, the MSIMSD did not provide reliable
+results for accuracy
+and precision.
+Sample results for the QC batch were accepted based on LCS/LCSD
+percent recoveries and RPD values. 
+
+ 
+
+QL-03	 The LCS recovery
+for this analyte was outside the QC criteria for this
+method.
+
+ 
+
+QB-05	 This analyte was
+found in the method blank and is a suspected laboratory contaminent.
+
+ 
+
+ND	Analyte
+NOT DETECTED at or above
+the reporting
+limit
+
+ 
+
+NR	Not Reported
+
+ 
+
+dty
+	Sample results
+reported on a dry weight
+basis
+
+ 
+
+RPD 	Relative
+Percent Difference
+
+
+
+ 
+
+
+
+
+    74
+     
+    
+
+ 
+
+
+
+ 
+
+
+
+
+    75
+     
+    
+
+ 
+
+
+
+
+    76
+     
+    
+
+ 
+
+
+
+References
+
+ 
+
+ARX Pacific Resources Pty Ltd, ASIC
+Database Extract, 11 April 2012
+
+ 
+
+ARX Springs Pty Ltd, ASIC Database Extract, 11 April
+2012
+
+ 
+
+BRI Microfine Pty Ltd, ASIC Database
+Extract, 11 April 2012
+
+ 
+
+ARX Springs Pty Ltd and Riverstone
+Resources Pty Ltd, Various Tribute
+Agreements
+and Map
+
+ 
+
+Areas, 6 March 2012 I 31't
+March 2012
+
+ 
+
+BRI Microfine Pty Ltd and ARX Springs
+Pty Ltd, Technology Sub License
+Agreement
+
+ 
+
+Environment Approvals for Extractive
+Industries, Extractive industries
+permit,
+EPA approvals
+
+ 
+
+for mining license
+and Mining License
+
+ 
+
+Celframe ARX Springs NPV Certificate
+and NPV Valuation- ESA Pte Ltd, Singapore,
+Ref:
+
+ 
+
+CDI11-2011I034, 28 November 2011
+
+ 
+
+Certificate of Analysis- LabMark Environmental
+Laboratories, Australia,
+31 July 2008
+
+ 
+
+Certificate of Analysis- EnviroMatric
+Analytical, Inc, USA, 24 April
+2009
+
+ 
+
+Certificate of Analysis- LabMark Environmental
+Laboratories, Australia,
+31 September
+2008
+
+ 
+
+Certificate of Analysis- ALS Chemex,
+Australia, 19 January 2009 I
+7 October 2011
+I 17
+
+ 
+
+February 2012 I 22 February 2012 I 23
+February 2012
+
+ 
+
+ 
+
+Date and Signature
+
+ 
+
+Effective Date of Feasibility Study:
+15 June, 2012
+
+ 
+
+Date of Signature:
+15 June, 2012
+
+ 
+
+Signed by:
+
+ 
+
+COCCIARDI HOLDINGS PTY LTD
+
+ 
+
+/s/ Peter Cocciardi
+
+Peter Cocciardi
+
+MANAGING DIRECTOR
+
+
+
+
+
+
+    77
+     
+    
+
+ 
+
+
+
+
+
+Report Distribution
+Record
+
+ 
+
+Complete this form and include it as the final page for each copy
+of the report produced.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+This report is protected by copyright vested in ARX Springs Pty
+Ltd. It may not be reproduced or transmitted in any form or by any means whatsoever to any person without the written permission
+of the copyright holder, ARX Springs Pty Ltd.
+
+
+
+
+
+
+
+
+
+
+

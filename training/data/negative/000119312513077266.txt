@@ -1,0 +1,908 @@
+
+EX-10.18
+2
+d470119dex1018.htm
+EX-10.18
+
+
+EX-10.18
+
+ 
+
+ Exhibit 10.18  FOURTH AMENDED AND RESTATED  NEWFIELD EXPLORATION COMPANY 
+CHANGE OF CONTROL SEVERANCE PLAN  WHEREAS, Newfield Exploration Company (the Company) adopted the Newfield Exploration Company Change of Control Severance Plan (as amended from time to time, the
+Plan) effective as of February 17, 2005 for the benefit of certain employees of the Company; and 
+WHEREAS, the Company desires to further amend and to restate the Plan; 
+NOW, THEREFORE, the Plan is hereby amended and restated, effective as of February 8, 2013, as follows: 
+I.    INTRODUCTION  The Plan was adopted pursuant to the authorization of the Board of Directors of the Company for the benefit of its eligible employees and the eligible employees of its participating subsidiaries and
+affiliated entities. The Plan is intended to provide severance benefits to certain officers and employees whose employment is terminated under certain circumstances on or after a Change of Control (as defined below). 
+II.    DEFINITIONS AND CONSTRUCTION  2.1    Definitions.    Where the following words and phrases appear in the Plan, they shall have the respective meanings set forth below, unless their
+context clearly indicates to the contrary.  (a) Board shall mean the Board of Directors of
+the Company.  (b) Cause shall mean, with respect to each Covered Employee, any termination
+of such Covered Employees employment with the Employer based on a determination by the Committee that such Covered Employee (1) has been convicted of or entered a plea of nolo contendre to a felony or of a misdemeanor involving
+moral turpitude, (2) has willfully refused without proper legal cause to perform the duties and responsibilities of the employee, (3) has willfully engaged in conduct which the employee has reason to know is materially injurious to the
+Employer or its affiliates, (4) has engaged in gross negligence or willful misconduct in the performance of the employees duties and responsibilities with the Employer, or (5) has materially breached any material policy of the
+Employer.  (c) Change of Control shall mean the occurrence of any of the following:
+ (1) the Company is not the surviving Person (as such term is defined below in this definition) in any merger,
+consolidation or other reorganization (or survives only as a subsidiary of another Person);  (2) the
+consummation of a merger or consolidation of the Company with another Person pursuant to which less than 50% of the outstanding voting securities of the surviving or resulting corporation are issued in respect of the capital stock of the Company;
+ (3) the Company sells, leases or exchanges all or substantially all of its assets to any other Person;
+ (4) the Company is to be dissolved and liquidated; 
+(5) any Person, including a group as contemplated by Section 13(d)(3) of the Securities Exchange Act of
+1934, acquires or gains ownership or control (including the power to vote) of more than 50% of the outstanding shares of the Companys voting stock (based upon voting power); or 
+(6) as a result of or in connection with a contested election of directors, the Persons who were directors of the Company
+before such election cease to constitute a majority of the Board. 
+
+
+
+
+ Notwithstanding the foregoing, the definition of Change of Control shall not
+include any merger, consolidation, reorganization, sale, lease, exchange, or similar transaction involving solely the Company and one or more Persons that were wholly owned, directly or indirectly, by the Company immediately prior to such event. For
+purposes of this definition, Person shall mean any individual, partnership, corporation, limited liability company, trust, incorporated or unincorporated organization or association or other legal entity of any kind. 
+(d) Code shall mean the Internal Revenue Code of 1986, as amended. 
+(e) Committee shall mean the Committee appointed pursuant to Section 4.1. 
+(f) Company shall have the meaning ascribed to such term in the recitals to the Plan. 
+(g) Covered Employee shall mean each regular exempt or non-exempt employee of the Company who is
+normally scheduled to work 30 or more hours per week and is employed by the Company on the date immediately preceding a Change of Control. The term Covered Employee shall not include (A) any employee who is entitled to severance
+under any individual employment, severance or change of control agreement between the employee and the Company, (B) any employee whose terms and conditions of employment are governed by a collective bargaining agreement, unless such agreement
+provides for his coverage under the Plan, (C) any nonresident alien who receives no earned income from the Employer that constitutes income from sources within the United States, unless the Compensation & Management Development
+Committee of the Board has determined that such individual shall be covered by the Plan, or (D) any leased employee. Notwithstanding any provision of the Plan to the contrary, no individual who is designated, compensated, or
+otherwise classified or treated by the Employer as an independent contractor or other non-common law employee shall be eligible to receive benefits under the Plan. It is expressly intended that individuals not treated as common law employees by the
+Employer are to be excluded from Plan participation even if a court or administrative agency determines that such individuals are common law employees. Notwithstanding any provision of the Plan to the contrary, no individual who has an individual
+severance agreement (including an employment agreement that provides for severance benefits) or an individual change of control agreement with the Employer shall be eligible to participate in, or receive benefits under, the Plan. 
+(h) Employer shall mean the Company and each of its subsidiaries and affiliates that is treated as an
+Employer in accordance with the provisions of Section 5.1.  (i) Good Reason shall mean,
+with respect to each Covered Employee, on or following a Change of Control but not later than the second anniversary of the Change of Control, the occurrence of any one or more of the following: 
+(1) a material reduction in the nature or scope of such Covered Employees aggregate responsibilities from those
+applicable to such Covered Employee immediately prior to the date on which a Change of Control occurs;  (2) a
+reduction in such Covered Employees annual base salary;  (3) any failure to provide such Covered Employee
+with a combined total of annual base salary and annual bonus compensation at a level at least equal to the combined total of such Covered Employees annual rate of base salary with the Employer in effect immediately prior to the Change of
+Control and bonus compensation in an amount equal to the amount determined under clause (B) of Section 2.1(q) for such Covered Employee (provided that in the event that such Covered Employee has not yet been eligible to receive any annual
+cash bonus awards due to such Covered Employees length or period of service with the Employer, then such amount of bonus compensation shall equal the mean of the total amount determined under such clause (B) for all Covered Employees who
+were similarly situated to such Covered Employee immediately prior to the Change of Control), with a failure being deemed to have occurred in the event that (A) payments are made to such Covered Employee in a form other than 
+cash, (B) base salary is deferred at other than such Covered Employees election, (C) bonus compensation is not awarded
+within two and one-half months following the end of the calendar year to 
+   2 
+
+
+
+
+
+ 
+which it relates, (D) bonus compensation is deferred at other than such Covered Employees election at a rate in excess of the average ratio of deferred bonuses to currently paid
+bonuses awarded to such Covered Employee with respect to the two most recent calendar years ending prior to the Change of Control, or (E) bonus compensation is deferred at other than such Covered Employees election in a manner that is not
+substantially similar in terms of such Covered Employees vested rights and timing of payments to the manner in which deferred bonuses were awarded to such Covered Employee with respect to the two most recent calendar years ending prior to the
+Change of Control (if such Covered Employee has not yet been eligible to receive any annual cash bonus awards due to such Covered Employees length or period of service with the Employer, then for purposes of clause (D) above, the
+applicable deferral rate for bonus compensation shall be deemed to equal the mean of the rates determined under such clause (D) for all Covered Employees who were similarly situated to such Covered Employee immediately prior to the Change of
+Control, and for purposes of clause (E) above, the applicable vested rights and timing of payments for deferred bonus compensation shall be deemed to be similar to those applied to deferred bonus compensation of Covered Employees who were
+similarly situated to such Covered Employee immediately prior to the Change of Control); or  (4) a change in
+the location of such Covered Employees principal place of employment by the Employer by 50 miles or more from the location where he was principally employed immediately prior to the date on which a Change of Control occurs. 
+(j) Involuntary Termination shall mean, with respect to each Covered Employee, any termination of such
+Covered Employees employment with the Employer that occurs on or following a Change of Control but not later than the latest to occur of (1) the second anniversary of the Change of Control and (2) the expiration of the 30-day period
+described in clause (B) of this Section 2.1(j), and which:  (A) does not result from a voluntary
+resignation by such Covered Employee (other than a resignation pursuant to clause (B) of this Section 2.1(j)); or  (B) results from a resignation by such Covered Employee on or before the date which is 30 days after the date the Covered Employee receives notice of a Good Reason event; 
+provided, however, that the term Involuntary Termination shall not include a termination of such Covered Employees
+employment with the Employer for Cause, any termination as a result of such Covered Employees death or disability under circumstances entitling him to long-term benefits under the long-term disability plan of the Employer, or any termination
+as a result of such Covered Employee declining to accept an offer of comparable employment from a successor employer. For purposes of the preceding sentence, comparable employment shall include employment that would not result in a Good Reason event
+for the Covered Employee. For the calendar year during which the second anniversary of the Change of Control occurs, in the event that the Company fails to award a Covered Employee prorated bonus compensation with respect to the portion of such
+calendar year ending on such second anniversary in a manner that does not constitute a failure under Section 2.1(i)(3), such failure shall be deemed to be an event that constitutes Good Reason and, if such Covered Employee terminates his
+employment upon or within 30 days following such failure, then such termination shall be deemed to be an Involuntary Termination entitling such Covered Employee to benefits hereunder. 
+(k) Plan shall mean the Amended and Restated Newfield Exploration Company Change of Control Severance
+Plan, as amended from time to time.  (l) Release shall mean a comprehensive release and
+waiver agreement in substantially the same form as that attached hereto as Exhibit B.  (m) Section
+409A means section 409A of the Code and the Department of Treasury rules and regulations issued thereunder.  (n) Separation From Service has the meaning ascribed to that term in Section 409A. 
+   3 
+
+
+
+
+
+ (o) Specified Employee means a person who is, as of the
+date of the persons Separation From Service, a specified employee within the meaning of Section 409A, taking into account the elections made and procedures established in resolutions adopted by the Compensation &
+Management Development Committee of the Board.  (p) Severance Factor shall mean:
+(1) for each Covered Employee who is an officer of the Company appointed by the Board, the Severance Factor shall be between 52 and 104, as determined by the Board or any Committee of the Board, (2) with respect to each Covered Employee
+who is not an officer of the Company but has been designated by the Employer as a Group A member, the product of his Years of Service multiplied by four and (3) for each other Covered Employee, the product of his Years of Service multiplied by
+three; provided, however, that in no event shall a Covered Employees Severance Factor be less than two or greater than 104.  (q) Weekly Compensation shall mean, with respect to each Covered Employee, the quotient of:  (1) the sum of:  (A) such Covered Employees annual base
+salary with the Employer at the rate in effect immediately prior to the Change of Control; and  (B) an amount
+equal to one-half of the total of all cash bonuses (whether paid or deferred) awarded (including any paid guaranteed bonus amounts but excluding any sign-on, retention or other special or one-time bonus amounts) to such Covered Employee by the
+Employer with respect to the two most recent calendar years ending prior to the Change of Control; provided, however, that:  (i) in the event that any such cash bonuses were awarded with respect to only a partial year of employment by such Covered Employee, then for purposes of this clause (B) such cash bonuses shall be
+deemed to equal an amount determined by annualizing such cash bonuses based on the ratio of the number of days such Covered Employee was employed by the Employer during such year to 365 days; 
+(ii) in the event that such Covered Employee was only eligible to receive cash bonus awards with respect to the most
+recent calendar year ending prior to the Change of Control due to such Covered Employees length or period of service with the Employer, then the amount determined under this clause (B) for such Covered Employee shall, subject to
+adjustment as provided in (i) above, equal the total of all cash bonuses awarded to such Covered Employee with respect to such year; and  (iii) in the event that such Covered Employee has not yet been eligible to receive any cash bonus awards due to such Covered Employees length or period of service with the Employer, then no amount
+shall be included under this clause (B) for such Covered Employee;  divided by 
+(2) 52.  (r) Years of Service shall mean with respect to each Covered Employee his years of continuous employment with the Employer and its affiliates (excluding any predecessors thereof) from
+his most recent date of hire as reflected on the Employers records through the effective termination of employment plus any years of service credited to such Covered Employee for purposes of the Plan by the Compensation & Management
+Development Committee of the Board for prior industry experience, including fractions thereof (with fractions to be based upon completed months of employment); provided, however, no more than 20 years of prior industry service may be credited to any
+such Covered Employee.  2.2    Number and Gender.    Wherever
+appropriate herein, a word used in the singular shall be considered to include the plural and the plural to include the singular. The masculine gender, where appearing in the Plan, shall be deemed to include the feminine gender. 
+   4 
+
+
+
+
+
+ 2.3    Headings.    The headings of
+Articles and Sections herein are included solely for convenience and if there is any conflict between such headings and the text of the Plan, the text shall control.  III.    SEVERANCE BENEFITS 
+3.1    Severance Benefits.    If a Covered Employees termination of employment
+with the Employer or a successor thereto qualifies as an Involuntary Termination, the Covered Employee executes and delivers to the Employer the Release by the deadline established by the Employer and the Covered Employee does not revoke the
+Release, then such Covered Employee shall, subject to the provisions of Sections 3.2, 3.3 and 3.5, receive the following severance benefits from the Employer:  (a) The Employer shall pay to such Covered Employee a lump sum cash payment in an amount equal to such Covered Employees Severance Factor multiplied by his Weekly Compensation. If the Covered
+Employee is not a Specified Employee, the Company shall pay the Covered Employee any cash benefits described in this paragraph (a) of Section 3.1 in a single sum cash payment on the date that is 60 days following the date of the Covered
+Employees Separation From Service. If a Covered Employee is a Specified Employee, the Company shall pay the Covered Employee any cash benefits described in this paragraph (a) of Section 3.1 in a single sum cash payment on the date
+that is six months following the Covered Employees Separation From Service. Whether the Covered Employee is or is not a Specified Employee, the Covered Employee will not be paid the cash benefits described in this paragraph (a) of
+Section 3.1, and the Covered Employee shall forfeit any right to such payments, unless (i) the Covered Employee has signed and delivered to the Employer the Release furnished to the Covered Employee and (ii) the period for revoking
+such Release shall have expired (in the case of both clause (i) and clause (ii)) prior to the earlier of the deadline established by the Employer or the applicable payment date (the date that is 60 days after the Covered Employees
+Separation From Service if the Covered Employee is not a Specified Employee or the date that is six months after the date of the Covered Employees Separation From Service if the Covered Employee is a Specified Employee). 
+(b) Except to the extent specifically set forth to the contrary in a grant agreement under any employee stock incentive plan of the
+Company, as of the date of such Covered Employees termination of employment (i) all restricted shares of Company stock of such Covered Employee shall become 100% vested and all restrictions thereon shall lapse and the Company shall
+promptly deliver to such Covered Employee unrestricted shares of Company stock, (ii) all restricted stock units of such Covered Employee shall vest and be settled in the manner provided in the applicable grant agreement(s) and (iii) each
+then outstanding Company stock option of such Covered Employee shall become 100% exercisable. 
+3.2    Parachute Payments.    Anything to the contrary herein notwithstanding, if a
+Covered Employee is a disqualified individual (as defined in section 280G(c) of the Code), and the severance benefits provided for in Section 3.1, together with any other payments or benefits which the Covered Employee has the right
+to receive from the Employer, would constitute a parachute payment (as defined in section 280G(b)(2) of the Code), then the severance benefits provided hereunder shall be either (a) reduced (but not below zero) so that the present
+value of such total amounts received by the Covered Employee from the Employer will be one dollar ($1.00) less than three times the Covered Employees base amount (as defined in section 280G(b)(3) of the Code) and so that no portion
+of such amounts received by the Covered Employee shall be subject to the excise tax imposed by section 4999 of the Code or (b) paid in full, whichever produces the better net after-tax position to the Covered Employee (taking into account any
+applicable excise tax under section 4999 of the Code and any applicable income tax). The determination as to whether any such reduction in the amount of the severance benefits is necessary shall be made by the Committee in good faith. If a reduced
+cash payment is made and through error or otherwise that payment, when aggregated with other payments or benefits from the Employer (or its affiliates) used in determining if a parachute payment exists, exceeds one dollar ($1.00) less
+than three times the Covered Employees base amount, the Covered Employee shall immediately repay such excess to the Employer upon notification that an overpayment has been made. Nothing in this Section 3.2 shall require the Employer to be
+responsible for, or have any liability or obligation with respect to, any Covered Employees excise tax liabilities under section 4999 of the Code. 
+   5 
+
+
+
+
+
+ 3.3    Coordination with Certain Other
+Agreements.    The benefits under the Plan are not intended to duplicate the benefits to which a Covered Employee is entitled under any individual employment, severance or change of control agreement between such Covered
+Employee and the Employer, and if a Covered Employee is entitled to any cash severance benefits under any such agreement, then any benefits to which such Covered Employee is entitled under the Plan shall be offset by such cash benefits received
+under such individual agreement; provided, however, that there shall be no such reduction to the extent that such reduction would result in an acceleration of payment of nonqualified deferred compensation that is prohibited under
+Section 409A.  3.4    No Mitigation.    A Covered Employee shall
+not be required to mitigate the amount of any payment or benefit provided for in this Article III by seeking other employment or otherwise, nor shall the amount of any payment or benefit provided for in this Article III be reduced by any
+compensation or benefit earned by the Covered Employee as the result of employment by another employer. 
+3.5    Severance Pay Plan Limitation.    The Plan is intended to be an employee
+welfare benefit plan within the meaning of section 3(1) of ERISA and the Labor Department regulations promulgated thereunder. Therefore, anything to the contrary herein notwithstanding, in no event shall any Covered Employee receive total severance
+payments under the Plan that exceed the equivalent of twice such Covered Employees annual compensation (as such term is defined in 29 CFR § 2510.3-2(b)(2)) during the year immediately preceding his Involuntary Termination. If
+total severance payments under the Plan to a Covered Employee would otherwise exceed the limitation in the preceding sentence, the amount payable to such Covered Employee under the Plan (other than any interest paid pursuant to Section 5.12)
+shall be reduced in order to satisfy such limitation.  IV.    ADMINISTRATION OF PLAN 
+4.1    Appointment of Committee.    The Company shall be the Plan administrator
+during the period preceding the date upon which a Change of Control occurs. Prior to the date upon which a Change of Control occurs, the Board shall appoint three or more Covered Employees to serve as the Committee. The Committee shall administer
+the Plan on and after the date upon which a Change of Control occurs, in accordance with the provisions of this Article IV. If for any reason any individual or entity so appointed resigns or is otherwise unwilling or unable to serve as a member of
+the Committee, then such individual or entity (or any successor thereto) shall appoint his own successor (who shall also be a Covered Employee). The Committee may select officers and may appoint a secretary who need not be a member of the Committee.
+The Committee shall designate the person or persons who shall be authorized to sign for the Committee and, upon such designation, the signature of such person or persons shall bind the Committee. 
+4.2    Proceedings and Meetings; Self-Interest of Members.    The Committee shall
+keep appropriate records of proceedings related to the administration of the Plan and shall make available for examination during business hours to any Covered Employee or beneficiary such records as pertain to that individuals interest in the
+Plan. The Committee shall hold meetings upon such notice and at such times and places as it may from time to time determine. Notice to a member shall not be required if waived in writing by that member. A majority of the members of the Committee
+duly appointed shall constitute a quorum for the transaction of business. All resolutions or other actions taken by the Committee at any meeting where a quorum is present shall be by vote of a majority of those present at such meeting and entitled
+to vote. Resolutions may be adopted or other action taken without a meeting upon written consent signed by all of the members of the Committee. No member of the Committee shall have any right to vote or decide upon any matter relating solely to such
+member under the Plan or to vote in any case in which his individual right to claim any benefit under the Plan is particularly involved.  4.3    Committees Powers and Duties.    It shall be a principal duty of the Committee to see that the Plan is carried out, in accordance with
+its terms, for the exclusive benefit of persons entitled to participate in the Plan. The Committee shall have full power to administer the Plan in all of its details, subject to applicable 
+   6 
+
+
+
+
+
+ 
+requirements of law. For this purpose, the Committees powers shall include, but not be limited to, the following authority, in addition to all other powers provided by the Plan: 
+(a) to make and enforce such rules and regulations as it deems necessary or proper for the efficient administration of the Plan;
+ (b) to interpret the Plan, its interpretation thereof to be final and conclusive on all persons claiming benefits under the
+Plan;  (c) to decide all questions concerning the Plan and the eligibility of any person to participate in the Plan;
+ (d) to make a determination as to the right of any person to a benefit under the Plan (including, without limitation, to
+determine whether and when there has been a termination of a Covered Employees employment and the cause of such termination);  (e) to appoint such agents, counsel, accountants, consultants, claims administrator and other persons as may be required to assist in administering the Plan; 
+(f) to allocate and delegate its responsibilities under the Plan and to designate other persons to carry out any of its responsibilities
+under the Plan, any such allocation, delegation or designation to be in writing;  (g) to sue or cause suit to be brought in the
+name of the Plan; and  (h) to obtain from the Employer and from Covered Employees such information as is necessary for the
+proper administration of the Plan.  4.4    Indemnification of
+Committee.    The Company agrees to indemnify and to defend to the fullest extent permitted by law any member of the Committee against all liabilities, damages, costs and expenses (including attorneys fees and
+amounts paid in settlement of any claims approved by the Company) (collectively, Covered Expenses) occasioned by any act or omission to act in connection with the Plan, if such act or omission was in good faith. Such payments
+shall be made within ten (10) business days after the delivery of the Committee members written request for the payment accompanied by such evidence of Covered Expenses incurred as the Company may reasonably require. In any event the
+Company shall pay the Committee member such Covered Expenses by the last day of the Covered Employees taxable year following the taxable year in which the Committee member incurred such Covered Expenses. The Covered Expenses that are subject
+to reimbursement pursuant to this Section 4.4 shall not be limited as a result of when the Covered Expenses are incurred. The amount of Covered Expenses that is eligible for reimbursement pursuant to this Section 4.4 during a given taxable
+year of the Committee member shall not affect the amount of Covered Expenses eligible for reimbursement in any other taxable year of the Committee member. The right to reimbursement pursuant to this Section 4.4 is not subject to liquidation or
+exchange for another benefit.  4.5    Compensation, Bond and
+Expenses.    The members of the Committee shall not receive compensation with respect to their services for the Committee. To the extent required by applicable law, but not otherwise, Committee members shall furnish bond
+or security for the performance of their duties hereunder. Any expenses properly incurred by the Committee incident to the administration, termination or protection of the Plan, including the cost of furnishing bond, shall be paid by the Company.
+ 4.6    Claims Procedures.    Claims for Plan benefits and reviews of
+Plan benefit claims that have been denied or modified shall be processed in accordance with the written Plan claims procedures that are attached hereto as Exhibit A, which procedures are hereby incorporated by reference as a part of the Plan.
+ V.    GENERAL PROVISIONS  5.1    Other Participating Employers.    It is contemplated that affiliates of the Company may adopt the Plan and thereby become an
+Employer hereunder. Any such entity, whether or not presently existing, may 
+   7 
+
+
+
+
+
+ 
+become a party hereto by appropriate action of its Board of Directors or noncorporate counterpart. The provisions of the Plan shall apply separately and equally to each Employer and its employees
+in the same manner as is expressly provided for the Company and its employees, except that the determination of whether a Change of Control has occurred shall be made based solely on the Company. Nevertheless, any Employer may incorporate in its
+adoption agreement or in an amendment document specific provisions relating to the operation of the Plan, and such provisions shall become a part of the Plan as to such Employer only. Transfer of employment among the Company and other participating
+Employers shall not be considered an Involuntary Termination hereunder unless such transfer otherwise constitutes a Good Reason event. Subject to the provisions of Section 5.2, any participating Employer may, by appropriate action of its Board
+of Directors or noncorporate counterpart, terminate its participation in the Plan. Amounts payable hereunder shall be paid by the Employer which employs the particular Covered Employee. 
+5.2    Termination and Amendment.    The Plan may be amended from time to time or
+terminated at the discretion of the Board; provided, however, that notwithstanding the foregoing, the Plan may not be amended on or following a Change of Control to adversely affect the benefits or rights to benefits (contingent or otherwise) of any
+Covered Employee under the Plan or terminated on or following a Change of Control until there are no longer any benefits potentially payable under the Plan. Further, a participating Employer may not terminate its participation in the Plan on or
+following a Change of Control unless and until it no longer employs any Covered Employees and has otherwise satisfied its obligations to pay benefits under the Plan.  5.3    Funding; Cost of Plan.    The benefits provided herein shall be unfunded and shall be provided from the Employers general assets. The
+entire cost of the Plan shall be borne by the Employer and no contributions shall be required of the Covered Employees. 
+5.4    Plan Year.    The Plan shall operate on a plan year consisting of the
+12-consecutive month period commencing on January 1 of each year; provided, however, that the first Plan Year shall begin on the date of the approval of the Plan by the Board. 
+5.5    Nonalienation.    Covered Employees shall not have any right to
+pledge, hypothecate, anticipate or assign benefits or rights under the Plan, except by will or the laws of descent and distribution.  5.6    Not Contract of Employment.    The adoption and maintenance of the Plan shall not be deemed to be a contract of employment between the Employer
+and any person or to be consideration for the employment of any person. Nothing herein contained shall be deemed to (a) give any person the right to be retained in the employ of the Employer, (b) restrict the right of the Employer to
+discharge any person at any time, (c) give the Employer the right to require any person to remain in the employ of the Employer, or (d) restrict any persons right to terminate his employment at any time. 
+5.7    Indemnification.    If a Covered Employee shall obtain any money judgment
+relating to the Plan or otherwise prevails with respect to any litigation brought by such Covered Employee or the Employer to enforce or interpret any provision contained herein, the Employer, to the fullest extent permitted by applicable law,
+hereby indemnifies such Covered Employee for his reasonable attorneys fees and disbursements incurred in such litigation and hereby agrees to pay in full all such fees and disbursements. Such payments shall be made within ten
+(10) business days after the delivery of the Covered Employees written request for the payment (on or following the date on which he obtains a money judgment relating to the Plan or otherwise prevails with respect to litigation brought by
+him to enforce or interpret any provision contained herein) accompanied by such evidence of such fees and expenses incurred as the Company may reasonably require. In any event the Company shall pay the Covered Employee such legal fees and expenses
+by the last day of the Covered Employees taxable year following the taxable year in which the Covered Employee incurred such legal fees and expenses. The legal fees or expenses that are subject to reimbursement pursuant to this
+Section 5.7 shall not be limited as a result of when the fees or expenses are incurred. The amount of legal fees or expenses that is eligible for reimbursement pursuant to this Section 5.7 during a given taxable year of the Covered
+Employee shall not affect the amount of expenses eligible for reimbursement in any other taxable year of the Covered Employee. The right to 
+   8 
+
+
+
+
+
+ 
+reimbursement pursuant to this Section 5.7 is not subject to liquidation or exchange for another benefit. Notwithstanding any provision of this Agreement to the contrary, if the Covered
+Employee is a Specified Employee, any amount to which the Covered Employee would otherwise be entitled under this Section 5.7 during the first six months following the date of the Covered Employees Separation From Service shall be
+accumulated and paid to the Covered Employee on the date that is six months following the date of his Separation From Service. 
+5.8    Payment Obligations Absolute.    The Employers obligation to pay a
+Covered Employee the amounts provided herein shall be absolute and unconditional and shall not be affected by any circumstances, including, without limitation, any set-off, counterclaim, recoupment, defense or other right which the Employer or any
+of its subsidiaries may have against such Covered Employee or anyone else. All amounts payable by the Employer shall be paid without notice or demand.  5.9    Withholding.    Any benefits paid or provided pursuant to the Plan shall be subject to any required tax withholding. 
+5.10    Severability.    Any provision in the Plan that is prohibited or
+unenforceable in any jurisdiction by reason of applicable law shall, as to such jurisdiction, be ineffective only to the extent of such prohibition or unenforceability without invalidating or affecting the remaining provisions hereof, and any such
+prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.  5.11    Effect of Plan.    The Plan is intended to supersede all prior oral or written severance plans of the Employer for employees in general.
+Further, the Plan shall be binding upon the Employer and any successor of the Employer, by merger, consolidation, acquisition or similar transaction, and shall inure to the benefit of and be enforceable by the Employers Covered Employees.
+ 5.12    Disputed Payments and Failures to Pay.    If the Company fails
+to make a payment in whole or in part as of the payment deadline specified in the Plan, either intentionally or unintentionally, other than with the consent of the Covered Employee, the Covered Employee shall make prompt and reasonable good faith
+efforts to collect the remaining portion of the payment. The Company shall pay any such unpaid benefits due to the Covered Employee, together with interest on the unpaid benefits from the date of the payment deadline specified in the Plan at 120
+percent of the rate specified in section 1274(b)(2)(B) of the Code within ten (10) business days of discovering that the additional monies are due and payable.  5.13    Compliance With Section 409A.    It is intended that the Plan shall comply with Section 409A. The provisions of the Plan
+shall be interpreted and administered in a manner that complies with Section 409A. The provisions of the Plan dealing with Section 409A reflect the manner in which the Plan has been operated in good faith compliance with Section 409A
+since January 1, 2005. 
+   9 
+
+
+
+
+
+ EXECUTED on this 8th day of February, 2013. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+NEWFIELD EXPLORATION COMPANY
+
+
+
+
+
+By:
+ 
+ 
+ 
+ 
+
+
+ 
+Name:
+ 
+ 
+
+
+ 
+Title:
+ 
+ 
+
+   10 
+
+
+
+
+
+
+ EXHIBIT A  TO AMENDED AND RESTATED NEWFIELD EXPLORATION COMPANY  CHANGE OF CONTROL
+SEVERANCE PLAN  CLAIMS PROCEDURES  1.  Purpose of Exhibit  This Exhibit sets forth the benefit claims
+procedures for the Amended and Restated Newfield Exploration Company Change of Control Severance Plan, as amended from time to time (the Plan).  2.  Definitions  Capitalized terms used in this Exhibit that are not
+defined in this Paragraph 2 shall have the meaning assigned to such terms in the Plan. For purposes of this Exhibit, the following terms, where capitalized, will have the meanings provided below: 
+ 
+
+
+ 
+(a)
+Adverse Benefit Determination: Any denial, reduction or termination of or failure to provide or make payment (in whole or in part) of a Plan benefit, including
+any denial, reduction, termination or failure to provide or make payment that is based on a determination of a Claimants eligibility to participate in the Plan. Further, any invalidation of a claim for failure to furnish written proof of loss
+or to comply with the claim submission procedure will be treated as an Adverse Benefit Determination.   
+
+
+ 
+(b)
+Benefits Administrator: The person or office to whom the Committee has delegated day-to-day Plan administration responsibilities and who, pursuant to such
+delegation, processes Plan benefit claims in the ordinary course.   
+
+
+ 
+(c)
+Claimant: An individual or an authorized representative of such individual who has filed or desires to file a claim for a benefit or an increased benefit under
+the Plan.   
+
+
+ 
+(d)
+ERISA: The Employee Retirement Income Security Act of 1974, as amended.  3.  Filing of Benefit Claim  To file a benefit claim under the Plan, a
+Claimant must submit to the Benefits Administrator a written claim for Plan benefits containing a description of (a) an alleged failure to receive a benefit payable to such Claimant under the Plan or (b) an alleged discrepancy between the
+amount of a benefit owed and the amount of a benefit received by such Claimant under the Plan. In connection with the submission of a claim, the Claimant may examine the Plan and any other relevant documents relating to the claim, and may submit
+written comments relating to such claim to the Benefits Administrator coincident with the filing of the benefit claim form. If the Claimant needs additional information regarding his Plan benefits, he may obtain such information by submitting a
+written request to the Benefits Administrator describing the additional information needed. Failure of a Claimant to furnish a written claim description or to otherwise comply with the claim submission procedure will invalidate such claim unless the
+Benefits Administrator in its discretion determines that it was not reasonably possible to comply with such procedure. 
+4.  Processing of Benefit Claim  Upon receipt of a fully completed benefit claim from a Claimant, the Benefits Administrator shall determine if the Claimants right to the requested benefit, payable at the time or times and in the
+form requested, is clear and, if so, shall process such benefit claim without resort to the Committee. If the Benefits Administrator determines that the Claimants right to the requested benefit, payable at the time or times and in the form
+
+   A-1
+
+
+
+
+
+
+ 
+requested, is not clear, it shall refer the benefit claim to the Committee for review and determination, which referral shall include: 
+ 
+
+
+ 
+(a)
+All materials submitted to the Benefits Administrator by the Claimant in connection with the claim; 
+ 
+
+
+ 
+(b)
+A written description of why the Benefits Administrator was of the view that the Claimants right to the benefit, payable at the time or times and in the form
+requested, was not clear;   
+
+
+ 
+(c)
+A description of all Plan provisions pertaining to the benefit claim;   
+
+
+ 
+(d)
+Where appropriate, a summary as to whether such Plan provisions have in the past been consistently applied with respect to other similarly situated Claimants; and
+  
+
+
+ 
+(e)
+Such other information as may be helpful or relevant to the Committee in its consideration of the claim. 
+If the Claimants claim is referred to the Committee, the Claimant may examine any relevant document relating to his claim and may submit written
+comments or other information to the Committee to supplement his benefit claim. Within 90 days of receipt of a fully completed benefit claim form from a Claimant that has been referred to the Committee by the Benefits Administrator (or such longer
+period as may be necessary due to unusual circumstances or to enable the Claimant to submit comments, but in any event not later than will permit the Committee sufficient time to fully and fairly consider the claim and make a determination within
+the time frame provided in Paragraph 5 below), the Committee shall consider the referral regarding the claim of the Claimant and make a decision as to whether it is to be approved, modified or denied. If the claim is approved, the Committee
+shall direct the Benefits Administrator to process the approved claim as soon as administratively practicable.  5.  
+Notification of Adverse Benefit Determination  In any case of an Adverse Benefit Determination of a claim for a Plan benefit,
+the Benefits Administrator or the Committee shall furnish written notice to the affected Claimant within a reasonable period of time but not later than 90 days after receipt of such claim for Plan benefits (or within 180 days if special
+circumstances necessitate an extension of the 90-day period and the Claimant is informed of such extension in writing within the 90-day period and is provided with an extension notice consisting of an explanation of the special circumstances
+requiring the extension of time and the date by which the benefit determination will be rendered). Any notice that denies a benefit claim of a Claimant in whole or in part shall, in a manner calculated to be understood by the Claimant: 
+ 
+
+
+ 
+(a)
+State the specific reason or reasons for the Adverse Benefit Determination; 
+ 
+
+
+ 
+(b)
+Provide specific reference to pertinent Plan provisions on which the Adverse Benefit Determination is based; 
+ 
+
+
+ 
+(c)
+Describe any additional material or information necessary for the Claimant to perfect the claim and explain why such material or information is necessary; and
+  
+
+
+ 
+(d)
+Describe the Plans review procedures and the time limits applicable to such procedures, including a statement of the Claimants right to bring a civil action
+under section 502(a) of ERISA following an Adverse Benefit Determination on review. 
+   A-2
+
+
+
+
+
+
+ 6.  Review of Adverse Benefit Determination 
+A Claimant has the right to have an Adverse Benefit Determination reviewed in accordance with the following claims review procedure:
+  
+
+
+ 
+(a)
+The Claimant must submit a written request for such review to the Committee not later than 60 days following receipt by the Claimant of the Adverse Benefit
+Determination notification;   
+
+
+ 
+(b)
+The Claimant shall have the opportunity to submit written comments, documents, records, and other information relating to the claim for benefits to the Committee;
+  
+
+
+ 
+(c)
+The Claimant shall have the right to have all comments, documents, records, and other information relating to the claim for benefits that have been submitted by the
+Claimant considered on review without regard to whether such comments, documents, records or information were considered in the initial benefit determination; and 
+ 
+
+
+ 
+(d)
+The Claimant shall have reasonable access to, and copies of, all documents, records, and other information relevant to the claim for benefits free of charge upon
+request, including (i) documents, records or other information relied upon for the benefit determination, (ii) documents, records or other information submitted, considered or generated without regard to whether such documents, records or
+other information were relied upon in making the benefit determination, and (iii) documents, records or other information that demonstrates compliance with the standard claims procedure. 
+The decision on review by the Committee will be binding and conclusive upon all persons, and the Claimant shall neither be required nor be permitted to
+pursue further appeals to the Committee.  7.  Notification of Benefit Determination on Review 
+Notice of the Committees final benefit determination regarding an Adverse Benefit Determination will be furnished in writing or
+electronically to the Claimant after a full and fair review. Notice of an Adverse Benefit Determination upon review will:   
+
+
+ 
+(a)
+State the specific reason or reasons for the Adverse Benefit Determination; 
+ 
+
+
+ 
+(b)
+Provide specific reference to pertinent Plan provisions on which the Adverse Benefit Determination is based; 
+ 
+
+
+ 
+(c)
+State that the Claimant is entitled to receive, upon request and free of charge, reasonable access to, and copies of, all documents, records, and other information
+relevant to the Claimants claim for benefits, including (i) documents, records or other information relied upon for the benefit determination, (ii) documents, records or other information submitted, considered or generated without
+regard to whether such documents, records or other information were relied upon in making the benefit determination, and (iii) documents, records or other information that demonstrates compliance with the standard claims procedure; and
+  
+
+
+ 
+(d)
+Describe the Claimants right to bring an action under section 502(a) of ERISA.  The Committee shall notify a Claimant of its determination on review with respect to the Adverse Benefit Determination of the Claimant within a reasonable period of time but not later than 60 days after
+the receipt of the Claimants request for review unless the Committee determines that special circumstances require an extension of time for processing the review of the Adverse Benefit Determination. If the Committee determines that such
+extension of time is required, written notice of the extension (which shall indicate the special circumstances requiring the extension and the date by which the Committee expects to render the determination on review) shall be furnished to the
+Claimant prior to the termination of the initial 60-day review period. In no event shall such extension exceed a period of 60 days from the end of the initial 60-day review period. In the event such extension is due to a Claimants failure to
+submit necessary information, the period for making the 
+   A-3
+
+
+
+
+
+
+ 
+determination on review will be tolled from the date on which the notification of the extension is sent to the Claimant until the date on which the Claimant responds to the request for additional
+information.  8.  Exhaustion of Administrative Remedies 
+Completion of the claims procedures described in this document will be a condition precedent to the commencement of any legal or
+equitable action in connection with a claim for benefits under the Plan by a Claimant or by any other person or entity claiming rights individually or through a Claimant; provided, however, that the Committee may, in its sole discretion, waive
+compliance with such claims procedures as a condition precedent to any such action.  9.  Authorized Representatives
+ An authorized representative may act on behalf of a Claimant in pursuing a benefit claim or an appeal of an Adverse Benefit
+Determination. An individual or entity will only be determined to be a Claimants authorized representative for such purposes if the Claimant has provided the Committee with a written statement identifying such individual or entity as his
+authorized representative and describing the scope of the authority of such authorized representative. In the event a Claimant identifies an individual or entity as his authorized representative in writing to the Committee but fails to describe the
+scope of the authority of such authorized representative, the Committee shall assume that such authorized representative has full powers to act with respect to all matters pertaining to the Claimants benefit claim under the Plan or appeal of
+an Adverse Benefit Determination with respect to such benefit claim.  10.  Amendments 
+These procedures may be amended in accordance with the provisions of, and subject to the limitations set forth in, Section 5.2 of
+the Plan. 
+   A-4
+
+
+
+
+
+
+ EXHIBIT B  TO AMENDED AND RESTATED NEWFIELD EXPLORATION COMPANY  CHANGE OF CONTROL
+SEVERANCE PLAN  AGREEMENT AND RELEASE  [Form for Employee Age 40 or Over]  THIS AGREEMENT AND RELEASE is by and between
+[                    ] (Employee) and Newfield Exploration Company (Newfield), a Delaware corporation, having its principal
+place of business in The Woodlands, Texas.  WITNESSETH:  1.    Termination.    Employees employment with Newfield will be terminated effective
+    ,                 . Employee acknowledges and agrees that he has no authority to act for, and will not act for, Newfield in any capacity on or
+after the date on which he is terminated. Employee may not execute this Agreement and Release until on or after the date on which Employees employment is terminated.  2.    Consideration.    After the expiration of the seven day revocation period set forth in Paragraph 16 of this Agreement and Release, Newfield will
+provide Employee with the severance payment as provided in Article III of the Amended and Restated Newfield Exploration Company Change of Control Severance Plan (the Plan) which is attached hereto and made a part of this Agreement and
+Release for all purposes. This Agreement and Release is entered into by Employee in return for Newfields promises herein and in the Plan to provide the severance payment to Employee as provided in the Plan, which Employee acknowledges and
+agrees to be good and sufficient consideration to which Employee is not otherwise entitled.  3.    Prior Rights and
+Obligations.    Except as herein set forth, this Agreement and Release extinguishes all rights, if any, which Employee may have, and obligations, if any, Newfield may have, contractual or otherwise, relating to the employment
+or termination of employment of Employee with Newfield or any of the other Newfield Parties (as defined in Paragraph 7 below) including without limitation, all rights or benefits he may have under any employment contract, incentive compensation
+plan, bonus plan or stock option plan with any Newfield Party.  4.    Company
+Assets.    Employee hereby represents and warrants that he has no claim or right, title or interest in any property designated on any Newfield Partys books as property or assets of any of the Newfield Parties. Promptly
+after the effective date of his resignation, Employee shall deliver to Newfield any such property in his possession or control, including, if applicable and without limitation, his personal computer, cellular telephone, keys and credit cards
+furnished by any Newfield Party for his use.  5.    Proprietary and Confidential
+Information.    Employee agrees and acknowledges that the Newfield Parties have developed and own valuable Proprietary and Confidential Information which constitutes valuable and unique property including, without
+limitation, concepts, ideas, plans, strategies, analyses, surveys, and proprietary information related to the past, present or anticipated business of the various Newfield Parties. Except as may be required by law, Employee agrees that he will not
+at any time disclose to others, permit to be disclosed, use, permit to be used, copy or permit to be copied, any such Proprietary and Confidential Information (whether or not developed by Employee) without Newfields prior written consent.
+Except as may be required by law, Employee further agrees to maintain in confidence any Proprietary and Confidential Information of third parties received or of which he has knowledge as a result of his employment with Newfield or any Newfield
+Party. 
+   B-1
+
+
+
+
+
+
+ 6.    Cooperation.    Employee shall cooperate with the
+Newfield Parties to the extent reasonably required in all matters relating to his employment or the winding up of his pending work on behalf of any Newfield Party and the orderly transfer of any such pending work as designated by Newfield. This
+obligation of cooperation shall continue indefinitely subject to Employees reasonable availability and shall include, without limitation, assisting Newfield and its counsel in preparing and defending against any claims which may be brought
+against Newfield or any Newfield Party or responding to any inquiry by any governmental agency or stock exchange. Newfields requests for Employees cooperation as may be required from time to time shall be as commercially reasonable and
+Employee agrees that he shall be commercially reasonable in providing such cooperation, taking into account the needs of the Newfield Parties and the position he may have with another employer at the time such cooperation is required. Employee shall
+take such further action and execute such further documents as may be reasonably necessary or appropriate in order to carry out the provisions and purposes of this Agreement and Release.  7.    Newfield Parties.    Employee agrees that Newfield, its parent, sister, affiliated and subsidiary companies, past and present, and their respective
+employees, officers, directors, stockholders, agents, representatives, partners, predecessors and successors, past or present, and all benefit plans sponsored by any of them, past or present, shall be defined collectively, including Newfield, as the
+Newfield Parties and each of them, corporate or individual, individually as a Newfield Party. 
+8.    Employees Warranty and Representation.    Employee represents, warrants and agrees that he has
+not filed any claims, appeals, complaints, charges or lawsuits against any of the Newfield Parties with any governmental agency or court. Employee also represents, warrants and agrees that, except as prohibited by law, he will not file or permit to
+be filed or accept benefit from any claim, complaint or petition filed with any court by him or on his behalf at any time hereafter; provided, however, this shall not limit Employee from enforcing his rights under this Agreement and Release.
+Further, Employee represents and warrants that no other person or entity has any interest or assignment of any claims or causes of action, if any, he may have against any Newfield Party, which have been satisfied fully by this Agreement and Release
+and which he now releases in their entirety, and that he has not sold, assigned, transferred, conveyed or otherwise disposed of any of the claims, demands, obligations, or causes of action referred to in this Agreement and Release, and that he has
+the sole right and exclusive authority to execute this Agreement and Release and receive the consideration provided. 
+9.    Release.    Employee agrees to release, acquit and discharge and does hereby release, acquit and
+discharge the Newfield Parties, individually and collectively, from any and all claims and from any and all causes of action against any of the Newfield Parties, of any kind or character, whether now known or not known, he may have against any such
+Newfield Party including, but not limited to, any claim for salary, benefits, expenses, costs, damages, compensation, remuneration or wages; and all claims or causes of action arising from his employment, termination of employment, or any alleged
+discriminatory employment practices, including but not limited to any and all claims or causes of action arising under the Age Discrimination in Employment Act, as amended, 29 U.S.C. § 621 et seq, Title VII of the Civil Rights Act of 1964, as
+amended, the Americans With Disabilities Act, 42 U.S.C. § 1981, the Employee Retirement Income Security Act, the Family and Medical Leave Act, the Texas Commission on Human Rights Act, and any other federal, state or local laws, whether
+statutory or common, contract or tort. This release also applies to any claims brought by any person or agency or class action under which Employee may have a right or benefit.  10.    No Admissions.    Employee expressly understands and agrees that the terms of this Agreement and Release are contractual and not merely recitals and
+that this Agreement and Release does not constitute evidence of unlawful conduct or wrongdoing by Newfield. By his execution of this Agreement and Release, Employee acknowledges and agrees that (i) he knows of no act, event, or omission by any
+Newfield Party which is unlawful or violates any law, governmental rule or regulation, or any rule or regulation of any stock exchange, (ii) he has not committed, during his employment with Newfield or any Newfield Party, any act which is
+unlawful or which violates any governmental rule or regulation or any rule or regulation of any stock exchange, (iii) he has not requested any Newfield Party to commit any unlawful act or violate any governmental rule or regulation or any
+
+   B-2
+
+
+
+
+
+
+ 
+rule or regulation of any stock exchange, and (iv) neither he nor any other person employed by or contracting with any Newfield Party has been subjected to any adverse action because any
+such person refused to commit any unlawful act or violate any governmental rule or regulation or any rule or regulation of any stock exchange. 
+11.    Enforcement of Agreement and Release.    No waiver or non-action with respect to any breach by the
+other party of any provision of this Agreement and Release, nor the waiver or non-action with respect to any breach of the provisions of similar agreements with other employees shall be construed to be a waiver of any succeeding breach of such
+provision, or as a waiver of the provision itself. Should any provisions hereof be held to be invalid or wholly or partially unenforceable, such provisions shall be revised and reduced in scope so as to be valid and enforceable. 
+12.    Choice of Law.    This Agreement and Release shall be governed by and construed and enforced, in
+all respects, in accordance with the law of the State of Texas without regard to the principles of conflict of law except as preempted by federal law.  13.    Merger.    This Agreement and Release supersedes, replaces and merges all previous agreements and discussions relating to the same or similar subject
+matters between Employee and Newfield and constitutes the entire agreement between Employee and Newfield with respect to the subject matter of this Agreement and Release. This Agreement and Release may not be changed or terminated orally, and no
+change, termination or waiver of this Agreement and Release or any of the provisions herein contained shall be binding unless made in writing and signed by all parties, and in the case of Newfield, by an authorized officer. 
+14.    No Derogatory Comments.    Except as required by judicial process or governmental rule or
+regulation, Employee shall refrain from making public or private comments relating to any Newfield Party which are derogatory or which may tend to injure any such party in such partys business, public or private affairs. 
+15.    Confidentiality.    Employee agrees that he will not disclose the terms of this Agreement and
+Release or the consideration received from Newfield to any other person, except his attorney or financial advisors and only on the condition that they keep such information strictly confidential; provided, however, that the foregoing obligation of
+confidence shall not apply to information that is required to be disclosed by any applicable law, rule or regulation of any governmental authority.  16.    Rights Under the Older Worker Benefit Protection Act and the Age Discrimination and Employment Act.    Employee acknowledges and agrees: 
+16.1 that he has at least forty-five days to review this Agreement and Release, along with the demographic information attached hereto as
+Attachment 1;  16.2 that he has been advised in writing to consult with an attorney regarding the terms of this Agreement and
+Release prior to executing this Agreement and Release;  16.3 that, if he executes this Agreement and Release, he has seven days
+following the execution of this Agreement and Release to revoke this Agreement and Release, by submitting, in writing, notice of such revocation to Newfield;  16.4 that this Agreement and Release shall not become effective or enforceable until the revocation period has expired;  16.5 that he does not, by the terms of this Agreement and Release, waive claims or rights that may arise after the date he executes this Agreement and Release; 
+16.6 that he is receiving, pursuant to this Agreement and Release, consideration in addition to anything of value to which he is already
+entitled; and  16.7 that this Agreement and Release is written in such a manner that he understands his rights and obligations.
+
+   B-3
+
+
+
+
+
+
+ 17.    Agreement and Release Voluntary.    Employee
+acknowledges and agrees that he has carefully read this Agreement and Release and understands that it is a release of all claims, known and unknown, past or present including all claims under the Age Discrimination in Employment Act. He further
+agrees that he has entered into this Agreement and Release for the above stated consideration. He warrants that he is fully competent to execute this Agreement and Release which he understands to be contractual. He further acknowledges that he
+executes this Agreement and Release of his own free will, after having a reasonable period of time to review, study and deliberate regarding its meaning and effect, and after being advised to consult an attorney, and without reliance on any
+representation of any kind or character not expressly set forth herein. Finally, he executes this Agreement and Release fully knowing its effect and voluntarily for the consideration stated above. 
+18.    Notices.    Any notices required or permitted to be given under this Agreement and
+Release shall be properly made if delivered in the case of Newfield to:  Newfield Exploration Company
+ 4 Waterway Square Place, Suite 100 
+The Woodlands, Texas 77380  Attention: Human Resources, Personal and Confidential  and in the case of Employee to:
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+ [SIGNATURE PAGE FOLLOWS] 
+   B-4
+
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties have caused this Agreement and Release to be executed in
+multiple counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument, this     day of
+                    ,                     , to be
+effective the eighth day following execution by                     unless earlier revoked. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+ 
+ 
+
+ Date
+  
+
+ 
+EMPLOYEE
+
+
+
+
+
+ 
+  
+
+ 
+ 
+
+ Date
+  
+
+ 
+NEWFIELD EXPLORATION COMPANY
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ 
+ 
+ 
+
+
+ 
+Name:
+ 
+ 
+
+
+ 
+Title:
+ 
+ 
+
+   B-5
+
+
+
+
+
+
+ AGREEMENT AND RELEASE 
+[Form for Employee Under Age 40]  THIS AGREEMENT AND RELEASE is by and between [                    ] (Employee) and Newfield
+Exploration Company (Newfield), a Delaware corporation, having its principal place of business in The Woodlands, Texas.  WITNESSETH:  1.    Termination.    Employees
+employment with Newfield will be terminated effective
+                    ,                    .
+Employee acknowledges and agrees that he has no authority to act for, and will not act for, Newfield in any capacity on or after the date on which he is terminated. Employee may not execute this Agreement and Release until on or after the date on
+which Employees employment is terminated.  2.    Consideration.    If Employee signs and
+returns this Agreement, then Newfield will provide Employee with the severance payment as provided in Article III of the Amended and Restated Newfield Exploration Company Change of Control Severance Plan (the Plan) which is attached
+hereto and made a part of this Agreement and Release for all purposes. This Agreement and Release is entered into by Employee in return for Newfields promises herein and in the Plan to provide the severance payment to Employee as provided in
+the Plan, which Employee acknowledges and agrees to be good and sufficient consideration to which Employee is not otherwise entitled. 
+3.    Prior Rights and Obligations.    Except as herein set forth, this Agreement and Release extinguishes
+all rights, if any, which Employee may have, and obligations, if any, Newfield may have, contractual or otherwise, relating to the employment or termination of employment of Employee with Newfield or any of the other Newfield Parties (as defined in
+Paragraph 7 below) including without limitation, all rights or benefits he may have under any employment contract, incentive compensation plan, bonus plan or stock option plan with any Newfield Party. 
+4.    Company Assets.    Employee hereby represents and warrants that he has no claim or right, title or
+interest in any property designated on any Newfield Partys books as property or assets of any of the Newfield Parties. Promptly after the effective date of his resignation, Employee shall deliver to Newfield any such property in his possession
+or control, including, if applicable and without limitation, his personal computer, cellular telephone, keys and credit cards furnished by any Newfield Party for his use.  5.    Proprietary and Confidential Information.    Employee agrees and acknowledges that the Newfield Parties have developed and own valuable
+Proprietary and Confidential Information which constitutes valuable and unique property including, without limitation, concepts, ideas, plans, strategies, analyses, surveys, and proprietary information related to the past, present or
+anticipated business of the various Newfield Parties. Except as may be required by law, Employee agrees that he will not at any time disclose to others, permit to be disclosed, use, permit to be used, copy or permit to be copied, any such
+Proprietary and Confidential Information (whether or not developed by Employee) without Newfields prior written consent. Except as may be required by law, Employee further agrees to maintain in confidence any Proprietary and Confidential
+Information of third parties received or of which he has knowledge as a result of his employment with Newfield or any Newfield Party. 
+6.    Cooperation.    Employee shall cooperate with the Newfield Parties to the extent reasonably required
+in all matters relating to his employment or the winding up of his pending work on behalf of any Newfield Party and the orderly transfer of any such pending work as designated by Newfield. This obligation of cooperation shall continue indefinitely
+subject to Employees reasonable availability and shall include, without limitation, assisting Newfield and its counsel in preparing and defending against any claims which may be brought against Newfield
+
+   B-6
+
+
+
+
+
+
+ 
+or any Newfield Party or responding to any inquiry by any governmental agency or stock exchange. Newfields requests for Employees cooperation as may be required from time to time
+shall be as commercially reasonable and Employee agrees that he shall be commercially reasonable in providing such cooperation, taking into account the needs of the Newfield Parties and the position he may have with another employer at the time such
+cooperation is required. Employee shall take such further action and execute such further documents as may be reasonably necessary or appropriate in order to carry out the provisions and purposes of this Agreement and Release. 
+7.    Newfield Parties.    Employee agrees that Newfield, its parent, sister, affiliated and subsidiary
+companies, past and present, and their respective employees, officers, directors, stockholders, agents, representatives, partners, predecessors and successors, past or present, and all benefit plans sponsored by any of them, past or present, shall
+be defined collectively, including Newfield, as the Newfield Parties and each of them, corporate or individual, individually as a Newfield Party.  8.    Employees Warranty and Representation.    Employee represents, warrants and agrees that he has not filed any claims, appeals, complaints, charges
+or lawsuits against any of the Newfield Parties with any governmental agency or court. Employee also represents, warrants and agrees that, except as prohibited by law, he will not file or permit to be filed or accept benefit from any claim,
+complaint or petition filed with any court by him or on his behalf at any time hereafter; provided, however, this shall not limit Employee from enforcing his rights under this Agreement and Release. Further, Employee represents and warrants that no
+other person or entity has any interest or assignment of any claims or causes of action, if any, he may have against any Newfield Party, which have been satisfied fully by this Agreement and Release and which he now releases in their entirety, and
+that he has not sold, assigned, transferred, conveyed or otherwise disposed of any of the claims, demands, obligations, or causes of action referred to in this Agreement and Release, and that he has the sole right and exclusive authority to execute
+this Agreement and Release and receive the consideration provided.  9.    Release.    Employee
+agrees to release, acquit and discharge and does hereby release, acquit and discharge the Newfield Parties, individually and collectively, from any and all claims and from any and all causes of action against any of the Newfield Parties, of any kind
+or character, whether now known or not known, he may have against any such Newfield Party including, but not limited to, any claim for salary, benefits, expenses, costs, damages, compensation, remuneration or wages; and all claims or causes of
+action arising from his employment, termination of employment, or any alleged discriminatory employment practices, including but not limited to any and all claims or causes of action arising under the Age Discrimination in Employment Act, as
+amended, 29 U.S.C. § 621 et seq, Title VII of the Civil Rights Act of 1964, as amended, the Americans With Disabilities Act, 42 U.S.C. § 1981, the Employee Retirement Income Security Act, the Family and Medical Leave Act, the Texas
+Commission on Human Rights Act, and any other federal, state or local laws, whether statutory or common, contract or tort. This release also applies to any claims brought by any person or agency or class action under which Employee may have a right
+or benefit.  10.    No Admissions.    Employee expressly understands and agrees that the terms
+of this Agreement and Release are contractual and not merely recitals and that this Agreement and Release does not constitute evidence of unlawful conduct or wrongdoing by Newfield. By his execution of this Agreement and Release, Employee
+acknowledges and agrees that (i) he knows of no act, event, or omission by any Newfield Party which is unlawful or violates any law, governmental rule or regulation, or any rule or regulation of any stock exchange, (ii) he has not
+committed, during his employment with Newfield or any Newfield Party, any act which is unlawful or which violates any governmental rule or regulation or any rule or regulation of any stock exchange, (iii) he has not requested any Newfield Party
+to commit any unlawful act or violate any governmental rule or regulation or any rule or regulation of any stock exchange, and (iv) neither he nor any other person employed by or contracting with any Newfield Party has been subjected to any
+adverse action because any such person refused to commit any unlawful act or violate any governmental rule or regulation or any rule or regulation of any stock exchange. 
+   B-7
+
+
+
+
+
+
+ 11.    Enforcement of Agreement and Release.    No waiver or
+non-action with respect to any breach by the other party of any provision of this Agreement and Release, nor the waiver or non-action with respect to any breach of the provisions of similar agreements with other employees shall be construed to be a
+waiver of any succeeding breach of such provision, or as a waiver of the provision itself. Should any provisions hereof be held to be invalid or wholly or partially unenforceable, such provisions shall be revised and reduced in scope so as to be
+valid and enforceable.  12.    Choice of Law.    This Agreement and Release shall be governed
+by and construed and enforced, in all respects, in accordance with the law of the State of Texas without regard to the principles of conflict of law except as preempted by federal law.  13.    Merger.    This Agreement and Release supersedes, replaces and merges all previous agreements and discussions relating to the same or similar subject
+matters between Employee and Newfield and constitutes the entire agreement between Employee and Newfield with respect to the subject matter of this Agreement and Release. This Agreement and Release may not be changed or terminated orally, and no
+change, termination or waiver of this Agreement and Release or any of the provisions herein contained shall be binding unless made in writing and signed by all parties, and in the case of Newfield, by an authorized officer. 
+14.    No Derogatory Comments.    Except as required by judicial process or governmental rule or
+regulation, Employee shall refrain from making public or private comments relating to any Newfield Party which are derogatory or which may tend to injure any such party in such partys business, public or private affairs. 
+15.    Confidentiality.    Employee agrees that he will not disclose the terms of this Agreement and
+Release or the consideration received from Newfield to any other person, except his attorney or financial advisors and only on the condition that they keep such information strictly confidential; provided, however, that the foregoing obligation of
+confidence shall not apply to information that is required to be disclosed by any applicable law, rule or regulation of any governmental authority.  16.    Agreement and Release Voluntary.    Employee acknowledges and agrees that he has carefully read this Agreement and Release and understands that it is
+a release of all claims, known and unknown, past or present. He further agrees that he has entered into this Agreement and Release for the above stated consideration which is in addition to anything of value to which he is already entitled. He
+warrants that he is fully competent to execute this Agreement and Release which he understands to be contractual. He further acknowledges that he executes this Agreement and Release of his own free will, after having a reasonable period of time to
+review, study and deliberate regarding its meaning and effect, and after being advised to consult an attorney, and without reliance on any representation of any kind or character not expressly set forth herein. Finally, he executes this Agreement
+and Release fully knowing its effect and voluntarily for the consideration stated above. 
+17.    Notices.    Any notices required or permitted to be given under this Agreement and Release shall be
+properly made if delivered in the case of Newfield to:  Newfield Exploration Company 
+4 Waterway Square Place, Suite 100 
+The Woodlands, Texas 77380  Attention: Human Resources, Personal and Confidential  and in the case of Employee to:
+  
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+ [SIGNATURE PAGE FOLLOWS] 
+   B-8
+
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties have caused this Agreement and Release to be executed in
+multiple counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument, this     day of
+                    ,                     .
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+ 
+ 
+
+ Date
+  
+
+ 
+EMPLOYEE
+
+
+
+
+
+ 
+  
+
+ 
+ 
+
+ Date
+  
+
+ 
+NEWFIELD EXPLORATION COMPANY
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+ 
+ 
+ 
+
+
+ 
+Name:
+ 
+ 
+
+
+ 
+Title:
+ 
+ 
+
+   B-9
+
+
+
+

@@ -1,0 +1,1082 @@
+
+EX-10.2
+2
+a12-20130_1ex10d2.htm
+EX-10.2
+
+
+
+
+
+
+  
+
+
+Exhibit 10.2
+ 
+AMENDMENT NO. 5
+ 
+This AMENDMENT NO. 5 (the Amendment) dated as of October 30, 2012 (the Effective Date) is among Bonanza Creek Energy, Inc., a Delaware corporation (Borrower), the Guarantors (as defined in the Credit Agreement referred to below), the Lenders (as defined below), and KeyBank National Association, as Administrative Agent and as Issuing Lender (as such terms are defined below).
+ 
+RECITALS
+ 
+A.                                    The Borrower is party to that certain Credit Agreement dated as of March 29, 2011 (as amended by Amendment No. 1 dated as of April 29, 2011, Amendment No. 2 & Agreement dated as of September 15, 2011, the Resignation, Consent and Appointment Agreement and Amendment Agreement dated as of April 6, 2012, Amendment No. 3 & Agreement dated as of May 8, 2012, Amendment No. 4 dated as of July 31, 2012 and as may be further amended, restated or otherwise modified from time to time, the Credit Agreement) among the Borrower, the lenders party thereto from time to time (the Lenders), and KeyBank National Association (as successor in interest to BNP Paribas), as administrative agent (in such capacity, the Administrative Agent) and as issuing lender (in such capacity, the Issuing Lender).  Each capitalized term defined in the Credit Agreement and used herein without definition shall have the meaning assigned to such term in the Credit Agreement, unless expressly provided to the contrary.
+ 
+B.                                    The Lenders wish to, subject to the terms and conditions of this Amendment, amend the Credit Agreement as provided herein.
+ 
+THEREFORE, the Borrower, the Guarantors, the Administrative Agent, the Issuing Lender, and the Lenders hereby agree as follows:
+ 
+Section 1.                                          Defined Terms.  As used in this Amendment, each of the terms defined in the opening paragraph and the Recitals above shall have the meanings assigned to such terms therein.
+ 
+Section 2.                                          Other Definitional Provisions.  Article, Section, Schedule, and Exhibit references are to Articles and Sections of and Schedules and Exhibits to this Amendment, unless otherwise specified.  All references to instruments, documents, contracts, and agreements are references to such instruments, documents, contracts, and agreements as the same may be amended, supplemented, and otherwise modified from time to time, unless otherwise specified.  The words hereof, herein, and hereunder and words of similar import when used in this Amendment shall refer to this Amendment as a whole and not to any particular provision of this Amendment.  The term including means including, without limitation,.  Paragraph headings have been inserted in this Amendment as a matter of convenience for reference only and it is agreed that such paragraph headings are not a part of this Amendment and shall not be used in the interpretation of any provision of this Amendment.
+ 
+
+
+
+
+
+
+ 
+Section 3.                                          Amendments to Credit Agreement.
+ 
+(a)                                 Section 1.01 of the Credit Agreement is hereby amended by adding the following new defined terms in their alphabetically appropriate place:
+ 
+Intercreditor Agreement means an Intercreditor Agreement on terms acceptable to the Majority Lenders between the Administrative Agent, in its capacity as agent for the Lenders, and the Second Lien Agent, as administrative agent for the Second Lien Lenders, and acknowledged and agreed to by the Borrower.
+ 
+Minimum Interest Coverage Ratio means, as of such date of determination, the ratio of (a) the consolidated EBITDAX of the Borrower for the four fiscal quarter period then ended, to (b) cash interest expense of the Borrower and its consolidated Subsidiaries for the four (4) fiscal consecutive fiscal quarters then ended.
+ 
+Second Lien Agent means any Second Lien Lender serving in the capacity as the administrative agent under the Second Lien Credit Agreement, or their respective successors or assigns, to the extent permitted under the Second Lien Credit Agreement and the Intercreditor Agreement.
+ 
+Second Lien Credit Agreement means a Credit Agreement among the Borrower, the Second Lien Lenders, and the Second Lien Agent, as amended, restated, refinanced, supplemented or otherwise modified but only to the extent permitted under the terms of the Intercreditor Agreement; which Credit Agreement (a) shall (i) have a scheduled maturity date that is no earlier than March 15, 2017, (ii) have covenants and events of default that are no more restrictive in any material respect than those set forth in this Agreement and the other Loan Documents, (iii) have a bullet repayment of principal and not provide for scheduled amortization or mandatory prepayments of principal that are not Events of Default under this Agreement, (iv) be subject to the Intercreditor Agreement, and (v) otherwise be on terms and conditions reasonably acceptable to the Administrative Agent, and (b) the proceeds of which shall be used only (i) to finance the acquisition and development of Oil and Gas Properties, (ii) to finance capital expenditures, (iii) to repay Debt, and (iv) for other general corporate purposes.
+ 
+Second Lien Debt means all Debt of the Borrower and any of its Subsidiaries in respect of the Second Lien Credit Agreement and the other Second Lien Loan Documents, which shall be subject to the terms of the Intercreditor Agreement.
+ 
+Second Lien Lenders means the lenders party to the Second Lien Credit Agreement from time to time.
+ 
+Second Lien Loan Documents means the Second Lien Credit Agreement, the  promissory notes and security documents executed and delivered pursuant to the Second Lien Credit Agreement, the Intercreditor Agreement and each other agreement, instrument, certificate or document executed by the Borrower, any
+ 
+2
+
+
+
+
+
+
+ 
+other Obligor, or any Obligors Subsidiary or any of their respective officers at any time in connection with the Second Lien Credit Agreement.
+ 
+(b)                                 The definition of Loan Documents in Section 1.01 of the Credit Agreement is hereby restated in its entirety as follows:
+ 
+Loan Documents means this Agreement, the Notes, the Letter of Credit Documents, the Guaranties, the Security Instruments, the Intercreditor Agreement and each other agreement, instrument, certificate or document (other than the Second Lien Loan Documents) executed by the Borrower, any other Obligor, or any Obligors Subsidiary or any of their respective officers at any time in connection with this Agreement.
+ 
+(c)                                  Section 2.02(e) is hereby amended by replacing the reference to Section 6.02(g) with a reference to Sections 6.02(g) and 6.02(i).
+ 
+(d)                                 Section 5.06 of the Credit Agreement is hereby amended by deleting the and at the end of clause (p), moving clause (q) thereof to clause (r) and inserting the new clause (q) to provide as follows:
+ 
+(q)                                 Notices Delivered Under the Second Lien Credit Agreement.  Concurrently with the delivery of any notice or other information to the Second Lien Agent or the Second Lien Lenders, a copy of such notice or other information to the Administrative Agent or the Lenders, as appropriate; and
+ 
+(e)                                  Section 6.01 of the Credit Agreement is hereby amended by deleting the and at the end of clause (p), moving clause (q) thereof to clause (r) and inserting the new clause (q) to provide as follows:
+ 
+(q)                                 Liens securing Second Lien Debt to the extent permitted under the Intercreditor Agreement; provided that, subject to the terms of the Intercreditor Agreement, (i) the collateral with respect to which a Lien is granted as security for the Second Lien Debt shall be limited to the Collateral hereunder and (ii) the Liens securing the Obligations hereunder shall be senior to the Liens securing the Second Lien Debt; and
+ 
+(f)                                   Section 6.02 of the Credit Agreement is hereby amended by deleting clauses (g) and (h) and replacing them with the following new clauses (g) and (h):
+ 
+(g)                                 Bond Debt; provided that, (i) the aggregate outstanding principal amount of all such Bond Debt and Bond Refinancing Debt may not exceed $250,000,000 at any time, (ii) the Borrowing Base then in effect on funding of any such Bond Debt shall automatically reduce by an amount equal to 25% of the aggregate principal amount (without giving effect to any original issue discount) of such issuance (which reduction shall be effective on the next succeeding Business Day after such funding and such reduced Borrowing
+ 
+3
+
+
+
+
+
+
+ 
+Base shall remain in effect until the date the Borrowing Base is otherwise redetermined pursuant to Section 2.02), and (iii) either (A) no Second Lien Debt shall be outstanding or (B) the proceeds of the Bond Debt shall be used to repay the Second Lien Debt in full;
+ 
+(h)         Bond Refinancing Debt; provided that, (i) the aggregate outstanding principal amount of all Bond Debt and Bond Refinancing Debt may not exceed $250,000,000 at any time and (ii) no Second Lien Debt shall be outstanding; and
+ 
+(g)                                  Section 6.02 of the Credit Agreement is hereby amended by moving clause (i) thereof to clause (j) and inserting the new clause (i) to provide as follows:
+ 
+(i)                                    Second Lien Debt; provided that, (i) the aggregate principal amount of all such Second Lien Debt may not exceed $150,000,000 at any time, (ii) the Borrowing Base then in effect on the funding of any such Second Lien Debt shall automatically reduce by an amount equal to 25% of the aggregate principal amount of such advance under the Second Lien Credit Agreement (which reduction shall be effective on the next succeeding Business Day after such funding and such reduced Borrowing Base shall remain in effect until the date the Borrowing Base is otherwise redetermined pursuant to Section 2.02), and (iii) no Bond Debt or Bond Refinancing Debt shall be outstanding; and
+ 
+(h)                                 The Credit Agreement is hereby amended by adding the following new Section 6.20:
+ 
+Section 6.20                            Minimum Interest Coverage Ratio.  From and after the effective date of the Second Lien Credit Agreement, Borrower shall not permit the Minimum Interest Coverage Ratio as of each fiscal quarter end of the Borrower to be less than 3.00 to 1.00.
+ 
+(i)                                     The Credit Agreement is hereby amended by adding the following new Section 6.21:
+ 
+Section 6.21                            Second Lien Debt.  Except as otherwise permitted by the terms of the Intercreditor Agreement, none of the Borrower nor any Subsidiary of a Borrower shall (a) make any optional, mandatory or scheduled payments on account of principal (whether by redemption, purchase, retirement, defeasance, set off or otherwise), interest, premiums and fees in respect of the Second Lien Debt, or (b) amend, supplement, refinance or otherwise modify the terms of the Second Lien Debt, the Second Lien Credit Agreement or any other Second Lien Loan Document.
+ 
+(j)                                    Section 7.01 of the Credit Agreement is hereby amended by deleting the or at the end of clause (k), replacing the . at the end of clause (l) with ; or and adding the following two new clauses (m) and (n):
+ 
+(m)            An Event of Default under the Second Lien Credit Agreement shall have occurred; or
+ 
+4
+
+
+
+
+
+
+ 
+(n)              From and after the effective date of the Second Lien Credit Agreement, the Intercreditor Agreement shall cease to be effective (other than pursuant to the terms provided therein) or otherwise shall cease to be a legal, valid and binding agreement enforceable against the holders of any Debt under the Second Lien Credit Agreement in any material respect.
+ 
+(k)                                 Section 7.06(c) of the Credit Agreement is hereby amended is hereby by adding the following new proviso to the end thereof:
+ 
+(c)   ; provided that, from and after the effective date of the Second Lien Credit Agreement, the remainder shall instead be paid to the Second Lien Agent to the extent required under the Intercreditor Agreement.
+ 
+(l)                                     The Credit Agreement is hereby amended by adding the following new Section 9.09:
+ 
+Section 9.09                            Intercreditor Agreement. The Administrative Agent is hereby authorized on behalf of the Secured Parties to enter into the Intercreditor Agreement. Each Secured Party, by receiving the benefits thereunder and of the Collateral under the Security Instruments, acknowledges and agrees to the terms of the Intercreditor Agreement and agrees that the terms thereof shall be binding on such Secured Party and its respective successors and assigns, as if each were a party thereto.
+ 
+Section 4.                                          Borrowing Base.  Subject to the terms of this Amendment, the Lenders and the Borrower hereby agree that upon the Effective Date, the Borrowing Base shall be increased to $325,000,000, and the amount of such Borrowing Base shall remain in effect until the Borrowing Base is redetermined pursuant to Section 2.02 of the Credit Agreement.
+ 
+Section 5.                                          Representations and Warranties.  The Borrower and each Guarantor represents and warrants that: (a) the representations and warranties contained in the Credit Agreement and the representations and warranties contained in the other Loan Documents are true and correct in all material respects on and as of the Effective Date as if made on and as of such date, except to the extent that any such representation or warranty expressly relates solely to an earlier date, in which case such representation or warranty is true and correct in all material respects as of such earlier date; (b) no Default has occurred and is continuing; (c) the execution, delivery and performance of this Amendment are within the corporate power and authority of such Person and have been duly authorized by appropriate corporate action and proceedings; (d) this Amendment constitutes the legal, valid, and binding obligation of such Person enforceable in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting the rights of creditors generally and general principles of equity; (e) there are no governmental or other third party consents, licenses and approvals required in connection with the execution, delivery, performance, validity and enforceability of this Amendment; (f) the Liens under the Security Instruments are valid and subsisting and secure Borrowers obligations under the Loan Documents; and (g) as to each Guarantor, it has no defenses to the enforcement of its Guaranty.
+ 
+5
+
+
+
+
+
+
+ 
+Section 6.                                          Conditions to Effectiveness.
+ 
+(a)                                 This Amendment shall become effective on the Effective Date and enforceable against the parties hereto upon the occurrence of the following conditions precedent:
+ 
+(i)                                     The Administrative Agent shall have received multiple original counterparts, as requested by the Administrative Agent, of this Amendment duly and validly executed and delivered by duly authorized officers of the Borrower, the Guarantors, the Issuing Lender and the Lenders.
+ 
+(ii)                                  No Default shall have occurred and be continuing as of the Effective Date.
+ 
+(iii)                               The representations and warranties in this Amendment shall be true and correct in all material respects.
+ 
+(iv)                              The Borrower shall have paid all costs and expenses which have been invoiced and are payable pursuant to Section 10.04 of the Credit Agreement.
+ 
+Section 7.                                          Acknowledgments and Agreements.
+ 
+(a)                                 The Borrower acknowledges that on the date hereof all Obligations are payable without defense, offset, counterclaim or recoupment.
+ 
+(b)                                 The Administrative Agent, the Issuing Lender and the Lenders hereby expressly reserve all of their rights, remedies, and claims under the Loan Documents.  Nothing in this Amendment shall constitute a waiver or relinquishment of (i) any Default or Event of Default under any of the Loan Documents, (ii) any of the agreements, terms or conditions contained in any of the Loan Documents, (iii) any rights or remedies of the Administrative Agent, the Issuing Lender or any Lender with respect to the Loan Documents, or (iv) the rights of the Administrative Agent, the Issuing Lender or any Lender to collect the full amounts owing to them under the Loan Documents.
+ 
+(c)                                  Each of the Borrower, the Administrative Agent, the Issuing Lender and the Lenders does hereby adopt, ratify, and confirm the Credit Agreement, as amended hereby, and acknowledges and agrees that the Credit Agreement, as amended hereby, is and remains in full force and effect, and the Borrower acknowledges and agrees that its liabilities and obligations under the Credit Agreement, as amended hereby, are not impaired in any respect by this Amendment.
+ 
+(d)                                 From and after the Effective Date, all references to the Credit Agreement and the Loan Documents shall mean such Credit Agreement and such Loan Documents as amended by this Amendment.
+ 
+(e)                                  This Amendment is a Loan Document for the purposes of the provisions of the other Loan Documents.  Without limiting the foregoing, any breach of representations, warranties, and covenants under this Amendment shall be a Default or Event of Default, as applicable, under the Credit Agreement.
+ 
+6
+
+
+
+
+
+
+ 
+Section 8.                                          Reaffirmation of Guaranty.  Each Guarantor hereby ratifies, confirms, acknowledges and agrees that its obligations under its Guaranty are in full force and effect and that such Guarantor continues to unconditionally and irrevocably guarantee the full and punctual payment, when due, whether at stated maturity or earlier by acceleration or otherwise, of all of the Obligations, as such Obligations may have been amended by this Amendment, and its execution and delivery of this Amendment does not indicate or establish an approval or consent requirement by the Guarantor in connection with the execution and delivery of amendments, consents or waivers to the Credit Agreement or any of the other Loan Documents.
+ 
+Section 9.                                          Counterparts.  This Amendment may be signed in any number of counterparts, each of which shall be an original and all of which, taken together, constitute a single instrument.  This Amendment may be executed by facsimile signature or signature delivered by other electronic means and all such signatures shall be effective as originals.
+ 
+Section 10.                                   Successors and Assigns.  This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted pursuant to the Credit Agreement.
+ 
+Section 11.                                   Invalidity.  In the event that any one or more of the provisions contained in this Amendment shall for any reason be held invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect any other provision of this Amendment.
+ 
+Section 12.                                   Governing Law.  This Amendment shall be deemed to be a contract made under and shall be governed by and construed in accordance with the laws of the State of Texas.
+ 
+Section 13.                                   RELEASE.  THE BORROWER ACKNOWLEDGES THAT ON THE DATE HEREOF ALL OBLIGATIONS ARE PAYABLE WITHOUT DEFENSE, OFFSET, COUNTERCLAIM OR RECOUPMENT.  IN ADDITION, EACH OF THE BORROWER, THE GUARANTORS AND EACH OF THEIR RESPECTIVE SUBSIDIARIES (FOR THEMSELVES AND THEIR RESPECTIVE SUCCESSORS, AGENTS, ASSIGNS, TRANSFEREES, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, ATTORNEYS AND AGENTS) HEREBY RELEASES ANY AND ALL CLAIMS, CAUSES OF ACTION OR OTHER DISPUTES IT MAY HAVE AGAINST THE ADMINISTRATIVE AGENT, THE ISSUING LENDER, ANY OF THE LENDERS, LEGAL COUNSEL TO THE ADMINISTRATIVE AGENT, THE ISSUING LENDER OR ANY OF THE LENDERS, CONSULTANTS HIRED BY ANY OF THE FOREGOING, OR ANY OF THEIR RESPECTIVE AFFILIATES, SUBSIDIARIES, SHAREHOLDERS, AGENTS, DIRECTORS, OFFICERS, EMPLOYEES, REPRESENTATIVES, SUCCESSORS OR ASSIGNS OF ANY KIND OR NATURE ARISING OUT OF, RELATED TO, OR IN ANY WAY CONNECTED WITH, THE CREDIT AGREEMENT OR THE LOAN DOCUMENTS, IN EACH CASE WHICH MAY HAVE ARISEN ON OR BEFORE THE DATE OF THIS AMENDMENT.  EACH OF THE BORROWER, THE GUARANTORS AND THEIR RESPECTIVE SUBSIDIARIES HEREBY ACKNOWLEDGES THAT IT HAS READ THIS AMENDMENT AND HAS CONFERRED WITH ITS COUNSEL AND ADVISORS REGARDING ITS CONTENT, INCLUDING THIS SECTION 13, AND IS FREELY AND VOLUNTARILY ENTERING INTO THIS AMENDMENT, AND HEREBY AGREES TO WAIVE ANY CLAIM THAT THE TERMS
+ 
+7
+
+
+
+
+
+
+ 
+OF THIS AMENDMENT (INCLUDING, WITHOUT LIMITATION, THE RELEASES CONTAINED HEREIN) ARE INVALID OR OTHERWISE UNENFORCEABLE.
+ 
+Section 14.                                   Entire Agreement.  THIS AMENDMENT, THE CREDIT AGREEMENT AS AMENDED BY THIS AMENDMENT, THE NOTES, AND THE OTHER LOAN DOCUMENTS CONSTITUTE THE ENTIRE UNDERSTANDING AMONG THE PARTIES HERETO WITH RESPECT TO THE SUBJECT MATTER HEREOF AND SUPERSEDE ANY PRIOR AGREEMENTS, WRITTEN OR ORAL, WITH RESPECT THERETO.
+ 
+THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+ 
+[signature pages follow]
+ 
+8
+
+
+
+
+
+
+ 
+EXECUTED effective as of the date first above written.
+ 
+ 
+
+
+
+BORROWER:    
+
+BONANZA   CREEK ENERGY, INC.       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+   /s/   Michael R. Starzer       
+
+
+     
+
+     
+
+Michael   R. Starzer       
+
+
+     
+
+     
+
+President &   Chief Executive Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+GUARANTORS:    
+
+     
+
+        
+
+
+     
+
+BONANZA   CREEK ENERGY OPERATING COMPANY,    LLC       
+
+
+     
+
+By:    
+
+Bonanza   Creek Energy, Inc., its Manager       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+   /s/   Michael R. Starzer       
+
+
+     
+
+     
+
+Michael   R. Starzer       
+
+
+     
+
+     
+
+President &   Chief Executive Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+BONANZA   CREEK ENERGY RESOURCES,       
+
+
+     
+
+LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+   /s/   Michael R. Starzer       
+
+
+     
+
+     
+
+Michael   R. Starzer       
+
+
+     
+
+     
+
+President &   Chief Executive Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+BONANZA   CREEK ENERGY MIDSTREAM,       
+
+
+     
+
+LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+   /s/   Michael R. Starzer       
+
+
+     
+
+     
+
+Michael   R. Starzer       
+
+
+     
+
+     
+
+President &   Chief Executive Officer         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BONANZA   CREEK ENERGY UPSTREAM       
+
+
+     
+
+LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+   /s/   Michael R. Starzer       
+
+
+     
+
+     
+
+Michael   R. Starzer       
+
+
+     
+
+     
+
+President &   Chief Executive Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+HOLMES   EASTERN COMPANY, LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+   /s/   Michael R. Starzer       
+
+
+     
+
+     
+
+Michael   R. Starzer       
+
+
+     
+
+     
+
+President &   Chief Executive Officer         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ADMINISTRATIVE AGENT/    
+
+     
+
+        
+
+
+ISSUING LENDER/LENDER:    
+
+KEYBANK   NATIONAL ASSOCIATION, as Administrative Agent, Issuing   Lender, and a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Chulley Bogle       
+
+
+     
+
+Name:    
+
+Chulley   Bogle       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+COMPASS   BANK, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   James Neblett       
+
+
+     
+
+Name:    
+
+James   Neblett       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+SOCIÉTÉ   GÉNÉRALE, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Elena Robciuc       
+
+
+     
+
+Name:    
+
+Elena   Robciuc       
+
+
+     
+
+Title:    
+
+Director         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+BMO   HARRIS FINANCING, INC., as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Gumaro Tijerina       
+
+
+     
+
+Name:    
+
+Gumaro   Tijerina       
+
+
+     
+
+Title:    
+
+Director         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+WELLS   FARGO BANK. N.A., as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Jonathan Herrick       
+
+
+     
+
+Name:    
+
+Jonathan   Herrick       
+
+
+     
+
+Title:    
+
+Assistant   Vice President         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+JPMORGAN   CHASE BANK, N.A., as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   David Morris       
+
+
+     
+
+Name:    
+
+David   Morris       
+
+
+     
+
+Title:    
+
+Authorized   Officer         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+ROYAL   BANK OF CANADA, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Mark Lumpkin, Jr.       
+
+
+     
+
+Name:    
+
+Mark   Lumpkin, Jr.       
+
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+CADENCE   BANK, N.A., as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Eric Broussard       
+
+
+     
+
+Name:       
+
+Eric   Broussard       
+
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+IBERIABANK,   as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Cameron D. Jones       
+
+
+     
+
+Name:    
+
+Cameron   D. Jones       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+THE   BANK OF NOVA SCOTIA, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Terry Donovan       
+
+
+     
+
+Name:    
+
+Terry   Donovan       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page to Amendment No. 5
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+

@@ -1,0 +1,606 @@
+
+EX-10
+5
+wti-ex10_20130629345.htm
+EX-10.6
+
+
+
+
+
+ 
+Exhibit 10.6 
+    
+W&T OFFSHORE, INC.  AMENDED AND RESTATED INCENTIVE COMPENSATION PLANA 
+Executive Annual Incentive Award Agreement 
+For Fiscal Year 2013 
+This potential Annual Incentive Award (the Award) is granted on June 10, 2013 (the Award Date), by W&T Offshore, Inc., a Texas corporation (the Company) to you (Awardee or you). 
+WHEREAS, the Company in order to induce you to enter into and to continue to dedicate service to the Company and to materially contribute to the success of the Company agrees to grant you this Award; 
+WHEREAS, this Award is granted to you pursuant to the W&T Offshore, Inc. Amended and Restated Incentive Compensation Plan, as may be amended from time to time (the Plan), and the following terms and conditions of this agreement (the Agreement) for the Companys 2013 fiscal year; 
+WHEREAS, a copy of the Plan has been furnished to you and shall be deemed a part of this Agreement as if fully set forth herein; and 
+WHEREAS, you desire to accept the Award made pursuant to this Agreement. 
+NOW, THEREFORE, in consideration of and mutual covenants set forth herein and for other valuable consideration hereinafter set forth, the parties agree as follows: 
+1.Terms and Conditions.  The Award is subject to all the terms and conditions of the Plan.  All capitalized terms not defined in this Agreement shall have the meaning stated in the Plan.  If there is any inconsistency between the terms of this Agreement and the terms of the Plan, the terms of the Plan shall control unless this Agreement expressly states that an exception to the Plan is being made. 
+2.Definitions.  For purposes of this Agreement, the following terms shall have the meanings stated below. 
+(a) Base Salary means the base salary you received during the Performance Period, (i) including any amounts deferred pursuant to an election under any 401(k) plan, pre-tax premium plan, deferred compensation plan, or flexible spending account sponsored by the Company or any Subsidiary, and any overtime paid to you as an offshore employee required by your standard work schedule, but (ii)  excluding any incentive compensation, employee benefit, or other benefit paid or provided under any incentive, bonus or employee benefit plan sponsored by the Company or any Subsidiary, all overtime paid other than as specified in (i) above and/or any excellence award, gains upon stock option exercises, restricted stock grants or vesting, moving or travel expense reimbursement, sign on bonus, imputed income, or tax gross-ups, without regard to whether the payment or gain is taxable income to you. 
+(b) Disability means your permanent disability as defined in your Individual Agreement.  In the event that there is no existing written Individual Agreement between you and the Company or if any such agreement does not define Disability, the term Disability shall mean: (i) a physical or mental impairment of sufficient severity that, in the opinion of the Company, (A) you are unable to continue performing the duties assigned to you prior to such impairment or (B) your condition entitles you to disability benefits under any insurance or employee benefit plan of the Company or its Subsidiaries, and (ii) the impairment or condition is cited by the Company as the reason for your termination; provided, however, that in all cases, the term Disability shall be applied and interpreted in compliance with section 409A of the Code and the regulations thereunder. 
+ 
+ 
+    
+ Executive: Krohn 
+ 
+ 
+(c) Individual Agreement means any employment or severance agreement, if any, between you and the Company or any Subsidiary. 
+(d) Performance Goals means the performance criteria established by the Committee pursuant to Section 8 of the Plan and set forth in Appendix A attached hereto. 
+(e) Performance Period means the Companys complete fiscal year ending December 31, 2013. 
+(f) Total Performance Score means the aggregate number of points you are assigned as a result of the Committees review, analysis and certification of the achievement of the applicable Performance Goals set forth in Appendix A attached hereto for the Performance Period.   
+3.Effect of Award Agreement.   By signing this Agreement, you (a) acknowledge receipt of and represent that you have read and are familiar with this Agreement; (b) accept this Award subject to all of the terms and conditions of the Agreement and the Plan; and (c) agree to accept as binding, conclusive and final all decisions or interpretations of the Committee. 
+4.Target Award.  You are hereby awarded a target Award of _____% of your Base Salary (referred to herein as your Target Award) subject to the terms and conditions set forth in the Plan and this Agreement.  Subject to Sections 5 and 8 below, your Total Performance Score will determine whether you may receive an Award less than, equal to, or greater than your Target Award. 
+5.Minimum and Maximum Performance Levels.  As a condition of payment of the Award, your Total Performance Score must reach 40 or above; Total Performance Scores of 0 through 39.99 (Below Threshold) shall not result in the payment of any portion of your Award.  The maximum Total Performance Score you may be assigned shall not exceed 200, nor may the payout of your Award exceed 200% of your Target Award amount.     
+6.Award Calculation.  Your Award will be calculated as follows: 
+(a) Based on your Total Performance Score, the payout amount of your Award will be determined using the chart below: 
+ 
+
+
+   
+         
+      Performance Level
+   
+       Total Performance Score
+   
+         
+   
+       Percentage of Target Award Paid to You
+   
+         
+
+   
+      Maximum
+   
+      200
+   
+      
+   
+      200
+   
+      %
+
+   
+      Target
+   
+      100
+   
+      
+   
+      100
+   
+      %
+
+   
+      Threshold
+   
+      50
+   
+      
+   
+      50
+   
+      %
+
+   
+      Below Threshold
+   
+      0
+   
+      
+   
+      0
+   
+      %
+ (b) General Terms.   
+(i) Payout multiples between the numbers 0 and 200 on the chart in Section 6(a) above will be calculated using straight-line interpolation. 
+(ii) Any Award that is earned will be settled in the form of shares of Stock and granted pursuant to the Plan.  The number of shares of Stock to be granted to you shall be calculated by dividing the value of the earned Award (your Total Performance Score expressed as a percentage times your Target Award) divided by the closing price of the Stock as of the trading day immediately  
+ 
+ 
+ 2  
+Executive:   Krohn 
+ 
+ 
+preceding the date the Award is settled (adjusted for taxes pursuant to Section 10 hereof and rounded down to the next whole number). The resulting shares of Stock will be granted to you as soon as practicable after the Committee has certified the applicable Performance Goals were achieved for the Performance Period, but in no event later than the seventy-fifth (75th) day following the date the Performance Period ends. Any remaining value of the earned Award will be paid to you in cash at the same time that your Stock is granted to you. 
+(iii) You must be employed by September 30 within the Performance Period in order to be eligible to participate in the Plan for the Performance Period. 
+7.Effect of Termination of Employment.  Notwithstanding any provisions to the contrary below  this Section 7, in the event of any inconsistency between this Section 7 and any written Individual Agreement you may have, the terms of such an Individual Agreement will control.  However, to the extent such an Individual Agreement provides for a payment of your annual bonus in cash, your Award will be settled in accordance with Section 6(b)(ii) above in the form of Stock.  In the event you do not have an Individual Agreement or your Individual Agreement does not address the treatment of Annual Incentive Awards under the Plan, and your employment is terminated at any time on or after the Award Date and before the Award is paid or settled, your Award will be treated as follows: 
+(a) Death or Disability.  If your termination of employment is a result of your death or Disability, as determined by the Company in its sole and complete discretion, you will receive a pro-rata Award, if an Award is payable for the Performance Period,  based on the Base Salary you received during the Performance Period (the Pro-Rata Award); provided, however, that you must have been employed with the Company for a minimum of 90 days during the Performance Period in order to be eligible for a Pro-Rata Award described in this Section 7(a).  You, your beneficiaries, or your estate, as applicable, will receive the number of shares of  Stock  equal to your Pro-Rata Award (your Total Performance Score expressed as a percentage times your Target Award)  divided by the closing price of the Stock as of the trading day immediately preceding the date the Award is settled (adjusted for taxes pursuant to Section 10 hereof and rounded down to the next whole number).The resulting shares of Stock will be granted to you as soon as practicable after the Committee has certified the applicable Performance Goals were achieved for the Performance Period, but in no event later than the seventy-fifth (75th) day following the date the Performance Period ends. Any remaining value of the earned Award will be paid to you, your beneficiaries or your estate, as applicable, in cash at the same time that your Stock is granted pursuant to this Section 7(a). 
+(b) Terminations other than Death or Disability.  Unless your termination of employment is a result of your death or Disability, you must be employed by the Company or a Subsidiary on the date Awards are paid in order to be eligible to receive settlement of an Award.  You have no vested interest in the Award prior to the Award actually being paid or settled to you by the Company.  If your employment with the Company or a Subsidiary terminates for any reason other than your death or Disability, whether your termination is voluntary or involuntary, with or without cause, you will not be eligible to receive payment or settlement of any Award for the Performance Period. 
+8.Right of the Committee.  The Committee has the right to reduce or eliminate your Award for any reason regardless of the amount of your Total Performance Score achieved. 
+9.Right of the Company and Subsidiaries to Terminate Services.  Nothing in this Agreement confers upon you the right to continue in the employ of the Company or any Subsidiary, or interfere in any way with the rights of the Company or any Subsidiary to terminate your employment at any time, with or without cause. 
+ 
+ 
+ 
+ 3  
+Executive:   Krohn 
+ 
+ 
+10.Withholding Taxes.  The Company may require you to pay to the Company (or the Companys Subsidiary if you are an employee of a Subsidiary of the Company), an amount the Company deems necessary to satisfy its (or its Subsidiarys) current or future obligation to withhold federal, state or local income or other taxes that you incur as a result of the Award.  With respect to any such required tax withholding, the Company shall withhold from the Stock (and to the extent necessary, the cash payment) to be issued to you under this Agreement the amount necessary to satisfy the Companys obligation to withhold taxes.  To the extent that the Company withholds shares of Stock, the determination of how many shares to withhold will be based on the Stocks Fair Market Value at the time such determination is made.   
+11.Furnish Information.  You agree to furnish to the Company all information requested by the Company to enable it to comply with any reporting or other requirements imposed upon the Company by or under any applicable statute or regulation. 
+12.No Liability for Good Faith Determinations.  The Company, the Committee and the members of the Board shall not be liable for any act, omission or determination taken or made in good faith with respect to this Agreement or the Award granted hereunder. 
+13.Execution of Receipts and Releases.  Any payment of stock or cash to you, or to your legal representative, heir, legatee or distributee, in accordance with the provisions hereof, shall, to the extent thereof, be in full satisfaction of all claims of such Persons hereunder. The Company may require you or your legal representative, heir, legatee or distributee, as a condition precedent to such payment, to execute a release and receipt therefor in such form as the Company shall determine. 
+14.Notice.  All notices required or permitted under this Agreement must be in writing and personally delivered or sent by mail and shall be deemed to be delivered on the date on which it is actually received by the person to whom it is properly addressed or if earlier the date it is sent via certified United States mail. 
+15.Waiver of Notice.  Any person entitled to notice hereunder may waive such notice in writing. 
+16.Information Confidential.  As partial consideration for the granting of the Award hereunder, you hereby agree to keep confidential all information and knowledge, except that which has been disclosed in any public filings required by law, that you have relating to the terms and conditions of this Agreement; provided, however, that such information may be disclosed as required by law and may be given in confidence to your spouse and tax and financial advisors.  In the event any breach of this promise comes to the attention of the Company, it shall take into consideration that breach in determining whether to recommend the grant of any future similar award to you, as a factor weighing against the advisability of granting any such future award to you. 
+17.Nontransferability.  Neither this Agreement nor this Award subject to this Agreement shall be subject in any manner to anticipation, alienation, sale, exchange, transfer, assignment, pledge, encumbrance or garnishment by your creditors or your beneficiary, except transfer by will or by the laws of descent and distribution. All rights with respect to this Agreement shall be exercisable during your lifetime only by yourself or, if necessary, your guardian or legal representative. 
+18.Successors. This Agreement shall be binding upon you, your legal representatives, heirs, legatees and distributees, and upon the Company, its successors and assigns. 
+19.Severability.  If any provision of this Agreement is held to be illegal or invalid for any reason, the illegality or invalidity shall not affect the remaining provisions hereof, but such provision shall be fully  
+ 
+ 
+ 4  
+Executive:   Krohn 
+ 
+ 
+severable and this Agreement shall be construed and enforced as if the illegal or invalid provision had never been included herein. 
+20.Amendment.  The Committee may amend this Agreement at any time; provided, however, that no such amendment may adversely affect your rights under this Agreement without your consent, except to the extent such amendment is reasonably determined by the Committee, in its sole discretion, to be necessary to comply with applicable law or to prevent a detrimental accounting impact. No amendment or addition to this Agreement shall be effective unless in writing. 
+21.Headings.  The titles and headings of Sections are included for convenience of reference only and are not to be considered in construction of the provisions hereof. 
+22.Governing Law.  All questions arising with respect to the provisions of this Agreement shall be determined by application of the laws of Texas, without giving any effect to any conflict of law provisions thereof, except to the extent Texas state law is preempted by federal law.   
+23.Consent to Texas Jurisdiction and Venue.  You hereby consent and agree that state courts located in Harris County, Texas and the United States District Court for the Southern District of Texas each shall have personal jurisdiction and proper venue with respect to any dispute between you and the Company arising in connection with the Award or this Agreement.  In any dispute with the Company, you will not raise, and you hereby expressly waive, any objection or defense to any such jurisdiction as an inconvenient forum. 
+24. The Plan.  This Agreement is subject to all the terms, conditions, limitations and restrictions contained in the Plan. 
+25.Acceptance.  This Agreement shall be deemed accepted by you unless you notify the Manager of Human Resources of the Company on or before June 20, 2013 that you reject the Award under this Agreement, in which event the Award shall be deemed forfeited and this Agreement shall have no further force or effect. 
+Executed by the Company as of the Award Date. 
+W&T offshore, Inc. 
+    
+By: /s/ Compensation Committee 
+      Compensation Committee 
+    
+    
+    
+             
+ 
+ 5  
+Executive:   Krohn 
+ 
+ 
+ 
+Exhibit 10.6 
+    
+Appendix A- For Annual Plan 
+Performance Goals 
+The Performance Goals for your 2013 Annual Incentive Award shall be comprised of two equal portions: the Business Criteria and the Company and Individual Performance Criteria.  The Business Criteria will comprise 50% of your potential Award, and the Company and Individual Performance Criteria will comprise the remaining 50% of your potential Award.    
+Your Total Performance Score will be calculated using the criteria and the scales below. The Committee shall review, analyze and certify the achievement of each of the criterion below, either for the Company or yourself, as applicable, and shall determine your Total Performance Score according to the aggregate number of points you receive from each of the scales below.    
+Part 1. Business Criteria 
+ 
+
+
+   
+      Target Criteria
+   
+      Percentage of Weight Relative to your Total Potential Award
+   
+      
+   
+      Points
+   
+      
+
+   
+      Production Growth: equivalent production at least 110 Bcfe for YE 2013, but taking into account the effect of property sales, if applicable.
+   
+      15
+   
+      %
+   
+      0-30
+   
+      
+
+   
+      Reserve Growth:  Increase in reserves of 120 Bcfe over 2012 YE reserves, excluding 2013 YE production and the effect of property sales, if applicable.
+   
+      15
+   
+      %
+   
+      0-30
+   
+      
+
+   
+      F&D Costs: not to exceed $3.40  per Mcfe at year end 2013
+   
+      10
+   
+      %
+   
+      0-20
+   
+      
+
+   
+      LOE & G&A:  2013 LOE and G&A per Mcfe of production no more than a 7% increase in LOE and G&A per Mcfe of production, measured against 2012 LOE and G&A per Mcfe of production (excluding hurricane expenses and insurance credits for such expenses)
+   
+      10
+   
+      %
+   
+      0-20
+   
+      
+
+   
+           Total
+   
+      50
+   
+      %
+   
+      100
+   
+      
+     
+    
+    
+    
+ 
+ 
+ 
+   A- 1  
+Executive:  Krohn 
+ 
+ 
+    
+The number of points you receive on each individual scale shall be determined as follows, using a straight-line interpolation: 
+(a) Production Growth  Year end Production for 2013, but taking into account the effect of property sales, if applicable. 
+ 
+
+
+   
+      Performance Level
+   
+      Points
+
+   
+      Maximum: greater than 125 Bcfe
+   
+      30
+
+   
+      Target: 110 Bcfe
+   
+      15
+
+   
+      Threshold: 105 Bcfe
+   
+      7.5
+
+   
+      Below Threshold
+   
+      0
+     
+(b) Reserve Growth   In 2013, increase in reserves over 2012 YE reserves, excluding reductions from 2013 YE production and the effect of property sales, if applicable. 
+ 
+
+
+   
+      Performance Level
+   
+      Points
+
+   
+      Maximum: increase in reserves of greater than 175 Bcfe over 2012 YE reserves
+   
+      30
+
+   
+      Target:  increase in reserves of 120 Bcfe over 2012 YE reserves
+   
+      15
+
+   
+      Threshold: increase in reserves of 107 Bcfe over 2012 YE reserves
+   
+      7.5
+
+   
+      Below Threshold
+   
+      0
+     
+(c) F&D Costs: for 2013 not to exceed a specified dollar amount per Mcfe at year end 2013.  F&D is defined as the total capital dollars spent in 2013 plus changes in ARO; divided by proved reserves added for the year 2013. 
+ 
+
+
+   
+      Performance Level
+   
+      Points
+
+   
+      Maximum:  F&D costs not to exceed $2.25  per Mcfe at year end 2013
+   
+      20
+
+   
+      Target: F&D costs not to exceed $3.40  per Mcfe at year end 2013
+   
+      10
+
+   
+      Threshold: not to exceed $3.60  per Mcfe at year end 2013
+   
+      5
+
+   
+      Below Threshold
+   
+      0
+     
+    
+    
+    
+    
+ 
+ 
+ 
+   A- 2  
+Executive: Krohn 
+ 
+ 
+(d) Combined LOE & G&A:  2013 LOE and G&A per Mcfe of production no more than a percentage increase in LOE and G&A per Mcfe of production, measured against 2012 LOE and G&A per Mcfe of production (both measurements excluding hurricane expenses and insurance credits for such expenses). 
+ 
+
+
+   
+      Performance Level
+   
+      Points
+
+   
+      Maximum:  less than a 3% increase in LOE and G&A per Mcfe of production, measured against 2012 LOE and G&A per Mcfe of production
+   
+      20
+
+   
+      Target:  no more than a 7% increase in LOE and G&A per Mcfe of production, measured against 2012 LOE and G&A per Mcfe of production
+   
+      10
+
+   
+      Threshold:  no more than a 9% increase in LOE and G&A per Mcfe of production, measured against 2012 LOE and G&A per Mcfe of production  
+   
+      5
+
+   
+      Below Threshold
+   
+      0
+ Part 2. Company and Individual Performance Criteria 
+ 
+
+
+   
+      Criteria
+   
+      Percentage of Weight Relative to your Total Potential Award
+   
+      
+   
+      Points
+   
+      
+
+   
+      Overall Company Performance Conditions
+   
+         
+   
+         
+   
+         
+   
+         
+
+   
+      2013 Adjusted EBIDTA,  but taking into account the effect of property sales, if applicable
+   
+      20
+   
+      %
+   
+      0-40
+   
+      
+
+   
+      2013 Adjusted EBIDTA Margin Percentage
+   
+      15
+   
+      %
+   
+      0-30
+   
+      
+
+   
+         
+   
+         
+   
+         
+   
+         
+   
+         
+
+   
+         
+   
+         
+   
+         
+   
+         
+   
+         
+
+   
+         
+   
+         
+   
+         
+   
+         
+   
+         
+
+   
+      Individual Performance Conditions
+   
+         
+   
+         
+   
+         
+   
+         
+
+   
+      Individual Performance as assessed by management for year 2013
+   
+      15
+   
+      %
+   
+      0-30
+   
+      
+
+   
+         
+   
+         
+   
+         
+   
+         
+   
+         
+
+   
+      Total for Overall Company Performance     Conditions and Individual Performance Conditions Combined
+   
+      50
+   
+      %
+   
+      100
+   
+      
+     
+    
+    
+The number of points you receive on each individual scale shall be determined as follows, on straight-line interpolation: 
+(a) Adjusted EBIDTA (Earnings Before Interest, Depreciation, Taxes and Accretion), but taking into account the effect of property sales, if applicable for YE2013. 
+ 
+
+
+   
+      Performance Level
+   
+      Points
+
+   
+      Maximum:  Adjusted EBIDTA of $700,000
+   
+      40
+
+   
+      Target: Adjusted EBIDTA of $556,000
+   
+      20
+
+   
+      Threshold: Adjusted EBIDTA of $475,000
+   
+      10
+  
+ 
+   A- 3  
+Executive: Krohn 
+ 
+ 
+    
+ 
+
+
+   
+      Below Threshold
+   
+      0
+     
+(b) Adjusted EBIDTA Margin Percentage YE 2013 
+ 
+
+
+   
+      Performance Level
+   
+      Points
+
+   
+      Maximum:  Adjusted EBIDTA Margin Percentage greater than 70% YE 2013
+   
+      30
+
+   
+      Target: Adjusted EBIDTA Margin Percentage greater than 61% YE 2013
+   
+      15
+
+   
+      Threshold: Adjusted EBIDTA Margin Percentage greater than 58% YE 2013
+   
+      7.5
+
+   
+      Below Threshold
+   
+      0
+     
+(c) Individual Performance in 2013, assessed by management 
+ 
+
+
+   
+      Performance Level
+   
+      Points
+
+   
+      Maximum  Far Exceeded Expectations
+   
+      30
+
+   
+      Target  Exceeded Expectations
+   
+      15
+
+   
+      Threshold  Met expectations
+   
+      7.5
+
+   
+      Below Threshold
+   
+      0
+     
+    
+    
+         
+ 
+   A- 4  
+Executive: Krohn 
+ 
+

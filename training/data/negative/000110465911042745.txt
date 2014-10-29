@@ -1,0 +1,1061 @@
+
+EX-10.4
+7
+a11-14105_1ex10d4.htm
+EX-10.4
+
+
+
+
+
+
+
+  
+
+
+Exhibit 10.4
+ 
+CERTAIN PORTIONS OF THIS EXHIBIT HAVE BEEN REDACTED AND ARE THE SUBJECT OF A CONFIDENTIAL TREATMENT REQUEST PURSUANT TO RULE 24b-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934.  REDACTED PORTIONS ARE MARKED WITH [*****] AND HAVE BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+Agreement No. 11515J
+ 
+ 
+GAS PROCESSING AGREEMENT
+ 
+ 
+between
+ 
+ 
+ETC TEXAS PIPELINE, LTD.
+ 
+ 
+and
+ 
+ 
+SM ENERGY COMPANY
+ 
+ 
+APRIL 1, 2011
+ 
+
+
+
+
+
+
+ 
+TABLE OF CONTENTS
+ 
+
+
+
+1. DEFINITIONS    
+
+3       
+
+
+     
+
+        
+
+
+2. QUANTITY    
+
+7       
+
+
+     
+
+        
+
+
+3. QUALITY    
+
+7       
+
+
+     
+
+        
+
+
+4. OWNERSHIP AND CONTROL    
+
+8       
+
+
+     
+
+        
+
+
+5. PRESSURE    
+
+9       
+
+
+     
+
+        
+
+
+6. MEASUREMENT    
+
+9       
+
+
+     
+
+        
+
+
+7. PROCESSING OF PRODUCERS GAS    
+
+9       
+
+
+     
+
+        
+
+
+8. FEES, BILLING, PAYMENT AND NOTICES    
+
+13       
+
+
+     
+
+        
+
+
+9. TAXES AND ASSESSMENTS    
+
+16       
+
+
+     
+
+        
+
+
+10. CREDIT ASSURANCE    
+
+17       
+
+
+     
+
+        
+
+
+11. REGULATORY BODIES    
+
+17       
+
+
+     
+
+        
+
+
+13. PLANT MAINTENANCE AND INTERRUPTIONS    
+
+19       
+
+
+     
+
+        
+
+
+14. WARRANTY OF TITLE TO GAS    
+
+19       
+
+
+     
+
+        
+
+
+15. TERM    
+
+20       
+
+
+     
+
+        
+
+
+16. MISCELLANEOUS    
+
+20         
+ 
+2
+
+
+
+
+
+
+ 
+GAS PROCESSING AGREEMENT
+ 
+THIS GAS PROCESSING AGREEMENT (this Agreement), is made and entered into as of April 1, 2011 (the Effective Date), by and between ETC Texas Pipeline, Ltd. (Processor), and SM Energy Company, a Delaware corporation (Producer).  Processor and Producer may be referred to herein collectively as the Parties and individually as a Party.
+ 
+W I T N E S S E T H:
+ 
+WHEREAS, Producer has or will have a supply of Gas available for processing hereunder and desires that Processor receive and process the Gas.
+ 
+WHEREAS, Processor will construct, own and operate a natural gas pipeline system from the area of Producers delivery of Gas to Processor to a Processing Plant Processor will construct, own and operate in or near Jackson County, Texas, and desires to receive and process the Gas which Producer from time to time has available.
+ 
+NOW, THEREFORE, in consideration of the sum of Ten Dollars ($10.00) cash in hand paid by Producer to Processor and other good and valuable considerations, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto have agreed as follows:
+ 
+1.  DEFINITIONS
+ 
+The following definitions shall apply hereunder:
+ 
+1.1                                 Btu.  The term Btu shall mean British Thermal Unit and is the amount of heat required to raise the temperature of one (1) pound of water from fifty-nine degrees Fahrenheit (59°F) to sixty degrees Fahrenheit (60°F).
+ 
+1.2                                 Bankruptcy Code.  The term Bankruptcy Code shall mean the United States Code Service statute 11 USCS 101-1532.
+ 
+1.3                                 Business Day.  The term Business Day shall mean any day except Saturday, Sunday or Federal Reserve Bank holidays.
+ 
+1.4                                 CCT.  The term CCT shall mean Central Clock Time and is defined as current time in the Central Time Zone taking into consideration the seasonal changes back and forth between Daylight Savings and Standard time.
+ 
+1.5                                 Contract Year.  The term Contract Year shall mean the 365 consecutive Days (or 366 consecutive Days if Contract Year includes a leap year (February 29)) beginning on the first Day of the Month subsequent to the Initial Delivery Date and each of the anniversaries thereafter.
+ 
+1.6                                 Component Plant Products.  The term Component Plant Products is defined in Section 7.2, sub-paragraph 3.
+ 
+3
+
+
+
+
+
+
+ 
+1.7                                 Component Recovery Factor.  The term Component Recovery Factor is defined in Section 7.2, sub-paragraph 4.
+ 
+1.8                                 Day.  The term Day shall mean a period of time beginning at 9:00 a.m. CCT on each calendar Day and ending at 9:00 a.m. CCT on the next succeeding calendar day.
+ 
+1.9                                 Delivery Point.  The term Delivery Point shall mean the inlet flange of the Gas measurement facilities of Tennessee Gas Pipeline Company, and subject to mutual agreement, those of other Transport System(s).
+ 
+1.10                           Event of Default or Default.  The term Event of Default or Default means the occurrence of any of the following events, circumstances or conditions: (i) failure by either Party to materially perform or comply with any material agreement, covenant, obligation or other provision contained in this Agreement when either (A) such failure has not been cured within the greater of a reasonable period of time or thirty (30) Days; in each case, following the Party in Default receiving written notice thereof from the Party not in Default (other than a Default which occurs because such Party is rightfully withholding performance in response to the other Partys failure to perform), or (B) an effort to remedy such failure has not been commenced within such period following such written notice and continued to be diligently prosecuted, with such measures reasonably expected to cure any such Default; (ii) the entry of either Party into voluntary or involuntary bankruptcy, receivership or similar protective proceedings; or (iii) failure to pay any amounts owed pursuant to this Agreement within thirty (30) Days after the applicable due date, other than amounts disputed in good faith pursuant to the provisions of Section 8.4.
+ 
+1.11         Force Majeure.  The term Force Majeure is defined in Section 12.2.
+ 
+1.12                           Gas.  The term Gas shall mean methane and other gaseous hydrocarbons, including gaseous combustible, noncombustible, and inert elements, compounds, components or mixtures thereof and liquefiable hydrocarbons in the vapor stream.
+ 
+1.13                           Gathering Agreement shall mean that certain Gathering and Natural Gas Services Agreement (Contract No. 11515-100) between the Parties of even date herewith and that certain Individual Transaction Confirmation (No. 11515-101) between the Parties of even date herewith.
+ 
+1.14                           Gross Heating Value.  The term Gross Heating Value shall mean the number of Btus liberated by the complete combustion, at constant pressure, of one (1) cubic foot of Gas at a base temperature of sixty degrees Fahrenheit (60°F.) and a referenced pressure base of fourteen and sixty-five hundredths (14.65) Psia with air of the same temperature and pressure of the Gas, after products of combustion are cooled to the initial temperature of the Gas, and after the water of the combustion is condensed to the liquid state.  The Gross Heating Value of the Gas shall be corrected for the water vapor content of Gas being delivered; provided, however, that if the water vapor content of the Gas is seven (7) pounds or less per
+ 
+4
+
+
+
+
+
+
+ 
+one million (1,000,000) cubic feet, the Gas shall be assumed to be dry and no correction shall be made.
+ 
+1.15                           Initial Delivery Date.  The term Initial Delivery Date shall mean the first date on which Producer delivers any Gas to Processor at the Receipt Point(s) pursuant to the Gathering Agreement.
+ 
+1.16                           Inlet Volume.  The term Inlet Volume is defined in Section 7.2, sub-paragraph 7.
+ 
+1.17                           Laws.  The term Laws shall mean any applicable laws, rules, regulations, decrees and orders of the United States of America and all other governmental bodies, agencies or other authorities having jurisdiction over or affecting the provisions contained in or the transactions contemplated by this Agreement or the Parties or their operations, whether such Laws now exist or are hereafter amended or enacted.
+ 
+1.18                           Loss.  The term Loss shall mean, unless specifically provided otherwise, all claims, including, but not limited to, those for bodily injury or death, personal injury, illness, disease, maintenance, cure, loss of parental or spousal consortium, loss of support, wrongful death, property damage and wrongful termination of employment, damages, liabilities, losses, demands, liens, encumbrances, fines, penalties, costs for removal of wreck/debris, causes of action of any kind (including actions in rem or in personam), obligations, costs, judgments, interest and awards (including payment of reasonable attorneys fees and costs of litigation) or amounts, of any kind or character (except punitive or exemplary damages), whether under judicial proceedings, administrative proceedings or otherwise, under any theory of tort, contract, or breach of contract arising out of, or incident to or in connection with the Agreement or the performance of work, services or operations contemplated under the Agreement.
+ 
+1.19                            Maintenance.  The term Maintenance shall mean such inspections, maintenance, testing, alterations, modifications, connections, repairs or replacements to its facilities as Processor deems necessary or desirable pursuant to Section 13.1.
+ 
+1.20                           Mcf.  The term Mcf shall mean one thousand (1,000) cubic feet of Gas measured at a base temperature of sixty degrees Fahrenheit (60°F), and at a pressure base of fourteen and sixty-five one-hundredths (14.65) pounds per square inch absolute.
+ 
+1.21                           MMBtu. The term MMBtu shall mean one million (1,000,000) British Thermal Units.
+ 
+1.22                           Month.  The term Month shall mean a period of time beginning at 9:00 a.m. CCT on the first day of a calendar month and ending at 9:00 a.m. CCT on the first day of the next succeeding calendar month.
+ 
+1.23                           NGL.  The term NGL shall mean natural gas liquids.
+ 
+5
+
+
+
+
+
+
+ 
+1.24                           Plant Products.  The term Plant Products is defined in Section 7.2, sub-paragraph 2.
+ 
+1.25         Psia.  The term Psia shall mean pounds per square inch absolute.
+ 
+1.26         Psig.  The term Psig shall mean pounds per square inch gauge.
+ 
+1.27                           Plant Product Shrinkage.  The term Plant Product Shrinkage is defined in Section 7.2, sub-paragraph 8.
+ 
+1.28                           Person.  The term Person shall mean any individual or entity, including, without limitation, any corporation, limited liability company, joint stock company, general or limited partnership, or government authority (including any agency or administrative group thereof).
+ 
+1.29                           Producers Gas.  The term Producers Gas shall mean all Gas owned or controlled by Producer and delivered to Processor at the Receipt Point(s) hereunder.
+ 
+1.30                           Producers Plant Capacity.  The term Producers Plant Capacity shall mean the capacity in Processors Plant reserved for Producers Gas, as further described in Section 2.1.
+ 
+1.31                           Producers Receipt Point Volume.  The term Producers Receipt Point Volume is defined in Section 7.2, sub-paragraph 6.
+ 
+1.32                           Processing Plant, Processors Plant or Plant.  The terms Processing Plant, Processors Plant or Plant is defined in Section 7.2, sub-paragraph 1.
+ 
+1.33                           Processor.  The term Processor shall mean ETC Texas Pipeline, Ltd.
+ 
+1.34                           Receipt Point.  The term Receipt Point shall mean the inlet flange of the meter at the interconnection between the pipeline facilities of Processor used to gather Producers Gas under the Gathering Agreement and the inlet to the Plant.  For the avoidance of doubt, the Plant shall not include any compression facilities upstream of the turbo expander cryogenic gas processing facilities.
+ 
+1.35                           Residue Gas.  The term Residue Gas is defined in Section 7.2, sub-paragraph 5.
+ 
+1.36                           Retention Volume. The term Retention Volume is defined in Section 8.1.
+ 
+1.37                           Theoretical Gallons.  The term Theoretical Gallons is defined in Section 7.2, sub-paragraph 9.
+ 
+1.38                           Transportation Agreement(s).  The term Transportation Agreement(s) shall mean the agreement(s) between Producer and/or Producers Residue Gas market and Tennessee Gas Pipeline Company and, subject to mutual agreement, between Producer and/or Producers Residue Gas market and all other natural gas transporters having facilities connected to the facilities of Processor at or near the tailgate of Processors Plant.  In providing access to the natural gas transporters downstream of the Plant, Processor shall not discriminate among the producers under gas processing agreements executed and dated on or before April 15, 2011.
+ 
+6
+
+
+
+
+
+
+ 
+1.39                           Transport System(s).  The term Transport System(s) shall mean the pipeline system of Tennessee Gas Pipeline Company and, subject to mutual agreement, all other pipeline systems connected to the Plant or residue gas lines from the Plant that are used to transport Residue Gas.
+ 
+2.  QUANTITY
+ 
+2.1           Producers Plant Capacity shall be equal to Shippers Reserved Capacity under the Gathering Agreement.  For Producers Plant Capacity, Producer shall pay Processor the Demand Fee set forth in Section 8.1 below.
+ 
+2.2           Producer shall deliver, and Processor shall receive, at the Receipt Point(s), all of Producers Gas, up to Producers Plant Capacity.  Subject to Section 7.6 below, Processor shall have no obligation to receive any Gas from Producer in excess of Producers Plant Capacity.
+ 
+2.3           Each Day, Processor shall process at the Plant all of Producers Gas, up to Producers Plant Capacity.  Subject to Section 7.6 below, Processor may, on a fully interruptible basis and in Processers sole discretion, process Producers Gas in excess of Producers Plant Capacity.  For all Producers Gas processed at the Plant, Producer shall pay Processor the Commodity Fee set forth in Section 8.1 below, and Processor shall account to Producer for the Component Plant Products and Residue Gas as provided in Article 7 below.
+ 
+2.4           It is recognized that in order for Processor to efficiently operate the Plant, it is essential that Gas received into the Plant be made available to Processor under as uniform operating conditions as possible.  Commensurate with good production and operating practices and in accordance with proper conservation measures, Producer, having contracted with Processor under the Gathering Agreement in this regard, agrees to deliver Gas to Processor at consistent rates of flow as reasonably possible.
+ 
+2.5           Producer agrees to have field personnel available in a reasonable amount of time to reasonably comply with Processors requests (verbal or written) to decrease the delivery of Gas to Processor during periods of emergency, Maintenance or Force Majeure events consistent with the other provisions of this Agreement.
+ 
+3.  QUALITY
+ 
+3.1           All Plant Products attributable to Purchasers Gas shall meet the quality requirements of the markets to which Processor resells such Plant Products.
+ 
+3.2           All Residue Gas shall meet the quality requirements of the Transport System(s).
+ 
+3.3           PROCESSOR SHALL INDEMNIFY, DEFEND AND HOLD HARMLESS PRODUCER FROM ANY AND ALL LOSSES, INCLUDING INCIDENTAL, CONSEQUENTIAL, AND INDIRECT DAMAGES, AND IN RESPECT OF THIRD PARTY CLAIMS, PUNITIVE, EXEMPLARY, AND TREBLE DAMAGES, ARISING FROM OR OUT OF (A) THE PLANT PRODUCTS ATTRIBUTABLE TO PRODUCERS GAS NOT MEETING THE REQUIREMENTS OF SECTION 3.1 OR (B) THE RESIDUE GAS NOT MEETING THE REQUIREMENTS OF SECTION 3.2, EXCEPT TO THE EXTENT ANY SUCH FAILURE IS CAUSED BY THE
+ 
+7
+
+
+
+
+
+
+ 
+GAS DELIVERED BY PRODUCER TO PROCESSOR UNDER THE GATHERING AGREEMENT NOT MEETING THE REQUIREMENTS OF SECTION 7.1 THEREOF.
+ 
+4.  OWNERSHIP AND CONTROL
+ 
+4.1           Processor shall redeliver to, or for the account of, Producer at the Delivery Point the Residue Gas.  The requisite nominations, scheduling, and imbalance resolution procedures shall be pursuant to Article VI of the Gathering Agreement.  Not less than three (3) Business Days prior to each Month, Producer will provide in writing to Processor the expected quantities to be delivered by Producer at the Receipt Point(s) under the Gathering Agreement during such Month, and based on the information provided by Processor pursuant to the following sentence, the Residue Gas expected to be delivered under the Transportation Agreements during such Month.   Processor shall provide to Producer not later than five (5) Business Days prior to each Month, expected fuel usage and such other information to enable nominations of Producers Residue Gas (which shall include, without limitation, the expected FL&U under the Gathering Agreement and PTR as defined in the Gathering Agreement (as a percentage of deliveries by Producer at the Receipt Point(s) under the Gathering Agreement).
+ 
+4.2           Producer, at its own expense, shall arrange for the delivery of Producers Gas to Processor at the Receipt Point(s) under the Gathering Agreement.
+ 
+4.3           Processor, at its own expense, shall construct, equip, maintain and operate the Plant, and all lines and necessary facilities to deliver Gas to Producer at the Delivery Point.  Processor, at its own expense, shall construct, equip, maintain and operate Receipt Point facilities used to measure Producers Gas delivered by, or for the account of, Producer hereunder.
+ 
+4.4           Producer shall be in control and possession of the Gas delivered to Processor and responsible for any damage or injury caused thereby until same shall have been delivered to Processor at the Receipt Point(s) under the Gathering Agreement.
+ 
+4.5           Processor shall be in control and possession of the Gas received from Producer at the Receipt Point(s) under the Gathering Agreement and responsible for any damage or injury caused thereby until the Residue Gas attributable to such Gas shall have been delivered to Producer at the Delivery Point.
+ 
+4.6           Except as otherwise set forth in Article 3, the Party in control and possession of the Gas as set forth in Sections 4.4 and 4.5 shall be responsible and pay for, and shall release, defend, indemnify and save the other Party harmless from and against, any and all Losses caused thereby and occurring while the Gas is in the control and possession of such first Party.
+ 
+4.7           Each Party shall promptly perform any necessary acts and construct and install the necessary facilities which may be required to commence the delivery of Gas in accordance with the provisions of this Agreement.
+ 
+8
+
+
+
+
+
+
+ 
+5.  PRESSURE
+ 
+5.1           Processor agrees to deliver Residue Gas to the Transport System(s) at a pressure sufficient to enter the Transport System(s), not to exceed the maximum allowable operating pressures of the Transport System(s).
+ 
+6.  MEASUREMENT
+ 
+6.1           The measurement provisions in the Gathering Agreement (Article VIII, Measurement) are incorporated herein by reference as if fully set forth at length.
+ 
+7.  PROCESSING OF PRODUCERS GAS
+ 
+7.1           Producer does hereby grant, assign and convey to Processor all of its rights to process or cause to be processed for the removal and recovery of all components other than methane, all of the Gas received at the Receipt Point.
+ 
+7.2           For all purposes the following definitions shall be applicable:
+ 
+(1)           Processing Plant, Processors Plant or Plant shall mean the turbo-expander, cryogenic Gas processing facilities, having a minimum processing capacity of 400,000 Mcf per Day, to be located in Jackson County, Texas, to be utilized by Processor for the purpose of processing Gas delivered from the pipeline system receiving Gas from Producer under the Gathering Agreement, whether such facilities consist of one (1) or more turbo-expander, cryogenic Gas processing facilities, or portions thereof, and recovering a raw unfractionated liquid hydrocarbon mix.  Notwithstanding anything herein to the contrary, Processor reserves the right to operate the Processing Plant in any mode that Processor may elect from time to time, in its sole opinion, including but not limited to full recovery, partial recovery, ethane rejection or total Plant bypass.  Regardless of how Processor elects to operate the Plant, Processor will insure delivery of Producers calculated Residue Gas at the Delivery Point, and calculation of the Component Plant Products attributable to Producers Gas, and Processors purchase of same, pursuant to this Section 7.
+ 
+(2)           Plant Products shall mean the unfractionated liquid hydrocarbon mix consisting of (i) ethane, (ii) propane, (iii) iso-butane, (iv) normal butane, and (v) pentanes plus.
+ 
+(3)           Component Plant Products shall mean (i) ethane, (ii) propane, (iii) iso-butane, (iv) normal butane, and (v) pentanes plus (including iso-pentane, normal pentane and hydrocarbon components of higher molecular weight) for the purposes of settlement and allocation hereunder.
+ 
+9
+
+
+
+
+
+
+ 
+(4)           Component Recovery Factor shall mean the fixed percentage of each Component Plant Product deemed to be recovered at the Plant pursuant to this Agreement.  Where Producer has elected to reject ethane pursuant to Section 7.5 below for a delivery Month, the fixed percentage of each Component Plant Product deemed to be recovered at the Plant pursuant to this Agreement for such delivery Month shall be as listed below under the heading Component Recovery Factor Ethane Rejection.  Where Producer has not elected to reject ethane pursuant to Section 7.5 below for a delivery Month, the fixed percentage of each Component Plant Product deemed to be recovered at the Plant pursuant to this Agreement for such delivery Month, shall be as listed below under the heading Component Recovery Factor Ethane Recovery.:
+ 
+
+
+
+     
+
+     
+
+Component Recovery Factor    
+
+     
+
+Component Recovery Factor       
+
+
+Component Plant Product    
+
+     
+
+Ethane Rejection    
+
+     
+
+Ethane Recovery       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Ethane    
+
+     
+
+[*****]    
+
+     
+
+[*****]       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Propane    
+
+     
+
+[*****]    
+
+     
+
+[*****]       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Iso-butane    
+
+     
+
+[*****]    
+
+     
+
+[*****]       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Normal butane    
+
+     
+
+[*****]    
+
+     
+
+[*****]       
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Pentanes Plus    
+
+     
+
+[*****]    
+
+     
+
+[*****]         
+ 
+(5)           Residue Gas shall mean that portion of Inlet Volume remaining after deduction for Plant Product Shrinkage, allocated process fuel (including electricity cost), and any allocated Plant losses.  Plant losses will be calculated as the difference between the Processing Plant inlet quantities and all outlet quantities.  Allocated process fuel (including electricity cost) and Plant losses shall not exceed [*****] percent ([*****]%) of the Inlet Volume during those periods where Producer has elected to recover ethane, and process fuel (including electricity cost) and Plant losses shall not exceed [*****] percent ([*****]%) of the Inlet Volume during those periods where Producer has elected to reject ethane; provided, however, in the event Producer has elected to reject ethane and Processor is operating the Plant in ethane recovery mode, process fuel (including electricity cost) and Plant losses shall be deemed to be [*****] percent ([*****]%) of the Inlet Volume.  The Processing Plant outlet quantities, which shall include all Processing Plant fuel, shall equal the total of all quantities (in MMBtu) of Gas exiting the Plant plus the heating value equivalent (in MMBtu) of all Plant Products actually recovered in the Plant.  The Processing Plant inlet quantities shall equal the total of all quantities (in MMBtus) of Gas entering the Plant at the Plant inlet meter.  Producers allocated process fuel (including electricity cost) and allocated Plant losses shall be based on a percentage, the numerator of which is the Inlet Volume and the denominator of which is the total Processing Plant inlet quantities, in MMBtu.
+ 
+(6)           Producers Receipt Point Volume shall mean the quantity in MMBtu of Gas received at a particular Receipt Point under the Gathering Agreement less FL&U (in MMBtu), each as defined in the Gathering Agreement.
+ 
+10
+
+
+
+
+
+
+ 
+(7)           Inlet Volume shall mean Producers Receipt Point Volume.
+ 
+(8)           Plant Product Shrinkage shall mean the heating value equivalent of the Component Plant Products as determined under Section 7.4.
+ 
+(9)           Theoretical Gallons of a particular Component Plant Product shall mean the result obtained by multiplying the particular Component Plant Product content of a particular Gas stream (expressed in gallons per Mcf) by the Inlet Volume (in Mcf) of that particular stream delivered for processing (the result being expressed in gallons).  For all purposes under this Agreement, the Inlet Volume (in Mcf) shall mean the volume in Mcf of Gas received at a particular Receipt Point(s) under the Gathering Agreement less FL&U (in Mcf), each as defined in the Gathering Agreement; provided, however, FL&U shall be converted from MMBtu to Mcf based on the Gross Heating Value of the Gas received at such particular Receipt Point(s).
+ 
+7.3           Residue Gas attributable to a particular Receipt Point(s) under the Gathering Agreement shall be determined by subtracting (i) the calculated Plant Product Shrinkage, and (ii) the allocated process fuel and losses (in MMBtu) calculated as provided in Section 7.2, sub-paragraph 5 above, from the Inlet Volume.  Processor shall return to Producer, at the Delivery Point, one hundred percent (100%) of the calculated Residue Gas attributable to Producer as determined herein.
+ 
+7.4           Plant Product Shrinkage attributable to a particular Receipt Point(s) under the Gathering Agreement shall be determined by conversion of the calculated Theoretical Gallons of each Component Plant Product deemed to be recovered at the Plant pursuant to Section 7.2, subparagraph 4 above or recovered at the Plant pursuant to Section 7.6 below, as applicable, attributed to the particular Receipt Point(s) under the Gathering Agreement determined pursuant to Section 7.2, subparagraph 9 above, to its respective heat content equivalent (in MMBtu) by multiplying the gallons thereof by the most current GPA 2145 standard factor(s), as updated from time to time for ethane, propane, normal-butane, iso-butane, pentanes and heavier components.
+ 
+7.5           Producer, in its sole discretion, may elect, for any delivery Month, to reject ethane in the determination of the Component Plant Products attributable to each Receipt Point(s) under the Gathering Agreement; provided, however, Producer may not elect to reject ethane if it would cause (a) the Plant Products to violate the quality requirements of one or more of the markets to which Processor sells such Plant Products, or (b) the Residue Gas to violate the quality requirements of one or more of the Transport System(s).  To make such election for any delivery Month, Producer shall notify Processor in writing of such election not later than ten (10) Business Days prior to the beginning of the delivery Month.  Each such election shall be effective for subsequent delivery Months, unless and until rescinded by Producer by providing Processor with no less than ten (10) Business Days written notice prior to the beginning of a delivery Month that Processor has elected to recover ethane during such delivery Month.  For the avoidance of doubt, each election to reject ethane shall apply to all Gas delivered hereunder during the delivery Month for which such election is made and all subsequent delivery Months, unless and until Producer so notifies Processor of its election to once again recover ethane.  Processor, from time to time and in its sole discretion, may elect to minimize the recovery of ethane in the Plant, provided such election shall not affect the determination of the Component Plant Products attributable to Producers Gas hereunder.
+ 
+11
+
+
+
+
+
+
+
+ 
+7.6           If and to the extent Processor curtails or suspends the processing of Producers Gas at the Plant due to Force Majeure or Maintenance, Processor may instead bypass the Plant and condition such Gas to the extent feasible. In this regard, Producers Gas at the Plant, up to Producers Plant Capacity, shall have the highest priority for processing in the Plant together with all other Gas being processed at the Plant on a firm basis for other producers under agreements executed and dated on or before April 15, 2011, pro rata, and shall not be curtailed or suspended from processing if other Gas is being processed in the Plant on an interruptible basis.  Similarly, Producers Gas at the Plant, in excess of Producers Plant Capacity, shall have the highest priority for processing in the Plant on an interruptible basis together with all other Gas being processed at the Plant on an interruptible basis for other producers under agreements executed and dated on or before April 15, 2011, pro rata.  Subject to the foregoing, in the event any of Producers Gas bypasses the Plant and is conditioned, with respect to such Gas, (a) the Commodity Fee set forth in Section 8.1 below shall be inapplicable, (b) Producer shall pay Processor the Conditioning Fee and Retention Volume set forth in Section 8.1 below, (c) no Component Plant Products, Plant Product Shrinkage, or process fuel (including electricity cost) and losses will be allocated to such Gas in determining the Residue Gas attributable to such Gas, and (d) the Residue Gas delivered to or for the account of Producer at the Delivery Point shall meet the gross heating value and all other quality specifications set forth in the Transportation Agreement(s).  To the extent Processor continues to process Gas at the Plant during a Force Majeure event or Maintenance affecting the recoveries of Component Plant Products, then with respect to the period during which such recoveries are so affected, Processor shall account to Producer on the basis of the Component Plant Products actually recovered at the Plant rather than on the basis of the fixed Component Recovery Factors set forth under Section 7.2, sub-paragraph 4 above.  Processor shall remedy any Force Majeure event and perform any Maintenance with all reasonable dispatch, and in such a manner as to minimize any adverse impact on Producer hereunder.  Processor shall provide only two levels of service for processing through the Plant, firm and interruptible.
+ 
+7.7           Component Plant Product calculation and marketing: The quantity (in gallons) of a particular Component Plant Product attributable to a particular Receipt Point under the Gathering Agreement shall be determined by multiplying the Theoretical Gallons of the particular Component Plant Product contained in the Inlet Volume (in Mcf) attributable to that particular Receipt Point by the Component Recovery Factor for that particular Component Plant Product.  The marketing of said Component Plant Products shall be as follows: Producer agrees to sell one hundred percent (100%) of the Plant Products attributable to Producers Gas (i.e. all of the Component Plant Products calculated in accordance with the above), and Processor agrees to purchase same.  Processor will arrange for transportation and fractionation of such Plant Products.  Subject to Section 7.8 below, the price paid to Producer for each Component Plant Product will be the weighted average sales price received by Processor in the sale of such Component Plant Product from the Plant, in each case less Processors transportation and fractionation (T&F) costs, and less a marketing fee of [*****] ($[*****]) per gallon.  The price paid to Producer for each Component Plant Product is deemed to include 100% reimbursement to Producer for all production or severance taxes owed by Producer with respect to the Component Plant Products attributable to the Plant Products sold to Processor under this Agreement.  For the avoidance of doubt, Processor shall bear the risk of nonpayment by any markets to which Processor resells the Plant Products purchased from Producer hereunder.  As 
+ 
+12
+
+
+
+
+
+
+ 
+such, in the event of any such nonpayment, for purposes of determining the amount owed by Processor to Producer for Plant Products sold by Producer to Processor hereunder, it shall be deemed that such nonpayment did not occur, and that Processor received payment in full from such markets.  Processors T&F costs shall be deemed to be [*****] ($[*****]) per gallon plus Processors actual energy costs for fractionation.   Such deemed T&F costs of Processor shall escalate to the same extent Processors actual T&F costs escalate in the T&F agreements.  Processors marketing fee shall be reduced by the amount of any third party marketing fees deducted in arriving at the weighted average sales price received by Processor in the sale of Component Plant Products, but in any event, Processors marketing fee shall not be less than [*****] ($[*****]) per gallon, and such third party marketing fees shall not exceed [*****] ($[*****]) per gallon.
+ 
+7.8           Processor shall exercise commercially reasonable efforts to enter into an agreement under which Processor will be selling the Component Plant Products on the pricing terms set forth below.  If Processor does so, then within thirty (30) days of full execution of such agreement, Processor shall notify Producer of such terms and the actual third party marketing fees, if any, that will be charged in association with the sale of the Component Plant Products.  Within sixty (60) days of the date of Producers receipt of such notice, Producer may by written notice to Processor elect that the price paid to Producer for each Component Plant Product will be the [*****] of the [*****] prices (in cents per gallon) for each Component Plant Product at Mont Belvieu, Texas as reported by Oil Price Information Service (OPIS) for (i) purity ethane for the ethane Component Plant Product and (ii) for non-TET propane, iso-butane, normal butane, and natural gasoline for the propane, iso-butane, normal butane and pentanes plus Component Plant Products (including iso-pentane, normal pentane and hydrocarbon components of higher molecular weight), in each case less such third party marketing fees, Processors actual transportation and fractionation (T&F) costs, and less a marketing fee (Processors Marketing Fee) of [*****] ($[*****]) per gallon; provided, however, Processors Marketing Fee shall be reduced by the amount of such third party marketing fees, but in any event, Processors Marketing Fee shall not be less than [*****] ($[*****]) per gallon, and such third party marketing fees shall not exceed [*****] ($[*****]) per gallon.
+ 
+7.9           An example calculation of the determination of the Residue Gas and Component Plant Products attributable to Producers Gas is set forth on Exhibit A.
+ 
+8.  FEES, BILLING, PAYMENT AND NOTICES
+ 
+8.1           As full consideration for gathering and processing or conditioning the Gas delivered to Processor hereunder, Producer shall pay Processor the fees set forth below (the Fees):
+ 
+DEMAND FEE:  [*****]
+ 
+COMMODITY FEE:  [*****] ($[*****]) per MMBtu on that portion of the Inlet Volume processed at the Plant.
+ 
+CONDITIONING FEE:  [*****] ($[*****]) per MMBtu on that portion of the Inlet Volume that bypasses the Plant.
+ 
+13
+
+
+
+
+
+
+ 
+RETENTION VOLUME:  [*****] ([*****]%) of that portion of the Inlet Volume (in MMBtus) that bypasses the Plant.
+ 
+8.2           Beginning with the second Contract Year, the Fees as described in Section 8.1 above shall be increased on the first Day of each Contract Year hereunder (the Escalation Date), by the amount equal to the percentage increase change, if any, between (a) the seasonally unadjusted Consumer Price Index for All Urban Consumers (all items), United States City Average (1982-84 = 100), as published by the United States Department of Labor, Bureau of Labor Statistics (the CPI-U), for the month of December of the second year prior to the Escalation Date, and (b) the CPI-U for the month of December immediately preceding the Escalation Date; provided, however, no such annual percentage increase shall exceed [*****] percent ([*****]%).
+ 
+8.3           After deliveries of Gas have commenced, Processor shall on or before the twenty-fifth (25th) Day of the Month following the delivery Month render to Producer (i) a statement indicating the settlement quantity of Residue Gas returned to Producer for that delivery Month, and (ii) a statement indicating the dollar amount of the Plant Products purchased from Producer for that delivery Month (the Plant Product Value).   Such statements shall contain reasonably detailed information (including information of the type set forth on Exhibit A) showing the determination of such Residue Gas and such Plant Product Value.  The Parties agree that the Fees owed by Producer to Processor hereunder for such Month may be deducted from the Plant Product Value owed to Producer each Month.  Processor shall (i) include with such statement an invoice to Producer for the difference between the total dollar amount of the Fees and the Plant Product Value if the Fees are greater than the Plant Product Value; or (ii) if the Plant Product Value is greater than the Fees, Processor shall pay Producer the difference by wire transfer on or before the first Business Day of the second Month following the delivery Month.   Subject to Section 8.4 below, Producer agrees to pay the invoice received from Processor by wire transfer (identifying the invoice number) the full amount payable according to such statement on or before the first Business Day of the second Month following the delivery Month or ten (10) Days following Producers receipt of such invoice, whichever is later.  Processor may net out any amounts owed by Processor to Producer hereunder against any amounts owed by Producer to Processor under the Gathering Agreement.  If the paying Party fails to pay any amount in whole or in part when due, in addition to any other rights or remedies available to the Party to whom payment is due, interest at the Stated Rate (as defined in the Gathering Agreement) shall accrue on all unpaid amounts.
+ 
+8.4           In the event that Producer in good faith disputes any invoice or statement, Producer shall pay to Processor any undisputed amount and shall, within the time period for payment set out in Section 8.3, notify Processor in writing that it disputes other amounts.  Within fifteen (15) days of such notice Producer shall provide to Processor documentation demonstrating the basis for the dispute.  The failure of Producer to dispute any invoice or statement within the forgoing time period shall not be a waiver of Producers right to later dispute such invoice or statement.
+ 
+14
+
+
+
+
+
+
+ 
+8.5           All notices and communications between the parties shall be in writing and all notices, communications and payments shall be directed to the respective parties hereto at the following addresses:
+ 
+
+
+
+Processor:    
+
+For   Remittance:       
+
+
+     
+
+By   Wire Transfer:       
+
+
+     
+
+ETC   Texas Pipeline, Ltd.       
+
+
+     
+
+Wachovia   Bank       
+
+
+     
+
+Acct.   [*****]       
+
+
+     
+
+ABA   [*****]       
+
+
+     
+
+        
+
+
+     
+
+For   Notices and Correspondence:       
+
+
+     
+
+ETC   Texas Pipeline, Ltd.       
+
+
+     
+
+800   E. Sonterra Blvd., Suite 400       
+
+
+     
+
+San   Antonio, Texas 78258       
+
+
+     
+
+Attention:   Contract Administration       
+
+
+     
+
+Phone:   (210) 403-7300       
+
+
+     
+
+Fax:   (210) 403-7500       
+
+
+     
+
+        
+
+
+     
+
+For   Accounting Matters:       
+
+
+     
+
+ETC   Texas Pipeline, Ltd.       
+
+
+     
+
+800   E. Sonterra Blvd., Suite 400       
+
+
+     
+
+San   Antonio, Texas 78258       
+
+
+     
+
+Attention:   Gas Accounting       
+
+
+     
+
+Phone:   (210) 403-7300       
+
+
+     
+
+Fax:   (210) 403-7500         
+ 
+15
+
+
+
+
+
+
+ 
+
+
+
+Producer:    
+
+For   Notices, Correspondence, Scheduling and Accounting Matters:       
+
+
+     
+
+SM   Energy Company       
+
+
+     
+
+1775   Sherman Street, Suite 1200       
+
+
+     
+
+Denver,   CO 80203       
+
+
+     
+
+Attn:   Gas Marketing       
+
+
+     
+
+Phone:   (303) 861-8140       
+
+
+     
+
+Fax:   (303) 830-2216       
+
+
+     
+
+        
+
+
+     
+
+For   Remittance:       
+
+
+     
+
+By   Wire Transfer       
+
+
+     
+
+Wells   Fargo Bank West N.A.       
+
+
+     
+
+ABA   [*****]       
+
+
+     
+
+Account#:   [*****]       
+
+
+     
+
+Acct:   SM Energy Company       
+
+
+     
+
+Tax   ID #: 41-0518430         
+ 
+8.6           Either Party may from time to time change the address to which notices to it shall be directed by furnishing the other Party with written notice of the change.  All notices provided and authorized to be given hereunder shall be considered as given only if and when received by the Party to whom such notice is addressed; provided, however, any notice sent by registered or certified mail with return receipt requested and all postage and fees therefore paid shall be deemed to have been given on the fourth Business Day following the date deposited in the United States mail addressed to the Party being notified.  Notice by facsimile or hand delivery shall be deemed to have been received on the Business Day on which it is transmitted (with answerback confirmation of receipt) or hand delivered (unless transmitted (with answerback confirmation of receipt) or hand delivered after close of the Business Day in which case it shall be deemed received on the next Business Day) or such earlier time confirmed by the receiving Party.  Any legal notices must be received in writing.
+ 
+9.  TAXES AND ASSESSMENTS
+ 
+9.1           Producer shall bear and pay all excise, severance, gross receipts, sales, transaction, occupation, and other taxes and the oil field cleanup fee levied on or in respect to the Gas and the handling thereof prior to the delivery of Gas to Processor at the Receipt Point(s) 
+ 
+16
+
+
+
+
+
+
+ 
+under the Gathering Agreement and after delivery of Gas to Producer at the Delivery Point hereunder.  Processor shall bear and pay all excise, gross receipts, sales, transaction, occupation, and other taxes on or with respect to the Gas and the handling thereof from and after the delivery of Gas to Processor at the Receipt Point(s) under the Gathering Agreement and prior to delivery of Gas to Producer at the Delivery Point hereunder; provided, however, Producer shall bear and pay any such taxes or increase in such taxes which first take effect after the Effective Date.
+ 
+9.2           Producer shall indemnify, reimburse, defend and hold harmless Processor from and against any and all Losses attributable to the taxes and fee for which Producer is responsible under Section 9.1.  Processor shall indemnify, reimburse, defend and hold harmless Producer from and against any and all Losses attributable to the taxes for which Processor is responsible under Section 9.1.
+ 
+10.  CREDIT ASSURANCE
+ 
+10.1         Each Party acknowledges and agrees that the other Partys credit as of the date of this Agreement is satisfactory.  In the event a material adverse change occurs in a Partys credit (the Affected Party) and the other Party (the Requesting Party) determines the Affected Partys credit to be unsatisfactory in the Requesting Partys sole and reasonable opinion at any time during the term of this Agreement, the Requesting Party may demand Adequate Assurance of Performance from such Affected Party which shall mean sufficient security in an amount and for a term reasonably specified by the Requesting Party; provided, however, in no event shall the amount of such security exceed the greater of (i) the amount owed hereunder by such Affected Party for the most recent two (2) Months, or (ii) the amount estimated by the Requesting Party in good faith to be owed hereunder by such Affected Party for the next succeeding two (2) Months based on deliveries by Producer equal to Producers Plant Capacity.   Such Affected Party at its option may then provide one of the following forms of security:
+ 
+(a)           Post an irrevocable standby letter of credit in a form and from a bank satisfactory to the Receiving Party; or,
+ 
+(b)           Provide a prepayment or a deposit.
+ 
+10.2         Should such Affected Party fail to provide Adequate Assurance of Performance within two (2) Business Days after receipt of written demand for such assurance, then the Requesting Party shall have the right to suspend performance under this Agreement until such time as such Affected Party furnishes Adequate Assurance of Performance.  If such assurance is not provided by such Affected Party within ten (10) Business Days from written demand, the Requesting Party may terminate this Agreement in addition to having any and all other remedies available hereunder, at law or in equity
+ 
+11.  REGULATORY BODIES
+ 
+[Intentionally omitted.]
+ 
+17
+
+
+
+
+
+
+ 
+12.  FORCE MAJEURE
+ 
+12.1         In the event a Party is rendered unable, wholly or in part, by Force Majeure to carry out its obligations under this Agreement, other than the obligation to make payments then or thereafter due hereunder, and such Party promptly gives notice and reasonably full particulars of such Force Majeure in writing to the other Party after the occurrence of the cause relied on, then the obligations of the Party giving such notice, so far as and to the extent that they are affected by such Force Majeure, shall be suspended during the continuance of any inability so caused, but for no longer period, and such cause shall so far as reasonably possible be remedied with all reasonable dispatch by the Party claiming Force Majeure.  In addition, the Party claiming Force Majeure shall resume performance of any such suspended obligations promptly after termination of such Force Majeure.  Producer shall have the right to secure alternate gas processing services from third parties during Force Majeure events that affect Processors ability to provide gas processing services hereunder, but only for so long as and only to the extent that such Force Majeure event prevents Processor from providing gas processing services hereunder.
+ 
+12.2         The term Force Majeure as used in this Agreement shall mean any cause or causes not reasonably within the control of the Party claiming suspension and which, by the exercise of reasonable diligence, such Party is unable to prevent or overcome, including, without limitation, acts of God, strikes, lockouts, or other industrial disturbances, acts of a public enemy, sabotage, wars, blockades, insurrections, riots, acts of terror, epidemics, landslides, lightning, earthquakes, fires, storms, storm warnings, floods, washouts, arrests and restraints of governments and people, civil disturbances, explosions, breakage or accident to equipment installations, machinery or lines of pipe, and associated repairs, freezing of lines of pipe, pipes or other delivery facilities, electric power unavailability or shortages, failure of pipelines or carriers to transport, delay or curtailment of natural gas liquid transportation or fractionation services, inability to obtain or timely obtain, or obtain at a reasonable cost, after exercise of reasonable diligence, pipe, materials, equipment, rights-of-way, servitudes, governmental approvals, or labor, including those necessary for the facilities provided for in this Agreement, and any legislative, governmental or judicial actions.  Examples of Force Majeure may also include curtailment or interruption of deliveries, receipts or services by third party purchasers, suppliers or customers as a result of an event of Force Majeure or a breach by such third party purchasers, suppliers or customers.  It is understood and agreed that the settlement of strikes or lockouts shall be entirely within the discretion of the Party having the difficulty, and that the above requirement that any Force Majeure shall be remedied with reasonable dispatch shall not require the settlement of strikes or lockouts by acceding to the demands of the opposing party when such course is inadvisable in the sole discretion of the Party having the difficulty.
+ 
+12.3         Neither Party shall be entitled to the benefits of the provision of Force Majeure to the extent performance is affected by any or all of the following circumstances: (i) the Party claiming excuse failed to remedy the condition and to resume the performance of its covenants or obligations with reasonable dispatch except as to strikes or industrial lockouts; or (ii) economic hardship, to include, without limitation, Producers ability to sell its Plant Products and Gas at a higher or more advantageous price to a market not requiring the gas processing services contracted for herein; or (iii) the loss of Producers market for Residue Gas.
+ 
+18
+
+
+
+
+
+
+ 
+13.  PLANT MAINTENANCE AND INTERRUPTIONS
+ 
+13.1         Processor may without liability interrupt its performance under this Agreement (other than the obligation to make payments then or thereafter due hereunder and its obligations under Section 7.6) for the purpose of performing, in Processors sole discretion, necessary or desirable Maintenance provided, however, Processor shall give Producer reasonable advance notice of its intentions in accordance with Section 8.5 except in emergency situations where such notice is impracticable (in which case, Processor shall provide Producer notice as soon as practicable after the commencement of such emergency situation) or where the rights or obligations of Producer will not be affected thereby (which, for the avoidance of doubt, means, among other matters, that Producers Gas up to the Producers Plant Capacity will be processed in the Plant on the basis of the Component Recovery Factors).  Processor shall make reasonable efforts to minimize, and to arrange, any such interruptions in such ways as to minimize any adverse affects on Producer.
+ 
+14.  WARRANTY OF TITLE TO GAS
+ 
+14.1         Producer hereby warrants title to the Gas (including Residue Gas and/or Plant Products attributable to Producers Gas) delivered hereunder and that Producer has good and lawful rights to sell same.  Producer further warrants that all such Gas (including Residue Gas and/or Plant Products attributable to Producers Gas) is either owned by Producer or that Producer has the right to market same free and clear of any and all liens, encumbrances, and claims whatsoever.  As to Gas (including Residue Gas and/or Plant Products attributable to Producers Gas) not owned by Producer which Producer warrants the right to market, Producer warrants it has the right and authority to act on behalf of the party owning such Gas (including such Residue Gas and/or such Plant Products) with respect to all matters covered by this Agreement.  Producer shall at all times have the obligation to make settlements for all royalties due, and to make settlements with all other persons having any interest in the commodities sold by Producer hereunder.  Producer agrees to defend, indemnify Processor and save it harmless from all suits, actions, debts, accounts, damages, costs and losses and expenses arising from or out of adverse claims of any and all persons, firms or corporations to said Gas (including Residue Gas and/or Plant Products attributable to Producers Gas) or payments therefore or to royalties, overriding royalties, taxes, license fees, or charges thereon, which are applicable before the title passes to Processor. Notwithstanding any provision of this Section 14.1 to the contrary, Producers warranties do not include any liens, claims or encumbrances with respect to the Residue Gas or the Plant Products attributable to Producers Gas which may be created by, through or under Processor.  In this regard, Processor warrants that the Residue Gas and the Plant Products attributable to Producers Gas shall be free and clear of any and all liens, claims and encumbrances whatsoever created by, through and under Processor.  In addition, Processor agrees to defend and indemnify Producer and save it harmless from all suits, actions, debts, accounts, damages, costs and losses and expenses arising from or out of adverse claims of any and all persons, firms or corporations to the Residue Gas and/or the Plant Products attributable to 
+ 
+19
+
+
+
+
+
+
+ 
+Producers Gas arising by, through or under Processor or to taxes, license fees or charges thereon, which are applicable after title passes to Processor.
+ 
+14.2         SUBJECT TO SECTION 3.3,  NEITHER PARTY SHALL BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES, LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES, IN TORT, CONTRACT OR OTHERWISE, EXCEPT FOR ANY OF THE FOREGOING PAID BY A PARTY TO A NON-AFFIILATE THIRD PARTY.
+ 
+15.  TERM
+ 
+15.1         This Agreement may be terminated or canceled as follows and in no other manner: by either Party upon the occurrence of any Default or Event of Default if the terminating Party is not itself in Default (other than a Default which occurs because such Party is rightfully withholding performance in response to the other Partys Default). Notwithstanding the foregoing, this Agreement shall be coterminous with the Gathering Agreement.  All indemnity obligations, confidentiality obligations, payment obligations and audit rights shall survive the termination hereof.
+ 
+16.  MISCELLANEOUS
+ 
+16.1         This Agreement, together with the Gathering Agreement, constitutes the entire agreement between the Parties pertaining to the subject matter hereof and supersedes all prior and contemporaneous (oral or written) negotiations, proposals, agreements and understandings..
+ 
+16.2         No modifications of the terms and provisions of this Agreement shall be or become effective except by the execution by each of the Parties of a supplementary written agreement.
+ 
+16.3         No waiver by either Party of any one or more defaults by the other Party in performance of any provisions of this Agreement shall operate or be construed as a waiver of any future default or defaults, whether of a like or a different character.
+ 
+16.4         This Agreement is for the sole and exclusive benefit of the Parties hereto.  Except as expressly provided herein to the contrary, nothing herein is intended to benefit any other Person not a Party hereto, and no such Person shall have any legal or equitable right, remedy or claim under this Agreement.
+ 
+16.5         Except as otherwise set forth herein, this Agreement is binding upon the successors or assigns of either Processor or Producer. Neither Party shall voluntarily or involuntarily, directly or indirectly, transfer or otherwise alienate any or all of its rights, title or interests under this Agreement to any other Person without the express prior written consent of 
+ 
+20
+
+
+
+
+
+
+ 
+the other Party, which consent shall not be unreasonably delayed or withheld; provided, however, that (a) either Party may (without seeking the consent of the other Party) transfer or otherwise alienate any of its rights, title or interests under this Agreement in connection with (i) a transfer to an Affiliate (as defined in the Gathering Agreement) which remains an Affiliate and is deemed creditworthy by the other Party or will provide Adequate Assurance of Performance to the other Party in accordance with Article 14 if not, and (ii) the granting of a pledge, mortgage, hypothecation, lien or other security interest and any transfer pursuant to or in settlement of any terms of provisions of any agreement creating any such security interest; and (b) Producer may (without seeking the consent of Processor) partially assign its rights, title and interests under this Agreement to another Person if the assignee (i) is deemed creditworthy in the reasonable opinion of Processor or will provide Adequate Assurance of Performance to Processor in accordance with Article 14 if not and (ii) expressly assumes all obligations of Producer under this Agreement attributable to the partially assigned rights, title and interests (including the applicable portion of Producers Plant Capacity).  Unless otherwise agreed to in writing by the other Party, and except for transfers pursuant to (a)(ii) above, both the transferor and the transferee shall be jointly and severally responsible and primarily liable for the full and timely performance of all covenants, agreements and other obligations, and the timely payment and discharge of all liabilities, costs and other expenses arising (directly or indirectly) pursuant to this Agreement.  Unless otherwise mutually agreed in writing, intermediary transferees shall not be relieved of any obligations as a result of a subsequent transfer to another Person.  Promptly upon transfer of all or any portion of its rights, title and interests in and to this Agreement, the transferor shall provide the other Party with a copy of such instrument.  Any attempted transfer in violation of the terms of this Agreement of any rights, title and interests arising under this Agreement shall constitute a Default and be null and void and have no force or effect.
+ 
+16.6         The Parties agree that all information and data exchanged by them pursuant to or in connection with this Agreement shall be maintained in strict and absolute confidence for the term of this Agreement and one (1) year following its termination or cancellation except for disclosure (a) pursuant to the permitted sale, disposition or other transfer (directly or indirectly) of a Partys rights and interests in and to this Agreement, (b) to lenders, accountants and other representatives of the disclosing Party, and royalty, working and other interest owners, with a need to know such information, (c) in conjunction with a merger, consolidation, share exchange or other form of statutory reorganization involving a Party, (d) as required to make disclosure in compliance with any Law or listing exchange rules or (e) to a Partys officers, directors and personnel, as necessary to carry out such Partys obligations under the Agreement.
+ 
+16.7         THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED, ENFORCED AND PERFORMED IN ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS, WITHOUT REGARD TO PRINCIPLES OF CONFLICTS OF LAW.
+ 
+16.8         Subject to the terms and conditions set forth in this Agreement, each of the Parties agrees to use all reasonable efforts to take, or cause to be taken, all actions, and to do, or to cause to be done, all things necessary, proper or advisable under Laws to consummate and make effective the transactions contemplated by this Agreement.
+ 
+16.9         Any term or provision of this Agreement that is invalid or unenforceable in any jurisdiction shall be ineffective as to such jurisdiction, to the extent of such invalidity or unenforceability, without rendering invalid or unenforceable the remaining terms and provisions 
+ 
+21
+
+
+
+
+
+
+ 
+of this Agreement or affecting the validity or enforceability of any terms and provisions of this Agreement in any other jurisdiction.  If any provision of this Agreement is so broad as to be unenforceable, each provision shall be interpreted to be only as broad as is enforceable.
+ 
+16.10       Unless the context clearly requires otherwise, all personal pronouns used in this Agreement, whether used in the masculine, feminine or neuter gender, shall include all other genders; the singular shall include the plural, and vice versa.  Articles, sections and other titles or headings are for convenience only, shall neither limit nor amplify the provisions of the Agreement itself, and all references herein to articles, sections or subdivisions thereof shall refer to the corresponding article, section or subdivision thereof of this Agreement unless specific reference is made to such articles, sections or subdivisions of another document or instrument.
+ 
+16.11       This Agreement may be executed in multiple counterparts, each of which, when so executed, shall be deemed an original, and all of which together shall constitute but one and the same instrument.
+ 
+16.12       This Agreement and the performance of the obligations contemplated herein are and shall be subject to all Laws.  The Parties shall act in accordance with each such Law.  To the extent consistent with the terms and conditions of this Agreement, the Parties will reasonably cooperate with respect to compliance with all governmental authorizations, including obtaining and maintaining all necessary regulatory authorizations or any reasonable exchange or provision of information, needed for filing or reporting requirements.
+ 
+16.13       Each Party shall have the right to examine and audit, at its own expense, at reasonable times during regular business hours and upon reasonable notice, all books, records and charts of the other Party to the extent necessary to verify the accuracy of any measurement and payment hereunder or compliance with the terms of this Agreement, and the related statements, computations, allocations and procedures provided for in the Agreement, for a period of two (2) years after the end of the calendar year in which such measurement, payment, statement, computation, allocation or procedure occurred; provided, however, that a formal audit of accounts shall not be made more often than every twelve (12) months.  Any inaccuracy will be promptly corrected when discovered, but in no event later than six (6) months after such audit exceptions are received by the audited Party; provided, however, that neither Party shall have the right to contest any such measurement or payment, or the related statement, computation, allocation or procedure, if the matter is not called to the attention of the other Party in writing within two (2) years after (a) the date upon which such measurement was conducted or such payment was made, or (b) the related statement, computation, allocation or procedure containing the questioned inaccuracy was received by the contesting Party.   Any of such items not contested with specificity in writing within such time period shall conclusively be deemed to be accurate.
+ 
+16.14       Each Party agrees that it will not take any action or commence or participate in support of any proceeding before any court or governmental authority seeking (a) to have the [current jurisdictional status of the Plant changed or] determined to be subject to the jurisdiction of any governmental authority, or (b) to challenge the lawfulness or reasonableness of, or otherwise change, the fees set forth in this Agreement, or any other term or provision herein.  Notwithstanding the foregoing, nothing herein will prevent either Party from participating in proceedings or commenting on proposed changes in Laws that are generic in nature.
+ 
+22
+
+
+
+
+
+
+ 
+ 
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be signed by their respective duly authorized representatives effective as of the Effective Date.
+ 
+ 
+
+
+
+PROCESSOR:    
+
+PRODUCER:       
+
+
+ETC TEXAS PIPELINE, LTD.    
+
+SM   ENERGY COMPANY       
+
+
+By: LG PL, LLC, its general partner    
+
+        
+
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+/S/   MARSHALL S. MCREA, III    
+
+     
+
+By:       
+
+/S/   DAVE WHITCOMB       
+
+
+Name:    
+
+Marshall S. McCrea, III    
+
+     
+
+Name:     
+
+Dave Whitcomb       
+
+
+Title:    
+
+President   & COO    
+
+     
+
+Title:       
+
+Vice   President-Marketing       
+
+
+Date:       
+
+     
+
+     
+
+Date:       
+
+          
+ 
+23
+
+
+
+
+
+
+

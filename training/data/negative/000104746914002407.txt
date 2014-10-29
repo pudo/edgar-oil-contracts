@@ -1,0 +1,840 @@
+
+EX-10.19
+3
+a2218830zex-10_19.htm
+EX-10.19
+
+
+
+
+
+
+
+Exhibit 10.19
+ 
+BORROWING BASE INCREASE AGREEMENT
+ 
+This BORROWING BASE INCREASE AGREEMENT (this Agreement) dated as of December 18, 2013 (the Effective Date), is among Jones Energy Holdings, LLC, a Delaware limited liability company (the Borrower), the undersigned subsidiaries of the Borrower as guarantors (the Guarantors), the Lenders (as defined below) and Wells Fargo Bank, N.A. (Wells Fargo), in its capacity as administrative agent for the Lenders (in such capacity, the Administrative Agent).
+ 
+RECITALS
+ 
+A.                                    The Borrower is party to that certain Credit Agreement dated as of December 31, 2009 among the Borrower, the financial institutions party thereto from time to time as lenders (the Lenders) and the Administrative Agent, as heretofore amended (as so amended, the Credit Agreement).
+ 
+B.                                    The parties hereto wish to increase the Borrowing Base (as defined in the Credit Agreement) as set forth herein.
+ 
+NOW THEREFORE, in consideration of the premises and the mutual covenants, representations and warranties contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+ 
+Section 1.                                          Defined Terms.  As used in this Agreement, each of the terms defined in the opening paragraph and the Recitals above shall have the meanings assigned to such terms therein.  Unless otherwise specifically defined herein, each term defined in the Credit Agreement and used herein without definition shall have the meaning assigned to such term in the Credit Agreement.
+ 
+Section 2.                                          Other Definitional Provisions.  Article, Section, Schedule, and Exhibit references are to Articles and Sections of and Schedules and Exhibits to this Agreement, unless otherwise specified.  The words hereof, herein, and hereunder and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement.  The term including means including, without limitation,.  Paragraph headings have been inserted in this Agreement as a matter of convenience for reference only and it is agreed that such paragraph headings are not a part of this Agreement and shall not be used in the interpretation of any provision of this Agreement.
+ 
+Section 3.                                          Increase in the Borrowing Base.  Subject to the terms of this Agreement, as of the Effective Date, the Borrowing Base shall be increased from $500,000,000 to $575,000,000 and such Borrowing Base shall remain in effect at that level until the effective date of the next Borrowing Base redetermination made in accordance with the terms of the Credit Agreement.  The parties hereto acknowledge and agree that the Borrowing Base redetermination set forth in this Section 3 shall be deemed to be the Scheduled Redetermination scheduled for August 1, 2013 as provided in Section 2.07 of the Credit Agreement.  Each Lenders Applicable
+ 
+
+
+
+
+
+
+ 
+Percentage of the resulting Borrowing Base, after giving effect to the increase in the Borrowing Base set forth in this Section 3, is set forth in Annex A attached hereto.
+ 
+Section 4.                                          Credit Parties Representations and Warranties.  Each Credit Party represents and warrants that: (a) after giving effect to this Agreement, the representations and warranties of the Borrower and the Guarantors contained in the Credit Agreement and the other Loan Documents are true and correct in all material respects (except that such materiality qualifier shall not be applicable to any such representation or warranty that already is qualified or modified by materiality in the text thereof) on and as of the Effective Date as if made on as and as of such date except to the extent that any such representation or warranty expressly relates solely to an earlier date, in which case such representation or warranty is true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representation or warranty that already is qualified or modified by materiality in the text thereof) as of such earlier date; (b) after giving effect to this Agreement, no Event of Default has occurred and is continuing; (c) the execution, delivery and performance of this Agreement are within the limited liability company power and authority of such Credit Party and have been duly authorized by appropriate limited liability company action and proceedings; (d) this Agreement constitutes the legal, valid, and binding obligation of such Credit Party enforceable in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting the rights of creditors generally and general principles of equity; (e) there are no governmental or other third party consents, licenses and approvals required in connection with the execution, delivery, performance, validity and enforceability of this Agreement; and (f) the Liens under the Security Instruments are valid and subsisting and secure the Indebtedness (as such Indebtedness may be increased as a result of the transactions contemplated hereby).
+ 
+Section 5.                                          Conditions to Effectiveness.  This Agreement shall become effective on the Effective Date and enforceable against the parties hereto upon the occurrence of the following conditions precedent:
+ 
+(a)                                 The Administrative Agent shall have received:
+ 
+(i)                                     multiple original counterparts, as requested by the Administrative Agent, of this Agreement duly and validly executed and delivered by duly authorized officers of the Borrower, the Guarantors, the Administrative Agent, and the Lenders;
+ 
+(ii)                                  a certificate, dated as of the Effective Date, duly executed and delivered by the Borrowers and each Guarantors authorized officer as to (A) no change in the officers incumbency delivered in connection with the closing of Waiver, Agreement and Amendment No. 7 to Credit Agreement and Amendment to Guarantee and Collateral Agreement dated as of June 12, 2013 (Amendment No. 7), among the Credit Parties, the Administrative Agent and certain of the Lenders, which amended the Credit Agreement, (B) no change in authorizing resolutions delivered in connection with the closing of Amendment No. 7, and (C) no change in organizational documents delivered in connection with the closing of Amendment No. 7 or, if any such changes have occurred, attaching new incumbency certificates, authorizing resolutions and/or organizational documents, as they case may be; and
+ 
+2
+
+
+
+
+
+
+ 
+(iii)                               executed and notarized new mortgages or deeds of trust or supplements to existing mortgages or deeds of trust covering additional Oil and Gas Properties of the Borrower and its Subsidiaries, in form and substance reasonably satisfactory to the Administrative Agent, to the extent necessary to cause the Administrative Agent to have a first priority, perfected Lien (subject only to Liens permitted under Section 9.03 of the Credit Agreement) on at least 80% of the Engineered Value of the Oil and Gas Properties evaluated in the Reserve Reports most recently delivered to the Administrative Agent.
+ 
+(b)                                 The representations and warranties in this Agreement shall be true and correct in all material respects.
+ 
+(c)                                  The Borrower shall have paid the fee required under Section 6(e) below.
+ 
+Section 6.                                          Acknowledgments and Agreements.
+ 
+(a)                                 The Borrower acknowledges that on the date hereof all outstanding Indebtedness is payable in accordance with its terms and the Borrower waives any defense, offset, counterclaim or recoupment with respect thereto.
+ 
+(b)                                 The Administrative Agent, the Issuing Bank, and the Lenders hereby expressly reserve all of their rights, remedies, and claims under the Loan Documents.  This Agreement shall not constitute a waiver or relinquishment of (i) any Default or Event of Default under any of the Loan Documents, (ii) any of the agreements, terms or conditions contained in any of the Loan Documents, (iii) any rights or remedies of the Administrative Agent, the Issuing Bank, or any Lender with respect to the Loan Documents, or (iv) the rights of the Administrative Agent, the Issuing Bank, or any Lender to collect the full amounts owing to them under the Loan Documents.
+ 
+(c)                                  The Borrower, each Guarantor, the Administrative Agent, the Issuing Bank and each Lender do hereby adopt, ratify, and confirm the Credit Agreement and acknowledge and agree that the Credit Agreement is and remains in full force and effect, and the Borrower and each Guarantor acknowledge and agree that their respective liabilities and obligations under the Credit Agreement, the Guarantee and Collateral Agreement, and the other Loan Documents are not impaired in any respect by this Agreement.
+ 
+(d)                                 This Agreement is a Loan Document for the purposes of the provisions of the other Loan Documents.
+ 
+(e)                                  The Borrower hereby agrees to pay a Borrowing Base increase fee for the ratable account of the Lenders equal to 0.40% of the increase in the Borrowing Base effected under Section 3 above.  Such increase fee is (i) due and payable on the Effective Date, (ii) deemed fully earned upon becoming due and payable, (iii) not refundable upon payment thereof, and (iv) in addition to, and not in lieu of, any other fees as the Borrower may have agreed to pay under the Loan Documents.
+ 
+Section 7.                                          Reaffirmation of the Guaranty.  Each Guarantor hereby ratifies, confirms, acknowledges and agrees that its obligations under the Guarantee and Collateral Agreement are in full force and effect and that such Guarantor continues to unconditionally and
+ 
+3
+
+
+
+
+
+
+ 
+irrevocably guarantee the full and punctual payment, when due, whether at stated maturity or earlier by acceleration or otherwise, of all of the Obligations (as defined in the Guarantee and Collateral Agreement), as such Obligations may have been amended by this Agreement, and its execution and delivery of this Agreement does not indicate or establish an approval or consent requirement by such Guarantor under the Guarantee and Collateral Agreement in connection with the execution and delivery of amendments, consents or waivers to the Credit Agreement, the Notes or any of the other Loan Documents.
+ 
+Section 8.                                          Counterparts.  This Agreement may be signed in any number of counterparts, each of which shall be an original and all of which, taken together, constitute a single instrument.  This Agreement may be executed by facsimile or PDF electronic mail signature, and all such signatures shall be effective as originals.
+ 
+Section 9.                                          Successors and Assigns.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted pursuant to the Credit Agreement.
+ 
+Section 10.                                   Invalidity.  In the event that any one or more of the provisions contained in this Agreement shall for any reason be held invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect any other provision of this Agreement.
+ 
+Section 11.                                   Governing Law.  This Agreement shall be deemed to be a contract made under and shall be governed by and construed in accordance with the laws of the State of Texas.
+ 
+Section 12.                                   Entire Agreement. THIS AGREEMENT, THE CREDIT AGREEMENT AS AMENDED BY THIS AGREEMENT, THE NOTES, AND THE OTHER LOAN DOCUMENTS CONSTITUTE THE ENTIRE UNDERSTANDING AMONG THE PARTIES HERETO WITH RESPECT TO THE SUBJECT MATTER HEREOF AND SUPERSEDE ANY PRIOR AGREEMENTS, WRITTEN OR ORAL, WITH RESPECT THERETO.
+ 
+THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+ 
+[SIGNATURES BEGIN ON NEXT PAGE]
+ 
+4
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their respective officers thereunto duly authorized as of the day and year first above written.
+ 
+
+
+
+BORROWER:    
+
+JONES ENERGY HOLDINGS, LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Michael McConnell       
+
+
+     
+
+     
+
+Michael McConnell       
+
+
+     
+
+     
+
+President       
+
+
+     
+
+     
+
+        
+
+
+GUARANTORS:    
+
+JONES ENERGY, LLC       
+
+
+     
+
+NOSLEY ASSETS, LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+Each by:     
+
+/s/ Michael McConnell       
+
+
+     
+
+     
+
+Michael McConnell       
+
+
+     
+
+     
+
+President       
+
+
+
+
+    
+ 
+Signature Page to
+Borrowing Base Increase Agreement
+(Jones Energy Holdings, LLC)
+ 
+
+
+
+
+
+ 
+
+
+
+ADMINISTRATIVE AGENT/    
+
+        
+
+
+LENDER:    
+
+        
+
+
+     
+
+WELLS FARGO BANK, N.A.,       
+
+
+     
+
+as the Administrative Agent, a Lender and an   Assignor       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Paul Squires       
+
+
+     
+
+     
+
+Paul Squires       
+
+
+     
+
+     
+
+Managing Director         
+ 
+Signature Page to
+Borrowing Base Increase Agreement
+(Jones Energy Holdings, LLC)
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+CAPITAL ONE, NATIONAL ASSOCIATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Nancy Mak       
+
+
+     
+
+Name:     
+
+Nancy Mak       
+
+
+     
+
+Title:     
+
+Senior Vice President         
+ 
+Signature Page to
+Borrowing Base Increase Agreement
+(Jones Energy Holdings, LLC)
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+UNION BANK, N.A.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Haylee Dallas       
+
+
+     
+
+Name:     
+
+Haylee Dallas       
+
+
+     
+
+Title:     
+
+Vice President         
+ 
+Signature Page to
+Borrowing Base Increase Agreement
+(Jones Energy Holdings, LLC)
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+CREDIT AGRICOLE CORPORATE AND       
+
+
+     
+
+INVESTMENT BANK       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Michael D. Willis       
+
+
+     
+
+Name:    
+
+Michael   D. Willis       
+
+
+     
+
+Title:     
+
+Managing Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Dennis E. Petito       
+
+
+     
+
+Name:    
+
+Dennis   E. Petito       
+
+
+     
+
+Title:     
+
+Managing Director         
+ 
+Signature Page to
+Borrowing Base Increase Agreement
+(Jones Energy Holdings, LLC)
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+JPMORGAN CHASE BANK, N.A.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Ryan Aman       
+
+
+     
+
+Name:     
+
+Ryan Aman       
+
+
+     
+
+Title:     
+
+Authorized Officer         
+ 
+Signature Page to
+Borrowing Base Increase Agreement
+(Jones Energy Holdings, LLC)
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+TORONTO DOMINION (NEW YORK) LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Debbi L. Brito       
+
+
+     
+
+Name:    
+
+Debbi L. Brito       
+
+
+     
+
+Title:     
+
+Authorized Signatory         
+ 
+Signature Page to
+Borrowing Base Increase Agreement
+(Jones Energy Holdings, LLC)
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+COMERICA BANK       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ William Robinson       
+
+
+     
+
+Name:    
+
+William Robinson       
+
+
+     
+
+Title:     
+
+Vice President         
+ 
+Signature Page to
+Borrowing Base Increase Agreement
+(Jones Energy Holdings, LLC)
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+SUNTRUST BANK       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Shannon Juhan       
+
+
+     
+
+Name:    
+
+Shannon Juhan       
+
+
+     
+
+Title:     
+
+Vice President         
+ 
+Signature Page to
+Borrowing Base Increase Agreement
+(Jones Energy Holdings, LLC)
+ 
+
+
+
+
+
+
+ 
+ANNEX A
+BORROWING BASE AS OF DECEMBER 18, 2013*
+ 
+
+
+
+Name of Lender    
+
+     
+
+Applicable    Percentage    
+
+     
+
+Applicable Percentage of the    Borrowing Base    
+
+        
+
+
+Wells Fargo Bank, N.A.    
+
+     
+
+19.38776    
+
+%    
+
+$    
+
+111,479,591.84    
+
+        
+
+
+Union Bank, N.A.    
+
+     
+
+13.26531    
+
+%    
+
+$    
+
+76,275,510.20    
+
+        
+
+
+Credit Agricole Corporate   and Investment Bank    
+
+     
+
+13.26531    
+
+%    
+
+$    
+
+76,275,510.20    
+
+        
+
+
+Capital One, National   Association    
+
+     
+
+13.26531    
+
+%    
+
+$    
+
+76,275,510.20    
+
+        
+
+
+JPMorgan Chase Bank, N.A.    
+
+     
+
+13.26531    
+
+%    
+
+$    
+
+76,275,510.20    
+
+        
+
+
+Toronto Dominion (New   York) LLC    
+
+     
+
+9.18367    
+
+%    
+
+$    
+
+52,806,122.45    
+
+        
+
+
+Comerica Bank    
+
+     
+
+9.18367    
+
+%    
+
+$    
+
+52,806,122.45    
+
+        
+
+
+SunTrust Bank    
+
+     
+
+9.18367    
+
+%    
+
+$    
+
+52,806,122.45    
+
+        
+
+
+TOTAL    
+
+     
+
+100.000000000    
+
+%    
+
+$    
+
+575,000,000.00    
+
+          
+ 
+
+*Borrowing Base is subject to redetermination pursuant to the terms of the Credit Agreement, as amended.
+ 
+Annex A
+ 
+
+
+
+
+
+
+
+
+

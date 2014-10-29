@@ -1,0 +1,387 @@
+
+EX-10.4
+5
+v239363_ex10-4.htm
+EXHIBIT 10.4
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+Exhibit 10.4
+
+
+
+
+RESTRICTED STOCK UNIT AGREEMENT
+
+
+
+
+VOYAGER OIL & GAS, INC.
+
+2011 EQUITY INCENTIVE PLAN
+
+
+
+
+THIS AGREEMENT, made effective as of this              day of                             , 20___, by and between Voyager Oil & Gas, Inc., a Montana corporation (the “ Company”), and _____________________ (“Participant”).
+
+
+
+
+WITNESSETH:
+
+
+
+
+WHEREAS, Participant on the date hereof is an Employee, Director of, or Consultant to the Company or one of its Subsidiaries; and
+
+ 
+
+WHEREAS, the Company wishes to grant a restricted stock unit award to Participant for shares of the Company’s Common Stock pursuant to the Company’s 2011 Equity Incentive Plan (the “Plan”); and
+
+
+
+
+WHEREAS, the Administrator of the Plan has authorized the grant of a restricted stock unit award to Participant;
+
+
+
+
+NOW, THEREFORE, in consideration of the premises and of the mutual covenants herein contained, the parties hereto agree as follows:
+
+ 
+
+1.           Grant of Restricted Stock Unit Award; Term.  The Company hereby grants to Participant on the date set forth above a restricted stock unit award (the “Award”) for  ________ restricted stock units on the terms and conditions set forth herein.  Each restricted stock unit shall entitle the Participant to receive either one share of the Company’s Common Stock or a cash payment in accordance with Paragraph 3 below.
+
+
+
+
+2.           Vesting of Restricted Stock Units.
+
+
+
+
+a.           General. The restricted stock units subject to this Award shall vest according to the following schedule:
+
+
+
+
+
+
+
+
+Specified Date or Achievement
+
+  
+
+Number of Units
+
+  
+
+
+(each, a “Vesting Time”)
+
+  
+
+that Vest
+
+  
+
+  
+  
+  
+  
+
+
+[Exact time/procedures for certifying achievement should be determined when Award is approved and specified in this Section]
+
+  
+
+[To be completed]
+
+  
+
+
+
+ 
+
+
+  
+
+
+
+1
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+b.           Termination of Relationship.  If Participant ceases to be [an Employee] [a Consultant] [a Director] of the Company or any Subsidiary at any time during the term of the Award, for any reason, this Award shall terminate and all restricted stock units subject to this Award that have not vested shall be forfeited by Participant.
+
+ 
+
+3.           Issuance of Shares or Payment.  Upon each Vesting Time, the Company shall cause to be issued and delivered to Participant a stock certificate (or, upon request and if permitted in the Administrator’s discretion, an entry to be made in the books of the Company or its designated agent) representing that number of shares of Common Stock which is equivalent to the number of restricted stock units that have vested, less any shares withheld for payment of taxes as provided in Section 4(e) below, and shall deliver such certificate to Participant.  Until the Vesting Time, Participant shall not be entitled to vote the shares of Common Stock represented by such restricted stock units, shall not be entitled to receive dividends attributable to such shares of Common Stock, and shall not have any other rights as a shareholder with respect to such shares.
+
+ 
+
+Alternatively, the Company may, in its sole discretion, pay Participant a lump sum payment, in cash, equal to the Fair Market Value of that number of shares of Common Stock which is equivalent to the number of restricted stock units that have vested, subject to the withholding provisions of Section 4(f) below.  Such Fair Market Value shall be determined as of each Vesting Time.  If the Company makes such cash payment, the Participant shall not be entitled to vote the shares of Common Stock represented by such restricted stock units, shall not be entitled to receive dividends attributable to such shares of Common Stock, and shall not have any other rights as a shareholder with respect to such shares, whether before or after the Vesting Time.
+
+ 
+
+The Company will issue shares of Common Stock or make a cash payment pursuant to this Award as soon as practicable following the applicable Vesting Time, but in no event beyond 2 ½ months after the end of the calendar year in which the Vesting Time occurs.
+
+ 
+
+4.           General Provisions.
+
+ 
+
+a.           Employment or Other Relationship.  This Agreement shall not confer on Participant any right with respect to continuance of employment or any other relationship by the Company or any of its Affiliates, nor will it interfere in any way with the right of the Company to terminate such employment or relationship.  Nothing in this Agreement shall be construed as creating an employment or service contract for any specified term between Participant and the Company or any Affiliate.
+
+ 
+
+b.           280G Limitations.  Notwithstanding anything in the Plan, this Agreement or in any other agreement, plan, contract or understanding entered into from time to time between Participant and the Company or any of its Subsidiaries to the contrary (except an agreement that expressly modifies or excludes the application of this Paragraph 4(b)), the vesting of this Award shall not be accelerated in connection with a Change of Control to the extent that such acceleration, taking into account all other rights, payments and benefits to which Participant is entitled under any other plan or agreement, would  constitute a "parachute payment" or an "excess parachute payment" for purposes of Code Sections 280G and 4999, or any successor provisions, and the regulations issued thereunder; provided, however, that the Administrator, in its sole discretion and in accordance with applicable law, may modify or exclude the application of this Paragraph 4(b).
+
+
+
+
+  
+
+
+
+2
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+c.           Securities Law Compliance.  Participant shall not transfer or otherwise dispose of the shares of Common Stock received pursuant to this Award until such time as the Company and its counsel shall have determined that such transfer or other disposition will not violate any state or federal securities laws.  Participant may be required by the Company, as a condition of the effectiveness of this Award, to give any written assurances that are necessary or desirable in the opinion of the Company and its counsel to ensure the issuance complies with applicable securities laws, including that all Common Stock subject to this Award shall be held, until such time that such Common Stock is registered and freely tradable under applicable state and federal securities laws, for Participant’s own account without a view to any further distribution thereof; that the certificates (or, if permitted, book entries) for such shares shall bear an appropriate legend or notation to that effect; and that such shares will be not transferred or disposed of except in compliance with applicable state and federal securities laws.
+
+ 
+
+d.           Mergers, Recapitalizations, Stock Splits, Etc. Except as otherwise specifically provided in any employment, change of control, severance or similar agreement executed by Participant and the Company, pursuant and subject to Section 14 of the Plan, certain changes in the number or character of the shares of Common Stock of the Company (through merger, consolidation, exchange, reorganization, divestiture (including a spin-off), liquidation, recapitalization, stock split, stock dividend or otherwise) shall result in an adjustment, reduction or enlargement, as appropriate, in Participant’s rights with respect to any unvested restricted stock units subject to this Award (i.e., Participant shall have such “anti-dilution” rights under the Award with respect to such events, but shall not have “preemptive ” rights).
+
+ 
+
+e.           Shares Reserved.  The Company shall at all times during the term of this Agreement reserve and keep available such number of shares as will be sufficient to satisfy the requirements of this Agreement.
+
+ 
+
+f.           Withholding Taxes.  To permit the Company to comply with all applicable federal and state income tax laws or regulations, the Company may take such action as it deems appropriate to ensure that, if necessary, all applicable federal and state payroll, income or other taxes attributable to this Award are withheld from any amounts payable by the Company to Participant.  If the Company is unable to withhold such federal and state taxes, for whatever reason, the Participant hereby agrees to pay to the Company an amount equal to the amount the Company would otherwise be required to withhold under federal or state law prior to the issuance of any certificates (or, if permitted, book entries) for the shares of Common Stock subject to this Award.  Subject to such rules as the Administrator may adopt, the Administrator may, in its sole discretion, permit Participant to satisfy such withholding tax obligations, in whole or in part, by delivering shares of the Company’s Common Stock, including shares of Common Stock received pursuant to this Award, having a Fair Market Value, as of the date the amount of tax to be withheld is determined under applicable tax law, equal to the statutory minimum amount required to be withheld for tax purposes.  In no event may Participant deliver shares having a Fair Market Value in excess of such statutory minimum required tax withholding.   Participant’s election to deliver shares or to have shares withheld for this purpose shall be made on or before the date that the amount of tax to be withheld is determined under applicable tax law, and shall be irrevocable as of such date if approved by the Administrator.  Such election shall comply with such rules as the Administrator may adopt to assure compliance with Rule 16b-3, if applicable.
+
+
+
+
+  
+
+
+
+3
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+g.           Nontransferability.  No portion of this Award that has not vested may be assigned or transferred, in whole or in part, other than by will or by the laws of descent and distribution.
+
+ 
+
+h.           2011 Equity Incentive Plan .  The Award evidenced by this Agreement is granted pursuant to the Plan, a copy of which Plan has been made available to Participant and is hereby incorporated into this Agreement.  This Agreement is subject to and in all respects limited and conditioned as provided in the Plan.  All capitalized terms in this Agreement not defined herein shall have the meanings ascribed to them in the Plan.  The Plan governs this Agreement and, in the event of any questions as to the construction of this Agreement or in the event of a conflict between the Plan and this Agreement, the Plan shall govern, except as the Plan otherwise provides.
+
+ 
+
+i.           Lockup Period Limitation.  Participant agrees that in the event the Company advises Participant that it plans an underwritten public offering of its Common Stock in compliance with the Securities Act of 1933, as amended, Participant will execute any lock-up agreement the Company and the underwriter(s) deem necessary or appropriate, in their sole discretion, in connection with such public offering.
+
+ 
+
+j.           Blue Sky Limitation.  Notwithstanding anything in this Agreement to the contrary, in the event the Company makes any public offering of its securities and determines, in its sole discretion, that it is necessary to reduce the number of issued but unvested restricted stock units so as to comply with any state securities or Blue Sky law limitations with respect thereto, the Board of Directors of the Company shall accelerate the vesting of this restricted stock unit award, provided that the Company gives Participant 15 days’ prior written notice of such acceleration.  Notice shall be deemed given when delivered personally or when deposited in the United States mail, first class postage prepaid and addressed to Participant at the address of Participant on file with the Company.
+
+ 
+
+k.           Affiliates.  Participant agrees that, if Participant is an “affiliate” of the Company or any Affiliate (as defined in applicable legal and accounting principles) at the time of a Change of Control (as defined in Section 1(e) of the Plan), Participant will comply with all requirements of Rule 145 of the Securities Act of 1933, as amended, and the requirements of such other applicable legal or accounting principles, and will execute any documents necessary to ensure such compliance.
+
+
+ 
+
+
+
+  
+
+
+
+4
+
+
+
+
+
+
+
+  
+
+
+
+l.           Stock Legend.  The Administrator may require that the certificates for any shares of Common Stock issued to Participant (or, in the case of death, Participant’s successors) under this Agreement shall bear an appropriate legend to reflect the restrictions of Paragraph 4(c) and Paragraphs 4(i) through 4(k) of this Agreement; provided, however, that failure to so endorse any of such certificates shall not render invalid or inapplicable Paragraph 4(c) or Paragraphs 4(i) through 4(k).
+
+ 
+
+m.           Scope of Agreement.  This Agreement shall bind and inure to the benefit of the Company and its successors and assigns and Participant and any successor or successors of Participant permitted by this Agreement.  This Award is expressly subject to all terms and conditions contained in the Plan and in this Agreement, and Participant’s failure to execute this Agreement shall not relieve Participant from complying with such terms and conditions.
+
+ 
+
+n.           Choice of Law.  The law of the state of Montana shall govern all questions concerning the construction, validity, and interpretation of this Plan, without regard to that state’s conflict of laws rules.
+
+ 
+
+o.           Severability.  In the event that any provision of this Plan shall be held illegal or invalid for any reason, such illegality or invalidity shall not affect the remaining provisions of this Plan, and the Plan shall be construed and enforced as if the illegal or invalid provision had not been included.
+
+ 
+
+p.           Arbitration.  Any dispute arising out of or relating to this Agreement or the alleged breach of it, or the making of this Agreement, including claims of fraud in the inducement, shall be discussed between the disputing parties in a good faith effort to arrive at a mutual settlement of any such controversy.  If, notwithstanding, such dispute cannot be resolved, such dispute shall be settled by binding arbitration.  Judgment upon the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.  The arbitrator shall be a retired state or federal judge or an attorney who has practiced securities or business litigation for at least 10 years.  If the parties cannot agree on an arbitrator within 20 days, any party may request  that the chief judge of the District Court of Yellowstone County, Montana, select an arbitrator.  Arbitration will be conducted pursuant to the provisions of this Agreement, and the commercial arbitration rules of the American Arbitration Association, unless such rules are inconsistent with the provisions of this Agreement.  Limited civil discovery shall be permitted for the production of documents and taking of depositions.  Unresolved discovery disputes may be brought to the attention of the arbitrator who may dispose of such dispute. The arbitrator shall have the authority to award any remedy or relief that a court of this state could order or grant; provided, however, that punitive or exemplary damages shall not be awarded.  The arbitrator may award to the prevailing party, if any, as determined by the arbitrator, all of its costs and fees, including the arbitrator’s fees, administrative fees, travel expenses, out-of-pocket expenses and reasonable attorneys’ fees.  Unless otherwise agreed by the parties, the place of any arbitration proceedings shall be Yellowstone County, Montana.
+
+ 
+
+***Signature Page Follows***
+
+
+
+
+  
+
+
+
+5
+
+
+
+
+
+
+
+  
+
+
+
+
+ACCORDINGLY, the parties hereto have caused this Agreement to be executed on the day and year first above written.
+
+
+
+
+
+
+
+  
+
+Voyager Oil & Gas, Inc.
+
+
+  
+  
+  
+
+  
+
+By:
+
+
+  
+
+
+  
+
+
+  
+  
+
+Its:
+
+
+  
+
+
+  
+
+
+ 
+ 
+ 
+
+  
+
+  
+
+
+  
+
+
+  
+
+Participant
+
+  
+
+
+
+
+
+
+[Signature Page to Restricted Stock Unit Agreement]
+
+ 
+
+
+
+  
+
+
+
+6
+
+
+
+
+
+
+
+  
+
+
+
+
+
+

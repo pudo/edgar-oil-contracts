@@ -1,0 +1,1067 @@
+
+EX-10.1
+2
+d761940dex101.htm
+EX-10.1
+
+
+EX-10.1
+
+ 
+
+ Exhibit 10.1 
+DEVON ENERGY CORPORATION 
+NON-QUALIFIED DEFERRED COMPENSATION PLAN 
+Amended and Restated Effective as of April 15, 2014 
+
+
+
+
+ TABLE OF CONTENTS 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  
+Page
+ 
+
+
+
+ ARTICLE I ESTABLISHMENT AND PURPOSE
+  
+ 
+1
+  
+
+
+
+
+
+ 1.1
+ 
+Establishment
+  
+ 
+1
+  
+
+ 1.2
+ 
+Purpose
+  
+ 
+1
+  
+
+ 1.3
+ 
+ERISA Status
+  
+ 
+1
+  
+
+
+
+
+ ARTICLE II DEFINITIONS
+  
+ 
+1
+  
+
+
+
+
+
+ 2.1
+ 
+Definitions
+  
+ 
+1
+  
+
+ 2.2
+ 
+Construction
+  
+ 
+5
+  
+
+ 2.3
+ 
+Funding
+  
+ 
+5
+  
+
+
+
+
+ ARTICLE III ELIGIBILITY AND PARTICIPATION
+  
+ 
+5
+  
+
+
+
+
+
+ 3.1
+ 
+Eligibility and Participation
+  
+ 
+5
+  
+
+
+
+
+ ARTICLE IV ELECTIVE DEFERRALS
+  
+ 
+5
+  
+
+
+
+
+
+ 4.1
+ 
+Deferrals
+  
+ 
+5
+  
+
+ 4.2
+ 
+Timing of Deferral Election
+  
+ 
+6
+  
+
+ 4.3
+ 
+Election Forms
+  
+ 
+6
+  
+
+ 4.4
+ 
+Hardship Withdrawal Under Qualified Plan
+  
+ 
+7
+  
+
+
+
+
+ ARTICLE V SUPPLEMENTAL COMPANY CONTRIBUTIONS
+  
+ 
+7
+  
+
+
+
+
+
+ 5.1
+ 
+Supplemental Company Contributions
+  
+ 
+7
+  
+
+
+
+
+ ARTICLE VI PAYMENT OF BENEFITS
+  
+ 
+8
+  
+
+
+
+
+
+ 6.1
+ 
+Payment Events
+  
+ 
+8
+  
+
+ 6.2
+ 
+Method of Payment Upon Separation from Service
+  
+ 
+8
+  
+
+ 6.3
+ 
+Method of Payment Upon a Change of Control Payment Event
+  
+ 
+8
+  
+
+ 6.4
+ 
+Method of Payment Upon Death
+  
+ 
+9
+  
+
+ 6.5
+ 
+Payment Upon Scheduled In-Service Withdrawal
+  
+ 
+9
+  
+
+ 6.6
+ 
+Payment to Specified Employees Upon Separation from Service
+  
+ 
+9
+  
+
+ 6.7
+ 
+Changes in Method of Payment
+  
+ 
+10
+  
+
+ 6.8
+ 
+Beneficiary Designations
+  
+ 
+10
+  
+
+ 6.9
+ 
+Small Account Balances
+  
+ 
+10
+  
+
+ 6.10
+ 
+Transition Exceptions
+  
+ 
+10
+  
+
+
+
+
+ ARTICLE VII ACCOUNTS AND INVESTMENT
+  
+ 
+10
+  
+
+
+
+
+
+ 7.1
+ 
+Participant Accounts
+  
+ 
+10
+  
+
+ 7.2
+ 
+Adjustment of Accounts
+  
+ 
+11
+  
+
+ 7.3
+ 
+Investment of Account
+  
+ 
+11
+  
+
+ 7.4
+ 
+Vesting
+  
+ 
+11
+  
+
+ 7.5
+ 
+Account Statements
+  
+ 
+12
+  
+
+
+
+
+ ARTICLE VIII ADMINISTRATION
+  
+ 
+12
+  
+
+
+
+
+
+ 8.1
+ 
+Administration
+  
+ 
+12
+  
+
+ 8.2
+ 
+Indemnification and Exculpation
+  
+ 
+12
+  
+   -i- 
+
+
+
+
+
+
+ TABLE OF CONTENTS 
+(continued)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  
+Page
+ 
+
+
+
+ 8.3
+ 
+Rules of Conduct
+  
+ 
+12
+  
+
+ 8.4
+ 
+Legal, Accounting, Clerical and Other Services
+  
+ 
+12
+  
+
+ 8.5
+ 
+Records of Administration
+  
+ 
+12
+  
+
+ 8.6
+ 
+Expenses
+  
+ 
+12
+  
+
+ 8.7
+ 
+Liability
+  
+ 
+12
+  
+
+ 8.8
+ 
+Claims Review Procedures
+  
+ 
+13
+  
+
+ 8.9
+ 
+Finality of Determinations; Exhaustion of Remedies
+  
+ 
+14
+  
+
+ 8.10
+ 
+Effect of Committee Action
+  
+ 
+14
+  
+
+
+
+
+ ARTICLE IX GENERAL PROVISIONS
+  
+ 
+15
+  
+
+
+
+
+
+ 9.1
+ 
+Effect on Other Plans
+  
+ 
+15
+  
+
+ 9.2
+ 
+Conditions of Employment Not Affected by Plan
+  
+ 
+15
+  
+
+ 9.3
+ 
+Restrictions on Alienation of Benefits
+  
+ 
+15
+  
+
+ 9.4
+ 
+Domestic Relations Orders
+  
+ 
+15
+  
+
+ 9.5
+ 
+Information Required of Participants
+  
+ 
+15
+  
+
+ 9.6
+ 
+Tax Consequences Not Guaranteed
+  
+ 
+16
+  
+
+ 9.7
+ 
+Benefits Payable to Incompetents
+  
+ 
+16
+  
+
+ 9.8
+ 
+Severability
+  
+ 
+16
+  
+
+ 9.9
+ 
+Compliance with Section 409A
+  
+ 
+16
+  
+
+ 9.10
+ 
+Tax Withholding
+  
+ 
+16
+  
+
+
+
+
+ ARTICLE X AMENDMENT AND TERMINATION
+  
+ 
+16
+  
+
+
+
+
+
+ 10.1
+ 
+Amendment and/or Termination
+  
+ 
+16
+  
+
+
+
+
+ ARTICLE XI MISCELLANEOUS PROVISIONS
+  
+ 
+17
+  
+
+
+
+
+
+ 11.1
+ 
+Articles and Section Titles and Headings
+  
+ 
+17
+  
+
+ 11.2
+ 
+Joint Obligations
+  
+ 
+17
+  
+
+ 11.3
+ 
+Governing Law
+  
+ 
+17
+  
+
+   -ii- 
+
+
+
+
+
+ DEVON ENERGY CORPORATION 
+NON-QUALIFIED DEFERRED COMPENSATION PLAN 
+ARTICLE I  ESTABLISHMENT
+AND PURPOSE  1.1 Establishment. Devon Energy Corporation, a Delaware corporation (Company), established the
+Devon Energy Corporation Non-Qualified Deferred Compensation Plan effective October 1, 2001 (the Plan). The Company hereby amends and restates the Plan effective April 15, 2014 (the Effective Date).
+This amendment and restatement only applies to the amounts deferred under the Plan on or after January 1, 2005, and to amounts deferred prior to January 1, 2005 that were not vested as of December 31, 2004. Amounts deferred under the
+Plan prior to January 1, 2005 that were vested as of December 31, 2004 (the Grandfathered Amounts) shall be subject to the provisions of the Plan as in effect on October 3, 2004. It is intended that the
+Grandfathered Amounts are to remain exempt from the requirements of Section 409A of the Code.  1.2 Purpose. The Plan shall
+provide Eligible Employees the ability to defer payment of Base Salary and Bonus. The Plan is also intended to provide the amount of the benefit which could otherwise be earned under the Devon Energy Corporation Incentive Savings Plan (the
+Qualified Plan) but which cannot be contributed due to the limitations imposed by (i) Section 401(a)(17) of the Code, which limits the annual compensation that may be taken into account in computing benefits under plans
+qualified under Sections 401(a) and 501(a) of the Code and (ii) Sections 401(k) and 402(g) of the Code which limit benefits that may be contributed by the Company as a matching contribution under Section 401(m) of the Code
+(collectively referred to as the IRS Limitations).  1.3 ERISA Status. The Plan is intended to qualify for the
+exemptions provided under Title I of ERISA for plans that are not tax-qualified and that are maintained primarily to provide deferred compensation for a select group of management or highly compensated employees as defined in Section 201(2) of
+ERISA.  ARTICLE II 
+DEFINITIONS  2.1
+Definitions. For purposes of this Plan, the following definitions shall apply:  (a) Account means the
+recordkeeping accounts maintained by the Company to record the payment obligation of the Company to a Participant as determined under the terms of this Plan. The Company may maintain an Account to record the total obligation to the Participant under
+this Plan and component accounts to reflect amounts payable at different times and in different forms. Reference to an Account means any such Account established by the Company as the context requires. 
+(b) Affiliate means a corporation, trade or business that, together with the Company, is treated as a single employer under
+Section 414(b) or (c) of the Code. 
+
+
+
+
+ (c) Applicable Contribution Percentage means the maximum matching contribution
+percentage the Participant is eligible to receive under the terms of the Qualified Plan for the Plan Year.  (d) Base
+Salary means the Participants annualized gross rate of base salary paid before any deductions of any kind whatsoever.  (e)
+Beneficiary means the person, persons, trust, or other entity designated by a Participant, on the beneficiary designation form adopted by the Committee, to receive benefits, if any, under this Plan at such Participants death
+pursuant to Section 6.4.  (f) Board means the Board of Directors of the Company. 
+(g) Bonus means the Participants cash bonus to be earned during each calendar year before any deductions of any kind
+whatsoever.  (h) Change of Control Payment Event shall mean, and shall be deemed to have occurred when, one of the
+events described in paragraphs (i), (ii), (iii), or (iv) below occurs. For the purpose of this subsection (h), the term Company shall mean Devon Energy Corporation and any successor thereto. 
+(i) The acquisition of stock of the Company by any one person, or more than one person acting as a group (as defined in
+§1.409A-3(i)(5)(v)(B) of the Treasury Regulations) (a Person) that, together with stock held by such Person, constitutes more than 50% of either (I) the then outstanding shares of common stock of the Company or (II) the
+combined voting power of the then outstanding voting securities of the Company entitled to vote generally in the election of directors; provided, however, that the following acquisitions shall not constitute a Change of Control Payment Event:
+(A) any acquisition by an underwriter temporarily holding securities pursuant to an offering of such securities; (B) any acquisition by the Company; (C) any acquisition by any employee benefit plan (or related trust) sponsored or
+maintained by the Company or any corporation controlled by the Company. If a Change of Control Payment Event occurs by reason of an acquisition described in this paragraph (i), no additional Change of Control Payment Event shall be deemed to occur
+under this paragraph (i) by reason of subsequent changes in the holdings of such Person (except if the holdings of such Person are reduced to 50% or below and thereafter increase to more than 50%). 
+(ii) During a 12-month period, a majority of the individuals who, as of the Effective Date, constitute the Board (the Incumbent
+Board) are replaced; provided, however, that any individual becoming a director subsequent to the Effective Date whose election, appointment or nomination for election by the Companys shareholders was approved by a vote of at least a
+majority of the directors then comprising the Incumbent Board shall be considered as though such individual were a member of the Incumbent Board, but excluding, for purposes of this definition, any such individual whose initial assumption of office
+occurs as a result of an actual or publicly threatened election contest (as such terms are used in Rule 14a-11 promulgated under the Exchange Act) with respect to the election or removal of directors or other actual or publicly threatened
+solicitation of proxies or consents by or on behalf of a Person other than the Board. 
+   2 
+
+
+
+
+
+ (iii) The date a Person acquires (or has acquired during the 12-month period ending on the date
+of the most recent acquisition by such Person) ownership of stock of the Company possessing 30% or more of the combined voting power of the then outstanding voting securities of the Company; provided that, if a Change of Control Payment Event occurs
+by reason of an acquisition described in this paragraph (iii), no additional Change of Control Payment Event shall be deemed to occur under this paragraph (iii) or paragraph (i) by reason of the acquisition of additional control of the Company by
+the same Person.  (iv) Approval by the shareholders of the Company of the sale or other disposition of all or substantially all of the
+assets of the Company to a Person, provided that, a transfer of the Companys assets shall not be treated as a Change of Control Payment Event if the assets are transferred to: 
+(1) A shareholder of the Company (immediately before the asset transfer) in exchange for or with respect to its stock; 
+(2) An entity, 50% or more of the total value or voting power of which is owned, directly or indirectly, by the Company; 
+(3) A Person that owns, directly or indirectly, 50% or more of the total value or voting power of all the outstanding stock of the Company; or
+ (4) An entity, at least 50% of the total value or voting power of which is owned, directly or indirectly by a Person described in
+subparagraph (3).  Except as otherwise provided in this paragraph (iv), a Persons status is determined immediately after the
+transfer of the assets.  (i) Code means the Internal Revenue Code of 1986, as amended, and any regulations relating
+thereto.  (j) Committee means the Compensation Committee of the Board of Directors of the Company or a committee
+established by the Compensation Committee that has been delegated duties related to the Plan.  (k) Credited Earnings
+means the gains or losses applied to a Participants Account pursuant to Section 7.2.  (l) Deferred Amount means
+the portion of a Participants Base Salary or Bonus which the Participant elects to defer pursuant to Article IV, Deferred Amounts shall be determined by reference to the Plan Year in which the amount was deferred by the Participant. 
+(m) Disabled or Disability means the Participant is unable to engage in any substantial gainful activity
+by reason of any medically determinable physical or mental impairment that can be expected to result in death or last for a continuous period of not less than 12 months. The Committee shall determine whether a Participant is Disabled in accordance
+with Section 409A of the Code. 
+   3 
+
+
+
+
+
+ (n) ERISA means the Employee Retirement Income Security Act of 1974, as
+amended.  (o) Eligible Employee means an employee who (i) is designated by the Committee as belonging to a
+select group of management or highly compensated employees, as such phrase is defined under ERISA; (ii) an executive of the Company or an Affiliate employed at a minimum salary level designated from time to time by the Committee;
+(iii) a resident of the United States; and (iv) paid on the Companys or its Affiliates United States payroll.  (p)
+Employer shall mean the Company and/or any Affiliate that employs a Participant in the Plan.  (q)
+Participant means an Eligible Employee who has Deferred Amounts and/or Supplemental Company Contributions credited to an Account under this Plan. 
+(r) Plan means this Devon Energy Non-Qualified Deferred Compensation Plan, as amended and restated effective as of the
+Effective Date.  (s) Plan-Approved Domestic Relations Order means a domestic relations order as defined in
+Section 414(p)(1)(B) of the Code that meets the requirements established by the Committee.  (t) Plan Year means the
+12-month period beginning on January 1 and ending on December 31.  (u) Qualified Plan means the Devon Energy
+Corporation Incentive Savings Plan or any successor plan thereto.  (v) Separation from Service means termination of
+employment with the Employer under the circumstances described below. Whether a Separation from Service has occurred shall be determined by the Committee in accordance with Section 409A of the Code. 
+Except in the case of a Participant on a bona fide leave of absence as provided below, a Participant is deemed to have incurred a Separation
+from Service if the Employer and the Participant reasonably anticipated that the level of services to be performed by the Participant after a certain date would be permanently reduced to 20% or less of the average services rendered by the
+Participant during the immediately preceding 36-month period (or the total period of employment, if less than 36 months), disregarding periods during which the Participant was on a bona fide leave of absence. 
+A Participant who is absent from work due to military leave, sick leave, or other bona fide leave of absence shall incur a Separation from
+Service on the first date immediately following the later of (i) the six-month anniversary of the commencement of the leave or (ii) the expiration of the Participants right, if any, to reemployment under statute or contract. 
+For purposes of determining whether a Separation from Service has occurred, the Employer means the Employer as defined in Section 2.1(p),
+except that for purposes of determining whether another organization is an Affiliate of the Company, common ownership of at least 50% shall be determinative. 
+   4 
+
+
+
+
+
+ (w) Specified Employee means those employees of the Company who are determined
+by the Committee to be a specified employee in accordance with Section 409A of the Code and the Devon Energy Corporation Specified Employee Policy. 
+(x) Supplemental Company Contribution means the contribution made by the Company for the benefit of a Participant under
+Article V in any Plan Year.  2.2 Construction. Except when otherwise indicated by the context, any masculine terminology when used
+in the Plan shall also include the feminine gender, and the definition of any term in the singular shall also include the plural.  2.3
+Funding. The benefits described in this Plan are contractual obligations of the Employers to pay compensation for services, and shall constitute a liability to the Participants and/or their Beneficiaries in accordance with the terms hereof.
+All amounts paid under this Plan shall be paid in cash from the general assets of the Employers and shall be subject to the general creditors of the Company and the Employer of the Participant. Benefits shall be reflected on the accounting records
+of the Employers but shall not be construed to create, or require the creation of, a trust, custodial or escrow account. No special or separate fund need be established and no segregation of assets need be made to assure the payment of such
+benefits. No Participant shall have any right, title or interest whatever in or to any investment reserves, accounts, funds or assets that the Employer may purchase, establish or accumulate to aid in providing the benefits described in this Plan.
+Nothing contained in this Plan, and no action taken pursuant to its provisions, shall create or be construed to create a trust or a fiduciary relationship of any kind between an Employer or the Company and a Participant or any other person;
+provided, however, that the Company may establish and/or continue a grantor trust as defined in Section 671 of the Code to provide a source of funding for amounts deferred hereunder. Neither a Participant nor the Beneficiary of a Participant
+shall acquire any interest hereunder greater than that of an unsecured creditor of the Company or any Affiliate who is the Employer of such Participant. 
+ARTICLE III  ELIGIBILITY
+AND PARTICIPATION  3.1 Eligibility and Participation. The Committee shall provide employees selected for participation in this
+Plan with notice of the employees selection as an Eligible Employee under this Plan for the applicable Plan Year and permit such Eligible Employee the opportunity to make an election pursuant to Article IV. Such notice may be given at such
+time and in such manner as the Committee may determine. All determinations as to whether an employee is eligible to make deferral elections shall be made by the Committee. The determinations of the Committee shall be final and binding on all
+employees.  ARTICLE IV 
+ELECTIVE DEFERRALS  4.1
+Deferrals. Elective deferrals may be made with respect to the following sources in accordance with the provisions of Article IV: 
+   5 
+
+
+
+
+
+ (a) Bonus. An Eligible Employee may elect to defer up to 100% of the Eligible
+Employees Bonus as long as such deferral does not reduce such Eligible Employees Bonus below an amount necessary to satisfy applicable tax withholding obligations, benefit plan contributions, and other withholding obligations. The amount
+deferred shall be specified as a percentage or dollar amount of any Bonus which may be earned by an Eligible Employee in the applicable Plan Year 
+(b) Base Salary. An Eligible Employee may elect to defer up to 50% of the Eligible Employees Base Salary as long as such deferral
+does not reduce such Eligible Employees Base Salary below an amount necessary to satisfy applicable tax withholding obligations, benefit plan contributions, and other withholding obligations. The amount deferred shall be specified as a
+percentage or dollar amount of any Base Salary which may be earned by an Eligible Employee in the applicable Plan Year.  Notwithstanding
+the foregoing, the deferral election of any Eligible Employee who initially becomes eligible to participate in the Plan during a Plan Year pursuant to Section 4.2(b) shall apply only to Base Salary and any Bonus which may be earned by such
+Eligible Employee with respect to services performed after the Eligible Employee files an irrevocable deferral election form and it is effective. In this regard, an Eligible Employees Bonus deferral election shall be prorated to the extent
+necessary to ensure that it applies only to the portion of the Bonus earned for periods after the deferral election is filed and effective. 
+4.2 Timing of Deferral Election. The timing of deferral elections shall be as follows: 
+(a) Except as otherwise provided in subsection (b) with respect to an Eligible Employees initial year of eligibility (if such
+Eligible Employee is designated by the Committee as initially being eligible to commence participation in the Plan during such initial year of eligibility), an Eligible Employee must file a deferral election form for each Plan Year and the Eligible
+Employees election to defer Base Salary or Bonus shall apply to Base Salary or Bonus earned for services rendered during the Plan Year that commences immediately following the Plan Year in which the election is made and is irrevocable except
+as otherwise provided herein. Irrevocable elections to defer Base Salary or Bonus must be completed and filed on or before December 31 of the year immediately preceding the Plan Year in which the services related to the compensation to be
+deferred are rendered.  (b) For any Eligible Employee who is designated by the Committee as initially being eligible to commence
+participation in the Plan during a particular Plan Year, the Eligible Employee must file an irrevocable deferral election to defer Base Salary or Bonus earned with respect to services performed after the date on which the deferral election is filed
+and effective except as otherwise provided herein. A deferral election may not be effective any earlier than the date it is filed. Irrevocable elections to defer Base Salary or Bonus for the remainder of the Plan Year of initial eligibility must be
+completed and filed within 30 days after the date on which the Eligible Employee becomes initially eligible to participate in the Plan and shall apply to Base Salary or Bonus only as described in Section 4.1. 
+4.3 Election Forms. All elections to defer shall be made on a deferral election form. In addition to the deferral election form, a
+Participant may be required by the Committee to complete additional forms such that they have adequate information concerning the Deferred Amount, timing of distributions and the form of payment, if applicable. 
+   6 
+
+
+
+
+
+ 4.4 Hardship Withdrawal Under Qualified Plan. If a Participant makes a hardship
+withdrawal under the Qualified Plan and such Participant is prohibited (including, without limitation, temporarily suspended) from making future contributions under such Qualified Plan (and this Plan) by the terms of such qualified retirement
+plan, then, deferrals by the Participant under this Plan shall be automatically cancelled for the remainder of the Plan Year.  ARTICLE V
+ SUPPLEMENTAL COMPANY CONTRIBUTIONS 
+5.1 Supplemental Company Contributions. For each calendar quarter of the Plan Year (i.e., the quarters ending March 31, June 30,
+September 30 and December 31), the Company will credit to the Account of each Participant a Supplemental Company Contribution in an amount equal to (a) minus (b) minus (c) below: 
+(a) The Applicable Contribution Percentage multiplied by the Participants Base Salary and Bonus for the Plan Year up through the
+applicable calendar quarter.  (b) The Applicable Contribution Percentage multiplied by such Participants eligible 401(k)
+compensation for the Plan Year up through the applicable calendar quarter, which, for purposes of this Article V, shall be defined as the Participants Base Salary and Bonus less the Participants Deferred Amount (each for the Plan
+Year up through the applicable calendar quarter) up to the IRS Limitations for the applicable Plan Year.  (c) The Supplemental Company
+Contribution, if any, previously credited to the Account of the Participant for the Plan Year.  Provided, however, that, notwithstanding
+anything in this Section 5.1 to the contrary, the Supplemental Company Contribution cannot exceed the Participants Deferred Amount for the applicable Plan Year; provided further that the Supplemental Company Contribution will only be credited
+to the Account of a Participant for any calendar quarter of the Plan Year if as of the last day of the applicable calendar quarter of the Plan: (i) such Participant has made the maximum deferral of compensation as permitted under Sections 402(g) and
+414(v) of the Code to the Qualified Plan (or, if less, the maximum deferral of compensation as permitted under the terms of the Qualified Plan); (ii) the Company has made the maximum matching contribution to the Qualified Plan as permitted under
+Section 401(m) of the Code and the Qualified Plan and (iii) such Participant is an Eligible Employee.  Notwithstanding the foregoing, for
+the Plan Year beginning January 1, 2013, the Company shall make a Supplemental Company Contribution for the six-month period beginning January 1, 2013 and ending June 30, 2013 (and the Company shall not be required to make a Supplemental Company
+Contribution for the calendar quarter ending March 31, 2013); provided, however, that the Participant otherwise satisfies all requirements set forth in this Section 5.1 and the Participant is an Eligible Employee on June 30, 2013. 
+   7 
+
+
+
+
+
+ Notwithstanding the forgoing, a Participant who is a Transferring Employee (as
+defined below) shall continue to be eligible to receive a Supplemental Company Contribution for the quarter in which he becomes an employee of EnLink Midstream Operating, LP even though such Participant is not an Eligible Employee on the last day of
+such applicable calendar quarter of the Plan Year. For purposes of this Plan (i) a Transferring Employee shall mean a Participant whose employment with the Company or any subsidiary is transferred to EnLink Midstream Operating, LP as of the
+Transfer Date, and (ii) the Transfer Date shall mean March 7, 2014, or such later date as of the occurrence of the Closing of the Mergers as defined under the Agreement and Plan of Merger by and among Devon Energy
+Corporation, Devon Gas Services, L.P., Acacia Natural Gas Corp I, Inc., Crosstex Energy, Inc., New Public Rangers, L.L.C., Boomer Merger Sub, Inc. and Rangers Merger Sub, Inc., dated October 21, 2013. 
+ARTICLE VI  PAYMENT OF
+BENEFITS  6.1 Payment Events. Unless otherwise distributed in accordance with the terms of a Scheduled In-Service Withdrawal, a
+Participants Account shall become payable at the time and in the form described in this Article upon the earlier to occur of the following events: (i) a Participants Separation from Service; (ii) a Participants
+Disability; (iii) a Change of Control Payment Event or (iv) the Participants death.  6.2 Method of Payment Upon
+Separation from Service. A Participant must specify on the deferral election form for each Plan Year the method of payment of the portion of Participants Account attributable to such Plan Year. A Participant may designate payment in the
+form of a single lump sum payment or quarterly installment payments payable over a period of one or more years as made available to the Participant on the deferral election form provided for such purpose. Installment payments shall be paid
+quarterly, with the first installment paid within 90 days following the Participants Separation from Service, unless the Participant is a Specified Employee, or in the case of Disability, within 90 days of the date the Participant is Disabled
+and each subsequent installment paid on a quarterly basis until all installment payments have been paid. If the Participant (i) fails to make an effective designation as to the method of payment or (ii) elects to receive payment in the
+form of a lump sum, payment shall be automatically made in the form of a single lump sum payment within 90 days following the Participants Separation from Service, unless the Participant is a Specified Employee, or in the case of Disability,
+within 90 days of the date the Participant was Disabled. In the event the Participant is a Specified Employee, payment shall be postponed for a period of six months following Separation from Service and shall commence within 90 days of the first
+business day of the seventh month following Separation from Service.  6.3 Method of Payment Upon a Change of Control Payment Event.
+Plan Account balances will be paid within 90 days of the occurrence of a Change of Control Payment Event. A Participant may designate payment in the form of a single lump sum payment or quarterly installment payments payable over a period of one or
+more years as made available to the Participant on the deferral election form provided for such purpose, such designation to be made on the election form that is submitted for such Plan Year in accordance with Section 4.2. If the Participant fails
+to make an effective designation as to the method of payment, payment will be made in the form of a lump sum. 
+   8 
+
+
+
+
+
+ 6.4 Method of Payment Upon Death. If a Participant dies with a balance credited to the
+Participants Account, such balance shall be paid to the Participants Beneficiary. If the Participant dies prior to the time of payment of the Account, the then current balance of each of the Participants Account or subaccount shall
+be paid to the Participants Beneficiary in a lump sum commencing within 90 days of the date of Participants death. If payment of Participants Account has commenced as of the date of Participants death, the then current
+balance of each Account or subaccount payable to a Beneficiary shall be paid under the method designated for the payment of such amount by the Participant commencing within 90 days of the date of Participants death. Each Beneficiary of a
+deceased Participant who is eligible to receive payments under this Section shall have the amounts to be paid to such Beneficiary allocated to a subaccount in the name of the Beneficiary under the deceased Participants Account. Such subaccount
+shall be adjusted from time to time as provided in Article VII.  6.5 Payment Upon Scheduled In-Service Withdrawal. A Participant may
+schedule distribution of the Deferred Amounts and any Credited Earning attributable thereto attributable to a particular Plan Year (Scheduled In-Service Withdrawal) at least two years after the Plan Year in which deferrals were
+made. Participants must request a Scheduled In-Service Withdrawal, and a method of payment described in subsection (a) below, on the election form that is submitted in conjunction with the deferral election for such Plan Year. Except as provided in
+Section 6.10 below, if a Participant fails to elect a Scheduled In-Service Withdrawal for that Plan Year, a Participant will not be eligible to obtain a Scheduled In-Service Withdrawal for such Plan Year. 
+(a) The Participant may elect either a lump sum payment or quarterly installment payments payable over a period of one or more years as made
+available to the Participant on the deferral election form provided for such purpose. Payment will be made (or commence in the case of installments) within 30 days of the first business day of January in the year elected. 
+(b) A Participant may postpone payment of a Scheduled In-Service Withdrawal to a date at least five years later than the previously Scheduled
+In-Service Withdrawal date by filing a written request with the Committee at least twelve months prior to the date the Scheduled In-Service Withdrawal is scheduled to begin. Any request to postpone payment of a Scheduled In-Service Withdrawal will
+be irrevocable, except as may be permitted by the Code or applicable guidance promulgated thereunder.  (c) In the event of death,
+Disability, the occurrence of a Change of Control Payment Event or Separation from Service, payment of the Participants Account shall be determined without regard to the otherwise Scheduled In-Service Withdrawal which shall be deemed to be
+cancelled.  6.6 Payment to Specified Employees Upon Separation from Service. In no event shall a Specified Employee receive a
+payment under this Plan following a Separation from Service prior to the first business day of the seventh month following the date of Separation from Service. 
+   9 
+
+
+
+
+
+ 6.7 Changes in Method of Payment. The method of payment may be changed from time to time
+by the Participant, but in no event later than the date that is twelve months prior to the date payment would have otherwise commenced. Any requests to change the method of payment will not take effect for twelve months following the date it is
+received by the Committee and the first payment with respect to such election will be deferred for a period of at least five years from the date such payment would otherwise have commenced. Any request to change the method of payment will be
+irrevocable, except as may be permitted by the Code or applicable guidance promulgated thereunder.  6.8 Beneficiary Designations. A
+Participant shall designate on a beneficiary designation form a Beneficiary who, upon the Participants death, will receive payments that otherwise would have been paid to him under the Plan. All Beneficiary designations shall be in writing.
+Any such designation shall be effective only if and when delivered to the Committee during the lifetime of the Participant. A Participant may change a Beneficiary or Beneficiaries by filing a new beneficiary designation form. The latest beneficiary
+designation form shall apply to the combined Accounts and subaccounts of the Participant. If a Beneficiary of a Participant predeceases the Participant, the designation of such Beneficiary shall be void. If a Beneficiary to whom benefits under the
+Plan remain unpaid dies after the Participant and the Participant failed to specify a contingent Beneficiary on the appropriate beneficiary designation form, the remainder of such death benefit payments shall be paid to such Beneficiarys
+estate. If a Participant fails to designate a Beneficiary with respect to any death benefit payments or if such designation is ineffective, in whole or in part, any payment that otherwise would have been paid to such Participant shall be paid to the
+Participants estate.  6.9 Small Account Balances. If, upon Separation from Service, the value of the Participants
+Account is less than $10,000, the balance of such Account shall be paid in a single lump sum.  6.10 Transition Exceptions. Under the
+transition guidance issued by the Internal Revenue Service under Section 409A of the Code, an exception to the general timing rules shall apply to 2005, 2006, 2007 and 2008 Plan Year Account balances. Participants elections for the 2005,
+2006, 2007 and 2008 Plan Years may be revised with respect to the timing and method of payment; provided, that such revised election (i) if made in the 2007 Plan Year, does not cause amounts that were otherwise payable in 2007 to be paid in a
+subsequent year, and does not provide for amounts payable in a subsequent year to be paid in 2007, and (ii) if made in the 2008 Plan Year, does not cause amounts that were otherwise payable in 2008 to be paid in a subsequent year, and does not
+provide for amounts payable in a subsequent year to be paid in 2008. The Committee will administer this provision to ensure compliance with IRS Notice 2006-79. 
+ARTICLE VII  ACCOUNTS
+AND INVESTMENT  7.1 Participant Accounts. The Committee shall maintain, or cause to be maintained, a bookkeeping Account for
+each Participant for the purpose of accounting for the Participants interest under the Plan. The Committee shall maintain within each Participants Account such subaccounts as may be necessary to identify each separate Deferred Amount,
+Supplemental 
+   10 
+
+
+
+
+
+ 
+Company Contribution and Credited Earnings attributable thereto, by reference to the Plan Year to which each Deferred Amount and Supplemental Company Contribution relates. The combination of the
+subaccounts maintained in the name of a Participant shall comprise the Participants Account.  7.2 Adjustment of Accounts.
+Each Participants Account shall be adjusted to reflect all Deferred Amounts and Supplemental Company Contributions credited to the Participants Account, all positive or negative Credited Earnings credited or debited to the
+Participants Account as provided by Section 7.3, and all benefit payments charged to the Participants Account. A Participants Deferred Amount shall be credited to such Participants Account as of the date on which the amount
+being deferred would have become payable to the Participant absent the election to defer, or on such other date as the Committee specifies, and shall be credited to the applicable subaccount within such Account by reference to the applicable Plan
+Year. Supplemental Company Contributions shall be credited to a Participants Account on such date or dates as the Committee specifies and shall be credited to the applicable subaccount within such Account by reference to the applicable Plan
+Year; provided, however, that under no circumstances shall Supplemental Company Contributions be credited to the Account of a Participant before such Participant has made the maximum deferral of compensation as permitted under Section 402(g) and
+414(v) of the Code to the Qualified Plan (or, if less, the maximum deferral of compensation as permitted under the terms of the Qualified Plan), the Company has made the maximum matching contribution to the Qualified Plan as permitted under Section
+401(m) of the Code and the Qualified Plan, and the Participant has otherwise satisfied the requirements set forth in Section 5.1 to receive a Supplement Company Contribution. Supplemental Company Contributions shall be subject to the vesting
+requirements described in Section 7.4.  7.3 Investment of Account. The Committee will offer Participants a selection of benchmark
+funds as deemed investment alternatives. The benchmark funds offered will be determined in the sole discretion of the Committee. Each Participant may select among the different benchmark funds offered. The deemed investments in benchmark funds are
+only for the purpose of determining the Companys payment obligation under the Plan. Credited Earnings shall be allocated to a Participants Account pursuant to the performance of the benchmark funds selected by the Participant. A
+Participant may, as frequently as daily, modify his election of benchmark funds through a procedure designated by the Committee. Such modification will be in accordance with rules and procedures adopted by the Committee. 
+7.4 Vesting. Subject to the conditions and limitations on payment of benefits under the Plan, a Participant shall always have a fully
+vested and nonforfeitable beneficial interest in the balance standing to the credit of the Participants Account attributable to Deferred Amounts and Credited Earnings attributable to the Deferred Amounts. A Participant shall become vested in
+Supplemental Company Contributions and Credited Earnings thereon as such Participant would be vested pursuant to the terms of the Qualified Plan. For the avoidance of doubt, a Participant who is a Transferring Employee (as defined in
+Section 5.1) shall become fully vested in any unvested Supplemental Company Contributions and Credited Earnings thereon effective as of the Transfer Date (as defined in Section 5.1). 
+   11 
+
+
+
+
+
+ 7.5 Account Statements. The Committee shall provide each Participant with a statement of
+the status of the Participants Account under the Plan. The Committee shall provide such statement annually or at such other times as the Committee may determine. Account statements shall be in the format prescribed by the Committee. 
+ARTICLE VIII 
+ADMINISTRATION  8.1
+Administration. The Plan shall be administered, construed and interpreted by the Committee. The Committee shall have the sole authority and discretion to determine eligibility and to construe the terms of the Plan. The determinations by the
+Committee as to any disputed questions arising under the Plan, including the Eligible Employees who are eligible to be Participants in the Plan and the amounts of their benefits under the Plan, and the construction and interpretation by the
+Committee of any provision of the Plan, shall be final, conclusive and binding upon all persons including Participants, their beneficiaries, the Company, its stockholders and employees and the Employers. The Committee may, in its sole discretion,
+delegate its authority hereunder, including, but not limited to, delegating authority to modify, amend, administer, interpret, construe or vary the Plan, to the extent permitted by applicable law or administrative or regulatory rule, and, to the
+extent the Committee delegates its authority, applicable references herein to the Committee also shall mean the Committees delegate. 
+8.2 Indemnification and Exculpation. The members of the Committee and its agents shall be indemnified and held harmless by the Company
+against and from any and all loss, cost, liability or expense that may be imposed upon or reasonably incurred by them in connection with or resulting from any claim, action, suit or proceeding to which they may be a party or in which they may be
+involved by reason of any action taken or failure to act under this Plan and against and from any and all amounts paid by them in settlement (with the Companys written approval) or paid by them in satisfaction of a judgment in any such action,
+suit or proceeding. The foregoing provisions shall not be applicable to any person if the loss, cost, liability or expense is due to such persons gross negligence or willful misconduct. 
+8.3 Rules of Conduct. The Committee shall adopt such rules for the conduct of its business and the administration of this Plan as it
+considers desirable, provided they do not conflict with the provisions of this Plan.  8.4 Legal, Accounting, Clerical and Other
+Services. The Committee may authorize one or more if its members or any agent to act on its behalf and may contract for legal, accounting, clerical and other services to carry out this Plan. The Company shall pay all expenses of the Committee.
+ 8.5 Records of Administration. The Committee shall keep records reflecting the administration of this Plan which shall be subject
+to audit by the Company.  8.6 Expenses. The expenses of administering the Plan shall be borne by the Company. 
+8.7 Liability. No member of the Board of Directors or of the Committee shall be liable for any act or action, whether of commission or
+omission, taken by any other member, or by any officer, agent, or employee of the Company or of any such body, nor, except in circumstances involving his bad faith, for anything done or omitted to be done by himself. 
+   12 
+
+
+
+
+
+ 8.8 Claims Review Procedures. The following claim procedures shall apply until such time
+as a Change of Control Payment Event has occurred. During the 24-month period following a Change of Control Payment Event, these procedures shall apply only to the extent the claimant requests their application. After the expiration of the 24-month
+period following a Change of Control Payment Event, then, these procedures shall again apply until the occurrence of a subsequent Change of Control Payment Event. 
+(a) Denial of Claim. If a claim for benefits is wholly or partially denied, the claimant shall be given notice in writing of the denial
+within a reasonable time after the receipt of the claim, but not later than 90 days after the receipt of the claim. However, if special circumstances require an extension, written notice of the extension shall be furnished to the claimant before the
+termination of the 90-day period. In no event shall the extension exceed a period of 90 days after the expiration of the initial 90-day period. The notice of the denial shall contain the following information written in a manner that may be
+understood by a claimant:  (i) The specific reasons for the denial; 
+(ii) Specific reference to pertinent Plan provisions on which the denial is based; 
+(iii) A description of any additional material or information necessary for the claimant to perfect his claim and an explanation of why such
+material or information is necessary;  (iv) An explanation that a full and fair review by the Committee of the denial may be requested by
+the claimant or his authorized representative by filing a written request for a review with the Committee within 60 days after the notice of the denial is received; and 
+(v) If a request for review is filed, the claimant or his authorized representative may review pertinent documents and submit issues and
+comments in writing within the 60-day period described in Section 8.8(a)(iv).  (b) Decisions After Review. The decision of the
+Committee with respect to the review of the denial shall be made promptly and in writing, but not later than 60 days after the Committee receives the request for the review. However, if special circumstances require an extension of time, a decision
+shall be rendered not later than 120 days after the receipt of the request for review. A written notice of the extension shall be furnished to the claimant prior to the expiration of the initial 60-day period. The claimant shall be given a copy of
+the decision, which shall state, in a manner calculated to be understood by the claimant, the specific reasons for the decision and specific references to the pertinent Plan provisions on which the decision is based. 
+(c) Other Procedures. Notwithstanding the foregoing, the Committee may, in its discretion, adopt different procedures for different
+claims without being bound by past actions. Any procedures adopted, however, shall be designed to afford a claimant a full and fair review of his claim and shall comply with applicable regulations under ERISA. 
+   13 
+
+
+
+
+
+ 8.9 Finality of Determinations; Exhaustion of Remedies. To the extent permitted by law,
+decisions reached under the claims procedures set forth in Section 8.8 shall be final and binding on all parties. No legal action for benefits under the Plan shall be brought unless and until the claimant has exhausted his remedies under Section
+8.8. In any such legal action, the claimant may only present evidence and theories which the claimant presented during the claims procedure. Any claims which the claimant does not in good faith pursue through the review stage of the procedure shall
+be treated as having been irrevocably waived. Judicial review of a claimants denied claim shall be limited to a determination of whether the denial was arbitrary, capricious or an abuse of discretion based on the evidence and theories the
+claimant presented during the claims procedure. This Section shall have no application during the 24-month period following a Change of Control Payment Event as to a claim which is first asserted or first denied after the Change of Control Payment
+Event and, as to such a claim, the de novo standard of judicial review shall apply. After the expiration of the 24-month period following a Change of Control Payment Event, then, this Section shall again apply until the occurrence of a subsequent
+Change of Control Payment Event.  8.10 Effect of Committee Action. The Plan shall be interpreted by the Committee in accordance with
+the terms of the Plan and their intended meanings. However, the Committee shall have the discretion to make any findings of fact needed in the administration of the Plan, and shall have the discretion to interpret or construe ambiguous, unclear or
+implied (but omitted) terms in any fashion they deem to be appropriate in their sole judgment. Except as stated in Section 8.9, the validity of any such finding of fact, interpretation, construction or decision shall not be given de novo review if
+challenged in court, by arbitration or in any other forum, and shall be upheld unless clearly arbitrary or capricious. To the extent the Committee has been granted discretionary authority under the Plan, the Committees prior exercise of such
+authority shall not obligate it to exercise its authority in a like fashion thereafter. If any Plan provision does not accurately reflect its intended meaning, as demonstrated by consistent interpretations or other evidence of intent, or as
+determined by the Committee in it sole and exclusive judgment, the provision shall be considered ambiguous and shall be interpreted by the Committee and all Plan fiduciaries in a fashion consistent with its intent, as determined by the Committee in
+its sole discretion. The Committee may amend the Plan retroactively to cure any such ambiguity. This Section may not be invoked by any person to require the Plan to be interpreted in a manner which is inconsistent with its interpretation by the
+Committee. All actions taken and all determinations made in good faith by the Committee shall be final and binding upon all persons claiming any interest in or under the Plan. This Section shall not apply to Committee actions or interpretations
+which take place or are made during the 24-month period following a Change of Control Payment Event. After the expiration of the 24-month period following a Change of Control Payment Event, then, this Section shall again apply until the occurrence
+of a subsequent Change of Control Payment Event. 
+   14 
+
+
+
+
+
+ ARTICLE IX 
+GENERAL PROVISIONS  9.1
+Effect on Other Plans. Deferred Amounts shall not be considered as part of a Participants compensation for the purpose of any qualified employee pension plans maintained by the Company or its Affiliates in the Plan Year in which any
+deferral occurs under this Plan, and such amounts will not be considered under the Companys Qualified Plan in the Plan Year in which payment occurs, but may be considered as covered compensation under the Companys qualified defined
+benefit pension plan entitled Retirement Plan for Employees of Devon Energy Corporation if permitted under the terms of such plan. However, such amounts may be taken into account under all other employee benefit plans maintained by the
+Company or its Affiliates in the year in which such amounts would have been payable absent the deferral election; provided, such amounts shall not be taken into account if their inclusion would jeopardize the tax-qualified status of the plan to
+which they relate.  9.2 Conditions of Employment Not Affected by Plan. The establishment and maintenance of the Plan shall not be
+construed as conferring any legal rights upon any Participant to the continuation of employment with the Company, nor shall the Plan interfere with the rights of the Company to discharge any Participant with or without cause. 
+9.3 Restrictions on Alienation of Benefits. No right or benefit under this Plan shall be subject to anticipation, alienation, sale,
+assignment, pledge, encumbrance, or charge, and any attempt to anticipate, alienate, sell, assign, pledge, encumber, or charge the same shall be void. No right or benefit hereunder shall in any manner be liable for or subject to the debts,
+contracts, liabilities, or torts of the person entitled to such benefit. If any Participant or the Participants Beneficiary under this Plan should become bankrupt or attempt to anticipate, alienate, sell, assign, pledge, encumber, or charge
+any right to a benefit hereunder, then, such right or benefit shall cease and terminate. Notwithstanding the foregoing, in the event that all or any portion of the benefit of a Participant was transferred to the former spouse of the Participant
+incident to a divorce prior to January 1, 2013, the Committee shall maintain such amount for the benefit of the former spouse until distributed in the manner required by an order of any court having jurisdiction over the divorce, and the former
+spouse shall be entitled to the same rights as the Participant with respect to such benefit.  9.4 Domestic Relations Orders.
+Domestic relations orders purporting to assign a Participants benefits under the Plan constitute an impermissible alienation of benefits pursuant to Section 9.3 and shall not be honored by the Committee. 
+9.5 Information Required of Participants. Payment of benefits shall begin as of the payment date(s) provided in this Plan and no formal
+claim shall be required therefor; provided, in the interest of orderly administration of the Plan, the Committee may make reasonable requests of Participants and Beneficiaries to furnish information which is reasonably necessary and appropriate to
+the orderly administration of the Plan, and, to that limited extent, payments under the Plan are conditioned upon the Participants and Beneficiaries promptly furnishing true, full and complete information as the Committee may reasonably request.
+
+   15 
+
+
+
+
+
+ 9.6 Tax Consequences Not Guaranteed. The Company does not warrant that this Plan will have
+any particular tax consequences for Participants or Beneficiaries and shall not be liable to them if tax consequences they anticipate do not actually occur. The Company shall have no obligation to indemnify a Participant or Beneficiary for lost tax
+benefits (or other damage or loss).  9.7 Benefits Payable to Incompetents. Any benefits payable hereunder to a minor or person under
+legal disability may be made, at the discretion of the Committee, (i) directly to the said person, or (ii) to a parent, spouse, relative by blood or marriage, or the legal representative of said person. The Committee shall not be required
+to see to the application of any such payment, and the payees receipt shall be a full and final discharge of the Committees responsibility hereunder. 
+9.8 Severability. If any provision of the Plan is held invalid or illegal for any reason, any illegality or invalidity shall not affect
+the remaining provisions of the Plan, and the Plan shall be construed and enforced as if the illegal or invalid provision had never been contained therein. The Company shall have the privilege and opportunity to correct and remedy such questions of
+illegality or invalidity by amendment.  9.9 Compliance with Section 409A. Notwithstanding anything in the Plan to the contrary,
+the terms of the Plan and all distributions made hereunder are intended to, and shall be interpreted and applied so as to, comply in all respects with the provisions of Section 409A of the Code and rulings promulgated thereunder and, if
+necessary, any provision shall be held null and void to the extent such provision (or part thereof) fails to comply with Section 409A of the Code and rulings promulgated thereunder. The Committee shall interpret the Plan consistent with the
+requirements of Section 409A of the Code, which shall govern the administration of the Plan in the event of any conflict between Plan terms and the applicable requirements of Section 409A of the Code and rulings promulgated thereunder. In
+any circumstance when a payment may be made in either of two calendar years, in no event may a Participant, directly or indirectly, designate the calendar year of such payment. 
+9.10 Tax Withholding. The Employer may withhold from a payment or accrued benefit or from the Participants other compensation any
+federal, state, or local taxes required by law to be withheld with respect to such payment or accrued benefit and such sums as the Employer may reasonably estimate as necessary to cover any taxes for which the Employer may be liable and which may be
+assessed with regard to such payment.  ARTICLE X 
+AMENDMENT AND TERMINATION 
+10.1 Amendment and/or Termination. The Committee may amend or modify the Plan at any time and in any manner; provided, however, that
+(i) no amendment shall reduce any portion of a Participants Account that is vested and (ii) no amendment shall be effective to the extent it results in a violation of Section 409A of the Code. The Committee may terminate the
+Plan within the parameters and limitations imposed by Section 409A of the Code. 
+   16 
+
+
+
+
+
+ ARTICLE XI 
+MISCELLANEOUS PROVISIONS 
+11.1 Articles and Section Titles and Headings. The titles and headings at the beginning of each Article and Section shall not be
+considered in construing the meaning of any provisions in this Plan.  11.2 Joint Obligations. For purposes of this Plan, the Company
+and Devon Energy Company, L.P., an Oklahoma limited partnership, shall have joint and several liability for all obligations hereunder. 
+11.3 Governing Law. This Plan is subject to ERISA, but is exempt from most parts of ERISA since it is an unfunded deferred compensation
+plan maintained for a select group of management or highly compensated employees. In no event shall any references to ERISA in the Plan be construed to mean that the Plan is subject to any particular provisions of ERISA. The Plan shall be governed
+and construed in accordance with federal law and the laws of the State of Oklahoma, except to the extent such laws are preempted by ERISA. 
+* * * * * * * * * 
+   17 
+
+
+
+
+
+ IN WITNESS WHEREOF, the Company has caused this instrument to be executed by its duly authorized
+officer.   
+
+
+
+
+
+
+
+
+
+
+DEVON ENERGY CORPORATION, a Delaware
+
+corporation
+
+
+
+
+By:
+ 
+ /s/ Frank W. Rudolph
+
+
+ 
+Frank W. Rudolph, Executive Vice President -
+
+
+ 
+Human Resources
+ [Signature Page to Devon Energy Corporation Non-Qualified Deferred Compensation Plan]
+
+
+

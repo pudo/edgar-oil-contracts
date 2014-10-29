@@ -1,0 +1,1196 @@
+
+EX-10.53
+2
+d615950dex1053.htm
+EX-10.53
+
+
+EX-10.53
+
+ 
+
+ Exhibit 10.53 
+Execution Version   
+   
+SEVENTH AMENDMENT  TO
+ AMENDED AND RESTATED 
+SENIOR REVOLVING CREDIT AGREEMENT 
+AMONG  ROSETTA
+RESOURCES INC.,  as Borrower, 
+WELLS FARGO BANK, NATIONAL ASSOCIATION, 
+as Administrative Agent, 
+AND  THE LENDERS
+SIGNATORY HERETO  EFFECTIVE AS OF JULY 30, 2013   
+   
+
+
+
+
+ SEVENTH AMENDMENT TO 
+AMENDED AND RESTATED SENIOR REVOLVING CREDIT AGREEMENT 
+This SEVENTH AMENDMENT TO AMENDED AND RESTATED SENIOR REVOLVING CREDIT AGREEMENT (this Seventh Amendment) executed
+effective as of July 30, 2013 (the Seventh Amendment Effective Date) is among ROSETTA RESOURCES INC., a corporation formed under the laws of the State of Delaware (the Borrower); each of the undersigned
+guarantors (the Guarantors), each of the Lenders that is a signatory hereto and WELLS FARGO BANK, NATIONAL ASSOCIATION (Wells Fargo), as administrative agent for the Lenders (in such capacity, together with its
+successors, the Administrative Agent).  R E C I T A L S: 
+A. The Borrower, the Administrative Agent and the Lenders are parties to that certain Amended and Restated Senior Revolving Credit Agreement
+dated as of April 9, 2009 (as amended, modified or supplemented to date, the Credit Agreement), pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower. 
+B. The Borrower has requested and the Administrative Agent and the Majority Lenders have agreed to amend certain provisions of the Credit
+Agreement.  C. NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:  Section 1.
+Defined Terms. Each capitalized term which is defined in the Credit Agreement, but which is not defined in this Seventh Amendment, shall have the meaning ascribed such term in the Credit Agreement. Unless otherwise indicated, all section
+references in this Seventh Amendment refer to the Credit Agreement.  Section 2. Amendments to Credit Agreement. 
+2.1 Amendments to Section 1.02. 
+(a) The following definitions are hereby added or amended and restated in their entirety as follows: 
+Agreement means this Amended and Restated Senior Revolving Credit Agreement, as amended by the First Amendment dated
+as of October 1, 2009, the Second Amendment dated as of April 5, 2010, the Third Amendment dated as of December 2, 2010, the Fourth Amendment dated as of May 10, 2011, the Resignation , Consent and Appointment Agreement dated as
+of April 20, 2012, the Fifth Amendment dated as of April 25, 2012, the Sixth Amendment dated as of April 12, 2013 and the Seventh Amendment dated as of July 30, 2013 as the same may from time to time be further amended, modified,
+supplemented or restated. 
+
+
+
+
+ 2.2 Amendment to Section 9.19. Section 9.19 is hereby amended and restated in
+its entirety to read as follows:  Section 9.19. Swap Agreements. The Borrower will not, and will not permit any Restricted
+Subsidiary to, enter into any Swap Agreements with any Person other than:  (a) Swap Agreements in respect of commodities
+(i) with an Approved Counterparty and (ii) the notional volumes for which (when aggregated with other commodity Swap Agreements then in effect other than basis differential swaps on volumes already hedged pursuant to other Swap Agreements)
+do not exceed, as of the date such Swap Agreement is executed (A) 85% of the Projected Production for each month during the period during which such Swap Agreement is in effect for each of crude oil, natural gas liquids and natural gas,
+calculated individually, for the period of 24 months following the date such Swap Agreement is executed; (B) 75% of the Current Production for each month during the period during which such Swap Agreement is in effect for each of crude oil,
+natural gas liquids and natural gas, calculated individually, for the period of 25 to 36 months following the date such Swap Agreement is executed; and (C) 50% of the Current Production for each month during the period during which such Swap
+Agreement is in effect for each of crude oil, natural gas liquids and natural gas, calculated individually, for the period of 37 to 48 months following the date such Swap Agreement is executed, provided, however, that for purposes of this
+Section 9.19(a), put options and price floors for crude oil, natural gas liquids and natural gas shall be disregarded; 
+(b) In addition to Swap Agreements under Section 9.19(a) and without further limitation, in connection with a proposed
+acquisition of Oil and Gas Properties for which the Borrower or a Restricted Subsidiary has signed a definitive acquisition agreement (a Proposed Acquisition), the Borrower may also enter into incremental Swap Agreements with an
+Approved Counterparty with respect to the reasonably anticipated projected production from the Oil and Gas Properties subject of the Proposed Acquisition so long as the aggregate notional volumes for such incremental Swap Agreements do not exceed
+the lesser of (A)(I) 85% of the Projected Production associated with the Oil and Gas Properties subject of such Proposed Acquisition for each month during the period during which each such Swap Agreement is in effect, for each of crude oil, natural
+gas liquids and natural gas, calculated individually, for the period of 24 months following the date such incremental Swap Agreement is executed, (II) 75% of the Projected Production associated with the Oil and Gas
+
+   2 
+
+
+
+
+
+ 
+Properties subject of such Proposed Acquisition for each month during the period during which each such Swap Agreement is in effect, for each of crude oil, natural gas liquids and natural gas,
+calculated individually, for the period of 25 to 36 months following the date such incremental Swap Agreement is executed and (III) 50% of the Projected Production associated with the Oil and Gas Properties subject of such Proposed Acquisition for
+each month during the period during which each such Swap Agreement is in effect, for each of crude oil, natural gas liquids and natural gas, calculated individually, for the period of 37 to 48 months following the date such incremental Swap
+Agreement is executed or (B) when aggregated with notional volumes of the Borrowers and its Restricted Subsidiaries existing Swap Agreements for each such period, exceed 150% of volume limitations imposed under Section 9.19(a)
+above, for a period not exceeding 48 months from the date such incremental Swap Agreement is executed. Such incremental Swap Agreements shall be terminated by the Borrower upon the occurrence of any of the following: (1) the third
+(3rd) Business Day after such Proposed Acquisition is terminated or (2) if the Proposed Acquisition shall not have been consummated prior thereto, (x) undrawn availability becoming less than 10% of the then effective Borrowing Base or
+(y) the 60th day after a definitive acquisition agreement for such Proposed Acquisition was executed; provided, for the avoidance of doubt, that any incremental Swap Agreements entered into in compliance with this Section 9.19(b) shall be
+permitted to remain in place after consummation of the applicable Proposed Acquisition notwithstanding the provisions of Section 9.19(a). If such incremental Swap Agreements are not permitted to remain in place pursuant to the preceding
+sentence, the Borrower shall promptly terminate or unwind such Swap Agreements; provided that the termination or unwinding of such incremental Swap Agreements shall not cause (i) notice to be given by the Borrower to the Lenders in accordance
+with Section 8.18 or (ii) a Borrowing Base redetermination pursuant to Section 2.07(f); and  (c) Swap
+Agreements in respect of interest rates with an Approved Counterparty, as follows: (i) Swap Agreements effectively converting interest rates from fixed to floating, the notional amounts of which (when aggregated with all other Swap Agreements
+of the Borrower and its Restricted Subsidiaries then in effect effectively converting interest rates from fixed to floating) do not exceed 50% of the then outstanding principal amount of the Borrowers Debt for borrowed money which bears
+interest at a fixed rate (after netting out any Swap Agreements then in effect effectively converting interest rates from floating to fixed) and (ii) Swap Agreements effectively converting interest rates from
+
+   3 
+
+
+
+
+
+ 
+floating to fixed, the notional amounts of which (when aggregated with all other Swap Agreements of the Borrower and its Restricted Subsidiaries then in effect effectively converting interest
+rates from floating to fixed) do not exceed 75% of the then outstanding principal amount of the Borrowers Debt for borrowed money which bears interest at a floating rate (after netting out any Swap Agreements then in effect effectively
+converting interest rates from floating to fixed).  In no event shall any Swap Agreement contain any current requirement,
+agreement or covenant for the Borrower or any Restricted Subsidiary to post collateral or margin, other than letters of credit permitted by this Agreement (in an amount not to exceed $10,000,000 in the aggregate), to secure their obligations under
+such Swap Agreement or to cover market exposures.  2.3 Amendment to Section 12.01(a). Section 12.01(a) is hereby
+amended to delete subsections (i) through (iii) and replace such subsections with the following:  (i) if to
+the Borrower, to it at: 1111 Bagby Street, Suite 1600, Houston, TX 77002, Attention: General Counsel (Telephone: 713.335.4000; Facsimile: 713.481.8561); 
+(ii) if to the Administrative Agent, to it at Wells Fargo Bank, National Association, 1525 West W.T. Harris Boulevard, MAC
+D1109-019, Charlotte, NC 28262, Attention: Yvette McQueen (Telephone: 704.590.2706, Facsimile: 704.590.2782); with a copy to: Wells Fargo Bank, National Association, 1000 Louisiana Street, Ninth Floor, Houston, Texas 77002, MAC T0002-090, Attention:
+Lila Jordan, Managing Director (Telephone: 713.319.1880; Facsimile: 713.319.1925);  (iii) if to the Issuing Bank, to it at
+Wells Fargo Bank, National Association, 1525 West W.T. Harris Boulevard, MAC D1109-019, Charlotte, NC 28262, Attention: Yvette McQueen (Telephone: 704.590.2706, Facsimile: 704.590.2782); with a copy to: Wells Fargo Bank, National Association, 1000
+Louisiana Street, Ninth Floor, Houston, Texas 77002, MAC T0002-090, Attention: Lila Jordan, Managing Director (Telephone: 713.319.1880; Facsimile: 713.319.1925); and 
+Section 3. Waiver. The Borrower has informed the Administrative Agent that it has recently consummated the acquisition of certain
+Oil and Gas Properties in the Delaware Basin in Gaines and Reeves Counties, Texas from Comstock Resources, Inc. (the Acquisition) on May 14, 2013, and on May 29, 2013, subsequent to such consummation, the Borrower
+entered into certain Swap Agreements (the Specified Swaps) related to such Acquisition based upon the language in Section 9.19(a) dealing with incremental Swap Agreements related to Proposed Acquisitions rather than in
+accordance with the provisions of Section 9.19(a) dealing with ordinary course Swap Agreements. As a consequence the Borrower is currently hedged in excess of the limit set forth in Section 9.19(a) for ordinary course Swap Agreements. The
+Borrower has requested, and the Majority Lenders hereby consent to a waiver with regard to Section 9.19(a) and agree to allow the Borrower to maintain the Specified Swaps. 
+   4 
+
+
+
+
+
+ Section 4. Conditions Precedent. The effectiveness of this Seventh Amendment is
+subject to the receipt by the Administrative Agent of the following documents and satisfaction of the other conditions provided in this Section 4, each of which shall be reasonably satisfactory to the Administrative Agent in form and substance:
+ 4.1 Execution of Seventh Amendment. The Administrative Agent shall have received from the Borrower, the Guarantors and the Lenders
+required to constitute the Majority Lenders, counterparts (in such number as may be requested by the Administrative Agent) of this Seventh amendment signed on behalf of each such Person. 
+4.2 Payment of Fees and Outstanding Invoices. The Administrative Agent shall have received all fees and other amounts due and payable on
+or prior to the Seventh Amendment Effective Date including, to the extent invoiced, reimbursement or payment of all documented out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit Agreement. 
+4.3 No Default. No Default or Event of Default shall have occurred and be continuing as of the Seventh Amendment Effective Date. 
+4.4 Other Documents. The Administrative Agent shall have received any other document it reasonably requests. 
+The Administrative Agent shall notify the Borrower and the Lenders of the Seventh Amendment Effective Date, and such notice shall be
+conclusive and binding.  Section 5. Representations and Warranties; Etc. The Borrower and each of the Guarantors hereby
+affirm: (a) that as of the date of execution and delivery of this Seventh Amendment, all of the representations and warranties contained in each Loan Document to which the Borrower and Guarantors are a party are true and correct in all material
+respects as though made on and as of the Seventh Amendment Effective Date (unless made as of a specific earlier date, in which case, was true as of such date); and (b) that, after giving effect to this Seventh Amendment and to the transactions
+contemplated hereby, no Defaults or Events of Default exist under the Loan Documents or will exist under the Loan Documents. 
+Section 6. Miscellaneous. 
+6.1 Confirmation. The provisions of the Credit Agreement (as amended by this Seventh Amendment) shall remain in full force and effect in
+accordance with its terms following the effectiveness of this Seventh Amendment.  6.2 Ratification and Affirmation of Borrower and
+Guarantors. Each of the Guarantors and the Borrower hereby expressly (i) acknowledges the terms of this Seventh Amendment, (ii) ratifies and affirms its obligations under the Guaranty Agreement and the other Security Instruments to
+which it is a party, (iii) acknowledges, renews and extends its continued liability 
+   5 
+
+
+
+
+
+ 
+under the Guaranty Agreement and the other Security Instruments to which it is a party and agrees that its guarantee under the Guaranty Agreement and the other Security Instruments to which it is
+a party remains in full force and effect with respect to the Indebtedness as amended hereby.  6.3 Limited Waiver. Neither the
+execution by the Administrative Agent or the Lenders of this Seventh Amendment, nor any other act or omission by the Administrative Agent or the Lenders or their officers in connection herewith, shall be deemed a waiver by the Administrative Agent
+or the Lenders of any other defaults which may exist or which may occur in the future under the Credit Agreement and/or the other Loan Documents, or any future defaults of the same provision waived hereunder (collectively Other
+Violations). Similarly, nothing contained in this Seventh Amendment shall directly or indirectly in any way whatsoever either: (i) impair, prejudice or otherwise adversely affect the Administrative Agents or the Lenders
+right at any time to exercise any right, privilege or remedy in connection with the Loan Documents with respect to any Other Violations, (ii) except as expressly provided for herein, amend or alter any provision of the Credit Agreement, the
+other Loan Documents, or any other contract or instrument, or (iii) constitute any course of dealing or other basis for altering any obligation of the Borrower or any right, privilege or remedy of the Administrative Agent or the Lenders under
+the Credit Agreement, the other Loan Documents, or any other contract or instrument. Nothing in this Seventh Amendment shall be construed to be a consent by the Administrative Agent or the Lenders to any Other Violations. 
+6.4 Loan Document. This Seventh Amendment is a Loan Document. 
+6.5 Counterparts. This Seventh Amendment may be executed by one or more of the parties hereto in any number of separate counterparts,
+and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed counterpart of a signature page to this Seventh Amendment by facsimile or other electronic transmission shall be effective
+as delivery of a manually executed counterpart of this Seventh Amendment.  6.6 No Oral Agreement. THIS
+WRITTEN SEVENTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS
+EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN
+THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR,
+CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO
+SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES. 
+6.7 Governing Law. THIS SEVENTH AMENDMENT (INCLUDING, BUT
+NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED
+BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF
+NEW YORK.  [Signature pages follow.] 
+   6 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Seventh Amendment to be duly executed
+effective as of the date first written above.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BORROWER:
+ 
+ROSETTA RESOURCES INC.
+
+
+
+
+
+
+ 
+By:
+ 
+/s/ John E. Hagale
+
+
+ 
+
+ 
+John E. Hagale
+
+
+ 
+
+ 
+Executive Vice President and Chief Financial Officer
+
+
+
+
+GUARANTORS:
+ 
+ROSETTA RESOURCES OFFSHORE, LLC,
+
+
+
+
+
+ 
+ROSETTA RESOURCES HOLDINGS, LLC,
+
+
+
+
+
+ 
+ROSETTA RESOURCES OPERATING LP,
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+Rosetta Resources Operating GP, LLC,
+
+
+ 
+
+ 
+
+ 
+its general partner
+
+
+
+
+
+ 
+ROSETTA RESOURCES MICHIGAN LIMITED PARTNERSHIP,
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+Rosetta Resources Operating LP,
+
+
+ 
+
+ 
+
+ 
+its general partner,
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+Rosetta Resources Operating GP, LLC,
+
+
+ 
+
+ 
+
+ 
+its general partner
+
+
+
+
+
+ 
+AND
+
+
+
+
+
+ 
+ROSETTA RESOURCES OPERATING GP, LLC,
+
+
+
+
+
+
+ 
+By:
+ 
+/s/ John E. Hagale
+
+
+ 
+
+ 
+John E. Hagale
+
+
+ 
+
+ 
+Executive Vice President and Chief Financial Officer
+ Signature Page to Seventh Amendment 
+Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE AGENT:
+ 
+
+ 
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as Administrative Agent
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Lila Jordan
+
+
+ 
+
+ 
+Name:
+ 
+Lila Jordan
+
+
+ 
+
+ 
+Title:
+ 
+ Managing Director
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Lila Jordan
+
+
+ 
+
+ 
+Name:
+ 
+Lila Jordan
+
+
+ 
+
+ 
+Title:
+ 
+Managing Director
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF MONTREAL
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Melissa Guzmann
+
+
+ 
+
+ 
+Name:
+ 
+Melissa Guzmann
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+COMPASS BANK
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Ann Van Wagener
+
+
+ 
+
+ 
+Name:
+ 
+Ann Van Wagener
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+JPMORGAN CHASE BANK, N.A.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Ryan Aman
+
+
+ 
+
+ 
+Name:
+ 
+Ryan Aman
+
+
+ 
+
+ 
+Title:
+ 
+Authorized Officer
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+UNION BANK, N.A.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Paul E. Cornell
+
+
+ 
+
+ 
+Name:
+ 
+Paul E. Cornell
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+BANK OF AMERICA, N.A.
+
+
+
+
+
+
+ 
+By:
+ 
+ /s/ Michael J. Clayborne
+
+
+ 
+Name: Michael J. Clayborne
+
+
+ 
+Title: Vice President
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+COMERICA BANK
+
+
+
+
+
+
+ 
+By:
+ 
+ /s/ Jeff Treadway
+
+
+ 
+Name: Jeff Treadway
+
+
+ 
+Title: Vice President
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDER:
+ 
+
+ 
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+
+
+
+
+
+
+
+ 
+
+ 
+ By:
+ 
+/s/ Vipul Dhadda
+
+
+ 
+
+ 
+ Name:
+ 
+Vipul Dhadda
+
+
+ 
+
+ 
+ Title:
+ 
+Authorized Signatory
+
+
+
+
+
+
+
+ 
+
+ 
+ By:
+ 
+/s/ Michael Spaight
+
+
+ 
+
+ 
+ Name:
+ 
+Michael Spaight
+
+
+ 
+
+ 
+ Title:
+ 
+Authorized Signatory
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+THE ROYAL BANK OF CANADA
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Kristan Spivey
+
+
+ 
+
+ 
+Name:
+ 
+ Kristan Spivey
+
+
+ 
+
+ 
+Title:
+ 
+ Authorized Signatory
+      
+ 
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+U.S. BANK NATIONAL ASSOCIATION
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Nicolas T. Hanford
+
+
+ 
+
+ 
+Name:
+ 
+ Nicolas T. Hanford
+
+
+ 
+
+ 
+Title:
+ 
+ Vice President
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+AMEGY BANK NATIONAL ASSOCIATION
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Kenneth R. Batson, III
+
+
+ 
+
+ 
+Name:
+ 
+ Kenneth R. Batson, III
+
+
+ 
+
+ 
+Title:
+ 
+ Senior Vice President
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+FROST BANK (f/k/a THE FROST NATIONAL BANK)
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Lane Dodds
+
+
+ 
+
+ 
+Name:
+ 
+ Lane Dodds
+
+
+ 
+
+ 
+Title:
+ 
+ Senior Vice President
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+CITIBANK, N.A.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Mason McGurrin
+
+
+ 
+
+ 
+Name:
+ 
+Mason McGurrin
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+MORGAN STANLEY BANK, N.A.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ William Jones
+
+
+ 
+
+ 
+Name:
+ 
+ William Jones
+
+
+ 
+
+ 
+Title:
+ 
+ Authorized Signatory
+
+   Signature Page to
+Seventh Amendment  Rosetta Resources Inc. 
+
+
+

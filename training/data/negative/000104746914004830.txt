@@ -1,0 +1,2719 @@
+
+EX-10.1
+3
+a2220145zex-10_1.htm
+EX-10.1
+
+
+
+
+
+
+
+Exhibit 10.1
+ 
+FIFTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+THIS FIFTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this Fifth Amendment), dated as of February 28, 2014, is entered into by and among SANCHEZ ENERGY CORPORATION, a Delaware corporation (Sanchez), SEP HOLDINGS III, LLC, a Delaware limited liability company (SEP), SN MARQUIS LLC, a Delaware limited liability company (SN Marquis), and SN COTULLA ASSETS, LLC, a Texas limited liability company (SN Cotulla; together with Sanchez, SEP and SN Marquis, collectively, the Borrowers and each, a Borrower), each of the Lenders party to the Credit Agreement on the Fifth Amendment Effective Date (each defined below), and ROYAL BANK OF CANADA, as Administrative Agent for the Lenders (in such capacity, together with its successors in such capacity, the Administrative Agent).
+ 
+RECITALS
+ 
+A.                                    The Borrowers, the Lenders and the Administrative Agent previously entered into that certain Amended and Restated Credit Agreement dated as of May 31, 2013, as amended by that certain First Amendment to Amended and Restated Credit Agreement dated as of June 30, 2013, as amended by that certain waiver letter and amendment dated July 30, 2013, as amended by that certain Third Amendment to Amended and Restated Credit Agreement dated as of September 11, 2013 and as amended by that certain Fourth Amendment to Amended and Restated Credit Agreement dated as of November 18, 2013 (as amended, restated, supplemented or modified from time to time, the Credit Agreement) and certain other Loan Documents (as defined in the Credit Agreement) in connection therewith.
+ 
+B.                                    The Borrowers have requested that the Administrative Agent and the Lenders amend the Credit Agreement as set forth herein, including to establish (i) the Elected Commitment for each Lender, (ii) a Borrowing Base of $400,000,000, and (iii) an Aggregate Elected Commitment Amount of $325,000,000, in each case to be effective as of the Fifth Amendment Effective Date, and the Administrative Agent and the Lenders are willing to amend the Credit Agreement on the terms and conditions contained in this Fifth Amendment.
+ 
+AGREEMENT
+ 
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants set forth in this Fifth Amendment and other good and valuable consideration, the receipt and sufficiency of which are acknowledged by the parties hereto, the Borrowers, the Lenders and the Administrative Agent agree as follows:
+ 
+1.                                      Defined Terms.  Unless otherwise defined herein, capitalized terms used herein have the meanings assigned to them in the Credit Agreement.
+ 
+1
+
+
+
+
+
+
+ 
+2.                                      Specific Amendments to Credit Agreement.      The Credit Agreement is hereby amended as follows:
+ 
+(i)                                     The Table of Contents to the Credit Agreement is amended by changing the heading for Section 2.06 thereto to Changes in the Aggregate Maximum Credit Amounts; Optional Increase and Reduction of Aggregate Elected Commitment Amount.
+ 
+(ii)                                  The Table of Contents to the Credit Agreement is amended by adding a new Exhibit J thereto captioned Form of Elected Commitment Increase Certificate and by adding a new Exhibit K thereto captioned Form of Additional Lender Certificate.
+ 
+(iii)                               The following defined terms are hereby added to Section 1.02 of the Credit Agreement in the proper alphabetical order:
+ 
+Additional Lender has the meaning assigned to such term in Section 2.06(c)(i).
+ 
+Additional Lender Certificate has the meaning assigned to such term in Section 2.06(c)(ii)(7).
+ 
+Aggregate Elected Commitment  Amount at any time shall equal the sum of the Elected Commitments, as the same may be increased, reduced or terminated  pursuant to Section 2.06(c). As of the Fifth Amendment Effective Date, the Aggregate Elected Commitment Amount is $325,000,000.
+ 
+Elected Commitment means, as to each Lender, the amount set forth opposite such Lenders name on Annex I under the caption Elected  Commitment, as the same may be (a) increased, reduced or terminated from time to time in connection with an optional increase, reduction or termination  of the Aggregate Elected Commitment  Amounts pursuant to Section 2.06(c).
+ 
+Elected Commitment Increase Certificate has the meaning assigned to such term in Section 2.06(c)(ii)(6).
+ 
+Elected Commitment Utilization Percentage means, as of any day, the fraction expressed as a percentage, the numerator of which is the sum of the Credit Exposures of the Lenders on such day, and the denominator of which is the Aggregate Elected Commitment Amount in effect on such day.
+ 
+Fifth Amendment means that certain Fifth Amendment to Amended and Restated Credit Agreement dated the Fifth Amendment Effective Date among the Borrowers, the Lenders and the Administrative Agent.
+ 
+Fifth Amendment Effective Date means February 28, 2014.
+ 
+2
+
+
+
+
+
+
+ 
+Increasing Lender has the meaning assigned to such term in Section 2.06(c)(i).
+ 
+Sanchez/Century JV Entity means the JV Entity formed in connection with the Sanchez/Century Midstream JV Transaction initially owned, directly or indirectly, 50% by Sanchez and 50% by Century Midstream, LLC.
+ 
+Sanchez/Century JV Entity Cash Dividends means cash dividends and other cash distributions received by Sanchez or any Restricted Subsidiary from the Sanchez/Century JV Entity, whether directly from the Sanchez/Century JV Entity or indirectly though cash dividends and other cash distributions received from SN Midstream.
+ 
+Sanchez/Century Midstream Assets means those natural gas and oil gathering, oil pipeline and other related facilities in Colorado, Lavaca, Gonzales and Fayette Counties, Texas used to deliver Hydrocarbons produced by one or more Loan Parties, which Sanchez/Century Midstream Assets will be contributed to SN Midstream in connection with the Sanchez/Century Midstream JV Transaction.
+ 
+Sanchez/Century Midstream JV Transaction collectively means (i) the contribution of the Sanchez/Century Midstream Assets by one or more Loan Parties to SN Midstream, and either (A) the contribution of the Sanchez/Century Midstream Assets by SN Midstream to the Sanchez/Century JV Entity in exchange for 50% of the Equity Interests in the Sanchez/Century JV Entity or (B) the contribution by Sanchez of 100% of the SN Midstreams Equity Interests owned by it to the Sanchez/Century JV Entity in exchange for 50% of the Equity Interests in the Sanchez/Century JV Entity, and (ii) subsequent cash Investments by Sanchez in the Sanchez/Century JV Entity in an amount not to exceed the sum of (A) $50,000,000 plus (B) the aggregate amount of JV Entity Midstream Cash Dividends from and after the Fifth Amendment Effective Date.
+ 
+(iv)                              The defined term Agreement in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+Agreement means this Credit Agreement, as amended by the First Amendment, Second Amendment, Third Amendment, Fourth Amendment and Fifth Amendment, and as the same may from time to time be amended, modified, supplemented or restated.
+ 
+(v)                                 The defined term Aggregate Maximum Credit Amount in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+Aggregate Maximum Credit Amount or Aggregate Maximum Credit Amounts at any time shall equal the sum of the Maximum Credit Amounts, as the same may be increased, reduced or terminated pursuant to Section 2.06.  As of the Fifth Amendment Effective Date, the Aggregate Maximum Credit Amount is $500,000,000.
+ 
+3
+
+
+
+
+
+
+ 
+ 
+(vi)                              The defined term Applicable Margin in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+Applicable Margin means, for any day with respect to any ABR Loan or Eurodollar Loan, or with respect to the Letter of Credit Fee Rate, as the case may be, the rate per annum set forth in the Borrowing Base Utilization Grid below based upon the Borrowing Base Utilization Percentage then in effect:
+ 
+Borrowing Base Utilization Grid
+ 
+
+
+
+Borrowing Base Utilization   Percentage    
+
+     
+
+<25%    
+
+     
+
+>25%   and <50%    
+
+     
+
+>50%   and <75%    
+
+     
+
+>75%   and <90%    
+
+     
+
+>90%    
+
+        
+
+
+ABR Loans    
+
+     
+
+0.50%    
+
+     
+
+0.75%    
+
+     
+
+1.00%    
+
+     
+
+1.25%    
+
+     
+
+1.50%    
+
+        
+
+
+Eurodollar Loans    
+
+     
+
+1.50%    
+
+     
+
+1.75%    
+
+     
+
+2.00%    
+
+     
+
+2.25%    
+
+     
+
+2.50%    
+
+        
+
+
+Letter of Credit Fee Rate    
+
+     
+
+1.50%    
+
+     
+
+1.75%    
+
+     
+
+2.00%    
+
+     
+
+2.25%    
+
+     
+
+2.50%    
+
+          
+ 
+For any day prior to the Fifth Amendment Effective Date, Applicable Margin means, with respect to the Commitment Fee Rate, the rate per annum set forth in the Borrowing Base Utilization Grid below based upon the Borrowing Base Utilization Percentage then in effect:
+ 
+Borrowing Base Utilization Grid
+ 
+
+
+
+Borrowing Base Utilization   Percentage    
+
+     
+
+<25%    
+
+     
+
+>25%   and <50%    
+
+     
+
+>50%   and <75%    
+
+     
+
+>75%   and <90%    
+
+     
+
+>90%    
+
+        
+
+
+Commitment Fee Rate    
+
+     
+
+0.375%    
+
+     
+
+0.375%    
+
+     
+
+0.50%    
+
+     
+
+0.50%    
+
+     
+
+0.50%    
+
+          
+ 
+For any day on or after the Fifth Amendment Effective Date, Applicable Margin means, with respect to Commitment Fee Rate, the rate per annum set forth in the Elected Commitment Utilization Grid below based upon the Elected Commitment Utilization Percentage then in effect:
+ 
+Elected Commitment Utilization Grid
+ 
+
+
+
+Elected Commitment   Utilization Percentage    
+
+     
+
+<25%    
+
+     
+
+>25%   and <50%    
+
+     
+
+>50%   and <75%    
+
+     
+
+>75%   and <90%    
+
+     
+
+>90    
+
+        
+
+
+Commitment Fee Rate    
+
+     
+
+0.375%    
+
+     
+
+0.375%    
+
+     
+
+0.50%    
+
+     
+
+0.50%    
+
+     
+
+0.50%    
+
+          
+ 
+Each change in the Applicable Margin shall apply during the period commencing on the effective date of such change and ending on the date immediately preceding the effective date of the next such change; provided, however, that if at any time the Borrowers fail to
+ 
+4
+
+
+
+
+
+
+ 
+deliver a Reserve Report pursuant to Section 8.12(a), then the Applicable Margin means the rate per annum set forth on the then applicable grid above when it is at its highest level; provided further that the Applicable Margin shall be the Applicable Margin determined without regard to the preceding proviso upon the Borrowers delivery of such Reserve Report.
+ 
+(vii)                           The defined term Applicable Percentage in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+Applicable Percentage means, with respect to any Lender, the percentage of the Aggregate Elected Commitment Amount represented by such Lenders Elected Commitment as such percentage is set forth on Annex I or in an Assignment and Assumption Agreement, as the case may be, as such percentage may be modified from time to time pursuant to Section 2.06(c)(v).
+ 
+(viii)                        The defined term Commitment in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+Commitment means, with respect to each Lender, the commitment of such Lender to make Loans and to acquire participations in Letters of Credit hereunder, expressed as an amount representing the maximum aggregate amount of such Lenders Credit Exposure hereunder, as such commitment may be (a) modified from time to time pursuant to Section 2.06 and (b) modified from time to time pursuant to assignments by or to such Lender pursuant to Section 12.04(b), and total Commitments means the aggregate amount of the Commitments of all the Lenders.  The amount representing each Lenders Commitment shall at any time be the least of (i) such Lenders Maximum Credit Amount, (ii) such Lenders Applicable Percentage of the then effective Borrowing Base and (iii) such Lenders Elected Commitment.  The total Commitments on the Fifth Amendment Effective Date is $325,000,000.
+ 
+(ix)                              The defined term Consolidated EBITDA in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+Consolidated EBITDA for any period means, without duplication, the Consolidated Net Income for such period, plus the following, without duplication and to the extent deducted (and not added back) in calculating such Consolidated Net Income:
+ 
+(a)                                 Consolidated Net Interest Expense;
+ 
+(b)                                 Consolidated Income Tax Expense;
+ 
+(c)                                  consolidated depletion, depreciation and amortization expense of the Borrowers and their Restricted Subsidiaries;
+ 
+(d)                                 other non-cash charges to the extent not included in the foregoing clauses (a)-(c);
+ 
+5
+
+
+
+
+
+
+ 
+(e)                                  fees and expenses expensed and paid in cash in connection with the offering of Sanchez Equity Interests and the Original Credit Agreement, the Second Lien Loan, the Bridge Loan, the Senior Unsecured Notes and this Agreement;
+ 
+(f)                                   Sanchez/Century JV Entity Cash Dividends;
+ 
+and minus all non-cash income to the extent included in determining Consolidated Net Income.
+ 
+(x)                                 The defined term Lenders in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+Lenders means the Persons listed on Annex I and any Person that shall have become a party hereto pursuant to an Assignment and Assumption, other than any such Person that ceases to be a party hereto pursuant to an Assignment and Assumption,  and any Person that shall have become a party hereto as an Additional Lender pursuant to Section 2.06(c).
+ 
+(xi)                              The defined term Required Lenders in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+Required Lenders means, at any time while no Loans or LC Exposure is outstanding, Lenders having more than fifty percent (50%) of the Aggregate Elected Commitment Amount; and at any time while any Loans or LC Exposure is outstanding, Lenders holding more than fifty percent (50%) of the outstanding aggregate principal amount of the Loans or participation interests in Letters of Credit (without regard to any sale by a Lender of a participation in any Loan under Section 12.04(c)); provided, however, for purposes of Section 2.07(c)(iii) and a Proposed Borrowing Base that would decrease or maintain the Borrowing Base then in effect, Required Lenders shall mean at any time while no Loans or LC Exposure is outstanding, Lenders having at least sixty-six and two thirds percent (66 2/3%) of the Aggregate Elected Commitment Amount and at any time while any Loans or LC Exposure is outstanding, Lenders holding at least sixty-six and two thirds percent (66 2/3%) of the outstanding aggregate principal amount of the Loans or participation interests in Letters of Credit (without regard to any sale by a Lender of a participation in any Loan under Section 12.04(c)).
+ 
+(xii)                           The defined term Maximum  Credit Amount in Section 1.02 of the Credit Agreement is hereby deleted and the following is substituted therefor:
+ 
+Maximum Credit Amount means, as to each Lender, the amount set forth opposite such Lenders name on Annex I under the caption Maximum Credit Amount, as the same may be (a) reduced or terminated from time to time in connection with a reduction or termination of the Aggregate Maximum Credit Amounts pursuant to Section 2.06(b), (b) modified from time to time pursuant to Section 2.06(c) or (c) modified from time to time pursuant to any assignment permitted by Section 12.04(b).
+ 
+6
+
+
+
+
+
+
+ 
+(xiii)                        Section 2.02(d) of the Credit Agreement is hereby amended by deleting the second sentence thereof and substituting the following therefor:
+ 
+In such event, the Borrowers shall prepare, execute and deliver to such Lender a promissory note payable to the order of such Lender in substantially the form of Exhibit A, dated, in the case of (i) any Lender party hereto as of the date of this Agreement, as of the date of this Agreement (subject to clauses (ii) and (iii) of this definition), (ii) any Lender that becomes a party hereto or that has its Maximum Credit Amount increased pursuant to an Assignment and Assumption, as of the effective date of the Assignment and Assumption, or (iii) any Lender that becomes a party hereto or that has its Maximum Credit Amount increased in connection with an increase in the Aggregate Elected Commitment Amount pursuant to Section 2.06(c), as of the effective date of such increase, payable to the order of such Lender in a principal amount equal to its Maximum Credit Amount as in effect on such date, and otherwise duly completed.
+ 
+(xiv)                       Section 2.03 of the Credit Agreement is hereby amended by deleting clause (v) thereof and substituting the following therefor:
+ 
+(v) the amount equal to the least of (x) the Aggregate Maximum Credit Amounts, (y) the then effective Borrowing Base and (z) the Aggregate Elected Commitment Amount, the current total Credit Exposures (without regard to the requested Borrowing) and the pro forma total Credit Exposures (giving effect to the requested Borrowing); and
+ 
+(xv)                          Section 2.03 of the Credit Agreement is hereby amended by deleting the penultimate sentence thereof and substituting the following therefor:
+ 
+Each Borrowing Request shall constitute a representation that the amount of the requested Borrowing shall not cause the total Credit Exposures to exceed the least of (x) the Aggregate Maximum Credit Amounts, (y) the then effective Borrowing Base and (z) the Aggregate Elected Commitment Amount.
+ 
+(xvi)                       Section 2.06 of the Credit Agreement is hereby amended by deleting the heading thereof and substituting the following therefor:
+ 
+Section 2.06                       Changes in the Aggregate Maximum Credit Amounts; Optional Increase and Reduction of Aggregate Elected Commitment Amount.
+ 
+(xvii)                    The second sentence of Section 2.06(a) of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+If at any time the Aggregate Maximum Credit Amounts, the Borrowing Base or the Aggregate Elected Commitment Amount is terminated or reduced to zero, then, at the option of the Administrative Agent, the Commitments shall terminate on the effective date of such termination or reduction.
+ 
+7
+
+
+
+
+
+
+ 
+(xviii)                 Section 2.06(b)(i) of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+(i)                               The Borrowers may at any time terminate, or from time to time reduce, the Aggregate Maximum Credit Amounts; provided that (1) each reduction of the Aggregate Maximum Credit Amounts shall be in an amount that is an integral multiple of $1,000,000 and not less than $5,000,000 (or, if less than $1,000,000 or $5,000,000, the entire Aggregate Maximum Credit Amount), (2) the Borrowers shall not terminate or reduce the Aggregate Maximum Credit Amounts if, after giving effect to any concurrent prepayment of the Loans in accordance with Section 3.04(c), the total Credit Exposures would exceed the total Commitments, and (3) upon any reduction of the Aggregate  Maximum Credit Amounts that results in the Aggregate  Maximum Credit Amounts being less than the Aggregate  Elected Commitment  Amounts, the Aggregate Elected Commitment Amount shall be automatically  reduced (such reduction to be allocated to the Elected Commitments of the Lenders ratably in accordance with such Elected Commitments) so that they equal the Aggregate Maximum Credit Amounts as so reduced.
+ 
+(xix)                       Section 2.06 of the Credit Agreement is hereby amended to add subsection (c) thereto to read in its entirety as follows:
+ 
+(c)                            Optional Increase and Reduction of Aggregate Elected Commitment Amount.
+ 
+(i)                                     Subject to the conditions set forth in Section 2.06(c)(ii),  the Borrowers may increase the Aggregate Elected Commitment Amount then in effect by increasing the Elected Commitment of a Lender (an Increasing Lender or by causing a Person that is acceptable  to the Administrative  Agent that at such time is not a Lender to become a Lender (an Additional Lender). Notwithstanding anything to the contrary contained  in this Agreement,  in no case shall an Additional  Lender be a Borrower or an Affiliate of a Borrower.
+ 
+(ii)                                  Any increase in the Aggregate Elected Commitment Amount shall be subject to the following additional conditions:
+ 
+(1)                                 such increase shall not be less than $25,000,000  unless the Administrative  Agent otherwise consents, and no such increase shall be permitted if after giving effect thereto the Aggregate Elected Commitment Amount exceed the Borrowing Base then in effect;
+ 
+(2)                                 following any Scheduled Redetermination Date, the Borrowers may not increase the Aggregate Elected Commitment Amount more than once before the next Scheduled  Redetermination  Date;
+ 
+(3)                                 no Default shall have occurred and be continuing  on the effective date of such increase;
+ 
+8
+
+
+
+
+
+
+ 
+(4)                                 on the effective date of such increase, no Eurodollar Borrowings shall be outstanding or if any Eurodollar Borrowings are outstanding, then the effective date of such increase shall be the last day of the Interest Period in respect of such Eurodollar Borrowings unless the Borrowers pay compensation  required by Section 5.02;
+ 
+(5)                                 no Lenders Elected Commitment  may be increased without the consent of such Lender;
+ 
+(6)                                 if the Borrowers elect to increase the Aggregate Elected Commitment  Amounts by increasing the Elected Commitment of a Lender, the Borrowers and such Lender shall execute and deliver to the Administrative Agent a certificate substantially  in the form of Exhibit J (an Elected  Commitment  Increase Certificate); and
+ 
+(7)                                 if the Borrowers elect to increase the Aggregate Elected Commitment  Amounts by causing an Additional Lender to become a party to this Agreement, then the Borrowers and such Additional Lender shall execute and deliver to the Administrative  Agent a certificate  substantially  in the form of Exhibit K (an Additional Lender Certificate), together with an Administrative  Questionnaire and a processing and recordation fee of $3,500, and the Borrowers shall (1) if requested by the Additional Lender, deliver a Note payable to the order of such Additional Lender in a principal amount equal to its Maximum Credit Amount, and otherwise duly completed and (2) pay any applicable fees as may have been agreed to between the Borrower, the Additional Lender and/or the Administrative  Agent.
+ 
+(iii)                               Subject to acceptance and recording thereof pursuant to Section 2.06(c)(iv), from and after the effective date specified in the Elected Commitment  Increase Certificate or the Additional Lender Certificate (or if any Eurodollar Borrowings  are outstanding, then the last day of the Interest Period in respect of such Eurodollar Borrowings, unless the Borrowers have paid compensation required by Section 5.02): (A) the amount of the Aggregate Elected Commitment Amount shall be increased as set forth therein, and (B) in the case of an Additional Lender Certificate, any Additional Lender party thereto shall be a party to this Agreement and have the rights and obligations of a Lender under this Agreement and the other Loan Documents.  In addition, the Increasing Lender or the Additional Lender, as applicable, shall purchase a pro rata portion of the outstanding Loans (and participation interests in Letters of Credit) of each of the other Lenders (and such Lenders hereby agree to sell and to take all such further action to effectuate such sale) such that each Lender (including any Increasing Lender and any Additional Lender, as applicable) shall hold its Applicable Percentage of the outstanding Loans (and participation interests) after giving effect to the increase in the Aggregate Elected Commitment Amount.
+ 
+9
+
+
+
+
+
+
+ 
+(iv)                              Upon its receipt of a duly completed Elected Commitment Increase Certificate or an Additional Lender Certificate, executed by the Borrower and the Lender or by the Borrower and the Additional Lender party thereto, as applicable, the processing and recording fee referred to in Section 2.06(c)(ii) and the Administrative Questionnaire referred to in Section 2.06(c)(ii), if applicable, the Administrative Agent shall accept such Elected Commitment Increase Certificate or Additional Lender Certificate and record the information contained therein in the Register required to be maintained by the Administrative Agent pursuant to Section 12.04(b)(iv).  No increase in the Aggregate Elected Commitment Amount shall be effective for purposes of this Agreement unless it has been recorded in the Register as provided in this Section 2.06(c)(iv).
+ 
+(v)                                 Upon any increase in the Aggregate Elected Commitment Amount pursuant to this Section 2.06(c), (A) each Lenders Applicable Percentage shall be automatically deemed amended to the extent necessary so that each such Lenders Applicable Percentage equals the percentage of the Aggregate Elected Commitment Amount represented by such Lenders Elected Commitment, in each case after giving effect to such increase, (B) Annex I shall be amended to reflect any changes in the Applicable Percentages of the Lenders other than any Increasing Lenders or Additional Lenders pursuant to the foregoing clause (A), and (C) Annex I to this Agreement shall be deemed amended to reflect the Applicable Percentage, Maximum Credit Amount and Elected Commitment of any Increasing Lender and any Additional Lender.
+ 
+(vi)                              The Borrowers may from time to time reduce the Aggregate Elected Commitment Amount; provided that (A) each reduction of the Aggregate Elected Commitment Amount shall be in an amount that is an integral multiple of $1,000,000 and not less than $1,000,000 and (B) the Borrowers shall not reduce the Aggregate Elected Commitment Amount if, after giving effect to any concurrent  prepayment of the Loans in accordance with Section 3.04(c), the total Revolving Credit Exposures would exceed the Aggregate Elected Commitment Amount.
+ 
+(vii)                           The Borrowers shall notify the Administrative Agent of any election to terminate or reduce the Aggregate Elected Commitment Amount under Section 2.06(c)(vi) at least three Business Days prior to the effective date of such termination or reduction, specifying such election and the effective date thereof.  Promptly following receipt of any such notice, the Administrative Agent shall advise the Lenders of the contents thereof. Each notice delivered by the Borrowers pursuant to this Section 2.06(c)(vii) shall be irrevocable.  Any termination  or reduction of the Aggregate Elected Commitment Amount shall be permanent and may not be reinstated, except pursuant to Section 2.06(c)(i).  Each reduction of the Aggregate Elected Commitment Amount shall be made ratably among the Lenders in accordance with each Lenders Applicable Percentage.
+ 
+10
+
+
+
+
+
+ 
+(viii)        Upon any redetermination or other adjustment in the Borrowing Base pursuant to this Agreement that would otherwise result in the Borrowing Base becoming less than the Aggregate Elected Commitment Amount, the Aggregate Elected Commitment Amount shall be automatically reduced (such reduction to be allocated to the Elected Commitments of the Lenders ratably in accordance with such Elected Commitments) so that they equal such redetermined Borrowing Base (and Annex I shall be deemed amended to reflect such amendments to each Lenders Elected Commitment and the Aggregate Elected Commitment Amount).
+ 
+(xx)         The last sentence of Section 2.08(b) of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+A Letter of Credit shall be issued, amended, renewed or extended only if (and with respect to each notice provided by the Borrowers above and any issuance, amendment, renewal or extension of each Letter of Credit, the Borrowers shall be deemed to represent and warrant that), after giving effect to such issuance, amendment, renewal or extension (1) the LC Exposure shall not exceed the LC Commitment and (2) the total Credit Exposures shall not exceed the total Commitments (i.e. the least of (x) the Aggregate Maximum Credit Amounts, (y) the then effective Borrowing Base and (z) the Aggregate Elected Commitment Amount).
+ 
+(xxi)        Section 3.04(c)(ii) of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+(ii)         If, after giving effect to any termination or reduction of the Aggregate Maximum Credit Amounts pursuant to Section 2.06(b), or any reduction of the Aggregate Elected Commitment  Amounts pursuant to Section 2.06(c), the total Credit Exposures exceeds the total Commitments, then the Borrowers shall (A) prepay the Borrowings on the date of such termination or reduction in an aggregate principal amount equal to such excess, and (B) if any excess remains after prepaying all of the Borrowings as a result of an LC Exposure, pay to the Administrative Agent on behalf of the Lenders an amount equal to such excess to be held as cash collateral as provided in Section 2.08(j).
+ 
+(xxii)       The first sentence of Section 3.05 of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+The Borrowers agree to pay to the Administrative Agent for the account of each Lender, ratably in accordance with its Applicable Percentage, a commitment fee, which shall accrue at the applicable Commitment Fee Rate on the average daily amount of the excess of such Lenders Commitment over such Lenders Credit Exposure during the period from and including the date of this Agreement to but excluding the Termination Date.
+ 
+11
+
+
+
+
+
+
+ 
+(xxiii)      Section 5.06(b) of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+(b)           the Elected Commitment and Credit Exposure of such Defaulting Lender shall not be included in determining whether all Lenders or the Required Lenders have taken or may take any action hereunder (including any consent to any amendment or waiver pursuant to Section 12.02), provided that any waiver, amendment or modification requiring the consent of all Lenders or each affected Lender which affects such Defaulting Lender differently than other affected Lenders shall require the consent of such Defaulting Lender;
+ 
+(xxiv)     Section 5.06(c)(i) of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+(i) all or any part of such LC Exposure shall be reallocated among the non-Defaulting Lenders in accordance with their respective Applicable Percentages but only to the extent (x) the sum of all non-Defaulting Lenders Credit Exposures does not exceed least of (1) the sum of all non-Defaulting Lenders Maximum Credit Amounts, (2) the sum of all non-Defaulting Lenders Applicable Percentages of the Borrowing Base, and (3) the sum of all non-Defaulting Lenders Elected Commitments and (y) the conditions set forth in Section 6.02 are satisfied at such time; and
+ 
+(xxv)      Section 9.05(n) of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+(n)         the Investments contemplated by the Sanchez/Century Midstream JV Transaction;
+ 
+(xxvi)     Clause (ii) of Section 9.11 of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+(ii)  the contribution of the Sanchez/Century Midstream Assets contemplated by the Sanchez/Century JV Transaction, or
+ 
+(xxvii)    Clause (i) of the proviso in Section 12.02(b) of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+(i) increase the Elected Commitment or the Maximum Credit Amount of any Lender without the written consent of such Lender,
+ 
+(xxviii)   The first sentence of Section 12.04(b)(iv) of the Credit Agreement is hereby amended in its entirety to read as follows:
+ 
+(iv)        The Administrative Agent, acting for this purpose as an agent of the Borrowers, shall maintain at one of its offices a copy of each Assignment and 
+ 
+12
+
+
+
+
+
+
+ 
+Assumption delivered to it and a register for the recordation of the names and addresses of the Lenders, and the Maximum Credit Amount and Elected Commitment of, and principal amount of the Loans and LC Disbursements owing to, each Lender pursuant to the terms hereof from time to time (the Register).
+ 
+3.             Amendment to Annex I.  Annex I to the Credit Agreement (List of Maximum Credit Amounts) is hereby deleted and Annex I (List of Maximum Credit Amounts) attached to this Fifth Amendment is substituted therefor.
+ 
+4.                                      Amendments to Exhibits.
+ 
+(i)            Exhibit B (Form of Borrowing Notice) is hereby deleted and Exhibit B (Form of Borrowing Notice) attached to this Fifth Amendment is substituted therefor.
+ 
+(ii)           Exhibit E (Form of Assignment and Assumption) is hereby deleted and Exhibit E (Form of Assignment and Assumption) attached to this Fifth Amendment is substituted therefor.
+ 
+(iii)          A new Exhibit J (Form of Elected Commitment Increase Certificate) in the form of Exhibit J to this Fifth Amendment is hereby added to the Credit Agreement.
+ 
+(iv)          A new Exhibit K (Form of Additional Lender Certificate) in the form of Exhibit K to this Fifth Amendment is hereby added to the Credit Agreement.
+ 
+5.             Redetermined Borrowing Base. Pursuant to Section 2.07(c) of the Credit Agreement and notwithstanding any requirement in the Credit Agreement that in connection with the Scheduled Redetermination of the Borrowing Base to be effective April 1, 2014 based on the Reserve Report required to be delivered by March 1, 2014 evaluating the Oil and Gas Properties of the Borrowers and their Subsidiaries as of December 31, 2013 (or January 1, 2014) and any requirement that the Administrative Agent notify the Borrowers and Lenders of the Proposed Borrowing Base in a Proposed Borrowing Base Notice or advise the Borrowers and Lenders of a redetermined Borrowing Base in a New Borrowing Base Notice, the Administrative Agent hereby notifies the Borrowers that, from the Fifth Amendment Effective Date until the next Borrowing Base has been approved in accordance with Section 2.07(c) of the Credit Agreement, the Borrowing Base shall be $400,000,000. This Fifth Amendment constitutes notice to the Borrowers of the redetermined Borrowing Base for purposes of Section 2.07(c).  As of the Fifth Amendment Effective Date the Aggregate Elected Commitment is $325,000,000.  By its signature to this Agreement each Lender consents to the $400,000,000 redetermined Borrowing Base and acknowledges the $325,000,000 Aggregate Elected Commitment.  Each Lender agrees that, subject to any changes in such Lenders Applicable Percentage and/or Elected Commitment pursuant to Section 2.06(c) of the Credit Agreement, from the Fifth Amendment Effective Date until the next Borrowing Base redetermination such Lenders Commitment shall be the least of (i) such Lenders Maximum Credit Amount, (ii) such Lenders Applicable Percentage of the redetermined Borrowing Base and (iii) such Lenders Elected Commitment. For the sake of clarity, the next Scheduled Determination of the Borrowing Base shall be based on a Reserve 
+ 
+13
+
+
+
+
+
+
+ 
+Report as of June 30, 2014 (or July 1, 2014), which Reserve Report shall be delivered by September 1, 2014 in accordance with Section 8.12(a)(ii) of the Credit Agreement.
+ 
+6.             Fees.  On the Fifth Amendment Effective Date, the Borrowers shall pay to the Administrative Agent (a) for the account of each Lender increasing its Commitment pursuant to this Fifth Amendment, an upfront fee equal to forty (40) basis points (0.40%) of the amount by which such Lenders Commitment exceeds its Commitment immediately prior to the Fifth Amendment Effective Date and (b) for the account of each Additional Lender, if any, an upfront fee equal to forty (40) basis points (0.40%) of its Commitment.  On the Fifth Amendment Effective Date, such fees shall be non-refundable and deemed to be fully earned when paid.
+ 
+7.             Borrowers Ratification.  Each of the Borrowers hereby ratifies all of its Obligations under the Credit Agreement and each of the Loan Documents to which it is a party, and agrees and acknowledges that the Credit Agreement and each of the Loan Documents to which it is a party are and shall continue to be in full force and effect. Nothing in this Fifth Amendment extinguishes, novates or releases any right, claim, Lien, security interest or entitlement of any of the Lenders, the Issuing Bank or the Administrative Agent created by or contained in any of such documents nor is any Borrower released from any covenant, warranty or obligation created by or contained herein or therein.
+ 
+8.             Guarantors Ratification.  Each Guarantor by its execution in the space provided below under ACKNOWLEDGED for purposes of Section 8 hereby ratifies, confirms, acknowledges and agrees that its obligations under the Guaranty are in full force and effect and that such Guarantor continues to unconditionally and irrevocably guarantee the full and punctual payment, when due, whether at stated maturity or earlier by acceleration or otherwise, of the Obligations, and its execution and delivery of this Fifth Amendment does not indicate or establish an approval or consent requirement by any Guarantor under the Guaranty in connection with the execution and delivery of amendments to the Credit Agreement, the Notes or any of the other Loan Documents (other than the Guaranty or any other Loan Document to which a Guarantor is a party).
+ 
+9.             Conditions to Effectiveness of Fifth Amendment.  This Fifth Amendment shall be effective upon the satisfaction, in the Administrative Agents sole discretion, of the following conditions precedent:
+ 
+(i)                                     The Administrative Agent shall have executed, and shall have received from each of the Borrowers and the Lenders duly executed signature pages to, this Fifth Amendment, and shall have received a duly executed acknowledgement of Section 8 of this Fifth Amendment from each Guarantor;
+ 
+(ii)                                  the Administrative Agent shall have received such other documents as the Administrative Agent or its counsel may reasonably request; and
+ 
+(iii)                               the Administrative Agent and the Lenders shall have received all fees and other amounts due and payable, including, to the extent invoiced, reimbursement or 
+ 
+14
+
+
+
+
+
+
+ 
+payment of all out-of-pocket expenses required to be reimbursed or paid by the Borrowers hereunder.
+ 
+10.          No Implied Amendment, Waiver or Consent. This Fifth Amendment shall not constitute an amendment or waiver of any provision not expressly referred to herein and shall not be construed as a consent to any action on the part of the Borrowers that would require a waiver or consent of the Lenders or Required Lenders, as applicable, or an amendment or modification to any term of the Loan Documents except as expressly stated herein.
+ 
+11.          Miscellaneous.  This Fifth Amendment is a Loan Document.  Except as affected by this Fifth Amendment, the Loan Documents are unchanged and continue in full force and effect.  However, in the event of any inconsistency between the terms of the Credit Agreement, as amended by this Fifth Amendment, and any other Loan Document, the terms of the Credit Agreement will control and the other document will be deemed to be amended to conform to the terms of the Credit Agreement.  All references to the Credit Agreement will refer to the Credit Agreement as amended by this Fifth Amendment and any other amendments properly executed among the parties.  Borrowers agree that all Loan Documents to which they are a party (whether as an original signatory or by assumption of the Obligations) remain in full force and effect and continue to evidence their respective legal, valid and binding obligations enforceable in accordance with their terms (as the same are affected by this Fifth Amendment or are amended in connection with this Fifth Amendment).  AS A MATERIAL INDUCEMENT TO THE ADMINISTRATIVE AGENT AND LENDERS PARTY HERETO TO ENTER INTO THIS FIFTH AMENDMENT, BORROWERS RELEASE THE ADMINISTRATIVE AGENT, THE ISSUING BANK, THE LENDERS AND THEIR RESPECTIVE PREDECESSORS, SUCCESSORS, ASSIGNS, DIRECTORS, OFFICERS, EMPLOYEES, TRUSTEES, AGENTS AND ATTORNEYS FROM ANY LIABILITY FOR ACTIONS OR FAILURES TO ACT IN CONNECTION WITH THE LOAN DOCUMENTS PRIOR TO THE FIFTH AMENDMENT EFFECTIVE DATE.  NO COURSE OF DEALING BETWEEN BORROWERS OR ANY OTHER PERSON, ON THE ONE HAND, AND THE ADMINISTRATIVE AGENT, ISSUING BANK AND THE LENDERS, ON THE OTHER, WILL BE DEEMED TO HAVE ALTERED OR AMENDED THE CREDIT AGREEMENT OR AFFECTED EITHER BORROWERS, THE ADMINISTRATIVE AGENTS, THE ISSUING BANKS OR THE LENDERS RIGHT TO ENFORCE THE CREDIT AGREEMENT AS WRITTEN.  This Fifth Amendment will be binding upon and inure to the benefit of each of the undersigned and their respective successors and permitted assigns.
+ 
+12.          Form.  Each agreement, document, instrument or other writing to be furnished to the Administrative Agent and/or the Lenders under any provision of this instrument must be in form and substance satisfactory to the Administrative Agent and its counsel.
+ 
+13.          Headings. The headings and captions used in this Fifth Amendment are for convenience only and will not be deemed to limit, amplify or modify the terms of this Fifth Amendment, the Credit Agreement, or the other Loan Documents.
+ 
+15
+
+
+
+
+
+
+ 
+14.          Interpretation. Wherever possible each provision of this Fifth Amendment shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Fifth Amendment shall be prohibited by or invalid under such law, such provision shall be ineffective to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Fifth Amendment.
+ 
+15.          Multiple Counterparts.  This Fifth Amendment may be separately executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to constitute one and the same agreement.  This Fifth Amendment may be transmitted and/or signed by facsimile, telecopy or electronic mail.  The effectiveness of any such documents and signatures shall, subject to applicable law, have the same force and effect as manually-signed originals and shall be binding on all Loan Parties, all Lenders, the Administrative Agent and the Issuing Bank.  The Administrative Agent may also require that any such documents and signatures be confirmed by a manually-signed original thereof; provided, however, that the failure to request or deliver the same shall not limit the effectiveness of any facsimile document or signature.
+ 
+16.          Governing Law.  THIS FIFTH AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK WITHOUT REGARD TO ANY CHOICE-OF-LAW PROVISIONS THAT WOULD REQUIRE THE APPLICATION OF THE LAW OF ANOTHER JURISDICTION.
+ 
+[Signature Pages Follow]
+ 
+16
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Fifth Amendment to be executed by their respective officers thereunto duly authorized as of the date first above written.
+ 
+
+
+
+     
+
+BORROWERS:       
+
+
+     
+
+        
+
+
+     
+
+SANCHEZ   ENERGY CORPORATION,       
+
+
+     
+
+a   Delaware corporation       
+
+
+     
+
+        
+
+
+     
+
+SEP   HOLDINGS III, LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+SN   MARQUIS LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+SN   COTULLA ASSETS, LLC,       
+
+
+     
+
+a   Texas limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Michael G. Long       
+
+
+     
+
+Name:    
+
+Michael   G. Long       
+
+
+     
+
+Title:    
+
+Executive   Vice President  Chief Financial       
+
+
+     
+
+     
+
+Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+ACKNOWLEDGED   for the purposes stated in Section 8:       
+
+
+     
+
+        
+
+
+     
+
+GUARANTORS:       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SN   OPERATING, LLC,       
+
+
+     
+
+a   Texas limited liability company       
+
+
+     
+
+        
+
+
+     
+
+SN   TMS, LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   Michael G. Long       
+
+
+     
+
+Name:    
+
+Michael   G. Long       
+
+
+     
+
+Title:    
+
+Executive   Vice President  Chief Financial       
+
+
+     
+
+     
+
+Officer         
+ 
+Signature Page 1  to Fifth Amendment
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+ADMINISTRATIVE AGENT:       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+ROYAL   BANK OF CANADA, as Administrative Agent       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Ann Hurley       
+
+
+     
+
+Name:    
+
+Ann   Hurley       
+
+
+     
+
+Title:    
+
+Manager,   Agency       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+LENDERS:       
+
+
+     
+
+        
+
+
+     
+
+ISSUING BANK AND LENDER:       
+
+
+     
+
+        
+
+
+     
+
+ROYAL BANK OF CANADA       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Mark Lumpkin, Jr.       
+
+
+     
+
+Name:    
+
+Mark   Lumpkin, Jr.       
+
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+CAPITAL   ONE, NATIONAL ASSOCIATION       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael Higgins       
+
+
+     
+
+Name:    
+
+Michael   Higgins       
+
+
+     
+
+Title:    
+
+Director       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael Spaight       
+
+
+     
+
+Name:    
+
+Michael   Spaight       
+
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Samuel Miller       
+
+
+     
+
+Name:    
+
+Samuel   Miller       
+
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+
+
+    
+ 
+Signature Page 2  to Fifth Amendment
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMPASS   BANK       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Ian Payne       
+
+
+     
+
+Name:    
+
+Ian   Payne       
+
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SUNTRUST BANK       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Chulley Bogle       
+
+
+     
+
+Name:    
+
+Chulley   Bogle       
+
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+ING   CAPITAL LLC       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Charles Hall       
+
+
+     
+
+Name:    
+
+Charles   Hall       
+
+
+     
+
+Title:    
+
+Managing   Director       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Juli Bieser       
+
+
+     
+
+Name:    
+
+Juli   Bieser       
+
+
+     
+
+Title:    
+
+Director       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+BRANCH BANKING AND TRUST COMPANY       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Jodie Gildersleeve       
+
+
+     
+
+Name:    
+
+Jodie   Gildersleeve       
+
+
+     
+
+Title:    
+
+Assistant   Vice President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+IBERIABANK       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   W. Bryan Chapman       
+
+
+     
+
+Name:    
+
+W.   Bryan Chapman       
+
+
+     
+
+Title:    
+
+Executive   Vice President         
+ 
+Signature Page 3  to Fifth Amendment
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+UNION BANK, N.A.       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Haylee Dallas       
+
+
+     
+
+Name:    
+
+Haylee   Dallas       
+
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SOCIÉTÉ   GENÉRALÉ       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   David Bornstein       
+
+
+     
+
+Name:    
+
+David   Bornstein       
+
+
+     
+
+Title:    
+
+Director         
+ 
+Signature Page 4  to Fifth Amendment
+ 
+
+
+
+
+
+
+ 
+ANNEX I
+ 
+LIST OF MAXIMUM CREDIT AMOUNTS LIST OF MAXIMUM CREDIT AMOUNTS
+ 
+
+
+
+Name of Lender    
+
+     
+
+Applicable   Percentage    
+
+     
+
+Maximum Credit   Amount    
+
+     
+
+Elected   Commitment    
+
+        
+
+
+Royal Bank of Canada    
+
+     
+
+13.333333333    
+
+%    
+
+$    
+
+66,666,666.67    
+
+     
+
+$    
+
+43,333,333.34    
+
+        
+
+
+Capital One, National Association    
+
+     
+
+13.333333333    
+
+%    
+
+$    
+
+66,666,666.67    
+
+     
+
+$    
+
+43,333,333.34    
+
+        
+
+
+SunTrust Bank    
+
+     
+
+11.666666667    
+
+%    
+
+$    
+
+58,333,333.34    
+
+     
+
+$    
+
+37,916,666.67    
+
+        
+
+
+Compass Bank    
+
+     
+
+11.666666667    
+
+%    
+
+$    
+
+58,333,333.34    
+
+     
+
+$    
+
+37,916,666.67    
+
+        
+
+
+Credit Suisse AG, Cayman Islands Branch    
+
+     
+
+8.333333333    
+
+%    
+
+$    
+
+41,666,666.67    
+
+     
+
+$    
+
+27,083,333.33    
+
+        
+
+
+ING Capital LLC    
+
+     
+
+8.333333333    
+
+%    
+
+$    
+
+41,666,666.67    
+
+     
+
+$    
+
+27,083,333.33    
+
+        
+
+
+Branch Banking and Trust Company    
+
+     
+
+8.333333333    
+
+%    
+
+$    
+
+41,666,666.67    
+
+     
+
+$    
+
+27,083,333.33    
+
+        
+
+
+IBERIABANK    
+
+     
+
+8.333333333    
+
+%    
+
+$    
+
+41,666,666.67    
+
+     
+
+$    
+
+27,083,333.33    
+
+        
+
+
+Union Bank, National Association.    
+
+     
+
+8.333333333    
+
+%    
+
+$    
+
+41,666,666.67    
+
+     
+
+$    
+
+27,083,333.33    
+
+        
+
+
+Sociètè Genèralè    
+
+     
+
+8.333333333    
+
+%    
+
+$    
+
+41,666,666.67    
+
+     
+
+$    
+
+27,083,333.33    
+
+        
+
+
+TOTAL    
+
+     
+
+100    
+
+%    
+
+$    
+
+500,000,000.00    
+
+     
+
+$    
+
+325,000,000.00    
+
+          
+ 
+Annex I to Fifth Amendment
+ 
+
+
+
+
+
+ 
+EXHIBIT B
+ 
+FORM OF BORROWING REQUEST
+ 
+[                            ], 20[    ]
+ 
+SANCHEZ ENERGY CORPORATION, a Delaware corporation, SEP HOLDINGS III, LLC, a Delaware limited liability company, SN MARQUIS LLC, a Delaware limited liability company, and SN COTULLA ASSETS, LLC, a Texas limited liability company (collectively, the Borrowers), pursuant to Section 2.03 of the Amended and Restated Credit Agreement dated as of May 31, 2013 (together with all amendments, restatements, supplements or other modifications thereto, the Credit Agreement), among the Borrowers, Royal Bank of Canada, as Administrative Agent and the lenders (the Lenders) which are or become parties thereto (unless otherwise defined herein, each capitalized term used herein is defined in the Credit Agreement), hereby requests a Borrowing as follows:
+ 
+(i)            Aggregate amount of the requested Borrowing is $[                        ];
+ 
+(ii)           Date of such Borrowing is [                        ], 20[      ];
+ 
+(iii)          Requested Borrowing is to be [an ABR Borrowing] [a Eurodollar Borrowing];
+ 
+(iv)                              In the case of a Eurodollar Borrowing, the initial Interest Period applicable thereto is [                        ];
+ 
+(v)                                 The amount equal to the least of (x) the Aggregate Maximum Credit Amounts, (y) the currently effective Borrowing Base in effect on the date hereof and (z) the Aggregate Elected Commitment Amount is $[                        ];
+ 
+(vi)                              Total Credit Exposures on the date hereof (i.e., outstanding principal amount of Loans and total LC Exposure) is $[                        ]; and
+ 
+(vii)                           Pro forma total Credit Exposures (giving effect to the requested Borrowing) is $[                        ]; and
+ 
+(viii)                              Location and number of the Borrowers account to which funds are to be disbursed, which shall comply with the requirements of Section 2.05 of the Credit Agreement, is as follows:
+ 
+[                                          ]
+ 
+[                                          ]
+ 
+Exhibit B to Fifth Amendment
+ 
+
+
+
+
+
+
+ 
+The undersigned certifies that he/she is the [                        ] of each Co-Borrower, and that as such he/she is authorized to execute this certificate on behalf of the Borrowers.  The undersigned further certifies, represents and warrants on behalf of the Borrowers that (a) the Borrowers are entitled to receive the requested Borrowing under the terms and conditions of the Credit Agreement, (b) that no Default or Event of Default exists, and (c) after giving effect to the Borrowing request made herein the total Credit Exposure will not exceed the Borrowing Base now in effect.
+ 
+
+
+
+     
+
+SANCHEZ   ENERGY CORPORATION,       
+
+
+     
+
+a   Delaware corporation       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SEP   HOLDINGS III, LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SN   MARQUIS LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SN   COTULLA ASSETS, LLC,       
+
+
+     
+
+a   Texas limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+          
+ 
+
+
+
+
+
+
+ 
+EXHIBIT E
+ 
+FORM OF ASSIGNMENT AND ASSUMPTION
+ 
+Reference is made to the Amended and Restated Credit Agreement, dated as of May 31, 2013 (as amended, restated, supplemented or otherwise modified from time to time and in effect on the date hereof, the Credit Agreement), among SANCHEZ ENERGY CORPORATION, a Delaware corporation, SEP HOLDINGS III, LLC, a Delaware limited liability company, SN MARQUIS LLC, a Delaware limited liability company, and SN COTULLA ASSETS, LLC, a Texas limited liability company (collectively, the Borrowers), the Lenders named therein and Royal Bank of Canada, as Administrative Agent for the Lenders.  Capitalized terms defined in the Credit Agreement are used herein with the same meanings.
+ 
+The Assignor named below hereby sells and assigns, without recourse, to the Assignee named below, and the Assignee hereby purchases and assumes, without recourse, from the Assignor, effective as of the Assignment Date set forth below, the interests set forth below (the Assigned Interest) in the Assignors rights and obligations under the Credit Agreement, including, without limitation, the interests set forth below in the Elected Commitment of the Assignor on the Assignment Date and Loans owing to the Assignor which are outstanding on the Assignment Date, together with the participations in Letters of Credit and LC Disbursements held by the Assignor on the Assignment Date, but excluding accrued interest and fees to and excluding the Assignment Date.  The Assignee hereby acknowledges receipt of a copy of the Credit Agreement.  From and after the Assignment Date (i) the Assignee shall be a party to and be bound by the provisions of the Credit Agreement and, to the extent of the Assigned Interest, have the rights and obligations of a Lender thereunder and (ii) the Assignor shall, to the extent of the Assigned Interest, relinquish its rights and be released from its obligations under the Credit Agreement.
+ 
+This Assignment and Assumption is being delivered to the Administrative Agent (with a copy to the Borrowers) together with (i) if the Assignee is a Foreign Lender, any documentation required to be delivered by the Assignee pursuant to Section 5.03 of the Credit Agreement, duly completed and executed by the Assignee, and (ii) if the Assignee is not already a Lender under the Credit Agreement, an Administrative Questionnaire in the form supplied by the Administrative Agent, duly completed by the Assignee.  The [Assignee/Assignor] shall pay the fee payable to the Administrative Agent pursuant to Section 12.04(b) of the Credit Agreement.
+ 
+This Assignment and Assumption shall be governed by and construed in accordance with the laws of the State of New York.
+ 
+Date of Assignment:
+Legal Name of Assignor:
+Legal Name of Assignee:
+Assignees Address for Notices:
+Effective Date of Assignment (Assignment Date):
+ 
+Exhibit E to Fifth Amendment
+ 
+
+
+
+
+
+
+ 
+
+
+
+Facility    
+
+     
+
+Principal Amount Assigned    
+
+     
+
+Percentage Assigned of   Aggregate Elected   Commitment Amount /Elected   Commitment (set forth, to at   least 8 decimals, as a   percentage of the Aggregate   Elected Commitment Amount)    
+
+        
+
+
+Elected Commitment Assigned:    
+
+     
+
+$    
+
+     
+
+     
+
+%    
+
+        
+
+
+Loans:    
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+
+
+
+
+
+    
+ 
+The terms set forth above and on the reverse side hereof are hereby agreed to:
+ 
+[Name of Assignor], as Assignor
+ 
+
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+[Name   of Assignee], as Assignee       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+Title:    
+
+          
+ 
+
+
+
+
+
+
+ 
+Exhibit J
+ 
+FORM OF ELECTED COMMITMENT INCREASE CERTIFICATE
+ 
+[                            ], 201[    ]
+ 
+To:  Royal Bank of Canada.,
+as Administrative  Agent
+ 
+The Borrowers, the Administrative  Agent and certain Lenders and other agents have heretofore entered into an Amended and Restated Credit Agreement,  dated as of May 31, 2013(as amended, restated, supplemented or otherwise modified from time to time, the Credit  Agreement).  Capitalized terms not otherwise defined herein shall have the meaning given to such terms in the Credit Agreement.
+ 
+This Elected Commitment Increase Certificate is being delivered pursuant to Section 2.06(c) of the Credit Agreement.  Please be advised that the undersigned Increasing Lender has agreed (a) to increase it Elected Commitment under the Credit Agreement effective               , 20     from [$            ] to [$            ] and (b) that is shall continue to be a party in all respects to the Credit Agreement and the other Loan Documents.
+ 
+
+
+
+     
+
+SANCHEZ   ENERGY CORPORATION,       
+
+
+     
+
+a   Delaware corporation       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SEP   HOLDINGS III, LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+        
+
+
+     
+
+SN   MARQUIS LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+          
+ 
+Exhibit J to Fifth Amendment
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+SN   COTULLA ASSETS, LLC,       
+
+
+     
+
+a   Texas limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+          
+ 
+ 
+
+
+
+Accepted   and Agreed:    
+
+        
+
+
+     
+
+        
+
+
+ROYAL   BANK OF CANADA, as Administrative Agent    
+
+        
+
+
+     
+
+        
+
+
+By:    
+
+     
+
+        
+
+
+Name:    
+
+     
+
+        
+
+
+Title:    
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+Accepted   and Agreed:    
+
+        
+
+
+     
+
+        
+
+
+[Name   of Increasing Lender]    
+
+        
+
+
+     
+
+        
+
+
+By:    
+
+     
+
+        
+
+
+Name:    
+
+     
+
+        
+
+
+Title:    
+
+     
+
+          
+ 
+
+
+
+
+
+
+ 
+EXHIBIT K
+ 
+FORM OF ADDITIONAL LENDER CERTIFICATE
+ 
+[                            ], 201[    ]
+ 
+   To: Royal Bank of Canada.,
+as Administrative  Agent
+ 
+The Borrowers, the Administrative  Agent and certain Lenders and other agents have heretofore entered into an Amended and Restated Credit Agreement,  dated as of May 31, 2013(as amended, restated, supplemented or otherwise modified from time to time, the Credit  Agreement).  Capitalized terms not otherwise defined herein shall have the meaning given to such terms in the Credit Agreement.
+ 
+This Additional Lender Certificate is being delivered pursuant to Section 2.06(c) of the Credit Agreement.  Please be advised that the undersigned Additional Lender has agreed (a) to become a Lender under the Credit Agreement effective               , 20     with a Maximum Aggregate Credit Amount of [$            ] and an Elected Commitment of [$            ] and (b) that it shall be a party in all respects to the Credit Agreement and the other Loan Documents
+ 
+This Additional Lender Certificate is being delivered to the Administrative Agent together with (i) if the Additional Lender is a Foreign Lender, any documentation required to be delivered by such Additional Lender pursuant to Section 5.03(e) of the Credit Agreement, duly completed and executed by the Additional Lender, and (ii) an Administrative Questionnaire in the form supplied by the Administrative Agent, duly completed by the Additional Lender. The [Borrowers/Additional Lender] shall pay the fee payable to the Administrative  Agent pursuant to Section 2.06(c)(ii)(7) of the Credit Agreement.
+ 
+
+
+
+     
+
+SANCHEZ   ENERGY CORPORATION,       
+
+
+     
+
+a   Delaware corporation       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+        
+
+
+     
+
+SEP   HOLDINGS III, LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+          
+ 
+Exhibit K to Fifth Amendment
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Title:       
+
+
+     
+
+        
+
+
+     
+
+SN   MARQUIS LLC,       
+
+
+     
+
+a   Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+SN   COTULLA ASSETS, LLC,       
+
+
+     
+
+a   Texas limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+Title:    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+Accepted   and Agreed:    
+
+        
+
+
+     
+
+        
+
+
+ROYAL   BANK OF CANADA, as Administrative Agent    
+
+        
+
+
+     
+
+        
+
+
+By:    
+
+     
+
+     
+
+        
+
+
+Name:    
+
+     
+
+     
+
+        
+
+
+Title:    
+
+     
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+Accepted   and Agreed:    
+
+        
+
+
+     
+
+        
+
+
+[Name   of Additional Lender]    
+
+        
+
+
+     
+
+        
+
+
+By:    
+
+     
+
+     
+
+        
+
+
+Name:    
+
+     
+
+     
+
+        
+
+
+Title:    
+
+     
+
+     
+
+          
+ 
+
+
+
+
+
+
+
+
+

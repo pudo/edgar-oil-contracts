@@ -1,0 +1,1410 @@
+
+EX-10.18
+4
+v329583_ex10-18.htm
+EXHIBIT 10.18
+
+
+
+     
+
+
+
+ 
+
+
+
+Exhibit 10.18
+
+
+
+
+
+
+
+FOURTH AMENDMENT
+
+ 
+
+TO
+
+ 
+
+SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+
+ 
+
+ 
+
+ 
+
+DATED AS OF
+
+ 
+
+FEBRUARY 26, 2013
+
+ 
+
+ 
+
+ 
+
+AMONG
+
+ 
+
+ 
+
+ 
+
+EV PROPERTIES, L.P.,
+
+ 
+
+as Borrower,
+
+ 
+
+ 
+
+ 
+
+THE GUARANTORS,
+
+ 
+
+ 
+
+ 
+
+JPMORGAN CHASE BANK, N.A.,
+
+ 
+
+as Administrative Agent,
+
+ 
+
+ 
+
+ 
+
+and
+
+ 
+
+ 
+
+ 
+
+The Lenders Signatory Hereto
+
+ 
+
+
+
+
+     
+     
+    
+ 
+
+FOURTH AMENDMENT TO SECOND AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+ 
+
+This FOURTH AMENDMENT
+TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT (this “Fourth Amendment”) dated as of February 26, 2013, is
+among EV PROPERTIES, L.P., a Delaware limited partnership (the “Borrower”); each of the undersigned guarantors
+(the “Guarantors”, and together with the Borrower, the “Obligors”); JPMORGAN CHASE BANK,
+N.A., as administrative agent for the Lenders (in such capacity, together with its successors, the “Administrative Agent”);
+and the Lenders signatory hereto.
+
+ 
+
+Recitals
+
+ 
+
+A.	The Borrower,
+the Administrative Agent and the Lenders are parties to that certain Second Amended and Restated Credit Agreement dated as of April
+26, 2011 (as amended by that certain First Amendment to Second Amended and Restated Credit Agreement dated as of December 21, 2011,
+by that certain Second Amendment to Second Amended and Restated Credit Agreement dated as of March 29, 2012 and by that certain
+Third Amendment to Second Amended and Restated Credit Agreement dated as of September 27, 2012, the “Credit Agreement”),
+pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower.
+
+ 
+
+B.	The Guarantors
+are parties to that certain Second Amended and Restated Guaranty and Collateral Agreement dated as of April 26, 2011 made by the
+Borrower and each of the other Obligors in favor of the Administrative Agent (as heretofore amended, modified or supplemented,
+the “Guaranty Agreement”).
+
+ 
+
+C.	The Borrower,
+the Administrative Agent and the Lenders have agreed to amend certain provisions of the Credit Agreement as more fully set forth
+herein.
+
+ 
+
+D.	NOW, THEREFORE,
+in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+ 
+
+Section
+1.                
+Defined Terms. Each capitalized term which is defined in the Credit Agreement, but which is not defined in
+this Fourth Amendment, shall have the meaning ascribed such term in the Credit Agreement. Unless otherwise indicated, all section
+references in this Fourth Amendment refer to sections of the Credit Agreement.
+
+ 
+
+Section
+2.                
+Amendments to Credit Agreement.
+
+ 
+
+2.1                
+Amendments to Section 1.02.
+
+ 
+
+(a)               
+The definition of “Agreement” is hereby amended in its entirety to read as follows:
+
+ 
+
+“Agreement”
+means this Second Amended and Restated Credit Agreement, including the Schedules and Exhibits hereto, as amended by the First Amendment,
+the Second Amendment, the Third Amendment, the Fourth Amendment, and as the same may be amended, modified or supplemented from
+time to time.
+
+ 
+
+
+
+
+    Page 1
+     
+    
+ 
+
+(b)              
+The following definitions are hereby added where alphabetically appropriate to read as follows:
+
+ 
+
+“Fourth
+Amendment” means that certain Fourth Amendment to Second Amended and Restated Credit Agreement, dated as of February
+26, 2013, among the Borrower, the Guarantors, the Administrative Agent and the Lenders party thereto.
+
+ 
+
+“Fourth
+Amendment Effective Date” has the meaning set forth in the Fourth Amendment.
+
+ 
+
+“Senior
+Secured Funded Debt” means any Debt included in the definition of “Total Debt” which is secured by a Lien
+on the Properties of the Borrower or any Guarantor.
+
+ 
+
+2.2                
+Amendments to Section 9.01.
+
+ 
+
+(a)	Section 9.01(a)
+is hereby amended in its entirety to read as follows:
+
+ 
+
+(a)	Ratio
+of Total Debt to EBITDAX. The Parent will not, as of any date of determination from and after March 31, 2014, permit its ratio
+of Total Debt as of such date to EBITDAX for the most recent period of four fiscal quarters for which financial statements are
+available to be greater than 4.25 to 1.0.
+
+ 
+
+(b)	Section 9.01(c)
+is hereby added which reads in its entirety as follows:
+
+ 
+
+(c)	Ratio
+of Senior Secured Funded Debt to EBITDAX. The Parent will not, as of any date of determination from and after the Fourth Amendment
+Effective Date up to and including March 30, 2014, permit its ratio of Senior Secured Funded Debt as of such date to EBITDAX for
+the most recent period of four fiscal quarters for which financial statements are available to be greater than 3.0 to 1.0.
+
+ 
+
+Section
+3.                
+Conditions Precedent. This Fourth Amendment shall become effective on the date (such date, the “Fourth
+Amendment Effective Date”) when each of the following conditions is satisfied (or waived in accordance with Section 12.02):
+
+ 
+
+3.1                
+The Administrative Agent shall have received from the Majority Lenders and the Obligors counterparts (in such number
+as may be requested by the Administrative Agent) of this Fourth Amendment signed on behalf of such Persons.
+
+ 
+
+3.2                
+Both before and immediately after giving effect to this Fourth Amendment, no Default shall have occurred and be continuing.
+
+ 
+
+
+
+
+    Page 2
+     
+    
+ 
+
+3.3                
+The Administrative Agent shall have received such other documents as the Administrative Agent or its special counsel
+may reasonably require.
+
+ 
+
+The Administrative
+Agent is hereby authorized and directed to declare this Fourth Amendment to be effective (and the Fourth Amendment Effective Date
+shall occur) when it has received documents confirming or certifying, to the satisfaction of the Administrative Agent, compliance
+with the conditions set forth in this Section 3 or the waiver of such conditions as permitted in Section 12.02. Such declaration
+shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes.
+
+ 
+
+Section
+4.                
+Miscellaneous.
+
+ 
+
+4.1                
+Confirmation. The provisions of the Credit Agreement, as amended by this Fourth Amendment, shall remain in
+full force and effect following the Fourth Amendment Effective Date.
+
+ 
+
+4.2                
+Ratification and Affirmation; Representations and Warranties. Each Obligor hereby (a) acknowledges the terms
+of this Fourth Amendment; (b) ratifies and affirms its obligations under, and acknowledges its continued liability under, each
+Loan Document and agrees that each Loan Document remains in full force and effect as expressly amended hereby; (c) agrees that
+from and after the Fourth Amendment Effective Date each reference to the Credit Agreement in the Guaranty Agreement and the other
+Loan Documents shall be deemed to be a reference to the Credit Agreement, as amended by this Fourth Amendment; and (d) represents
+and warrants to the Lenders that as of the date hereof: (i) all of the representations and warranties contained in each Loan Document
+are true and correct in all material respects (without duplication of materiality), except to the extent any such representations
+and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be
+true and correct in all material respects (without duplication of materiality) as of such specified earlier date, (ii) no Default
+has occurred and is continuing and (iii) no event, development or circumstance has have occurred or exists that has resulted in,
+or could reasonably be expected to have, a Material Adverse Effect.
+
+ 
+
+4.3                
+Counterparts. This Fourth Amendment may be executed by one or more of the parties hereto in any number of
+separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery
+of an executed counterpart of a signature page of this Fourth Amendment by telecopy, facsimile or email transmission shall be effective
+as delivery of a manually executed counterpart of this Fourth Amendment.
+
+ 
+
+4.4                
+No Oral Agreement. This Fourth Amendment, the Credit Agreement and the other Loan Documents executed in connection
+herewith and therewith represent the final agreement between the parties and may not be contradicted by evidence of prior, contemporaneous,
+or unwritten oral agreements of the parties. There are no subsequent oral agreements between the parties.
+
+ 
+
+4.5                
+GOVERNING LAW. THIS FOURTH AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE
+STATE OF TEXAS.
+
+ 
+
+
+
+
+    Page 3
+     
+    
+ 
+
+4.6                
+Payment of Expenses. In accordance with Section 12.03, the Borrower agrees to pay or reimburse the Administrative
+Agent for all of its reasonable out-of-pocket costs and reasonable expenses incurred in connection with this Fourth Amendment,
+any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the
+reasonable fees and disbursements of counsel to the Administrative Agent.
+
+ 
+
+4.7                
+Severability. Any provision of this Fourth Amendment which is prohibited or unenforceable in any jurisdiction
+shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining
+provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable
+such provision in any other jurisdiction.
+
+ 
+
+4.8                
+Successors and Assigns. This Fourth Amendment shall be binding upon and inure to the benefit of the parties
+hereto and their respective successors and assigns.
+
+ 
+
+[Signature Pages Follow]
+
+ 
+
+
+
+
+    Page 4
+     
+    
+ 
+
+IN WITNESS WHEREOF,
+the parties hereto have caused this Fourth Amendment to be duly executed effective as of the Fourth Amendment Effective Date.
+
+ 
+
+
+
+    BORROWER:
+    EV PROPERTIES, L.P.
+
+     
+     
+
+     
+    By:
+    EV Properties GP, LLC, its general partner
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL E. MERCER
+
+     
+     
+    Michael E. MercerSenior Vice President and Chief
+Financial Officer
+
+
+ 
+
+
+
+
+
+    GUARANTORS:
+    EV ENERGY PARTNERS, L.P.
+
+     
+     
+
+     
+    By:
+    EV ENERGY GP, L.P., its general partner
+
+     
+     
+     
+
+     
+    By:
+    EV MANAGEMENT, LLC, its general
+partner
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL E. MERCER
+
+     
+     
+    Michael E. MercerSenior Vice President and Chief
+Financial Officer
+
+
+ 
+
+
+
+
+
+    
+    EV PROPERTIES GP, LLC
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL E. MERCER
+
+     
+     
+    Michael E. MercerSenior Vice President and Chief
+Financial Officer
+
+
+ 
+
+
+
+Fourth Amendment to Second Amended and Restated
+Credit Agreement
+Signature Page
+
+
+
+
+
+
+     
+     
+    
+ 
+
+
+
+    
+    ENERVEST PRODUCTION
+                    PARTNERS, LTD.
+
+
+
+
+     
+     
+
+     
+    By:
+    EVPP GP, LLC, its general partner
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL E. MERCER
+
+     
+    Name:  
+Title:
+ 
+    Michael E. MercerSenior Vice President and Chief
+Financial Officer
+
+
+ 
+
+
+
+
+
+    
+    EVPP GP, LLC
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL E. MERCER
+
+     
+    Name:  
+Title:
+ 
+    Michael E. MercerSenior Vice President and Chief
+Financial Officer
+
+
+ 
+
+
+
+
+
+    
+    CGAS PROPERTIES, L.P.
+
+
+
+
+     
+     
+
+     
+    By:
+    EVCG GP, LLC, its general partner
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL E. MERCER
+
+     
+    Name:  
+Title:
+ 
+    Michael E. MercerSenior Vice President and Chief
+Financial Officer
+
+
+ 
+
+Fourth Amendment to Second Amended and Restated
+Credit Agreement
+Signature Page
+
+
+
+
+     
+     
+    
+ 
+
+
+
+
+
+    
+    ENERVEST-CARGAS, LTD.
+
+
+
+
+     
+     
+
+     
+    By:
+    EVPP GP, LLC, its general partner
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL E. MERCER
+
+     
+    Name:  
+Title:
+ 
+    Michael E. MercerSenior Vice President and Chief
+Financial Officer
+
+
+ 
+
+
+
+
+
+    
+    EVPP GP, LLC
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL E. MERCER
+
+     
+    Name:  
+Title:
+ 
+    Michael E. MercerSenior Vice President and Chief
+Financial Officer
+
+
+ 
+
+
+
+
+
+    
+    ENERVEST MONROE MARKETING, LTD.
+
+
+
+
+     
+     
+
+     
+    By:
+    EVCG GP, LLC, its general partner
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL E. MERCER
+
+     
+    Name:  
+Title:
+ 
+    Michael E. MercerSenior Vice President and Chief
+Financial Officer
+
+
+
+
+ 
+
+
+
+
+
+    
+    ENERVEST MONROE GATHERING, LTD.
+
+
+
+
+     
+     
+
+     
+    By:
+    EVCG GP, LLC, its general partner
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL E. MERCER
+
+     
+    Name:  
+Title:
+ 
+    Michael E. MercerSenior Vice President and Chief
+Financial Officer
+
+
+ 
+
+
+Fourth Amendment to Second Amended and Restated
+Credit Agreement
+Signature Page
+
+
+
+
+     
+     
+    
+ 
+
+
+
+    ADMINISTRATIVE AGENT:
+
+
+
+    JPMORGAN CHASE BANK, N.A.,
+                    as
+
+
+
+
+     
+    Administrative Agent and a Lender
+
+     
+     
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MICHAEL A. KAMAUF
+
+     
+    Name:
+Title: 
+    Michael A. Kamauf
+
+
+Authorized Officer
+
+
+ 
+
+ 
+
+
+
+
+
+    LENDERS:
+
+
+
+    WELLS FARGO BANK, NATIONAL
+
+
+
+
+     
+    ASSOCIATION, as a Lender
+
+
+
+
+     
+     
+
+     
+     
+     
+
+     
+    By: 
+    /s/ BESTY JOCHER
+
+     
+    Name: 
+Title:
+    Betsy Jocher
+
+
+Director
+
+
+ 
+
+ 
+
+
+
+
+
+    
+    COMPASS BANK, as a
+                    Lender
+
+
+
+
+     
+     
+
+     
+     
+     
+
+     
+    By: 
+    /s/ ANN VAN WAGENER
+
+     
+    Name: 
+Title: 
+    Ann Van Wagener
+
+
+Senior Vice President 
+
+
+ 
+
+
+
+Fourth Amendment to Second Amended and Restated
+Credit Agreement
+Signature Page
+
+
+
+
+
+
+     
+     
+    
+ 
+
+
+
+    
+
+
+
+    CITIBANK, N.A., as
+                    a Lender
+
+
+
+
+     
+     
+
+     
+     
+     
+
+     
+    By: 
+    /s/ EAMON BAQUI
+
+     
+    Name:
+Title: 
+    Eamon Baqui
+
+
+Vice President
+
+
+
+
+
+ 
+
+
+
+
+
+    
+
+
+
+    COMERICA BANK, as a
+                    Lender
+
+
+
+
+     
+     
+
+     
+     
+     
+
+     
+    By: 
+    /s/ JUSTIN CRAWFORD
+
+     
+    Name: 
+Title:
+    Justin Crawford
+
+
+Senior Vice President
+
+
+
+
+
+ 
+
+
+
+
+
+    
+    CREDIT AGRICOLE CORPORATE AND
+
+
+
+
+     
+    INVESTMENT BANK, as
+                    a Lender
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ TOM BYARGEON
+
+     
+    Name: 
+Title: 
+    Tom Byargeon
+
+
+Managing Director
+
+
+
+
+
+ 
+
+
+
+     
+    
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ DARRELL STANLEY
+
+     
+    Name: 
+Title: 
+    Darrell Stanley
+
+
+Managing Director
+
+
+
+
+
+
+
+ 
+
+
+
+    
+    ING CAPITAL LLC, as
+                    a Lender
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ JULI BIESER
+
+     
+    Name: 
+Title: 
+    Juli Bieser
+
+
+ Director
+
+
+
+
+
+ 
+
+
+
+
+
+    
+    ROYAL BANK OF CANADA,
+                    as a Lender
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ MARK LUMPKIN, JR.
+
+     
+    Name: 
+Title: 
+    Mark Lumpkin, Jr.
+
+
+ Authorized Signatory
+
+
+
+
+ 
+
+ 
+
+Fourth Amendment to Second Amended and Restated
+Credit Agreement
+Signature Page
+
+
+
+
+
+
+     
+     
+    
+ 
+
+
+
+
+
+    
+
+
+
+    THE BANK OF NOVA SCOTIA,
+                    as a Lender
+
+
+
+
+     
+     
+
+     
+     
+     
+
+     
+    By: 
+    /s/ TERRY DONOVAN
+
+     
+    Name:
+Title: 
+    Terry Donovan
+
+
+Managing Director
+
+
+
+
+
+ 
+
+
+
+
+
+    
+
+
+
+    UNION BANK, N.A., as
+                    a Lender
+
+
+
+
+     
+     
+
+     
+     
+     
+
+     
+    By: 
+    /s/ DAVID HELFFRICH
+
+     
+    Name: 
+Title:
+    David Helffrich
+
+
+ Vice President
+
+
+
+
+
+ 
+
+
+
+
+
+    
+    U.S. BANK NATIONAL ASSOCIATION,
+                    as a
+
+
+
+
+     
+    Lender
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ JUSTIN M. ALEXANDER
+
+     
+    Name: 
+Title: 
+    Justin M. Alexander
+
+
+Senior Vice President
+
+
+
+
+
+ 
+
+
+
+     
+    AMEGY BANK NATIONAL ASSOCIATION,
+                    
+
+
+
+
+
+
+
+     
+    as a Lender
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ THOMAS KLEIDERER
+
+     
+    Name: 
+Title: 
+    Thomas Kleiderer
+
+
+Vice President
+
+
+
+
+
+
+
+ 
+
+
+
+    
+    CREDIT SUISSE AG, CAYMAN ISLANDS
+
+
+
+
+     
+    BRANCH, as a Lender
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ VIPUL DHADDA
+
+     
+    Name: 
+Title: 
+    Vipul Dhadda
+
+
+ Vice President
+
+
+
+
+
+ 
+
+
+
+
+
+    
+     
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ WEI-JEN YUAN
+
+     
+    Name: 
+Title: 
+    Wei-Jen Yuan
+
+
+ Associate
+
+
+
+
+ 
+
+ 
+
+Fourth Amendment to Second Amended and Restated
+Credit Agreement
+Signature Page
+
+
+
+
+
+
+     
+     
+    
+ 
+
+
+
+
+
+     
+    FROST BANK, as a Lender
+
+
+
+
+
+
+
+     
+    
+
+
+
+
+     
+     
+     
+
+     
+    By: 
+    /s/ LANE DODDS
+
+     
+    Name: 
+Title: 
+    Lane Dodds
+
+
+Sr. Vice President
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+Fourth Amendment to Second Amended and Restated
+Credit Agreement
+Signature Page
+
+
+
+
+
+
+     
+    
+ 
+
+
+ 
+
+
+
+

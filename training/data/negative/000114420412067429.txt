@@ -1,0 +1,1768 @@
+
+EX-10.24
+37
+v329448_ex10-24.htm
+EXHIBIT 10.24
+
+
+
+    
+    
+    
+    
+
+
+ 
+
+Exhibit 10.24
+
+
+
+
+To be filed in
+
+LaFourche and
+
+Plaquemines Parish, Louisiana
+
+
+
+
+
+MORTGAGE,
+
+
+*
+
+  
+
+
+COLLATERAL ASSIGNMENT,
+
+
+*
+
+  
+
+
+SECURITY AGREEMENT, and
+
+
+*
+
+
+STATE OF TEXAS
+
+
+
+FINANCING STATEMENT
+
+
+*
+
+  
+
+  
+
+*
+
+
+COUNTY OF DALLAS
+
+
+  
+
+*
+
+  
+
+
+executed by
+
+
+*
+
+  
+
+
+Tchefuncte Natural Resources, LLC
+
+
+*
+
+  
+
+
+in favor of
+
+
+*
+
+  
+
+
+The F&M Bank & Trust Company
+
+
+*
+
+  
+
+  
+
+*
+
+  
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+  
+  
+
+
+
+
+
+
+Be it known that on this 22nd day of July, 2011, before the undersigned Notaries Public duly commissioned and qualified, and in the presence of the undersigned competent witnesses, personally came and appeared:
+
+
+
+
+Tchefuncte Natural Resources, LLC, a Louisiana limited liability company, having a place of business at 5220 Spring Valley Road., Ste. 525, Dallas, Dallas County, Texas 75254, and a federal taxpayer identification number of ___________, appearing herein through its undersigned duly authorized representative (“Mortgagor”), who, being duly sworn, declared that Borrower does by these presents declare and acknowledge an indebtedness unto:
+
+
+
+
+The F&M Bank & Trust Company, an Oklahoma state bank, having a place of business at 3811 Turtle Creek Blvd., Suite 1700 Dallas, Dallas County, Texas 75219, and a federal taxpayer identification number of ____________, appearing herein through its undersigned duly authorized representative here present who accepts this Mortgage (“Lender”).
+
+
+
+
+Recitals
+
+
+
+
+A.           Mesa Energy, Inc. (“Borrower”) is or will be indebted unto Lender for loans made or to be made pursuant to the terms of a certain loan agreement (as amended, supplemented, or restated from time to time, the “Loan Agreement”) dated July 22, 2011, by and between Borrower and Lender.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+ 
+
+B.           In order to secure the full and punctual payment and performance of the Indebtedness (as hereafter defined), Mortgagor has agreed to execute and deliver this Mortgage and to grant a mortgage lien and continuing security interest in and to the Collateral (as hereafter defined).
+
+
+
+
+C.           This Mortgage and all other instruments executed in connection herewith are to be liberally construed for the benefit of Lender to ensure the prompt payment of the Indebtedness and Lender's realization of the benefits intended to be derived from these instruments.
+
+
+
+
+ARTICLE 1
+
+General Terms
+
+
+
+
+Section 1.1     Definitions.  As used in this Mortgage, the terms “Borrower,” “Lender,”  “Loan Agreement” and “Mortgagor” shall have the meanings indicated above.  As used in this Mortgage, the following additional terms shall have the meanings indicated:
+
+
+
+
+“Accounts” means all “accounts” (as defined in the UCC) now owned or hereafter acquired by Mortgagor (including without limitation accounts resulting from the sale of Hydrocarbon at the well head) now or hereafter arising in connection with the sale or other disposition of any Hydrocarbons, and all revenues and rights to payment relating to Mortgagor's services as operator of any Mineral Properties, and further means all rights accrued, accruing or to accrue to receive payments of any and every kind under all Contracts, including without limitation bonuses, rents, and royalties which are payable out of or measured by production of any Hydrocarbons or are otherwise attributable to the Mineral Properties and all other revenues owing to Mortgagor in connection with the Mineral Properties, including revenues from the treatment, transportation or storage of Hydrocarbons for third parties.
+
+
+
+
+“Advances” has the meaning set forth in Section 4.24 (“Advances by Lender”) of this Mortgage.
+
+
+
+
+“Collateral” has the meaning set forth in Section 2.2 (“The Security Interests”) of this Mortgage.
+
+
+
+
+“Collateral Account” has the meaning set forth in Section 5.3 (“Collateral Account”) of this Mortgage.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+ 
+
+“Contracts” means all contracts and agreements described in Exhibit B, if any, and all other contracts, operating agreements, farm-out or farm-in agreements, sharing agreements, limited or general partnership agreements, area of mutual interest agreements, mineral purchase agreements, contracts for the sale, exchange, transportation, or processing of Hydrocarbons, rights-of-way, casements, surface leases, salt water disposal agreements, service contracts, permits, franchises, licenses, pooling or unitization agreements, unit designations and pooling orders now in effect or hereafter entered into by Mortgagor affecting any of the Mineral Properties, Equipment, or Hydrocarbons now or hereafter covered hereby, or which are useful or appropriate in drilling for, producing, treating, handling, storing, transporting, or marketing oil, gas, or other minerals produced from any lands affected by the Mineral Properties.
+
+
+
+
+“Default” means the occurrence of any of the events specified as an Event of Default, whether or not any requirement for notice or lapse of time or other condition precedent has been satisfied.
+
+
+
+
+“Equipment” means all equipment now owned or hereafter acquired by Mortgagor and now or hereafter located on or used or held for use in connection with the Mineral Properties or in connection with the operation thereof or the treating, handling, storing, transporting, processing, purchasing, exchanging, or marketing of Hydrocarbons, including without limitation all wells, rigs, platforms, constructions, extraction plants, facilities, gas systems (for gathering, treating, injection and compression), water systems (for treating, disposal and injection), compressors, casing, tubing, rods, flow lines, pipelines, derricks, tanks, separators, pumps, machinery, tools, and all other movable property and fixtures now or hereafter located upon and dedicated to be used (or held for use) in connection with any of the Mineral Properties, together with all additions, accessories, parts, attachments, special tools, and accessions now and hereafter affixed thereto or used in connection therewith, and all replacements thereof and substitutions therefor.
+
+
+
+
+“Event of Default” has the meaning set forth in Section 5.1 (“Events of Default”) of this Mortgage.
+
+
+
+
+“General Intangibles” means all “general intangibles” (as defined in the UCC) now owned or hereafter acquired by Mortgagor related to the Mineral Properties, the Equipment, or the Hydrocarbons, the operation of the Mineral Properties or the Equipment (whether Mortgagor is operator or non-operator), or the treating, handling, storing, transporting, processing, purchasing, exchanging, or marketing of Hydrocarbons, or under which the proceeds of Hydrocarbons arise or are evidenced or governed, including, without limitation, (i) all contractual rights and obligations or indebtedness owing to Mortgagor (other than Accounts) from whatever source arising in connection with the sale or other disposition of any Hydrocarbons, including all rights to payment owed or received by Mortgagor pursuant to a “take-or-pay” provision or gas balancing arrangement, (ii) all Contracts and other general intangibles now or hereafter arising in connection with or resulting from Contracts, (iii) all insurance proceeds and unearned insurance premiums affecting all or any part of the Collateral, and (iv) all things in action, rights represented by judgments, claims arising out of tort and other claims relating to the Collateral, including the right to assert and otherwise to be the plaintiff and proper party of interest to commence and prosecute such action (whether as claims, counterclaims, or otherwise, and whether involving matters arising from casualty, condemnation, indemnification, negligence, strict liability, other tort, contract, or in any other manner).
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+ 
+
+“Hedge Transactions” means all Transactions (as defined in the ISDA Agreement) and any other commodity swap (including price protection for future production of Hydrocarbons or mineral or mining interests and rights therein), commodity option, interest rate swap (including rate hedger products), basis or currency or cross-currency rate swap, forward rate, cap, floor, collar, future rate, forward agreement, spot contract, or other credit, price, foreign exchange, rate, equity, equity index option, bond option, interest rate option, rate protection agreement, currency option, or other option, or commodities derivative, exchange, risk management, or protection agreement , or commodity, securities, index, market, or price-linked transaction or agreement, or any option with respect to any such transaction or similar transaction, or combination of any of the foregoing, now existing or hereafter entered into by Mortgagor and any other party, whether linked to one or more interest rates, foreign currencies, commodity prices, equity prices, indexes, or other financial measures and whether such transactions or combinations thereof are governed by or subject to any ISDA Agreement or other similar agreement or arrangement, including all obligations and liabilities thereunder, and including all renewals, extensions, amendments, and other modifications or substitutions.
+
+
+
+
+“Hydrocarbons” mean all oil, gas, casinghead gas, condensate, distillate, other liquid and gaseous hydrocarbons, sulfur, and all other minerals, whether similar to the foregoing or not, produced, obtained, or secured from or allocable to the Mineral Properties, and any products refined, processed, recovered, or obtained therefrom, including oil in tanks.
+
+
+
+
+“Indebtedness” means all present and future amounts, liabilities, and obligations of Borrower to Lender or to any successor or transferee thereof under or pursuant to the Loan Agreement, this Mortgage, or the other Security Documents, whether said amounts, liabilities, or obligations are liquidated or unliquidated, now existing or hereafter arising, including without limitation all promissory notes heretofore or hereafter executed by Borrower pursuant to the Loan Agreement, in principal, interest, deferral and delinquency charges, prepayment premiums, costs and attorneys' fees, as therein stipulated, and under and pursuant to all amendments, supplements, and restatements to any of said documents.  The Indebtedness includes without limitation all Advances and other amounts for which Borrower or Mortgagor is obligated under the terms of this Mortgage.  The Indebtedness also includes all present and future obligations of Borrower or Mortgagor to Lender or Hedge Provider (as defined in the Loan Agreement) under the terms of any Hedge Transactions now existing or hereafter entered into between Borrower or Mortgagor and Lender or Hedge Provider.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+ 
+
+“ISDA Agreement” means any International Swaps and Derivatives Association, Inc. master agreement or any similar agreement (with all related schedules, annexes, exhibits, amendments and confirmations), now existing or hereafter entered into by Borrower or Mortgagor, as amended, modified, replaced, consolidated, extended, renewed, or supplemented from time to time.
+
+
+
+
+“Lien” means any interest in property securing an obligation owed to, or a claim by, a Person other than the owner of the property, whether such interest is based on jurisprudence, statute, or contract, and including but not limited to the lien or security interest arising from a mortgage, encumbrance, pledge, security agreement, conditional sale, or trust receipt or a lease, consignment, or bailment for security purposes.  The term “Lien” shall include reservations, exceptions, encroachments, easements, servitudes, usufructs, rights-of-way, covenants, conditions, restrictions, leases, and other title exceptions and encumbrances affecting property.  For the purposes of this Mortgage, Mortgagor shall be deemed to be the owner of any property which it has accrued or holds subject to a conditional sale agreement, financing lease, or other arrangement pursuant to which title to the property has been retained by or vested in some other Person for security purposes.
+
+
+
+
+“Mineral Properties” means the oil, gas, and mineral leases, mineral servitudes, subleases, farmouts, royalties, overriding royalties, net profits interests, production payments, operating rights and similar mineral interests and subleases and assignments of such mineral interests described in Exhibit A attached hereto and made a part hereof, whether such described interest of Mortgagor may be presently owned or may be hereafter acquired, together with all interests of Mortgagor in all other oil, gas, and mineral interests and acreage with which any of the Mineral Properties are now or hereafter may be pooled or unitized, in whole or in part, and all interests of Mortgagor with respect to all unitization and pooling agreements and orders now or hereafter existing which are described in Exhibit A or which relate to the Mineral Properties, and all interests of Mortgagor in agreements and rights pertaining to the use or occupation of the surface of and subsurface depths under the land described either in Exhibit A or in the documents described in Exhibit A, and any other interests of Mortgagor in, to, or relating to all or any part of the land described either in Exhibit A or in the documents described in Exhibit A, and all extensions, renewals, and corrections of any of the foregoing.
+
+
+
+
+“Mortgage” means this Mortgage, Collateral Assignment, Security Agreement, and Financing Statement, as amended or supplemented from time to time.
+
+
+
+
+“Mortgaged Property” has the meaning set forth in Section 2.1 (“Hypothecation”) of this Mortgage.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+ 
+
+“Permitted Liens” means the Security Interests, and any other Liens in favor of Lender or permitted by Lender in writing to be created or assumed or to otherwise exist on the Collateral [including without limitation the Liens permitted by the provisions of Section 4.3 (“Liens”)].
+
+
+
+
+“Person” means any individual, corporation, partnership, joint venture, association, joint stock company, trust, unincorporated organization, government or any agency or political subdivision thereof, or any other form of entity.
+
+
+
+
+“Proceeds” means all cash and non-cash proceeds of, and all other profits, rentals or receipts, in whatever form, arising from the collection, sale, lease, exchange, assignment, licensing or other disposition of, or realization upon, Collateral, including without limitation all claims of Mortgagor against third parties for loss of, damage to or destruction of, or for proceeds payable under, or unearned premiums with respect to, policies of insurance in respect of, any Collateral, and any condemnation or requisition payments with respect to any Collateral, and including proceeds of all such proceeds, in each case whether now existing or hereafter arising.
+
+
+
+
+“Proceeds of Runs” has the meaning set forth in Section 2.3 (“Assignment”) of this Mortgage.
+
+
+
+
+“Security Documents” means collectively all mortgages, pledges, security agreements, and other documents by which Mortgagor grants Liens and security interests in immovable or movable property to Lender.
+
+
+
+
+“Security Interests” means the security interests in the Collateral granted hereunder securing the Indebtedness.
+
+
+
+
+“UCC” means the Uniform Commercial Code, Commercial Laws—Secured Transactions in the State of Louisiana, as amended from time to time; provided that if by reason of mandatory provisions of law, the perfection or the effect of perfection or non-perfection of the Security Interests in any Collateral is governed by the Uniform Commercial Code as in effect in a jurisdiction other than Louisiana, “UCC” means the Uniform Commercial Code as in effect in such other jurisdiction for purposes of the provisions hereof relating to such perfection or effect of perfection or non-perfection.
+
+
+
+
+ARTICLE 2
+
+Liens and Security Interests
+
+
+
+
+Section 2.1  Hypothecation.  (a) In order to secure the full and punctual payment and performance of all present and future Indebtedness, Mortgagor does by these presents specially mortgage, affect, hypothecate, pledge, and assign unto and in favor of Lender, to inure to the use and benefit of Lender, the following described property:
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+ 
+
+(1)           The Mineral Properties, together with all rents, issues, profits, products, and proceeds, whether now or hereafter existing or arising, from the Mineral Properties.
+
+
+
+
+(2)           Mortgagor's rights in the improvements and other constructions now or hereafter located on the Mineral Properties, including without limitation the Equipment, to the extent (i) any such property should constitute or be deemed to constitute immovable property for the purposes of Louisiana law, including without limitation any buildings, platforms, structures, towers, rigs, or other immovable property or component parts thereof, or (ii) any such property is otherwise susceptible of mortgage pursuant to Louisiana Civil Code Article 3286 or Louisiana Mineral Code Article 203.
+
+
+
+
+The descriptions of the Mineral Properties contained in Exhibit A are amplified by the explanations contained in the Introduction to Exhibit attached and made a part hereof.  All of the foregoing property and rights covered by and subject to this Mortgage are herein collectively referred to as the “Mortgaged Property.”
+
+
+
+
+SUBJECT, however, to (i) the restrictions, exceptions, reservations, conditions, limitations, and other matters, if any, set forth or specified in the specific descriptions of such properties and interests in Exhibit A (including all presently existing royalties, overriding royalties, payments out of production and other burdens which are specified in Exhibit A and which are taken into consideration in computing any percentage, decimal or fractional interests set forth in Exhibit A), and (ii) the condition that Lender shall not be liable in any respect for the performance of any covenant or obligation of Mortgagor in respect of the Mortgaged Property.
+
+
+
+
+The Mortgaged Property is to remain so specially mortgaged, affected, and hypothecated unto and in favor of Lender until the full and final payment or discharge of the Indebtedness, and Mortgagor is herein and hereby bound and obligated not to sell or alienate the Mortgaged Property to the prejudice of this act.
+
+
+
+
+(b)           In the event that Mortgagor acquires additional undivided interests in some or all of the Mineral Properties, this Mortgage shall automatically encumber such additions or increases to Mortgagor's interest in the Mineral Properties without need of further act or document.  Further, in the event Mortgagor becomes the owner of an interest in any part of the land described either in Exhibit A or in the documents described in Exhibit A or otherwise subject to or covered by the Mineral Properties, this Mortgage shall automatically encumber such ownership interest of Mortgagor without need of further act or document.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+ 
+
+Section 2.2  The Security Interests.  In order to secure the full and punctual payment and performance of all present and future Indebtedness, Mortgagor hereby grants to Lender a continuing security interest in and to all right, title and interest of Mortgagor in, to and under the following property, whether now owned or existing or hereafter acquired or arising and regardless of where located:  (1) the Mineral Properties; (2) the Accounts; (3) the Hydrocarbons; (4) the Equipment; (5) the General Intangibles (including the Contracts); (6) the Collateral Account, all cash deposited therein from time to time, and other monies and property of any kind of Mortgagor in the possession or under the control of Lender; (7) all engineering, seismic, reserve, production, accounting, title and legal data, reports and information and all books and records in any form (including, without limitation, customer lists, credit files, computer programs, tapes, disks, punch cards, data processing software, transaction files, master files, printouts and other computer materials and records) of Mortgagor pertaining to any of the Mineral Properties or Collateral; (8) all Hedge Transactions, including, without limitation, all contracts, contract rights, accounts, accounts receivable, general intangibles, payment intangibles, supporting obligations, or any other rights to the payment of money now or hereafter due or to become due (of whatever type, nature, item, or category and howsoever created) to Mortgagor under any Hedge Transactions, or any monetary or economic benefit or other value added, accrued, created, or arising under, out of, or pursuant to any Hedge Transactions, and (9) all Proceeds and products of all or any of the Collateral described in clauses l through 8 hereof.  The term “Collateral” means each and all of the items and property rights described in clauses 1-9 above, together with the Mortgaged Property and the Proceeds of Runs.
+
+
+
+
+Section 2.3  Assignment.  To further secure the full and punctual payment and performance of all present and future Indebtedness, up to the maximum amount outstanding at any time and from time to time set forth in Section 2.5 (“Maximum Amount”) below, Mortgagor does hereby absolutely, irrevocably, and unconditionally pledge, pawn, assign, transfer, and assign to Lender all monies which accrue after 12:01 a.m. Central Time, U.S.A., on the date of this Mortgage, to Mortgagor's interest in the Mineral Properties and all present and future rents therefrom (which rents include without limitation all royalties, delay rentals, shut-in payments, and other payments which are rentals under Title 31 of the Louisiana Revised Statutes) and all proceeds of the Hydrocarbons (which proceeds include without limitation all payments for Hydrocarbons not yet delivered, such as those received pursuant to “take or pay” arrangements) and of the products obtained, produced, or processed from or attributable to the Mineral Properties now or hereafter (which monies, rents, and proceeds are referred to herein as the “Proceeds of Runs”). Mortgagor hereby authorizes and directs all obligors of any Proceeds of Runs to pay and deliver to Lender, upon request therefor by Lender, all of the Proceeds of Runs accruing to Mortgagor's interest without further inquiry as to the rights of Lender to receive the same.  Mortgagor agrees that such obligors shall have no responsibility to see to the application of any funds so paid to Lender.
+
+
+
+
+Section 2.4  Condemnation. Mortgagor hereby assigns to Lender any and all awards that may be given or made in any proceedings by any legally constituted authority to condemn or expropriate the Collateral, or any part thereof, under power of eminent domain, and if there is such a condemnation or expropriation, Lender may, at its election, either pay the net proceeds thereof toward the payment of the Indebtedness or pay the net proceeds thereof to Mortgagor.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+Section 2.5  Maximum Amount.  (a) The maximum amount of the Indebtedness that may be outstanding at any time and from time to time that this Mortgage secures, including without limitation as a mortgage and as a collateral assignment, and including any Advances made and included within the Indebtedness, is Fifty Million Dollars ($50,000,000).
+
+
+
+
+(b) Mortgagor acknowledges that this Mortgage secures all Indebtedness under or pursuant to the Loan Agreement, this Mortgage, or the other Security Documents, whether such loans or advances made or incurred by Lender are optional or obligatory by Lender. This Mortgage is and shall remain effective, even though the amount of the Indebtedness may now be zero or may later be reduced to zero, until all of the amounts, liabilities, and obligations, present and future, comprising the Indebtedness have been incurred and are extinguished.  When no Indebtedness secured by this Mortgage exists and Lender is not bound to permit any Indebtedness to be incurred, this Mortgage may be terminated by Mortgagor upon thirty (30) days prior written notice sent by Mortgagor to Lender in accordance with the provisions of this Mortgage.
+
+
+
+
+(c)           Final maturity of the Indebtedness is on July 22, 2013.
+
+
+
+
+Section 2.6  Delivery of Transfer Orders.  Independent of the other provisions and authorities herein granted, Mortgagor agrees to execute and deliver any and all transfer orders, letters in lieu thereof, division orders, and other instruments that may be requested by Lender or that may be required by any purchaser of any Hydrocarbons for the purpose of effectuating payment of the Proceeds of Runs to Lender.  If under any existing sales agreements, other than division orders or transfer orders, any Proceeds of Runs are required to be paid by the purchaser to Mortgagor so that under such existing agreements payment cannot be made of such Proceeds of Runs to Lender, Mortgagor's interest in all Proceeds of Runs under such sales agreements and in all other Proceeds of Runs which for any reason may be paid to Mortgagor shall, when received by Mortgagor, constitute trust funds in Mortgagor's hands and shall be immediately paid over to Lender.
+
+
+
+
+Section 2.7  Change of Purchaser.  Should any Person now or hereafter purchasing or taking Hydrocarbons fail to make payment promptly to Lender of the Proceeds of Runs, Lender shall have the right to make, or to require Mortgagor to make, a change of connection and the right to designate or approve the purchaser with whose facilities a new connection shall be made, and Lender shall have no liability or responsibility in connection therewith so long as ordinary care is used in making such designation.
+
+
+
+
+Section 2.8  Application.  All Proceeds of Runs from time to time in the hands of Lender shall be applied by it toward the payment and prepayment of all Indebtedness at such times and in such manner as Lender deems advisable, may be held by Lender pending a resolution of any dispute as to Lender's right to collect such Proceeds of Runs, or may be delivered by Lender to Mortgagor without in any way reducing or paying the Indebtedness.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 2.9  Payment of Proceeds.  In the event that, for its convenience, Lender should elect with respect to all or particular Mineral Properties or Contracts not to exercise immediately its right to receive Hydrocarbons or Proceeds of Runs, then the purchasers or other Persons obligated to make such payment shall continue to make payment to Mortgagor until such time as written demand has been made upon them by Lender that payment be made direct to Lender.  Such failure to notify such purchasers or other Persons shall not in any way waive, remit or release the right of Lender to receive any payments not theretofore paid over to Mortgagor before the giving of written notice.  In this regard, in the event payments are made direct to Lender, and then, at the request of Lender payments are, for a period or periods of time, paid to Mortgagor, Lender shall nevertheless have the right, effective upon written notice, to require future payments be again made to it.
+
+
+
+
+Section 2.10  Limitation of Liability.  Lender and its successors and assigns are hereby absolved from all liability for failure to enforce collection of the Proceeds of Runs and from all other responsibility in connection therewith, except the responsibility of each to account (by application upon the Indebtedness or otherwise) to Mortgagor for funds actually received. Mortgagor agrees to indemnify and hold harmless Lender against any and all liabilities, actions, claims, judgments, costs, charges, and attorneys' fees by reason of the assertion that such parties received, either before or after payment and performance in full of the Indebtedness, funds from the production of Hydrocarbons or the Proceeds of Runs claimed by third persons [or funds attributable to sales of production which (i) were made at prices in excess of the maximum price permitted by or (ii) were otherwise made in violation of laws, rules, regulations, or orders governing such sales], and Lender shall have the right to defend against any such claims or actions, employing attorneys of Lender's own selection and if not furnished with indemnify satisfactory to them, Lender shall have the right to compromise and adjust any such claims, actions, and judgments, and in addition to the rights to be indemnified as herein provided, all amounts paid by Lender in compromise, satisfaction, or discharge of any such claims, actions, or judgments, and all court costs, attorneys' fees and other expenses of every character expended by Lender pursuant to the provisions of this Section shall be a demand obligation (which obligation Mortgagor hereby expressly promises to pay) owing by Mortgagor to such parties and shall bear interest, from the date expended until paid, at the rate described in Section 4.24 (“Advances by Lender”).
+
+
+
+
+Section 2.11  Duty to Perform.  Nothing herein contained shall detract from or limit the obligation of Borrower to make prompt payment of the Indebtedness at the time and in the manner provided herein and in the Loan Agreement, regardless of whether the Proceeds of Runs herein assigned are sufficient to pay same.  Mortgagor will do and perform every act required of it by this is Mortgage at the time or times and in the manner specified.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 2.12  No Liability.  The foregoing mortgage Liens and Security Interests are granted as security only and shall not subject Lender to, or transfer or in any way affect or modify, any obligation or liability of Mortgagor with respect to any of the Collateral or any transaction in connection therewith.
+
+
+
+
+Section 2.13  Assignment of Hedge Transactions. All Hedge Transactions are hereby assigned by Mortgagor to Lender as additional security for the Indebtedness.   Mortgagor agrees that all Hedge Transactions (i) shall meet the requirements, if any, set forth in the Loan Agreement, (ii) shall expressly provide that they are assignable to Lender as collateral security for the Indebtedness, and (iii) if and to the extent any Hedge Transaction of Mortgagor is used by Lender in calculation of the Borrowing Base (as defined in the Loan Agreement), such Hedge Transaction cannot be cancelled, liquidated, or “unwound” without the prior written consent of Lender.
+
+
+
+
+ARTICLE 3
+
+Representations and Warranties
+
+
+
+
+Mortgagor represents and warrants to Lender that:
+
+
+
+
+Section 3.1  Title.  The Collateral (including without limitation the Mineral Properties) is accurately, completely, adequately, and sufficiently described herein and in Exhibit A as required by all applicable laws for this Mortgage to create a Lien on all of the Collateral.  The execution, delivery, and performance of this Mortgage and the creation of the liens hereunder do not violate any provision of or constitute a default under any operating agreement or other instrument affecting or comprising any of the Collateral or to which Mortgagor is a party.  Mortgagor represents and warrants to Lender that (a) the Mineral Properties described in Exhibit A are valid, subsisting leases and contracts, in full force and effect, (b) all producing wells located on the lands described in Exhibit A have been drilled, operated, and produced in conformity with all applicable laws, rules, and regulations of all regulatory authorities having jurisdiction, and are subject to no penalties on account of past production, and that such wells are in fact bottomed under and are producing from, and the well bores are wholly within, lands described in Exhibit A (or in the case of wells located on properties unitized therewith, such unitized properties), (c) Mortgagor, to the extent of the interest specified in Exhibit A, has legal, valid, and defensible title to each property right or interest constituting the Mineral Properties and the respective gross working interests and net revenue interests of Mortgagor in and to the Hydrocarbons as set forth on Exhibit A, and Mortgagor's percentage interests in the Mineral Properties, cash flow, net income, and other distributions and in the cost of exploration, development, and production, all as set forth in Exhibit A, are true and correct in all material respects and accurately reflect the respective interests to which Mortgagor is legally entitled, (d) Mortgagor is not obligated, by virtue of any prepayment under any contract providing for the sale by Mortgagor of Hydrocarbons which contains a “take or pay” clause or under any similar arrangement, to deliver Hydrocarbons at some future time without then or thereafter receiving full payment therefor and (e) no agreement, contract, or instrument set forth in Exhibit A contains any provision which would prevent the practical realization of the benefits of this Mortgage as to the Collateral, except to the extent that any of the Mineral Properties consists of leases granted by the State of Louisiana or agencies or political subdivisions thereof, which may require approval of this Mortgage by such governmental authority.  With respect to all wells existing on the date hereof, such shares of production and expenses are not subject to change (pursuant to non-consent provisions of operating agreements described in Exhibit A or otherwise) except, and only to the extent that, such changes are expressly described in Exhibit A.  Mortgagor will warrant and forever defend the Collateral unto Lender, against every person whomsoever lawfully claiming the same or any part thereof, and will maintain and preserve the Lien hereby created so long as any of the Indebtedness remains unpaid.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 3.2  No Liens.  The Mineral Properties are free from all Liens whatsoever, except as may be specifically set forth in Exhibit A or as permitted by the provisions of Section 4.3 (“Liens”).  Other than financing statements or other similar or equivalent documents or instruments with respect to the Security Interests and Permitted Liens, no financing statement, mortgage, security agreement or similar or equivalent document or instrument covering all or any part of the Collateral is on file or of record in any jurisdiction in which such filing or recording would be effective to perfect a Lien on such Collateral.  No Collateral is in the possession of any Person (other than Mortgagor) asserting any claim thereto or security interest therein, except that Lender or its designee may have possession of Collateral as contemplated hereby.
+
+
+
+
+Section 3.3  Rents; Royalties.  All rents, royalties, and other payments (except for those which are being contested in good faith and by appropriate proceedings and for which Mortgagor has established adequate reserves and so long as the payment of same is not a condition to be met in order to maintain an oil, gas, or other mineral lease or other agreement in force) due and payable under the Mineral Properties which are productive of oil or gas (or are included in units productive of oil or gas) and all other oil, gas, or mineral leases, contracts, and other agreements forming a part of the Mortgaged Property, have been and are being properly and timely paid, and Mortgagor is not in default with respect to any obligations (and Mortgagor is not aware of any default by any third party with respect to such third party's obligations) under such leases, contracts, and other agreements, or otherwise attendant to the ownership or operation of the Collateral, where such default could adversely affect the ownership or operation of the Collateral to which such obligations relate.  Mortgagor is not currently accounting (and does not anticipate accounting) for any royalties, or overriding royalties or other payments out of production, on a basis (other than delivery in kind) where such payments are based other than on proceeds received by Mortgagor from sale; Mortgagor has advised Lender in writing of situations, if any, where a contingent liability to so account may exist.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 3.4  No Limitations on Payments for Production.  Except as otherwise specifically disclosed to Lender in writing with respect to any particular part of the Mineral Properties, (i) neither Mortgagor, nor its predecessors in title, have received prepayments (including, but not limited to, payments for gas not taken pursuant to “take or pay” arrangements) for any Hydrocarbons produced or to be produced from the Mineral Properties after the date hereof; (ii) none of the Mineral Properties is subject to any contractual or other arrangement whereby payment for production is to be deferred for a substantial period after the month in which such production is delivered [i.e., in the case of oil not in excess of sixty (60) days, and in the case of gas not in excess of ninety (90) days]; (iii) none of the Mineral Properties is subject to any contractual, or other, arrangement for the sale of crude oil which cannot be canceled on ninety (90) days (or less) notice, and none of the Mineral Properties is subject to a gas sales contract which contains terms which are not customary in the industry; (iv) none of the Mineral Properties is subject at the present time to any regulatory refund obligation and, to the best of Mortgagor's knowledge, no facts exist which might cause the same to be imposed; (v) none of the Mineral Properties is subject to an arrangement or agreement under which any purchaser or other Person is entitled to “make-up” or otherwise receive deliveries of Hydrocarbons at any time after the date hereof without paying at such lime the full contract price therefor; and (vi) no Person is entitled to receive any portion of the interest of Mortgagor in any Hydrocarbons or to receive cash or other payments from Mortgagor to “balance” any disproportionate allocation of Hydrocarbons under any operating agreement, gas balancing and storage agreement, gas processing or dehydration agreement, or other similar agreements.
+
+
+
+
+Section 3.5  Pricing.  The prices being received for the production of Hydrocarbons do not violate any Contract, law, or regulation.  Where applicable, all of the wells located on the Mineral Properties and production of Hydrocarbons therefrom have been properly classified under appropriate governmental regulations.
+
+
+
+
+Section 3.6  Gas Regulatory Matters.  Mortgagor has filed with the appropriate state and federal agencies all necessary rate and collection filings and all necessary applications for well determinations under the Natural Gas Act of 1938, as amended, the Natural Gas Policy Act of 1978, as amended, and the rules and regulations of the Federal Energy Regulatory Commission thereunder, and each such application has been approved by or is pending before the appropriate state or federal agency.
+
+
+
+
+Section 3.7  Consents and Preferential Rights.  There are no preferential purchase rights held by third parties affecting any part of the Collateral or rights of third parties to prohibit the assignment, conveyance, pledge, or mortgage of any part of the Collateral without the consent of such third parties, except to the extent that any of the Mineral Properties consists of leases granted by the State of Louisiana or agencies or political subdivisions thereof, which may require the approval of this Mortgage by such government authority.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 3.8  No Inconsistent Agreements.  Mortgagor has not performed any acts or signed any agreements which might prevent Lender from enforcing any of the terms of this Mortgage or which would limit Lender in any such enforcement.
+
+
+
+
+Section 3.9  Status of Contracts.  All of the Contracts and obligations of Mortgagor that relate to the Mineral Properties (i) are in full force and effect and constitute legal, valid and binding obligations of Mortgagor, and (ii) neither Mortgagor nor, to the knowledge of Mortgagor, any other party to the Contracts (a) is in breach of or default, or with the lapse of time or the giving of notice, or both, would be in breach or default, with respect to any of its obligations thereunder or (b) has given or threatened to give notice of any default under or inquiry into any possible default under, or action to alter, terminate, rescind or procure a judicial reformation of any Contract.
+
+
+
+
+Section 3.10  Accounts.  The Accounts represent bona fide obligations of the respective account debtors, which obligations are free and clear of any set off, compensation, counterclaim, defense, allowance, or adjustment other than discounts for prompt payment shown on the invoice, and arose in the ordinary course of Mortgagor's business.
+
+
+
+
+Section 3.11  Status of Equipment.  The Equipment, fixtures, and other tangible personal property forming a part of the Collateral are in good repair and condition and are adequate for the normal operation of the Collateral in accordance with prudent industry standards; all of such Collateral is located on the Mineral Properties, except for that portion thereof which is located elsewhere (including that usually located on the Mineral Properties but now temporarily located elsewhere) in the course of the normal operation of the Mineral Properties.
+
+
+
+
+Section 3.12  Name.  The corporate or partnership name of Mortgagor as it appears in its Articles of Incorporation, Partnership Agreement, or other governing instrument is as it appears on page 1 of this Mortgage.
+
+
+
+
+Section 3.13  Chief Executive Office.  The chief executive office of Mortgagor is located at the offices stated on page 1 of this Mortgage.  Mortgagor maintains all books or records relating to any Accounts at its Chief Executive Office, unless otherwise disclosed to Lender in writing.
+
+
+
+
+Section 3.14  Filing Location.  When UCC financing statements have been filed in the offices of the office of the Louisiana Secretary of State, the Security Interests shall constitute perfected security interests in the Collateral to the extent that a security interest therein may be perfected by filing pursuant to the UCC, prior to all other Liens and rights of others therein except for the Permitted Liens to the extent that such priority is afforded by the UCC.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+ARTICLE 4
+
+Covenants
+
+
+
+
+Section 4.1  Taxes.  Mortgagor will pay and discharge promptly when due all taxes, license fees, assessments, and governmental charges or levies imposed upon it or upon its income or upon the Collateral or any part thereof (including production, severance, windfall profit, excise, and other taxes assessed against or measured by the production of, or the value or proceeds of production of, Hydrocarbons; provided, however, Mortgagor shall not be required to pay any such tax, assessment, charge, or levy if the amount, applicability, or validity thereof shall currently be contested in good faith by appropriate proceedings diligently conducted and if the contesting party shall have set up reserves therefor adequate under generally accepted accounting principles (provided that such reserves may be set up under generally accepted accounting principles).
+
+
+
+
+Section 4.2  Insurance.  Mortgagor will procure and maintain for the benefit of Lender original paid-up insurance policies against such liabilities, casualties, risks, and contingencies, in such amounts and form and substance, with such financially sound and reputable companies, and with such expiration dates, as are acceptable to Lender, and containing a noncontributory standard mortgagee clause or its equivalent in favor of Lender. Mortgagor will at all times maintain costs of regaining control of well insurance or similar insurance to the extent customary in the industry in the pertinent area of operations.  Each policy shall contain an agreement by the insurer not to cancel or amend the policy without giving Lender at least thirty (30) days prior written notice of its intention to do so.  Upon request of Lender, Mortgagor will furnish or cause to be furnished to Lender from time to time a summary of the insurance coverage of Mortgagor in form and substance satisfactory to Lender and if requested will furnish Lender original certificates of insurance and copies of the applicable policies and all renewals thereof.  In the event Mortgagor should, for any reason whatsoever, fail to keep the corporeal (tangible) Collateral or any part thereof so insured, or to keep said policies so payable, or fail to deliver to Lender the original or certified policies of insurance and the renewals therefor upon demand, then Lender, if it so elects, may itself have such insurance effected in such amounts and with such companies as it may deem proper and may pay the premiums therefor (as an Advance as defined hereinbelow).  Mortgagor will notify Lender immediately in writing of any material blowout, fire, or other casualty to or accident involving the Mortgaged Property, the Equipment, or the Hydrocarbons, whether or not such blowout, fire, casualty, or accident is covered by insurance.  Mortgagor will promptly further notify Mortgagor's insurance company and to submit an appropriate claim and proof of claim to the insurance company if such a casualty or accident occurs.  In the event of any loss or any of such policies, Lender may, at its election, either apply the net proceeds thereof toward the payment of the Indebtedness or pay the net proceeds thereof to Mortgagor, either wholly or in part, and under such conditions as Lender may determine to enable Mortgagor to repair or restore the Collateral.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 4.3  Liens.  Mortgagor will not create, incur, assume, or permit to exist any Lien on any portion of the Collateral, except for (a) the Lien and Security Interests hereof; (b) taxes, assessments, or governmental charges or levies if the same shall not at the time be delinquent or thereafter can be paid without penalty, or are being contested in compliance with the preceding Section (“Taxes”); (c) defects or irregularities of title and Liens which are not such as to interfere materially with the development, operation, or value of the Mortgaged Property or the title thereto; (d) those imposed by law, such as carriers', warehousemen's, and mechanics' liens and other similar liens arising in the ordinary course of business would secure obligations not more than ninety (90) days past due or which are being contested in good faith by appropriate proceedings diligently conducted and for which adequate reserves shall have been set aside on its books; (e) those arising out of pledges or deposits under workmen's compensation laws, unemployment insurance, old age pensions, or other social security or retirement benefits, or similar legislation; (f) utility easements, building restrictions, and such other encumbrances or charges against real property as are of a nature generally existing with respect to properties of a similar character as the Mortgaged Property and which do not in any material way affect the merchantability of the same or interfere with the use thereof and the business of Mortgagor; and (g) those consented to in writing by Lender.
+
+
+
+
+Section 4.4  Sale.  Except for (a) sales of severed Hydrocarbons in the ordinary course of Mortgagor's business on the best terms which would be available in bona fide and arms length transactions with third parties not affiliated with Mortgagor (which in the case of production which is subject to price controls or is sold in accordance with customary industry practice pursuant to long term purchase contracts, shall be determined giving consideration to such matters); (b) dispositions made in connection with a permitted (as provided below) release, surrender, or abandonment of a lease; or (c) in the absence of an Event of Default, collection of Accounts and General Intangibles, Mortgagor will not sell, convey, lease, or otherwise transfer or dispose of all or any portion of the Collateral.
+
+
+
+
+Section 4.5  Compliance With Laws and Covenants.  Mortgagor will observe and comply with all laws, statutes, codes, acts, ordinances, orders, judgments, decrees, injunctions, rules, regulations, certificates, franchises, permits, licenses, authorizations, directions, and requirements of all federal, state, county, municipal, and other governments, departments, commissions, boards, courts, authorities, officials, and officers domestic or foreign, applicable to Mortgagor or to the Collateral, except those being contested in good faith.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 4.6  Payment of Debts.  Mortgagor will cause all debts and liabilities of any character (including, without limitation, all debts and liabilities for labor, material, and equipment used or furnished for use on the Mortgaged Property) incurred in the operation, maintenance, and development of the Collateral to be paid within ninety (90) days after same becomes due.  Mortgagor may, however, delay paying or discharging any such debts and liabilities so long as the validity thereof is contested in good faith and by appropriate proceedings diligently conducted and Mortgagor has established adequate reserves therefor in accordance with generally accepted accounting principles and so long as the payment of same is not a condition to be met in order to maintain an oil, gas , or mineral lease in force.
+
+
+
+
+Section 4.7  Operation of the Mortgaged Property.  Whether or not Mortgagor is the operator of the Mortgaged Property, Mortgagor will, at Mortgagor's own expense, (a) do all things necessary to keep unimpaired Mortgagor's rights in the Mortgaged Property (subject to any permitted abandonment provisions hereinbelow), (b) cause the lands described in Exhibit A to be maintained, developed, protected against drainage, and continuously operated for the production of hydrocarbons in a good and workmanlike manner as would a prudent operator, and in accordance with generally accepted practices and applicable operating agreements, and (c) cause to be paid, promptly as and when due and payable, all rentals and royalties payable in respect of the Mortgaged Property, and all expenses incurred in or arising from the operation or development of the Mortgaged Property.  Mortgagor will observe and comply with all terms and provisions, express or implied, of the Mineral Properties, and all agreements and contracts of any type relating to the Mortgaged Property, in order to keep the same in full force and effect, including, without limitation, maintenance of productive capacity of each well or unit comprising the Mortgaged Property, and will not, without the prior written consent of Lender, surrender, abandon, or release (or otherwise reduce its rights under) any such lease, in whole or in part, so long as any well situated thereon (whether or not such well is located on the Mineral Properties), or located on any unit containing all or any part of such leases, is capable (or is subject to being made capable through drilling, reworking, or other operations which it would be economically feasible to conduct) of producing hydrocarbons in commercial quantities (as determined without considering the effect of this Mortgage); provided, however, that Mortgagor may, to the extent expressly required by the terms of any such lease under a “Pugh clause” or similar provision, or to the extent otherwise required by law, confirm to the lessor thereof that the lease has by its terms terminated as to any specified portion thereof on which no such well exists.  Without the express prior written consent of Lender, Mortgagor will not abandon or consent to the abandonment of any well producing from the Mortgaged Property (or properties unitized therewith) so long as such well is capable (or is subject to being made capable through drilling, reworking, or other operations which it would be commercially feasible to conduct) of producing hydrocarbons in commercial quantities (as determined without considering the effect of this Mortgage but considering the cost of such drilling, reworking, and other operations).  Mortgagor will not without the express prior written consent of Lender elect not to participate in a proposed operation on the Mortgaged Property where the effects of such election would be the forfeiture either temporarily (i.e., until a certain sum of money is received out of the forfeited interest) or permanently of any interest in the Mortgaged Property.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 4.8  Pooling and Unitization.  Mortgagor has the right, and is hereby authorized, to pool or unitize all or any part of any tract of land described in Exhibit A, insofar as relates to the Mortgaged Property, with adjacent lands, leaseholds and other interests, when, in the reasonable judgment of Mortgagor, it is necessary or advisable to do so in order to form a drilling unit to facilitate the orderly development of that part of the Mortgaged Property affected thereby, or to comply with the requirements of any law or governmental order or regulation relating to the spacing of wells or proration of the production therefrom; provided, however, that the Hydrocarbons produced from any unit so formed shall be allocated among the separately owned tracts or interests comprising the unit in proportion to the respective surface areas therefrom; and provided further that Mortgagor is not be entitled to form any such unit without the written consent of Lender (which consent shall not be unreasonably withheld) if the effect of such formation would be to decrease the amount of Hydrocarbons which would be subject to this Mortgage.  Any unit so formed may relate to one or more zones or horizons, and a unit formed for a particular zone or horizon need not conform in area to any other unit relating to a different zone or horizon, and a unit formed for the production of oil need not conform in area with any unit formed for the production of gas. Immediately after formation of any such unit, Mortgagor shall furnish to Lender a true copy of the pooling agreement, declaration of pooling or other instrument creating such unit, in such number of counterparts as Lender may reasonably request.  The interest in any such unit attributable to the Mortgaged Property (or any part thereof) included therein shall become a part of the Mortgaged Property and shall be subject to the Lien hereof in the same manner and with the same effect as though such unit and the interest of Mortgagor therein were specifically described in Exhibit A.  Mortgagor may enter into pooling or unitization agreements not hereinabove authorized only with the prior written consent of Lender.
+
+
+
+
+Section 4.9  Contracts.  Mortgagor will not enter into any operating agreement or other Contract which materially adversely affects the Collateral or the Mineral Properties, or which is not in the ordinary course of business.  Mortgagor will promptly take all action necessary to enforce or secure the observance or performance of any term, covenant, agreement, or condition to be observed or performed by third parties under any Contract, or any part thereof, or to exercise any of its rights, remedies, powers, and privileges under any Contract, all in accordance with the respective terms thereof.  Mortgagor will not do or permit anything to be done to the Collateral that may violate the terms of any insurance covering the Collateral or any part thereof.
+
+
+
+
+Section 4.10  Condition of Equipment.  Mortgagor will maintain, preserve, and keep the Equipment at all times in thorough repair and good working order and condition, and from time to time make all needful repairs, renewals, and additions so that its value and the Security Interests shall at no time become impaired.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 4.11  Accounts Collection.  Mortgagor shall use its best efforts to cause to be collected from its account debtors, as and when due, any and all amounts owing under or on account of each Account (including, without limitation, Accounts which are delinquent, such Accounts to be collected in accordance with, lawful collection procedures) and shall apply forthwith upon receipt thereof all such amounts as are so collected to the outstanding balance of such Account.  Subject to the rights of Lender hereunder if an Event of Default shall have occurred and be continuing, Mortgagor may allow in the ordinary course of business as adjustments to amounts owing under its Accounts an extension or renewal of the time or times of payment, or settlement for less than the total unpaid balance, which Mortgagor finds appropriate in accordance with sound business judgment in accordance with Mortgagor's ordinary course of business consistent with its historical collection practices.  The costs and expenses (including, without limitation, attorneys' fees) of collection, whether incurred by Mortgagor or Lender, shall be borne by Mortgagor.
+
+
+
+
+Section 4.12  Governmental Accounts.  If the Collateral is or becomes subject to the Federal Assignment of Claims Act, Mortgagor will immediately notify Lender thereof in writing and execute all instruments and take all steps required by Lender to comply with that act.
+
+
+
+
+Section 4.13  Accounts Aging.  Mortgagor will from time to time at the request of Lender furnish Lender with a schedule of the Accounts which shall include the names and addresses of each account debtor.  Lender shall also have the right to make test verification of the Accounts.  Mortgagor at its expense shall furnish to Lender from time to time upon request by Lender a listing and aging of all Accounts.
+
+
+
+
+Section 4.14  Right of Inspection and Information.  Mortgagor will permit any officer, employee, or agent of Lender to visit and inspect the Collateral, examine the books of record and accounts of Mortgagor, take copies and extracts therefrom, and discuss the affairs, finances, and accounts of Mortgagor with Mortgagor's officers, accountants, and auditors, and Mortgagor will furnish information concerning the Collateral, including schedules of all internal and third party information identifying the Collateral (such as, for example, lease and well names and numbers assigned by Mortgagor or the operator of any Mineral Properties, division orders and payment names and numbers assigned by purchasers of the Hydrocarbons, and internal identification names and numbers used by Mortgagor in accounting for revenues, costs, and joint interest transactions attributable to the Mineral Properties), all on reasonable notice, at such reasonable times without hindrance or delay and as often as Lender may reasonably desire.  Mortgagor will furnish to Lender promptly upon request and in the form and content specified by Lender lists of purchasers of Hydrocarbons and other account debtors, schedules of Equipment and other data concerning the Collateral as Lender may from time to time specify.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 4.15  Financial Statements and Reports.  Mortgagor will furnish to Lender promptly upon the request of Lender, all regular financial statements, reports, budgets, and such other information regarding the business and affairs and financial condition of Mortgagor as Lender may reasonably request.  All financial statements shall be in such detail as Lender may reasonably request and shall conform to generally accepted accounting principles applied on a consistent basis, except only for such changes in accounting principles or practice with which the independent certified public accountants concur.
+
+
+
+
+Section 4.16  Further Assurances.  Mortgagor will keep the Lien of this Mortgage valid and unimpaired.  Mortgagor will promptly and in no event later than thirty (30) days after written notice from Lender is received (a) correct any defect, error or omission which may be discovered in the contents of this Mortgage or any financing statement relating thereto or in the execution or acknowledgment of this Mortgage or any financing statement; (b) execute, acknowledge, deliver, and record such further instruments (including, without limitation, further security agreements, financing statements, continuation statements, and assignments of accounts, contract rights, general intangibles, and proceeds) and do such further acts as may be necessary, desirable, or proper to carry out more effectively the purposes of this Mortgage and to more fully identify and subject to the Liens hereof any property intended to be covered hereby, including without limitation any renewals, additions, substitutions, replacements, or accessions to the Collateral; and (c) execute, acknowledge, deliver, and record any document or instrument (including specifically any financing statement) and obtain any consents necessary, desirable, or proper to perfect, protect, or preserve the Lien and Security Interests hereunder against the rights or interests of third persons, including without limitation any applicable  approvals of the Louisiana State Mineral Board or other governmental authority with respect to the inclusion of state leases or other leases from Louisiana governmental authorities within the Mineral Properties affected by this Mortgage.  Mortgagor shall pay all costs connected with any of the foregoing.
+
+
+
+
+Section 4.17  Notice of Changes.  Mortgagor will not change its name, identity, federal tax identification number or corporate or partnership structure in any manner unless it shall have given Lender at least thirty (30) days prior written notice thereof.  Mortgagor will not change the location of (a) its chief executive office or chief place of business, or (b) the locations where it keeps or holds any Collateral or any records relating thereto, from the applicable location described in Article 3 unless it shall have given Lender at least thirty (30) days prior written notice thereof.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 4.18  Filing.  Lender is authorized to file any UCC financing statements deemed necessary by Lender to perfect the security interests created or described in this Mortgage.  Mortgagor agrees that a carbon, photographic, facsimile, photostatic, or other reproduction of this Mortgage or of a financing statement is sufficient as a financing statement.  This Mortgage may be effective as a financing statement filed as a fixture filing with respect to all fixtures included within the Collateral and shall also be effective as the financing statement covering as-extracted collateral, minerals or the like (including oil and gas), and accounts, as amended, and similar provisions (if any) of the UCC as enacted in any other state where filing may be appropriate.  The mailing address of Mortgagor and the address of Lender from which information concerning the Security Interests evidenced hereunder may be obtained at the respective addresses of Mortgagor and Lender set forth in Article 6.  Mortgagor shall pay all costs of or incidental to the recording or filing this Mortgage and of any financing, amendment, continuation, termination, or other statements concerning the Collateral.
+
+
+
+
+Section 4.19  Collateral Indemnity.  If the validity or priority of this Mortgage or any rights, security interests, or other interests created or evidenced hereby shall be attacked, endangered, or questioned or if any legal proceedings are instituted with respect thereto, Mortgagor will give prompt written notice thereof to Lender and at Mortgagor's own cost and expense will diligently endeavor to cure any defect that may be developed or claimed, and will take all necessary and proper steps for the defense of such legal proceedings, and Lender (whether or not named as a party to legal proceedings with respect thereto) is hereby authorized and empowered to take such additional steps as in its judgment and discretion may be necessary or proper for the defense of any such legal proceedings or the protection of the validity or priority of this Mortgage and the rights, security interests, and other interests created or evidenced hereby, and all expenses so incurred of every kind and character shall be considered Advances as provided in Section 4.24 (“Advances by Lender”) and shall be a part of the Indebtedness.
+
+
+
+
+Section 4.20  Environmental Indemnity.  Mortgagor will defend, indemnify, and hold Lender and its directors, officers, agents, and employees harmless from and against all claims, demands, causes of action, liabilities, losses, costs, and expenses (including, without limitation, costs of suit, reasonable attorneys' fees, and fees of expert witnesses) arising from or in connection with (a) the presence in, on, or under or the removal from the Collateral of any hazardous substances or solid wastes (as hereafter defined), or any releases or discharges of any hazardous substances or solid wastes on, under, or from such property; (b) any activity carried on or undertaken on or off the Collateral, whether prior to or during the term of this Mortgage, and whether by Mortgagor or any predecessor in title or any officers, employees, agents, contractors, or subcontractors of Mortgagor or any predecessor in title, or any third persons at any time operating the Collateral or occupying or present on the Collateral, in connection with the handling, use, generation, manufacture, treatment, removal, storage, decontamination, clean-up, transport, or disposal of any hazardous substances or solid wastes at any time located or present on or under the Collateral or involving the use or operation of the Collateral; or (c) any breach of any representation, warranty, or covenant under the terms of this Mortgage.  The foregoing indemnity shall further apply to any residual contamination on or under the Collateral, or affecting any natural resources, and to any contamination of the Collateral or natural resources arising in connection with the generation, use, handling, storage, transport, or disposal of any such hazardous substances or solid wastes, and irrespective of whether any of such activities were or will be undertaken in accordance with applicable laws, regulations, codes and ordinances.  The terms “hazardous substance” and “release” as used in this Mortgage shall have the meanings specified in the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended by the Superfund Amendments and Reauthorization Act of 1986 (as amended, “CERCLA”), and the terms “solid waste” and “disposal” (or “disposed”) shall have the meanings specified in the Resource Conservation and Recovery Act of 1976, as amended by the Used Oil Recycling Act of 1980, the Solid Waste Disposal Act Amendments of 1980, and the Hazardous and Solid Waste Amendments of 1984 (as amended, “RCRA”); provided, in the event that the laws of the State of Louisiana establish a meaning for “Hazardous Substance,” “Release,” “Solid Waste” or “Disposal” which is broader than that specified in either CERCLA or RCRA, such broader meaning shall apply.  Without prejudice to the survival of any other agreements of Mortgagor hereunder, the provisions of this Section shall survive the final payment of all Indebtedness and the termination of this Mortgage and shall continue thereafter in full force and effect.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 4.21  Additional Collateral.  If Lender should at any time be of the opinion that the Collateral is not sufficient or has declined or may decline in value or should Lender deem payment of the Indebtedness to be insecure, then Lender may call for additional Collateral satisfactory to Lender, and Mortgagor promises promptly to furnish such additional security forthwith and in all events within thirty (30) days of such notice.
+
+
+
+
+Section 4.22  Release of Collateral.  Lender may at any time and without notice to Mortgagor, release any part of the Collateral from the effect of this Mortgage, or grant an extension or deferment of time for the discharge of any obligation hereunder (or other Indebtedness), without affecting the liability of Mortgagor hereunder.
+
+
+
+
+Section 4.23  Taxation of Mortgage.  In the event that any governmental authority shall impose any taxation of mortgages or the indebtedness they secure, Mortgagor agrees to pay such governmental taxes, assessments, or charges either to the governmental authority or to Lender, as provided by law.
+
+
+
+
+Section 4.24  Advances by Lender.  Mortgagor authorizes Lender in Lender's discretion to advance any sums necessary for the purpose of paying (a) insurance premiums; (b) taxes, forced contributions, service charges, local assessments, and governmental charges; (c) any Liens or encumbrances affecting the Collateral (whether superior or subordinate to the Lien of this Mortgage) not permitted by this Mortgage; (d) necessary repairs and maintenance expenses; or (e) any other amounts which are covered by Section 4.16 (“Further Assurances”) or which Lender deems necessary and appropriate to preserve the validity and ranking of this Mortgage, to cure any Events of Default or to prevent the occurrence of any Events of Default, or otherwise authorized by this Mortgage (collectively the “Advances”) of whatever kind; provided, however, that nothing herein contained shall be construed as making such Advances obligatory upon Lender, or as making Lender liable for any loss, damage, or injury resulting from the nonpayment thereof.  Mortgagor covenants and agrees that within five (5) days after demand therefor by Lender, Mortgagor will repay the Advances to Lender, together with interest thereon at the rate of fifteen (15%) percent per annum from the date incurred.  All such Advances (and interest) shall be included in the Indebtedness secured hereby, subject to the maximum amount of the Indebtedness set forth above in Section 2.5 (“Maximum Amount”).
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+ARTICLE 5
+
+Default and Remedies
+
+
+
+
+Section 5.1  Events of Default.  Any of the following events shall be considered an “Event of Default” as that term is used herein:
+
+
+
+
+(a)           Principal and Interest Payments.  Borrower fails to make payment when due of any principal or interest installment on the Indebtedness to Lender.
+
+
+
+
+(b)           Representations and Warranties.  Any representation or warranty made by Borrower or Mortgagor proves to have been incorrect in any material respect as of the date thereof; or any representation, statement (including financial statements), certificate, or data furnished or made by Borrower or Mortgagor (or any officer, accountant, or attorney of Borrower on Mortgagor) under this Mortgage, proves to have been untrue in any material adverse respect, as of the date as of which the facts therein set forth were stated or certified.
+
+
+
+
+(c)           Insurance.  Mortgagor fails to maintain at any time the insurance required by this Mortgage.
+
+
+
+
+(d)           Alienation or Encumbrance of Collateral.  Mortgagor sells, conveys, or otherwise transfers or disposes of all or any portion of the Collateral or grants any mortgage, security interest, or other Lien affecting all or any portion of the Collateral, or permits any judgment, Lien, or other encumbrance against all or any portion of the Collateral, other than as permitted herein.
+
+
+
+
+(e)           Covenants.  Mortgagor defaults on the observance or performance of any of the covenants or agreements contained in this Mortgage to be kept or performed by Mortgagor [other than a default under Subsections (a) through (d) hereof], and such default continues unremedied after expiration of any notice and cure period required by the Loan Agreement.
+
+
+
+
+(f)           Loan Agreement.  Any Event of Default under the Loan Agreement occurs, and such Event of Default continues unremedied after expiration of any notice and cure period required by the Loan Agreement.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+(g)           Hedge Liabilities.  Borrower or Mortgagor defaults on the observance or performance of any Hedge Transaction or any of the Hedge Liabilities (as defined in the Loan Agreement), and such default continues unremedied after expiration of any notice and cure period required by the Loan Agreement.
+
+
+
+
+Section 5.2  Remedies.    (a) Upon the happening of any Event of Default specified in the preceding Section and the expiration of any notice and cure period required by the Loan Agreement, Lender may by written notice to Borrower declare the entire principal amount of all Indebtedness then outstanding including supplemental interest accrued thereon to be immediately due and payable without presentment, demand, protest, notice of protest or dishonor, or other notice of default of any kind, all of which are hereby expressly waived by Borrower.
+
+
+
+
+(b)           Upon the occurrence of any Event of Default, Lender may take such action, without notice or demand, as it deems advisable to protect and enforce its rights against Borrower and in and to the Collateral, including, but not limited to, the following actions, each of which may be pursued concurrently or otherwise, at such time and in such order as Lender may determine, in its sole discretion, without impairing or otherwise affecting the other rights and remedies of Lender: (i) institute proceedings for the complete foreclosure of this Mortgage in which case the Collateral or any part thereof may be sold for cash or upon credit in one or more portions; or (ii) to the extent permitted and pursuant to the procedures provided by applicable law, institute proceedings for the partial foreclosure of this Mortgage for the portion of the Indebtedness then due and payable, subject to the continuing Lien of this Mortgage for the balance of the Indebtedness not then due; or (iii) institute an action, suit, or proceeding in equity for the specific performance of any covenant, condition, or agreement contained in this Mortgage; or (iv) apply for the appointment of a trustee, receiver, liquidator, or conservator of the Collateral, without regard for the adequacy of the security for the Indebtedness and without regard for the solvency of Borrower or of any person, firm, or other entity liable for the payment of the Indebtedness; or (v) pursue such other remedies as Lender may have under applicable law.
+
+
+
+
+(c)           The proceeds or avails of any sale made under or by virtue of this Section, together with any other sums which then may be held by Lender under this Mortgage whether under the provisions of this Section or otherwise, shall be applied in such manner as Lender, in its sole discretion, shall determine.
+
+
+
+
+(d)           Upon any sale made under or by virtue of this Section, Lender may bid for and acquire the Collateral or any part thereof and in lieu of paying cash therefor may make settlement for the purchase price by crediting upon the Indebtedness the net sales price after deducting therefrom the expenses of the sale and the costs of the action and any other sums which Lender is authorized to deduct under this Mortgage.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 5.3  Collateral Account.  Upon the occurrence of an Event of Default, and at any time thereafter, Lender may require Mortgagor to establish a cash collateral account (the “Collateral Account”) in the name and under the control of Lender at Lender or a bank satisfactory to Lender, which shall be subject to access and withdrawal by Lender only.  In such event, all payments (in the form of checks, drafts, cash, or otherwise) received by Mortgagor in satisfaction, in whole or in part, of any Proceeds of Runs, Accounts, or General Intangibles (or Proceeds therefrom) of Mortgagor shall be deposited by Mortgagor in the Collateral Account.  Mortgagor will deposit for credit to the Collateral Account all such items of payment and remittances within two (2) business days of the receipt thereof, and shall not commingle any such items of payment and remittances with any of Mortgagor's other property.  Funds in the Collateral Account are and shall be subject to a security interest in favor of Lender to secure the Indebtedness, and Lender may apply or cause to be applied (subject to collection) any or all of the balance from time to time standing in the Collateral Account against the Indebtedness in such order as determined by Lender.
+
+
+
+
+Section 5.4  General Authority.  Mortgagor hereby irrevocably appoints Lender its agent and attorney in fact, with full power of substitution, in the name of Mortgagor or Lender, for the sole use and benefit of Lender, but at Mortgagor's expense, to exercise, at any time and from time to time while an Event of Default has occurred and is continuing, all or any of the following powers with respect to all or any of the Collateral:
+
+
+
+
+(a)           to endorse the name of Mortgagor upon any check, draft or other instrument payable to Mortgagor evidencing payment upon any Accounts or General Intangible;
+
+
+
+
+(b)           to notify postal service authorities to change the address for delivery of Mortgagor's mail to a “lock box” address designated and controlled by Lender, and to receive, open, and dispose of all mail addressed to Mortgagor;
+
+
+
+
+(c)           to demand, sue for, collect, receive, and give acquittance for any and all Accounts and other monies due or to become due for or as Collateral or by virtue thereof;
+
+
+
+
+(d)           to settle, compromise, compound, prosecute, or defend any action or proceeding with respect to any of the Collateral; and
+
+
+
+
+(e)           to extend the time of payment of any or all of the Collateral and to make any allowance and other adjustments with reference thereto.
+
+
+
+
+The aforesaid mandate and power of attorney, being coupled with an interest, is irrevocable so long as any of the Indebtedness remain outstanding.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 5.5  Accounts and Contracts.  While an Event of Default has occurred and is continuing, (a) Mortgagor will make no material change to the terms of any Account or Contract without the prior written permission of Lender, and (b) Mortgagor upon request of Lender will promptly notify (and Mortgagor hereby authorizes Lender so to notify) each account debtor in respect of any Account or General Intangible that such Collateral has been assigned to Lender hereunder, and that any payments due or to become due in respect of such Collateral are to be made directly to Lender or its designee.
+
+
+
+
+Section 5.6  Sale.  Upon the occurrence of an Event of Default, Lender may exercise all rights of a secured party under the UCC and other applicable law (including the Uniform Commercial Code as in effect in another applicable jurisdiction) and, in addition, Lender may, without being required to give any notice, except as herein provided or as may be required by mandatory provisions of law, (a) withdraw all cash in the Collateral Account and apply such cash and other cash, if any, then held by it as Collateral against the Indebtedness or (b) sell the Collateral or any part thereof at public or private sale, for cash, upon credit or for future delivery, and at such price or prices as Lender may deem satisfactory.  Lender may be the purchaser of any or all of the Collateral so sold at any public sale (or, if the Collateral is of a type customarily sold in a recognized market or is of a type which is the subject of widely distributed standard price quotations, at any private sale).  Mortgagor will execute and deliver such documents and take such other action as Lender deems necessary or advisable in order that any such sale may be made in compliance with law.  Upon any such sale Lender shall have the right to deliver, assign, and transfer to the purchaser thereof the Collateral so sold.  Each purchaser at any such sale shall hold the Collateral so sold to it absolutely and free from any claim or right of whatsoever kind, including any equity or right of redemption of Mortgagor which may be waived, and Mortgagor, to the extent permitted by law, hereby specifically waives all rights of redemption, stay, or appraisal which it has or may have under any law now existing or hereafter adopted.  Mortgagor agrees that ten (10) days prior written notice of the time and place of any sale or other intended disposition of any of the Collateral constitutes “reasonable notification” within the meaning of Article 9 of the UCC, except that shorter or no notice shall be reasonable as to any Collateral which is perishable or threatens to decline speedily in value or is of a type customarily sold on a recognized market.  The notice (if any) of such sale shall (1) in case of a public sale, state the time and place fixed for such sale, and (2) in the case of a private sale, state the day after which such sale may be consummated.  Any such public sale shall be held at such time or times within or ordinary business hours and at such place or places as Lender may fix in the notice of such sale.  At any such sale the Collateral may be sold in one lot as an entirety or in separate parcels, as Lender may determine.  Lender shall not be obligated to make any such sale pursuant to any such notice.  Lender may, without notice or publication, adjourn any public or private sale or cause the same to be adjourned from time to time by announcement at the time and place fixed for the sale, and such sale may be made at any time or place to which the same may be so adjourned.  In case of any sale of all or any part of the Collateral on credit or for future delivery, the Collateral so sold may be retained by Lender until the selling price is paid by the purchaser thereof, but Lender shall not incur any liability in case of the failure of such purchaser to take up and pay for the Collateral so sold and, in case of any such failure, such Collateral may again be sold upon like notice.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 5.7  Set-Off.  Upon the occurrence of any Event of Default, Lender shall have the right to set-off any funds of Mortgagor in the possession of Lender against any amounts then due by Borrower or Mortgagor to Lender pursuant to the Mortgage.
+
+
+
+
+Section 5.8  Confession of Judgment.  For purposes of foreclosure under Louisiana executory process procedures, Mortgagor hereby acknowledges the Indebtedness and confesses judgment in favor of Lender for the full amount of the Indebtedness.
+
+
+
+
+Section 5.9  Expenses.   Mortgagor will pay all reasonable expenses, including but not limited to reasonable attorneys' fees, incurred in connection with the full protection and preservation of, and foreclosure, collection, or other realization of or on, the Collateral or this Mortgage, or in connection with the enforcement of any of Mortgagor's obligations or Lender's rights and remedies set forth herein, whether or not suit or any foreclosure proceedings are filed.  All insurance expenses and all expenses of protecting, storing, warehousing, appraising, preparing for sale, handling, maintaining, and shipping the Collateral, any and all excise, property, sales, and use taxes imposed by any federal, state, or local authority on any of the Collateral, all expenses in respect of periodic appraisals and inspections of the Collateral to the extent the same may be requested from time to time, and all expenses in respect of the sale or other disposition thereof shall be borne and paid by Mortgagor.  All such expenses shall be treated as Advances as provided in Section 4.24 (“Advances by Lender”) and thus included in the Indebtedness secured hereby.
+
+
+
+
+Section 5.10  Keeper.  In the event the Collateral, or any part thereof, is seized as an incident to an action for the recognition or enforcement of this Mortgage by executory process, ordinary process, sequestration, writ of fieri facias or otherwise, Mortgagor and Lender agree that the court issuing any such order shall, if petitioned for by Lender, direct the applicable sheriff to appoint as a keeper of the Collateral, Lender or any agent designated by Lender or any person named by Lender at the time such seizure is effected.  This designation is pursuant to Louisiana Revised Statutes 9:5131 through 5135 and 9:5136 through 5140.2, as the same may be amended, and Lender shall be entitled to all the rights and benefits afforded thereunder.  It is hereby agreed that the keeper shall be entitled to receive as compensation, in excess of its reasonable costs and expenses incurred in the administration or preservation of the Collateral, an amount equal to ten percent (10%) of the gross revenues of the Collateral, which shall be included as Indebtedness secured by this Mortgage. The designation of keeper made herein shall not be deemed to require Lender to provoke the appointment of such a keeper.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 5.11  Waivers.  Mortgagor waives in favor of Lender any and all homestead exemptions and other exemptions of seizure or otherwise to which Mortgagor is or may be entitled under the constitution and statutes of the State of Louisiana insofar as the Collateral is concerned.  Mortgagor further waives: (a) the benefit of appraisement as provided in Louisiana Code of Civil Procedure Articles 2332, 2336, 2723 and 2724, and all other laws conferring the same; (b) the demand and three days delay accorded by Louisiana Code of Civil Procedure Articles 2639 and 2721; (c) the notice of seizure required by Louisiana Code of Civil Procedure Articles 2293 and 2721; (d) the three days delay provided by Louisiana Code of Civil Procedure Articles 2331 and 2722; and (e) the benefit of the other provisions of Louisiana Code of Civil Procedure Articles 2331, 2722 and 2723, not specifically mentioned above.
+
+
+
+
+Section 5.12  Authentic Evidence.  Any and all declarations of facts made by authentic act before a notary public in the presence of two witnesses by a person declaring that such facts lie within his knowledge, shall constitute authentic evidence of such facts for the purpose of executory process.  Mortgagor specifically agrees that such an affidavit by a representative of Lender as to the existence, amount, terms, and maturity of the Indebtedness and of a default thereunder shall constitute authentic evidence of such facts for the purpose of executory process.
+
+
+
+
+Section 5.13  Assemble Collateral.  For the purpose of enforcing any and all rights and remedies under this Mortgage Lender may (a) require Mortgagor to, and Mortgagor agrees that it will, at its expense and upon the request of Lender, forthwith assemble all or any part of the Collateral as directed by Lender and make it available at a place designated by Lender which is, in its opinion, reasonably convenient to Lender and Mortgagor, whether at the premises of Mortgagor or otherwise, and Lender shall be entitled to specific performance of this obligation; (b) to the extent permitted by applicable law of this or any other state, enter, with or without process of law and without breach of the peace, any premise where any of the Collateral is or may be located, and without charge or liability to it seize and remove such Collateral from such premises; (c) have access to and use Mortgagor's books and records relating to the Collateral; and (d) prior to the disposition of the Collateral, store or transfer it without charge in or by means of any storage or transportation facility owned or leased by Mortgagor, process, repair, or recondition it or otherwise prepare it for disposition in any manner and to the extent Lender deems appropriate and, in connection with such preparation and disposition use without charge any trademark, trade name, copyright, patent, or technical process used by Mortgagor.
+
+
+
+
+Section 5.14  Litigation on Duty of Lender..  Beyond the exercise of reasonable care in the custody thereof, Lender shall have no duty as to any Collateral in its possession or control or in the possession or control of any agent or bailee or any income thereon.  Lender shall be deemed to have exercised reasonable care in the custody of the Collateral in its possession if the Collateral is accorded treatment substantially equal to that which it accords its own property, and shall not be liable or responsible for any loss or damage to any of the Collateral, or for any diminution in the value thereof, by reason of the act or omission of any warehouseman, carrier, forwarding agency, consignee, or other agent or bailee selected by Lender in good faith.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 5.15  Appointment of Agent.  At any time or times, in order to comply with any legal requirement in any jurisdiction, Lender may appoint a bank or trust company or one or more other Persons with such power and authority as may be necessary for the effectual operation of the provisions hereof and may be specified in the instrument of appointment.
+
+
+
+
+ARTICLE 6
+
+Miscellaneous
+
+
+
+
+Section 6.1  Notices.  Any notice or demand which, by provision of this Mortgage, is required or permitted to be given or served to Mortgagor and Lender shall be deemed to have been sufficiently given and served for all purposes if made in accordance with the Loan Agreement to the following addresses:
+
+
+
+
+
+
+
+
+If to Mortgagor:
+
+
+Tchefuncte Natural Resources, LLC
+
+
+  
+
+Attention: Randy M. Griffin, Chief Executive Officer
+
+
+  
+
+5220 Spring Valley Road., Ste. 525
+
+
+  
+
+Dallas, Texas 75254
+
+
+  
+  
+
+
+If to Lender:
+
+
+The F&M Bank & Trust Company
+
+
+  
+
+Attention: Christina Kitchens, Senior Vice President
+
+
+  
+
+3811 Turtle Creek Blvd., Suite 1700
+
+
+  
+
+Dallas, Texas 75219
+
+
+
+
+
+
+
+Section 6.2  Amendment.  Neither this Mortgage nor any provisions hereof may be changed, waived, discharged, or terminated orally or in any manner other than by an authentic instrument in writing signed by the party against whom enforcement of the change, waiver, discharge, or termination is sought.
+
+
+
+
+Section 6.3  Invalidity.  In the event that any one or more of the provisions contained in this Mortgage shall, for any reason, be held invalid, illegal, or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not affect any other provision of this Mortgage.
+
+
+
+
+Section 6.4  Waivers.  No course of dealing on the part of Lender, its officers, employees, consultants, or agents, nor any failure or delay by Lender with respect to exercising any of its rights, powers, or privileges under this Mortgage shall operate as a waiver thereof.
+
+
+
+
+Section 6.5  Cumulative Rights.  The rights and remedies of Lender under this Mortgage and the Security Documents shall be cumulative, and the exercise or partial exercise of any such right or remedy shall not preclude the exercise of any other right or remedy.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+Section 6.6  Titles of Articles, Sections and Subsections.  All titles or headings to articles, sections, subsections, or other divisions of this Mortgage or the exhibits hereto are only for the convenience of the parties and shall not be construed to have any effect or meaning with respect to the other content of such articles, sections, subsections, or other divisions, such other content being controlling as to the agreement between the parties hereto.
+
+
+
+
+Section 6.7  Singular and Plural.  Words used herein in the singular, where the context so permits, shall be deemed to include the plural and vice versa.  The definitions of words in the singular herein shall apply to such words when used in the plural where the context so permits and vice versa.
+
+
+
+
+Section 6.8  Termination.  Upon full and final payment and performance of the Indebtedness and the termination of the Loan Agreement, this Mortgage shall terminate, and Lender shall pay to Mortgagor all amounts then remaining in the possession of Lender from collections on or proceeds of the Collateral.  Upon request of Mortgagor, Lender shall execute and deliver to Mortgagor at Mortgagor's expense such termination statements as Mortgagor may reasonably request to evidence such termination.
+
+
+
+
+Section 6.9  Successors and Assigns.  (a)  All covenants and agreements contained by or on behalf of Mortgagor in this Mortgage shall bind its successors and assigns and shall inure to the benefit of Lender and its successors and assigns.
+
+
+
+
+(b)           This Mortgage is for the benefit of Lender and for such other Person or Persons as may from time to time become or be the holders of any of the Indebtedness, and this Mortgage shall be transferrable and negotiable, with the same force and effect and to the same extent as the Indebtedness may be transferrable, it being understood that, upon the transfer or assignment by Lender of any of the Indebtedness, the legal holder of such Indebtedness shall have all of the rights granted to Lender under this Mortgage.  Mortgagor specifically agrees that upon any transfer of all or any portion of the Indebtedness, this Mortgage shall secure with retroactive rank the existing Indebtedness of Mortgagor to the transferee and any and all Indebtedness to such transferee thereafter arising.
+
+
+
+
+(c)           Mortgagor hereby recognizes and agrees that Lender may, from time to time, one or more times, transfer all or any portion of the Indebtedness to one or more third parties.  Such transfers may include, but are not limited to, sales of participation interests in such Indebtedness in favor of one or more third party lenders.  Upon any transfer of all or any portion of the Indebtedness, Lender may transfer and deliver any or all of the Collateral to the transferee of such Indebtedness and such Collateral shall secure any and all of the Indebtedness in favor of such a transferee then existing and thereafter arising, and after any such transfer has taken place, Lender shall be fully discharged from any and all future liability and responsibility to Mortgagor with respect to such Collateral, and the transferee thereafter shall be vested with all the powers, rights, and duties with respect to such Collateral.
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+Section 6.10  Governing Law.  This Mortgage is made under and shall be construed in accordance with and governed by the laws of the United States of America and the State of Louisiana.
+
+
+
+
+Section 6.11  Certificates.  The production of mortgage, conveyance, tax research, or other certificates is waived by consent, and Mortgagor and Lender agree to hold me, Notary, harmless for failure to procure and attach same.
+
+ 
+
+THUS DONE AND PASSED on the day and in the month and year hereinabove first written], in the presence of the undersigned witnesses who hereunto sign their names with Borrower, Lender, and me, Notary, after due reading of the whole.
+
+
+
+
+
+
+
+  
+
+MORTGAGOR:
+
+
+  
+  
+
+  
+
+Tchefuncte Natural Resources, LLC,
+
+
+  
+
+a Louisiana limited liability company
+
+
+  
+  
+  
+
+  
+
+By:
+
+
+Mesa Energy, Inc., Sole Member
+
+
+  
+  
+  
+
+  
+  
+
+By:
+
+
+/s/ RANDY M. GRIFFIN
+
+
+  
+  
+  
+
+ Randy M. Griffin
+
+
+  
+  
+  
+
+ Chief Executive Officer
+
+
+
+
+
+
+
+
+
+
+
+WITNESSES:
+
+
+  
+
+  
+
+
+Print Name:
+
+  
+
+  
+
+  
+
+
+Print Name: 
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+NOTARY PUBLIC
+
+
+  
+
+FOR STATE OF TEXAS
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+           THUS DONE AND PASSED on the day and in the month and year hereinabove first written, in the presence of the undersigned witnesses who hereunto sign their names with  Lender and me, Notary, after due reading of the whole.
+
+
+
+
+
+
+
+
+LENDER:
+
+
+  
+
+
+The F&M Bank & Trust Company
+
+
+  
+  
+
+
+By:
+
+
+/s/ CHRISTINA KITCHENS
+
+
+  
+
+Christina Kitchens, Senior Vice President
+
+
+
+
+
+
+
+
+
+
+
+WITNESSES:
+
+
+  
+  
+
+  
+
+
+Print Name:
+
+  
+
+  
+
+  
+
+
+Print Name: 
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+NOTARY PUBLIC
+
+
+  
+
+FOR STATE OF TEXAS
+
+
+
+
+
+
+
+This Mortgage was prepared by and
+
+After recording, please return to:
+
+Wade D. Purtell
+
+Harris, Finley & Bogle, P.C.
+
+777 Main Street, Suite 3600
+
+Fort Worth, Texas 76102-5341
+
+(817) 870-8700
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+INTRODUCTION TO EXHIBITS
+
+TO
+
+MORTGAGE, COLLATERAL ASSIGNMENT,
+
+SECURITY AGREEMENT, AND FINANCING STATEMENT
+
+
+
+
+Introduction to Description of Mineral Properties
+
+
+
+
+Mortgagor and Lender hereby agree and affirm that this Introduction to Description of Properties is an amplification and explanation of the terminology, format, and information contained in Exhibit A and that this instrument shall be construed as a whole with reference to the entirety of its provisions (including all Exhibits).
+
+
+
+
+1.           This instrument covers Mortgagor's entire interest in each of the mineral servitudes, mineral leases, mineral royalties, and other mineral rights described in Exhibit A, as now owned or as hereafter acquired.  The inclusion of Mortgagor’s “Revenue Interests,” “Expense Interests,” and undivided leasehold interests, by the listing of percentage, decimal, or fractional numbers or otherwise, as well as the inclusion of depth limitations, spacing unit designations and agreements, well names and well arabic numbers, are in some instances for purposes of certain representations of Mortgagor contained in this instrument and are generally for descriptive purposes.  The inclusion (or the inaccuracy thereof) of this information is not in any way a limitation or restriction on the interest of Mortgagor being subjected to the lien and encumbrance of this instrument.  In the event that Mortgagor acquires additional undivided interests in some or all of such mineral rights, this Mortgage shall automatically encumber such additions or increases to Mortgagor's interest in such mineral rights without need of further act or document.
+
+
+
+
+2.           This instrument is intended to cover the entire interest of Mortgagor in any lease described in Exhibit A.  Reference is made to the land descriptions contained in the documents of title recorded as described in Exhibit A.
+
+
+
+
+3.           References in Exhibit A to instruments on file in the public records are made for all purposes. Unless provided otherwise, all recording references in Exhibit A are to the official real property records of the parish or parishes in which the mortgaged property is located and in which records such documents are or in the past have been customarily recorded, whether Conveyance Records, Deed Records, Oil and Gas Records, Mineral Lease Records, Oil and Gas Lease Records, or other records.
+
+
+
+
+4.           A statement herein that a certain interest described is subject to the terms of certain described or referred to agreements, instruments, or other matters shall not operate to subject such interest to any such agreement, instrument, or other matter except to the extent that such agreement, instrument, or matter is otherwise valid and presently subsisting nor shall such statement be deemed to constitute a recognition by the parties hereto that any such agreement, instrument, or other matter is valid and presently subsisting or binding against Lender.
+
+
+
+
+INTRODUCTION TO EXHIBITS
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+EXHIBIT A
+
+TO
+
+MORTGAGE, COLLATERAL ASSIGNMENT,
+
+SECURITY AGREEMENT, AND FINANCING STATEMENT
+
+
+
+
+Mineral Properties
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+EXHIBIT B
+
+TO
+
+MORTGAGE, COLLATERAL ASSIGNMENT,
+
+SECURITY AGREEMENT, AND FINANCING STATEMENT
+
+
+
+
+Contracts
+
+
+
+
+This Mortgage was prepared by and
+
+After recording, please return to:
+
+Wade D. Purtell
+
+Harris, Finley & Bogle, P.C.
+
+777 Main Street, Suite 3600
+
+Fort Worth, Texas 76102-5341
+
+(817) 870-8700
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+
+

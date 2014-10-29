@@ -1,0 +1,1289 @@
+
+EX-10
+2
+rrc-ex10_20140331338.htm
+EX-10.1
+
+
+
+Exhibit 10.1 FOURTH AMENDMENT TO FOURTH AMENDED AND RESTATEDCREDIT AGREEMENTTHIS FOURTH AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”) is dated as of April 3, 2014, by and among RANGE RESOURCES CORPORATION, a Delaware corporation (the “Borrower”), CERTAIN SUBSIDIARIES OF THE BORROWER, as Guarantors (the “Guarantors”), the LENDERS party hereto and JPMORGAN CHASE BANK, N.A., as Administrative Agent for the Lenders (in such capacity, the “Administrative Agent”).  Unless the context otherwise requires or unless otherwise expressly defined herein, capitalized terms used but not defined in this Amendment have the meanings assigned to such terms in the Credit Agreement (as defined below).WITNESSETH:WHEREAS, the Borrower, the Guarantors, the Administrative Agent and the Lenders have entered into that certain Fourth Amended and Restated Credit Agreement, dated as of February 18, 2011 (as the same has been and may hereafter be amended, restated, amended and restated, supplemented or otherwise modified from time to time, the “Credit Agreement”); andWHEREAS, the Borrower and the Guarantors have requested that the Administrative Agent and the Lenders amend the Credit Agreement as provided herein, and the Administrative Agent and the Lenders have agreed to do so on and subject to the terms and conditions hereinafter set forth.NOW, THEREFORE, for and in consideration of the mutual covenants and agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged and confessed, the Borrower, the Guarantors, the Administrative Agent and the Lenders hereby agree as follows:SECTION 1.Amendments to Credit Agreement.  Subject to the satisfaction or waiver in writing of each condition precedent set forth in Section 3 of this Amendment, and in reliance on the representations, warranties, covenants and agreements contained in this Amendment, the Credit Agreement shall be amended in the manner provided in this Section 1.1.1Additional Definitions.  The following definitions shall be and they hereby are added to Section 1.01 of the Credit Agreement in appropriate alphabetical order:“Impacted Interest Period” has the meaning assigned to it in the definition of “LIBO Rate”.“Interpolated Rate” means, at any time, for any Interest Period, the rate per annum (rounded upward to four decimal places) determined by the Administrative Agent (which determination shall be conclusive and binding absent manifest error) to be equal to the rate that results from interpolating on a linear basis between: (a) the LIBO Screen Rate for the longest period (for which the LIBO Screen Rate is available) that is shorter than the Impacted Interest Period and (b) the LIBO Screen Rate for the shortest period (for which the LIBO Screen Rate is available) that exceeds the Impacted Interest Period, in each case, at such time.“LIBO Screen Rate” has the meaning assigned to such term in the definition of “LIBO Rate”.1.2Amended Definitions.  The following definitions set forth in Section 1.01 of the Credit Agreement shall be and they hereby are amended and restated in their respective entireties to read as follows:“ABR”, when used in reference to any Loan or Borrowing, refers to whether such Loan, or the Loans comprising such Borrowing, are bearing interest at a rate determined by reference to the Alternate Base Rate.  For the avoidance of doubt, any Loan or Borrowing that accrues interest at a rate determined by reference to clause (c) of the definition of Alternate Base Rate shall constitute an ABR Loan or an ABR Borrowing, as the case may be, notwithstanding the fact that the interest rate is based on the Adjusted LIBO Rate. 
+
+
+
+
+
+
+
+Range Resources Fourth Amendment67067427.5
+ 
+ 
+
+ 
+
+ “Alternate Base Rate” means, for any day, a rate per annum equal to the greatest of (a) the Prime Rate in effect on such day, (b) the Federal Funds Effective Rate in effect on such day plus one-half of one percent (½ of 1%) and (c) the Adjusted LIBO Rate for a one month Interest Period on such day (or if such day is not a Business Day, the immediately preceding Business Day) plus 1%, provided that, with respect to the determination of the Alternate Base Rate, the Adjusted LIBO Rate for any day shall be based on the rate appearing on the Reuters Screen LIBOR01 Page (or on any successor or substitute page) at approximately 11:00 a.m. London time on such day (without any rounding).  Any change in the Alternate Base Rate due to a change in the Prime Rate, the Federal Funds Effective Rate or the Adjusted LIBO Rate shall be effective from and including the effective date of such change in the Prime Rate, the Federal Funds Effective Rate or the Adjusted LIBO Rate, respectively. If the Alternate Base Rate is being used as an alternate rate of interest pursuant to Section 2.15 hereof, then the Alternate Base Rate shall be the greater of clause (a) and (b) above and shall be determined without reference to clause (c) above.“Business Day” means any day that is not a Saturday, Sunday or other day on which commercial banks in Chicago, Illinois or Dallas, Texas are authorized or required by law to remain closed; provided that, when used in connection with a Eurodollar Loan, the term “Business Day” shall also exclude any day on which banks are not open for dealings in dollar deposits in the London interbank market.“LIBO Rate” means, with respect to any Eurodollar Borrowing for any applicable Interest Period, the London interbank offered rate administered by the ICE Benchmark Administration (or any other Person that takes over the administration of such rate for Dollars) for a period equal in length to such Interest Period as displayed on pages LIBOR01 or LIBOR02 of the Reuters screen or, in the event such rate does not appear on such Reuters page or the Reuters screen, (i) on any successor or substitute page on the Reuters screen that displays such rate, or (ii) on the appropriate page of such other information service that publishes such rate as shall be selected by the Administrative Agent from time to time in its reasonable discretion, as applicable) (the “LIBO Screen Rate”) at approximately 11:00 a.m., London time, two (2) Business Days prior to the commencement of such Interest Period; provided that, (x) if any LIBO Screen Rate shall be less than zero, such rate shall be deemed to be zero for purposes of this Agreement and (y) if the LIBO Screen Rate shall not be available at such time for such Interest Period (an “Impacted Interest Period”), then the LIBO Rate shall be the Interpolated Rate at such time, subject to Section 2.15 in the event that the Administrative Agent shall conclude that it shall not be possible to determine such Interpolated Rate (which conclusion shall be conclusive and binding absent manifest error); provided further, that, if any Interpolated Rate shall be less than zero, such rate shall be deemed to be zero for purposes of this Agreement.  Notwithstanding the above, to the extent that “LIBO Rate” or “Adjusted LIBO Rate” is used in connection with an ABR Borrowing, such rate shall be determined as modified by the definition of Alternate Base Rate.1.3Deleted Definition.  The definition of “LMIR” shall be and it hereby is deleted from the Credit Agreement.1.4Letters of Credit.  The last sentence of Section 2.07(b) of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows:A Letter of Credit shall be issued, amended, renewed or extended only if (and upon issuance, amendment, renewal or extension of each Letter of Credit the Borrower shall be deemed to represent and warrant that), after giving effect to such issuance, amendment, renewal or extension (i) the LC Exposure shall not exceed $350,000,000 and (ii) the Aggregate Credit Exposure shall not exceed the lesser of (1) the Borrowing Base then in effect and (2) the Aggregate Commitment.1.5Alternate Rate of Interest.  Section 2.15(a) of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:(a)the Administrative Agent determines (which determination shall be conclusive absent manifest error) that adequate and reasonable means do not exist for ascertaining (including, without limitation, by means of an Interpolated Rate) the Adjusted LIBO Rate or the LIBO Rate, as applicable, for such Interest Period; or1.6Amendments to Organizational Documents.  Section 7.10 of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:The Borrower will not, nor will it permit any of its Restricted Subsidiaries to, enter into or permit any material modification or amendment of, or waive any material right or obligation of any Person under its Organizational Documents other than (a) amendments, modifications or waivers required in connection with any transactions among the Borrower and the Restricted Subsidiaries permitted under Section 7.03(a) and not involving any other Person, and (b) amendments or modifications of Organizational Documents that do not materially 
+
+
+
+
+
+
+
+Range Resources Fourth Amendment67067427.5
+Page 2
+ 
+
+ 
+
+ adversely affect the Lenders or the Collateral (including conversions, a change in the state of organization and name changes as long as the Administrative Agent is provided at least ten (10) days (or such shorter period acceptable to the Administrative Agent) prior written notice thereof and an opportunity to amend or make any required UCC filings).SECTION 2.Redetermined Borrowing Base.  This Amendment shall constitute notice of a Scheduled Redetermination of the Borrowing Base pursuant to Section 3.04 of the Credit Agreement, and the Administrative Agent, the Required Lenders, the Borrower and the Guarantors hereby acknowledge that effective as of the date hereof, the Borrowing Base shall be reaffirmed at $2,000,000,000 and such redetermined Borrowing Base shall remain in effect until the earlier of (a) the next Redetermination of the Borrowing Base or (b) the date such Borrowing Base is otherwise adjusted pursuant to the terms of the Credit Agreement.SECTION 3.Conditions.  The amendments to the Credit Agreement contained in Section 1 of this Amendment and the reaffirmation of the Borrowing Base contained in Section 2 of this Amendment shall be effective upon the satisfaction of each of the conditions set forth in this Section 3. 3.1Execution and Delivery.  Each Credit Party, the Required Lenders, and the Administrative Agent shall have executed and delivered this Amendment and each other required document, all in form and substance satisfactory to the Administrative Agent.3.2No Default.  No Default shall have occurred and be continuing or shall result from the effectiveness of this Amendment.3.3Other Documents.  The Administrative Agent shall have received such other instruments and documents incidental and appropriate to the transactions provided for herein as the Administrative Agent or its special counsel may reasonably request, and all such documents shall be in form and substance satisfactory to the Administrative Agent.SECTION 4.Representations and Warranties of Credit Parties.  To induce the Lenders to enter into this Amendment, each Credit Party hereby represents and warrants to the Lenders as follows:4.1Reaffirmation of Representations and Warranties/Further Assurances.  After giving effect to the amendments contained herein, each representation and warranty of such Credit Party contained in the Credit Agreement and in each of the other Loan Documents is true and correct in all material respects on the date hereof (except to the extent such representations and warranties relate solely to an earlier date, in which case they shall be true and correct as of such earlier date).4.2Corporate Authority; No Conflicts.  The execution, delivery and performance by such Credit Party of this Amendment and all documents, instruments and agreements contemplated herein (a) are within such Credit Party’s corporate or other organizational powers, (b) have been duly authorized by all necessary action, (c) require no consent or approval of, or registration or filing with, or further action by, any Governmental Authority except such as have been obtained or made and are in full force and effect and, after the effective date of this Amendment, any required filings with the Securities and Exchange Commission, (d) do not violate any applicable law or regulation or the charter, by-laws or other Organizational Documents of such Credit Party or any order of any Governmental Authority, (e) do not violate or result in a default under any indenture, agreement or other instrument evidencing Material Indebtedness binding upon such Credit Party and (f) do not result in the creation or imposition of any Lien upon any of the assets of such Credit Party not otherwise permitted under Section 7.02 of the Credit Agreement.4.3Enforceability.  This Amendment has been duly executed and delivered by each Credit Party and constitutes the valid and binding obligation of such Credit Party enforceable in accordance with its terms, except as (i) the enforceability thereof may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting creditor’s rights generally, and (ii) the availability of equitable remedies may be limited by equitable principles of general application.4.4No Default.  As of the date of this Amendment, both before and immediately after giving effect to this Amendment, no Default or Event of Default has occurred and is continuing.SECTION 5.Miscellaneous.5.1Post-Closing Covenant.  Within thirty (30) days following the date hereof (or such longer period as permitted by the Administrative Agent in its sole discretion but in any event no later than sixty (60) days after the date hereof), the Borrower shall deliver to the Administrative Agent Mortgages reasonably satisfactory to the Administrative Agent with respect to the Borrowing Base Properties, or the portion thereof required by Section 6.09 of the Credit Agreement.
+
+
+
+
+
+
+
+Range Resources Fourth Amendment67067427.5
+Page 3
+ 
+
+ 
+
+ 5.2Reaffirmation of Loan Documents and Liens.  Except as amended and modified hereby, any and all of the terms and provisions of the Credit Agreement and the other Loan Documents shall remain in full force and effect and are hereby in all respects ratified and confirmed by each Credit Party.  Each Credit Party hereby agrees that the amendments and modifications herein contained shall in no manner affect or impair the liabilities, duties and obligations of any Credit Party under the Credit Agreement and the other Loan Documents or the Liens securing the payment and performance thereof.5.3Parties in Interest.  All of the terms and provisions of this Amendment shall bind and inure to the benefit of the parties hereto and their respective successors and assigns.5.4Counterparts.  This Amendment may be executed in one or more counterparts and by different parties hereto in separate counterparts each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument; signature pages may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are physically attached to the same document.  Delivery of an executed counterpart to this Amendment by facsimile or other electronic means shall be effective as delivery of manually executed counterparts of this Amendment.5.5Legal Expenses.  Each Credit Party hereby agrees to pay all reasonable fees and expenses of counsel to the Administrative Agent incurred by the Administrative Agent in connection with the preparation, negotiation and execution of this Amendment and all related documents.5.6Complete Agreement.  THIS AMENDMENT, THE CREDIT AGREEMENT, AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.5.7Headings.  The headings, captions and arrangements used in this Amendment are, unless specified otherwise, for convenience only and shall not be deemed to limit, amplify or modify the terms of this Amendment, nor affect the meaning thereof.5.8Governing Law.  This Amendment shall be construed in accordance with and governed by the law of the State of Texas.5.9Severability.  Any provision of this Amendment held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.5.10Reference to and Effect on the Loan Documents.(a)This Amendment shall be deemed to constitute a Loan Document for all purposes and in all respects.  Each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein” or words of like import, and each reference in the Credit Agreement or in any other Loan Document, or other agreements, documents or other instruments executed and delivered pursuant to the Credit Agreement to the “Credit Agreement”, shall mean and be a reference to the Credit Agreement as amended by this Amendment.  (b)The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of any Lender or the Administrative Agent under any of the Loan Documents, nor constitute a waiver of any provision of any of the Loan Documents.[Remainder of Page Intentionally Blank.  Signature Pages Follow.]   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment67067427.5
+Page 4
+ 
+
+ 
+
+ IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed as of the date first above written.BORROWER:RANGE RESOURCES CORPORATION 
+
+
+
+
+
+
+
+
+ 
+By:
+/s/ ROGER S. MANNY
+
+
+ 
+ 
+Name:  Roger S. Manny
+
+
+ 
+ 
+Title: 
+Executive Vice President and ChiefFinancial Officer
+
+GUARANTORS:AMERICAN ENERGY SYSTEMS, LLCENERGY ASSETS OPERATING COMPANY, LLCRANGE ENERGY SERVICES COMPANY, LLCRANGE OPERATING NEW MEXICO, LLCRANGE PRODUCTION COMPANY, LLCRANGE RESOURCES – APPALACHIA, LLCRANGE RESOURCES – MIDCONTINENT, LLCRANGE RESOURCES – PINE MOUNTAIN, INC.RANGE TEXAS PRODUCTION, LLC 
+
+
+
+
+
+
+
+
+ 
+By:
+/s/ ROGER S. MANNY
+
+
+ 
+ 
+Name:  Roger S. Manny
+
+
+ 
+ 
+Title: 
+Executive Vice President of all of theforegoing Guarantors
+
+  
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ JPMORGAN CHASE BANK, N.A., as Administrative Agent, Issuing Bank and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ DAVID MORRIS
+
+
+ 
+ 
+Name:  David Morris
+
+
+ 
+ 
+Title:   Authorized Officer
+
+ 
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ ROYAL BANK OF CANADA, as a Co-Syndication Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ KRISTAN SPIVEY
+
+
+ 
+ 
+Name:  Kristan Spivey
+
+
+ 
+ 
+Title:  Authorized Signatory
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ BANK OF AMERICA, N.A., as a Co-Documentation Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ BRYAN HELLER
+
+
+ 
+ 
+Name:  Bryan Heller
+
+
+ 
+ 
+Title:  Director
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, as a Co-Syndication Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ MARK ROCHE
+
+
+ 
+ 
+Name:  Mark Roche
+
+
+ 
+ 
+Title:  Managing Director
+
+ 
+
+
+
+
+
+
+
+ 
+By:
+/s/ TING LEE
+
+
+ 
+ 
+Name:  Ting Lee
+
+
+ 
+ 
+Title:  Director
+
+  
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ WELLS FARGO BANK, NATIONAL ASSOCIATION, as a Co-Documentation Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ BRANDON KAST
+
+
+ 
+ 
+Name:  Brandon Kast
+
+
+ 
+ 
+Title:  Assistant Vice President
+
+ 
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ BANK OF MONTREAL, as a Co-Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ JAMES V. DUCOTE
+
+
+ 
+ 
+Name:  James V. Ducote
+
+
+ 
+ 
+Title:  Managing Director
+
+ 
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ BARCLAYS BANK PLC, as a Co-Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ VANESSA A. KURBATSKIY
+
+
+ 
+ 
+Name:  Vanessa A. Kurbatskiy
+
+
+ 
+ 
+Title:  Vice President
+
+ 
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ CITIBANK, N.A., as a Co-Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ EAMON BAQUI
+
+
+ 
+ 
+Name:  Eamon Baqui
+
+
+ 
+ 
+Title:  Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ COMPASS BANK, as a Co-Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ BLAKE KIRSHMAN
+
+
+ 
+ 
+Name:  Blake Kirshman
+
+
+ 
+ 
+Title:  Senior Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ DEUTSCHE BANK TRUST COMPANY AMERICAS, as a Co-Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ MICHAEL GETZ
+
+
+ 
+ 
+Name:  Michael Getz
+
+
+ 
+ 
+Title:  Vice President
+
+ 
+
+
+
+
+
+
+
+ 
+By:
+/s/ MICHAEL SHANNON
+
+
+ 
+ 
+Name:  Michael Shannon
+
+
+ 
+ 
+Title:  Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ NATIXIS, NEW YORK BRANCH, as a Co-Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ LOUIS P. LAVILLE III
+
+
+ 
+ 
+Name:  Louis P. Laville III
+
+
+ 
+ 
+Title:  Managing Director
+
+ 
+
+
+
+
+
+
+
+ 
+By:
+/s/ STUART MURRAY
+
+
+ 
+ 
+Name:  Stuart Murray
+
+
+ 
+ 
+Title:  Managing Director
+
+  
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ THE BANK OF NOVA SCOTIA, as a Co-Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ ALAN DAWSON
+
+
+ 
+ 
+Name:  Alan Dawson
+
+
+ 
+ 
+Title:  Director
+
+ 
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ SUNTRUST BANK, as a Co-Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ YANN PIRIO
+
+
+ 
+ 
+Name:  Yann Pirio
+
+
+ 
+ 
+Title:  Managing Director
+
+ 
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ UNION BANK, N.A., as a Co-Agent and as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ RACHEL BOWMAN
+
+
+ 
+ 
+Name:  Rachel Bowman
+
+
+ 
+ 
+Title:  Vice President
+
+ 
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ CAPITAL ONE, N.A., as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ NANCY M. MAK
+
+
+ 
+ 
+Name:  Nancy M. Mak
+
+
+ 
+ 
+Title:  Senior Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ COMERICA BANK, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ EKATERINA EVSEEV
+
+
+ 
+ 
+Name:  Ekaterina Evseev
+
+
+ 
+ 
+Title:  Assistant Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ CREDIT SUISSE AG, Cayman Islands Branch, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ MICHAEL SPAIGHT
+
+
+ 
+ 
+Name:  Michael Spaight
+
+
+ 
+ 
+Title:  Authorized Signatory
+
+ 
+
+
+
+
+
+
+
+ 
+By:
+/s/ SAMUEL MILLER
+
+
+ 
+ 
+Name:  Samuel Miller
+
+
+ 
+ 
+Title:  Authorized Signatory
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ KEYBANK NATIONAL ASSOCIATION, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ JOHN DRAVENSTOTT
+
+
+ 
+ 
+Name:  John Dravenstott
+
+
+ 
+ 
+Title:  Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ SOCIÉTÉ GÉNÉRALE, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ ANSON WILLIAMS
+
+
+ 
+ 
+Name:  Anson Williams
+
+
+ 
+ 
+Title:  Director
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ UBS AG STAMFORD BRANCH, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ LISA MURRAY
+
+
+ 
+ 
+Name:  Lisa Murray
+
+
+ 
+ 
+Title:  Associate Director
+
+ 
+
+
+
+
+
+
+
+ 
+By:
+/s/ JENNIFER ANDERSON
+
+
+ 
+ 
+Name:  Jennifer Anderson 
+
+
+ 
+ 
+Title:  Associate Director
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ U.S. BANK NATIONAL ASSOCIATION, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ DANIEL K. HANSEN
+
+
+ 
+ 
+Name:  Daniel K. Hansen
+
+
+ 
+ 
+Title:  Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ SOVEREIGN BANK, N.A., as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ AIDAN LANIGAN
+
+
+ 
+ 
+Name:  Aidan Lanigan
+
+
+ 
+ 
+Title:  Senior Vice President 
+
+ 
+
+
+
+
+
+
+
+ 
+By:
+/s/ PUIKI LOK
+
+
+ 
+ 
+Name:  Puiki Lok
+
+
+ 
+ 
+Title:  Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ BOKF, NA dba BANK OF TEXAS, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ COLIN WATSON
+
+
+ 
+ 
+Name:  Colin Watson
+
+
+ 
+ 
+Title:  Assistant Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ AMEGY BANK NATIONAL ASSOCIATION, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ KEVIN A. JAMES
+
+
+ 
+ 
+Name:  Kevin A. James
+
+
+ 
+ 
+Title:  Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ FROST BANK, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ ERICA SPENCER
+
+
+ 
+ 
+Name:  Erica Spencer
+
+
+ 
+ 
+Title:  Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ PNC BANK, NATIONAL ASSOCIATION, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ BRETT SCHWEIKLE
+
+
+ 
+ 
+Name:  Brett Schweikle
+
+
+ 
+ 
+Title:  Senior Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ BRANCH BANKING AND TRUST COMPANY, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ JODIE GILDERSLEEVE
+
+
+ 
+ 
+Name:  Jodie Gildersleeve
+
+
+ 
+ 
+Title:  Assistant Vice President
+
+   
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+ CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK BRANCH, as a Lender 
+
+
+
+
+
+
+
+ 
+By:
+/s/ TRUDY NELSON
+
+
+ 
+ 
+Name:  Trudy Nelson
+
+
+ 
+ 
+Title:  Authorized Signatory
+
+ 
+
+
+
+
+
+
+
+ 
+By:
+/s/ WILLIAM M. REID
+
+
+ 
+ 
+Name:  William M. Reid
+
+
+ 
+ 
+Title:  Authorized Signatory
+
+ 
+
+
+
+
+
+
+
+Range Resources Fourth Amendment
+Signature Page
+ 
+
+ 
+
+

@@ -1,0 +1,1777 @@
+
+EX-10.1
+5
+a14-9813_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+  
+
+
+Exhibit 10.1
+ 
+TENTH AMENDMENT TO FOURTH AMENDED AND RESTATED
+CREDIT AGREEMENT
+ 
+This TENTH AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT (this Amendment) is made as of February 28, 2014, by and among ANTERO RESOURCES CORPORATION, a Delaware corporation (the Borrower), CERTAIN SUBSIDIARIES OF BORROWER, as Guarantors, the LENDERS party hereto, and JPMORGAN CHASE BANK, N.A., as Administrative Agent (in such capacity, the Administrative Agent).  Unless otherwise expressly defined herein, capitalized terms used but not defined in this Amendment have the meanings assigned to such terms in the Credit Agreement (as defined below).
+ 
+WITNESSETH:
+ 
+WHEREAS, the Borrower, the Guarantors, the Administrative Agent and the Lenders have entered into that certain Fourth Amended and Restated Credit Agreement, dated as of November 4, 2010 (as amended, restated, amended and restated, supplemented or otherwise modified from time to time, the Credit Agreement); and
+ 
+WHEREAS, the Administrative Agent, the Lenders, the Borrower and the Guarantors have agreed to amend the Credit Agreement as provided herein subject to the terms and conditions set forth herein.
+ 
+NOW, THEREFORE, for and in consideration of the mutual covenants and agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged and confessed, the Borrower, the Guarantors, the Administrative Agent and the Lenders hereby agree as follows:
+ 
+SECTION 1.             Amendments to Credit Agreement.  Subject to the satisfaction or waiver in writing of each condition precedent set forth in Section 2 of this Amendment, and in reliance on the representations, warranties, covenants and agreements contained in this Amendment, the Credit Agreement shall be amended in the manner provided in this Section 1.
+ 
+1.1               Amended Definitions.  The following definitions in Section 1.01 of the Credit Agreement shall be and they hereby are amended and restated in their entirety to read as follows:
+ 
+Aggregate Commitment means, at any time, the sum of the Commitments of all the Lenders at such time, as such amount may be reduced or increased from time to time pursuant to Section 2.02 and Section 2.03; provided that such amount shall not at any time exceed the lesser of (a) the Net Borrowing Base then in effect and (b) the Maximum Facility Amount.  As of the Tenth Amendment Effective Date, the Aggregate Commitment is $1,200,000,000.
+ 
+Alternate Base Rate means, for any day, a rate per annum equal to the greatest of (a) the Prime Rate in effect on such day, (b) the Federal Funds Effective Rate in effect on such day plus ½ of 1% and (c) the Adjusted LIBO Rate for a one month Interest Period on such day (or if such day is not a Business Day,
+ 
+1
+
+
+
+
+
+
+ 
+the immediately preceding Business Day) plus 1%, provided that, with respect to the determination of the Alternate Base Rate, the Adjusted LIBO Rate for any day shall be based on the rate appearing on the Reuters Screen LIBOR01 Page (or on any successor or substitute page) at approximately 11:00 a.m. London time on such day (without any rounding).  Any change in the Alternate Base Rate due to a change in the Prime Rate, the Federal Funds Effective Rate or the Adjusted LIBO Rate shall be effective from and including the effective date of such change in the Prime Rate, the Federal Funds Effective Rate or the Adjusted LIBO Rate, respectively. If the Alternate Base Rate is being used as an alternate rate of interest pursuant to Section 2.14 hereof, then the Alternate Base Rate shall be the greater of clause (a) and (b) above and shall be determined without reference to clause (c) above.
+ 
+Antero Midstream means Antero Resources Midstream LLC, a Delaware limited liability company.
+ 
+Borrowing Base Deficiency means, as of any date, the amount, if any, by which the Combined Credit Exposure on such date exceeds the Borrowing Base in effect on such date; provided, that, for purposes of determining the existence and amount of any Borrowing Base Deficiency, obligations under any Letter of Credit will not be deemed to be outstanding to the extent such obligations are secured by cash in the manner contemplated by Section 2.06(j).
+ 
+Borrowing Base Usage means, as of any date and for all purposes, the quotient, expressed as a percentage, of (i) the Combined Credit Exposure as of such date, divided by (ii) the Borrowing Base as of such date.
+ 
+Change in Law means (a) the adoption of any law, rule or regulation on the date of this Agreement, (b) any change in any law, rule or regulation or in the interpretation or application thereof by any Governmental Authority after the date of this Agreement or (c) compliance by any Lender (or, for purposes of Section 2.15(b), by any lending office of such Lender or by such Lenders holding company, if any) with any request, guideline or directive (whether or not having the force of law) of any Governmental Authority made or issued after the date of this Agreement; provided that, notwithstanding anything herein to the contrary, (x) the Dodd-Frank Wall Street Reform and Consumer Protection Act and all requests, rules, guidelines, requirements or directives thereunder or issued in connection therewith or in the implementation thereof, and (y) all requests, rules, guidelines, requirements or directives promulgated by the Bank for International Settlements, the Basel Committee on Banking Supervision (or any successor or similar authority) or the United States or foreign regulatory authorities, in each case pursuant to Basel III, shall in each case be deemed to be a Change in Law, regardless of the date enacted, adopted, issued or implemented.
+ 
+Commitment means, with respect to each Lender, the commitment of such Lender to make Loans and to acquire participations in Letters of Credit hereunder, in an aggregate amount at any one time outstanding not to exceed the
+ 
+2
+
+
+
+
+
+
+ 
+amount set forth opposite such Lenders name on Schedule 1.01, or in the Assignment and Assumption Agreement or Lender Certificate pursuant to which such Lender shall have assumed or agreed to provide its Commitment, as applicable, as such Commitment may be (a) reduced from time to time pursuant to Section 2.02, (b) increased from time to time as a result of such Lender delivering a Lender Certificate pursuant to Section 2.03, (c) reduced or increased from time to time pursuant to assignments by or to such Lender pursuant to Section 11.04 and (d) reduced or increased from time to time pursuant to Section 2.03 of the Midstream Operating Credit Agreement; provided that any Lenders Commitment shall not at any time exceed the lesser of (a) such Lenders Applicable Percentage of the Maximum Facility Amount and (b) such Lenders Applicable Percentage of the Net Borrowing Base then in effect; and at any time prior to the Midstream Operating Credit Termination Date, each Lenders Applicable Percentage under this Agreement shall, at all times, be equal to such Lenders Applicable Percentage under and as defined in the Midstream Operating Credit Agreement.
+ 
+Eligible Assignee means any Person that qualifies as an assignee pursuant to Section 11.04(b)(i); provided that, notwithstanding the foregoing, Eligible Assignee shall not include (i) Holdings, Antero Investment, any Borrower or any Affiliates or Subsidiaries of Holdings or Antero Investment or (ii) any Person organized outside the United States if any Borrower would be required to pay withholding taxes on interest or principal owed to such Person.
+ 
+Existing Senior Notes means, collectively, the (a) $260,000,000 aggregate principal amount of  7.250% Senior Notes, due 2019, issued by Antero (as successor by merger to Finco) pursuant to that certain Indenture dated August 1, 2011, (b) $525,000,000 aggregate principal amount of 6.0% Senior Notes, due 2020 issued by Antero (as successor by merger to Finco) pursuant to that certain Indenture dated November 19, 2012, and (c) $1,000,000,000 aggregate principal amount of 5.375% Senior notes due 2021 issued by Antero (as successor by merger to Finco) pursuant to that certain Indenture dated November 5, 2013, and, in each case with respect to clauses (a) through (c), Guaranteed by Borrower under and as defined in the Antero Resources Credit Agreement.
+ 
+Indenture means (a) any Indenture described in the definition of Existing Senior Notes and (b) any indenture by and among any Credit Party, as issuer, and a trustee, pursuant to which any Senior Notes are issued, as the same may be amended, restated, modified or otherwise supplemented from time to time to the extent permitted under Section 7.13.
+ 
+LIBO Rate means, with respect to any Eurodollar Borrowing for any applicable Interest Period, the London interbank offered rate administered by the ICE Benchmark Administration (or any other Person that takes over the administration of such rate for Dollars) for a period equal in length to such Interest Period as displayed on pages LIBOR01 or LIBOR02 of the Reuters screen or, in the event such rate does not appear on a Reuters page or screen, on any successor or substitute page on such screen that displays such rate, or on the
+ 
+3
+
+
+
+
+
+
+ 
+appropriate page of such other information service that publishes such rate as shall be selected by the Administrative Agent from time to time in its reasonable discretion (the LIBO Screen Rate) at approximately 11:00 a.m., London time, two (2) Business Days prior to the commencement of such Interest Period; provided that, (x) if any LIBO Screen Rate shall be less than zero, such rate shall be deemed to be zero for purposes of this Agreement and (y) if the LIBO Screen Rate shall not be available at such time such Interest Period (an Impacted Interest Period), then the LIBO Rate shall be the Interpolated Rate at such time, subject to Section 2.14 in the event that the Administrative Agent shall conclude that it shall not be possible to determine such Interpolated Rate (which conclusion shall be conclusive and binding absent manifest error); provided, that, if any Interpolated Rate shall be less than zero, such rate shall be deemed to be zero for purposes of this Agreement.  Notwithstanding the above, to the extent that LIBO Rate or Adjusted LIBO Rate is used in connection with an ABR Borrowing, such rate shall be determined as modified by the definition of Alternate Base Rate.
+ 
+Mortgaged Properties means the Oil and Gas Interests described in one or more duly executed, delivered and filed Mortgages evidencing a first and prior Lien in favor of the Administrative Agent and the Midstream Operating Agent for the benefit of the Secured Parties and subject only to the Permitted Liens and the Permitted Liens as defined in the Midstream Operating Credit Agreement.
+ 
+Net Cash Proceeds means, (a) with respect to any Disposition of any Borrowing Base Properties (including any Disposition of Equity Interests of a Borrower or a Restricted Subsidiary) by Holdings or any Credit Party, the cash proceeds received in connection with such sale net of (i) all federal, state and local taxes required to be paid or accrued as a liability under GAAP, (ii) the deduction of appropriate amounts to be provided as a reserve, in accordance with GAAP, for liabilities associated with such Disposition and retained by the seller thereof, (iii) any amounts held in escrow pending determination of purchase price adjustment (such amounts to be become Net Cash Proceeds at the time such amounts are released to a Borrower or Restricted Subsidiary), (iv) the net amount paid after giving effect to all Hedge Modifications effected in connection with such Disposition and corresponding to the notional volumes of the Borrowing Base Properties so Disposed and (v) brokerage fees, professional commissions and other costs and expenses associated therewith, including all legal, title and recording fees and expenses, (b) with respect to any Permitted Refinancings or issuance of Senior Notes, the cash proceeds received from such Permitted Refinancing or issuance of Senior Notes, as the case may be, net of underwriting discounts and commissions and other reasonable costs and expenses associated therewith, including reasonable legal fees and expenses, and (c) with respect to any Hedge Modification by any Credit Party, the excess, if any, of (i) the net amount of all cash and cash equivalents received in connection with all substantially contemporaneous Hedge Modifications (after giving effect to any netting arrangements), over (ii) the reasonable and documented out-of-pocket expenses incurred by such Credit Party in connection with such Hedge Modification.
+ 
+4
+
+
+
+
+
+
+ 
+1.2               Additional Definitions.  The following definitions shall be and they hereby are added to Section 1.01 of the Credit Agreement in appropriate alphabetical order:
+ 
+Antero Investment means Antero Resources Investment LLC, a Delaware limited liability company.
+ 
+Anti-Corruption Laws means all laws, rules, and regulations of any jurisdiction applicable to the Borrower or its Subsidiaries from time to time concerning or relating to bribery or corruption.
+ 
+Combined Credit Exposure means as of any date and for all purposes, the sum of (i) the Aggregate Credit Exposure as of such date, plus (b) the Midstream Operating Aggregate Credit Exposure as of such date.
+ 
+Impacted Interest Period has the meaning assigned to it in the definition of LIBO Rate.
+ 
+Interpolated Rate means, at any time, for any Interest Period, the rate per annum (rounded upward to four decimal places) determined by the Administrative Agent (which determination shall be conclusive and binding absent manifest error) to be equal to the rate that results from interpolating on a linear basis between: (a) the LIBO Screen Rate for the longest period (for which the LIBO Screen Rate is available) that is shorter than the Impacted Interest Period and (b) the LIBO Screen Rate for the shortest period (for which the LIBO Screen Rate is available) that exceeds the Impacted Interest Period, in each case, at such time.
+ 
+LIBO Screen Rate has the meaning assigned to such term in the definition of LIBO Rate.
+ 
+Midstream Operating Loan Documents means the Loan Documents under and as defined in the Midstream Operating Credit Agreement.
+ 
+Midstream Operating Obligations means the Obligations under and as defined in the Midstream Operating Credit Agreement.
+ 
+Midstream Operating means Antero Resources Midstream Operating LLC, a Delaware limited liability company.
+ 
+Midstream Operating Agent means the Administrative Agent under and as defined in the Midstream Operating Credit Agreement.
+ 
+Midstream Operating Aggregate Credit Exposure means, as of any date of determination, the Aggregate Credit Exposure under and as defined in the Midstream Operating Credit Agreement.
+ 
+Midstream Operating Credit Agreement means that certain Credit Agreement, dated as of February 28, 2014, among Midstream Operating,
+ 
+5
+
+
+
+
+
+
+ 
+JPMorgan Chase Bank, N.A., as Administrative Agent, and the other parties thereto.
+ 
+Midstream Operating Credit Termination Date means the date that all Midstream Operating Obligations have been paid in full or otherwise satisfied in a manner acceptable to the holder of such Midstream Operating Obligation and all Commitments (as defined in the Midstream Operating Credit Agreement) have been terminated.
+ 
+Net Borrowing Base means, at any date of determination, the sum of (a) the Borrowing Base then in effect minus, (b) the Aggregate Commitments then in effect under and as defined in the Midstream Operating Credit Agreement.
+ 
+Pro Rata Share means, as of any date of determination of any Borrowing Base Deficiency, (i) the Aggregate Credit Exposure under this Agreement as of such date divided by (ii) the Combined Credit Exposure.
+ 
+Tenth Amendment Effective Date means February 28, 2014.
+ 
+Sanctioned Country means, at any time, a country or territory which is the subject or target of any Sanctions.
+ 
+Sanctioned Person means, at any time, (a) any Person listed in any Sanctions-related list of designated Persons maintained by the Office of Foreign Assets Control of the U.S. Department of the Treasury or the U.S. Department of State, (b) any Person operating, organized or resident in a Sanctioned Country or (c) any Person controlled by any such Person.
+ 
+Sanctions means economic or financial sanctions or trade embargoes imposed, administered or enforced from time to time by the U.S. government, including those administered by the Office of Foreign Assets Control of the U.S. Department of the Treasury or the U.S. Department of State.
+ 
+1.3          Deleted Definitions.  The definitions of LMIR and Existing Senior Notes Indenture shall be and hereby are deleted from the Credit Agreement.
+ 
+1.4          Permitted Liens.  Clause (e) of the definition of Permitted Liens shall be and hereby is amended and restated in its entirety to read as follows:
+ 
+(e)           Liens under the Security Documents and under the Security Documents (as defined in the Midstream Operating Credit Agreement);
+ 
+1.5          Correction.  The defined term FACTA shall be and it hereby is changed to FATCA in each instance in which it appears in the Loan Documents.
+ 
+1.6          Commitments. Section 2.01 of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:
+ 
+6
+
+
+
+
+
+
+ 
+Section 2.01         Commitments.  Subject to the terms and conditions set forth herein, each Lender that was a Lender under and as defined in the Original Credit Agreement agrees to continue the Original Loans and each Lender agrees to make one or more Loans to the Borrowers from time to time on any Business Day during the Availability Period in an aggregate principal amount that will not result in (a) such Lenders Credit Exposure exceeding the lesser of (i) such Lenders Applicable Percentage of the Net Borrowing Base then in effect and (ii) such Lenders Commitment or (b) the Aggregate Credit Exposure exceeding the lesser of (i) the Net Borrowing Base then in effect and (ii) the Aggregate Commitment.  Within the foregoing limits and subject to the terms and conditions set forth herein, the Borrowers may borrow, prepay and reborrow Loans.
+ 
+1.7          Mandatory Prepayment.  Sections 2.11(a) through (d) of the Credit Agreement shall be and hereby are amended and restated in their entirety as follows:
+ 
+(a)             In the event a Borrowing Base Deficiency exists as a result of a Scheduled Redetermination or Special Redetermination of the Borrowing Base, the Borrowers shall, within thirty (30) days after written notice from the Administrative Agent to the Borrowers of such Borrowing Base Deficiency, take any of the following actions or a combination thereof to eliminate the Borrowing Base Deficiency:
+ 
+(i)              prepay, without premium or penalty, the principal amount of the Loans (and after all Loans are repaid in full, provide cash collateral in accordance with Section 2.06(j)) representing Borrowers Pro Rata Share of the Combined Credit Exposure in an amount sufficient to eliminate Borrowers Pro Rata Share of such Borrowing Base Deficiency, such prepayment to be made in full on or before the 30th day after the Borrowers receipt of notice of such Borrowing Base Deficiency;
+ 
+(ii)             notify the Administrative Agent that it intends to prepay, without premium or penalty (but subject to any funding indemnification amounts required by Section 2.16), an amount sufficient to eliminate Borrowers Pro Rata Share of such Borrowing Base Deficiency in not more than six (6) equal monthly installments plus accrued interest thereon and make the first such monthly payment on the 30th day after the Borrowers receipt of notice of such Borrowing Base Deficiency and the subsequent installments to be due and payable at one month intervals thereafter until such Borrowing Base Deficiency has been eliminated; or
+ 
+(iii)           give notice to Administrative Agent that Borrowers desire to provide Administrative Agent with deeds of trust, mortgages, security agreements, financing statements and other security documents in form and substance satisfactory to Administrative Agent, granting, confirming, and perfecting first and prior Liens or security interests in collateral acceptable to Required Lenders, to the extent needed to cover the Minimum Collateral Amount (as they in their reasonable discretion deem
+ 
+7
+
+
+
+
+
+
+ 
+consistent with prudent oil and gas banking industry lending standards at the time) to an amount which eliminates the Borrowers Pro Rata Share of such Borrowing Base Deficiency, and then provide such security documents within thirty (30) days after the Borrowers receipt of notice of such Borrowing Base Deficiency.  If Required Lenders determine that the giving of such security documents will not serve to eliminate such Borrowing Base Deficiency, then, within five (5) Business Days after receiving notice of such determination from Administrative Agent, Borrowers will make the prepayments specified in paragraph (ii) of this clause (a), including the payments which would have previously been made but for its election under this paragraph (iii) on the preceding 30th day.
+ 
+(b)             In the event a Borrowing Base Deficiency occurs as a result of a reduction in the Borrowing Base pursuant to Section 3.06 upon an issuance of Senior Notes, the Borrowers shall prepay the Loans (and after all Loans are repaid in full, provide cash collateral in accordance with Section 2.06(j)) with the Net Cash Proceeds received as a result of the issuance of such Senior Notes on the Business Day on which it receives such Net Cash Proceeds to the extent necessary to eliminate Borrowers Pro Rata Share of such Borrowing Base Deficiency.
+ 
+(c)             If any Borrower or any Restricted Subsidiary Disposes of any Borrowing Base Properties (whether pursuant to a Disposition of Equity Interests of a Restricted Subsidiary permitted pursuant to Section 7.05 or otherwise), the Borrowers shall prepay the Loans (and after all Loans are repaid in full, provide cash collateral in accordance with Section 2.06(j)) to the extent necessary to eliminate Borrowers Pro Rata Share of any Borrowing Base Deficiency that may exist or that may have occurred as a result of such Disposition on the next Business Day following the day it or any Restricted Subsidiary receives the Net Cash Proceeds from such Disposition.
+ 
+(d)             If any Borrower or any Restricted Subsidiary enters into a Hedge Modification, the Borrowers shall prepay the Loans (and after all Loans are repaid in full, provide cash collateral in accordance with Section 2.06(j)) to the extent necessary to eliminate Borrowers Pro Rata Share of any Borrowing Base Deficiency that may exist or that may have occurred as a result of such Hedge Modification on the next Business Day following the day it or any Restricted Subsidiary receives the Net Cash Proceeds from such Hedge Modification (or in the case of any Hedge Modification entered into by any Credit Party pursuant to Section 7.03(b)(z), on the next Business Day following the day the Borrowers receive notice from the Administrative Agent of the amount of any adjustment to the Borrowing Base made by the Administrative Agent or the Required Lenders, as applicable, pursuant to Section 7.03(b)(z)(ii)).
+ 
+1.8          Alternate Rate of Interest.  Section 2.14(a) of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:
+ 
+8
+
+
+
+
+
+
+ 
+(a)           the Administrative Agent determines (which determination shall be conclusive absent manifest error) that adequate and reasonable means do not exist for ascertaining (including, without limitation, by means of an Interpolated Rate) the Adjusted LIBO Rate or the LIBO Rate, as applicable, for such Interest Period; or
+ 
+1.9          Increased Costs. Section 2.15(b) of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:
+ 
+(b)           If any Lender or the Issuing Bank determines that any Change in Law regarding capital or liquidity requirements has or would have the effect of reducing the rate of return on such Lenders or the Issuing Banks capital or on the capital of such Lenders or the Issuing Banks holding company, if any, as a consequence of this Agreement or the Loans made by, or participations in Letters of Credit held by, such Lender, or the Letters of Credit issued by the Issuing Bank, to a level below that which such Lender or the Issuing Bank or such Lenders or the Issuing Banks holding company could have achieved but for such Change in Law (taking into consideration such Lenders or the Issuing Banks policies and the policies of such Lenders or the Issuing Banks holding company with respect to capital adequacy and liquidity), then from time to time the Borrowers will pay to such Lender or the Issuing Bank, as the case may be, such additional amount or amounts as will compensate such Lender or the Issuing Bank or such Lenders or the Issuing Banks holding company for any such reduction suffered.
+ 
+1.10        Certain Payments.  Section 2.18(b) of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:
+ 
+(b)             If at any time insufficient funds are received by and available to the Administrative Agent to pay fully all amounts of principal, unreimbursed LC Disbursements, interest, fees and other Obligations then due hereunder, such funds shall be applied (i) first, towards payment of interest and fees then due hereunder, ratably among the parties entitled thereto in accordance with the amounts of interest and fees then due to such parties, and (ii) second, towards payment of principal and unreimbursed LC Disbursements then due hereunder, ratably among the parties entitled thereto in accordance with the amounts of principal and unreimbursed LC Disbursements then due to such parties; provided that, notwithstanding anything to the contrary contained in this Agreement or in any other Loan Document, in the event such funds are received by and available to the Administrative Agent as a result of the exercise of any rights and remedies with respect to any collateral under the Security  Documents or as a result of any distribution made pursuant to a bankruptcy proceeding of any Credit Party or any plan of reorganization confirmed in any such proceeding, such funds shall be applied (A) first and ratably to any fees and reimbursements due Administrative Agent hereunder or under any other Loan Document and the Midstream Operating Agent under any Midstream Operating Loan Document, (B) then ratably to the payment of the Obligations (other than Cash Management Obligations) and the Midstream Operating Obligations (other than Cash
+ 
+9
+
+
+
+
+
+
+ 
+Management Obligations under and as defined in the Midstream Operating Credit Agreement), including unreimbursed LC Disbursements (in the manner set forth above) and the Lender Hedging Obligations and the Lender Hedging Obligations under and as defined in the Midstream Operating Credit Agreement, in each case, until such Obligations and the Midstream Operating Obligations are paid in full, and (C) then ratably to the payment of Cash Management Obligations and the Cash Management Obligations under and as defined in the Midstream Operating Credit Agreement.  Notwithstanding the foregoing, amounts received from any Credit Party that is not an Eligible Contract Participant shall not be applied to any Excluded Swap Obligations owing to a Lender Counterparty (it being understood, that in the event that any amount is applied to Obligations other than Excluded Swap Obligations as a result of this clause, the Administrative Agent shall make such adjustments as it determines are appropriate to distributions pursuant to the foregoing clause (B) from amounts received from Eligible Contract Participants to ensure, as nearly as possible, that the proportional aggregate recoveries with respect to Obligations described in the foregoing clause (B) above by Lender Counterparties that are the holders of any Excluded Swap Obligations are the same as the proportional aggregate recoveries with respect to other Obligations pursuant to the foregoing clause (B) above).  The Administrative Agent shall have no responsibility to determine the existence or amount of Lender Hedging Obligations or Cash Management Obligations and may reserve from the application of amounts under this Section amounts distributable in respect of Lender Hedging Obligations or Cash Management Obligations until it has received evidence satisfactory to it of the existence and amount of such Lender Hedging Obligations or Cash Management Obligations.
+ 
+1.11        Anti-Corruption Laws and Sanctions.  Section 4.22 shall be and hereby is added to the Credit Agreement in numerical order as follows:
+ 
+Section 4.22         Anti-Corruption Laws and Sanctions.  Each Credit Party has implemented and maintains in effect policies and procedures designed to ensure compliance by such Credit Party, its Subsidiaries and their respective directors, officers, employees and agents with Anti-Corruption Laws and applicable Sanctions, and such Credit Party, its Subsidiaries and their respective officers and employees and, to the knowledge of such Credit Party, its directors and agents, are in compliance with Anti-Corruption Laws and applicable Sanctions in all material respects.  None of (a) any Credit Party, any Subsidiary or any of their respective directors, officers or employees, or (b) to the knowledge of any such Credit Party or Subsidiary, any agent of such Credit Party or any Subsidiary that will act in any capacity in connection with or benefit from the credit facility established hereby, is a Sanctioned Person.   No Borrowing, use of proceeds, Transaction or other transaction contemplated by this Agreement or the other Loan Documents will violate Anti-Corruption Laws or applicable Sanctions.
+ 
+1.12        Compliance with Laws. Section 6.07 of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows:
+ 
+10
+
+ 
+
+
+
+
+
+
+ 
+Section 6.07         Compliance with Laws.  Borrower will, and will cause each Restricted Subsidiary to comply in all material respects with all Laws, rules, regulations and orders of any Governmental Authority applicable to it or its property. Each Credit Party will maintain in effect and enforce policies and procedures designed to ensure compliance by such Credit Party, its Subsidiaries and their respective directors, officers, employees and agents with Anti-Corruption Laws and applicable Sanctions.
+ 
+1.13        Use of Proceeds. Section 6.08 of the Credit Agreement shall be and it hereby is amended and restated in its entirety to read as follows:
+ 
+Section 6.08         Use of Proceeds.  The proceeds of the Loans will be used only to (a) pay the fees, expenses and transaction costs of the Transactions and (b) finance the working capital needs of the Borrowers, including capital expenditures, and for general corporate purposes of the Borrowers and the Guarantors, in the ordinary course of business, including the exploration, development and/or acquisition of Oil and Gas Interests, together with ancillary transportation, gathering, compression and processing assets and the marketing and sale of Hydrocarbons produced.  No part of the proceeds of any Loan will be used, whether directly or indirectly, for any purpose that entails a violation of any of the Regulations of the Board, including Regulations T, U and X.  Letters of Credit will be issued only to support general corporate purposes of the Borrowers and the Restricted Subsidiaries.  The Borrower will not request any Borrowing, and the Borrower shall not use, and shall procure that its Subsidiaries and its and their respective directors, officers, employees and agents shall not use, the proceeds of any Borrowing (a) in furtherance of an offer, payment, promise to pay, or authorization of the payment or giving of money, or anything else of value, to any Person in violation of any Anti-Corruption Laws, (b) for the purpose of funding, financing or facilitating any activities, business or transaction of or with any Sanctioned Person, or in any Sanctioned Country, or (c) in any manner that would result in the violation of any Sanctions applicable to any party hereto.
+ 
+1.14        Security.  Section 6.09 of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:
+ 
+Section 6.09           Security.  Each Borrower will, and will cause each Guarantor to, execute and deliver to the Administrative Agent, for the benefit of the Secured Parties, (a) Mortgages (or amendments to Mortgages) together with such other assignments, conveyances, amendments, agreements and other writings, including, without limitation, UCC-1 financing statements (each duly authorized and executed, as applicable) as the Administrative Agent shall deem necessary or appropriate to grant, evidence and perfect Liens in Oil and Gas Interests having an Engineered Value equal to or greater than the Minimum Collateral Amount and (b) security agreements in form and substance reasonably  acceptable to the Administrative Agent (or amendments to security Agreements) together with such other assignments, conveyances, amendments, agreements and other writings, including, without limitation, UCC-1 financing statements (each 
+ 
+11
+
+
+
+
+
+
+ 
+duly authorized and executed, as applicable) and control agreements as the Administrative Agent shall deem necessary or appropriate to grant, evidence and perfect Liens in certain personal property of each Borrower or such Restricted Subsidiary, as the case may be, subject only to Permitted Liens.  Within 15 days after the Tenth Amendment Effective Date (or such longer time as acceptable to the Administrative Agent in its sole discretion), the Borrowers agree to execute and deliver, or cause to be executed and delivered, such amendments to, or amendment and restatements of, the Mortgages, in form and substance reasonably satisfactory to the Administrative Agent, as the Administrative Agent may reasonably require in connection with the Transactions.  So long as any Obligations are outstanding and the Commitments have not been terminated (other than any provision of the Loan Documents which by their terms expressly survive the termination of the Loan Documents) the Liens and Collateral securing the Midstream Operating Obligations must also secure the Obligations.
+ 
+1.15        Limitation on Indebtedness.  Section 7.01(a) shall be and hereby is amended and restated in its entirety as follows:
+ 
+(a) the Obligations and the Midstream Operating Obligations;
+ 
+1.16        Events of Default.
+ 
+(a)           Article IX, subsection (f) of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:
+ 
+(f)              any Borrower or any Restricted Subsidiary shall fail to make any payment (whether of principal or interest and regardless of amount) in respect of any Material Indebtedness (including any Indebtedness outstanding under the Midstream Operating Credit Agreement), when and as the same shall become due and payable and such failure shall continue beyond the applicable grace period, if any;
+ 
+(b)           Article IX, subsection (g) of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:
+ 
+(g)             any event or condition occurs that results in any Material Indebtedness (including any Indebtedness outstanding under the Midstream Operating Credit Agreement) becoming due prior to its scheduled maturity or that enables or permits (with or without the giving of notice, the lapse of time or both) the holder or holders of any Material Indebtedness or any trustee or agent on its or their behalf to cause such Indebtedness to become due, or to require the prepayment, repurchase, redemption or defeasance thereof, prior to its scheduled maturity; provided that this paragraph (g) shall not apply to (i) Indebtedness that becomes due as a result of the voluntary sale or transfer of the property or assets  securing such Indebtedness and (ii) Indebtedness that becomes due as a result of a change in law, tax regulation or accounting treatment so long as such Indebtedness is paid when due;
+ 
+12
+
+
+
+
+
+
+ 
+(b)           Article IX, subsection (p) of the Credit Agreement shall be and hereby is deleted.
+ 
+1.17        Successors and Assigns.  Section 11.04(b)(ii) of the Credit Agreement shall be and hereby is amended by (a) deleting from the end of subsection (C) thereof the text and, (b) at the end of subsection (D) thereof, replacing the text . with the text ; and and (c) adding a new subsection (E) to the end thereof as follows:
+ 
+(E)             notwithstanding anything to the contrary herein, at any time prior to the Midstream Operating Credit Termination Date, after giving effect to any such Assignment, the Applicable Percentage of any assigning Lender and any assignee Lender shall be equal to the Applicable Percentage of such assigning Lender and such assignee Lender, respectively, under and as defined in the Midstream Operating Credit Agreement, and in the event any Lender is required to assign any or all of its rights and obligations under this Agreement, such Lender shall also be required to assign its rights and obligations under the Midstream Operating Credit Agreement in the corresponding Applicable Percentage.
+ 
+1.18        Original Credit Agreement.  Section 11.15 of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:
+ 
+Section 11.15. Original Credit Agreement. Upon the Effective Date: (i) all loans, letters of credit, and other Indebtedness, obligations and liabilities outstanding under the Original Credit Agreement on such date shall continue to constitute Loans, Letters of Credit and other Indebtedness, obligations and liabilities under this Agreement, (ii) the execution and delivery of this Agreement or any of the Loan Documents hereunder shall not constitute a novation, refinancing or any other fundamental change in the relationship among the parties and (iii) the Loans, Letters of Credit, and other Indebtedness, obligations and liabilities outstanding hereunder, to the extent outstanding under the Original Credit Agreement immediately prior to the date hereof, shall constitute the same loans, letters of credit, and other Indebtedness, obligations and liabilities as were outstanding under the Original Credit Agreement.  Notwithstanding the foregoing, each of the Credit Parties hereby acknowledges that any Indebtedness, obligations and liabilities which by the terms of the Original Credit Agreement expressly survive the termination, cancellation or replacement of the Original Credit Agreement constitute Indebtedness, obligations and liabilities of the Credit Parties under this Agreement.
+ 
+1.19        Release of Antero Resources Midstream Corporation.  Section 11.18 of the Credit Agreement shall be and hereby is amended and restated in its entirety as follows:
+ 
+13
+
+
+
+
+
+
+ 
+Section 11.18 Reserved.
+ 
+1.20        Schedules.  Schedule 1.01 to the Credit Agreement shall be and it hereby is amended in its entirety and replaced with Schedule 1.01 attached hereto.
+ 
+SECTION 2.             Conditions.  The amendments to the Credit Agreement contained in Section 1 of this Amendment shall be effective upon the satisfaction of each of the conditions set forth in this Section 2.
+ 
+2.1          Execution and Delivery.  Each Credit Party, the Lenders (or at least the required percentage thereof), and the Administrative Agent shall have executed and delivered this Amendment.
+ 
+2.2          No Default.  No Default shall have occurred and be continuing or shall result from the effectiveness of this Amendment.
+ 
+2.3          Certificates.  The Administrative Agent shall have received such documents and certificates as the Administrative Agent or its counsel may reasonably request relating to the organization, existence and good standing of each Credit Party, the authorization of this Amendment and the transactions contemplated hereby and any other legal matters relating to the Credit Parties, this Amendment or the transactions contemplated hereby, all in form and substance reasonably satisfactory to the Administrative Agent and its counsel.
+ 
+2.4          Other Documents.  The Administrative Agent shall have received such other instruments and documents incidental and appropriate to the transactions provided for herein as the Administrative Agent or its special counsel may reasonably request, and all such documents shall be in form and substance reasonably satisfactory to the Administrative Agent.
+ 
+SECTION 3.             Representations and Warranties of Credit Parties.  To induce the Lenders to enter into this Amendment, each Credit Party hereby represents and warrants to the Lenders as follows:
+ 
+3.1          Reaffirmation of Representations and Warranties/Further Assurances.  After giving effect to the amendments herein, each representation and warranty of such Credit Party contained in the Credit Agreement and in each of the other Loan Documents is true and correct in all material respects as of the date hereof (except to the extent such representations and warranties specifically refer to an earlier date, in which case they are true and correct in all material respects as of such earlier date).
+ 
+3.2          Corporate Authority; No Conflicts.  The execution, delivery and performance by each Credit Party of this Amendment are within such Credit Partys corporate or other organizational powers, have been duly authorized by necessary action, require no action by or in respect of, or filing with, any court or agency of government and do not violate or constitute a default under any provision of any applicable law or other agreements binding upon any Credit Party or result in the creation or imposition of any Lien upon any of the assets of any Credit Party except for Permitted Liens and otherwise as permitted in the Credit Agreement.
+ 
+3.3          Enforceability.  This Amendment constitutes the valid and binding obligation of the Borrower and each other Credit Party enforceable in accordance with its terms, except as 
+ 
+14
+
+
+
+
+
+
+ 
+(i) the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors rights generally, and (ii) the availability of equitable remedies may be limited by equitable principles of general application.
+ 
+3.4          No Default.  As of the date hereof, both before and immediately after giving effect to this Amendment, no Default has occurred and is continuing.
+ 
+SECTION 4.             Miscellaneous.
+ 
+4.1          Reaffirmation of Loan Documents and Liens.  Any and all of the terms and provisions of the Credit Agreement and the Loan Documents shall, except as amended and modified hereby, remain in full force and effect and are hereby in all respects ratified and confirmed by each Credit Party.  The Borrower and each Guarantor hereby agrees that the amendments and modifications herein contained shall in no manner affect or impair the liabilities, duties and obligations of any Credit Party under the Credit Agreement and the other Loan Documents or the Liens securing the payment and performance thereof.
+ 
+4.2          Parties in Interest.  All of the terms and provisions of this Amendment shall bind and inure to the benefit of the parties hereto and their respective successors and assigns.
+ 
+4.3          Legal Expenses.  Each Credit Party hereby agrees to pay all reasonable fees and expenses of special counsel to the Administrative Agent incurred by the Administrative Agent in connection with the preparation, negotiation and execution of this Amendment and all related documents.
+ 
+4.4          Counterparts.  This Amendment may be executed in one or more counterparts and by different parties hereto in separate counterparts each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument; signature pages may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are physically attached to the same document.  Delivery of photocopies of the signature pages to this Amendment by facsimile or electronic mail shall be effective as delivery of manually executed counterparts of this Amendment.
+ 
+4.5          Complete Agreement.  THIS AMENDMENT, THE CREDIT AGREEMENT, AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+ 
+4.6          Headings.  The headings, captions and arrangements used in this Amendment are, unless specified otherwise, for convenience only and shall not be deemed to limit, amplify or modify the terms of this Amendment, nor affect the meaning thereof.
+ 
+4.7          Governing Law.  This Amendment shall be construed in accordance with and governed by the laws of the State of New York.
+ 
+15
+
+
+
+
+
+
+ 
+4.8          Loan Document.  This Amendment shall constitute a Loan Document for all purposes and in all respects.
+ 
+[Remainder of page intentionally blank.
+Signature pages follow.]
+ 
+16
+
+ 
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed by their respective authorized officers to be effective as of the date first above written.
+ 
+
+
+
+     
+
+BORROWER:       
+
+
+     
+
+        
+
+
+     
+
+ANTERO RESOURCES CORPORATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Alvyn A. Schopp       
+
+
+     
+
+     
+
+Name:     
+
+Alvyn A. Schopp       
+
+
+     
+
+     
+
+Title:     
+
+Chief Administrative Officer and       
+
+
+     
+
+     
+
+     
+
+Regional Vice President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+RESTRICTED SUBSIDIARIES:       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+ANTERO RESOURCES MIDSTREAM LLC       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Alvyn A. Schopp       
+
+
+     
+
+     
+
+Name:       
+
+Alvyn   A. Schopp       
+
+
+     
+
+     
+
+Title:       
+
+Chief   Administrative Officer and        
+
+
+     
+
+     
+
+     
+
+Regional   Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+JPMORGAN CHASE BANK, N.A.,       
+
+
+     
+
+as Administrative Agent, Issuing Bank and a   Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ David Morris       
+
+
+     
+
+     
+
+Name:     
+
+David Morris       
+
+
+     
+
+     
+
+Title:     
+
+Authorized Officer         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+WELLS FARGO BANK, N.A.,       
+
+
+     
+
+as Syndication Agent and a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Suzanne Ridenhour       
+
+
+     
+
+     
+
+Name:     
+
+Suzanne Ridenhour       
+
+
+     
+
+     
+
+Title:     
+
+Director         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+UNION BANK, N.A.,       
+
+
+     
+
+as Co-Documentation Agent and a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Lara Sorokolit       
+
+
+     
+
+     
+
+Name:     
+
+Lara Sorokolit       
+
+
+     
+
+     
+
+Title:     
+
+Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   AGRICOLE CORPORATE AND INVESTMENT BANK,       
+
+
+     
+
+as Co-Documentation Agent and a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Sharada Manne       
+
+
+     
+
+     
+
+Name:     
+
+Sharada Manne       
+
+
+     
+
+     
+
+Title:     
+
+Managing Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Michael D. Willis       
+
+
+     
+
+     
+
+Name:     
+
+Michael D. Willis       
+
+
+     
+
+     
+
+Title:     
+
+Managing Director         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BARCLAYS BANK PLC,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Vanessa A. Kurbatskiy       
+
+
+     
+
+     
+
+Name:     
+
+Vanessa A. Kurbatskiy       
+
+
+     
+
+     
+
+Title:     
+
+Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+FIFTH THIRD BANK,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Richard C. Butler       
+
+
+     
+
+     
+
+Name:     
+
+Richard C. Butler       
+
+
+     
+
+     
+
+Title:     
+
+Senior Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMERICA BANK,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ John S. Lesikar       
+
+
+     
+
+     
+
+Name:     
+
+John S. Lesikar       
+
+
+     
+
+     
+
+Title:     
+
+Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   SUISSE AG, CAYMAN ISLANDS BRANCH,       
+
+
+     
+
+as   a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael Spaight       
+
+
+     
+
+     
+
+Name:    
+
+Michael   Spaight       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Samuel Miller       
+
+
+     
+
+     
+
+Name:    
+
+Samuel   Miller       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+SIGNATURE PAGE
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+KEY BANK NATIONAL ASSOCIATION,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Sukanya Raj       
+
+
+     
+
+     
+
+Name:     
+
+Sukanya Raj       
+
+
+     
+
+     
+
+Title:     
+
+Senior Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+U.S. BANK NATIONAL ASSOCIATION,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Todd S. Anderson       
+
+
+     
+
+     
+
+Name:     
+
+Todd S. Anderson       
+
+
+     
+
+     
+
+Title:     
+
+Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+GUARANTY BANK AND TRUST   COMPANY,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Gail J. Nofsinger       
+
+
+     
+
+     
+
+Name:     
+
+Gail J. Nofsinger       
+
+
+     
+
+     
+
+Title:     
+
+Senior Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CITIBANK, N.A.,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Eamon Baqui       
+
+
+     
+
+     
+
+Name:     
+
+Eamon Baqui       
+
+
+     
+
+     
+
+Title:     
+
+Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CAPITAL ONE, NATIONAL   ASSOCIATION,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Robert James       
+
+
+     
+
+     
+
+Name:     
+
+Robert James       
+
+
+     
+
+     
+
+Title:     
+
+Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+TORONTO DOMINION (NEW YORK)   LLC,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Masoof Fikree       
+
+
+     
+
+     
+
+Name:     
+
+Masoof Fikree       
+
+
+     
+
+     
+
+Title:     
+
+Authorized Signatory         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BRANCH BANKING AND TRUST   COMPANY,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Traci Bankston       
+
+
+     
+
+     
+
+Name:     
+
+Traci Bankston       
+
+
+     
+
+     
+
+Title:     
+
+Assistant Vice President         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BMO HARRIS BANK N.A.,       
+
+
+     
+
+as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:     
+
+/s/ Joseph A. Bliss       
+
+
+     
+
+     
+
+Name:     
+
+Joseph A. Bliss       
+
+
+     
+
+     
+
+Title:     
+
+Managing Director         
+ 
+SIGNATURE PAGE
+ 
+
+
+
+
+
+
+ 
+SCHEDULE 1.01
+ 
+Applicable Percentages and Commitment
+ 
+
+
+
+Lender    
+
+     
+
+Applicable   Percentage    
+
+     
+
+Commitment    
+
+        
+
+
+JPMorgan Chase Bank, N.A.    
+
+     
+
+10.600000000    
+
+%    
+
+$    
+
+127,200,000.00    
+
+        
+
+
+Wells Fargo Bank, N.A.    
+
+     
+
+10.600000000    
+
+%    
+
+$    
+
+127,200,000.00    
+
+        
+
+
+Credit Agricole Corporate and Investment Bank    
+
+     
+
+8.800000000    
+
+%    
+
+$    
+
+105,600,000.00    
+
+        
+
+
+Union Bank, N.A.    
+
+     
+
+7.666666667    
+
+%    
+
+$    
+
+92,000,000.00    
+
+        
+
+
+Citibank, N.A.    
+
+     
+
+7.666666667    
+
+%    
+
+$    
+
+92,000,000.00    
+
+        
+
+
+Barclays Bank PLC    
+
+     
+
+7.666666667    
+
+%    
+
+$    
+
+92,000,000.00    
+
+        
+
+
+Capital One, National Association    
+
+     
+
+7.666666667    
+
+%    
+
+$    
+
+92,000,000.00    
+
+        
+
+
+Toronto Dominion (New York) LLC    
+
+     
+
+5.333333333    
+
+%    
+
+$    
+
+64,000,000.00    
+
+        
+
+
+Comerica Bank    
+
+     
+
+5.333333333    
+
+%    
+
+$    
+
+64,000,000.00    
+
+        
+
+
+BMO Harris Bank N.A.    
+
+     
+
+5.333333333    
+
+%    
+
+$    
+
+64,000,000.00    
+
+        
+
+
+U.S. Bank National Association    
+
+     
+
+5.333333333    
+
+%    
+
+$    
+
+64,000,000.00    
+
+        
+
+
+Credit Suisse AG, Cayman Islands Branch    
+
+     
+
+5.333333333    
+
+%    
+
+$    
+
+64,000,000.00    
+
+        
+
+
+Branch Banking and Trust Company    
+
+     
+
+4.400000000    
+
+%    
+
+$    
+
+52,800,000.00    
+
+        
+
+
+Fifth Third Bank    
+
+     
+
+4.400000000    
+
+%    
+
+$    
+
+52,800,000.00    
+
+        
+
+
+KeyBank National Association    
+
+     
+
+3.066666667    
+
+%    
+
+$    
+
+36,800,000.00    
+
+        
+
+
+Guaranty Bank and Trust Company    
+
+     
+
+0.800000000    
+
+%    
+
+$    
+
+9,600,000.00    
+
+        
+
+
+TOTAL    
+
+     
+
+100.000000000    
+
+%    
+
+$    
+
+1,200,000,000.00    
+
+          
+ 
+
+
+
+
+
+
+

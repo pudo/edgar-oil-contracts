@@ -1,0 +1,1325 @@
+
+EX-10.16
+6
+qre-20131231ex1016ed8a9.htm
+EX-10.16
+
+
+
+
+
+	
+		
+			EX-10.16
+		
+	
+	
+
+		
+
+			Execution Version
+
+		
+
+
+		
+			FIFTH AMENDMENT TO CREDIT AGREEMENT
+		
+		
+			THIS FIFTH AMENDMENT TO CREDIT AGREEMENT (this “Amendment”), dated as of September 23, 2013, effective as of August 6, 2013, is made by and among QRE OPERATING, LLC, a Delaware limited liability company (“Borrower”); QR ENERGY, LP, a Delaware limited partnership (“QRE MLP”); QRE GP, LLC, a Delaware limited liability company (“General Partner”); WELLS FARGO BANK, NATIONAL ASSOCIATION (in its individual capacity, “Wells Fargo”) as administrative agent (in such capacity, together with its successors in such capacity, the “Administrative Agent”) for the financial institutions (collectively the “Lenders”) party to the hereinafter-defined Credit Agreement; and the undersigned Lenders. 
+		
+		
+			W I T N E S S E T H:
+		
+		
+			 
+		
+		
+			WHEREAS, Borrower, QRE MLP, General Partner, the Administrative Agent and the Lenders entered into a Credit Agreement dated as of December 17, 2010, as amended by that certain First Amendment to Credit Agreement, dated as of October 3, 2011, that certain Second Amendment to Credit Agreement, dated as of March 16, 2012, that certain Third Amendment to Credit Agreement, dated as of April 11, 2012, and that certain Fourth Amendment to Credit Agreement, dated as of December 20, 2012 (as so amended, and as the same may be further amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”);
+		
+		
+			NOW, THEREFORE, in consideration of the premises and the mutual agreements, representations and warranties herein set forth, and for other good and valuable consideration, the receipt and sufficiency of which are acknowledged, Borrower, the Administrative Agent and the undersigned Lenders do hereby agree as follows:
+		
+		
+			
+				 1.
+			Amendments to Credit Agreement.
+		
+			
+				 (a)
+			Section 1.02 of the Credit Agreement is hereby amended as follows:
+		
+			
+				 (i)
+			The definition of “Agreement” is amended and restated in its entirety as follows:
+		
+			“Agreement” means this Credit Agreement, as the same may from time to time be amended, modified, supplemented or restated, including, without limitation, by the First Amendment, the Second Amendment, the Third Amendment, the Fourth Amendment and the Fifth Amendment.
+		
+		
+			
+				 (ii)
+			The definition of “Subsidiary” is amended and restated in its entirety as follows:
+		
+			 
+		
+		
+			  “Subsidiary” means: (a) any Person of which at least a majority of the outstanding Equity Interests having by the terms thereof ordinary voting power to elect a majority of the board of directors, manager or other governing body of such Person (irrespective of 
+		
+		 
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		whether or not at the time Equity Interests of any other class or classes of such Person shall have or might have voting power by reason of the happening of any contingency) is at the time directly or indirectly owned or controlled by QRE MLP and/or one or more of its Subsidiaries and (b) any partnership of which QRE MLP or any of its Subsidiaries is a general partner; provided,  however, that ETSWDC shall not be a Subsidiary of the Borrower, QRE MLP or any of the Borrower’s Subsidiaries. Unless otherwise indicated herein, each reference to the term “Subsidiary” shall mean a Subsidiary of QRE MLP. 
+		
+		
+			
+				 (iii)
+			By adding the following defined terms in appropriate alphabetical order:
+		
+			“ETSWDC” means East Texas Salt Water Disposal Company, a Texas corporation.
+		
+		
+			“Fifth Amendment” means that certain Fifth Amendment to Credit Agreement dated as of September 23, 2013, effective as of August 6, 2013, by and among Borrower, QRE MLP, General Partner, the Administrative Agent and the Lenders.
+		
+		
+			“Fifth Amendment Effective Date” means August 6, 2013, subject to the conditions specified in Section 2 of the Fifth Amendment having been satisfied (or waived by each Lender in accordance with Section 12.02).
+		
+		
+			
+				 (b)
+			Section 7.06 is hereby amended in its entirety as follows:
+		
+			“Environmental Matters.  Except for such matters that, individually or in the aggregate, could not reasonably be expected to have a Material Adverse Effect:
+		
+		
+			(a)no Property of ETSWDC or QRE MLP or any of its Subsidiaries nor the operations conducted thereon violate any order or requirement of any court or Governmental Authority or any Environmental Laws.
+		
+		
+			(b)no Property of ETSWDC or QRE MLP or any of its Subsidiaries nor the operations currently conducted thereon or, to the knowledge of the General Partner, QRE MLP or the Borrower, by any prior owner or operator of such Property or operation, are in violation of or subject to any existing, pending or threatened action, suit, investigation, inquiry or proceeding by or before any court or Governmental Authority or to any remedial obligations under Environmental Laws.
+		
+		
+			(c)all notices, permits, licenses, exemptions, approvals or similar authorizations, if any, required to be obtained or filed in connection with the operation or use of any and all Property of ETSWDC and QRE MLP and each of its Subsidiaries, including, without limitation, past or present treatment, storage, disposal or release of a hazardous substance, oil and gas waste or solid waste into 
+		
+		 
+
+		
+
+			2
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		the environment, have been duly obtained or filed, and ETSWDC and QRE MLP and each of its Subsidiaries are in compliance with the terms and conditions of all such notices, permits, licenses and similar authorizations.
+		
+		
+			(d)all hazardous substances, solid waste and oil and gas waste, if any, generated at any and all Property of ETSWDC or QRE MLP or any of its Subsidiaries have in the past been transported, treated and disposed of in accordance with Environmental Laws and so as not to pose an imminent and substantial endangerment to public health or welfare or the environment, and, to the knowledge of the General Partner, QRE MLP or the Borrower, all such transport carriers and treatment and disposal facilities have been and are operating in compliance with Environmental Laws and so as not to pose an imminent and substantial endangerment to public health or welfare or the environment, and are not the subject of any existing, pending or threatened action, investigation or inquiry by any Governmental Authority in connection with any Environmental Laws.
+		
+		
+			(e)each of QRE MLP and the Borrower has taken reasonable steps to determine and has determined that no oil, hazardous substances, solid waste or oil and gas waste, have been disposed of or otherwise released and there has been no threatened release of any oil, hazardous substances, solid waste or oil and gas waste on or to any Property of ETSWDC or QRE MLP or any of its Subsidiaries except in compliance with Environmental Laws and so as not to pose an imminent and substantial endangerment to public health or welfare or the environment.
+		
+		
+			(f)to the extent applicable, all Property of ETSWDC and QRE MLP and each of its Subsidiaries currently satisfies all design, operation, and equipment requirements imposed by the OPA, and none of the General Partner, QRE MLP and the Borrower has any reason to believe that such Property, to the extent subject to the OPA, will not be able to maintain compliance with the OPA requirements during the term of this Agreement.
+		
+		
+			(g)none of ETSWDC nor QRE MLP nor any of its Subsidiaries has any known contingent liability or Remedial Work in connection with any release or threatened release of any oil, hazardous substance, solid waste or oil and gas waste into the environment.”
+		
+		
+			
+				 (c)
+			Section 8.01(a) of the Credit Agreement is hereby amended in its entirety as follows:
+		
+			“(a) Annual Financial Statements. As soon as available, but in any event in accordance with then applicable law and not later than 90 days after the end of each fiscal year of QRE MLP (provided, if QRE MLP is granted an extension pursuant to SEC Rule 12b-25 regarding the filing a Form 10-K following the end of given fiscal year, such annual consolidated financial statements shall be provided within 105 days after the end of such fiscal year) its audited consolidated balance sheet and related statements of operations, partners’ equity 
+		
+		 
+
+		
+
+			3
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		and cash flows as of the end of and for such year, setting forth in each case in comparative form the figures for the previous fiscal year, all reported on by PricewaterhouseCoopers or other independent public accountants of recognized national standing (without a “going concern” or like qualification or exception and without any qualification or exception as to the scope of such audit) to the effect that such consolidated financial statements present fairly in all material respects the financial condition and results of operations of QRE MLP, on a consolidated basis in accordance with GAAP.”
+		
+		
+			
+				 (d)
+			Section 8.10 is hereby amended in its entirety as follows:
+		
+			“Environmental Matters.  
+		
+		
+			(a)QRE MLP shall, as to its self, at its own expense, and the Borrower shall at its own expense, comply, and shall cause its Properties and operations and each Subsidiary of the Borrower and ETSWDC and each of ETSWDC and such Subsidiary’s Properties and operations to comply, with all applicable Environmental Laws, where the failure to comply could be reasonably expected to have a Material Adverse Effect; not dispose of or otherwise release, and shall cause each such Subsidiary not to dispose of or otherwise release, any oil, oil and gas waste, hazardous substance, or solid waste on, under, about or from any of ETSWDC’s, QRE MLP’s, the Borrower’s or its Subsidiaries’ Properties or any other Property to the extent caused by ETSWDC’s, QRE MLP’s, the Borrower’s or any of its Subsidiaries’ operations except in compliance with applicable Environmental Laws, the disposal or release of which could reasonably be expected to have a Material Adverse Effect; timely obtain or file, and shall cause each Subsidiary of the Borrower to timely obtain or file, all notices, permits, licenses, exemptions, approvals, registrations or other authorizations, if any, required under applicable Environmental Laws to be obtained or filed in connection with the operation or use of ETSWDC’s, QRE MLP’s, the Borrower’s or its Subsidiaries’ Properties, which failure to obtain or file could reasonably be expected to have a Material Adverse Effect; promptly commence and diligently prosecute to completion, and shall cause each Subsidiary of the Borrower to promptly commence and diligently prosecute to completion, any assessment, evaluation, investigation, monitoring, containment, cleanup, removal, repair, restoration, remediation or other remedial obligations (collectively, the “Remedial Work”) in the event any Remedial Work is required under applicable Environmental Laws because of or in connection with the actual or suspected past, present or future disposal or other release of any oil, oil and gas waste, hazardous substance or solid waste on, under, about or from any of ETSWDC’s, QRE MLP’s, the Borrower’s or its Subsidiaries’ Properties, which failure to commence and diligently prosecute to completion could reasonably be expected to have a Material Adverse Effect; and establish and implement, and shall cause each Subsidiary of the Borrower to establish and implement, such procedures as may be necessary to determine and assure that ETSWDC’s, QRE MLP’s, the Borrower’s and its Subsidiaries’ obligations under this Section 8.10(a) are timely 
+		
+		 
+
+		
+
+			4
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		and fully satisfied, which failure to establish and implement could reasonably be expected to have a Material Adverse Effect.
+		
+		
+			(b)The General Partner will promptly, but in no event later than ten (10) days after the General Partner’s knowledge of the occurrence of a triggering event, notify the Administrative Agent and the Lenders in writing of any threatened action, investigation or inquiry by any Governmental Authority or any threatened demand or lawsuit by any landowner or other third party against ETSWDC, QRE MLP, the Borrower or its Subsidiaries or their Properties in connection with any Environmental Laws (excluding routine testing and corrective action) if the General Partner reasonably anticipates that such action will result in liability (whether individually or in the aggregate) in excess of $5,000,000, not fully covered by insurance or other means of recovery or reimbursement acceptable to the Lenders, subject to normal deductibles.
+		
+		
+			(c)QRE MLP and the Borrower will, and will cause each Subsidiary of the Borrower and ETSWDC to, provide environmental audits and tests in accordance with applicable American Society of Testing Materials standards upon request by the Administrative Agent and the Lenders and no more than once per year in the absence of any Event of Default (or as otherwise required to be obtained by the Administrative Agent or the Lenders by any Governmental Authority), in connection with any future acquisitions of Oil and Gas Properties or other Properties.”
+		
+		
+			
+				 (e)
+			Section 8.15(c) is hereby amended in its entirety as follows:
+		
+			“(c)QRE MLP and the Borrower will at all times cause the other material tangible and intangible assets (other than deposit accounts and any Equity Interests of ETSWDC) of QRE MLP, the Borrower and each Subsidiary to be subject to a Lien created by the Security Instruments.”
+		
+		
+			
+				 (f)
+			Section 9.01(b) is hereby amended in its entirety as follows:
+		
+			“(b)Current Ratio.  QRE MLP will not permit, as of the last day of any calendar quarter, its ratio (the “Current Ratio”) of consolidated current assets (including the unused amount of the total Commitments, but excluding non-cash assets under FAS 133 and excluding any assets of ETSWDC) as of such date to consolidated current liabilities (excluding non-cash obligations under FAS 133 and current maturities under this Agreement and excluding any obligations or liabilities of ETSWDC) as of such date to be less than 1.0 to 1.0.”
+		
+		
+			
+				 (g)
+			A new Section 9.05(m) is added to the Credit Agreement as follows:
+		
+			“(m) Investments made by QRE MLP or any Subsidiary in ETSWDC not to exceed $10,000,000 in the aggregate at any one time outstanding.”
+		
+		
+			 
+		
+		 
+
+		
+
+			5
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		
+			
+				 (h)
+			Section  9.13 of the Credit Agreement is hereby amended in its entirety as follows:
+		
+			“Environmental Matters.  QRE MLP will not, and will not permit any of its Subsidiaries or ETSWDC to, cause or permit any of its Property to be in violation of, or do anything or permit anything to be done which will subject any such Property to any Remedial Work under any Environmental Laws, assuming disclosure to the applicable Governmental Authority of all relevant facts, conditions and circumstances, if any, pertaining to such Property where such violations or remedial obligations could reasonably be expected to have a Material Adverse Effect.”
+		
+		
+			
+				 2.
+			Conditions Precedent.  This Amendment shall become effective as of the Fifth Amendment Effective Date provided that each of the following conditions is satisfied (or waived by each Lender in accordance with Section 12.02 of the Credit Agreement):
+		
+			
+				 (a)
+			The Administrative Agent shall have received from each party hereto counterparts (in such number as may be requested by the Administrative Agent) of this Amendment signed on behalf of such party.
+		
+			
+				 (b)
+			The Administrative Agent shall have received all amounts due and payable on or prior to the Fifth Amendment Effective Date, including, to the extent invoiced, reimbursement or payment of all reasonable out-of-pocket expenses required to be reimbursed or paid by the Borrower hereunder (including, to the extent invoiced on or prior to the Fifth Amendment Effective Date, the reasonable fees and expenses of Sidley Austin LLP, counsel to the Administrative Agent).
+		
+			
+				 (c)
+			The Administrative Agent shall have received such other documents as the Administrative Agent or special counsel to the Administrative Agent may reasonably request.
+		
+			The Administrative Agent shall notify the Borrower and the Lenders of the Fifth Amendment Effective Date, and such notice shall be conclusive and binding.  
+		
+		
+			
+				 3.
+			Representations True; No Default.  Borrower represents and warrants that the representations and warranties contained in the Loan Documents are true and correct in all material respects (except that any such representations and warranties that are qualified by materiality shall be true and correct in all respects) on and as of the date hereof as though made on and as of such date, except to the extent any such representation or warranty is expressly limited to an earlier date, in which case, on and as of the date hereof, such representation or warranty shall continue to be true and correct in all material respects as of such specified earlier date.  Borrower hereby certifies that, after giving effect to the amendments set forth in this Amendment, no Default or Event of Default has occurred and is continuing.
+		
+			
+				 4.
+			Ratification.  Except as expressly amended hereby, the Loan Documents shall remain in full force and effect.  The Credit Agreement, as hereby amended, and all rights and powers created thereby or thereunder and under the other Loan Documents are in all respects ratified and confirmed and remain in full force and effect.
+		 
+
+		
+
+			6
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		
+			
+				 5.
+			Definitions and References.  Any term used in this Amendment that is defined in the Credit Agreement shall have the meaning therein ascribed to it.  The terms “Agreement” and “Credit Agreement” as used in the Loan Documents or any other instrument, document or writing furnished to the Administrative Agent or the Lenders by the Borrower and referring to the Credit Agreement shall mean the Credit Agreement as hereby amended.
+		
+			
+				 6.
+			Miscellaneous.  This Amendment (a) shall be binding upon and inure to the benefit of Borrower, the Administrative Agent and the Lenders and their respective successors and assigns (provided,  however, no party may assign its rights hereunder except in accordance with the Credit Agreement); (b) may be modified or amended only in accordance with the Credit Agreement; (c) may be executed in several counterparts, and by the parties hereto on separate counterparts, and each counterpart, when so executed and delivered, shall constitute an original agreement, and all such separate counterparts shall constitute but one and the same agreement, and (d) together with the other Loan Documents, embodies the entire agreement and understanding between the parties with respect to the subject matter hereof and supersedes all prior agreements, consents and understandings relating to such subject matter.  Delivery of an executed counterpart of a signature page to this Amendment by telecopy or as an attachment to an email shall be effective as delivery of a manually executed counterpart of this Amendment.
+		
+			 
+		
+		
+			[Signature Pages Follow]
+		
+		
+			 
+		
+		
+			
+			 	 (a)
+			
+		
+
+		
+		 
+
+		
+
+			7
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		The parties hereto have caused this Amendment to be duly executed as of the day and year first above written.
+		
+		
+			 
+		
+		
+			BORROWER:QRE OPERATING, LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/Cedric W. Burgher
+		
+		
+			Cedric W. Burgher,  
+		
+		
+			Chief Financial Officer
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		QRE MLP:QR ENERGY, LP
+		
+		
+			 
+		
+		
+			By:QRE GP, LLC 
+		
+		
+			its General Partner
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Cedric W. Burgher 
+		
+		
+			Cedric W. Burgher,  
+		
+		
+			Chief Financial Officer 
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		GENERAL PARTNER:QRE GP, LLC 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Cedric W. Burgher 
+		
+		
+			Cedric W. Burgher, 
+		
+		
+			Chief Financial Officer
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		
+		
+		
+			ADMINISTRATIVE AGENT 
+		
+		
+			AND LENDER:WELLS FARGO BANK, NATIONAL ASSOCIATION
+		
+		
+			as Administrative Agent and a Lender
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Todd Fogle
+		
+		
+			Name:Todd Fogle
+		
+		
+			Title:Vice President
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		
+		
+		
+			LENDER:JPMORGAN CHASE BANK, N.A. 
+		
+		
+			as a Lender
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Jo Linda Papadakis
+		
+		
+			Name:Jo Linda Papadakis
+		
+		
+			Title:Senior Vice President
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		LENDER:ROYAL BANK OF CANADA
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Kristan Spivey
+		
+		
+			Name:Kristan Spivey
+		
+		
+			Title:Authorized Signatory
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		
+		
+		
+			LENDER:THE ROYAL BANK OF SCOTLAND plc
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By: /s/ Sanjay Remond
+		
+		
+			Name:Sanjay Remond
+		
+		
+			Title:Director
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		 LENDER:Toronto Dominion (New York) LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Marie Fernandes
+		
+		
+			Name:Marie Fernandes
+		
+		
+			Title:Authorized Signatory
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		LENDER:BANK OF AMERICA, N.A.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Elizabeth Gallagher
+		
+		
+			Name:Elizabeth Gallagher
+		
+		
+			Title:Assistant Vice President
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		LENDER:BANK OF MONTREAL
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Kevin Utsey
+		
+		
+			Name:Kevin Utsey
+		
+		
+			Title:Director
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		LENDER:CAPITAL ONE, N.A.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Matthew L. Molero
+		
+		
+			Name:Mathew L. Molero
+		
+		
+			Title:Vice President
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		LENDER:CITIBANK, N.A.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Famon Baquz
+		
+		
+			Name:Famon Baquz
+		
+		
+			Title:Vice President
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		LENDER:COMERICA BANK
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ William Robinson
+		
+		
+			Name:William Robinson
+		
+		
+			Title:Vice President
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		LENDER:ING CAPITAL LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Juli Bieser
+		
+		
+			Name:Juli Bieser
+		
+		
+			Title:Director
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		LENDER:UNION BANK, N.A.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Lauren Trussell
+		
+		
+			Name:Lauren Trussell
+		
+		
+			Title:Vice President
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+		LENDER:Scotiabanc Inc.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ J. F. Todd
+		
+		
+			Name:J. F. Todd
+		
+		
+			Title:Managing Director
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		LENDER:REGIONS BANK
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Daniel G. Steele
+		
+		
+			Name:Daniel G. Steele
+		
+		
+			Title:Senior Vice President
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		LENDER:COMPASS BANK
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ James Neblett
+		
+		
+			Name:James Neblett
+		
+		
+			Title:Vice President
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		LENDER:CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Sharada Manne
+		
+		
+			Name:Sharada Manne
+		
+		
+			Title:Managin Director
+		
+		
+			 
+		
+		
+			By:/s/ Mark Roche
+		
+		
+			Name:Mark Roche
+		
+		
+			Title:Managin Director
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		LENDER:U.S. BANK NATIONAL ASSOCIATION
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Jonathan H. Lee
+		
+		
+			Name:Jonathan H. Lee
+		
+		
+			Title:Vice President
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		LENDER:CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Vipul Dhadda
+		
+		
+			Name:Vipul Dhadda
+		
+		
+			Title:Authorized Signatory
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Michael Spaight
+		
+		
+			Name:Michael Spaight
+		
+		
+			Title:Authorized Signatory
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		LENDER:CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK AGENCY
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Trudy Nelson
+		
+		
+			Name:Trudy Nelson
+		
+		
+			Title:Managing Director
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Richard Antl
+		
+		
+			Name:Richard Antl
+		
+		
+			Title:Director
+		
+		
+
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+		
+
+			 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		
+		
+		
+			LENDER:BARCLAYS BANK PLC.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:/s/ Sreedhar R. Kona
+		
+		
+			Name:Sreedhar R. Kona
+		
+		
+			Title:Vice President
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		 
+
+		
+
+			Signature Page to Fifth Amendment to Credit Agreement
+
+		
+
+		
+
+			DA1 728744v.7
+
+		
+
+		
+
+			 
+
+		
+
+
+	
+
+

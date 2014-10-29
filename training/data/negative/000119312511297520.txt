@@ -1,0 +1,667 @@
+
+EX-10.2
+3
+d241113dex102.htm
+THIRD AMENDMENT TO CREDIT AGREEMENT
+
+
+Third Amendment to Credit Agreement
+
+ 
+
+ Exhibit 10.2 
+   
+  THIRD AMENDMENT TO CREDIT
+AGREEMENT  Dated as of 12:00 P.M. CST, October 31, 2011 
+among 
+GULFPORT ENERGY CORPORATION,  as Borrower,  THE BANK OF NOVA SCOTIA, 
+as Administrative Agent  and  L/C Issuer and Lead Arranger, 
+and  AMEGY
+BANK NATIONAL ASSOCIATION,  as Syndication Agent  and  KEYBANK NATIONAL ASSOCIATION and SOCIÉTÉ
+GÉNÉRALE,  as Co-Documentation Agents  and  The Other Lenders Party Hereto 
+   
+ 
+
+
+
+
+ THIRD AMENDMENT TO CREDIT AGREEMENT 
+THIS THIRD AMENDMENT TO CREDIT AGREEMENT (the Third Amendment to Credit Agreement, or this
+Amendment) is entered into effective as of the Effective Date as defined below, among GULFPORT ENERGY CORPORATION, a Delaware corporation (Borrower), THE BANK OF NOVA SCOTIA, as
+Administrative Agent and L/C Issuer (the Administrative Agent), and the financial institutions executing this Amendment as Lenders.  R E C I T A L S 
+A. Borrower, the financial institutions signing as Lenders thereto and Administrative Agent are parties to a Credit Agreement dated as of
+September 30, 2010, and as amended by a First Amendment to Credit Agreement among Borrower, the financial institutions signing as Lenders thereto and Administrative Agent dated as of May 3, 2011, and as amended by a Second Amendment to
+Credit Agreement among Borrower, the financial institutions signing as Lenders thereto and Administrative Agent dated as of 10:00 A.M. October 31, 2011 (collectively, the Original Credit Agreement). 
+B. Borrower has requested certain amendments to the Original Credit Agreement including the increase of the Borrowing Base. Accordingly,
+the parties desire to amend the Original Credit Agreement as hereinafter provided.  NOW, THEREFORE, in consideration of these
+premises and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:  1. Same Terms. All terms used herein that are defined in the Original Credit Agreement shall have the same meanings when used herein, unless the context hereof otherwise requires or
+provides. In addition, (i) all references in the Oil and Gas Mortgages, Affidavit of Payment of Trade Bills, Property Certificate, Reconciliation Schedule and Title Indemnity Agreement to the Credit Agreement and in the Credit
+Agreement and the other Loan Documents to the Agreement shall mean the Original Credit Agreement, as amended by this Amendment, as the same may hereafter be amended from time to time, and (ii) all references in the Loan Documents to
+the Loan Documents shall mean the Loan Documents, as amended by the Modification Papers, as the same may hereafter be amended from time to time. In addition, the following terms have the meanings set forth below: 
+Amegy Replacement Note: See Section 6(a). 
+Credit Agreement means the Original Credit Agreement, as amended by this Amendment. 
+Effective Date means 12:00 P.M. CST on October 31, 2011. 
+KeyBank Replacement Note: See Section 6(c). 
+Modification Papers means this Amendment, the Amegy Replacement Note, the Scotia Replacement Note, the KeyBank
+Replacement Note, the Société Générale Replacement Note and all of the other documents and agreements executed in connection with the transactions contemplated by this Amendment. 
+Scotia Replacement Note: See Section 6(b). 
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Page 1 
+
+
+
+
+
+ Société Générale Replacement Note: See
+Section 6(d).  2. Conditions Precedent. The obligations and agreements of Lenders as set forth in
+this Amendment are subject to the satisfaction, unless waived in writing by Administrative Agent, of each of the following conditions (and upon such satisfaction, this Amendment shall be deemed to be effective as of the Effective Date): 
+A. Upfront Fee. Borrower shall have paid to Administrative Agent an upfront fee for the account of each
+Lender. The Lenders which are parties to the Original Credit Agreement shall be paid an upfront fee equal to 75 basis points multiplied by the dollar amount of the excess of their new Commitments over their then existing previous Commitments under
+the Original Credit Agreement.  B. Third Amendment to Credit Agreement. This Amendment to Credit
+Agreement shall be in full force and effect.  C. Notes. Borrower shall have executed and
+delivered to Administrative Agent the Amegy Replacement Note, the Scotia Replacement Note, the KeyBank Replacement Note and the Société Générale Replacement Note. 
+D. Fees and Expenses. Administrative Agent shall have received payment of all out-of-pocket fees and
+expenses (including reasonable attorneys fees and expenses) incurred by Administrative Agent in connection with the preparation, negotiation and execution of the Modification Papers. 
+E. Representations and Warranties. All representations and warranties contained herein or in the
+other Modification Papers or otherwise made in writing in connection herewith or therewith shall be true and correct in all material respects with the same force and effect as though such representations and warranties have been made on and as of
+the Effective Date, or if made as of a specific date, as of such date.  3. Amendments to Original Credit
+Agreement. On the Effective Date, the Original Credit Agreement is hereby amended as follows:  (a)
+Section 1.01 of the Original Credit Agreement is hereby amended by adding the following definitions in appropriate alphabetical order to read in their entirety as follows: 
+Borrowing Base Equalization Date means October 31, 2012. 
+Conforming Borrowing Base means at any time an amount equal to the amount determined in
+accordance with Article IV.  (b) The definitions of Applicable Rate and
+Applicable Usage Level contained in Section 1.01 of the Original Credit Agreement are hereby amended to read in their entirety as follows: 
+Applicable Rate means, from time to time, the following percentages per annum, based upon
+the Applicable Usage Level: 
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Page 2 
+
+
+
+
+
+ Applicable Rate 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ ApplicableUsage Level
+  
+Commitment fee
+ 
+Eurodollar RateLoans and Lettersof Credit
+ 
+Base Rate Loans
+
+
+
+ Level 1
+  
+0.50%
+ 
+2.00%
+ 
+1.00%
+
+ Level 2
+  
+0.50%
+ 
+2.25%
+ 
+1.25%
+
+ Level 3
+  
+0.50%
+ 
+2.50%
+ 
+1.50%
+
+ Level 4
+  
+0.50%
+ 
+2.75%
+ 
+1.75%
+
+ Level 5
+  
+0.50%
+ 
+3.50%
+ 
+2.50%
+ Any increase or decrease in the Applicable Rate resulting from a change in the Applicable Usage Level
+shall become effective as of the date of the change in the Applicable Usage Level. The Applicable Rate shall be Level 5 during any period that a Borrowing Base deficiency is being paid back in installments as permitted by
+Section 4.06.  Applicable Usage Level means on any date the level set
+forth below that corresponds to the percentage, as of the close of business on such day, equivalent to (a) Total Outstandings, divided by (b) prior to the Borrowing Base Equalization Date, the Conforming Borrowing Base, and on and after
+the Borrowing Base Equalization Date, the Borrowing Base:  Applicable Usage Level 
+ 
+
+
+
+
+
+
+
+
+ Level
+  
+ Usage Percent
+
+
+
+ Level 1
+  
+Less than 25%
+
+ Level 2
+  
+25% or greater but less than 50%
+
+ Level 3
+  
+50% or greater but less than 75%
+
+ Level 4
+  
+75% to 100%
+
+ Level 5
+  
+100% or greater
+ (c) Sections 4.01, 4.02, 4.03 and 4.04 of the Original Credit Agreement are hereby
+amended to read in their entirety as follows:  4.01. Borrowing Base. (a) The Borrowing Base
+shall represent the approval in their sole discretion of the Required Lenders or all Lenders, as applicable, of Agents determination of the maximum loan amount that may be supported by the oil and gas properties of the Loan Parties included in
+the most recent Reserve Report furnished to Agent, based upon Lenders in-house evaluation of such properties. The determination of the Borrowing Base (and, if applicable, the Conforming Borrowing Base) will be made in accordance with
+then-current practices, economic and pricing parameters, methodology, assumptions, and customary procedures and standards established by each Lender from time to time for its petroleum industry customers including without limitation (a) an
+analysis of such reserve and production data with respect to the Mineral Interests of the Loan Parties in all of their oil and gas properties, including the Mortgaged Properties, as is provided to Lenders in accordance herewith, (b) an analysis
+of the assets, liabilities, cash flow, business, properties, prospects, management and ownership of each Loan Party and its Affiliates, and (c) such other credit factors consistently applied as each Lender customarily considers in evaluating
+similar oil and gas credits. Borrower and Lenders acknowledge that (i) due to the uncertainties of the oil and gas extraction process, the properties included in any Reserve Report are not subject to evaluation with
+
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Page 3 
+
+
+
+
+
+ 
+a high degree of accuracy and are subject to potential rapid deterioration in value, and (ii) for this reason and the difficulties and expenses involved in liquidating and collecting against
+the Mortgaged Properties, the determination of the maximum loan amount with respect to the properties included in any Reserve Report contains an equity cushion (market value in excess of loan amount) which Borrower acknowledges to be essential for
+the adequate protection of Lenders.  (b) Until next determined as provided herein, the amount of the Borrowing
+Base shall be $125,000,000 and the amount of the Conforming Borrowing Base shall be $115,000,000. As of the Borrowing Base Equalization Date, the Borrowing Base shall equal the Conforming Borrowing Base, and all references to the Conforming
+Borrowing Base in this Agreement shall mean the Borrowing Base.  4.02. Periodic Determinations of
+Borrowing Base.  (a) On each April 1 and October 1 commencing April 1, 2012, until the
+Maturity Date, Borrower shall furnish to Agent a Reserve Report, which shall set out as of the six (6) months ending January 1 and July 1, respectively, the Proved Mineral Interests attributable to the Mortgaged Properties and such
+other oil and gas properties of the Loan Parties as Borrower may select. Each October 1 Reserve Report may be prepared by Borrowers own engineers and shall be certified by the President or other Responsible Officer of Borrower. Each
+April 1 Reserve Report shall be a complete report prepared by independent reservoir engineers reasonably acceptable to Agent relating to the Proved Mineral Interests attributable to the Mortgage Properties known as West Cote Blanche
+Bay and Permian Basin, and such other oil and gas properties of the Loan Parties as Borrower may select. In addition, Borrower may submit with each April 1 Reserve Report a separate Reserve Report prepared by Borrowers
+own engineers and certified by the President or other Responsible Officer of Borrower covering such other oil and gas properties of the Loan Parties as Borrower may select. Upon receipt of each such Reserve Report, Agent shall make a determination
+of the Borrowing Base (and, if applicable, the Conforming Borrowing Base) and the Monthly Reduction Amount which shall become effective upon approval by the Required Lenders or all Lenders in accordance with the procedure set forth in
+Section 4.04 and subsequent written notification from Agent to Borrower, and which, subject to the other provisions of this Agreement shall be the Borrowing Base (and, if applicable, the Conforming Borrowing Base) and the Monthly Reduction
+Amount until the effective date of the next redetermination as provided in this Article IV.  (b) In the event
+that Borrower does not furnish to Agent a Reserve Report by the dates specified in Section 4.02(a), then Agent and Lenders may nonetheless redetermine the Borrowing Base (and, if applicable, the Conforming Borrowing Base) and redesignate the
+Borrowing Base (and, if applicable, the Conforming Borrowing Base) from time to time thereafter in their sole discretion until Agent receives the relevant Reserve Report, whereupon Agent and Lenders shall redetermine the Borrowing Base (and, if
+applicable, the Conforming Borrowing Base) as otherwise specified in this Article IV.  4.03. Special
+Determinations of Borrowing Base.  (a) Special determinations of the Borrowing Base may be requested by
+Agent or Borrower not more than one time per calendar year each. If any special 
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Page 4 
+
+
+
+
+
+ 
+determination is requested by Borrower, it shall be accompanied by internally-prepared engineering data for the oil and gas reserves included in the Mortgaged Properties, and such additional
+properties as Borrower may select, brought forward from the most recent Reserve Report furnished by Borrower to Agent. If any special determination is requested by Agent, Borrower will provide Agent with internally prepared engineering data for the
+oil and gas reserves included in the Mortgaged Properties, and such additional properties as Borrower may select, updated from the most recent Reserve Report furnished to Agent, as soon as is reasonably practicable following the request. The
+determination whether to increase or decrease the Borrowing Base (and, if applicable, the Conforming Borrowing Base) and the Monthly Reduction Amount shall then be made in accordance with the standards set forth in Section 4.01 hereof and the
+procedures set forth in Section 4.04 hereof. In the event of any special determination of the Borrowing Base pursuant to this Section, Agent in the exercise of its discretion may suspend the next regularly scheduled determination of the
+Borrowing Base.  (b) Borrower shall give Agent ten (10) Business Days prior written notice of any proposed
+amendment, modification or termination of any Swap Contract or Forward Sales Contract, or any other action which Borrower or any Subsidiary proposes to take in connection with any Swap Contract or Forward Sales Contract which could impact its
+Recognized Value in the then current Borrowing Base. Agent reserves the right to redetermine the Borrowing Base (and, if applicable, the Conforming Borrowing Base). As the result of any such action, and any such redetermination shall not be
+considered a special determination requested by Agent within the meaning of the first sentence of Section 4.03(a). If requested by Borrower, Agent shall inform Borrower by email within such ten (10) Business Day period of the likely
+reduction of the Borrowing Base (and, if applicable, the Conforming Borrowing Base) as the result of any action described in the first sentence of this Section 4.03(b). 
+4.04. General Procedures With Respect to Determination of Borrowing Base. Agent shall propose a redetermined
+Borrowing Base (and, if applicable, a redetermined Conforming Borrowing Base) and a Monthly Reduction Amount within sixty (60) days following receipt by Agent and Lenders of a Reserve Report and other applicable information. After having
+received notice of such proposal from Agent, Required Lenders (or all Lenders in the event of a proposed increase in the Borrowing Base (and, if applicable, the Conforming Borrowing Base) or decrease in the Monthly Reduction Amount) shall have
+fifteen (15) days to agree or disagree with such proposal. At the end of such fifteen (15) day period, if Required Lenders (or all Lenders, in the event of a proposed increase of the Borrowing Base (and, if applicable, a proposed increase
+of the Conforming Borrowing Base) or decrease of the Monthly Reduction Amount) shall not have communicated their approval or disapproval, such silence shall be deemed an approval, and Agents proposal shall be the new Borrowing Base (and, if
+applicable, the new Conforming Borrowing Base) and Monthly Reduction Amount. If, however, Required Lenders (or any Lender, in the event of a proposed increase of the Borrowing Base (and, if applicable, a proposed increase of the Conforming Borrowing
+Base) or decrease of the Monthly Reduction Amount) notify Agent within such fifteen (15) days of their disapproval, Agent and Required Lenders (or all Lenders, in the event of a proposed increase of the Borrowing Base (and, if applicable, a
+proposed increase of the Conforming Borrowing Base) or decrease of the Monthly Reduction Amount) shall agree on a new Borrowing Base (and, if applicable, a new Conforming Borrowing Base) and Monthly Reduction Amount. If the Required Lenders (or all
+Lenders, in the event of a proposed increase of the Borrowing Base (and, if applicable, a proposed increase of the 
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Page 5 
+
+
+
+
+
+ 
+Conforming Borrowing Base) or decrease of the Monthly Reduction Amount) cannot agree on the amount of the Borrowing Base (and, if applicable, the Conforming Borrowing Base) or Monthly Reduction
+Amount, as applicable, within seven (7) days after Agent has been notified of their disapproval, then Agent shall propose a new redetermined Borrowing Base (and, if applicable, a new Conforming Borrowing Base) and a new Monthly Reduction Amount
+within fifteen (15) days after the end of such seven (7) day period and the foregoing process shall be repeated. This process shall be repeated until the Required Lenders (or all Lenders, in the event of a proposed increase of the
+Borrowing Base (and, if applicable, a proposed increase of the Conforming Borrowing Base) or decrease of the Monthly Reduction Amount) agree on a new Borrowing Base (and, if applicable, a new Conforming Borrowing Base) and Monthly Reduction Amount.
+In taking the above actions, Agent and Lenders shall act in accordance with their normal and customary procedures for evaluating oil and gas reserves and other related assets as such exist at that particular time and will otherwise act in their sole
+discretion. Further, each Lender may consider such other credit factors as it deems appropriate which are consistent with its normal and customary procedures for evaluating oil and gas reserves. Without limiting the foregoing, Lenders may exclude
+any oil and gas reserves or portion of production therefrom or any income from any other property from the Borrowing Base, at any time, because title information is not satisfactory or such oil and gas reserves are not Mortgaged Properties.
+ (d) Section 8.05(h) of the Original Credit Agreement is hereby amended to read in its entirety as
+follows:  (h) Asset Dispositions; provided that (1) all of the consideration received in respect to
+such Asset Disposition shall be cash or oil and gas properties to be included in the Borrowing Base pursuant to Section 4.08, (2) the consideration received shall be equal to or greater than the fair market value thereof (as reasonably
+determined by the board of directors or a Responsible Officer of Borrower and if requested by Agent, Borrower shall deliver a certificate of a Responsible Officer of Borrower certifying to that effect), and (3) to the extent that the Recognized
+Value of the aggregate of all Asset Dispositions in any calendar year exceeds 5% of the then effective Borrowing Base (or, if applicable, 5% of the then effective Conforming Borrowing Base), then the Borrowing Base (and, if applicable, the
+Conforming Borrowing Base) shall be reduced by the amount of such excess (by way of example, if after the Borrowing Base Equalization Date the Borrowing Base is $50,000,000 on September 1 and Asset Dispositions having a Recognized Value of
+$1,000,000 occur on February 1, May 1 and September 1, then on September 1, the Borrowing Base would automatically reduce by $500,000 ($3,000,000$2,500,000 = $500,000)); 
+4. Increase of Borrowing Base. As of the Effective Date the Borrowing Base is hereby increased from $90,000,000 to a
+Conforming Borrowing Base of $115,000,000 and a Borrowing Base of $125,000,000.  5. Adjustment of Applicable Percentages
+of Lenders. The Borrowing Base has been increased to $125,000,000 per Section 4 of this Amendment. On the Effective Date, Schedule 2.01 attached to the Original Credit Agreement shall be replaced with
+Schedule 2.01 attached to this Amendment, and the Applicable Percentages and the Commitments held by each Lender shall be as follows: 
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Page 6 
+
+
+
+
+
+ (a) Amegy Bank National Association will have a Commitment of $35,000,000
+(28% of the $125,000,000 Borrowing Base).  (b) The Bank of Nova Scotia will have a Commitment of $50,000,000
+(40% of the $125,000,000 Borrowing Base).  (c) KeyBank National Association will have a Commitment of
+$25,000,000 (20% of the $125,000,000 Borrowing Base).  (d) Société Générale will
+have a Commitment of $15,000,000 (12% of the $125,000,000 Borrowing Base).  6. New Notes. On the Effective Date,
+the Applicable Percentages of the maximum credit amounts of all Lenders are now set forth on Schedule 2.01 attached to this Amendment. Accordingly, on the Effective Date, Borrower shall issue the following Notes: 
+(a) Borrower shall issue to Amegy Bank, National Association a new Note (the Amegy Replacement
+Note), in the original principal sum of $98,000,000 (28% of $350,000,000) dated the Effective Date to replace the existing Note to Amegy Bank, National Association in the amount of $97,222,222.22 dated May 3, 2011. 
+(b) Borrower shall issue to The Bank of Nova Scotia a new Note (the Scotia Replacement Note), in
+the original principal sum of $140,000,000 (40% of $350,000,000) dated the Effective Date to replace the existing Note to The Bank of Nova Scotia in the amount of $136,111,111.12 dated May 3, 2011. 
+(c) Borrower shall issue to KeyBank National Association a new Note (the KeyBank Replacement
+Note), in the original principal sum of $70,000,000 (20% of $350,000,000) dated the Effective Date to replace the existing Note to The KeyBank National Association in the amount of $58,333,333.33 dated May 3, 2011. 
+(d) Borrower shall issue to Société Générale a new Note (the Société
+Générale Replacement Note), in the original principal sum of $42,000,000 (12% of $350,000,000) dated the Effective Date to replace the existing Note to Société Générale in the amount of
+$58,333,333.33 dated May 3, 2011.  7. Certain Representations. Borrower represents and warrants that, as of
+the Effective Date: (a) Borrower has full power and authority to execute the Modification Papers and the Modification Papers constitute the legal, valid and binding obligation of Borrower enforceable in accordance with their terms, except as
+enforceability may be limited by general principles of equity and applicable bankruptcy, insolvency, reorganization, moratorium, and other similar laws affecting the enforcement of creditors rights generally; and (b) no authorization,
+approval, consent or other action by, notice to, or filing with, any Governmental Authority or other Person is required for the execution, delivery and performance by Borrower thereof. In addition, Borrower represents that after giving effect to
+this Amendment, all representations and warranties contained in the Original Credit Agreement and the other Loan Documents are true and correct in all material respects on and as of the Effective Date as if made on and as of such date except to the
+extent that any such representation or warranty expressly relates solely to an earlier date, in which case such representation or warranty is true and correct in all material respects as of such earlier date. 
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Page 7 
+
+
+
+
+
+ 8. No Further Amendments. Except as previously amended in writing or as
+amended hereby, the Original Credit Agreement shall remain unchanged and all provisions shall remain fully effective between the parties.  9. Acknowledgments and Agreements. Borrower acknowledges that on the date hereof all outstanding Obligations are payable in accordance with their terms, and Borrower waives any defense,
+offset, counterclaim or recoupment with respect thereto. Borrower, Administrative Agent, L/C Issuer and each Lender do hereby adopt, ratify and confirm the Original Credit Agreement, as amended hereby, and acknowledge and agree that the Original
+Credit Agreement, as amended hereby, is and remains in full force and effect. Borrower acknowledges and agrees that its liabilities and obligations under the Original Credit Agreement, as amended hereby, and under the Loan Documents, are not
+impaired in any respect by this Amendment.  10. Limitation on Agreements. The modifications set forth herein are
+limited precisely as written and shall not be deemed (a) to be a consent under or a waiver of or an amendment to any other term or condition in the Original Credit Agreement or any of the Loan Documents, or (b) to prejudice any right or
+rights which Administrative Agent now has or may have in the future under or in connection with the Original Credit Agreement and the Loan Documents, each as amended hereby, or any of the other documents referred to herein or therein. The
+Modification Papers shall constitute Loan Documents for all purposes.  11. Confirmation of Security. Borrower
+hereby confirms and agrees that all of the Collateral Documents which presently secure the Obligations shall continue to secure, in the same manner and to the same extent provided therein, the payment and performance of the Obligations as described
+in the Original Credit Agreement as modified by this Amendment.  12. Counterparts. This Amendment may be
+executed in any number of counterparts, each of which when executed and delivered shall be deemed an original, but all of which constitute one instrument. In making proof of this Amendment, it shall not be necessary to produce or account for more
+than one counterpart thereof signed by each of the parties hereto.  13. Incorporation of Certain Provisions by
+Reference. The provisions of Section 11.15. of the Original Credit Agreement captioned Governing Law, Jurisdiction; Etc. and Section 11.16. of the Original Credit Agreement captioned Waiver of Right to Trial by
+Jury are incorporated herein by reference for all purposes.  14. Entirety, Etc. This Amendment and all of
+the other Loan Documents embody the entire agreement between the parties. THIS AMENDMENT, THE OTHER MODIFICATION PAPERS AND ALL OF THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF
+PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES. 
+[This space is left intentionally blank. Signature pages follow.] 
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Page 8 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have executed this Amendment to be effective as of
+the date and year first above written.   
+
+
+
+
+
+
+
+
+
+
+BORROWER
+
+
+
+GULFPORT ENERGY CORPORATION
+
+
+
+
+By:
+ 
+        /s/ Michael G. Moore
+
+
+ 
+Name: Michael G. Moore
+
+
+ 
+Title: VP and CFO
+
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Signature Page 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE AGENT
+
+
+
+THE BANK OF NOVA SCOTIA,
+
+as Administrative Agent
+
+
+
+
+By:
+ 
+        /s/ Marc Graham
+
+
+ 
+Name: Marc Graham
+
+
+ 
+Title: Director
+
+
+
+LENDER
+
+
+
+THE BANK OF NOVA SCOTIA
+
+
+
+
+By:
+ 
+        /s/ Marc Graham
+
+
+ 
+Name: Marc Graham
+
+
+ 
+Title: Director
+
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Signature Page 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+LENDER
+
+
+
+AMEGY BANK NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+        /s/ David T. Helffrich, III
+
+
+ 
+Name: David T. Helffrich, III
+
+
+ 
+Title: Vice President
+
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Signature Page 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+LENDER
+
+
+
+KEYBANK NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+        /s/ David Morris
+
+
+ 
+Name: David Morris
+
+
+ 
+Title: Vice President
+
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Signature Page 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+LENDER
+
+
+
+SOCIÉTÉ GÉNÉRALE
+
+
+
+
+By:
+ 
+        /s/ David M. Bornstein
+
+
+ 
+Name: David M. Bornstein
+
+
+ 
+Title: Director
+
+   THIRD
+AMENDMENT TO CREDIT AGREEMENT  Signature Page 
+
+
+
+
+
+ SCHEDULE 2.01  Commitments and Applicable Percentages   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lender
+  
+Applicable Percentage
+ 
+ 
+Commitment1
+ 
+  
+Maximum CreditAmount2
+ 
+
+
+
+ Amegy Bank National Association
+  
+ 
+28
+% 
+ 
+$
+35,000,000
+  
+  
+$
+98,000,000
+  
+
+ The Bank of Nova Scotia
+  
+ 
+40
+% 
+ 
+$
+50,000,000
+  
+  
+$
+140,000,000
+  
+
+ KeyBank National Association
+  
+ 
+20
+% 
+ 
+$
+25,000,000
+  
+  
+$
+70,000,000
+  
+
+ Société Générale
+  
+ 
+12
+% 
+ 
+$
+15,000,000
+  
+  
+$
+42,000,000
+  
+
+ Total
+  
+ 
+100.000000000
+% 
+ 
+$
+125,000,000
+  
+  
+$
+350,000,000
+  
+  
+
+
+1 
+ Based on a Borrowing Base of $125,000,000. 
+
+
+2 
+ The numbers in this column are based upon a hypothetical Borrowing Base of $350,000,000. 
+   SCHEDULE
+2.01  Solo Page 
+
+
+

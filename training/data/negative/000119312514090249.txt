@@ -1,0 +1,1334 @@
+
+EX-10.1.9
+2
+d658897dex1019.htm
+EX-10.1.9
+
+
+EX-10.1.9
+
+ 
+
+ Exhibit 10.1.9 
+Execution Version   
+  NINTH AMENDMENT TO 
+SECOND AMENDED AND RESTATED CREDIT AGREEMENT 
+Dated March 7, 2014 
+Among  RESOLUTE ENERGY
+CORPORATION,  as Borrower, 
+CERTAIN OF ITS SUBSIDIARIES, 
+as Guarantors,  WELLS
+FARGO BANK, NATIONAL ASSOCIATION,  as Administrative Agent, 
+BANK OF MONTREAL,  as
+Syndication Agent,    BARCLAYS BANK PLC, CITIBANK, N.A. and
+ U.S. BANK NATIONAL ASSOCIATION, 
+as Co-Documentation Agents, 
+and  The Lenders Party
+Hereto  WELLS FARGO SECURITIES, LLC 
+and BMO CAPITAL MARKETS 
+as Joint Bookrunners and Joint Lead Arrangers   
+ 
+
+
+
+
+ THIS NINTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT (this Ninth
+Amendment), dated as of March 7, 2014, is by and among Resolute Energy Corporation, a Delaware corporation (the Borrower), certain of its subsidiaries (collectively, the Guarantors), Wells Fargo
+Bank, National Association, as Administrative Agent (the Administrative Agent) and the lenders party hereto (the Lenders). 
+Recitals  WHEREAS,
+the Borrower, the Guarantors, the Administrative Agent and the other lenders party thereto entered into that certain Second Amended and Restated Credit Agreement, dated as of March 30, 2010 (as amended by the First Amendment to Second Amended
+and Restated Credit Agreement dated April 13, 2011, the Second Amendment to Second Amended and Restated Credit Agreement dated April 20, 2011, the Third Amendment to Second Amended and Restated Credit Agreement dated as of April 13,
+2012, the Fourth Amendment to Second Amended and Restated Credit Agreement dated as of December 7, 2012, the Fifth Amendment to Second Amended and Restated Credit Agreement dated as of December 27, 2012, the Sixth Amendment to Second
+Amended and Restated Credit Agreement dated as of March 22, 2013, the Seventh Amendment to Second Amended and Restated Credit Agreement dated as of April 15, 2013 and the Eighth Amendment to Second Amended and Restated Credit Agreement
+dated as of December 13, 2013 and as the same may be further amended, modified, supplemented or restated from time to time, the Credit Agreement); 
+WHEREAS, the Borrower has requested that the Administrative Agent and the Lenders amend the Credit Agreement as set forth herein; and
+ WHEREAS, subject to the satisfaction of the conditions set forth herein, the Administrative Agent and the Lenders are willing to
+amend the Credit Agreement as provided herein.  NOW, THEREFORE, in consideration of the premises and the mutual covenants contained
+herein and in the Credit Agreement, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound, hereby agree as follows: 
+ARTICLE I  Definitions
+ Each capitalized term used in this Ninth Amendment and not defined herein shall have the meaning assigned to such term in the Credit
+Agreement. Unless otherwise indicated, all section references in this Ninth Amendment refer to sections of the Credit Agreement. 
+ARTICLE II  Amendments
+ As of the Ninth Amendment Effective Date, the Credit Agreement is amended as follows: 
+   1 
+
+
+
+
+
+ Section 2.01 Amendments to Section 1.02 of the Credit Agreement. 
+(a) Section 1.02 of the Credit Agreement is hereby amended by adding the following new definitions in their proper alphabetical order:
+ Ninth Amendment means that certain Ninth Amendment to Second Amended and Restated Credit
+Agreement, dated as of March 7, 2014, among the Borrower, the Guarantors, the Administrative Agent and the Lenders party thereto. 
+Ninth Amendment Effective Date means the first Business Day on which all of the conditions precedent
+set forth in Article III of the Ninth Amendment shall have been satisfied (or waived in accordance with Section 12.02). 
+Senior Secured Debt means as of any date of determination all Funded Debt on such date minus,
+to the extent included therein, (a) all unsecured Debt of the Borrower and its Consolidated Restricted Subsidiaries and (b) all Debt of the Borrower and its Consolidated Restricted Subsidiaries that is secured by Liens expressly
+subordinated to the Liens securing the Indebtedness under the Loan Documents.  (b) Section 1.02 of the Credit Agreement is
+hereby amended by deleting each of the following definitions in their entirety and inserting in Section 1.02 the following definitions in lieu thereof: 
+Agreement means this Second Amended and Restated Credit Agreement, as amended by the First Amendment,
+the Second Amendment, the Third Amendment, the Fourth Amendment, the Fifth Amendment, the Sixth Amendment, the Seventh Amendment, the Eighth Amendment and the Ninth Amendment, as the same may from time to time be amended, modified, supplemented or
+restated.  EBITDA means, for any period, the sum of (a) Consolidated Net Income for such
+period, plus (b) the following expenses or charges to the extent deducted from Consolidated Net Income in such period: (i) interest, (ii) income and franchise taxes, and (iii) depreciation, depletion, amortization, and
+other non-cash charges, minus (c) all non-cash income added to Consolidated Net Income; provided that (x) for the four quarter period ending on December 31, 2013, EBITDA shall equal EBITDA for the fiscal quarter ending
+on December 31, 2013, multiplied by 4, (y) for the four quarter period ending on March 31, 2014, EBITDA shall equal EBITDA for the period beginning on October 1, 2013 and ending on March 31, 2014, multiplied by 2, and
+(z) for the four quarter period ending on June 30, 2014, EBITDA shall equal EBITDA for the period beginning on October 1, 2013 and ending on June 30, 2014, multiplied by 4/3. 
+   2 
+
+
+
+
+
+ Section 2.02 Amendment to Section 9.01(b). Section 9.01(b) of the Credit
+Agreement is hereby amended and restated in its entirety as follows:  (b) Maximum Leverage Ratio. The Loan
+Parties will not, as of the last day of any fiscal quarter for which financial statements have been provided pursuant to Section 8.01(a) or (b), permit the ratio of Funded Debt as of such date to EBITDA of the Borrower and its
+Consolidated Restricted Subsidiaries for the four (4) quarter period ending on such date (or for such other period and subject to such other manner of calculation as is provided in the definition of EBITDA) to be greater than the applicable
+ratio set forth below:   
+
+
+
+
+
+
+
+
+
+
+ Quarter Ending
+  
+ Maximum LeverageRatio
+ 
+
+
+
+ December 31, 2012
+  
+ 
+4:25:1.00
+  
+
+ March 31, 2013
+  
+ 
+4.85:1.00
+  
+
+ June 30, 2013  December 31, 2013
+  
+ 
+4.50:1.00
+  
+
+ March 31, 2014  June 30, 2014
+  
+ 
+4.90:1.00
+  
+
+ September 30, 2014  December 31, 2014
+  
+ 
+4.75:1.00
+  
+
+ March 31, 2015 and thereafter
+  
+ 
+4.00:1.00
+  
+ Section 2.03 Amendment to Section 9.01. Section 9.01 of the Credit Agreement is hereby
+amended by adding the following paragraph to the end thereof:  (c) Maximum Senior Secured Leverage Ratio. The
+Loan Parties will not, as of the last day of each of the fiscal quarters ending on March 31, 2014, June 30, 2014, September 30, 2014 and December 31, 2014, permit the ratio of Senior Secured Debt as of such date to
+EBITDA of the Borrower and its Consolidated Restricted Subsidiaries for the four (4) quarter period ending on such date (or for such other period and subject to such other manner of calculation as is provided in the definition of EBITDA) to be
+greater than 2.75:1.00. The applicability of this provision shall expire on March 31, 2015.  ARTICLE III 
+Conditions Precedent  This
+Ninth Amendment shall become effective on the first Business Day on which all of the following conditions precedent shall have been satisfied (or waived in accordance with Section 12.02 of the Credit Agreement): 
+(a) The Administrative Agent shall have received from the Borrower, each of the Guarantors and the Majority Lenders, counterparts (in such
+number as may be requested by the Administrative Agent) of this Ninth Amendment signed on behalf of such Persons. 
+   3 
+
+
+
+
+
+ (b) The Administrative Agent shall have received from the Borrower (i) an amendment fee for
+each Lender party to the Ninth Amendment on such date in an amount equal to 0.10% of such Lenders Commitment, and (ii) all other fees and amounts due and payable on or prior to the Ninth Amendment Effective Date, including, to the extent
+invoiced, reimbursement or payment of all out-of-pocket expenses required to be reimbursed or paid by the Borrower hereunder.  ARTICLE
+IV  Representations and Warranties 
+Each Loan Party hereby represents and warrants to each Lender that: 
+(a) Each of the representations and warranties made by it under the Credit Agreement and each other Loan Document is true and correct on and as
+of the actual date of its execution of this Ninth Amendment, as if made on and as of such date, except for any representations and warranties made as of a specified date, which are true and correct as of such specified date. 
+(b) Immediately after giving effect to, this Ninth Amendment, no Default has occurred and is continuing. 
+(c) The execution, delivery and performance by it of this Ninth Amendment have been duly authorized by it. 
+(d) This Ninth Amendment constitutes its legal, valid and binding obligation, enforceable against it in accordance with its terms. 
+(e) The execution, delivery and performance by it of this Ninth Amendment (i) does not require any consent or approval of, registration or
+filing with, or any other action by, any Governmental Authority or any other third Person (including shareholders or any class of directors, whether interested or disinterested, of it or any other Person), nor is any such consent, approval,
+registration, filing or other action necessary for the validity or enforceability of this Ninth Amendment or any Loan Document or the consummation of the transactions contemplated thereby, except such as have been obtained or made and are in full
+force and effect other than those third party approvals or consents which, if not made or obtained, would not cause a Default hereunder, could not reasonably be expected to have a Material Adverse Effect or do not have an adverse effect on the
+enforceability of the Loan Documents, (ii) will not violate any applicable law or regulation or the charter, by-laws or other organizational documents of it or any Restricted Subsidiary or any order of any Governmental Authority,
+(iii) will not violate or result in a default under any indenture, agreement or other instrument binding upon it or any Restricted Subsidiary or its Properties, or give rise to a right thereunder to require any payment to be made by the it or
+such Restricted Subsidiary and (iv) will not result in the creation or imposition of any Lien on any Property of any Loan Party or any Restricted Subsidiary (other than the Liens created by this Ninth Amendment or the Loan Documents). 
+   4 
+
+
+
+
+
+ ARTICLE V 
+Miscellaneous 
+Section 5.01 Credit Agreement in Full Force and Effect as Amended. Except as specifically amended hereby, the Credit Agreement and
+other Loan Documents shall remain in full force and effect. Each of the Loan Parties hereby agrees that its liabilities under the Credit Agreement, the Guaranty and Collateral Agreement and the other Loan Documents, in each case as amended, to which
+it is a party, shall remain enforceable against such Loan Party in accordance with the terms thereof and shall not be reduced, altered, limited, lessened or in any way affected by the execution and delivery of this Ninth Amendment, and each Loan
+Party hereby confirms and ratifies its liabilities under the Loan Documents (as so amended) to which it is a party in all respects. Except as expressly set forth herein, this Ninth Amendment shall not be deemed to be a waiver, amendment or
+modification of any provisions of the Credit Agreement or any other Loan Document or any right, power or remedy of the Administrative Agent or Lenders, or constitute a waiver of any provision of the Credit Agreement or any other Loan Document, or
+any other document, instrument and/or agreement executed or delivered in connection therewith or of any Default or Event of Default under any of the foregoing, in each case whether arising before or after the date hereof or as a result of
+performance hereunder or thereunder. This Ninth Amendment also shall not preclude the future exercise of any right, remedy, power, or privilege available to the Administrative Agent and/or Lenders whether under the Credit Agreement, the other Loan
+Documents, at law or otherwise. The parties hereto agree to be bound by the terms and conditions of the Credit Agreement and Loan Documents as amended by this Ninth Amendment, as though such terms and conditions were set forth herein. Each reference
+in the Credit Agreement to this Agreement, hereunder, hereof, herein or words of similar import shall mean and be a reference to the Credit Agreement as amended by this Ninth Amendment, and each
+reference herein or in any other Loan Documents to the Credit Agreement shall mean and be a reference to the Credit Agreement as amended and modified by this Ninth Amendment. 
+Section 5.02 GOVERNING LAW. THIS NINTH AMENDMENT, AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER, SHALL BE
+CONSTRUED IN ACCORDANCE WITH AND BE GOVERNED BY THE LAWS OF THE STATE OF NEW YORK.  Section 5.03 Descriptive Headings,
+Etc. The descriptive headings of the sections of this Ninth Amendment are inserted for convenience only and shall not be deemed to affect the meaning or construction of any of the provisions hereof. The statements made and the terms defined in
+the recitals to this Ninth Amendment are hereby incorporated into this Ninth Amendment in their entirety.  Section 5.04 Payment of
+Fees and Expenses. In addition to paying to the Administrative Agent for the account of the Lenders the fees described in clause (b)(i) of Article III above, the Borrower agrees to pay or reimburse the Administrative Agent for all of its
+reasonable out-of-pocket costs and expenses incurred in connection with this Ninth Amendment, the Loan Documents and any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the
+reasonable fees and disbursements of counsel to the Administrative Agent. The agreement set forth in this Section 5.04 shall survive the termination of this Ninth Amendment and the Credit Agreement. 
+   5 
+
+
+
+
+
+ Section 5.05 Entire Agreement. This Ninth Amendment and the documents referred to
+herein represent the entire understanding of the parties hereto regarding the subject matter hereof and supersede all prior and contemporaneous oral and written agreements of the parties hereto with respect to the subject matter hereof. This Ninth
+Amendment is a Loan Document executed under the Credit Agreement.  Section 5.06 Counterparts. This Ninth Amendment may be
+executed in any number of counterparts and by different parties on separate counterparts, each of which shall constitute an original but all of which when taken together shall constitute but one agreement. Delivery of an executed counterpart of the
+signature page of this Ninth Amendment by facsimile or other electronic transmission shall be effective as delivery of a manually executed counterpart thereof. 
+Section 5.07 Successors. The execution and delivery of this Ninth Amendment by any Lender shall be binding upon each of its
+successors and assigns.  [Signatures Begin on Next Page] 
+   6 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Ninth Amendment to be duly
+executed by their respective authorized officers as of the date first written above.  BORROWER: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+RESOLUTE ENERGY CORPORATION
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Theodore Gazulis
+
+
+ 
+
+ 
+Name:
+ 
+Theodore Gazulis
+
+
+ 
+
+ 
+Title:
+ 
+Executive Vice President and
+
+
+ 
+
+ 
+
+ 
+Chief Financial Officer
+
+
+
+
+
+GUARANTORS:
+ 
+
+ 
+HICKS ACQUISITION COMPANY I, INC.
+
+
+
+
+
+
+ 
+
+ 
+RESOLUTE ANETH, LLC
+
+
+
+
+
+
+ 
+
+ 
+RESOLUTE WYOMING, INC. (f/k/a Primary Natural Resources, Inc.)
+
+
+
+
+
+
+ 
+
+ 
+RESOLUTE NATURAL RESOURCES COMPANY, LLC (f/k/a Resolute Natural Resources Company)
+
+
+
+
+
+
+ 
+
+ 
+BWNR, LLC
+
+
+
+
+
+
+ 
+
+ 
+WYNR, LLC
+
+
+
+
+
+
+ 
+
+ 
+RESOLUTE NORTHERN ROCKIES, LLC
+
+
+
+
+
+
+ 
+
+ 
+RESOLUTE NATURAL RESOURCES
+
+
+ 
+
+ 
+SOUTHWEST, LLC
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Theodore Gazulis
+
+
+ 
+
+ 
+Name:
+ 
+Theodore Gazulis
+
+
+ 
+
+ 
+Title:
+ 
+Executive Vice President and
+
+
+ 
+
+ 
+
+ 
+Chief Financial Officer
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE AGENT
+ 
+
+ 
+
+
+AND LENDER:
+ 
+
+ 
+ WELLS FARGO BANK, NATIONAL
+ASSOCIATION, successor-by-merger to Wachovia Bank,
+National Association, as Administrative Agent and a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Suzanne F Ridenhour
+
+
+ 
+
+ 
+Name:
+ 
+Suzanne F Ridenhour
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ WELLS FARGO BANK, NATIONAL
+ASSOCIATION
+
+
+
+
+
+
+
+ 
+
+ 
+ By:
+ 
+ /s/ Suzanne F Ridenhour
+
+
+ 
+
+ 
+Name:
+ 
+Suzanne F Ridenhour
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF MONTREAL
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Gumaro Tijerina
+
+
+ 
+
+ 
+Name:
+ 
+Gumaro Tijerina
+
+
+ 
+
+ 
+Title:
+ 
+Managing Director
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BARCLAYS BANK PLC
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Nina Guinchard
+
+
+ 
+
+ 
+Name:
+ 
+Nina Guinchard
+
+
+ 
+
+ 
+Title:
+ 
+Assistant Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+CITIBANK, N.A.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Eamon Baqui
+
+
+ 
+
+ 
+Name:
+ 
+Eamon Baqui
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+U.S. BANK NATIONAL ASSOCIATION
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Jonathan H. Lee
+
+
+ 
+
+ 
+Name:
+ 
+Jonathan H. Lee
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+UNION BANK, N.A.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Rachel Bowman
+
+
+ 
+
+ 
+Name:
+ 
+Rachel Bowman
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BRANCH BANKING AND TRUST COMPANY
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Matt McCain
+
+
+ 
+
+ 
+Name:
+ 
+Matt McCain
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+CAPITAL ONE, NATIONAL ASSOCIATION
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Kristin N. Oswald
+
+
+ 
+
+ 
+Name:
+ 
+Kristin N. Oswald
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+COMERICA BANK
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Caroline M. McClurg
+
+
+ 
+
+ 
+Name:
+ 
+Caroline M. McClurg
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+SUNTRUST BANK
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Andrew Johnson
+
+
+ 
+
+ 
+Name:
+ 
+Andrew Johnson
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ING CAPITAL LLC
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Charles Hall
+
+
+ 
+
+ 
+Name:
+ 
+Charles Hall
+
+
+ 
+
+ 
+Title:
+ 
+Managing Director
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Juli Bieser
+
+
+ 
+
+ 
+Name:
+ 
+Juli Bieser
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+KEYBANK NATIONAL ASSOCIATION
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Paul J. Pace
+
+
+ 
+
+ 
+Name:
+ 
+Paul J. Pace
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ASSOCIATED BANK, N.A.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Brian Caddell
+
+
+ 
+
+ 
+Name:
+ 
+Brian Caddell
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+CADENCE BANK, N.A.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Eric Broussard
+
+
+ 
+
+ 
+Name:
+ 
+Eric Broussard
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+GUARANTY BANK AND TRUST COMPANY
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Gail J. Nofsinger
+
+
+ 
+
+ 
+Name:
+ 
+Gail J. Nofsinger
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President
+
+   Signature Page to 
+Ninth Amendment to Second Amended and Restated Credit Agreement 
+
+
+

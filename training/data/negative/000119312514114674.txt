@@ -1,0 +1,616 @@
+
+EX-10.22.5.9.7
+2
+d661890dex1022597.htm
+EX-10.22.5.9.7
+
+
+EX-10.22.5.9.7
+
+ 
+
+ Exhibit 10.22.5.9.7 
+ASSIGNMENT AGREEMENT 
+THIS ASSIGNMENT AGREEMENT (as amended, supplemented, restated or otherwise modified from time to time, this Agreement) is
+dated as of the Assignment Date (as such term is defined hereinafter), by and among AMEGY BANK NATIONAL ASSOCIATION, a national banking association (Assignor), COMPASS BANK (successor in interest to Guaranty Bank, FSB)
+(Compass), WELLS FARGO BANK, NATIONAL ASSOCIATION (Wells), JPMORGAN CHASE BANK, N.A. (JPMC), and KEYBANK NATIONAL ASSOCIATION (KeyBank, and Compass, Wells, JPMC and KeyBank,
+collectively, the Assignees).  RECITALS 
+WHEREAS, Assignor is a party to the Second Amended and Restated Credit Agreement dated effective July 30, 2010, as amended by that
+certain First Amendment to Second Amended and Restated Credit Agreement dated effective September 30, 3010, that certain Second Amendment to Second Amended and Restated Credit Agreement dated effective June 22, 2011, that certain Third
+Amendment to Second Amended and Restated Credit Agreement dated effective December 8, 2011, that certain Fourth Amendment to Second Amended and Restated Credit Agreement dated effective June 25, 2012, that certain Fifth Amendment to Second
+Amended and Restated Credit Agreement dated effective November 26, 2012, and that certain Sixth Amendment to Second Amended and Restated Credit Agreement dated effective June 28, 2013 (as amended, supplemented, restated or otherwise
+modified from time to time, the Credit Agreement), by and among PrimeEnergy Corporation (the Borrower), certain other parties, each of the lenders that is or becomes a party thereto as provided in
+Section 9.1(b) of the Credit Agreement (individually, together with its successors and assigns, a Lender, and collectively, together with their successors and assigns, the Lenders), and Compass, as agent
+for the Lenders and certain other parties under certain circumstances (in such capacity, together with its successors in such capacity, the Agent); and 
+WHEREAS, Assignor proposes to sell, assign and transfer to the Assignees, and each of the Assignees proposes to purchase and assume from
+Assignor, that portion of Assignors Facility Amount and its outstanding Loans set forth herein for the relevant Assignee, all on the terms and conditions of this Agreement; 
+NOW, THEREFORE, in consideration of the foregoing and the mutual agreements contained herein, and for other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:  ARTICLE I 
+DEFINITIONS AND INTERPRETATION 
+1.1 Definitions from Credit Agreement. All capitalized terms used but not defined herein have the respective meanings given to such
+terms in the Credit Agreement. 
+
+
+
+
+ 1.2 Additional Defined Terms. As used herein, the following terms have the following
+respective meanings:  Assigned Interest shall mean, as to each of the Assignees, that percentage set forth below as to
+each of the Assignees of Assignors (in its capacity a Lender) rights and obligations (i) under the Credit Agreement and the other Loan Documents in respect of the Facility Amount of Assignor in the principal amount equal to
+$32,327,586.21, as of the Assignment Date, and (ii) to make Loans and participate in Letters of Credit under its Commitment and to receive payments for the Loans currently outstanding under its Commitments, plus the interest and fees which will
+accrue with respect thereto from and after the Assignment Date (resulting in the Dollar amount of such Facility Amount set forth below under the heading Assigned Facility Amount as to the relevant Assignee): 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Assignee
+  
+Assigned Percentage ofAssignors Facility Amount
+ 
+ 
+Assigned Facility Amount
+ 
+
+
+
+ Compass
+  
+ 
+37.85714287040
+% 
+ 
+$
+12,238,300.50
+  
+
+ Wells
+  
+ 
+25.42857141973
+% 
+ 
+$
+8,220,443.35
+  
+
+ JPMC
+  
+ 
+6.23809524693
+% 
+ 
+$
+2,016,625.62
+  
+
+ KeyBank
+  
+ 
+30.47619046293
+% 
+ 
+$
+9,852,216.74
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+
+  
+ 
+100.00000000000
+% 
+ 
+$
+32,327,586.21
+  
+ Assignment Date shall mean December 23, 2013. 
+1.3 References. References in this Agreement to Schedule, Exhibit, Article, or Section numbers shall be to Schedules, Exhibits,
+Articles, or Sections of this Agreement, unless expressly stated to the contrary. References in this Agreement to hereby, herein, hereinafter, hereinabove, hereinbelow, hereof,
+hereunder and words of similar import shall be to this Agreement in its entirety and not only to the particular Schedule, Exhibit, Article, or Section in which such reference appears. Except as otherwise indicated, references in this
+Agreement to statutes, sections, or regulations are to be construed as including all statutory or regulatory provisions consolidating, amending, replacing, succeeding, or supplementing the statute, section, or regulation referred to. References in
+this Agreement to writing include printing, typing, lithography, facsimile reproduction, and other means of reproducing words in a tangible visible form. References in this Agreement to agreements and other contractual instruments shall
+be deemed to include all exhibits and appendices attached thereto and all subsequent amendments and other modifications to such instruments, but only to the extent such amendments and other modifications are not prohibited by the terms of this
+Agreement. References in this Agreement to Persons include their respective successors and permitted assigns.  1.4 Articles and
+Sections. This Agreement, for convenience only, has been divided into Articles and Sections; and it is understood that the rights and other legal relations of the parties hereto shall be determined from this instrument as an entirety and without
+regard to the aforesaid division into Articles and Sections and without regard to headings prefixed to such Articles or Sections.  1.5
+Number and Gender. Whenever the context requires, reference herein made to the single number shall be understood to include the plural; and likewise, the plural shall be 
+   - 2 - 
+
+
+
+
+
+ 
+understood to include the singular. Definitions of terms defined in the singular or plural shall be equally applicable to the plural or singular, as the case may be, unless otherwise indicated.
+Words denoting sex shall be construed to include the masculine, feminine and neuter, when such construction is appropriate; and specific enumeration shall not exclude the general but shall be construed as cumulative. 
+1.6 Negotiated Transaction. Each party to this Agreement affirms to the other party hereto that it has had the opportunity to consult,
+and discuss the provisions of this Agreement with, independent counsel and fully understands the legal effect of each provision. 
+ARTICLE II  SALE AND
+ASSIGNMENT  2.1 Sale and Assignment. On the terms and conditions set forth herein, effective on and as of the Assignment
+Date, Assignor hereby sells, assigns and transfers to each of the Assignees, and each of the Assignees hereby purchases and assumes from Assignor, all of the right, title and interest of Assignor in and to, and all of the obligations of Assignor in
+respect of, the Assigned Interest of the relevant Assignee. Such sale, assignment and transfer is without recourse and, except as expressly provided in this Agreement, without representation or warranty. 
+2.2 Assumption of Obligations. Each of the Assignees agrees with Assignor (for the express benefit of Assignor and the Borrower) that
+such Assignee will, from and after the Assignment Date, assume and perform all of the obligations of Assignor in respect of the Assigned Interest of the relevant Assignee. From and after the Assignment Date: (a) Assignor shall be released from
+its obligations in respect of the Assigned Interests and (b) each of the Assignees shall be entitled to all of Assignors respective rights, powers and privileges under the Credit Agreement and the other Loan Documents in respect of the
+Assigned Interest of the relevant Assignee.  2.3 Consent by Agent. By executing this Agreement as provided below, in accordance
+with Section 9.1(b) of the Credit Agreement, the Agent hereby acknowledges notice of the transactions contemplated by this Agreement and consents to such transactions. 
+ARTICLE III  PAYMENTS
+ 3.1 Payments. As consideration for the sale, assignment and transfer contemplated by Section 2.1, each of the
+Assignees shall, on the Assignment Date: (a) assume Assignors obligations in respect of the Assigned Interest of the relevant Assignee and (b) pay to Assignor an amount equal to the Loan Balance, if any, and all accrued and unpaid
+interest and fees with respect to the Assigned Interest of the relevant Assignee as of the Assignment Date. Except as otherwise provided in this Agreement, all payments hereunder shall be made in Dollars and in immediately available funds, without
+setoff, deduction or counterclaim.  3.2 Allocation of Payments. Assignor and the Assignees agree that: (a) Assignor shall be
+entitled to any payments of principal with respect to the Assigned Interests made prior to 
+   - 3 - 
+
+
+
+
+
+ 
+the Assignment Date, together with any interest and fees with respect to the Assigned Interest accrued prior to the Assignment Date; (b) each of the Assignees shall be entitled to any
+payments of principal with respect to the Assigned Interest of the relevant Assignee made from and after the Assignment Date, together with any and all interest and fees with respect to the Assigned Interest of the relevant Assignee accruing from
+and after the Assignment Date; and (c) the Agent is authorized and instructed to allocate payments received by it for the account of Assignor and the Assignees as provided in the foregoing clauses. Each party hereto agrees that it will hold any
+interest, fees or other amounts that it may receive to which any other party hereto shall be entitled pursuant to the preceding sentence for the account of such other party and pay, in like money and funds, any such amounts that it may receive to
+such other party promptly upon receipt.  3.3 Delivery of Note. Promptly following the receipt by Assignor of the consideration
+required to be paid by an Assignee under Section 3.1 hereof, Assignor shall: (a) deliver to the Agent (or its counsel) the Note held by Assignor and (ii) notify the Agent to request that the Borrower execute and deliver a new Note to
+such Assignee, dated as of the Assignment Date.  3.4 Further Assurances. Assignor and the Assignees hereby agree to execute and
+deliver such other instruments, and take such other actions, as any party hereto may reasonably request in connection with the transactions contemplated by this Agreement. 
+ARTICLE IV 
+CONDITIONS PRECEDENT 
+The effectiveness of the sale, assignment and transfer contemplated hereby is subject to the satisfaction of each of the following conditions
+precedent:  (a) the execution and delivery of this Agreement by Assignor and the Assignees; 
+(b) the receipt by Assignor of the payments required to be made under Section 3.1; and 
+(c) the acknowledgment and consent by the Agent as contemplated by Section 2.3. 
+ARTICLE V 
+REPRESENTATIONS AND WARRANTIES 
+5.1 Representations and Warranties of Assignor. Assignor represents and warrants to the Assignees as follows: 
+(a) Assignor has all requisite power and authority, and has taken all action necessary to execute and deliver this Agreement
+and to fulfill its obligations under, and consummate the transactions contemplated by, this Agreement; 
+   - 4 - 
+
+
+
+
+
+ (b) the execution, delivery and compliance with the terms hereof by Assignor and
+the delivery of all instruments required to be delivered by it hereunder do not and will not violate any Requirement of Law applicable to it; 
+(c) this Agreement has been duly executed and delivered by it and constitutes the legal, valid and binding obligation of
+Assignor, enforceable against it in accordance with its terms;  (d) all approvals and authorizations of, all filings with
+and all actions by any Governmental Authority necessary for the validity or enforceability of its obligations under this Agreement have been obtained; 
+(e) Assignor has good title to, and is the sole legal and beneficial owner of, the Assigned Interest, free and clear of all
+Liens, claims, participations or other charges of any nature whatsoever; and  (f) the transactions contemplated by this
+Agreement are commercial banking transactions entered into in the ordinary course of the banking business of Assignor.  5.2
+Disclaimer. Except as expressly provided in Section 5.1 hereof, Assignor does not make any representation or warranty, nor shall Assignor have any responsibility to any Assignee, with respect to the accuracy of any recitals, statements,
+representations or warranties contained in the Credit Agreement or in any other Loan Document or for the value, validity, effectiveness, genuineness, execution, legality, enforceability or sufficiency of the Credit Agreement, the Notes or any other
+Loan Document or for any failure by the Borrower or any other Person (other than Assignor) to perform any of its obligations thereunder or for the existence, value, perfection or priority of any collateral security or the financial or other
+condition of the Borrower or any other Person, or any other matter relating to the Credit Agreement or any other Loan Document or any extension of credit thereunder. 
+5.3 Representations and Warranties of Assignees. Each of the Assignees represents and warrants to Assignor as follows: 
+(a) such Assignee has all requisite power and authority, and has taken all action necessary to execute and deliver this
+Agreement and to fulfill its obligations under, and consummate the transactions contemplated by, this Agreement;  (b) the
+execution, delivery and compliance with the terms hereof by such Assignee and the delivery of all instruments required to be delivered by it hereunder do not and will not violate any Requirement of Law applicable to it; 
+(c) this Agreement has been duly executed and delivered by it and constitutes the legal, valid and binding obligation of such
+Assignee, enforceable against it in accordance with its terms; 
+   - 5 - 
+
+
+
+
+
+ (d) all approvals and authorizations of, all filings with and all actions by any
+Governmental Authority necessary for the validity or enforceability of its obligations under this Agreement have been obtained; 
+(e) such Assignee has received copies of the Credit Agreement and the other Loan Documents, as well as copies of all Financial
+Statements previously provided by the Borrower in satisfaction of obligations under the Credit Agreement;  (f) such
+Assignee has fully reviewed the terms of the Credit Agreement and the other Loan Documents and has independently and without reliance upon Assignor, and based on such information as it has deemed appropriate, made its own credit analysis and
+decision to enter into this Agreement;  (g) if such Assignee is not incorporated under the laws of the United States of
+America or a state thereof, such Assignee has contemporaneously herewith delivered to the Agent and the Borrower such documents as are required by the Credit Agreement; and 
+(h) the transactions contemplated by this Agreement are commercial banking transactions entered into in the ordinary course of
+the banking business of such Assignee.  ARTICLE VI 
+MISCELLANEOUS  6.1
+Notices. All notices and other communications provided for herein (including any modifications of, or waivers, requests or consents under, this Agreement) shall be given or made in writing (including by telecopy) to the intended recipient at
+its Address for Notices specified below its name on the signature pages hereof or, as to any party hereto, at such other address as shall be designated by such party in a notice to the other parties hereto. 
+6.2 Amendment, Modification or Waiver. No provision of this Agreement may be amended, modified or waived except by an instrument in
+writing signed by Assignor and the Assignees, and consented to by the Agent.  6.3 Successors and Assigns. This Agreement shall be
+binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns. The representations and warranties made herein by each of the Assignees are also made for the benefit of the Agent, and each of the
+Assignees agrees that the Agent is entitled to rely upon such representations and warranties.  6.4 Assignments. No party hereto may
+assign any of its rights or obligations hereunder except in accordance with the terms of the Credit Agreement. 
+   - 6 - 
+
+
+
+
+
+ 6.5 Counterparts. This Agreement may be executed in any number of counterparts, each of
+which shall be identical and all of which, taken together, shall constitute one and the same instrument and shall be effective against the parties hereto only upon execution of one or more counterparts hereof by all parties hereto. 
+6.6 Governing Law. THIS AGREEMENT (INCLUDING THE VALIDITY
+AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE
+WITH, THE LAWS OF THE STATE OF TEXAS, OTHER THAN THE CONFLICT
+OF LAWS RULES THEREOF.  6.7 Expenses. To the extent not paid by the
+Borrower pursuant to the terms of the Credit Agreement, each party hereto shall bear its own expenses in connection with the execution, delivery and performance of this Agreement. 
+6.8 Waiver of Jury Trial. EACH OF THE PARTIES HERETO
+HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY
+AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING
+OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED
+HEREBY.  [Signatures appear on following pages] 
+   - 7 - 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Assignment Agreement to be executed and
+delivered as of the date first above written.   
+
+
+
+
+
+
+
+
+
+
+ASSIGNOR:
+
+
+
+AMEGY BANK NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+ /s/ Mark A. Serice
+
+
+ 
+Mark A. Serice
+
+
+ 
+Senior Vice President
+
+
+
+Address for Notices:
+
+
+
+ 4400 Post Oak Parkway 4th Floor Houston, Texas 77027
+Attention: Energy Lending Dept. Facsimile No. (713) 561-0345
+Telephone No.: (713) 232-1110
+
+   (Signature page to
+Assignment Agreement) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSIGNEE:
+
+
+
+ COMPASS BANK (successor in interest
+to Guaranty Bank, FSB)
+
+
+
+
+By:
+ 
+ /s/ Kathleen J. Bowen
+
+
+ 
+Kathleen J. Bowen
+
+
+ 
+Senior Vice President
+
+
+
+Address for Notices:
+
+
+
+2200 Post Oak Blvd., 21st Floor
+
+ Houston, Texas 77056 Attention:
+Kathleen J. Bowen
+
+   (Signature page to
+Assignment Agreement) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSIGNEE:
+
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+ /s/ Betsy Jocher
+
+Name:
+ 
+ Betsy Jocher
+
+Title:
+ 
+ Director
+
+
+
+Address for Notices:
+
+
+
+ 1000 Louisiana Street, 9th Floor
+
+ Houston, TX 77002
+
+Attn:
+ 
+ Betsy Jocher 
+
+
+
+
+
+
+
+
+
+Facsimile No.:
+ 
+ 713-319-1925
+
+   (Signature page to
+Assignment Agreement) 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ASSIGNEE:
+
+
+
+JPMORGAN CHASE BANK, N.A.
+
+
+
+
+By:
+ 
+ /s/ Alexander Wilk
+
+Name:
+ 
+ Alexander Wilk
+
+Title:
+ 
+ Authorized Signatory
+
+
+
+Address for Notices:
+
+
+
+  
+
+  
+
+Attn:
+ 
+   
+
+
+
+
+
+
+
+
+
+Facsimile No.:
+ 
+  
+
+   (Signature page to
+Assignment Agreement) 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ASSIGNEE:
+
+
+
+KEYBANK NATIONAL ASSOCIATION
+
+
+
+
+By:
+ 
+ /s/ Sherrie I. Manson
+
+Name:
+ 
+ Sherrie I. Manson
+
+Title:
+ 
+ Senior Vice President
+
+
+
+Address for Notices:
+
+
+
+ 4900 Tiedeman Road
+
+ Brooklyn, Oh 44144-2302
+
+Attn:
+ 
+ Yvette Dyson-Owens
+
+
+
+
+
+
+
+
+
+
+Facsimile No.:
+ 
+ 216-370-6119
+
+   (Signature page to
+Assignment Agreement) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACKNOWLEDGED AND CONSENTED TO:
+
+
+
+ COMPASS BANK (successor in interest
+to Guaranty Bank, FSB), as Agent
+
+
+
+
+By:
+ 
+ /s/ Kathleen J. Bowen
+
+
+ 
+Kathleen J. Bowen
+
+
+ 
+Senior Vice President
+
+
+
+PRIMEENERGY CORPORATION
+
+
+
+
+By:
+ 
+ /s/ Beverly A. Cummings
+
+
+ 
+Beverly A. Cummings
+
+
+ 
+Executive Vice President, Treasurer
+
+
+ 
+and Chief Financial Officer
+
+   (Signature page to
+Assignment Agreement) 
+
+
+

@@ -1,0 +1,384 @@
+
+EX-10.3
+2
+d352695dex103.htm
+EX-10.3
+
+
+EX-10.3
+
+ 
+
+ DIRECTOR STOCK UNIT AWARD AGREEMENT 
+ 
+
+
+
+
+
+
+
+
+
+
+Participant Name:
+  
+###PARTICIPANT_NAME###
+
+
+
+
+Employee Number:
+  
+###EMPLOYEE_NUMBER###
+
+
+
+
+Grant Name:
+  
+###GRANT_NAME###
+
+
+
+
+Issue Date:
+  
+###ISSUE_DATE###
+
+
+
+
+Grant Price:
+  
+###GRANT_PRICE###
+
+
+
+
+Total Stock Units:
+  
+###TOTAL_AWARDS###
+ ###EMPLOYEE_GRANT_VEST_SCHEDULE_TABLE###  This DIRECTOR STOCK UNIT AWARD AGREEMENT (this Agreement) is made by and between Harvest Natural
+Resources, Inc., a Delaware corporation (the Company), and ###PARTICIPANT_NAME### (the Grantee) as of the ###ISSUE_DATE### (the Grant Date). 
+WHEREAS, the Company desires to grant to the Grantee, for his service as a member of the Board of Directors of the
+Company (a Director), the stock unit award specified herein (the Award), subject to the terms and conditions of this Agreement; and  WHEREAS, the Award is not a stock value right as that term is defined in Treasury Regulation §31.3121(v)(2)-1(b)(4)(ii) so the Award constitutes a
+deferral of compensation for purposes of section 3121(v)(2) of the Internal Revenue Code of 1986, as amended; and 
+WHEREAS, the Grantee desires to have the opportunity to hold the Award, subject to the terms and conditions of this
+Agreement;  NOW, THEREFORE, in consideration of the premises, mutual covenants and
+agreements contained herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound hereby, agree as follows: 
+ 
+
+
+1.
+ Grant of Stock Unit Award. Effective as of the Grant Date, the Company hereby awards to the Grantee ###TOTAL_AWARDS###
+Stock Units. A Stock Unit is a right to receive on the Payment Date, after vesting thereof, a cash amount equal to the Fair Market Value of one share of the Stock on the Payment Date. For purposes of this Agreement the
+Fair Market Value of one share of the Stock means the closing price per share of the Stock for 
+
+
+
+
+
+
+
+ 
+
+the applicable date as reported by the New York Stock Exchange or the principal stock exchange on which the Stock is then traded. The Stock Units that are awarded hereby to the Grantee shall be
+subject to the prohibitions and restrictions set forth herein with respect to the sale or other disposition of such Stock Units and the obligation to forfeit and surrender such Stock Units to the Company (the Forfeiture
+Restrictions). In accepting the award of Stock Units set forth in this Agreement the Grantee accepts and agrees to be bound by all the terms and conditions of this Agreement. 
+ 
+
+
+2.
+Definitions. For purposes of this Agreement, the following terms shall have the meanings indicated below: 
+ 
+
+
+ 
+(a)
+Affiliate means an Entity that is required to be treated as a single employer together with the Company for certain benefit plan purposes under
+section 414 of the Code.   
+
+
+ 
+(b)
+Board means the Board of Directors or other governing body of the Company or its direct or indirect parent. 
+ 
+
+
+ 
+(c)
+Change of Control means the occurrence of any of the following events: 
+ 
+
+
+ 
+(i)
+the acquisition by any individual, Entity or group (within the meaning of Section 13(d)(3) or 14(d)(2) of the Securities Exchange Act of 1934) (a Covered
+Person) of beneficial ownership (within the meaning of rule 13d-3 promulgated under the Securities Exchange Act of 1934) of 50 percent or more of the combined voting power of the then outstanding voting securities of the Company
+entitled to vote generally in the election of directors (the Voting Securities); provided, however, that for purposes of this subsection (i) of this Section 2(c) the following acquisitions shall not constitute a Change
+of Control: (i) any acquisition by the Company, (ii) any acquisition by any employee benefit plan (or related trust) sponsored or maintained by the Company or any Entity controlled by the Company, or (iii) any acquisition by any
+Entity pursuant to a transaction which complied with clauses (A), (B) and (C) of subsection (iii) of this Section 2(c); or   
+
+
+ 
+(ii)
+individuals who, as of the date of this Agreement, constitute the Board (the Incumbent Board) cease for any reason to constitute at least a majority
+of the Board; provided, however, that any individual becoming a director after the date of this Agreement whose election, or nomination for election by the Companys stockholders, was approved by a vote of at least a majority of the directors
+then comprising the Incumbent Board shall be considered as though such individual were a member of the Incumbent Board, but excluding, for this purpose, any such individual whose initial assumption of office occurs as a result of an actual or
+threatened election contest with respect to the election or removal of directors; or 
+   -2-
+
+
+
+
+
+
+
+
+
+ 
+(iii)
+the consummation of a reorganization, merger or consolidation or sale of the Company, or a disposition of at least 50 percent of the assets of the Company including
+goodwill (a Business Combination), provided, however, that for purposes of this subsection (iii), a Business Combination will not constitute a Change of Control if the following three requirements are satisfied: following
+such Business Combination, (A) all or substantially all of the individuals and entities who were the beneficial owners, respectively, of the Companys Voting Securities immediately prior to such Business Combination beneficially own,
+directly or indirectly, more than 50 percent of the ownership interests of the Entity resulting from such Business Combination (including, without limitation, an Entity which as a result of such transaction owns the Company or all or
+substantially all of the Companys assets either directly or through one or more subsidiaries or other affiliated entities) in substantially the same proportions as their ownership immediately prior to such Business Combination, (B) no
+Covered Person (excluding any employee benefit plan (or related trust) of the Company or such Entity resulting from such Business Combination) beneficially owns, directly or indirectly, 50 percent or more of, respectively, the ownership
+interests in the Entity resulting from such Business Combination, except to the extent that such ownership existed prior to the Business Combination, and (C) at least a majority of the members of the board of directors of the Entity resulting
+from such Business Combination were members of the Incumbent Board at the time of the execution of the initial agreement, or of the action of the Board, providing for such Business Combination. For this purpose any individual who becomes a director
+after the date of this Agreement, and whose election or nomination for election by the Companys stockholders, was approved by a vote of at least a majority of the directors then comprising the Incumbent Board shall be considered as though such
+individual were a member of the Incumbent Board, but excluding, for this purpose, any such individual whose initial assumption of office occurs as a result of an actual or threatened election contest with respect to the election or removal of
+directors.   
+
+
+ 
+(d)
+Code means the Internal Revenue Code of 1986, as amended. 
+ 
+
+
+ 
+(e)
+Committee means the Human Resources Committee of the Board. 
+ 
+
+
+ 
+(f)
+Entity means any corporation, partnership, association, joint-stock company, limited liability company, trust, unincorporated organization or other
+business entity.   
+
+
+ 
+(g)
+Forfeiture Restrictions means any prohibitions and restrictions set forth herein with respect to the sale or other disposition of Stock Units issued
+to the Grantee hereunder and the obligation to forfeit and surrender such Stock Units to the Company. 
+   -3-
+
+
+
+
+
+
+
+
+
+ 
+(h)
+Payment Date means the earliest of (i) May 17, 2013, (ii) the date the Company incurs a Section 409A Change of Control, or
+(iii) the date of the death of the Grantee.   
+
+
+ 
+(i)
+Section 409A means section 409A of the Code and the rules and regulations issued thereunder by the Department of Treasury and the Internal Revenue
+Service.   
+
+
+ 
+(j)
+Section 409A Change of Control means a change in the ownership or effective control of the Company or in the ownership of a substantial portion
+of the assets of the Company within the meaning of Section 409A.   
+
+
+ 
+(k)
+Stock means the Companys common stock, par value $0.01 per share. 
+ 
+
+
+3.
+Transfer Restrictions. The Stock Units granted hereby may not be sold, assigned, pledged, exchanged, hypothecated or otherwise transferred,
+encumbered or disposed of (other than by will or the applicable laws of descent and distribution). Any such attempted sale, assignment, pledge, exchange, hypothecation, transfer, encumbrance or disposition in violation of this Agreement shall be
+void and the Company shall not be bound thereby.   
+
+
+4.
+Vesting. The Stock Units that are granted hereby shall be subject to the Forfeiture Restrictions. The Forfeiture Restrictions shall lapse as to the
+Stock Units that are granted hereby in accordance with the provisions of subsections (a) through (c) of this Section 4.   
+
+
+ 
+(a)
+General Vesting Rules. The period during which the Forfeiture Restrictions shall apply to the Stock Units will commence on the Grant Date and end on May 17,
+2013 and the Forfeiture Restrictions shall lapse on May 17, 2013 provided that the Grantees service as a Director of the Company has not terminated prior to May 17, 2013. If the Grantees service as a Director of the Company
+terminates before May 17, 2013, except as otherwise specified in subsections (b) or (c) below, the Forfeiture Restrictions then applicable to the Stock Units shall not lapse and all the Stock Units shall be forfeited to the Company
+upon such termination of the Grantees service as a Director.   
+
+
+ 
+(b)
+Death. Notwithstanding any provisions of Section 4(a) to the contrary, upon the termination of Grantees service as a Director of the Company due to
+the death of the Grantee, the Forfeiture Restrictions shall lapse as to the Stock Units that are granted hereby on the date of such termination of the Grantees service as a Director due to death. 
+ 
+
+
+ 
+(c)
+Change of Control. Notwithstanding any provisions of Section 4(a) to the contrary, upon the occurrence of a Change of Control that constitutes a
+Section 409A Change of Control, the Forfeiture Restrictions shall lapse as to the then outstanding Stock Units that are granted hereby. 
+   -4-
+
+
+
+
+
+
+
+
+
+5.
+Time of Payment. On the Payment Date the Company shall pay to the Grantee the amount payable with respect to the Stock Units for which the Forfeiture
+Restrictions have lapsed and thereafter the Grantee shall have no further rights with respect to such Stock Units.   
+
+
+6.
+Medium of Payment. Any payments made under this Agreement shall be in the medium of cash. Notwithstanding the foregoing or any other provision of this
+Agreement, if subsequent to the Grant Date the stockholders of the Company approve an equity compensation plan under which the Stock Units may be paid in the medium of Stock, the Committee may in the future, in its sole discretion, determine (by any
+means so determined by the Committee in its sole discretion) to cause all or any portion of the Stock Units to be paid in the medium of Stock. Any fractional shares will be paid in cash. 
+ 
+
+
+7.
+Capital Adjustments and Reorganizations.   
+
+
+ 
+(a)
+The existence of the Stock Units shall not affect in any way the right or power of the Company to make or authorize any adjustment, recapitalization, reorganization or
+other change in its capital structure or its business, engage in any merger or consolidation, issue any debt or equity securities, dissolve or liquidate, or sell, lease, exchange or otherwise dispose of all or any part of its assets or business, or
+engage in any other corporate act or proceeding.   
+
+
+ 
+(b)
+If the Company shall effect a subdivision or consolidation of the Stock or other capital readjustment, the payment of a stock dividend with respect to the Stock, or
+other increase or reduction of the number of shares of the Stock outstanding, without receiving compensation therefore in money, services or property, then the number of Stock Units awarded under this Agreement shall be appropriately adjusted in the
+same manner as if the Grantee was the holder of an equivalent number of shares of the Stock immediately prior to the event requiring the adjustment.   
+
+
+8.
+Not a Service Agreement. This Agreement is not a service agreement, and no provision of this Agreement shall be construed or interpreted to create a
+service relationship between the Grantee and the Board, the Company, its subsidiaries or any of its Affiliates or guarantee the right to remain a Director for any specified term. 
+ 
+
+
+9.
+Notices. Any notice, instruction, authorization, request or demand required hereunder shall be in writing, and shall be delivered either by
+personal delivery, by telegram, telex, telecopy or similar facsimile means, by certified or registered mail, return receipt requested, or by courier or delivery service, addressed to the Company at the Companys principal business office
+address and to the Grantee at the Grantees residential address indicated beneath the Grantees signature on the execution page of this Agreement, or at such other address and number as a party shall have previously designated by written
+notice given to the other party in the manner hereinabove set forth. Notices shall be deemed given when received, if sent by facsimile means (confirmation of such receipt by confirmed facsimile transmission being deemed receipt of communications
+sent by facsimile means); and when delivered (or upon the date of attempted delivery where delivery is refused), if hand-delivered, sent by express courier or delivery service, or sent by certified or registered mail, return receipt requested.
+
+   -5-
+
+
+
+
+
+
+
+
+
+10.
+Amendment and Waiver. Except as otherwise provided herein, this Agreement may be amended, modified or superseded only by written instrument
+executed by the Company and the Grantee. Only a written instrument executed and delivered by the party waiving compliance hereof shall waive any of the terms or conditions of this Agreement. Any waiver granted by the Company shall be effective only
+if executed and delivered by a duly authorized executive officer of the Company other than the Grantee. The failure of any party at any time or times to require performance of any provisions hereof shall in no manner effect the right to enforce the
+same. No waiver by any party of any term or condition, or the breach of any term or condition contained in this Agreement, in one or more instances, shall be construed as a continuing waiver of any such condition or breach, a waiver of any other
+condition, or the breach of any other term or condition.   
+
+
+11.
+Governing Law and Severability. This Agreement shall be governed by the laws of the State of Texas without regard to its conflicts of law
+provisions. The invalidity of any provision of this Agreement shall not affect any other provision of this Agreement, which shall remain in full force and effect. 
+ 
+
+
+12.
+No Rights as Stockholder. Unless and until shares of Stock are issued to the Grantee under this Agreement, the Grantee shall have no rights as a
+stockholder as a result of this Award.   
+
+
+13.
+Successors and Assigns. Subject to the limitations which this Agreement imposes upon the transferability of the Stock Units granted hereby, this
+Agreement shall bind, be enforceable by and inure to the benefit of the Company and its successors and assigns, and to the Grantee, the Grantees permitted assigns and upon the Grantees death, the Grantees estate and beneficiaries
+thereof (whether by will or the laws of descent and distribution), executors, administrators, agents, legal and personal representatives.   
+
+
+14.
+Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be an original for all purposes but all of which
+taken together shall constitute but one and the same instrument. 
+   -6-
+
+
+
+
+
+
+ IN WITNESS WHEREOF, the Company has
+caused this Agreement to be duly executed by an officer thereunto duly authorized as of the date first above written.   
+
+
+
+
+
+
+
+
+
+
+HARVEST NATURAL RESOURCES, INC.
+
+
+
+By:                           
+                                         
+                            
+
+Name:
+ 
+James A. Edmiston
+
+Title:
+ 
+President & Chief Executive Officer
+ Accepted: 
+GRANTEE   
+
+
+
+
+
+
+
+
+  
+
+###PARTICIPANT_NAME###
+
+   -7-
+
+
+
+

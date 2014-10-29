@@ -1,0 +1,1588 @@
+
+EX-10.3
+7
+d382092dex103.htm
+OMNIBUS AMENDMENT NO.1
+
+
+Omnibus Amendment No.1
+
+ 
+
+ Exhibit 10.3 
+Execution Version  OMNIBUS AMENDMENT NO. 1  TO COMBINED CREDIT AGREEMENTS 
+THIS OMNIBUS AMENDMENT NO. 1 TO COMBINED CREDIT AGREEMENTS (this Amendment), dated as of May 23,
+2012, is among QUICKSILVER RESOURCES INC., (the U.S. Borrower), QUICKSILVER RESOURCES CANADA, INC., (the Canadian Borrower) (collectively, the Combined
+Borrowers), JPMORGAN CHASE BANK, N.A., as global administrative agent (in such capacity, the Global Administrative Agent), JPMORGAN CHASE BANK, N.A., TORONTO BRANCH, as Canadian administrative
+agent (in such capacity, the Canadian Administrative Agent), and each of the U.S. Lenders and Canadian Lenders party hereto.  R E C I T A L S  A. The U.S. Borrower, the Global Administrative
+Agent, and the various financial institutions party thereto as Agents or Lenders (the U.S. Lenders) entered into that certain Amended and Restated Credit Agreement dated as of December 22, 2011 (as amended,
+supplemented or modified, the U.S. Credit Agreement).  B. Quicksilver Resources Inc., as parent, the
+Canadian Borrower, the Canadian Administrative Agent, the Global Administrative Agent, and the various financial institutions party thereto as agents or lenders (the Canadian Lenders) entered into that certain Amended and
+Restated Credit Agreement dated as of December 22, 2011 (as amended, supplemented or modified, the Canadian Credit Agreement) (the U.S. Credit Agreement and the Canadian Credit Agreement being collectively referred to
+as the Combined Credit Agreements).  B. The Combined Borrowers have requested that the Majority
+Lenders agree, and the Majority Lenders have agreed, to amend certain provisions of the Combined Credit Agreements.  C. NOW,
+THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:  Section 1. Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given to such term in the U.S. Credit Agreement, as amended by this Amendment. Unless
+otherwise indicated, all section references in this Amendment refer to applicable section of the Combined Credit Agreements.  Section 2.
+Amendments to Combined Credit Agreements.  2.1 Amendment to Section 1.02. The second sentence of the
+definition of Barnett Shale Transaction in each of the Combined Credit Agreements is hereby amended by adding the words prior to or immediately after the words These transactions shall be consummated. 
+2.2 Amendment to Section 8.11(c). (a) Section 8.11(c) of the U.S. Credit Agreement is hereby deleted and replaced in its
+entirety with the following text: 
+
+
+
+
+ (c) With the delivery of each Reserve Report, the Borrower shall (or,
+in connection with the Canadian Reserve Report, shall cause QRCI to) provide to the Global Administrative Agent, the Lenders and the Canadian Lenders a certificate from a Responsible Officer of the Borrower or QRCI, as applicable, certifying that in
+all material respects: (i) the information contained in the Reserve Reports and any other information delivered in connection therewith are true and correct, (ii) subject to Immaterial Title Deficiencies, (x) the Borrower or a U.S.
+Guarantor owns good and defensible title to the Oil and Gas Properties located in the United States evaluated in the applicable U.S. Reserve Report and such Properties are free of all Liens except for Permitted Liens and Liens securing the Secured
+Indebtedness and (y) QRCI or a Canadian Guarantor owns good and defensible title to the Oil and Gas Properties located in Canada evaluated in the applicable Canadian Reserve Report and such Properties are free of all Liens except for Permitted
+Liens and Liens securing the Canadian Secured Indebtedness, (iii) except as set forth on an exhibit to the certificate, on a net basis there are no gas imbalances, take or pay or other prepayments (x) in excess of one half bcf of gas in
+the aggregate with respect to its Oil and Gas Properties located in the United States evaluated in the applicable U.S. Reserve Report which would require the Borrower or any U.S. Guarantor to deliver Hydrocarbons either generally or produced from
+such Oil and Gas Properties at some future time without then or thereafter receiving full payment therefor and (y) in excess of one half bcf of gas in the aggregate with respect to its Oil and Gas Properties located in Canada evaluated in the
+applicable Canadian Reserve Report which would require QRCI or any Canadian Guarantor to deliver Hydrocarbons either generally or produced from such Oil and Gas Properties at some future time without then or thereafter receiving full payment
+therefor, (iv) attached to the certificate is a list of all marketing agreements entered into subsequent to the later of the date hereof or the most recently delivered Reserve Reports which pertain to the sale of production at a fixed price and
+have a maturity date of longer than six (6) months from the date of such certificate, and (v) a true and complete list of all Oil and Gas Swap Agreements of the Borrower and each Restricted Subsidiary is included, which list contains the
+material terms thereof (including the type, remaining term, counterparty, mark-to-market value as of the end of the second month immediately preceding the date of such certificate and notional amounts or volumes), any credit support agreements
+relating thereto, any margin required or supplied under any credit support document, and the counterparty to each such agreement.  (b) Section 8.11(c) of the Canadian Credit Agreement is hereby deleted and replaced in its entirety with the following text: 
+(c) With the delivery of each Reserve Report, the Parent shall (or, in connection with the Canadian Reserve Report,
+shall cause the Borrower to) provide to the Global Administrative Agent, the Lenders and the U.S. Lenders a certificate from a Responsible Officer of the Parent or the Borrower, as applicable, certifying that in all material respects: (i) the
+information contained in the Reserve Reports and any other information delivered in connection therewith are true and correct, (ii) subject to Immaterial Title Deficiencies, (x) the Parent or a U.S. Guarantor owns good and defensible title
+to the Oil and Gas Properties located in the United States evaluated in the applicable U.S. Reserve Report and such Properties are free of all Liens except for 
+   2 
+
+
+
+
+
+ 
+Permitted Liens and Liens securing the U.S. Secured Indebtedness and (y) the Borrower or a Canadian Guarantor owns good and defensible title to the Oil and Gas Properties located in Canada
+evaluated in the applicable Canadian Reserve Report and such Properties are free of all Liens except for Permitted Liens and Liens securing the Secured Indebtedness, (iii) except as set forth on an exhibit to the certificate, on a net basis
+there are no gas imbalances, take or pay or other prepayments (x) in excess of one half bcf of gas in the aggregate with respect to its Oil and Gas Properties located in the United States evaluated in the applicable U.S. Reserve Report which
+would require the Parent or any U.S. Guarantor to deliver Hydrocarbons either generally or produced from such Oil and Gas Properties at some future time without then or thereafter receiving full payment therefor and (y) in excess of one half
+bcf of gas in the aggregate with respect to its Oil and Gas Properties located in Canada evaluated in the applicable Canadian Reserve Report which would require the Borrower or any Canadian Guarantor to deliver Hydrocarbons either generally or
+produced from such Oil and Gas Properties at some future time without then or thereafter receiving full payment therefor, (iv) attached to the certificate is a list of all marketing agreements entered into subsequent to the later of the date
+hereof or the most recently delivered Reserve Reports which pertain to the sale of production at a fixed price and have a maturity date of longer than six (6) months from the date of such certificate, and (v) a true and complete list of
+all Oil and Gas Swap Agreements of the Parent and each Restricted Subsidiary is included, which list contains the material terms thereof (including the type, remaining term, counterparty, mark-to-market value as of the end of the second month
+immediately preceding the date of such certificate and notional amounts or volumes), any credit support agreements relating thereto, any margin required or supplied under any credit support document, and the counterparty to each such
+agreement.  2.3 Amendment to Section 9.10. (a) Section 9.10(i) of the U.S. Credit Agreement is hereby
+deleted and replaced in its entirety with the following text:  (i) transfers and other dispositions of
+Oil and Gas Properties and Oil and Gas Swap Agreements as contemplated by the Barnett Shale Transaction; provided that (x) if the contribution of the Equity Interests of MLP Opco to MLP in connection with the Barnett Shale Transaction is
+consummated prior to delivery by the Global Administrative Agent of the Proposed Borrowing Base Notice relating to the Scheduled Redetermination of the Global Borrowing Base and U.S. Borrowing Base in October 2012, then each of the Global Borrowing
+Base and U.S. Borrowing Base will be reduced by $200,000,000 and (y) if on or prior to the date that is 45 days after the consummation of the Barnett Shale Transaction the Borrower fails to repay, repurchase (including, without limitation,
+through a tender offer) or retire at least $300,000,000 of principal amount of Existing Debt of the Borrower, the Global Borrowing Base and U.S. Borrowing Base will each be reduced by an additional $75,000,000; provided further,
+however, that if the Barnett Shale Transaction has not been consummated prior to delivery by the Global Administrative Agent of the Proposed Borrowing Base Notice relating to the Scheduled Redetermination of the Global Borrowing Base and U.S.
+Borrowing Base in October 2012, the preceding proviso shall not apply and instead the Global Borrowing Base and the U.S. Borrowing Base shall be reduced in a manner consistent with the requirements and procedures set forth in
+Section 9.10(d)(iii)-(v). 
+   3 
+
+
+
+
+
+ (b) Section 9.10(i) of the Canadian Credit Agreement is hereby deleted and replaced in
+its entirety with the following text:  (i) transfers and other dispositions of Oil and Gas Properties
+and Oil and Gas Swap Agreements as contemplated by the Barnett Shale Transaction; provided that (x) if the contribution of the Equity Interests of MLP Opco to MLP in connection with the Barnett Shale Transaction is consummated prior to
+delivery by the Global Administrative Agent of the Proposed Borrowing Base Notice relating to the Scheduled Redetermination of the Global Borrowing Base and U.S. Borrowing Base in October 2012, then each of the Global Borrowing Base and U.S.
+Borrowing Base will be reduced by US$200,000,000 and (y) if on or prior to the date that is 45 days after the consummation of the Barnett Shale Transaction the Parent fails to repay, repurchase (including, without limitation, through a tender
+offer) or retire at least US$300,000,000 of principal amount of Existing Debt of the Parent, the Global Borrowing Base and U.S. Borrowing Base will each be reduced by an additional US$75,000,000; provided further, however, that if the
+Barnett Shale Transaction has not been consummated prior to delivery by the Global Administrative Agent of the Proposed Borrowing Base Notice relating to the Scheduled Redetermination of the Global Borrowing Base and U.S. Borrowing Base in October
+2012, the preceding proviso shall not apply and instead the Global Borrowing Base and the U.S. Borrowing Base shall be reduced in a manner consistent with the requirements and procedures set forth in Section 9.10(d)(iii)-(v). 
+2.4 Amendment to Section 12.01. Section 12.01(a) of each of the Combined Credit Agreements is hereby amended by
+(a) deleting the word and at the end of Section 12.01(a)(ii), replacing the period at the end of Section 12.01(a)(iii) with ; and and (c) adding the following text as Section 12.01(a)(iv): 
+(iv) if to any Bank Products Provider or Secured Swap Provider, in its capacity as such, to it at its address (or
+telecopy number) set forth in the Administrative Questionnaire of the applicable financial institution, who is or whose Affiliate is the relevant Bank Products Provider or Secured Swap Provider, or, if not available, such other address received by
+the Global Administrative Agent for such institution.  Section 3. Authorization of Intercreditor Amendment. Attached hereto as
+Exhibit A is an amendment to the Intercreditor Agreement (the Intercreditor Amendment). Each party to the Intercreditor Agreement who is a party hereto hereby authorizes the Global Administrative Agent and/or
+Canadian Administrative Agent, as applicable, to enter the Intercreditor Amendment.  Section 4. Conditions Precedent. This Amendment
+shall not become effective until the date on which each of the following conditions is satisfied (the Amendment Effective Date): 
+   4 
+
+
+
+
+
+ 4.1 The Global Administrative Agent shall have received from each of the Combined Borrowers,
+the Majority Lenders, the Global Administrative Agent and the Canadian Administrative Agent counterparts of this Amendment signed on behalf of such Person.  4.2 The Global Administrative Agent, the Canadian Administrative Agent and the Lenders shall have received all fees and amounts due and payable on or prior to the Amendment Effective Date, including, to
+the extent invoiced at least one (1) Business Day prior to such date, reimbursement or payment of all documented out-of-pocket expenses required to be reimbursed or paid by the Combined Borrowers under the Combined Credit Agreement. 
+Section 5. Miscellaneous.  5.1 Confirmation. The provisions of the Combined Credit Agreements, as amended by this Amendment, shall remain in full force and effect following the effectiveness of this Amendment. 
+5.2 Ratification and Affirmation; Representations and Warranties. Each Combined Borrower hereby (a) acknowledges the terms of
+this Amendment; (b) ratifies and affirms its obligations under, and acknowledges, renews and extends its continued liability under, each Loan Document (as defined in the applicable Combined Credit Agreement as used in this Section) to which it
+is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended hereby, notwithstanding the amendments contained herein; and (c) represents and warrants to the Lenders (as
+defined in the applicable Combined Credit Agreement) that as of the date hereof, after giving effect to the terms of this Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true
+and correct in all material respects on and as of the Amendment Effective Date, except that to the extent any such representations and warranties are (x) expressly limited to an earlier date, in which case, on the Amendment Effective Date such
+representations and warranties shall continue to be true and correct as of such specified earlier date and (y) qualified by materiality, such representations and warranties (as so qualified) shall continue to be true and correct in all respects
+and (ii) no Default (as defined in the applicable Combined Credit Agreement) has occurred and is continuing as of the Amendment Effective Date.  5.3 Counterparts. This Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to
+constitute one and the same instrument. Delivery of an executed counterpart by facsimile or electronic mail shall be effective as delivery of a manually executed counterpart hereof. 
+5.4 Governing Law, Jurisdiction, etc. Sections 12.09 and 12.18 of the Canadian Credit Agreement shall be incorporated herein
+mutatis mutandis as this Amendment relates to the Canadian Credit Agreement and Sections 12.09 and 12.18 of the U.S. Credit Agreement shall be incorporated herein mutatis mutandis as this Amendment relates to the U.S. Credit Agreement.
+ [SIGNATURES BEGIN NEXT PAGE] 
+   5 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of
+the date first written above.   
+
+
+
+
+
+
+
+
+
+
+QUICKSILVER RESOURCES INC., a Delaware corporation
+
+
+
+
+ By:
+ 
+/s/ Vanessa Gomez LaGatta
+
+
+ 
+Name: Vanessa Gomez LaGatta
+
+
+ 
+Title: Vice President - Treasurer
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+  
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+QUICKSILVER RESOURCES CANADA INC., an Alberta, Canada corporation
+
+
+
+
+ By:
+ 
+/s/ Vanessa Gomez LaGatta
+
+
+ 
+Name: Vanessa Gomez LaGatta
+
+
+ 
+Title: Vice President - Treasurer
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+  
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A., as a Lender under the U.S. Credit Agreement and as Global Administrative Agent
+
+
+
+
+ By:
+ 
+/s/ David Morris
+
+
+ 
+Name: David Morris
+
+
+ 
+Title: Authorized Officer
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A., TORONTO BRANCH, as a Lender under the Canadian Credit Agreement and as Canadian Administrative
+Agent
+
+
+
+
+ By:
+ 
+/s/ Michael N. Tam
+
+
+ 
+Name: Michael N. Tam
+
+
+ 
+Title: Authorized Officer
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BANK OF AMERICA, N.A., as a Lender under the U.S. Credit Agreement
+
+
+
+
+ By:
+ 
+/s/ Ronald E. McKaig
+
+
+ 
+Name: Ronald E. McKaig
+
+
+ 
+Title: Managing Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BANK OF AMERICA, N.A., (by its Canada Branch) as a Lender under the Canadian Credit Agreement
+
+
+
+
+ By:
+ 
+/s/ Medina Sales de Andrade
+
+
+ 
+Name: Medina Sales de Andrade
+
+
+ 
+Title: Vice President
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BRANCH BANKING & TRUST COMPANY, as a Lender under the U.S. Credit Agreement and the Canadian Credit Agreement
+
+
+
+
+ By:
+ 
+/s/ Jeff Forbis
+
+
+ 
+Name: Jeff Forbis
+
+
+ 
+Title: Senior Vice President
+
+
+ 
+BB&T Capital Markets
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CANADIAN IMPERIAL BANK OF COMMERCE, as a Lender under the Canadian Credit Agreement
+
+
+
+
+ By:
+ 
+/s/ Randy Geislinger
+
+
+ 
+Name: Randy Geislinger
+
+
+ 
+Title: Executive Director
+
+
+
+
+
+
+ By:
+ 
+/s/ Chris Perks
+
+
+ 
+Name: Chris Perks
+
+
+ 
+Title: Managing Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CIBC INC., as a Lender under the U.S. Credit Agreement
+
+
+
+
+ By:
+ 
+/s/ Trudy Nelson
+
+
+ 
+Name: Trudy Nelson
+
+
+ 
+Title: Authorized Signatory
+
+
+
+
+
+
+ By:
+ 
+/s/ Richard Antl
+
+
+ 
+Name: Richard Antl
+
+
+ 
+Title: Authorized Signatory
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CITIBANK, N.A., as a Lender under the U.S. Credit Agreement
+
+
+
+
+ By:
+ 
+/s/ John Miller
+
+
+ 
+Name: John Miller
+
+
+ 
+Title: Vice President
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CITIBANK, N.A., CANADIAN BRANCH, as a Lender under the Canadian Credit Agreement
+
+
+
+
+By: 
+ 
+/s/ Gordon Dekuyper
+
+
+ 
+Name: Gordon Dekuyper
+
+
+ 
+Title: Managing Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+COMERICA BANK, as a Lender under the U.S. Credit Agreement
+
+
+
+
+By: 
+ 
+/s/ Katya Evseev
+
+
+ 
+Name: Katya Evseev
+
+
+ 
+Title: Corporate Banking Officer
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+COMERICA BANK, CANADA BRANCH, as a Lender under the Canadian Credit Agreement
+
+
+
+
+By: 
+ 
+/s/ Omer Ahmed
+
+
+ 
+Name: Omer Ahmed
+
+
+ 
+Title: Portfolio Manager
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+COMPASS BANK, as a Lender under the U.S. Credit Agreement
+
+
+
+
+By: 
+ 
+/s/ Umar Hassan
+
+
+ 
+Name: Umar Hassan
+
+
+ 
+Title: Vice President
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, as a Lender under the U.S. Credit Agreement and the Canadian Credit Agreement
+
+
+
+
+By: 
+ 
+/s/ Mark A. Roche
+
+
+ 
+Name: Mark A. Roche
+
+
+ 
+Title: Managing Director
+
+
+
+
+By: 
+ 
+/s/ Sharada Manne
+
+
+ 
+Name: Sharada Manne
+
+
+ 
+Title: Managing Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as a Lender under the U.S. Credit Agreement
+
+
+
+
+By:
+ 
+/s/ Mikhail Faybusovich
+
+
+ 
+ Name: Mikhail Faybusovich
+Title: Director
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Michael Spaight
+
+
+ 
+ Name: Michael Spaight
+Title: Associate
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CREDIT SUISSE AG, TORONTO BRANCH, as a Lender under the Canadian Credit Agreement
+
+
+
+
+By:
+ 
+/s/ Alain Daoust
+
+
+ 
+ Name: Alain Daoust Title:
+Director
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Paul White
+
+
+ 
+ Name: Paul White Title:
+Vice-President
+
+
+ 
+ Credit Suisse, AG, Toronto Branch
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+DEUTSCHE BANK TRUST COMPANY AMERICAS, as a Lender under the U.S. Credit Agreement
+
+
+
+
+By:
+ 
+/s/ Michael Getz
+
+
+ 
+ Name: Michael Getz Title:
+Vice President
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Erin Morrissey
+
+
+ 
+ Name: Erin Morrissey Title:
+Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+DEUTSCHE BANK AG CANADA BRANCH, as a Lender under the Canadian Credit Agreement
+
+
+
+
+By:
+ 
+/s/ Rupert Gomes
+
+
+ 
+ Name: Rupert Gomes Title:
+Vice President
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Marcellus Leung
+
+
+ 
+ Name: Marcellus Leung
+Title: Assistant Vice President
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+EXPORT DEVELOPMENT CANADA, as a Lender under the U.S. Credit Agreement
+
+
+
+
+By:
+ 
+/s/ Richard Leong
+
+
+ 
+ Name: Richard Leong Title:
+Asset Manager
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+/s/ Talal M. Kairouz
+
+
+ 
+ Name: Talal Kairouz Title:
+Senior Asset Manager
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+GOLDMAN SACHS BANK USA, as a Lenderunder the U.S. Credit Agreement
+
+
+
+
+By:
+ 
+ /s/ Michelle Latzoni
+
+
+ 
+Name:
+ 
+Michelle Latzoni
+
+
+ 
+Title:
+ 
+Authorized Signatory
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+KEYBANK, N.A., as a Lender under the U.S.Credit Agreement
+
+
+
+
+By:
+ 
+ /s/ Craig Hanselman
+
+
+ 
+Name:
+ 
+Craig Hanselman
+
+
+ 
+Title:
+ 
+Vice President
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+SUMITOMO MITSUI BANKING CORPORATION, as a Lender under the U.S.Credit Agreement
+
+
+
+
+By:
+ 
+ /s/ Shuji Yabe
+
+
+ 
+Name:
+ 
+Shuji Yabe
+
+
+ 
+Title:
+ 
+Managing Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+THE BANK OF NOVA SCOTIA, as aLender under the U.S. Credit Agreement and the Canadian Credit Agreement
+
+
+
+
+By:
+ 
+ /s/ Terry Donovan
+
+
+ 
+Name:
+ 
+Terry Donovan
+
+
+ 
+Title:
+ 
+Managing Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+THE ROYAL BANK OF SCOTLAND plc, asa Lender under the U.S. Credit Agreement
+
+
+
+
+By:
+ 
+ /s/ Sanjay Remond
+
+
+ 
+Name:
+ 
+Sanjay Remond
+
+
+ 
+Title:
+ 
+Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+THE ROYAL BANK OF SCOTLAND N.V. (CANADA) BRANCH, as a Lender under the Canadian Credit Agreement
+
+
+
+
+ By:
+ 
+ /s/ David R. Wingfelder
+
+
+ 
+Name: David R. Wingfelder
+
+
+ 
+Title: Managing Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+TORONTO DOMINION (NEW YORK) LLC, as a Lender under the U.S. Credit Agreement
+
+
+
+
+ By:
+ 
+ /s/ Vicki Ferguson
+
+
+ 
+Name: Vicki Ferguson
+
+
+ 
+Title: Authorized Signatory
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+THE TORONTO-DOMINION BANK, as a Lender under the Canadian Credit Agreement
+
+
+
+
+ By:
+ 
+ /s/ Vicki Ferguson
+
+
+ 
+Name: Vicki Ferguson
+
+
+ 
+Title: Authorized Signatory
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+U.S. BANK NATIONAL ASSOCIATION, as a Lender under the U.S. Credit Agreement
+
+
+
+
+By:
+ 
+/s/ Daria Mahoney
+
+
+ 
+Name: Daria Mahoney
+
+
+ 
+Title: Vice President
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+UBS LOAN FINANCE LLC, as a Lender under the U.S. Credit Agreement
+
+
+
+
+ By:
+ 
+/s/ Irja R. Otsa
+
+
+ 
+Name: Irja R. Otsa
+
+
+ 
+Title: Associate Director
+
+
+
+
+ By:
+ 
+/s/ Mary E. Evans
+
+
+ 
+Name: Mary E. Evans
+
+
+ 
+Title: Associate Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+UBS AG CANADA BRANCH, as a Lender under the Canadian Credit Agreement
+
+
+
+
+ By:
+ 
+/s/ Irja R. Otsa
+
+
+ 
+Name: Irja R. Otsa
+
+
+ 
+Title: Associate Director
+
+
+
+
+ By:
+ 
+/s/ Mary E. Evans
+
+
+ 
+Name: Mary E. Evans
+
+
+ 
+Title: Associate Director
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+WELLS FARGO BANK, N.A., as a Lender under the U.S. Credit Agreement
+
+
+
+
+ By:
+ 
+/s/ Catherine Cook
+
+
+ 
+Name: Catherine Cook
+
+
+ 
+Title: Vice President
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+WELLS FARGO FINANCIAL CORPORATION CANADA, as a Lender under the Canadian Credit Agreement
+
+
+
+
+ By:
+ 
+/s/ Catherine Cook
+
+
+ 
+Name: Catherine Cook
+
+
+ 
+Title: Vice President
+ SIGNATURE PAGE TO OMNIBUS
+AMENDMENT NO. 1 TO  COMBINED CREDIT
+AGREEMENTS 
+
+
+
+
+ EXHIBIT A 
+FIRST AMENDMENT TO INTERCREDITOR AGREEMENT  [Please see attached] 
+
+
+
+
+ Execution Version 
+FIRST AMENDMENT TO INTERCREDITOR AGREEMENT  THIS FIRST AMENDMENT TO INTERCREDITOR AGREEMENT (this Amendment), dated as of May 23, 2012, is among JPMORGAN CHASE BANK, N.A., as Global Administrative Agent (the
+Global Administrative Agent), and JPMORGAN CHASE BANK, N.A., TORONTO BRANCH, as the Canadian Administrative Agent (the Canadian Administrative Agent, and together with the Global
+Administrative Agent, the Administrative Agents), on behalf of the various financial institutions as are or may become parties to the U.S. Credit Agreement (the U.S. Lenders), the various financial
+institutions as are or may become parties to the Canadian Credit Agreement (the Canadian Lenders), the Secured Swap Providers and the Bank Product Providers (each as defined in both of the Combined Credit Agreements), the
+Combined Issuing Banks, the other Agents party to the U.S. Credit Agreement, and the other Agents party to the Canadian Credit Agreement.  RECITALS  A. The U.S. Borrower, the U.S. Lenders, the various
+financial institutions party thereto as Agents and the Global Administrative Agent (collectively, the U.S. Agents) entered into that certain Amended and Restated Credit Agreement dated as of December 22, 2011 (as
+heretofore amended, supplemented or modified, the U.S. Credit Agreement).  B. The Canadian Borrower,
+the Canadian Lenders, the various financial institutions party thereto as Agents and the Canadian Administrative Agent (collectively, the Canadian Agents) entered into that certain Amended and Restated Credit Agreement
+dated as of December 22, 2011 (as heretofore amended, supplemented or modified, the Canadian Credit Agreement) (the U.S. Credit Agreement and the Canadian Credit Agreement being collectively referred to as the
+Combined Credit Agreements).  C. The parties hereto entered into that certain Intercreditor
+Agreement dated as of December 22, 2011 (as amended, supplemented or modified, the Intercreditor Agreement).  D. The parties hereto have agreed to amend the Intercreditor Agreement as set forth herein.  NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows: 
+ARTICLE 1 
+DEFINITIONS AND TERMS OF CONSTRUCTION  1.1. Certain Definitions. When used herein, and unless otherwise defined herein, terms and expressions defined in the U.S. Credit Agreement shall have those meanings; terms defined in only
+one of the Combined Credit Agreements shall have the meanings specified in such Combined Credit Agreement. Unless otherwise indicated, all section references in this Amendment refer to sections of the Intercreditor Agreement. 
+   1 
+
+
+
+
+
+ ARTICLE 2  AMENDMENTS TO INTERCREDITOR AGREEMENT  2.1. Amendment to
+Section 1.1.  (a) Section 1.1 is hereby amended to add after the second semicolon and before the word
+and the following text: the terms Bank Product Obligations, Bank Product Providers, Secured Swap Providers and Secured Indebtedness shall have the meanings assigned to them in the U.S. Credit Agreement, the Canadian Agreements or
+in both of the Combined Credit Agreements as the context may require;  (b) Section 1.1 is hereby amended to add the
+following definitions in the appropriate alphabetical order:  Canadian Creditors means the Canadian
+Lenders, the Canadian Agents, the Canadian Issuing Banks, the Bank Product Providers as defined in the Canadian Credit Agreement and the Secured Swap Providers as defined in the Canadian Credit Agreement. 
+U.S. Creditors means the U.S. Lenders, the U.S. Agents, the U.S. Issuing Banks, the Bank Product
+Providers as defined in the U.S. Credit Agreement and the Secured Swap Providers as defined in the U.S. Credit Agreement.  (c) The definition of Sharing Percentage in Section 1.1 is hereby amended by adding the words and other U.S. Creditors after the words U.S. Lenders in clause
+(a) and adding the words and other Canadian Creditors after the words Canadian Lenders in clause (b).  2.2. Amendment to Section 5.2. Section 5.2 is hereby amended by adding the following words to the end of such Section prior to the period: 
+or, with respect to any Creditor, in accordance with any other delivery instructions such Creditor shall have provided to parties
+hereto.  2.3. Amendment to Section 5.7. Section 5.7(c) is hereby amended by adding in fifth line
+after the word SPECIFIED and before the word PURSUANT the words HEREUNDER OR.  ARTICLE 3
+ CONDITIONS PRECEDENT  3.1. Executed Counterparts. The effectiveness of this Amendment is subject to the receipt by the Global Administrative Agent of (a) the Amendment, executed and delivered by a duly
+authorized officer of each of the Administrative Agents and (b) written consent from the Majority Lenders authorizing the execution of the Amendment by the Administrative Agents. 
+  
+
+
+ 2 
+
+
+
+
+
+ ARTICLE 4  MISCELLANEOUS  4.1. Confirmation. The provisions of the
+Intercreditor Agreement, as amended by this Amendment, shall remain in full force and effect following the effectiveness of this Amendment.  4.2. Counterparts. This Amendment may be signed in any number of counterparts, each of which shall be an original, and all of which taken together shall constitute a single agreement, with
+the same effect as if the signatories thereto and hereto were upon the same instrument.  4.3. GOVERNING LAW;
+JURISDICTION.  (a) This Amendment and all claims or causes of action (whether in contract, tort, or otherwise) that
+may be based upon, arise out of or relate in any way to this Amendment or the negotiation, execution or performance of this Amendment or the transactions contemplated hereby shall be governed by, and construed in accordance with, the laws of the
+State of New York.  (b) Section 5.7(b), (c), and (d) of the Intercreditor Agreement shall be incorporated mutatis
+mutandis, to this Amendment.  [SIGNATURES BEGIN ON FOLLOWING PAGE] 
+  
+
+
+ 3 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed as of
+the date hereof by their respective officers thereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A., as Global Administrative Agent
+
+
+
+
+ By:
+ 
+/s/ David Morris
+
+ Name:
+ 
+David Morris
+
+ Title:
+ 
+Authorized Officer
+  
+
+
+
+
+
+
+
+
+
+
+JPMORGAN CHASE BANK, N.A., TORONTO BRANCH, as Canadian Administrative Agent
+
+
+
+
+ By:
+ 
+/s/ Michael N. Tam
+
+ Name:
+ 
+Michael N. Tam
+
+ Title:
+ 
+Senior Vice President
+ [Signature Page to First Amendment to Intercreditor Agreement] 
+
+

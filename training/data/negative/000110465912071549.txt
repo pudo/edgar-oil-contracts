@@ -1,0 +1,885 @@
+
+EX-10.1
+2
+a12-18967_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+  
+
+
+Exhibit 10.1
+ 
+SECOND AMENDMENT
+ 
+TO
+ 
+AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+dated as of July 18, 2012
+ 
+among
+ 
+CABOT OIL & GAS CORPORATION, as Borrower,
+ 
+JPMORGAN CHASE BANK, N.A., as Administrative Agent,
+ 
+BANK OF AMERICA, N.A., as Syndication Agent,
+ 
+BANK OF MONTREAL, as Co- Documentation Agent,
+ 
+BBVA COMPASS, as Co-Documentation Agent,
+ 
+CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK AGENCY, as Co- Documentation Agent,
+ 
+U.S. BANK NATIONAL ASSOCIATION, as Co-Documentation Agent,
+ 
+WELLS FARGO BANK, N.A., as Co- Documentation Agent,
+ 
+and
+ 
+The Lenders Party Thereto
+ 
+
+ 
+J.P. Morgan Securities LLC Merrill Lynch Pierce, Fenner & Smith, Inc.
+ 
+As Co-Lead Arrangers and Joint Bookrunners
+ 
+
+
+
+
+
+
+ 
+SECOND AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+THIS SECOND AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this Second Amendment) dated as of July 18, 2012, among CABOT OIL & GAS CORPORATION, a Delaware limited liability company, (the Borrower); certain of the lenders party to the Credit Agreement referred to below (collectively, the Majority Lenders); and JPMORGAN CHASE BANK, N.A., as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the Administrative Agent).
+ 
+R E C I T A L S
+ 
+A.            The Borrower, the Administrative Agent and the Majority Lenders are parties to that certain Amended and Restated Credit Agreement dated as of September 22, 2010 (as amended by that certain First Amendment to Amended and Restated Credit Agreement dated as of May 4, 2012, the Credit Agreement), pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower.
+ 
+B.            The Borrower has requested and the Majority Lenders have agreed to amend certain provisions of the Credit Agreement as set forth herein.
+ 
+C.            Now, therefore, to induce the Administrative Agent and the Lenders to enter into this Second Amendment and in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+ 
+Section 1.               Defined Terms.  Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this Second Amendment. Unless otherwise indicated, all section references in this Second Amendment refer to sections of the Credit Agreement.
+ 
+Section 2.               Amendments to Credit Agreement.
+ 
+2.1           Amendments to Section 1.02.
+ 
+(a)           Section 1.02 is hereby amended by deleting the defined term Agreement in its entirety and replacing it with the following:
+ 
+Agreement means this Amended and Restated Credit Agreement, as amended by that certain First Amendment dated as of May 4, 2012 and that certain Second Amendment dated as of July 18, 2012, as the same may from time to time be amended, modified, supplemented or restated.
+ 
+(b)           Section 1.02 is hereby amended by deleting the phrase June 30 or in the second line of the defined term Reserve Report.
+ 
+1
+
+
+
+
+
+
+ 
+2.2           Amendment to Section 8.11(a).  Section 8.11(a) is hereby amended and restated in its entirety to read as follows:
+ 
+(a)         On or before March 15 of each year, commencing March 15, 2013, the Borrower shall furnish to the Administrative Agent a Reserve Report evaluating the Oil and Gas Properties of the Borrower and its Domestic Subsidiaries as of the immediately preceding December 31st located within the geographic boundaries of the United States of America (or the Outer Continental Shelf adjacent to the United States of America). The Reserve Report as of December 31st of each year shall be reviewed by one or more Approved Petroleum Engineers.
+ 
+Section 3.               Conditions Precedent.  This Second Amendment shall become effective on the date (such date, the Second Amendment Effective Date), when each of the following conditions is satisfied (or waived in accordance with Section 12.02):
+ 
+3.1           The Administrative Agent shall have received from the Majority Lenders and the Borrower, counterparts (in such number as may be requested by the Administrative Agent) of this Second Amendment signed on behalf of such Person.
+ 
+3.2           No Default shall have occurred and be continuing as of the date hereof, after giving effect to the terms of this Second Amendment.
+ 
+3.3           The Administrative Agent shall have received such other documents as the Administrative Agent or its special counsel may reasonably require.
+ 
+The Administrative Agent is hereby authorized and directed to declare this Second Amendment to be effective when it has received documents confirming or certifying, to the satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section or the waiver of such conditions as permitted in Section 12.02.  Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes.
+ 
+Section 4.               Miscellaneous.
+ 
+4.1           Confirmation. The provisions of the Credit Agreement, as amended by this Second Amendment, shall remain in full force and effect following the effectiveness of this Second Amendment.
+ 
+4.2           Ratification and Affirmation; Representations and Warranties.  The Borrower hereby (a) ratifies and affirms its obligations under, and acknowledges its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect as expressly amended hereby and (b) represents and warrants to the Lenders that as of the date hereof, after giving effect to the terms of this Second Amendment:
+ 
+(i)            all of the representations and warranties contained in each Loan Document to which it is a party are true and correct, except to the extent any such representations and warranties are expressly limited to an earlier date, in which
+ 
+2
+
+
+
+
+
+
+ 
+case, such representations and warranties shall continue to be true and correct as of such specified earlier date, and
+ 
+(ii)           no event or events have occurred which individually or in the aggregate could reasonably be expected to have a Material Adverse Effect.
+ 
+4.3           Counterparts. This Second Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument.  Delivery of this Second Amendment by facsimile transmission shall be effective as delivery of a manually executed counterpart hereof.
+ 
+4.4           NO ORAL AGREEMENT. THIS SECOND AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.
+ 
+4.5           GOVERNING LAW. THIS SECOND AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+ 
+4.6           Payment of Expenses. In accordance with Section 12.03 of the Credit Agreement, the Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable out-of-pocket costs and reasonable expenses incurred in connection with this Second Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.
+ 
+4.7           Severability. Any provision of this Second Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+ 
+4.8           Successors and Assigns. This Second Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+ 
+3
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Second Amendment to be duly executed as of the date first written above.
+ 
+ 
+
+
+
+BORROWER:    
+
+CABOT   OIL & GAS CORPORATION       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Scott C. Schroeder       
+
+
+     
+
+     
+
+Name:    
+
+Scott   C. Schroeder       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President and       
+
+
+     
+
+     
+
+     
+
+Chief   Financial Officer         
+ 
+1
+
+
+
+
+
+
+
+ 
+
+
+
+ADMINISTRATIVE   AGENT:    
+
+JPMORGAN   CHASE BANK, N.A.       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael A. Kamuf       
+
+
+     
+
+     
+
+Name:   Michael A. Kamauf       
+
+
+     
+
+     
+
+Title:   Vice President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+LENDERS:    
+
+JPMORGAN   CHASE BANK, N.A.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Michael A. Kamauf       
+
+
+     
+
+     
+
+Name:   Michael A. Kamauf       
+
+
+     
+
+     
+
+Title:   Vice President         
+ 
+2
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK   OF AMERICA, N.A.       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Jeffery H. Rathkamp       
+
+
+     
+
+     
+
+Name:   Jeffery H. Rathkamp       
+
+
+     
+
+     
+
+Title:   Managing Director         
+ 
+3
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK   OF MONTREAL       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   James V. Ducote       
+
+
+     
+
+     
+
+Name:   James V. Ducote       
+
+
+     
+
+     
+
+Title:   Director         
+ 
+4
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMPASS   BANK       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Ian Payne       
+
+
+     
+
+     
+
+Name:   Ian Payne       
+
+
+     
+
+     
+
+Title:   Vice President         
+ 
+5
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CANADIAN   IMPERIAL BANK OF COMMERCE, NEW YORK AGENCY       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Eoin Roche       
+
+
+     
+
+     
+
+Name:   Eoin Roche       
+
+
+     
+
+     
+
+Title:   Authorized Signatory         
+ 
+6
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+U.S.   BANK NATIONAL ASSOCIATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Justin M. Alexander       
+
+
+     
+
+     
+
+Name:   Justin M. Alexander       
+
+
+     
+
+     
+
+Title:   Vice President         
+ 
+7
+
+
+
+
+
+
+ 
+
+
+
+     
+
+WELLS   FARGO BANK, N.A.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Sarah Thomas       
+
+
+     
+
+     
+
+Name:   Sarah Thomas       
+
+
+     
+
+     
+
+Title:   Portfolio Manager         
+ 
+8
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BRANCH   BANKING AND TRUST COMPANY       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Parul June       
+
+
+     
+
+     
+
+Name:   Parul June       
+
+
+     
+
+     
+
+Title:   Vice President         
+ 
+9
+
+
+
+
+
+
+ 
+
+
+
+     
+
+KEYBANK   NATIONAL ASSOCIATION       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Craig Hanselman       
+
+
+     
+
+     
+
+Name:   Craig Hanselman       
+
+
+     
+
+     
+
+Title:   Vice President         
+ 
+10
+
+
+
+
+
+
+ 
+
+
+
+     
+
+THE   BANK OF TOKYO-MITSUBISHI UFJ, LTD.       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+11
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMERICA   BANK       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Justin Crawford       
+
+
+     
+
+     
+
+Name:   Justin Crawford       
+
+
+     
+
+     
+
+Title:   Vice President         
+ 
+12
+
+
+
+
+
+
+ 
+
+
+
+     
+
+ING   CAPITAL LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Charles Hall       
+
+
+     
+
+     
+
+Name:   Charles Hall       
+
+
+     
+
+     
+
+Title:   Managing Director         
+ 
+13
+
+
+
+
+
+
+ 
+
+
+
+     
+
+THE   FROST NATIONAL BANK       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Andrew A. Merryman       
+
+
+     
+
+     
+
+Name:   Andrew A. Merryman       
+
+
+     
+
+     
+
+Title:   Senior Vice President         
+ 
+14
+
+
+
+
+
+
+

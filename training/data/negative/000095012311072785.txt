@@ -1,0 +1,617 @@
+
+EX-10.4
+3
+c17949exv10w4.htm
+EXHIBIT 10.4
+
+
+
+Exhibit 10.4
+
+
+
+
+
+Exhibit 10.4
+
+
+
+EXECUTION VERSION
+
+
+
+Forbearance Agreement 
+
+
+
+FORBEARANCE AGREEMENT, dated as of August 3, 2011 (this Agreement) among DHS HOLDING
+COMPANY, a Delaware corporation (Holdings), DHS DRILLING COMPANY, a Colorado corporation (the
+"Borrower), the other Loan Parties party hereto, and LEHMAN COMMERCIAL PAPER INC., as
+administrative agent (in such capacity, the Administrative Agent) and as the Lender (in such
+capacity, the Lender) under that certain Credit Agreement (as defined below).
+
+
+W I T N E S S E T H:
+
+
+
+WHEREAS, the Borrower, Holdings, the Lender and the Administrative Agent are parties to that
+certain Amended and Restated Credit Agreement, dated as of August 15, 2008, as amended by that
+certain Amendment No. 1, dated as of September 19, 2008, and further amended by that certain Waiver
+and Amendment No. 2, dated as of April 1, 2010 (as further amended, modified or supplemented from
+time to time in accordance with its terms, the Credit Agreement; capitalized terms used but not
+defined herein shall have the respective meanings ascribed to such terms in the Credit Agreement);
+
+
+WHEREAS, the Borrower, Holdings, the Lender and the Administrative Agent are parties to that
+certain Forbearance Agreement, dated as of June 28, 2011 (the Existing Forbearance Agreement),
+pursuant to which the Lender and the Administrative Agent agreed to forbear from exercising certain
+rights under the Credit Agreement and the other Loan Documents in connection with the Forbearance
+Default (as defined herein);
+
+
+WHEREAS, the Borrower has failed in its performance of certain provisions of the Credit
+Agreement as further described herein, such failure constituting a default under the Credit
+Agreement;
+
+
+WHEREAS, the Borrower and Holdings have requested that the Lender and the Administrative Agent
+amend and restate the Existing Forbearance Agreement, and the Lender and the Administrative Agent
+have agreed to do so, to, inter alia, extend the Forbearance Period (as defined herein) on the
+terms and conditions specified;
+
+
+WHEREAS, the Borrower and Holdings have requested that the Lender and the Administrative Agent
+forbear, and the Lender and the Administrative Agent have agreed, subject to the terms and
+conditions of this Agreement, to forbear, from exercising certain rights under the Credit Agreement
+and the other Loan Documents during the Forbearance Period (as defined below).
+
+
+NOW, THEREFORE, in consideration of the premises and the agreements hereinafter contained, the
+parties hereto agree as follows:
+
+
+
+1. Forbearance.
+
+
+(a) Acknowledgement. As of the date hereof, each of the Loan Parties party hereto
+acknowledge that the failure and anticipated failure, as the case may be, by the Borrower to (a) on
+each of January 3, 2011, April 1, 2011 and July 1, 2011, service the amortization payment due and
+payable pursuant to Section 2.4(a)(i) of the Credit Agreement (together, the Payment Default),
+(b) on January 3, 2011, April 1, 2011 and July 1, 2011 service the interest payment due and payable
+pursuant to Section 2.8(b) of the Credit Agreement (together, the
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+"Interest Default) and (c) for the fiscal quarter ending on December 31, 2010, comply with
+the covenant under Section 6.1(a) of the Credit Agreement with respect to maintenance of Minimum
+Consolidated EBITDA (the Maintenance Default, together with the Payment Default and Interest
+Default, the Forbearance Default) constitutes a default under the Credit Agreement.
+
+
+(b) Forbearance Period. (i) During the period from the Effective Date (as defined
+below) until August 8, 2011 (the Forbearance Period), each of the Administrative Agent and the
+Lender hereby agrees to forbear (the Forbearance) from exercising its rights and remedies under
+the Credit Agreement and the other Loan Documents arising as a result of the Forbearance Default;
+provided, however, that upon the occurrence of any Event of Default other than the
+Forbearance Default, including the Events of Defaults set forth in Section 1(c) hereof, the
+Forbearance Period shall automatically and immediately terminate, and the Administrative Agent and
+the Lender shall be entitled to exercise any and all of their rights and remedies under the Credit
+Agreement, the other Loan Documents and applicable law, without further notice other than as
+required therein. Upon termination of the Forbearance Period, (A) the forbearance shall
+automatically terminate and be of no further force or effect without any further action by the
+Lender, (B) the Forbearance Default is, without further action, reinstated and shall have the same
+force and effect as if the Forbearance had not been agreed to by the parties hereto and (C) subject
+to the terms of the Credit Agreement, the Loan Documents and applicable law, the Lender may
+thereafter, without limitation, sue, ask for or demand from the Loan Parties payment of the
+Obligations due and payable to such Lender, in whole or in part, and otherwise enforce any of its
+rights and remedies (including rights of acceleration and foreclosure) provided for under the
+Credit Agreement, the Loan Documents or applicable law against any party. Each of the Loan Parties
+party hereto agrees that, subject to the agreement of the Lender to forbear from exercising certain
+of their rights and remedies as and to the extent expressly set forth in this Agreement, all rights
+and remedies of the Lender under the Credit Agreement, the Loan Documents or applicable law with
+respect to such Loan Party shall continue to be available to the Lender from and after the
+Effective Date.
+
+
+(ii) It is understood and agreed that interest shall accrue from the Effective Date through
+the remainder of the Forbearance Period on the outstanding Obligations at the applicable default
+rates provided for pursuant to the Credit Agreement.
+
+
+(c) Additional Events of Default. The following events shall constitute Events of
+Default under the terms of the Credit Agreement and the other Loan Documents:
+
+
+(i) any of the Borrower, Holdings or the other Loan Parties shall pledge, encumber, charge,
+assign or grant a security interest in, or encumbrance of any kind on, any Collateral; or
+
+
+(ii) any of the Borrower, Holdings or the other Loan Parties shall enter into any arrangement
+to provide priority or preference with respect thereto, in connection with securing or obtaining
+debtor-in-possession financing; or
+
+
+(iii) any of the Loan Parties shall (x) pay any management fees to either of Delta Petroleum
+Corporation (Parent) or Chesapeake Energy Corporation (Chesapeake) or (y) make any other
+payments, distributions or dividends in respect of stock held by either of Parent or Chesapeake in
+any Loan Party; or
+
+
+(iv) Holdings, the Borrower or any other Loan Party shall fail to perform or observe any term,
+covenant or agreement set forth in this Agreement; or
+
+ 
+
+2
+
+
+
+
+ 
+
+
+
+(v) any representation or warranty made or deemed made by any Loan Party herein or any
+representation or warranty made or deemed made hereafter by any Loan Party in any Loan Document or
+which is made in connection with this Agreement or any other Loan Document shall prove to have been
+incorrect or misleading in any material respect on or as of the date made or deemed made.
+
+
+
+2. Forbearance Requirements.
+
+
+As consideration for the Forbearance, during the Forbearance Period:
+
+
+(a) Holdings and Borrower shall permit any third party financial consultant or advisor acting
+on behalf of the Lender or Administrative Agent to inspect the property of Holdings and its
+Subsidiaries and to conduct such other activity as contemplated in Section 5.7(b) of the Credit
+Agreement.
+
+
+(b) The Borrower shall facilitate such meetings between the Administrative Agent and Macquarie
+Capital (USA) Inc., as the Borrowers financial advisor, as the Administrative Agent may request
+from time to time.
+
+
+(c) The Borrower shall have paid or reimbursed the Administrative Agent for all of the
+Administrative Agents reasonable out-of-pocket costs and expenses of every type and nature
+(including the reasonable fees, expenses and disbursements of the Administrative Agents counsel,
+Weil, Gotshal & Manges LLP) incurred by the Administrative Agent in connection with the
+preparation, reproduction, execution and delivery of this Agreement and all other Loan Documents
+entered into or in connection herewith and any other Loan Document entered into prior to the date
+hereof.
+
+
+(d) The Loan Parties shall provide the Lender with such other certificates, documents and
+agreements as the Lender may reasonably request.
+
+
+3. Representations and Warranties. Each of the Loan Parties party hereto represents
+and warrants as follows (which representations and warranties shall survive the execution and
+delivery of this Agreement):
+
+
+(a) Each Loan Party has taken all necessary action to authorize the execution, delivery and
+performance of this Agreement.
+
+
+(b) This Agreement constitutes the legal, valid and binding obligation of each Loan Party,
+enforceable against them in accordance with their respective terms, subject to applicable
+bankruptcy, reorganization, insolvency, moratorium and similar laws affecting the enforcement of
+creditors rights generally and to general equity principles.
+
+
+(c) No consent or approval of any person, firm, corporation or entity, and no consent,
+license, approval or authorization of any governmental authority is or will be required in
+connection with the execution, delivery, performance, validity or enforcement of this Agreement,
+other than any such consent, approval, license or authorization which has been obtained and remains
+in full force and effect or where the failure to obtain such consent, approval, license or
+authorization would not result in a Material Adverse Effect.
+
+
+(d) After giving effect to this Agreement, each of the Borrower, Holdings and the other Loan
+Parties is in compliance with all of the various covenants and agreements set forth in the Credit Agreement and each of the other Loan Documents, other than the Forbearance
+Default.
+
+ 
+
+3
+
+
+
+
+ 
+
+
+
+(e) After giving effect to this Agreement and the agreements to be delivered in connection
+herewith, no event has occurred and is continuing which constitutes a Default or an Event of
+Default, other than the Forbearance Default.
+
+
+(f) After giving effect to this Agreement and the agreements to be delivered in connection
+herewith, all representations and warranties contained in the Credit Agreement and each of the
+other Loan Documents are true and correct in all material respects as of the date hereof, except to
+the extent that any representation or warranty relates to a specified date, in which case such are
+true and correct in all material respects as of the specific date to which such representations and
+warranties relate, and except to the extent of any inconsistency in such representations or
+warranties arising directly out of the Forbearance Default.
+
+
+(g) Each report delivered and any information provided pursuant to or in connection with this
+Agreement has and will be prepared on a reasonable basis and in good faith, and has/will be based
+on assumptions believed by the applicable Loan Party to be reasonable at the time made and upon the
+best information available to such Loan Party, and such Loan Party is not aware of any facts or
+information that would lead the applicable party to believe that any such information or report is
+incorrect or misleading in any material respect.
+
+
+4. Fees and Expenses. Notwithstanding the terms of Section 2(c) above, the Borrower
+and Holdings agree to pay on demand all fees, costs and expenses, including reasonable attorneys
+and consultants fees, of the Administrative Agent and the Lender incurred in connection with this
+Agreement.
+
+
+5. Effective Date. This Agreement shall not become effective unless and until (the
+latest date upon which such occurs, the Effective Date) this Agreement shall have been duly
+executed and delivered by the Loan Parties party hereto, the Lender and the Administrative Agent.
+
+
+
+6. Reference and Continued Effectiveness of the Loan Documents.
+
+
+(a) The term Agreement, hereof, herein and similar terms as used in the Credit
+Agreement, and references in the other Loan Documents to the Credit Agreement, shall mean and refer
+to, from and after the Effective Date, the Credit Agreement as affected by this Agreement.
+
+
+(b) The Loan Parties hereby agree that all of the covenants and agreements contained in the
+Credit Agreement and the Loan Documents are hereby ratified and confirmed in all respects and
+confirm the Collateral will remain subject to the security interest of the Administrative Agent for
+the benefit of the Secured Parties pursuant to the Loan Documents.
+
+
+(c) The execution, delivery and effectiveness of this Agreement shall not, except as expressly
+provided herein, operate as a forbearance or waiver of any right, power or remedy of the
+Administrative Agent or the Lender under any of the Loan Documents, nor constitute a forbearance or
+waiver of any other provision in any of the Loan Documents, except as expressly provided herein.
+
+
+(d) This Agreement constitutes a Loan Document.
+
+ 
+
+4
+
+
+
+
+ 
+
+
+
+7. Counterparts. This Agreement may be executed in counterparts, each of which shall
+be an original, and all of which, taken together, shall constitute a single instrument. Delivery
+of an executed counterpart of a signature page to this Agreement by telecopier shall be effective
+as delivery of a manually executed counterpart of this Agreement.
+
+
+8. Governing Law. This Agreement shall be governed by, and construed in accordance
+with, the laws of the State of New York without giving effect to the conflict of laws provisions
+thereof.
+
+
+9. Limitation. Each party hereto hereby agrees that this Agreement does not impose on
+Lehman Commercial Paper Inc. affirmative obligations or indemnities not existing, as of the date of
+its petition commencing its proceeding under chapter 11 of the United States Code, and that could
+give rise to administrative expense claims.
+
+
+10. Indemnity. The Borrower, Holdings and the other Loan Parties further agree,
+jointly and severally, to defend, protect, indemnify and hold harmless the Administrative Agent and
+the Lender, each of their respective Affiliates and their respective officers, directors,
+employees, attorneys and agents (collectively the Indemnitees) from and against any and all
+liabilities, obligations, losses, damages, penalties, actions, judgments, suits, claims, costs,
+expenses of any kind or nature whatsoever (including, without limitation, the reasonable fees and
+expenses of counsel for such Indemnitees in connection with any investigative, administrative or
+judicial proceeding, whether or not such Indemnitees shall be designated as a party thereto),
+imposed on, incurred by, or asserted against such Indemnitees in any manner relating to or arising
+out of this Agreement or any other Loan Document (collectively the Indemnified Matters);
+provided, however, that neither the Borrower, Holdings or any Loan Party shall have
+an obligation to an Indemnitee hereunder with respect to Indemnified Matters caused or resulting
+from (a) a dispute among the Lender or a dispute between the Lender and the Administrative Agent or
+(b) the willful misconduct or gross negligence of such Indemnitee. If the undertaking to
+indemnify, pay and hold harmless set forth in the preceding sentence may be unenforceable because
+it violates any law or public policy, the Borrower, Holdings and the other Loan Parties shall
+contribute the maximum portion which it is permitted to pay and satisfy under the applicable law,
+to the payment and satisfaction of all Indemnified Matters incurred by Indemnities. This Section
+10 shall survive the payment of the Obligations and the termination of this Agreement or any other
+Loan Document.
+
+
+[Signature Pages Follow]
+
+
+ 
+
+5
+
+
+
+
+ 
+
+
+
+IN WITNESS WHEREOF the parties hereto have caused this Agreement to be duly executed by their
+respective officers as of the date first written above.
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    DHS DRILLING COMPANY, as the Borrower
+ 
+     
+
+     
+    By:  
+    /s/  Kevin K. Nanke
+ 
+     
+
+     
+     
+    Name:  
+    Kevin K. Nanke 
+     
+
+     
+     
+    Title:  
+    Chief Financial Officer 
+     
+
+
+     
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    DHS HOLDING COMPANY, as Holdings
+ 
+     
+
+     
+    By:  
+    /s/  Kevin K. Nanke
+ 
+     
+
+     
+     
+    Name:  
+    Kevin K. Nanke 
+     
+
+     
+     
+    Title:  
+    Chief Financial Officer 
+     
+
+
+     
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    CHAPMAN TRUCKING COMPANY, INC., as Guarantor
+ 
+     
+
+     
+    By:  
+    /s/  Gregory D. Tubbs
+ 
+     
+
+     
+     
+    Name:  
+    Gregory D. Tubbs 
+     
+
+     
+     
+    Title:  
+    Executive Vice President 
+     
+
+
+     
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    HASTINGS DRILLING COMPANY, as Guarantor
+ 
+     
+
+     
+    By:  
+    /s/ Gregory D. Tubbs
+ 
+     
+
+     
+     
+    Name:  
+    Gregory D. Tubbs 
+     
+
+     
+     
+    Title:  
+    Executive Vice President 
+     
+
+
+     
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    C&L DRILLING COMPANY, as Guarantor
+ 
+     
+
+     
+    By:  
+    /s/  Gregory D. Tubbs
+ 
+     
+
+     
+     
+    Name:  
+    Gregory D. Tubbs 
+     
+
+     
+     
+    Title:  
+    Executive Vice President 
+     
+
+
+     
+
+
+
+[Signature Page to Agreement]
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    LEHMAN COMMERCIAL PAPER, INC, as 
+Administrative Agent and Lender
+ 
+     
+
+     
+    By:  
+    /s/ David Walsh 
+     
+
+     
+     
+    Name:  
+    David Walsh 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+[Signature Page to Agreement]
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+

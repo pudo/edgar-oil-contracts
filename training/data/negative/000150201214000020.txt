@@ -1,0 +1,859 @@
+
+EX-10.1
+2
+qre-20140630ex101197aaa.htm
+EX-10.1
+
+
+
+
+
+	
+		
+			Ex 10.1
+		
+	
+	
+		
+			SEVENTH AMENDMENT TO CREDIT AGREEMENT
+		
+		
+			THIS SEVENTH AMENDMENT TO CREDIT AGREEMENT (this “Amendment”), dated as of April 21, 2014, is made by and among QRE OPERATING, LLC, a Delaware limited liability company (“Borrower”); QR ENERGY, LP, a Delaware limited partnership (“QRE MLP”); QRE GP, LLC, a Delaware limited liability company (“General Partner”); WELLS FARGO BANK, NATIONAL ASSOCIATION (in its individual capacity, “Wells Fargo”) as administrative agent (in such capacity, together with its successors in such capacity, the “Administrative Agent”) for the financial institutions (collectively the “Lenders”) party to the hereinafter-defined Credit Agreement; and the undersigned Lenders. 
+		
+		
+			W I T N E S S E T H:
+		
+		
+			 
+		
+		
+			WHEREAS, Borrower, QRE MLP, the General Partner, the Administrative Agent and the Lenders entered into a Credit Agreement dated as of December 17, 2010, as amended by that certain First Amendment to Credit Agreement, dated as of October 3, 2011, that certain Second Amendment to Credit Agreement, dated as of March 16, 2012, that certain Third Amendment to Credit Agreement, dated as of April 11, 2012, that certain Fourth Amendment to Credit Agreement, dated as of December 20, 2012, that certain Fifth Amendment to Credit Agreement dated as of September 23, 2013, and that certain Sixth Amendment to Credit Agreement, dated as of February 28, 2014, but effective as of March 3, 2014 (as so amended, and as the same may be further amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”);
+		
+		
+			NOW, THEREFORE, in consideration of the premises and the mutual agreements, representations and warranties herein set forth, and for other good and valuable consideration, the receipt and sufficiency of which are acknowledged, Borrower, the Administrative Agent and the undersigned Lenders do hereby agree as follows:
+		
+		
+			
+				 1.
+			Amendments to Credit Agreement.
+		
+			
+				 (a)
+			Section 1.02 of the Credit Agreement is hereby amended as follows:
+		
+			
+				 (i)
+			The definition of “Agreement” is amended and restated in its entirety as follows:
+		
+			 
+		
+		
+			“Agreement” means this Credit Agreement, as the same may from time to time be amended, modified, supplemented or restated, including, without limitation, by the First Amendment, the Second Amendment, the Third Amendment, the Fourth Amendment, the Fifth Amendment, the Sixth Amendment and the Seventh Amendment.
+		
+		
+			
+				 (ii)
+			The definition of “EBITDAX” is amended and restated in its entirety as follows:
+		
+			 
+		
+		
+
+		
+		  
+		“EBITDAX” means, for any period, the Consolidated Net Income for such period plus, without duplication, the following charges and expenses, to the extent deducted from Consolidated Net Income for such period, the sum of (a) interest, income taxes, depreciation, depletion, amortization, exploration and abandonment expenses, (b) transaction costs, expenses and charges with respect to the Transactions deducted from Consolidated Net Income pursuant to SFAS 141(R), (c) the Management Incentive Fee and (d) all other noncash charges, and minus, without duplication and to the extent included in Consolidated Net Income for such period, all noncash income, in each case, of QRE MLP and its Consolidated Subsidiaries.  For the purposes of calculating EBITDAX and the components thereof for any period of four (4) consecutive calendar quarters (each, a “Reference Period”) pursuant to any determination of the financial ratio contained in Section 9.01(a), (i) if at any time during such Reference Period the Borrower or any Subsidiary shall have made any Material Disposition, the EBITDAX for such Reference Period shall be reduced by an amount equal to the EBITDAX (if positive) attributable to the Property that is the subject of such Material Disposition for such Reference Period or increased by an amount equal to the EBITDAX (if negative) attributable thereto for such Reference Period and (ii) if during such Reference Period the Borrower or any Subsidiary shall have made a Material Acquisition, the EBITDAX for such Reference Period shall be calculated after giving pro forma effect thereto as if such Material Acquisition occurred on the first day of such Reference Period.  As used in this definition, “Material Acquisition” means any acquisition of Property or series of related acquisitions of Property that involves the payment of consideration by the Borrower and its Subsidiaries in excess of the lesser of $5,000,000 and a dollar amount equal to five percent (5%) of the Borrowing Base; and “Material Disposition” means any Disposition of Property or series of related Dispositions of property that yields gross proceeds to the Borrower or any of its Subsidiaries in excess of the lesser of $5,000,000 and a dollar amount equal to five percent (5%) of the Borrowing Base.  For purposes of calculating EBITDAX for any period prior to the Reference Period ending on the fourth fiscal quarter after the Effective Date, such calculation shall be made on a pro forma basis after giving effect to the Transactions (including applicable amounts set forth in the Initial Financial Statements) as if the Transactions had been consummated on the first day of the applicable Reference Period.
+		
+		
+			
+				 (iii)
+			By adding the following defined terms in appropriate alphabetical order:
+		
+
+		
+		  
+		“Seventh Amendment” means that certain Seventh Amendment to Credit Agreement dated as of April __, 2014, by and among Borrower, QRE MLP, the General Partner, the Administrative Agent and the Lenders.
+		
+		
+			“Seventh Amendment Effective Date” means first date on which conditions specified in Section 2 of the Seventh Amendment having been satisfied (or waived by each Lender in accordance with Section 12.02).
+		
+		
+			
+				 (b)
+			Section 2.07(a) of the Credit Agreement is hereby amended by amending and restating the first sentence thereof as follows:
+		
+			“For the period from and including the Seventh Amendment Effective Date to but excluding the first Redetermination Date to occur after such date, the amount of the Borrowing Base shall be $900,000,000.”
+		
+		
+			
+				 2.
+			Conditions Precedent.  This Amendment shall become effective as of the Seventh Amendment Effective Date provided that each of the following conditions is satisfied (or waived by Majority Lenders in accordance with Section 12.02 of the Credit Agreement):
+		
+			
+				 (a)
+			The Administrative Agent shall have received from each party hereto counterparts (in such number as may be requested by the Administrative Agent) of this Amendment signed on behalf of such party.
+		
+			
+				 (b)
+			The Administrative Agent shall have received all amounts due and payable on or prior to the Seventh Amendment Effective Date, including, to the extent invoiced, reimbursement or payment of all reasonable out-of-pocket expenses required to be reimbursed or paid by the Borrower hereunder (including, to the extent invoiced on or prior to the Seventh Amendment Effective Date, the reasonable fees and expenses of Sidley Austin LLP, counsel to the Administrative Agent).
+		
+			
+				 (c)
+			The Administrative Agent shall have received such other documents as the Administrative Agent or special counsel to the Administrative Agent may reasonably request.
+		
+			The Administrative Agent shall notify the Borrower and the Lenders of the Seventh Amendment Effective Date, and such notice shall be conclusive and binding.  
+		
+		
+			
+				 3.
+			Representations True; No Default.  Borrower represents and warrants that the representations and warranties contained in the Loan Documents are true and correct in all material respects (except that any such representations and warranties that are qualified by materiality shall be true and correct in all respects) on and as of the date hereof as though made on and as of such date, except to the extent any such representation or warranty is expressly limited to an earlier date, in which case, on and as of the date hereof, such representation or warranty shall continue to be true and correct in all material respects as of such specified earlier date.  Borrower hereby certifies that, after giving effect to the amendments set forth in this Amendment, no Default or Event of Default has occurred and is continuing.
+		
+			
+				 4.
+			Ratification.  Except as expressly amended hereby, the Loan Documents shall remain in full force and effect.  The Credit Agreement, as hereby amended, and all rights and powers created thereby or thereunder and under the other Loan Documents are in all respects ratified and confirmed and remain in full force and effect.
+		
+			
+				 5.
+			Definitions and References.  Any term used in this Amendment that is defined in the Credit Agreement shall have the meaning therein ascribed to it.  The terms “Agreement” and “Credit Agreement” as used in the Loan Documents or any other instrument, document or writing furnished to the Administrative Agent or the Lenders by the Borrower and referring to the Credit Agreement shall mean the Credit Agreement as hereby amended.
+		
+			
+				 6.
+			Miscellaneous.  This Amendment (a) shall be binding upon and inure to the benefit of Borrower, the Administrative Agent and the Lenders and their respective successors and assigns (provided,  however, no party may assign its rights hereunder except in accordance with the Credit Agreement); (b) may be modified or amended only in accordance with the Credit Agreement; (c) may be executed in several counterparts, and by the parties hereto on separate counterparts, and each counterpart, when so executed and delivered, shall constitute an original agreement, and all such separate counterparts shall constitute but one and the same agreement, and (d) together with the other Loan Documents, embodies the entire agreement and understanding between the parties with respect to the subject matter hereof and supersedes all prior agreements, consents and understandings relating to such subject matter.  Delivery of an executed counterpart of a signature page to this Amendment by telecopy or as an attachment to an email shall be effective as delivery of a manually executed counterpart of this Amendment.
+		
+			 
+		
+		
+			[Signature Pages Follow]
+		
+		
+			 
+		
+		
+			 
+		
+		
+			The parties hereto have caused this Amendment to be duly executed as of the day and year first above written.
+		
+		
+			 
+		
+		
+			BORROWER:QRE OPERATING, LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Cedric W. Burgher
+		
+		
+			Cedric W. Burgher, 
+		
+		
+			Chief Financial Officer
+		
+		
+
+		
+		  
+		QRE MLP:QR ENERGY, LP
+		
+		
+			 
+		
+		
+			By:QRE GP, LLC 
+		
+		
+			its General Partner
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Cedric W. Burgher
+		
+		
+			Cedric W. Burgher, 
+		
+		
+			Chief Financial Officer
+		
+		
+			 
+		
+		
+
+		
+		  
+		GENERAL PARTNER:QRE GP, LLC 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Cedric W. Burgher
+		
+		
+			Cedric W. Burgher, 
+		
+		
+			Chief Financial Officer
+		
+		
+
+		
+		  
+		
+		
+		
+			ADMINISTRATIVE AGENT 
+		
+		
+			AND LENDER:WELLS FARGO BANK, NATIONAL ASSOCIATION
+		
+		
+			as Administrative Agent and a Lender
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Todd Fogle
+		
+		
+			Todd Fogle
+		
+		
+			Vice President
+		
+		
+			 
+		
+		
+
+		
+		  
+		
+		
+		
+			LENDER:JPMORGAN CHASE BANK, N.A. 
+		
+		
+			as a Lender
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Linda Papadakis
+		
+		
+			Jo Linda PapadakisSenior Vice President
+		
+		
+
+		
+		  
+		LENDER:ROYAL BANK OF CANADA
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Don J. McKinnerney
+		
+		
+			Don J. McKinnerney
+		
+		
+			Authorized Signatory
+		
+		
+			 
+		
+		
+
+		
+		  
+		
+		
+		
+			LENDER:THE ROYAL BANK OF SCOTLAND plc
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:     /s/ Sanjay Remond
+		
+		
+			Sanjay Remond
+		
+		
+			Director
+		
+		
+			 
+		
+		
+			 LENDER:Toronto Dominion (New York) LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Masood Fikree
+		
+		
+			Masood Fikree
+		
+		
+			Authorized Signatory
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:BANK OF AMERICA, N.A.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Michael Clayborne
+		
+		
+			Michael Clayborne
+		
+		
+			Vice President
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:BANK OF MONTREAL
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Kevin Utsey
+		
+		
+			Kevin Utsey
+		
+		
+			Director
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:CAPITAL ONE, N.A.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Matthew Molero
+		
+		
+			Matthew Molero
+		
+		
+			Senior Vice President
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:CITIBANK, N.A.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Eamon Baqui
+		
+		
+			Eamon Baqui
+		
+		
+			Vice President
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:COMERICA BANK
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ William Robinson
+		
+		
+			William Robinson
+		
+		
+			Vice President
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:ING CAPITAL LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Juli Bieser
+		
+		
+			Juli Bieser
+		
+		
+			Director
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Josh Strong
+		
+		
+			Josh Strong
+		
+		
+			Director
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:UNION BANK, N.A.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Paul E. Cornell
+		
+		
+			Paul E. Corenll
+		
+		
+			Senior Vice President
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:Scotiabanc Inc.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ J.F. Todd
+		
+		
+			J.F. Todd
+		
+		
+			Managing Director
+		
+		
+			 
+		
+		
+			LENDER:REGIONS BANK
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Daniel G. Steele
+		
+		
+			Daniel G. Steele
+		
+		
+			Senior Vice Presidnet
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:COMPASS BANK
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ James Neblett
+		
+		
+			James Neblett
+		
+		
+			Vice President
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Michael Willis
+		
+		
+			Michael Willis
+		
+		
+			Managing Director
+		
+		
+			 
+		
+		
+			By:      /s/ Ting Lee
+		
+		
+			Ting Lee
+		
+		
+			Director
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+
+		
+		  
+		LENDER:U.S. BANK NATIONAL ASSOCIATION
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Jonathan H. Lee
+		
+		
+			Jonathan H. Lee
+		
+		
+			Vice President
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			LENDER:CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Michael Spaight
+		
+		
+			Michael Spaight
+		
+		
+			Authorized Signatory
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:     /s/ Ryan Long
+		
+		
+			Ryan Long
+		
+		
+			Authorized Signatory
+		
+		
+			 
+		
+		
+			 
+		
+		
+			LENDER:CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK AGENCY
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Trudy Nelson
+		
+		
+			Trudy Nelson
+		
+		
+			Authorized Signatory
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Richard Antl
+		
+		
+			Richard Antl
+		
+		
+			Authorized Signatory
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			LENDER:BARCLAYS BANK PLC.
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By:      /s/ Vanessa A. Kurbatshiy
+		
+		
+			Vanessa A. Kurbatskiy
+		
+		
+			Vice President
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		
+			 
+		
+		 
+	
+
+

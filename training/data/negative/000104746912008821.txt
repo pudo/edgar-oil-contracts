@@ -1,0 +1,294 @@
+
+EX-10.17
+3
+a2210931zex-10_17.htm
+EX-10.17
+
+
+
+
+
+
+
+Exhibit 10.17
+ 
+HYPERDYMANICS CORPORATION
+ 
+2010 EQUITY INCENTIVE PLAN, AS AMENDED
+ 
+ARTICLE I
+ESTABLISHMENT OF THE PLAN
+ 
+Hyperdynamics Corporation (the Company) hereby establishes the Hyperdynamics Corporation 2010 Equity Incentive Plan (the Plan),as amended, upon the terms and conditions hereinafter stated.
+ 
+ARTICLE II
+DEFINITIONS
+ 
+2.01        Award means any stock option, restricted stock or restricted stock unit award granted to a Participant under the Plan.
+ 
+2.02        Award Agreement means the written agreement pursuant to Article VI hereof that sets forth the terms, conditions, restrictions and privileges for an Award and that incorporates the terms of the Plan.
+ 
+2.03        Board means the Board of Directors of the Company.
+ 
+2.04        Code means the Internal Revenue Code of 1986, as amended.
+ 
+2.05        Committee means the Compensation Committee consisting of three or more persons appointed by the Board pursuant to Section 3.01 hereof. If no Committee is appointed, the term Committee means the Board, except in those instances where the text clearly indicated otherwise.
+ 
+2.06        Common Stock means shares of the Common Stock, $.001 par value per share, of the Company.
+ 
+2.07        Disability means any physical or mental impairment which qualifies an Employee for disability benefits under the applicable long-term disability plan maintained by the Company or, if no such plan applies, which would qualify such Employee for disability benefits under the Federal Social Security System.
+ 
+2.08        Effective Date means the date on which the Companys stockholders vote to approve the Plan on the Boards approval and recommendation of the Plan.
+ 
+2.09        Employee means any person employed on an hourly or salaried basis by the Company or any parent or subsidiary of the Company that now exists or hereafter is organized or acquired by or acquires the Company and whose wages are reported on a Form W-2.  The Company classification as to who is an Employee shall be determinative for purposes of an individuals eligibility under the Plan.
+ 
+1
+
+
+
+
+
+
+ 
+2.10        Exchange Act means the Securities Exchange Act of 1934, as amended.
+ 
+2.11        Fair Market Value means the closing price of a share of Common Stock on the national securities exchange that is the principal market for the Common Stock of the date of grant (or on the last preceding trading date if shares were not traded on such date).  If the Common Stock is not listed on a securities exchange, Fair Market Value shall be the amount determined in good faith by the Committee.
+ 
+2.12        Incentive Stock Option means any Award granted under this Plan which the Committee intends (at the time it is granted) to be an incentive stock option within the meaning of Section 422 of the Code.  All Incentive Stock Options issued under this Plan are intended to comply with the requirements of Section 422 of the Code, and the regulations thereunder, and all provisions hereunder shall be read, interpreted and applied with that purpose in mind.
+ 
+2.13        Non-Qualified Stock Option means any Option Award granted under this Plan which is a stock option but is not an Incentive Stock Option.
+ 
+2.14        Officer means any Employee of the Company or any of its subsidiaries who is designated by the Board as a corporate officer.
+ 
+2.15        Participant means any Employee, Officer, director, consultant, independent contractor or other individual who is designated by the Committee or the Board pursuant to Article VI to participate in the Plan.
+ 
+2.16        Retirement means a separation from service which constitutes a normal retirement under any applicable qualified retirement plan maintained by the Company or in the absence of a qualified retirement plan,  a separation from service which is determined by the Board to constitute a retirement.
+ 
+2.17        Restricted Stock  means any Award granted under this Plan which the Committee intends (at the time it is granted) to be a restricted stock award within the meaning of Section 83 of the Code.
+ 
+2.18        Restricted Stock Unit means any Award granted under this Plan which the Committee intends (at the time it is granted) to be a restricted stock unit settled in Common Stock, cash or a combination thereof at the end of a specified vesting period.
+ 
+2.19        Settlement means the date on which the vesting requirements applicable to a Restricted Stock Unit are satisfied and the Company delivers to the Participant shares of Common Stock, cash or a combination of Common Stock and cash in satisfaction of such Restricted Stock Unit.
+ 
+ARTICLE III
+ADMINISTRATION OF THE PLAN AND MISCELLANEOUS
+ 
+3.01        Plan Administration.  The Plan shall be administered by the Board unless the Board, in its discretion, appoints a Committee comprised of not fewer than three board members. If a Committee is not established, all references to Committee under the Plan shall be deemed 
+ 
+2
+
+
+
+
+
+
+ 
+to refer to Board until such time as a Committee may be established.  A simple majority of the members of the Committee shall constitute a quorum for the transaction of business.  The Committee shall be responsible to the Board for the day-to-day  operation of the Plan, although the Committee may, in its discretion, delegate to one or more Officers of the Company responsibility for certain ministerial actions associated with Plan administration.  The Committee  may make recommendations to the Board with respect to participation in the Plan by Employees, Officers, directors, consultants, independent contractors or other individuals of the Company or any of its subsidiaries.  The Committee may consider such factors as it deems pertinent in selecting Participants and in determining the type and amount of Awards, if any, to be given including, without limitation; (i) the financial condition of the Company or its Subsidiaries; (ii) expected profits for the current or future years; (iii) the contributions of a prospective Participants to the profitability and success of the Company or its Subsidiaries; and (iv) the adequacy of the prospective Participants other compensation.
+ 
+3.02        Limitation on Liability.  No member of the Committee shall be liable for any action or determination made in good faith with respect to the Plan.  To the maximum extent allowed by law and the Companys bylaws, the members of the Committee shall be indemnified by the Company in respect of all their activities under the Plan. The interpretation and construction of any provision of the Plan by the Committee shall be final, unless otherwise determined by the Board.
+ 
+3.03        Compliance with Law and Regulations.  All Awards granted hereunder shall be subject to all applicable federal and state laws, rules and regulations and to such approvals by any government or regulatory agency as may be required.  The Company shall not be required to issue or deliver any certificates for shares of Common Stock prior to the completion of any registration or qualification of or obtaining of consents or approvals with respect to such shares under any Federal or state law or any rule or regulation of any government body, which the Company shall, in its sole discretion, determine to be necessary or advisable.
+ 
+3.04        Restrictions on Transfer.  The Company shall place a legend upon any certificate representing shares acquired pursuant to an Award granted hereunder noting that the transfer of such shares may be restricted by applicable laws and regulations.
+ 
+ARTICLE IV
+ELIGIBILITY
+ 
+Awards may be granted to such Employees, Officers, directors, consultants, independent contractors and other individuals as may be designated from time to time by the Committee, pursuant to guidelines, if any, which may be adopted by the Committee from time to time.
+ 
+ARTICLE V
+COMMON STOCK AVAILABLE FOR THE PLAN
+ 
+The aggregate number of shares of Common Stock which may be issued pursuant to this Plan shall be 10,000,000.  If a reorganization, merger, consolidation, reclassification, 
+ 
+3
+
+
+
+
+
+
+ 
+recapitalization, combination or exchange of shares, stock split, stock dividend, rights offering, or other expansion or contraction of the Common Stock of the Company occurs, the number and class of shares underlying shares authorized to be granted or granted under this Plan, and the price per share payable upon exercise of an Award as applicable shall be equitably adjusted by the Committee to reflect such changes. To the extent deemed equitable and appropriate by the Board, subject to any required action by stockholders, in any merger, consolidation, reorganization, liquidation or dissolution, any Award granted under the Plan shall pertain to the securities and other property to which a holder of the number of shares of stock covered by the Award would have been entitled to receive in connection with such event.
+ 
+No shares shall be the subject of more than one Award at any time, but if an Award as to any shares is surrendered before exercise, or expires or terminates for any reason without having been exercised in full, or for any other reason ceases to be exercisable, the number of shares covered thereby shall again become available for grant under the Plan as if no Awards had been previously granted with respect to such shares.
+ 
+ARTICLE VI
+PARTICIPATION; AWARD AGREEMENT
+ 
+The Committee  shall, in its discretion, determine from time to time which Employees, Officers, directors, consultants, independent contractors and other individuals  will participate in the Plan and receive Awards under the Plan.  In making all such determinations there shall be taken into account the duties, responsibilities and performance of each respective Employee, Officer, director, consultant, independent contractor, or other individual,  his present and potential contributions to the growth and success of the Company, his cash compensation and such other factors as the Committee shall deem relevant to accomplishing the purposes of the Plan.
+ 
+Awards may be granted individually or in tandem with other Awards.  All Awards are subject to the terms, conditions, restrictions and privileges of the Plan in addition to the terms, conditions, restrictions and privileges for an Award contained in the Award Agreement.  No Award under this Plan shall be effective unless memorialized in writing by the Committee in an Award Agreement delivered to and signed by the Participant.
+ 
+ARTICLE VII
+AWARDS
+ 
+7.01        Stock Options.  The Committee may from time to time grant to eligible participants Awards of Incentive Stock Options or Non-Qualified Stock Options, provided however that Awards of Incentive Stock Options shall be limited to Employees of the Company or any of its subsidiaries.  All Incentive Stock Options must have an exercise price at least equal to the Fair Market Value of a share of Common Stock at the time of grant, except as provided in Section 8.05.
+ 
+7.02        Restricted Stock.  The Committee may from time to time grant restricted Stock Awards to eligible Participants in such amounts, on such terms and conditions, and for such consideration, including no consideration or such minimum consideration as may be required by law, as it shall determine.
+ 
+4
+
+
+
+
+
+
+ 
+7.03        Restricted Stock Units.  The Committee may from time to time grant restricted Stock Unit Awards to eligible Participants in such amounts, on such terms and conditions, as it shall determine.
+ 
+ARTICLE VIII
+OPTION AWARDS
+ 
+8.01        Vesting of Options
+ 
+(a)           General Rules.  Incentive Stock Options and Non-Qualified Stock Options shall become vested and exercisable as determined in the sole discretion of the Committee as set forth in the applicable Award Agreement.  Notwithstanding the foregoing, no vesting shall occur on or after the date that a Participants employment with Company terminates for any reason.
+ 
+(b)           Accelerated Vesting Upon Death, Disability or  Retirement. Notwithstanding the general rule described in subsection (a), only those Stock Options granted to a Participant under this Plan that are vested on the date of a Participants death, Disability or Retirement shall be exercisable by the Participant or the Participants representative. Upon a Participants death, Disability or Retirement, the Committee may elect to accelerate vesting with respect to all or a portion of an unvested Stock Option.
+ 
+8.02        Duration of Options. Each Stock Option granted to a Participant shall be exercisable at any time on or after it vests until the earlier of (i) a date specified in the Award Agreement that shall be no later than ten (10) years after its date of grant or (ii) a date specified in the Award Agreement that shall be no later than  one year from  the date that the Participant ceases to be employed by (or act as a consultant to) the Company or any of its subsidiaries.
+ 
+8.03        Notice of Disposition; Withholding; Escrow.  A Participant shall immediately notify the Company in writing of any sale, transfer, assignment or other disposition (or action constituting a disqualifying disposition within the meaning of Section 421 of the Code) of any shares of Common Stock acquired through exercise of an Incentive Stock Option, within two (2) years after the grant of such Incentive Stock Option or within one (1) year after the acquisition of such shares, setting forth the date and manner of disposition, the number of shares disposed of and the price at which such shares were disposed.  The Company shall be entitled to withhold from any compensation or other payments then or thereafter due to the Participant such amounts as may be necessary to satisfy any withholding requirements of Federal or state law or regulation and, further, to collect from the Participant any additional amounts which may be required for such purpose.  The Committee may, in its discretion, require shares of Common Stock acquired by a Participant upon exercise of an Incentive Stock Option to be held in an escrow arrangement for the purpose of enabling compliance with the provisions of this Section 8.03.
+ 
+8.04        Manner of Exercise.  To the extent vested and exercisable, Awards may be exercised in part or in whole from time to time by execution of a written notice directed to the Committee, at the Company principal place of business, accompanied by a check in payment of the exercise price for the number of shares specified and paid for.
+ 
+5
+
+
+
+
+
+
+ 
+8.05        $100,000 Limitation.  Notwithstanding any contrary provisions contained elsewhere in this Plan and as long as required by Section 422 of the Code, the aggregate Fair Market Value, determined as of the time an Incentive Stock Option is granted, of the Common Stock with respect to which Incentive Stock Options are exercisable for the first time by the Participant during any calendar year, under this Plan and stock options that satisfy the requirements of Section 422 of the Code under any other stock option plan or plans maintained by the Company, shall not exceed $100,000.
+ 
+8.06        Limitation on Ten Percent Stockholders.  The price at which shares of Common Stock may be purchased upon exercise of an Incentive Stock Option granted to an individual who, at the time such Incentive Stock Option is granted, owns, directly or indirectly, more than ten percent (10%) of the total combined voting power of all classes of stock issued to stockholders of the Company, shall be no less than one hundred and ten percent (110%) of the Fair Market Value of a share of the Common Stock of the Company at the time of grant, and such Incentive Stock Option shall by its terms not be exercisable after the expiration of five (5) years from the date such Incentive Stock Option is granted.
+ 
+ARTICLE IX
+RESTRICTED STOCK UNITS
+ 
+Section 9.01         Award and Restrictions.  A Restricted Stock Unit Award is an Award determined by reference to a number of shares of the Companys Common Stock subject to such restrictions and conditions as the Committee shall determine at the time of grant.  Restricted Stock Units shall be satisfied at Settlement by the delivery of cash and/or Common Stock in the amount equal to the Fair Market Value for the specified number of shares of Common Stock covered by the Restricted Stock Units, as set forth in the Award Agreement.  Settlement of an Award of Restricted Stock Units shall occur upon expiration of the vesting period specified for such Restricted Stock Unit by the Committee.  Vesting restrictions shall be based on continuing employment and/or achievement of pre-established performance goals and objectives as the Committee shall set forth in the Award Agreement.
+ 
+Section 9.02         Dividend Equivalents.  Unless otherwise determined by the Committee at grant, Dividend Equivalents on the specified number of shares of Common Stock covered by an Award of Restricted Stock Units shall be either (a) paid with respect to such unvested Restricted Stock Units on the dividend payment date in cash or in shares of unrestricted Common Stock having a Fair Market Value equal to the amount of such dividends, or (b) deferred with respect to such unvested Restricted Stock Units and the amount or value thereof automatically deemed reinvested in additional unvested Restricted Stock Units, respectively, as the Committee shall determine.
+ 
+ARTICLE X
+RESTRICTED STOCK
+ 
+Section 10.01       Award and Restrictions.  A Restricted Stock Award is an Award pursuant to which the Company may, grant or sell, at par value or such other higher purchase price determined by the Committee, in its sole discretion, shares of Stock subject to such 
+ 
+6
+
+
+
+
+
+
+ 
+restrictions and conditions as the Committee shall determine at the time of grant, which purchase price shall be payable in cash or by promissory note as determined by the Committee in its sole discretion.  Vesting restrictions shall be based on continuing employment and/or achievement of pre-established performance goals and objectives.  The terms and conditions of each such agreement shall be determined by the Committee, and such terms and conditions may differ among individual Awards and Participants.
+ 
+Section 10.02       Rights as a Stockholder.  Unless otherwise determined by the Committee at grant, a Participant shall have the rights of a stockholder of the Company holding Common Stock, including the right to vote the shares of Common stock covered by the Award of Restricted Stock.  Unless the Committee shall otherwise determine, certificates evidencing the Restricted Stock shall remain in the possession of the Company until such Restricted Stock is vested.
+ 
+Section 10.03       Vesting of Restricted Stock.  The Committee at the time of grant shall specify the date or dates and/or the attainment of pre-established performance goals, objectives and other conditions under which Restricted Stock shall become vested, subject to such further rights of the Company as may be specified in Award Agreement evidencing the Restricted Stock Award.
+ 
+Section 10.04       Dividends.  Unless otherwise determined by the Committee at grant, Dividends on the specified number of shares of Common Stock covered by an Award of Restricted Stock shall be either (a) paid with respect to such unvested Restricted Stock on the dividend payment date in cash or in shares of unrestricted Common Stock having a Fair Market Value equal to the amount of such dividends, or (b) deferred with respect to such unvested Restricted Stock and the amount or value thereof automatically deemed reinvested in additional unvested Restricted Stock, respectively, as the Committee shall determine.
+ 
+ARTICLE XI
+NONASSIGNABILITY
+ 
+Awards shall not be transferable by a Participant except by will or the laws of descent or distribution, and during a Participants lifetime shall be exercisable only by such Participant or the Participants guardian or legal representative.  Notwithstanding the foregoing, or any other provision of this Plan, a Participant who holds Non-Qualified Stock Options may transfer such Awards to his or her spouse, lineal ascendants, lineal descendants, or to a duly established trust for the benefit of one or more of these individuals.  Awards so transferred may thereafter be transferred only to the Participant who originally received the grant or to an individual or trust to whom the Participant would have initially transferred the Award pursuant to this Article XI.  Awards which are transferred pursuant to this Article XI shall be exercisable by the transferee according to the same terms and conditions as applied to the Participant.
+ 
+7
+
+
+
+
+
+
+ 
+ARTICLE XII
+AMENDMENT AND TERMINATION OF THE PLAN
+ 
+The Board may, by resolution, at any time terminate or amend the Plan with respect to any shares of Common Stock or Awards which have not been granted.
+ 
+ARTICLE XIII
+EMPLOYMENT RIGHTS
+ 
+Neither the Plan nor any Award hereunder shall create any right on the part of any Employee of the Company or any of its subsidiaries to continue in such capacity, or shall make anyone an employee.
+ 
+ARTICLE XIV
+WITHHOLDING
+ 
+The Company may withhold from any cash payment made under this Plan sufficient amounts to cover any applicable withholding and employment taxes, and if the amount of such cash payment is insufficient, the Company may require the Participant to pay to the Company the amount required to be withheld as a condition to delivering the shares acquired pursuant to an Award.  The Company also may withhold or collect amounts with respect to a disqualifying disposition of shares of Common Stock acquired pursuant to exercise of an Incentive Stock Option.
+ 
+The Committee is authorized to adopt rules, regulations or procedures which provide for the satisfaction of a Participants tax withholding obligation by the retention of shares of Common Stock to which he otherwise would be entitled pursuant to an Award or by the Participants delivery of previously-owned shares of Common Stock or other property.  However, if the Company adopts rules, regulations or procedures which permit withholding obligations to be met by the retention of Common Stock to which a Participant otherwise would be entitled pursuant to an Award, the fair market value of the Common Stock retained for such purpose shall not exceed the minimum required Federal, state and local tax withholding due upon exercise of the Award.
+ 
+ARTICLE XV
+EFFECTIVE DATE OF THE PLAN; TERM
+ 
+15.01      Effective Date of the Plan.  This Plan shall become effective on the Effective Date, and Awards may be granted hereunder as of or after the Effective Date and prior to the termination of the Plan.
+ 
+15.02      Term of Plan.  Unless sooner terminated, this Plan shall remain in effect for a period of ten (10) years ending on the tenth anniversary of the Effective Date.  Termination of the Plan shall not affect any Awards previously granted and such Awards shall remain valid and in effect until they have been fully exercised or earned, are surrendered or by their terms expire or are forfeited.
+ 
+8
+
+
+
+
+
+
+ 
+ARTICLE XVI
+GOVERNING LAW
+ 
+To the extent not governed by Federal law, this Plan shall be construed under the laws of the State of Delaware.
+ 
+IN WITNESS WHEREOF, the Company has caused a duly authorized officer to execute this Plan, and to apply the Corporate seal hereto as of the 25th day of June, 2012.
+ 
+ 
+
+
+
+     
+
+By:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+Name:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+Title:    
+
+          
+ 
+9
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1120 @@
+
+EX-10.3
+2
+a2217589zex-10_3.htm
+EX-10.3
+
+
+
+
+
+
+
+Exhibit 10.3
+ 
+FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+AND
+BORROWING BASE REDETERMINATION
+ 
+THIS FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT AND BORROWING BASE REDETERMINATION (herein called this Amendment) is made as of November 14, 2013 by and among Athlon Holdings LP, a Delaware limited partnership (the Borrower), each Lender party hereto as set forth on the signature pages hereto, Bank of America, N.A., as the Administrative Agent, the Swingline Lender and the Issuing Bank, and each Guarantor party hereto.
+ 
+W I T N E S S E T H:
+ 
+WHEREAS, the Borrower, the Lenders, the Administrative Agent, the Swingline Lender and the Issuing Bank are party to that certain Amended and Restated Credit Agreement dated as of March 19, 2013 (as amended, supplemented or modified from time to time prior to the date hereof, the Original Agreement), whereby the Issuing Bank became obligated to issue Letters of Credit for the account of the Credit Parties and the Lenders became obligated to make loans to the Borrower as therein provided; and
+ 
+WHEREAS, The Borrower, the Administrative Agent and the Lenders desire to set forth the Redetermination of the Borrowing Base, and the Borrower, the Administrative Agent, the Issuing Bank and the Lenders desire to amend the Original Agreement to set forth a revised schedule of each Lenders Commitment Percentage thereunder;
+ 
+NOW, THEREFORE, in consideration of the premises and the mutual covenants and agreements contained herein and in the Original Agreement, in consideration of the loans and other credit which may hereafter be made by the Lenders and the Issuing Bank to the Credit Parties, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto do hereby agree as follows:
+ 
+ARTICLE I.
+ 
+DEFINITIONS AND REFERENCES
+ 
+Section 1.1.                                                               Defined Terms.  Unless the context otherwise requires, capitalized terms used in this Amendment shall have the meanings assigned to them either in the preamble and recitals hereto or in the Original Agreement, as applicable.
+ 
+[FIRST AMENDMENT TO CREDIT AGREEMENT]
+
+
+
+
+
+
+ 
+ARTICLE II.
+ 
+AMENDMENT TO ORIGINAL AGREEMENT AND BORROWING BASE REDETERMINATION
+ 
+Section 2.1.                                 Amendment to Schedule 1.01(a).  Schedule 1.01(a) of the Original Agreement is hereby amended in its entirety and replaced with Schedule 1.01(a)  attached hereto.
+ 
+Section 2.2.                                                               Borrowing Base.  Pursuant to Section 2.14 of the Original Agreement, the Lenders and the Administrative Agent have redetermined the Borrowing Base to be $525,000,000, which Borrowing Base shall be effective on the Effective Date set forth below and shall remain in effect until the next Redetermination or adjustment of the Borrowing Base pursuant to the Original Agreement.  The Borrower hereby accepts such Borrowing Base as so redetermined, and the Lenders party hereto, the Administrative Agent and the Borrower hereby acknowledge that this is the Scheduled Redetermination to be made as of October 1, 2013 or as promptly as possible thereafter.
+ 
+ARTICLE III.
+ 
+CONDITIONS OF EFFECTIVENESS
+ 
+Section 3.1.                                                               Conditions to Effectiveness of Amendment.  This Amendment shall become effective (the Effective Date) when and only when:
+ 
+(a)                                 the Administrative Agent shall have received executed counterparts of this Amendment from the Borrower, each Guarantor and the Lenders;
+ 
+(b)                                 the Borrower shall have paid to the Administrative Agent, for the account of each Lender a fee in the amount equal to 0.375% times the positive remainder, if any, of (i) such Lenders Commitment Percentage of the Borrowing Base after giving effect to the provisions of Sections 2.1 and 2.2 of this Amendment, minus (ii) such Lenders Commitment Percentage of the Borrowing Base immediately prior to giving effect to the provisions of Sections 2.1 and 2.2 of this Amendment (or if a Lender was not party to the Original Agreement prior to the effectiveness of this Amendment, zero), which fee shall be due and payable on the date hereof; and
+ 
+(c)                                  each of the representations and warranties made by the Borrower and each Guarantor in or pursuant to the Credit Documents shall be true and correct in all material respects (or in all respects if such representation or warranty is by its terms already qualified as to materiality), as if made on and as of such date, except for any representations and warranties made as of a specified date, which were true and correct in all material respects as of such specified date.
+ 
+2
+
+
+
+
+
+
+ 
+ARTICLE IV.
+ 
+MISCELLANEOUS
+ 
+Section 4.1.                                                               Ratification of Agreements.  By its acceptance hereof, each of the Borrower and each Guarantor hereby ratifies and confirms each Credit Document to which it is a party in all respects, after giving effect to the Borrowing Base redetermination and amendments set forth herein.  Any reference to the Original Agreement in any Credit Document shall be deemed to be a reference to the Original Agreement as hereby amended.  The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein or therein, operate as a waiver of any right, power or remedy of the Administrative Agent or the Lenders under the Original Agreement, or any other Credit Document nor constitute a waiver of any provision of the Original Agreement, or any other Credit Document.
+ 
+Section 4.2.                                                               New Lender Commitment.  By its execution and delivery of this Amendment, Goldman Sachs Bank USA (the New Lender) hereby assumes all of the rights and obligations of a Lender under the Original Agreement in respect of its Commitment set forth on Schedule 1.01(a) attached hereto.  The Commitments of the New Lender and the increase in the Borrowing Base set forth herein shall not represent an increase in the Total Commitments pursuant to Section 2.16 of the Original Agreement.  The Administrative Agent, the Swingline Lender, the Issuing Bank, and the Borrower hereby consent to and approve the New Lender and the Commitment of the New Lender.
+ 
+Section 4.3.                                                               New Lender Representations and Agreements.  The New Lender hereby represents and warrants to the Administrative Agent, the Swingline Lender and the Issuing Bank as follows:  (a) it is not the Borrower, an Affiliate of the Borrower, a Subsidiary of the Borrower, a natural person, a Defaulting Lender, a Subsidiary of a Defaulting Lender, or a Person who, upon becoming a Lender, would constitute a Defaulting Lender or a Subsidiary of a Defaulting Lender, (c) from and after the Effective Date, it shall be bound by the provisions of the Original Agreement (as amended hereby) as a Lender thereunder and, to the extent of its Commitment, shall have the obligations of a Lender thereunder, (d) it is sophisticated with respect to decisions to acquire assets of the type represented by such Commitment and either it, or the Person exercising discretion in making its decision to acquire such Commitment, is experienced in acquiring assets of such type, (e) it has received a copy of the Original Agreement, and has received or has been accorded the opportunity to receive copies of the most recent financial statements delivered pursuant thereto and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into this Amendment on the basis of which it has made such analysis and decision independently and without reliance on the Administrative Agent, the Swingline Lender, the Issuing Bank, or any other Lender, and (f) if it is a Foreign Lender, attached hereto is any documentation required to be delivered by it pursuant to the terms of the Original Agreement, duly completed and executed by it; and agrees that (1) it will, independently and without reliance on the Administrative Agent, the Swingline Lender, Issuing Bank or any other Lender, and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under the Loan Documents, and (2) it will perform in accordance with their terms all of the obligations which by the terms of the Loan Documents are required to be performed by it as a Lender.
+ 
+3
+
+
+
+
+
+
+ 
+Section 4.4.                                                               Reallocation .  The Lenders have authorized the Administrative Agent and the Borrower to make non-ratable borrowings and prepayments of the Loans, and if any such prepayment requires the payment of Eurodollar Rate Loans other than on the last day of the applicable Interest Period, the Borrower shall pay any required amounts pursuant to Section 2.11, in order to keep the outstanding Loans ratable with any revised Applicable Percentages arising from any nonratable increase in the Commitments under this Amendment and from the Commitments of the New Lender.
+ 
+Section 4.5.                                                               Survival of Agreements.  All representations, warranties, covenants and agreements of any Credit Party herein shall survive the execution and delivery of this Amendment and the performance hereof, and shall further survive until all of the Obligations are paid in full.
+ 
+Section 4.6.                                                               Credit Documents.  This Amendment is a Credit Document, and all provisions in the Original Agreement as amended hereby pertaining to Credit Documents apply hereto and thereto.
+ 
+Section 4.7.                                                               Governing Law.  This Amendment shall be governed by and construed in accordance with the Laws of the State of New York.
+ 
+Section 4.8.                                                               Counterparts; Fax.  This Amendment may be separately executed in counterparts and by the different parties hereto in separate counterparts, each of which when so executed shall be deemed to constitute one and the same Amendment.  This Amendment may be validly executed by facsimile or other electronic transmission.
+ 
+THIS AMENDMENT AND THE OTHER CREDIT DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES HERETO.  THERE ARE NO UNWRITTEN ORAL AGREEMENTS OF THE PARTIES HERETO.
+ 
+[THE REMAINDER OF THIS PAGE HAS BEEN INTENTIONALLY LEFT BLANK.]
+ 
+4
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, this Amendment is executed as of the date first above written.
+ 
+ 
+
+
+
+     
+
+ATHLON   HOLDINGS LP       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Robert C. Reeves       
+
+
+     
+
+     
+
+Robert   C. Reeves       
+
+
+     
+
+     
+
+President   and Chief Executive Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+ATHLON   ENERGY LLC       
+
+
+     
+
+ATHLON   ENERGY OPERATING LLC       
+
+
+     
+
+ATHLON   FE OPERATING LLC       
+
+
+     
+
+ATHLON   FINANCE CORP.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Robert C. Reeves       
+
+
+     
+
+     
+
+Robert   C. Reeves       
+
+
+     
+
+     
+
+Chief   Executive Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+ATHLON   FE ENERGY LP       
+
+
+     
+
+By:    
+
+Athlon   Energy LLC, its general partner       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Robert C. Reeves       
+
+
+     
+
+     
+
+     
+
+Robert   C. Reeves       
+
+
+     
+
+     
+
+     
+
+Chief   Executive Officer       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+ATHLON   ENERGY LP       
+
+
+     
+
+By:    
+
+Athlon   Energy LLC, its general partner       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+By:    
+
+/s/   Robert C. Reeves       
+
+
+     
+
+     
+
+     
+
+Robert   C. Reeves       
+
+
+     
+
+     
+
+     
+
+Chief   Executive Officer       
+
+
+
+
+
+    
+ 
+[SIGNATURE PAGE TO FIRST AMENDMENT TO CREDIT AGREEMENT]
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK OF AMERICA, N.A.,   as the        
+
+
+     
+
+Administrative Agent       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Mollie S. Canup       
+
+
+     
+
+Name:    
+
+Mollie S. Canup       
+
+
+     
+
+Title:    
+
+Vice President       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+BANK OF AMERICA, N.A.,   as the Issuing Bank,       
+
+
+     
+
+the Swingline Lender and a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Adam H. Fey       
+
+
+     
+
+Name:    
+
+Adam H. Fey       
+
+
+     
+
+Title:    
+
+Director       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+WELLS   FARGO BANK, NATIONAL       
+
+
+     
+
+ASSOCIATION,   as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Greg Smothers       
+
+
+     
+
+Name:    
+
+Greg Smothers       
+
+
+     
+
+Title:    
+
+Director       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+THE   BANK OF NOVA SCOTIA, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Terry Donovan       
+
+
+     
+
+Name:    
+
+Terry Donovan       
+
+
+     
+
+Title:    
+
+Managing   Director       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+ROYAL   BANK OF CANADA, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Don J. McKinnerney       
+
+
+     
+
+Name:    
+
+Don J. McKinnerney       
+
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+[SIGNATURE PAGE TO FIRST AMENDMENT TO CREDIT AGREEMENT]
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   AGRICOLE CORPORATE AND       
+
+
+     
+
+INVESTMENT   BANK, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Dennis Petito       
+
+
+     
+
+Name:    
+
+Dennis Petito       
+
+
+     
+
+Title:    
+
+Managing   Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Michael D. Willis       
+
+
+     
+
+Name:    
+
+Michael D. Willis       
+
+
+     
+
+Title:    
+
+Managing   Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+UBS   LOAN FINANCE LLC, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Lana Gifas       
+
+
+     
+
+Name:    
+
+Lana Gifas       
+
+
+     
+
+Title:    
+
+Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Jennifer Anderson       
+
+
+     
+
+Name:    
+
+Jennifer Anderson       
+
+
+     
+
+Title:    
+
+Associate   Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+UNION   BANK, N.A., as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Alison White       
+
+
+     
+
+Name:    
+
+Alison White       
+
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+CITIBANK,   N.A., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ John Miller       
+
+
+     
+
+Name:    
+
+John Miller       
+
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+BARCLAYS   BANK PLC, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Noam Azachi       
+
+
+     
+
+Name:    
+
+Noam Azachi       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+[SIGNATURE PAGE TO FIRST AMENDMENT TO CREDIT AGREEMENT]
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CREDIT   SUISSE AG, CAYMAN ISLANDS       
+
+
+     
+
+BRANCH,   as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Kevin Buddhdew       
+
+
+     
+
+Name:    
+
+Kevin Buddhdew       
+
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Michael Spaight       
+
+
+     
+
+Name:    
+
+Michael Spaight       
+
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+GOLDMAN   SACHS BANK USA, as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Mark Walton       
+
+
+     
+
+Name:    
+
+Mark Walton       
+
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+[SIGNATURE PAGE TO FIRST AMENDMENT TO CREDIT AGREEMENT]
+ 
+
+
+
+
+
+
+
+
+

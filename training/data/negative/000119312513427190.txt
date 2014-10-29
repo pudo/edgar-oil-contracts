@@ -1,0 +1,693 @@
+
+EX-10.1
+2
+d602529dex101.htm
+EX-10.1
+
+
+EX-10.1
+
+ 
+
+ Exhibit 10.1   
+   
+NINTH AMENDMENT  TO
+ SECOND AMENDED AND RESTATED CREDIT AGREEMENT 
+dated as of 
+October 25, 2013 
+among  GOODRICH
+PETROLEUM COMPANY, L.L.C.,  as Borrower, 
+THE GUARANTORS PARTY HERETO, 
+WELLS FARGO BANK, NATIONAL ASSOCIATION, 
+as Administrative Agent, 
+and  The Lenders Party
+Hereto     
+  WELLS FARGO SECURITIES, LLC,
+ as Sole Lead Arranger and Bookrunner 
+
+
+
+
+ NINTH AMENDMENT TO SECOND 
+AMENDED AND RESTATED CREDIT AGREEMENT 
+THIS NINTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT (this Ninth Amendment) dated as of October 25,
+2013, is among GOODRICH PETROLEUM COMPANY, L.L.C., a Louisiana limited liability company (Borrower); each of the undersigned Guarantors (collectively, the Guarantors); WELLS FARGO BANK, NATIONAL ASSOCIATION, as
+administrative agent (in such capacity, together with its successors in such capacity, Administrative Agent) for the lenders party to the Credit Agreement (collectively, the Lenders). 
+R E C I T A L S 
+A. Borrower, Administrative Agent and the Lenders are parties to that certain Second Amended and Restated Credit Agreement dated as of
+May 5, 2009, as amended by that certain First Amendment dated as of September 22, 2009, that certain Second Amendment dated as of October 29, 2010, that certain Third Amendment dated as of February 4, 2011, that certain Fourth
+Amendment dated as of February 25, 2011, that certain Fifth Amendment dated as of May 16, 2011, that certain Sixth Amendment dated as of October 31, 2011, that certain Seventh Amendment dated as of November 2, 2012 and that
+certain Eighth Amendment dated as of March 13, 2013 (as amended, the Credit Agreement), pursuant to which the Lenders have made certain loans to and other extensions of credit on behalf of Borrower. 
+B. The Borrower, the Administrative Agent and the Lenders desire to amend certain provisions of the Credit Agreement. 
+C. NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt
+and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:  Section 1. Defined Terms. Each
+capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement. Unless otherwise indicated, all article and section references in this Ninth Amendment refer to articles and sections of the
+Credit Agreement.  Section 2. Amendments to Credit Agreement. 
+2.1 Amendment to Section 1.02. Section 1.02 is hereby amended by: 
+(a) amending and restating the following defined terms: 
+Agreement means this Second Amended and Restated Credit Agreement as amended by that certain First
+Amendment dated as of September 22, 2009, that certain Second Amendment dated as of October 29, 2010, that certain Third Amendment dated as of February 4, 2011, that certain Fourth Amendment dated as of February 25, 2011, that
+certain Fifth Amendment dated as of May 16, 2011, that certain Sixth Amendment dated as of October 31, 2011, that certain Seventh 
+   1 
+
+
+
+
+
+ 
+Amendment dated as of November 2, 2012, that certain Eighth Amendment dated as of March 13, 2013, and that certain Ninth Amendment dated as of October 25, 2013, as the same may
+from time to time be amended, amended and restated, supplemented or otherwise modified.  Change in Law
+means (a) the adoption of any law, rule or regulation by any Governmental Authority after the date of this Agreement, (b) any change in any law, rule or regulation or in the interpretation or application thereof by any Governmental
+Authority after the date of this Agreement or (c) compliance by any Lender or the Issuing Bank (or, for purposes of Section 5.01(b), by any lending office of such Lender or by such Lenders or the Issuing Banks holding company,
+if any) with any request, guideline or directive (whether or not having the force of law) of any Governmental Authority made or issued after the date of this Agreement; provided that notwithstanding anything herein to the contrary, (x) the
+Dodd-Frank Wall Street Reform and Consumer Protection Act and all requests, rules, guidelines or directives issued thereunder or in connection therewith and (y) all requests, rules guidelines or directive promulgated by the Bank for
+International Settlements, the Basel Committee on Banking Supervision (or any successor or similar authority) or the United States or foreign regulatory authorities, in each case pursuant to Basel III, shall in each case be deemed to be a
+Change in Law regardless of the date enacted, adopted or issued.  Current Production means,
+on any date of determination, the lesser of (a) the average of the daily production of each of crude oil and natural gas, calculated separately, of the Borrower and the Parent Guarantor for the thirty (30) day period ending five
+(5) days prior to such date and (b) the forecasted average daily production for each month contained in the most recently delivered forty-eight (48) month forecast required to be delivered pursuant to Section 8.01(p). 
+(b) adding the following terms in the appropriate alphabetical order: 
+Commodity Exchange Act means the Commodity Exchange Act (7 
+U.S.C. §1 et. seq.), as amended from time to time, and any successor statute, and any regulations promulgated thereunder.
+ Designated Persons means a person or entity: (i) listed in the annex to, or otherwise the subject
+of the provisions of, any Executive Order; (ii) named as a Specially Designated National and Blocked Person (SDN) on the most current list published by OFAC at its official website or any replacement website or
+other replacement official publication of such list; or (iii) that is otherwise the subject of any Sanctions Laws and Regulations in which an entity or person on the SDN List has 50% or greater ownership interest or that is otherwise controlled
+by an SDN. 
+   2 
+
+
+
+
+
+ Executive Order shall have the meaning set forth in the
+definition of Sanction Laws and Regulations.  OFAC means the U.S. Department of the Treasury
+Office of Foreign Assets Control.  Qualified ECP Guarantor means, in respect of any Swap Obligation, the
+Borrower and each Guarantor that, at the time the relevant guarantee or other liability (or grant of the relevant security interest, as applicable) becomes or would become effective with respect to such obligation or liability, has total assets
+exceeding $10,000,000 or otherwise constitutes an eligible contract participant under the Commodity Exchange Act or any regulations promulgated thereunder and can cause another person to qualify as an eligible contract
+participant with respect to such Swap Obligation at such time by entering into a keepwell pursuant to Section 1a(18)(A)(v)(II) of the Commodity Exchange Act. 
+Sanctions Laws and Regulations means any sanctions, prohibitions or requirements imposed by any executive
+order (an Executive Order) or by any sanctions program administered by OFAC.  SDN
+shall have the meaning set forth in the definition of Designated Persons.  Swap Obligation
+means, with respect to the Borrower or any Guarantor, any obligation to pay or perform under any agreement, contract or transaction that constitutes a swap within the meaning of section 1a(47) of the Commodity Exchange Act. 
+2.2 Amendment to Article VII. Article VII is hereby amended by adding the following Section 7.24 thereto: 
+Section 7.24 Sanctions Laws and Regulations None of the Parent Guarantor, the Borrower, any Subsidiary of the
+Borrower or any directors or officers of the Parent Guarantor, the Borrower or any such Subsidiary or any brokers or other agents acting at the direction of the foregoing in connection with this Agreement or any other Loan Document, is a Designated
+Person.  2.3 Amendment to Section 8.01(p). Section 8.01(p) is hereby amended by deleting such Section in its
+entirety and replacing it with the following:  (p) Monthly Production Report. Promptly after preparation, but
+no later than fifteen (15) days after the end of each calendar month, (i) deliver a report from the Borrower in a form acceptable to the Administrative Agent setting forth (A) the previous months production of each of crude oil
+and natural gas and (B) forecasted average daily production of each of crude oil and natural gas for each calendar month for the next forty-eight (48) calendar month period and (ii) to the extent 
+   3 
+
+
+
+
+
+ 
+any Swap Agreement was entered into during the period covered by such report delivered pursuant to Section 8.01(p)(i), deliver a certificate of a Responsible Officer of the Parent Guarantor
+and the Borrower to the Administrative Agent certifying that, based on the information contained in such report, any such Swap Agreement would have complied with Section 9.18 as of the date such Swap Agreement was executed. 
+2.4 Amendment to Article VIII. Article VIII is hereby amended by adding the following Section 8.17: 
+Section 8.17 Keepwell. Each of the Parent Guarantor and the Borrower shall, and shall cause each Guarantor that is
+a Qualified ECP Guarantor at the time of the guarantee or the grant of a security interest under the Loan Documents, in each case, with respect to any Swap Obligation to, jointly and severally, absolutely, unconditionally and irrevocably undertake
+to provide such funds or other support as may be needed from time to time by each other Guarantor to honor all of its obligations under the Loan Documents to which it is a party in respect of Swap Obligations (provided, however, that each Qualified
+ECP Guarantor shall only be liable under this Section 8.17 for the maximum amount of such liability that can be hereby incurred without rendering its obligations under this Section 8.17, or otherwise under this Agreement, voidable under
+applicable law relating to fraudulent conveyance or fraudulent transfer, and not for any greater amount). The obligations of each Qualified ECP Guarantor under this Section 8.17 shall remain in full force and effect until the Indebtedness has
+been indefeasibly paid and performed in full. The Borrower intends that this Section 8.17 constitute, and this Section 8.17 shall be deemed to constitute, a keepwell, support, or other agreement for the benefit of each other
+Guarantor for all purposes of Section 1a(18)(A)(v)(II) of the Commodity Exchange Act.  2.5 Amendment to
+Section 9.18. Section 9.18 is hereby amended and restated in its entirety to read as follows:  Section
+9.18 Swap Agreements. Neither the Parent Guarantor nor the Borrower will enter into any commodity Swap Agreements (a) with any Person other than an Approved Counterparty or (b) which would cause the notional volumes for which (when
+aggregated with other commodity Swap Agreements then in effect other than basis differential swaps on volumes already hedged pursuant to other Swap Agreements) to exceed, as of the date such Swap Agreement is executed, (i) 100% of the Current
+Production as of the date the Parent Guarantor or Borrower enters into such Swap Agreement for each month during the period during which such Swap Agreement is in effect for each of crude oil, natural gas and natural gas liquids, calculated
+separately, for the 24 month period following the date such Swap Agreement is entered into, (ii) 75% of the Current Production as of the date the Parent Guarantor or the Borrower 
+   4 
+
+
+
+
+
+ 
+entered into such Swap Agreements for each month during the period during which such Swap Agreement is in effect for each of crude oil, natural gas and natural gas liquids, calculated separately,
+for the 18 month period following the 24 month period referenced in Section 9.18(b)(i) and (iii) 50% of the Current Production as of the date the Parent Guarantor or the Borrower entered into such Swap Agreements for each month during the
+period during which such Swap Agreement is in effect for each of crude oil, natural gas and natural gas liquids, calculated separately, for the 6 month period following the 42 month period referenced in Sections 9.18(b)(i) and (b)(ii). In no event
+shall any Swap Agreement contain any requirement, agreement or covenant for the Parent Guarantor or the Borrower to post collateral or margin to secure their obligations under such Swap Agreement or to cover market exposures. 
+Section 3. Borrowing Base. As of the Ninth Amendment Effective Date, the Lenders and the Borrower agree that the amount of the
+Borrowing Base shall be $270,000,000 and such Borrowing Base shall remain in effect until the Borrowing Base is otherwise redetermined or adjusted in accordance with the Credit Agreement. This provision does not limit the right of the parties to
+initiate interim redeterminations of the Borrowing Base in accordance with Section 2.07(b) or further adjustments pursuant to Section 2.07(e), Section 2.07(f), Section 8.13(c) or Section 9.12(d). The parties hereto acknowledge and
+agree that the Borrowing Base redetermination set forth in this Section 3 shall be deemed to be the Scheduled Redetermination scheduled for October 1, 2013 as provided in Section 2.07. This Section 3 constitutes the New Borrowing
+Base Notice in accordance with Section 2.07(d).  Section 4. Conditions Precedent. This Ninth Amendment shall not become
+effective until the date on which each of the following conditions is satisfied (or waived in accordance with Section 12.02 of the Credit Agreement) (the Ninth Amendment Effective Date): 
+4.1 The Administrative Agent shall have received from all of the Lenders, the Borrower and the Guarantors, counterparts (in such number as may
+be requested by Administrative Agent) of this Ninth Amendment signed on behalf of such Persons.  4.2 The Administrative Agent and the
+Lenders shall have received all fees and other amounts due and payable on or prior to the date hereof, including, to the extent invoiced, reimbursement or payment of all documented out-of-pocket expenses required to be reimbursed or paid by the
+Borrower under the Credit Agreement.  4.3 No Default shall have occurred and be continuing, after giving effect to the terms of this Ninth
+Amendment.  4.4 The Administrative Agent shall have received such other documents as Administrative Agent or special counsel to
+Administrative Agent may reasonably request.  The Administrative Agent is hereby authorized and directed to declare this Ninth Amendment
+to be effective when it has received documents confirming or certifying, to the satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section or the waiver of such conditions as permitted in Section 12.02 of
+the Credit Agreement. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes. 
+   5 
+
+
+
+
+
+ Section 5. Miscellaneous. 
+5.1 Confirmation. The provisions of the Credit Agreement, as amended by this Ninth Amendment, shall remain in full force and effect
+following the effectiveness of this Ninth Amendment.  5.2 Ratification and Affirmation; Representations and Warranties. The Borrower
+and each Guarantor hereby (a) acknowledges the terms of this Ninth Amendment; (b) ratifies and affirms its obligations under, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party and
+agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended or modified hereby and (c) represents and warrants to the Lenders that as of the Ninth Amendment Effective Date, after giving effect
+to the terms of this Ninth Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct, except to the extent any such representations and warranties are expressly limited
+to an earlier date, in which case, such representations and warranties shall continue to be true and correct as of such specified earlier date, (ii) no Default has occurred and is continuing and (iii) no event, development or circumstance
+has occurred which individually or in the aggregate could reasonably be expected to be a Material Adverse Event.  5.3 Loan Document.
+This Ninth Amendment is a Loan Document as defined and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto. 
+5.4 Counterparts. This Ninth Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and
+all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of this Ninth Amendment by facsimile or electronic transmission shall be effective as delivery of a manually executed counterpart hereof.
+ 5.5 NO ORAL AGREEMENT. THIS NINTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND
+THEREWITH REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES. 
+5.6 GOVERNING LAW. THIS NINTH AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY,
+AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.  [SIGNATURES BEGIN NEXT PAGE] 
+   6 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Ninth Amendment to be duly executed as of
+the date first written above.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BORROWER:
+ 
+
+ 
+GOODRICH PETROLEUM COMPANY, L.L.C.
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Jan L. Schott
+
+
+ 
+
+ 
+Name:
+ 
+Jan L. Schott, CPA
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President and
+
+
+ 
+
+ 
+
+ 
+Chief Financial Officer
+
+
+
+
+
+GUARANTOR:
+ 
+
+ 
+GOODRICH PETROLEUM CORPORATION
+
+
+
+
+
+
+
+ 
+
+ 
+By: 
+ 
+/s/ Michael J. Killelea
+
+
+ 
+
+ 
+Name:
+ 
+Michael J. Killelea
+
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President, General Counsel
+
+
+ 
+
+ 
+
+ 
+and Corporate Secretary
+
+   Signature Page to Ninth
+Amendment to Second A&R Credit Agreement  S-1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE AGENT:
+ 
+
+ 
+WELLS FARGO BANK, NATIONAL
+
+
+ 
+
+ 
+ASSOCIATION, as Administrative Agent and as a
+
+
+ 
+
+ 
+Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Lila Jordan
+
+
+ 
+
+ 
+Name:
+ 
+Lila Jordan
+
+
+ 
+
+ 
+Title:
+ 
+Managing Director
+
+   Signature Page to Ninth
+Amendment to Second A&R Credit Agreement  S-2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDER:
+ 
+
+ 
+BANK OF MONTREAL, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Gumaro Tijerina
+
+
+ 
+
+ 
+Name:
+ 
+Gumaro Tijerina
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+   Signature Page to Ninth
+Amendment to Second A&R Credit Agreement  S-3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+COMPASS BANK, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Ian Payne
+
+
+ 
+
+ 
+Name:
+ 
+Ian Payne
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   Signature Page to Ninth
+Amendment to Second A&R Credit Agreement  S-4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+JPMORGAN CHASE BANK, N .A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Ryan Aman
+
+
+ 
+
+ 
+Name:
+ 
+Ryan Aman
+
+
+ 
+
+ 
+Title:
+ 
+Authorized Officer
+
+   Signature Page to Ninth
+Amendment to Second A&R Credit Agreement  S-5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF AMERICA, N .A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By: 
+ 
+/s/ Michael Clayborne
+
+
+ 
+
+ 
+Name:
+ 
+Michael Clayborne
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   Signature Page to Ninth
+Amendment to Second A&R Credit Agreement  S-6 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ROYAL BANK OF CANADA, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Mark Lumpkin
+
+
+ 
+
+ 
+Name:
+ 
+Mark Lumpkin, Jr.
+
+
+ 
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature Page to Ninth
+Amendment to Second A&R Credit Agreement  S-7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+THE BANK OF NOVA SCOTIA, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Jay Salitza
+
+
+ 
+
+ 
+Name:
+ 
+Jay Salitza
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+   Signature Page to Ninth
+Amendment to Second A&R Credit Agreement  S-8 
+
+
+

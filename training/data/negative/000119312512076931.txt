@@ -1,0 +1,498 @@
+
+EX-10.27
+2
+d270440dex1027.htm
+FIFTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+
+
+Fifth Amendment to Second Amended and Restated Credit Agreement
+
+ 
+
+   Exhibit 10.27
+    
+  FIFTH AMENDMENT 
+  TO 
+  SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+   dated as of 
+  May 16, 2011 
+  among 
+GOODRICH PETROLEUM COMPANY, L.L.C.,  as Borrower,    BNP PARIBAS,    as Administrative Agent,  and 
+The Lenders Party Hereto   
+    BNP SECURITIES CORP.,  as Sole Lead Arranger and Bookrunner
+      
+
+
+
+
+ FIFTH AMENDMENT TO SECOND 
+AMENDED AND RESTATED CREDIT AGREEMENT   
+THIS FIFTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT (this Fifth Amendment) dated as of
+May 16, 2011, is among GOODRICH PETROLEUM COMPANY, L.L.C., a Louisiana limited liability company (Borrower); each of the undersigned Guarantors (collectively, the Guarantors); BNP PARIBAS, as
+administrative agent (in such capacity, together with its successors in such capacity, Administrative Agent) for the lenders party to the Credit Agreement referred to below (collectively, the Lenders); and the
+undersigned Lenders.    RECITALS
+   A. Borrower, Administrative Agent and the
+Lenders are parties to that certain Second Amended and Restated Credit Agreement dated as of May 5, 2009, as amended by that certain First Amendment dated September 22, 2009, that certain Second Amendment dated October 29, 2010, that
+certain Third Amendment dated February 4, 2011 and that certain Fourth Amendment dated February 25, 2011 (as amended, the Credit Agreement), pursuant to which the Lenders have made certain loans to and other extensions
+of credit on behalf of Borrower.    B. The Borrower,
+the Administrative Agent and the Lenders desire to amend certain provisions of the Credit Agreement.   
+C. NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:    Section 1. Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement. Unless otherwise indicated, all article
+and section references in this Fifth Amendment refer to articles and sections of the Credit Agreement.   
+Section 2. Amendments to Credit Agreement.   
+2.1 Amendment to Section 1.02. Section 1.02 is hereby amended by amending and restating or adding the following
+definitions:    Additional
+LC Amount means an amount equal to $250,000 and represents the portion of the total Commitments of the Lenders to acquire participations in Letters of Credit in excess of the LC Commitment but subject to the limitations contained in the
+second paragraph of Section 2.08(b).    Agreement means this Second Amended and Restated Credit Agreement, as amended by that certain First Amendment to Second Amended and Restated Credit Agreement dated September 22,
+2009, that certain Second Amendment to Second Amended and Restated Credit Agreement dated October 29, 2010, that certain Third Amendment to Second Amended and Restated Credit Agreement dated February 4, 2011, that certain Fourth Amendment
+to Second Amended and Restated Credit 
+
+
+
+
+ 
+Agreement dated February 25, 2011 and that certain Fifth Amendment to Second Amended and Restated Credit Agreement dated May 16, 2011, as the same may from time to time be amended,
+amended and restated, supplemented or otherwise modified.    Commitment means, with respect to each Lender, the commitment of such Lender to make Loans and to acquire participations in Letters of Credit hereunder, expressed as an amount
+representing the maximum aggregate amount of such Lenders Revolving Credit Exposure hereunder, as such commitment may be (a) modified from time to time pursuant to Section 2.06 and (b) modified from time to time pursuant to
+assignments by or to such Lender pursuant to Section 12.04. The amount representing each Lenders Commitment shall at any time be the lesser of (i) such Lenders Maximum Credit Amount and (ii) the sum of (A) such
+Lenders Applicable Percentage of the then effective Borrowing Base and (B) such Lenders Applicable Percentage of the Additional LC Amount.   
+Fifth Amendment Effective Date means May 16, 2011. 
+  2.2 Amendment to Section 2.01. Section 2.01
+is hereby amended and restated in its entirety to read as follows:    Section 2.01 Commitments. Subject to the terms and conditions set forth herein, each Lender agrees to make Loans to the Borrower during the Availability Period in an aggregate principal
+amount that will not result in (a) such Lenders Revolving Credit Exposure exceeding such Lenders Commitment, (b) the total Revolving Credit Exposures exceeding the total Commitments, (c) such Lenders aggregate
+principal amount of Loans outstanding exceeding an amount equal to the lesser of such Lenders Applicable Percentage of the Borrowing Base then in effect and such Lenders Maximum Credit Amount or (d) the outstanding principal amount
+of all Loans exceeding an amount equal to the lesser of Borrowing Base then in effect and the Aggregate Maximum Credit Amounts. Within the foregoing limits and subject to the terms and conditions set forth herein, the Borrower may borrow, repay and
+reborrow the Loans.    2.3 Amendment to
+Section 2.03(vi). Section 2.03(vi) is hereby amended and restated in its entirety to read as follows:   
+(vi) the amount of the then effective Borrowing Base, the Additional LC Amount, the current total Revolving Credit
+Exposures (without regard to the requested Borrowing) and the pro forma total Revolving Credit Exposures (giving effect to the requested Borrowing); and   
+2.4 Amendment to Section 2.03. The second paragraph in Section 2.03 is hereby amended and restated in its entirety to
+read as follows:    If no
+election as to the Type of Borrowing is specified, then the requested Borrowing shall be an ABR Borrowing. If no Interest Period is specified with respect to any requested Eurodollar Borrowing, then the Borrower shall be deemed to have
+
+
+
+
+
+ 
+selected an Interest Period of one months duration. Each Borrowing Request shall constitute a representation that the amount of the requested Borrowing shall not cause (i) the total
+Revolving Credit Exposures to exceed the total Commitments and (ii) the outstanding principal amount of all Loans to exceed an amount equal to the difference between (A) the total Commitments and (B) the Additional LC Amount.
+   2.5 Amendment to Section 2.08(b). The
+second paragraph in Section 2.08(b) is hereby amended and restated in its entirety to read as follows:   
+Each notice shall constitute a representation that: (i) after giving effect to the requested issuance,
+amendment, renewal or extension, as applicable, (A) the LC Exposure shall not exceed the sum of the LC Commitment and the Additional LC Amount and (B) the total Revolving Credit Exposures shall not exceed the total Commitments, and
+(ii) if, after giving effect to the requested issuance, amendment, renewal or extension, as applicable, the total Revolving Credit Exposures exceed the Borrowing Base then in effect, the amount of such excess will not exceed the Additional LC
+Amount.    Section 3. Conditions
+Precedent. This Fifth Amendment shall not become effective until the date on which each of the following conditions is satisfied (or waived in accordance with Section 12.02 of the Credit Agreement) (the Fifth Amendment Effective
+Date):    3.1 The Administrative Agent
+shall have received from all of the Lenders, Borrower and the Guarantors, counterparts (in such number as may be requested by Administrative Agent) of this Fifth Amendment signed on behalf of such Persons. 
+  3.2 The Administrative Agent and the Lenders shall have
+received all fees and other amounts due and payable on or prior to the date hereof, including, to the extent invoiced, reimbursement or payment of all documented out-of-pocket expenses required to be reimbursed or paid by the Borrower under the
+Credit Agreement.    3.3 No Default shall have
+occurred and be continuing, after giving effect to the terms of this Fifth Amendment.    3.4 The Administrative Agent shall have received such other documents as the Administrative Agent or special counsel to Administrative Agent may reasonably request. 
+  The Administrative Agent is hereby authorized and directed to
+declare this Fifth Amendment to be effective when it has received documents confirming or certifying, to the satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section 3 or the waiver of such conditions
+as permitted in Section 12.02 of the Credit Agreement. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes. 
+
+
+
+
+ Section 4. Miscellaneous.  
+  4.1 Confirmation. The provisions of the Credit
+Agreement, as amended by this Fifth Amendment, shall remain in full force and effect following the effectiveness of this Fifth Amendment.   
+4.2 Ratification and Affirmation; Representations and Warranties. The Borrower and each Guarantor hereby (a) acknowledges the
+terms of this Fifth Amendment; (b) ratifies and affirms its obligations under, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a patty and agrees that each Loan Document to which it is a
+party remains in full force and effect, except as expressly amended or modified hereby, notwithstanding the amendments and modifications contained herein and (c) represents and warrants to the Lenders that as of the date hereof, after giving
+effect to the terms of this Fifth Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are hue and correct, except to the extent any such representations and warranties are expressly
+limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct as of such specified earlier date, (ii) no Default has occurred and is continuing and (iii) no event, development or
+circumstance have occurred which individually or in the aggregate could reasonably be expected to be a Material Adverse Event.   
+4.3 Loan Document. This Fifth Amendment is a Loan Document as defined and described in the Credit Agreement and all of
+the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.    4.4 Counterparties. This Fifth Amendment may be executed by one or more of the patties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to
+constitute one and the same instrument. Delivery of this Fifth Amendment by facsimile transmission shall be effective as delivery of a manually executed counterparties hereof. 
+  4.5 NO ORAL AGREEMENT. THIS FIFTH AMENDMENT, THE
+CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE
+PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.    4.6 GOVERNING LAW. THIS FIFTH AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+   [SIGNATURES BEGIN NEXT PAGE] 
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Fifth Amendment to be duly executed
+as of the date first written above.   
+
+
+
+
+
+
+
+
+
+
+
+
+ BORROWER:
+ 
+GOODRICH PETROLEUM COMPANY, L.C.C.
+
+
+
+
+
+
+ 
+By:
+  
+ /s/    Jan L. Schott
+
+
+ 
+Name:  Jan L. Schott, CPA
+
+
+ 
+Title:    Senior Vice President and Chief Financial Officer
+
+
+
+
+ GUARANTORS:
+ 
+GOODRICH PETROLEUM CORPORATION
+
+
+
+
+
+
+ 
+By:
+  
+ /s/    Michael J. Killelea
+
+
+ 
+Name:  Michael J. Killelea
+
+
+ 
+Title:    Senior Vice President, General Counsel andCorporate Secretary
+
+   S-1
+ Signature Page to the Fifth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ADMINISTRATIVE AGENT:
+ 
+BNP PARIBAS, as Lender and as Administrative Agent
+
+
+
+
+
+
+ 
+By:
+  
+ /s/    Betsy Jocher
+
+
+ 
+Name:  Betsy Jocher
+
+
+ 
+Title:    Director
+
+
+
+
+
+
+ 
+By:
+  
+ /s/    Evans R. Swann
+
+
+ 
+Name:  Evans R. Swann
+
+
+ 
+Title:    Managing Director
+   S-2
+ Signature Page to the Fifth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDER:
+ 
+BANK OF MONTREAL, as Lender
+
+
+
+
+
+
+ 
+By:
+  
+ /s/    Gumaro Tijerina
+
+
+ 
+Name:  Gumaro Tijerina
+
+
+ 
+Title:    Director
+
+   S-3
+ Signature Page to the Fifth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDER:
+ 
+COMPASS BANK, as Lender
+
+
+
+
+
+
+ 
+By:
+  
+ /s/    Spencer Stasney
+
+
+ 
+Name:  Spencer Stasney
+
+
+ 
+Title:    Vice President
+
+   S-4
+ Signature Page to the Fifth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDER:
+ 
+JPMORGAN CHASE BANK, N.A., as Lender
+
+
+
+
+
+
+ 
+By:
+  
+ /s/ Michael A. Kamauf
+
+
+ 
+Name:  Michael A. Kamauf
+
+
+ 
+Title:    Authorized Officer
+
+   S-5
+ Signature Page to the Fifth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDERS:
+ 
+WELLS FARGO BANK, N.A, as Lender
+
+
+
+
+
+
+ 
+By:
+  
+ /s/ Doug McDowell
+
+
+ 
+Name:  Doug McDowell
+
+
+ 
+Title:    Director
+
+   S-6
+ Signature Page to the Fifth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDERS:
+ 
+BANK OF AMERICA, N.A., as Lender
+
+
+
+
+
+
+ 
+By:
+  
+ /s/ Stephen J. Hoffman
+
+
+ 
+Name:  Stephen J. Hoffman
+
+
+ 
+Title:    Managing Director
+
+   S-7
+ Signature Page to the Fifth Amendment to Second A&R Credit Agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LENDERS:
+ 
+ROYAL BANK OF CANADA, as Lender
+
+
+
+
+
+
+ 
+By:
+  
+ /s/ Don J. McKinnerney
+
+
+ 
+Name:  Don J. McKinnerney
+
+
+ 
+Title:    Authorized Signatory
+
+   S-8
+ Signature Page to the Fifth Amendment to Second A&R Credit Agreement 
+
+
+

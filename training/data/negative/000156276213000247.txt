@@ -1,0 +1,878 @@
+
+EX-10
+2
+c403-20130630xex10.htm
+EX-10
+
+
+
+
+	
+		
+			Exhibit Debt Amendment 5-2013
+		
+	
+	
+
+		
+
+			 
+
+		
+
+
+		
+			Exhibit 10.1
+		
+		
+			AGREEMENT AND OMNIBUS AMENDMENT
+		
+		
+			 
+		
+		
+			This AGREEMENT AND OMNIBUS AMENDMENT ("Agreement") dated as of May 16, 2013 ("Effective Date"), is among Alta Mesa Holdings, LP, a Texas limited partnership (“Borrower”), Orion Operating Company, LP, a Texas limited partnership (“Orion”), Alta Mesa Resources, LP, a Texas limited partnership (“AMR LP”), Petro Acquisitions Holdings, LP, a Texas limited partnership (“PAH LP”), Petro Operating Company Holdings, Inc., a Florida corporation (“POCH”), and Galveston Bay Resources Holdings, LP, a Texas limited partnership (together with AMR LP, PAH LP, and POCH, each an “Affiliate Guarantor” and, collectively, the “Affiliate Guarantors”), and  the other affiliates of the Borrower party hereto (together with Orion and the Affiliate Guarantors, each a “Guarantor” and, collectively, the "Guarantors"), the Lenders (as defined below), and Wells Fargo Bank, N.A., as administrative agent for such Lenders (in such capacity, the "Administrative Agent") and as issuing lender (in such capacity, the "Issuing Lender").
+		
+		
+			 
+		
+		
+			RECITALS
+		
+		
+			 
+		
+		
+			
+				 A.
+			
+		
+			
+			            Reference is made to (i) that certain Sixth Amended and Restated Credit Agreement dated as of May 13, 2010, among the Borrower, the lenders party thereto from time to time (the "Lenders"), the Administrative Agent, and the Issuing Lender, as amended by that certain Amendment No. 1 dated as of September 2, 2010, that certain Agreement and Amendment No. 2 dated as of December 6, 2010, that certain Agreement and Amendment No. 3 dated as of May 23, 2011, that certain Agreement and Amendment No. 4 dated as of November 7, 2011, and that certain Agreement and Amendment No. 5 dated as of May 15, 2012, each among the Borrower, the Guarantors, the Lenders, the Administrative Agent and the Issuing Lender (as so amended, the "Credit Agreement"), (ii) that certain Second Amended and Restated Guaranty Agreement dated as of May 13, 2010, among the Guarantors and the Administrative Agent (as heretofore supplemented, the “General Guaranty”), (iii) that certain Second Amended and Restated Limited Guaranty Agreement dated as of May 13, 2010, between Orion and the Administrative Agent (the “Limited Guaranty”), and (iv) that certain Second Amended and Restated Affiliate Guaranty Agreement dated as of May 13, 2010, among the Affiliate Guarantors and the Administrative Agent (the “Affiliate Guaranty”).
+		
+			 
+		
+		
+			B.        The parties hereto wish to, subject to the terms and conditions of this Agreement, (i) redetermine and increase the Borrowing Base (as defined in the Credit Agreement) and (ii) make certain other amendments to the Credit Agreement and the Guaranties as provided herein.
+		
+		
+			 
+		
+		
+			            NOW THEREFORE, in consideration of the benefits to be derived by the parties hereto and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+		
+		
+			 
+		
+		
+			
+				 (a)
+			
+		
+			
+			Defined Terms; Other Provisions.  As used in this Agreement, each of the terms defined in the opening paragraph and the Recitals above shall have the meanings assigned to such terms therein.  Each term defined in the Credit Agreement and used herein without definition shall have the meaning assigned to such term in the Credit Agreement, unless expressly provided to the contrary.  Each term defined in a Guaranty, as amended hereby, but not in the Credit Agreement and used herein without definition shall have the meaning assigned to such term in such Guaranty, as amended hereby, unless expressly provided to the contrary.  Article, Section, Schedule, and Exhibit references are to Articles and Sections of and Schedules and Exhibits to this Agreement, unless otherwise specified.  The words "hereof", "herein", and "hereunder" and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement.  The term "including" means "including, without limitation,".  Paragraph headings have been inserted in this 
+		
+		 
+
+		
+
+			1
+
+		
+
+		
+
+			 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		Agreement as a matter of convenience for reference only and it is agreed that such paragraph headings are not a part of this Agreement and shall not be used in the interpretation of any provision of this Agreement.
+		
+			
+				 (b)
+			
+		
+			
+			Agreement – Borrowing Base.  Subject to the terms of this Agreement, as of the Effective Date, the Borrowing Base shall be increased by $16,325,000 resulting in a new Borrowing Base equal to $330,000,000.  Such Borrowing Base shall remain in effect at such level until the Borrowing Base is redetermined in accordance with Section 2.02 of the Credit Agreement, as amended hereby.  The Borrower and the Lenders hereby acknowledge and agree that the redetermination of the Borrowing Base set forth in this Section 2 is the scheduled semi-annual redetermination of the Borrowing Base scheduled for spring,  2013, under Section 2.02 of the Credit Agreement.  Each Lender's Pro Rata Share of the redetemined Borrowing Base, after giving effect to the increase in the Borrowing Base set forth in this Section 2, is set forth in Annex I attached hereto.
+		
+			
+				 (c)
+			
+		
+			
+			Amendments to Credit Agreement.  
+		
+			
+				 (a)
+			
+		
+			
+			Section 1.01 (Certain Defined Terms) of the Credit Agreement is hereby amended by adding the following sentence to the end of the definition of “Obligations” found therein:
+		
+			“…Notwithstanding anything herein to the contrary,  no Excluded Swap Obligation shall constitute an Obligation.”
+		
+		
+			
+				 (b)
+			
+		
+			
+			Section 1.01  (Certain Defined Terms) of the Credit Agreement is hereby further amended by adding the following defined terms thereto in alphabetical order:
+		
+			“‘Commodity Exchange Act’ means the Commodity Exchange Act (7 U.S.C. § 1 et seq.), as amended from time to time, and any successor statute or any rule, regulation or order of the Commodity Futures Trading Commission (or the application or official interpretation of any thereof).”
+		
+		
+			“‘Excluded Swap Obligation’  means, with respect to any Guarantor, any Swap Obligation if, and to the extent that, all or a portion of the Guaranty of such Guarantor of, or the grant by such Guarantor of a Lien to secure, such Swap Obligation (or any Guaranty thereof) is or becomes illegal under the Commodity Exchange Act by virtue of such Guarantor’s failure for any reason to constitute an “eligible contract participant” as defined in the Commodity Exchange Act at the time the Guaranty of such Guarantor or the grant of such Lien becomes effective with respect to such Swap Obligation.  If a Swap Obligation arises under a master agreement governing more than one swap (as defined by the Commodity Exchange Act), such exclusion shall apply only to the portion of such Swap Obligation that is attributable to swaps (as defined by the Commodity Exchange Act) for which such Guaranty or Lien is or becomes illegal.”
+		
+		
+			“‘Loan Party’” means the Borrower and each Guarantor.”
+		
+		
+			“‘Qualified ECP Guarantor’ means, in respect of any Swap Obligation, (a) each Loan Party that has total assets exceeding $10,000,000 at the time the relevant Guaranty or grant of the relevant Lien becomes effective with respect to such Swap Obligation or (b) a Loan Party for which another Person who constitutes an “eligible contract participant” under the Commodity Exchange Act or any regulations promulgated thereunder can cause such Loan Party to qualify as an “eligible contract participant” at such time by entering into a keepwell under Section 1a(18)(A)(v)(II) of the Commodity Exchange Act.”
+		
+		 
+
+		
+
+			2
+
+		
+
+		
+
+			 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		
+			“‘Swap Obligation’ means, with respect to any Guarantor, any obligation to pay or perform under any agreement, contract or transaction that constitutes a “swap” within the meaning of section 1a(47) of the Commodity Exchange Act.”
+		
+		
+			
+				 (i)
+			
+		
+			
+			Amendment to General Guaranty and Limited Guaranty.  The General Guaranty and the Limited Guaranty are hereby amended by adding the following Section 20 thereto:    
+		
+			“Section 20.  Keepwell.  Each Qualified ECP Guarantor hereby jointly and severally absolutely, unconditionally and irrevocably undertakes to provide such funds or other support as may be needed from time to time by each other Loan Party to honor all of its obligations under this Guaranty in respect of Swap Obligations (provided, however, that each Qualified ECP Guarantor shall only be liable under this Section 20 for the maximum amount of such liability that can be hereby incurred without rendering its obligations under this Section 20, or otherwise under this Guaranty, voidable under applicable law relating to fraudulent conveyance or fraudulent transfer, and not for any greater amount).  The obligations of each Qualified ECP Guarantor under this Section shall remain in full force and effect until the payment in full of all Guaranteed Obligations and all other amounts payable under the Loan Documents, the termination of all Letter of Credit Obligations, and the termination of all the Commitments.  Each Qualified ECP Guarantor intends that this Section 20 constitute, and this Section 20 shall be deemed to constitute, a “keepwell, support, or other agreement” for the benefit of each other Loan Party for all purposes of Section 1a(18)(A)(v)(II) of the Commodity Exchange Act.”
+		
+		
+			
+				 (ii)
+			
+		
+			
+			Amendment to Affiliate Guaranty.  The Affiliate Guaranty is hereby amended by adding the following Section 19 thereto:
+		
+			“Section 19.  Keepwell.  Each Qualified ECP Guarantor hereby jointly and severally absolutely, unconditionally and irrevocably undertakes to provide such funds or other support as may be needed from time to time by each other Loan Party to honor all of its obligations under this Guaranty in respect of Swap Obligations (provided, however, that each Qualified ECP Guarantor shall only be liable under this Section 19 for the maximum amount of such liability that can be hereby incurred without rendering its obligations under this Section 19, or otherwise under this Guaranty, voidable under applicable law relating to fraudulent conveyance or fraudulent transfer, and not for any greater amount).  The obligations of each Qualified ECP Guarantor under this Section shall remain in full force and effect until the payment in full of all Guaranteed Obligations and all other amounts payable under the Loan Documents, the termination of all Letter of Credit Obligations, and the termination of all the Commitments.  Each Qualified ECP Guarantor intends that this Section 19 constitute, and this Section 19 shall be deemed to constitute, a “keepwell, support, or other agreement” for the benefit of each other Loan Party for all purposes of Section 1a(18)(A)(v)(II) of the Commodity Exchange Act.”
+		
+		
+			
+				 (iii)
+			
+		
+			
+			Representations and Warranties.  Each of the Guarantors and the Borrower hereby represents and warrants that: (a) after giving effect to this Agreement, the representations and warranties contained in the Credit Agreement, as amended hereby, the representations and warranties contained in the Guaranties, as amended hereby, and the representations and warranties contained in the other Loan Documents are true and correct in all material respects (except that such materiality qualifier shall not be applicable to any representation or warranty that already is qualified or modified by materiality in the text thereof) on and as of the Effective Date as if made on and as of such date except to the extent that any such representation or warranty expressly relates solely to an earlier date, in which case such representation or warranty is true and correct in all material respects (except that such 
+		
+		 
+
+		
+
+			3
+
+		
+
+		
+
+			 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		materiality qualifier shall not be applicable to any representation or warranty that already is qualified or modified by materiality in the text thereof) as of such earlier date; (b) no Default has occurred which is continuing; (c) the execution, delivery and performance of this Agreement are within the corporate, limited liability company, or partnership power and authority of such Person and have been duly authorized by appropriate corporate and governing action and proceedings; (d) this Agreement constitutes the legal, valid, and binding obligation of such Person enforceable in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting the rights of creditors generally and general principles of equity; (e) there are no governmental or other third party consents, licenses and approvals required in connection with the execution, delivery, performance, validity and enforceability of this Agreement; and (f) the Liens under the Security Instruments are valid and subsisting and secure Borrower’s and the Guarantors' obligations under the Loan Documents.
+		
+			
+				 (iv)
+			
+		
+			
+			Conditions to Effectiveness.    This Agreement shall become effective on the Effective Date and enforceable against the parties hereto upon the occurrence of the following conditions precedent:
+		
+			
+				 (a)
+			
+		
+			
+			The Administrative Agent shall have received multiple original counterparts, as requested by the Administrative Agent, of this Agreement duly and validly executed and delivered by duly authorized officers of the Borrower, the Guarantors and all the Lenders;
+		
+			
+				 (a)
+			
+		
+			
+			The representations and warranties in this Agreement made by the Guarantors and the Borrower shall be true and correct in all material respects; and
+		
+			The Borrower shall have paid, and hereby agrees to pay all reasonable fees and expenses of the Administrative Agent's outside legal counsel and other consultants pursuant to all invoices presented for payment on or prior to the Effective Date.    
+		
+		
+			
+				 (v)
+			
+		
+			
+			Acknowledgments and Agreements.  
+		
+			
+				 (a)
+			
+		
+			
+			Within 30 days following the Effective Date (or such longer period as the Administrative Agent may determine in its sole discretion), the Administrative Agent shall have received (i) such title information as the Administrative Agent may reasonably require setting forth the status of title to at least 80% of the present value of the Proven Reserves of the Borrower and its Restricted Subsidiaries, as determined by the Administrative Agent in its sole discretion, and (ii) new Mortgages or supplements and, as applicable, amendments of existing Mortgages which collectively (A) encumber at least 85% of all of the Borrower's and its Restricted Subsidiaries' Proven Reserves and Oil and Gas Properties, and (B) exclude the Excluded Swap Obligations from the obligations secured thereby,  and all attached exhibits and schedules, duly executed by all the parties thereto, in form and substance satisfactory to the Administrative Agent.
+		
+			
+				 (b)
+			
+		
+			
+			The Borrower and each Guarantor acknowledges that on the date hereof all outstanding Obligations (as that term is amended hereby) are payable in accordance with their terms and the Borrower and each Guarantor hereby waives any defense, offset, counterclaim or recoupment with respect thereto.
+		
+			
+				 (b)
+			
+		
+			
+			The Administrative Agent and the Lenders hereby expressly reserve all of their rights, remedies, and claims under the Loan Documents.  Nothing in this Agreement shall constitute a waiver or relinquishment of (i) any Default or Event of Default under any of the Loan Documents, (ii) any of the agreements, terms or conditions contained in any of the Loan Documents, (iii) any rights or remedies of the Administrative Agent or any Lender with respect to the Loan Documents, or (iv) the 
+		
+		 
+
+		
+
+			4
+
+		
+
+		
+
+			 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		rights of the Administrative Agent or any Lender to collect the full amounts owing to them under the Loan Documents.
+		
+			
+				 (c)
+			
+		
+			
+			Each of the parties hereto hereby adopt, ratify, and confirm the Credit Agreement, as amended hereby, and acknowledges and agrees that the Credit Agreement, as amended hereby, is and remains in full force and effect, and the Borrower and the Guarantors acknowledge and agree that their respective liabilities and obligations under the Credit Agreement, as amended hereby, and the Guaranties,  as amended hereby, are not impaired in any respect by this Agreement.
+		
+			
+				 (d)
+			
+		
+			
+			From and after the Effective Date, all references to the Credit Agreement and the Loan Documents shall mean such Credit Agreement and such Loan Documents as amended by this Agreement.
+		
+			
+				 (e)
+			
+		
+			
+			This Agreement is a Loan Document for the purposes of the provisions of the other Loan Documents.  Without limiting the foregoing, any breach of representations, warranties, and covenants under this Agreement shall be a Default or Event of Default, as applicable, under the Credit Agreement, as amended hereby.
+		
+			The Lenders hereby consent to, and authorizes the Administrative Agent to enter into and deliver, any and all amendments to the Security Instruments (including the Mortgages) that the Administrative Agent may reasonably deem necessary or prudent in order to exclude any and all “Excluded Swap Obligation” as defined in Section 3(b) above, from the obligations secured by the Liens granted thereunder.  By accepting the benefit of the Liens granted pursuant to the Security Instruments on Property acquired by the Borrower or any Guarantor after the date hereof, each Secured Party not party hereto hereby agrees to the terms of this paragraph (f).
+		
+		
+			
+				 (vi)
+			
+		
+			
+			Reaffirmation of the Guaranty.  Each Guarantor hereby ratifies, confirms, acknowledges and agrees that its obligations under its respective Guaranty, as amended hereby, are in full force and effect and that such Guarantor continues to unconditionally and irrevocably guarantee the full and punctual payment, when due, whether at stated maturity or earlier by acceleration or otherwise, of all of the Guaranteed Obligations (as defined in the Guaranties, as amended hereby), as such Guaranteed Obligations may have been amended by this Agreement, and its execution and delivery of this Agreement does not indicate or establish an approval or consent requirement by such Guarantor under its respective Guaranty, as amended hereby, in connection with the execution and delivery of amendments, consents or waivers to the Credit Agreement, the Notes or any of the other Loan Documents.
+		
+			
+				 (vii)
+			
+		
+			
+			Counterparts.  This Agreement may be signed in any number of counterparts, each of which shall be an original and all of which, taken together, constitute a single instrument.  This Agreement may be executed by facsimile signature or other similar electronic means and all such signatures shall be effective as originals.
+		
+			
+				 (viii)
+			
+		
+			
+			Successors and Assigns.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted pursuant to the Credit Agreement.
+		
+			
+				 (ix)
+			
+		
+			
+			Invalidity.  In the event that any one or more of the provisions contained in this Agreement shall for any reason be held invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect any other provision of this Agreement.
+		
+			
+				 (x)
+			
+		
+			
+			Governing Law.  This Agreement shall be deemed to be a contract made under and shall be governed by and construed in accordance with the laws of the State of Texas.
+		 
+
+		
+
+			5
+
+		
+
+		
+
+			 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		
+			
+				 (xi)
+			
+		
+			
+			Entire Agreement. This Agreement, the Credit Agreement, as amended by this Agreement, the guaranties, as amended by this agreement, the Notes, and the other Loan Documents constitute the entire understanding among the parties hereto with respect to the subject matter hereof and supersede any prior agreements, written or oral, with respect thereto.
+		
+			THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+		
+		
+			[SIGNATURES BEGIN ON NEXT PAGE]
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			6
+
+		
+
+		
+
+			 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		
+		
+		
+			 
+		
+		
+			            EXECUTED effective as of the date first above written.
+		
+		
+			 
+		
+		
+			Borrower:ALTA MESA HOLDINGS, LP
+		
+		
+			       By: Alta Mesa Holdings GP, LLC, its general partner
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By: /s/ Michael McCabe_________________________________________________________________________
+		
+		
+			            Michael McCabe
+		
+		
+			            Chief Financial Officer
+		
+		
+			 
+		
+		
+			GUARANTORS:ALABAMA ENERGY RESOURCES LLC
+		
+		
+			ALTA MESA EAGLE, LLC
+		
+		
+			AM IDAHO LLC
+		
+		
+			AMH ENERGY NEW MEXICO, LLC
+		
+		
+			 
+		
+		
+			 
+		
+		
+			Each By: /s/ Michael McCabe
+		
+		
+			                        Michael A. McCabe 
+		
+		
+			                        Chief Financial Officer and Secretary
+		
+		
+			 
+		
+		
+			ALTA MESA ENERGY LLC
+		
+		
+			ALTA MESA FINANCE SERVICES CORP.
+		
+		
+			ALTA MESA HOLDINGS GP, LLC
+		
+		
+			Alta Mesa GP, LLC
+		
+		
+			ARI Development, LLC
+		
+		
+			Alta mesa acquisition sub, llc
+		
+		
+			BRAYTON MANAGEMENT GP II, LLC
+		
+		
+			Cairn energy usa, llc
+		
+		
+			louisiana onshore properties llc
+		
+		
+			Petro Operating Company Holdings, Inc.
+		
+		
+			the meridian production, llc
+		
+		
+			the meridian resource, llc
+		
+		
+			the meridian resource & exploration llc
+		
+		
+			tmr drilling, llc
+		
+		
+			virginia oil and gas, llc
+		
+		
+			
+		
+		
+			 
+		
+		
+			Each by: /s/ Michael McCabe
+		
+		
+			Michael A. McCabe
+		
+		
+			Chief Financial Officer
+		
+		
+			 
+		
+		
+			
+		
+		 
+
+		
+
+			7
+
+		
+
+		
+
+			 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		            Alta Mesa Resources, LP
+		
+		
+			By:             Alta Mesa Resources GP, LLC,
+		
+		
+			            its sole general partner
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By: /s/ Michael McCabe
+		
+		
+			Michael A. McCabe, 
+		
+		
+			                                    Chief Financial Officer
+		
+		
+			 
+		
+		
+			ALTA MESA SERVICES, LP
+		
+		
+			Aransas Resources, LP
+		
+		
+			Buckeye Production Company, LP
+		
+		
+			Galveston Bay Resources, LP
+		
+		
+			Louisiana exploration & 
+		
+		
+			acquisitions, LP
+		
+		
+			navasota resources, ltd., llp
+		
+		
+			Nueces Resources, LP
+		
+		
+			Oklahoma Energy Acquisitions, LP
+		
+		
+			ORION OPERATING COMPANY, LP
+		
+		
+			Petro Acquisitions, LP
+		
+		
+			Petro Operating Company, LP
+		
+		
+			Texas Energy Acquisitions, LP
+		
+		
+			 
+		
+		
+			Each by:  Alta Mesa GP, LLC, its sole general partner
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By: /s/ Michael McCabe
+		
+		
+			                        Michael A. McCabe
+		
+		
+			                        Chief Financial Officer
+		
+		
+			 
+		
+		
+			BRAYTON rESOURCES, LP
+		
+		
+			By: Brayton Management GP, LLC, its general partner
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By: /s/ Michael McCabe
+		
+		
+			            Michael A. McCabe
+		
+		
+			            Chief Financial Officer
+		
+		
+			 
+		
+		
+			BRAYTON rESOURCES II, L.P.
+		
+		
+			By: Brayton Management GP II, LLC, its general partner
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By: /s/ Michael McCabe
+		
+		
+			            Michael A. McCabe
+		
+		
+			            Chief Financial Officer
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			8
+
+		
+
+		
+
+			 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		Galveston Bay Resources Holdings, LP
+		
+		
+			By:Galveston Bay Resources Holdings GP, LLC
+		
+		
+			its sole general partner
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By: /s/ Michael McCabe
+		
+		
+			Michael A. McCabe, 
+		
+		
+			Chief Financial Officer
+		
+		
+			 
+		
+		
+			Petro Acquisitions Holdings, LP
+		
+		
+			By:Petro Acquisitions Holdings GP, LLC,
+		
+		
+			its sole general partner
+		
+		
+			 
+		
+		
+			 
+		
+		
+			By: /s/ Michael McCabe
+		
+		
+			Michael A. McCabe, 
+		
+		
+			Chief Financial Officer
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			9
+
+		
+
+		
+
+			 
+
+		
+
+ 
+
+		
+
+			 
+
+		
+
+
+		
+		
+		
+			ADMINISTRATIVE AGENT/
+		
+		
+			ISSUING LENDER/
+		
+		
+			LENDER:                                                            /s/ Wells Fargo bank, N.A. 
+		
+		
+			 
+		
+		
+			LENDER:                                                            /s/ Union Bank, N.A
+		
+		
+			LENDER:                                                            /s/ Toronto Dominion (New York) LLC
+		
+		
+			LENDER:                                                            /s/ ING Capital LLC
+		
+		
+			LENDER:                                                            /s/ Citibank, N.A.
+		
+		
+			LENDER:                                                            /s/ Capital One, NATIONAL ASSOCIATION
+		
+		
+			LENDER:                                                            /s/ BOKF, NA d/b/a Bank of Texas
+		
+		
+			LENDER:                                                            /s/ Amegy Bank National Association
+		
+		
+			LENDER:                                                            /s/ Texas Capital Bank, N.A.
+		
+		
+			 
+		
+		
+			 
+		
+		 
+
+		
+
+			10
+
+		
+
+		
+
+			 
+
+		
+
+
+	
+
+

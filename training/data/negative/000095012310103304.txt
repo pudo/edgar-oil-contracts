@@ -1,0 +1,2732 @@
+
+EX-10.1
+2
+d77030exv10w1.htm
+EX-10.1
+
+
+
+exv10w1
+
+
+
+
+
+
+Exhibit 10.1
+
+
+
+SECOND AMENDMENT TO CREDIT AGREEMENT 
+
+
+
+     This Second Amendment to Credit Agreement (this Second Amendment) is entered
+into as of September 30, 2010, by and among Denbury Resources Inc., a Delaware corporation
+(Borrower), JPMorgan Chase Bank, N.A., as Administrative Agent (Administrative
+Agent), and the financial institutions parties hereto as Banks (hereinafter collectively
+referred to as Executing Banks, and each individually, an Executing Bank).
+
+
+W I T N E S S E T H
+
+
+
+     WHEREAS, Borrower, Administrative Agent, the other agents party thereto and Banks are parties
+to that certain Credit Agreement dated as of March 9, 2010 (as amended, the Credit
+Agreement) (unless otherwise defined herein, all terms used herein with their initial letter
+capitalized shall have the meaning given such terms in the Credit Agreement, including, to the
+extent applicable, after giving effect to the amendments set forth in Section 1 of this
+Second Amendment);
+
+
+     WHEREAS, pursuant to the Credit Agreement, Banks have made a Revolving Loan to Borrower and
+provided certain other credit accommodations to Borrower;
+
+
+     WHEREAS, Borrower has advised Administrative Agent and Banks that the loss of gas production
+as a result of a possible sale of the Haynesville Assets (the Haynesville Sale) may cause
+the Credit Parties to have (a) hedged more than 100% of their reasonably anticipated projected
+production from Proved Mineral Interests of gas as prohibited by Section 9.11(a)(i) of the Credit
+Agreement, and (b) total production of gas that is less than the aggregate amount of gas which is
+the subject of Oil and Gas Hedge Transactions as prohibited by Section 9.11(b)(ii) of the Credit
+Agreement (collectively, the Temporary Gas Hedging Noncompliance), in each case during
+the period commencing on the effective date of the Haynesville Sale and continuing through and
+including May 1, 2011 (such period, the Specified Period), which Temporary Gas Hedging
+Noncompliance would be prohibited by Section 9.17 of the Credit Agreement;
+
+
+     WHEREAS, Borrower has requested that Banks (a) amend certain terms of the Credit Agreement to
+provide Borrower and the other Credit Parties additional time to complete a sale of the Haynesville
+Assets and to make certain other changes thereto as more specifically described herein, (b) provide
+a limited waiver of any Temporary Gas Hedging Noncompliance that may occur during the Specified
+Period and (c) reaffirm the existing Borrowing Base;
+
+
+     WHEREAS, subject to and upon the terms and conditions set forth herein, Executing Banks have
+agreed to Borrowers requests; and
+
+
+     NOW THEREFORE, for and in consideration of the mutual covenants and agreements herein
+contained and other good and valuable consideration, the receipt and sufficiency of which are
+hereby acknowledged and confessed, Borrower, Administrative Agent and Executing Banks hereby agree
+as follows:
+
+
+1
+
+
+
+
+ 
+
+
+Section 1. Amendments. In reliance on the representations, warranties, covenants and
+agreements contained in this Second Amendment, and subject to the satisfaction of the conditions
+precedent set forth in Section 4 hereof, the Credit Agreement shall be amended effective as
+of the Effective Date in the manner provided in this Section 1.
+
+
+
+     1.1 Additional Definition. Section 1.1 of the Credit Agreement shall be amended to
+add thereto in alphabetical order the following definition of Second Amendment which
+shall read in full as follows:
+
+
+
+     Second Amendment means that certain Second Amendment
+to Credit Agreement dated as of September 30, 2010 among Borrower,
+Administrative Agent and Banks party thereto.
+
+
+     1.2 Amendment to Definition. The definition of Loan Papers contained in
+Section 1.1 of the Credit Agreement shall be amended and restated to read in full as follows:
+
+
+
+     Loan Papers means this Agreement, the First
+Amendment, the Second Amendment, the Notes, each Facility Guarantee
+which may now or hereafter be executed, each Borrower Pledge
+Agreement which may now or hereafter be executed, each Subsidiary
+Pledge Agreement which may now or hereafter be executed, all
+Mortgages now or at any time hereafter delivered pursuant to
+Section 5.1, and all other certificates, documents or
+instruments delivered in connection with this Agreement, as the
+foregoing may be amended from time to time.
+
+
+     1.3 Amendment to Security Provision. Clause (a)(ii) of Section 5.1 of the Credit
+Agreement shall be amended and restated to read in full as follows:
+
+
+
+     (ii) prior to any Distributions being permitted to be made to
+any Restricted Subsidiary pursuant to the terms of Section
+9.2(b) and/or the definition of Permitted Investments, all of
+the issued and outstanding Equity of each Restricted Subsidiary
+owned by Borrower and each Restricted Subsidiary
+
+
+     1.4 Amendment to Environmental Matters Provision. The fourth sentence of Section 7.15
+of the Credit Agreement shall be amended to add and immediately preceding the reference to (b)
+set forth therein.
+
+
+     1.5 Amendment to Asset Dispositions Provision. Clause (h) of Section 9.5 of the
+Credit Agreement shall be amended to (a) delete the reference to November 1, 2010 therein and
+replace such reference with May 1, 2011 in lieu thereof, and (b) delete the ; at the end of
+subclause (vi) and insert a .in lieu thereof.
+
+
+     1.6 Amendment to Hedge Transactions Provision. Clause (a) of Section 9.11 of the
+Credit Agreement shall be amended to delete the reference to tenor in the third line thereof and
+replace such reference with term in lieu thereof.
+
+
+2
+
+
+
+
+ 
+
+
+
+     1.7 Amendment to Events of Default Provision. Clause (f) of Section 11.1 of the
+Credit Agreement shall be amended to delete the reference to $5,000,000 therein and replace such
+reference with $20,000,000 in lieu thereof.
+
+Section 2. Limited Waiver. In reliance on the representations, warranties, covenants and
+agreements contained in this Second Amendment, and subject to the satisfaction of the conditions
+precedent set forth in Section 4 hereof, Banks hereby consent to the Temporary Gas Hedging
+Noncompliance during the Specified Period; provided, that Borrower will not, nor
+will Borrower permit any other Credit Party to, enter into any Hedge Transaction for gas during the
+Specified Period unless such Hedge Transaction, together with any other existing Hedge Transactions
+for gas, will not cause a violation of Sections 9.11 and 9.17 of the Credit Agreement. Borrower
+acknowledges and agrees that the limited waiver set forth in this Section 2 is limited
+solely to Sections 9.11(a)(i), 9.11(b)(ii) and 9.17 of the Credit Agreement and applies solely with
+respect to the Temporary Gas Hedging Noncompliance during the Specified Period caused as a direct
+result of the Credit Parties loss of gas production from the Haynesville Sale. The limited waiver
+set forth in this Section 2 is a limited, one-time waiver, and nothing contained herein
+shall obligate Administrative Agent or Banks to grant any additional or future waiver with respect
+to, or in connection with, any provisions of the Credit Agreement or any other Loan Paper.
+
+
+Section 3. Borrowing Base. Effective as of the Effective Date, the Borrowing Base shall be
+reaffirmed at $1,600,000,000. Notwithstanding anything to the contrary contained in the Credit
+Agreement, the Borrowing Base shall remain at $1,600,000,000 until the Scheduled Redetermination
+scheduled for May 1, 2011, unless there is a Special Redetermination or other redetermination or
+adjustment of the Borrowing Base prior to such time. The Borrower and Executing Banks agree that
+the reaffirmation of the Borrowing Base provided for in this Section 3 shall constitute the
+Scheduled Redetermination of the Borrowing Base scheduled for November 1, 2010 and shall not be
+construed or deemed to be a Special Redetermination for the purposes of Section 4.3 of the Credit
+Agreement.
+
+
+Section 4. Conditions Precedent to Amendment. The amendments contained in Section
+1 hereof, the limited waiver provided in Section 2 hereof and the reaffirmation of the
+Borrowing Base contained in Section 3 hereof shall be effective on the date that each of
+the following conditions precedent is satisfied (the Effective Date):
+
+
+
+     Counterparts. Administrative Agent shall have received counterparts hereof duly
+executed by Borrower and Required Banks and acknowledged by each Restricted Subsidiary (or, in the
+case of any party as to which an executed counterpart shall not have been received, telegraphic,
+telecopy, or other written confirmation from such party of execution of a counterpart hereof by
+such party).
+
+
+     4.1 No Default. No Default or Event of Default shall have occurred which is
+continuing.
+
+
+     4.2 Other Documents. Administrative Agent shall have been provided with such
+documents, instruments and agreements, and Borrower shall have taken such actions, in each
+
+
+3
+
+
+
+
+ 
+
+
+case as Administrative Agent may reasonably require in connection with this Second Amendment
+and the transactions contemplated hereby.
+
+
+Section 5. Representations and Warranties. To induce Executing Banks and Administrative
+Agent to enter into this Second Amendment, Borrower hereby represents and warrants to Banks and
+Administrative Agent as follows:
+
+
+
+     5.1 Reaffirm Existing Representations and Warranties. Each representation and
+warranty of Borrower contained in the Credit Agreement and the other Loan Papers is true and
+correct in all material respects on the date hereof and will be true and correct in all material
+respects after giving effect to the amendments set forth in Section 1 hereof, except that
+any representation or warranty that is qualified by material or Material Adverse Effect
+references therein shall be true and correct in all respects.
+
+
+     5.2 Due Authorization; No Conflict. The execution, delivery and performance by
+Borrower of this Second Amendment are within Borrowers corporate or organizational powers, have
+been duly authorized by all necessary action, require no action by or in respect of, or filing
+with, any governmental body, agency or official and do not violate or constitute a default under
+any provision of applicable law or any Material Agreement binding upon Borrower or any other Credit
+Party or result in the creation or imposition of any Lien upon any of the assets of Borrower or any
+other Credit Party other than Liens securing the Obligations.
+
+
+     5.3 Validity and Enforceability. This Second Amendment constitutes the valid and
+binding obligation of Borrower enforceable in accordance with its terms, except as (i) the
+enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting
+creditors rights generally, and (ii) the availability of equitable remedies may be limited by
+equitable principles of general application.
+
+
+Section 6. Miscellaneous.
+
+
+
+     6.1 Reaffirmation of Loan Papers. Any and all of the terms and provisions of the
+Credit Agreement and the Loan Papers shall, except as amended and modified hereby, remain in full
+force and effect. The amendments contemplated hereby shall not limit or impair any Liens securing
+the Obligations, each of which are hereby ratified, affirmed and extended to secure the Obligations
+as they may be increased pursuant hereto.
+
+
+     6.2 Parties in Interest. All of the terms and provisions of this Second Amendment
+shall bind and inure to the benefit of the parties hereto and their respective successors and
+assigns.
+
+
+     6.3 Legal Expenses. Borrower hereby agrees to pay on demand all reasonable fees and
+expenses of counsel to Administrative Agent incurred by Administrative Agent in connection with the
+preparation, negotiation and execution of this Second Amendment and all related documents.
+
+
+     6.4 Counterparts. This Second Amendment may be executed in counterparts, and all
+parties need not execute the same counterpart; however, no party shall be bound by this
+
+
+4
+
+
+
+
+ 
+
+
+Second Amendment until Borrower, Required Banks and each Restricted Subsidiary have executed a
+counterpart. Facsimiles shall be effective as originals.
+
+
+
+     6.5 Complete Agreement. THIS SECOND AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER
+LOAN PAPERS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY
+EVIDENCE OF PRIOR, CONTEMPORANEOUS OR ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL
+AGREEMENTS BETWEEN OR AMONG THE PARTIES.
+
+
+     6.6 Headings. The headings, captions and arrangements used in this Second Amendment
+are, unless specified otherwise, for convenience only and shall not be deemed to limit, amplify or
+modify the terms of this Second Amendment, nor affect the meaning thereof.
+
+
+[Signature Pages to Follow]
+
+
+
+5
+
+
+
+
+ 
+
+
+
+     IN WITNESS WHEREOF, the parties hereto have caused this Second Amendment to be duly executed
+by their respective authorized officers on the date and year first above written.
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BORROWER:
+
+
+DENBURY RESOURCES INC.,
+a Delaware corporation
+
+     
+
+
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+          Mark C. Allen, 
+     
+
+     
+     
+          Senior Vice President and Chief
+Financial       Officer 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+     Each of the undersigned (i) consent and agree to this Second Amendment, and (ii) agree that
+the Loan Papers to which it is a party shall remain in full force and effect and shall continue to
+be the legal, valid and binding obligation of such Person, enforceable against it in accordance
+with its terms.
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    DENBURY MARINE, L.L.C.,
+     
+     
+
+
+     
+     
+    a Louisiana limited liability company
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    By:
+     
+    /s/ Mark C. Allen
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+     
+    Mark C. Allen,
+     
+     
+
+
+     
+     
+     
+     
+     
+    Senior Vice President and
+     
+     
+
+
+     
+     
+     
+     
+     
+    Chief Financial Officer
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    DENBURY OPERATING COMPANY,
+     
+     
+
+
+     
+     
+    a Delaware corporation
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    By:
+     
+    /s/ Mark C. Allen
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+     
+    Mark C. Allen,
+     
+     
+
+
+     
+     
+     
+     
+     
+    Senior Vice President and
+     
+     
+
+
+     
+     
+     
+     
+     
+    Chief Financial Officer
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    TUSCALOOSA ROYALTY FUND LLC,
+     
+     
+
+
+     
+     
+    a Mississippi limited liability company
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    By:
+     
+    Denbury Operating Company, its sole
+     
+     
+
+
+     
+     
+     
+     
+    member
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+     
+     
+    By:
+
+     
+    /s/ Mark C. Allen
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+     
+      Mark C. Allen,
+
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+          Senior Vice President and
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+          Chief Financial Officer
+     
+     
+
+
+
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    DENBURY GATHERING &
+MARKETING, INC., 
+a
+Delaware corporation
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+     
+    Senior Vice President and
+Chief Financial Officer 
+     
+
+
+     
+
+
+     
+    DENBURY GREEN PIPELINE-TEXAS, LLC, a Delaware
+limited liability company
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+          Mark C. Allen, 
+     
+
+     
+     
+          Senior Vice President and
+Chief Financial 
+      Officer 
+     
+
+
+     
+
+
+     
+    ENCORE OPERATING LOUISIANA, LLC, a Delaware
+limited liability company
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+     
+    Senior Vice President and
+Chief Financial Officer 
+     
+
+
+     
+
+
+     
+    GREENCORE PIPELINE COMPANY LLC, a Delaware
+limited liability company
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+     
+    Mark C. Allen, 
+     
+
+     
+     
+     
+    Senior Vice President and
+Chief Financial Officer 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+     
+     
+    ENCORE OPERATING, L.P.,
+     
+     
+
+
+     
+     
+    a Texas limited partnership
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    By:
+     
+    EAP Operating LLC, its general partner
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+
+     
+     
+     
+    By:
+
+     
+    /s/ Mark C. Allen
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+     
+      Mark C. Allen,
+
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+          Senior Vice President and
+     
+     
+
+
+     
+
+     
+     
+     
+     
+     
+          Chief Financial Officer
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    DENBURY ONSHORE, LLC,
+     
+     
+
+
+     
+     
+    a Delaware limited liability company
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    By:
+     
+    /s/ Mark C. Allen
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+          Mark C. Allen,
+     
+     
+
+
+     
+     
+     
+     
+          Senior Vice President and
+     
+     
+
+
+     
+     
+     
+     
+          Chief Financial Officer
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    EAP OPERATING, LLC,
+     
+     
+
+
+     
+     
+    a Delaware limited liability company
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    By:
+     
+    /s/ Mark C. Allen
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+          Mark C. Allen,
+     
+     
+
+
+     
+     
+     
+     
+          Senior Vice President and
+     
+     
+
+
+     
+     
+     
+     
+          Chief Financial Officer
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    EAP PROPERTIES, INC.,
+     
+     
+
+
+     
+     
+    a Delaware corporation
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+    By:
+     
+    /s/ Mark C. Allen
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+          Mark C. Allen,
+     
+     
+
+
+     
+     
+     
+     
+          Senior Vice President and
+     
+     
+
+
+     
+     
+     
+     
+          Chief Financial Officer
+     
+     
+
+
+
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    DENBURY ENCORE HOLDINGS INC.,
+a Delaware corporation
+ 
+     
+
+     
+    By:  
+    /s/ Mark C. Allen
+ 
+     
+
+     
+     
+          Mark C. Allen, 
+     
+
+     
+     
+          Senior Vice President and
+Chief Financial 
+      Officer 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    ADMINISTRATIVE AGENT/BANK:
+
+JPMORGAN CHASE BANK, N.A.,
+as Administrative Agent and a Bank
+ 
+     
+
+     
+    By:  
+    /s/ Brian P. Orlando
+ 
+     
+
+     
+     
+          Brian P. Orlando, 
+     
+
+     
+     
+          Vice President 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+BANK OF AMERICA, N.A.
+ 
+     
+
+     
+    By:  
+    /s/ Stephen J. Hoffman
+ 
+     
+
+     
+     
+    Name:  
+    Stephen J. Hoffman 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+
+BNP PARIBAS
+ 
+     
+
+     
+    By:  
+    /s/ Edward Pak
+ 
+     
+
+     
+     
+    Name:  
+    Edward Pak 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+     
+     
+
+     
+    By:  
+    /s/ Juan Carlos Sandoval
+ 
+     
+
+     
+     
+    Name:  
+    Juan Carlos Sandoval
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+
+THE BANK OF NOVA SCOTIA
+ 
+     
+
+     
+    By:  
+    /s/ Keith Buchanan
+ 
+     
+
+     
+     
+    Name:  
+    Keith Buchanan 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+ 
+     
+
+     
+    By:  
+    /s/ Mikhail Faybusovich
+ 
+     
+
+     
+     
+    Name:  
+    Mikhail Faybusovich 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                                                         /s/ Vipul Dhadda
+ 
+     
+
+     
+     
+    Name:  
+    Vipul Dhadda 
+     
+
+     
+     
+    Title:  
+    Associate 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+ROYAL BANK OF CANADA
+ 
+     
+
+     
+    By:  
+    /s/ Jason S. York
+ 
+     
+
+     
+     
+    Name:  
+    Jason S. York 
+     
+
+     
+     
+    Title:  
+    Authorized Signatory 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+
+
+WELLS FARGO BANK, N.A.
+ 
+     
+
+     
+    By:  
+    /s/ Thomas E. Stelmar, Jr.
+ 
+     
+
+     
+     
+    Name:  
+    Thomas E. Stelmar, Jr. 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+
+UBS LOAN FINANCE, LLC
+ 
+     
+
+     
+    By:  
+    /s/ Mary E. Evans
+ 
+     
+
+     
+     
+    Name:  
+    Mary E. Evans 
+     
+
+     
+     
+    Title:  
+    Associate Director 
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                                                         /s/ Irja R. Otsa
+ 
+     
+
+     
+     
+    Name:  
+    Irja R. Otsa 
+     
+
+     
+     
+    Title:  
+    Associate Director 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+
+UNION BANK, N.A.
+ 
+     
+
+     
+    By:  
+    /s/ Alison Fuqua
+ 
+     
+
+     
+     
+    Name:  
+    Alison Fuqua 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+(f/k/a CALYON NEW YORK BRANCH)
+ 
+     
+
+     
+    By:  
+    /s/ Darrell Stanley
+ 
+     
+
+     
+     
+    Name:  
+    Darrell Stanley 
+     
+
+     
+     
+    Title:  
+    Managing Director 
+     
+
+
+     
+     
+     
+
+     
+    By:  
+                                                         /s/ Sharada Manne
+ 
+     
+
+     
+     
+    Name:  
+    Sharada Manne 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+
+BANK OF SCOTLAND plc
+ 
+     
+
+     
+    By:  
+    /s/ Julia R. Franklin
+ 
+     
+
+     
+     
+    Name:  
+    Julia R. Franklin 
+     
+
+     
+     
+    Title:  
+    Assistant Vice President 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+COMPASS BANK
+ 
+     
+
+     
+    By:  
+    /s/ Spencer Stasney
+ 
+     
+
+     
+     
+    Name:  
+    Spencer Stasney 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+CAPITAL ONE, N.A.
+ 
+     
+
+     
+    By:  
+    /s/ Peter Shen
+ 
+     
+
+     
+     
+    Name:  
+    Peter Shen 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+COMERICA BANK
+ 
+     
+
+     
+    By:  
+    /s/ Dustin Hansen
+ 
+     
+
+     
+     
+    Name:  
+    Dustin Hansen 
+     
+
+     
+     
+    Title:  
+    Senior Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+ING CAPITAL LLC
+ 
+     
+
+     
+    By:  
+    /s/ Juli Bieser
+ 
+     
+
+     
+     
+    Name:  
+    Juli Bieser 
+     
+
+     
+     
+    Title:  
+    Director 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+SUNTRUST BANK
+ 
+     
+
+     
+    By:  
+    /s/ Gregory C. Magnuson
+ 
+     
+
+     
+     
+    Name:  
+    Gregory C. Magnuson 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+CIBC, INC.
+ 
+     
+
+     
+    By:  
+    /s/ Trudy W. Nelson
+ 
+     
+
+     
+     
+    Name:  
+    Trudy W. Nelson 
+     
+
+     
+     
+    Title:  
+    Executive Director 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+KEYBANK NATIONAL ASSOCIATION
+ 
+     
+
+     
+    By:  
+    /s/ Todd Coker
+ 
+     
+
+     
+     
+    Name:  
+    Todd Coker 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+U.S. BANK NATIONAL ASSOCIATION
+ 
+     
+
+     
+    By:  
+    /s/ Daria Mahoney
+ 
+     
+
+     
+     
+    Name:  
+    Daria Mahoney 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+SUMITOMO MITSUI BANKING CORP.
+ 
+     
+
+     
+    By:  
+    /s/ Masakazu Hasegawa
+ 
+     
+
+     
+     
+    Name:  
+    Masakazu Hasegawa 
+     
+
+     
+     
+    Title:  
+    General Manager 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+FIFTH THIRD BANK
+ 
+     
+
+     
+    By:  
+    /s/ Garland Robeson
+ 
+     
+
+     
+     
+    Name:  
+    Garland Robeson 
+     
+
+     
+     
+    Title:  
+    Assistant Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+ALLIED IRISH BANKS p.l.c.
+ 
+     
+
+     
+    By:  
+    /s/ Edward Fenk
+ 
+     
+
+     
+     
+    Name:  
+    Edward Fenk 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    By:  
+                                                         /s/ James Giordano
+ 
+     
+
+     
+     
+    Name:  
+    James Giordano 
+     
+
+     
+     
+    Title:  
+    Assistant Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+STERLING BANK
+ 
+     
+
+     
+    By:  
+    /s/ Ryan Michael
+ 
+     
+
+     
+     
+    Name:  
+    Ryan Michael 
+     
+
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+     
+    BANKS:
+
+GOLDMAN SACHS BANK USA
+ 
+     
+
+     
+    By:  
+    /s/ Allison OConner
+ 
+     
+
+     
+     
+    Name:  
+    Allison O Conner 
+     
+
+     
+     
+    Title:  
+    Authorized Signatory 
+     
+
+
+     
+
+
+
+[Signature Page]
+Second Amendment to Credit Agreement
+Denbury Resources Inc.
+
+
+
+
+ 
+
+
+
+
+
+
+

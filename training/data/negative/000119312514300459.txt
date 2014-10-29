@@ -1,0 +1,692 @@
+
+EX-10.1
+2
+d750287dex101.htm
+EX-10.1
+
+
+EX-10.1
+
+ 
+
+ Exhibit 10.1   
+   
+TENTH AMENDMENT  TO
+ SECOND AMENDED AND RESTATED CREDIT AGREEMENT 
+dated as of  May 19,
+2014  among 
+GOODRICH PETROLEUM COMPANY, L.L.C., 
+as Borrower,  THE
+GUARANTORS PARTY HERETO,  WELLS FARGO BANK, NATIONAL ASSOCIATION, 
+as Administrative Agent, 
+and  The Lenders Party
+Hereto  WELLS FARGO SECURITIES, LLC, 
+as Sole Lead Arranger and Bookrunner   
+   
+
+
+
+
+ TENTH AMENDMENT TO SECOND 
+AMENDED AND RESTATED CREDIT AGREEMENT 
+THIS TENTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT (this Tenth Amendment) dated as of May 19, 2014, is
+among GOODRICH PETROLEUM COMPANY, L.L.C., a Louisiana limited liability company (Borrower); each of the undersigned Guarantors (collectively, the Guarantors); WELLS FARGO BANK, NATIONAL ASSOCIATION, as administrative
+agent (in such capacity, together with its successors in such capacity, Administrative Agent) for the lenders party to the Credit Agreement (collectively, the Lenders). 
+R E C I T A L S 
+A. Borrower, Administrative Agent and the Lenders are parties to that certain Second Amended and Restated Credit Agreement dated as of
+May 5, 2009, as amended by that certain First Amendment dated as of September 22, 2009, that certain Second Amendment dated as of October 29, 2010, that certain Third Amendment dated as of February 4, 2011, that certain Fourth
+Amendment dated as of February 25, 2011, that certain Fifth Amendment dated as of May 16, 2011, that certain Sixth Amendment dated as of October 31, 2011, that certain Seventh Amendment dated as of November 2, 2012 ,that certain
+Eighth Amendment dated as of March 13, 2013 and that certain Ninth Amendment dated as of October 25, 2013 (as amended, the Credit Agreement), pursuant to which the Lenders have made certain loans to and other extensions
+of credit on behalf of Borrower.  B. The Borrower, the Administrative Agent and the Lenders desire to amend certain provisions of the
+Credit Agreement.  C. NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:  Section 1.
+Defined Terms. Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement. Unless otherwise indicated, all article and section references in this Tenth Amendment refer to
+articles and sections of the Credit Agreement.  Section 2. Amendments to Credit Agreement. 
+2.1 Amendment to Section 1.02. Section 1.02 is hereby amended by amending and restating the following definition: 
+Agreement means this Second Amended and Restated Credit Agreement as amended by that certain First Amendment
+dated as of September 22, 2009, that certain Second Amendment dated as of October 29, 2010, that certain Third Amendment dated as of February 4, 2011, that certain Fourth Amendment dated as of February 25, 2011, that certain
+Fifth Amendment dated as of May 16, 2011, that certain Sixth Amendment dated as of October 31, 2011, that certain Seventh 
+   1 
+
+
+
+
+
+ 
+Amendment dated as of November 2, 2012, that certain Eighth Amendment dated as of March 13, 2013, that certain Ninth Amendment dated as of October 25, 2013 and that certain Tenth
+Amendment dated as of May 19, 2014, as the same may from time to time be amended, amended and restated, supplemented or otherwise modified. 
+2.2 Amendment to Section 9.01(a). Section 9.01(a) is hereby amended and restated in its entirety to read as follows: 
+(a) Interest Coverage Ratio. The Parent Guarantor will not, as of the last day of any fiscal quarter, permit its ratio
+of EBITDAX for the period of four fiscal quarters then ending to cash Interest Expense for such period to be less than 2.5 to 1.0; provided that for the fiscal quarter ending on (i) June 30, 2014, EBITDAX shall be calculated based upon
+EBITDAX for the fiscal quarter ending on such date multiplied by four (4), (ii) September 30, 2014, EBITDAX shall be calculated based upon EBITDAX for the two (2) fiscal quarters ending on such date multiplied by two (2) and
+(iii) December 31, 2014, EBITDAX shall be calculated based upon EBITDAX for the three (3) fiscal quarters ending on such date divided by three (3) and multiplied by four (4). 
+2.3 Amendment to Section 9.01(b). Section 9.01(b) is hereby amended and restated in its entirety to read as follows: 
+(b) Ratio of Total Debt to EBITDAX. The Parent Guarantor will not, at any time, permit its ratio of Total Debt as of
+such time to EBITDAX for the four fiscal quarters ending on the last day of the fiscal quarter immediately preceding the date of determination for which financial statements are available to be greater than 4.0 to 1.0; provided that for the fiscal
+quarter ending on (i) June 30, 2014, EBITDAX shall be calculated based upon EBITDAX for the fiscal quarter ending on such date multiplied by four (4), (ii) September 30, 2014, EBITDAX shall be calculated based upon EBITDAX for
+the two (2) fiscal quarters ending on such date multiplied by two (2) and (iii) December 31, 2014, EBITDAX shall be calculated based upon EBITDAX for the three (3) fiscal quarters ending on such date divided by three
+(3) and multiplied by four (4).  Section 3. Conditions Precedent. This Tenth Amendment shall not become effective until
+the date on which each of the following conditions is satisfied (or waived in accordance with Section 12.02 of the Credit Agreement) (the Tenth Amendment Effective Date): 
+3.1 The Administrative Agent shall have received from all of the Lenders constituting the Majority Lenders, the Borrower and the Guarantors,
+counterparts (in such number as may be requested by Administrative Agent) of this Tenth Amendment signed on behalf of such Persons.  3.2
+The Administrative Agent and the Lenders shall have received all fees and other amounts due and payable on or prior to the date hereof, including, to the extent invoiced, reimbursement or payment of all documented out-of-pocket expenses required to
+be reimbursed or paid by the Borrower under the Credit Agreement. 
+   2 
+
+
+
+
+
+ 3.3 No Default shall have occurred and be continuing, after giving effect to the terms of this
+Tenth Amendment.  3.4 The Administrative Agent shall have received such other documents as Administrative Agent or special counsel to
+Administrative Agent may reasonably request.  The Administrative Agent is hereby authorized and directed to declare this Tenth Amendment
+to be effective when it has received documents confirming or certifying, to the satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section 3 or the waiver of such conditions as permitted in
+Section 12.02 of the Credit Agreement. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes. 
+Section 4. Miscellaneous. 
+4.1 Confirmation. The provisions of the Credit Agreement, as amended by this Tenth Amendment, shall remain in full force and effect
+following the effectiveness of this Tenth Amendment.  4.2 Ratification and Affirmation; Representations and Warranties. The
+Borrower and each Guarantor hereby (a) acknowledges the terms of this Tenth Amendment; (b) ratifies and affirms its obligations under, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a
+party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended or modified hereby and (c) represents and warrants to the Lenders that as of the Tenth Amendment Effective Date, after
+giving effect to the terms of this Tenth Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct, except to the extent any such representations and warranties are
+expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct as of such specified earlier date, (ii) no Default has occurred and is continuing and (iii) no event,
+development or circumstance has occurred which individually or in the aggregate could reasonably be expected to be a Material Adverse Event. 
+4.3 Loan Document. This Tenth Amendment is a Loan Document as defined and described in the Credit Agreement and all of the
+terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.  4.4 Counterparts. This Tenth Amendment
+may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of this Tenth Amendment by facsimile or
+electronic transmission shall be effective as delivery of a manually executed counterpart hereof. 
+   3 
+
+
+
+
+
+ 4.5 NO ORAL AGREEMENT. THIS TENTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN
+DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL
+AGREEMENTS BETWEEN THE PARTIES.  4.6 GOVERNING LAW. THIS TENTH AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND
+ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.  [SIGNATURES BEGIN NEXT
+PAGE] 
+   4 
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Tenth Amendment to be duly executed as of
+the date first written above.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BORROWER:
+ 
+
+ 
+GOODRICH PETROLEUM COMPANY, L.L.C.
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+/S/ Jan L. Schott
+
+
+ 
+
+ 
+
+ 
+Name:
+ 
+Jan L. Schott, CPA
+
+
+ 
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President and
+
+
+ 
+
+ 
+
+ 
+
+ 
+Chief Financial Officer
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GUARANTOR:
+ 
+
+ 
+GOODRICH PETROLEUM CORPORATION
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+/S/ Michael J. Killelea
+
+
+ 
+
+ 
+
+ 
+Name:
+ 
+Michael J. Killelea
+
+
+ 
+
+ 
+
+ 
+Title:
+ 
+Senior Vice President, General Counsel
+
+
+ 
+
+ 
+
+ 
+
+ 
+and Corporate Secretary
+
+   Signature Page to Tenth
+Amendment to Second A&R Credit Agreement  S-1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE AGENT:
+ 
+
+ 
+ WELLS FARGO BANK, NATIONAL
+ASSOCIATION, as Administrative Agent and as a Lender
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+/S/ Lila Jordan
+
+
+ 
+
+ 
+
+ 
+Name:
+ 
+Lila Jordan
+
+
+ 
+
+ 
+
+ 
+Title:
+ 
+Managing Director
+
+   Signature Page to Tenth
+Amendment to Second A&R Credit Agreement  S-2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF MONTREAL, as a Lender
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+/S/ Gumavo Tijerina
+
+
+ 
+
+ 
+
+ 
+Name:
+ 
+Gumavo Tijerina
+
+
+ 
+
+ 
+
+ 
+Title:
+ 
+Managing Director
+
+   Signature Page to Tenth
+Amendment to Second A&R Credit Agreement  S-3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+COMPASS BANK, as a Lender
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+/S/ Ian Payne
+
+
+ 
+
+ 
+
+ 
+Name:
+ 
+Ian Payne
+
+
+ 
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+   Signature Page to Tenth
+Amendment to Second A&R Credit Agreement  S-4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+JPMORGAN CHASE BANK, N.A., as a Lender
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+By:
+ 
+/S/ Ryan Aman
+
+
+ 
+
+ 
+
+ 
+Name:
+ 
+Ryan Aman
+
+
+ 
+
+ 
+
+ 
+Title:
+ 
+Authorized Officer
+
+   Signature Page to Tenth
+Amendment to Second A&R Credit Agreement  S-5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF AMERICA, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S/ Joseph Scott
+
+
+ 
+
+ 
+Name:
+ 
+Joseph Scott
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+   Signature Page to Tenth
+Amendment to Second A&R Credit Agreement  S-6 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ROYAL BANK OF CANADA, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S/ Jay T. Sartain
+
+
+ 
+
+ 
+Name:
+ 
+Jay T. Sartain
+
+
+ 
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature Page to Tenth
+Amendment to Second A&R Credit Agreement  S-7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+THE BANK OF NOVA SCOTIA, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/S/ Alan Dawson
+
+
+ 
+
+ 
+Name:
+ 
+Alan Dawson
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+   Signature Page to Tenth
+Amendment to Second A&R Credit Agreement  S-8 
+
+
+

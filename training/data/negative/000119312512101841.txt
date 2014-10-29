@@ -1,0 +1,2057 @@
+
+EX-10.11(G)
+2
+d290517dex1011g.htm
+FOURTH AMENDMENT TO CREDIT AGREEMENT
+
+
+Fourth Amendment to Credit Agreement
+
+ 
+
+ EXHIBIT 10.11(g) 
+CONSENT AND FOURTH AMENDMENT TO CREDIT AGREEMENT  THIS CONSENT AND FOURTH AMENDMENT TO CREDIT AGREEMENT dated as of January 19, 2012 (this Fourth Amendment), among Endeavour International Corporation, a Nevada corporation
+(Holdings), Endeavour Energy UK Limited, a United Kingdom private limited company (the Borrower), the Subsidiary Guarantors party hereto, the Lenders party hereto and Cyan Partners, LP, as administrative agent (in such
+capacity, the Administrative Agent) and collateral agent (in such capacity, the Collateral Agent). Capitalized terms used and not otherwise defined herein shall have the meanings assigned to such terms in the Credit Agreement
+referred to below.  W I T N E S S E T H:  WHEREAS, Holdings, the Borrower, the Lenders from time to time party thereto and the Administrative Agent are parties to the Credit Agreement dated as of August 16, 2010, as amended by the First
+Amendment to Credit Agreement, U.S. Security Agreement and Subsidiaries Guaranty, dated as of February 3, 2011, by the Second Amendment to Credit Agreement dated as of June 6, 2011 and by the Third Amendment to Credit Agreement, U.S.
+Security Agreement and Subsidiaries Guaranty dated as of July 15, 2011 (as amended, restated, supplemented and/or otherwise modified from time to time, the Credit Agreement); 
+WHEREAS, the guarantors from time to time party thereto and the Administrative Agent are parties to the Subsidiaries Guaranty, dated as
+of August 16, 2010 (as amended, restated, supplemented and/or otherwise modified from time to time, the Subsidiaries Guaranty);  WHEREAS, subject to the terms and conditions of this Fourth Amendment, Holdings, the Borrower, the Administrative Agent, the Subsidiary Guarantors and the Required Lenders wish to amend the Credit
+Agreement as herein provided (the Credit Agreement Amendment) including to (a) amend Section 8.09 of the Credit Agreement to reduce the minimum Consolidated EBITDAX required for the Test Periods ending December 31, 2011
+and March 31, 2012 and (b) amend Section 8.10(b) of the Credit Agreement to reduce the minimum PDP Coverage Ratio required as of March 31, 2012;  WHEREAS, Holdings and Citigroup Global Markets Inc. have entered into the Engagement Letter dated December 23, 2011 pursuant to which it is contemplated that Holdings will issue an aggregate
+principal amount of up to $500,000,000 of senior unsecured notes, having terms and conditions reasonably satisfactory to the Administrative Agent (the Debt Securities, and the Debt Securities, together with all other documents
+(including, without limitation, any agreements governing the Escrow Arrangement referenced below) executed and delivered with respect to the Debt Securities, the Debt Securities Documents) in a public offering or in a Rule 144A or other
+private placement (the Debt Securities Issuance);  WHEREAS, the proceeds of the Debt Securities Issuance will be
+contributed by Holdings to the Borrower and used, in part, by the Borrower to (a) acquire the Alba Interest, the 
+
+
+
+
+ 
+MacCulloch Interest, the Nicol Interest and the other Interests (each as defined in the CP Purchase Agreement referred to below) from ConocoPhillips (U.K.) Limited, ConocoPhillips Petroleum
+Limited and ConocoPhillips (U.K.) Lambda Limited (collectively, CP) pursuant to a Sale and Purchase Agreement dated December 23, 2011 (the CP Purchase Agreement), among the Borrower and CP (the CP
+Acquisition) and (b) make a payment to the Administrative Agent (for the ratable benefit of the Lenders) (the Prepayment) in an amount (the Prepayment Amount) equal to the sum of (i) the outstanding principal
+amount of all of the Term Loans, all accrued (and theretofor unpaid) interest on the Term Loans and all other Obligations outstanding under the Credit Agreement and the other Credit Documents, in each case, as of the date of the Prepayment, plus
+(ii) 3.0% of the aggregate principal amount of the Term Loans outstanding as of the date of Prepayment;  WHEREAS, it is
+contemplated that (i) the proceeds from the Debt Securities Issuance, (ii) cash in an amount equal to all premiums and fees the payment of which are required in connection with the redemption of the Debt Securities and (iii) cash in
+an amount equal to the interest that will accrue on the amounts in the foregoing clauses (i) and (ii) during the period of the Escrow Arrangement (as defined below) will be placed in escrow for the benefit of the holders of the Debt
+Securities, pursuant to an escrow agreement in form and substance reasonably acceptable to the Administrative Agent, until the consummation of the Borrowers purchase of the Alba Interest pursuant to the CP Acquisition and that, in the event
+the Borrower does not complete its purchase of the Alba Interest prior to June 30, 2012, such proceeds will be required to be used to immediately redeem all of the Debt Securities (the Escrow Arrangement); and 
+WHEREAS, Holdings and the Borrower have requested that the Administrative Agent and the Lenders consent to, and the Administrative Agent
+and the Lenders party hereto have agreed, subject to the terms and conditions set forth herein, to consent to (the Credit Agreement Consent), among other things, (a) the Debt Securities Issuance, (b) the Escrow Arrangement,
+(c) the exclusion of the Debt Securities from the calculation of (i) Consolidated Net Indebtedness for purposes of determining the Total Leverage Ratio and (ii) Consolidated Net Secured Indebtedness for purposes of determining the
+Reserve Coverage Ratio and the PDP Coverage Ratio, (d) the waiver of any mandatory prepayment requirement triggered under Section 4.02(c) of the Credit Agreement on the Issue Date (as defined below), but only so long as the proceeds of the
+Debt Securities Issuance are held in escrow in accordance with the Escrow Arrangement, (e) the performance by the Subsidiaries of their obligations, including, without limitation, their compliance with any covenants, under any Debt Securities
+Documents and (f) the waiver of Holdings compliance with the maximum Total Leverage Ratio permitted under Section 8.08 of the Credit Agreement for the Test Period ended December 31, 2011 and the Test Period ending March 31,
+2012; 
+   2 
+
+
+
+
+
+ NOW, THEREFORE, in consideration of the premises, covenants and agreements set forth herein,
+and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:   
+
+
+I.
+Credit Agreement Amendments.  1. Amendment to Section 8.09. Section 8.09 of the Credit Agreement is hereby amended to reduce the minimum Consolidated EBITDAX required for the Test Period ended December 31, 2011
+and the Test Period ending March 31, 2012 to the amounts set forth below:   
+
+
+
+
+
+
+
+
+
+
+
+
+ December 31, 2011
+  
+$
+20,000,000
+  
+
+
+
+
+ March 31, 2012
+  
+$
+20,000,000
+  
+ 2. Amendment to Section 8.10(b). Section 8.10(b) of the Credit Agreement is hereby
+amended and restated to read in full as follows:  (b) Holdings will not permit the PDP Coverage as of the last day of any
+fiscal quarter ending (i) after the Funding Date and on or prior to March 31, 2012, to be less than 0.25:1.00, and (ii) after March 31, 2012, to be less than 0.50:1.00. 
+ 
+
+
+II.
+Credit Agreement Consents. 
+1. Consent to Debt Securities Issuance, Escrow Arrangement and Subsidiaries Performance of Obligations. Notwithstanding
+anything to the contrary contained in Sections 8.01, 8.04, 8.12, 8.14(b) or any other provision of the Credit Agreement, the Debt Securities Issuance, the Escrow Arrangement (including any constructive liens of the holders (or for the benefit of
+such holders) of the Debt Securities that may arise pursuant to the Escrow Arrangement), the incurrence of Indebtedness and any related guaranties pursuant to the Debt Securities Documents and the performance by the Subsidiaries of their
+obligations, including, without limitation, their compliance with any covenants, under the Debt Securities Documents shall be permitted under the Credit Agreement so long as (a) the Debt Securities Documents are in form and substance reasonably
+satisfactory to the Administrative Agent, and in any event expressly permit the Prepayment in the Prepayment Amount to occur upon the release of any proceeds of the Debt Securities Issuance from the Escrow Arrangement other than in connection with a
+redemption of all of the Debt Securities, (b) the Debt Securities Issuance shall have occurred on or prior to June 30, 2012 (the date of the Debt Securities Issuance, the Issue Date), (c) the Net Cash Proceeds from the
+Debt Securities Issuance are, at all times while the Escrow Arrangement remains in effect, sufficient to make the Prepayment in the Prepayment Amount and are applied upon the release of any proceeds of the Debt Securities Issuance from the Escrow
+Arrangement (other than in connection with a redemption of all of the Debt Securities) to make the Prepayment in an amount equal to the Prepayment Amount, and (d) in the event that the Borrower does not complete its purchase of the Alba
+Interest prior to June 30, 2012, the proceeds held in escrow pursuant to the Escrow Arrangement are applied to redeem 100% of the principal amount of the Debt Securities, together with all accrued and unpaid interest thereon, all premium
+applicable thereto and any other obligations outstanding pursuant to the Debt Securities Documentation.  2 Waiver of
+Mandatory Prepayment Requirement. Notwithstanding anything to the contrary contained in Section 4.02(c) or any other provision of the Credit Agreement, the Administrative Agent and the Lenders party hereto waive any requirement that the
+Borrower make any mandatory prepayment of the Term Loans from the proceeds of the Debt Securities Issuance except as provided for in Section 1 of Part II of this Fourth Amendment. 
+   3 
+
+
+
+
+
+ 3. Waiver of Lien on Proceeds from Debt Securities Issuance. Notwithstanding anything
+to the contrary contained in any provision of the Credit Agreement and any Security Document, the Collateral Agent and the Lenders party hereto hereby waive and release any security interests granted to them, pursuant to the terms of the Credit
+Agreement and any of the Security Documents, in any and all proceeds from the Debt Securities Issuance held in escrow pursuant to the Escrow Arrangement.  4. Consent to Exclusion of Debt Securities from Financial Covenant Calculation. Notwithstanding anything to the contrary contained in Sections 8.08, 8.10 or any other provision of the Credit
+Agreement, the Administrative Agent and the Lenders hereby consent to the exclusion of the Debt Securities from the calculation of (a) Consolidated Net Indebtedness for purposes of determining Holdings compliance with Section 8.08 of
+the Credit Agreement and (b) Consolidated Net Secured Indebtedness for purposes of determining Holdings compliance with Section 8.10 of the Credit Agreement, in each case for only so long as the proceeds from the Debt Securities
+Issuance are held in escrow pursuant to the Escrow Arrangement.  5. Limited Waiver of Section 8.08. The
+Administrative Agent and the Lenders hereby waive Holdings compliance with the maximum Total Leverage Ratio permitted under Section 8.08 of the Credit Agreement for the Test Period ended December 31, 2011 and the Test Period ending
+March 31, 2012.   
+
+
+III.
+Miscellaneous Provisions. 
+1. In order to induce the Lenders to enter into this Fourth Amendment, each of Holdings and the Borrower hereby represents and warrants
+that:  (i) all of the representations and warranties contained in the Credit Documents are true and correct in
+all material respects both before and immediately after giving effect to the Fourth Amendment Effective Date, with the same effect as though such representations and warranties had been made on and as of the Fourth Amendment Effective Date (it being
+understood that any representation or warranty made as of a specific date shall be true and correct in all material respects as of such specific date); and  (ii) no Default or Event of Default exists before or immediately after giving effect to the amendments set forth in this Fourth Amendment on the Fourth Amendment Effective Date. 
+2. This Fourth Amendment is limited as specified herein and shall not constitute a modification, acceptance or waiver of any other
+provision of the Credit Documents, all of which other provisions are hereby ratified and confirmed and are in full force and effect. Each Credit Party party to this Fourth Amendment acknowledges and agrees that all Guaranteed Obligations (as defined
+in the Subsidiaries Guaranty after giving effect to this Fourth Amendment) remain secured by the Security Documents and that the Secured Creditors remain entitled to the benefits of the Security Documents. 
+3. This Fourth Amendment may be executed in any number of counterparts and by the different parties hereto on separate counterparts, each
+of which counterparts when 
+   4 
+
+
+
+
+
+ 
+executed and delivered (including by way of facsimile or other electronic transmission) shall be an original, but all of which shall together constitute one and the same instrument. A complete
+set of counterparts shall be lodged with the Borrower and the Administrative Agent.  4. THIS FOURTH AMENDMENT AND THE RIGHTS
+AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAW OF THE STATE OF NEW YORK (WITHOUT REGARD TO CONFLICTS OF LAWS RULES AND PRINCIPLES THEREUNDER OTHER THAN SECTIONS 5-1401 AND 5-1402 OF THE NEW
+YORK GENERAL OBLIGATIONS LAW).  5. The Fourth Amendment shall become effective on the date (the Fourth Amendment
+Effective Date) when each of the following conditions shall have been satisfied:  (i) the Credit Parties,
+the Administrative Agent and the Required Lenders shall have signed a counterpart hereof (whether the same or different counterparts) and shall have delivered (including by way of facsimile or other electronic transmission) the same to
+White & Case LLP, 1155 Avenue of the Americas, New York, NY 10036 Attention: Patrice Antoine (facsimile number: 212-354-8113 / e-mail address: pantoine@whitecase.com); and 
+(ii) the Borrower shall have paid (a) to the Administrative Agent all fees and reasonable and documented
+out-of-pocket expenses owing to it in connection with this Fourth Amendment and shall have reimbursed the Administrative Agent for all reasonable and documented out-of pocket legal expenses of White & Case LLP incurred in connection with
+the Credit Agreement (including, without limitation, in connection with this Fourth Amendment) and invoiced on or before the date hereof, (b) to the Administrative Agent, for the account of each Lender that delivers a counterpart signature page
+to this Fourth Amendment at or prior to 12.00 noon, New York City time, on January 18, 2012, a consent fee (the Consent Fee) in an amount equal to 0.50% of the aggregate principal amount of Term Loans of such Lender, which Consent
+Fee shall be earned, due and payable in immediately available funds on the Fourth Amendment Effective Date, and, once paid, shall be non-refundable, and (c) any other fees then due and payable in connection with this Fourth Amendment.
+ 6. From and after the Fourth Amendment Effective Date, all references in each Credit Document to the Credit
+Agreement shall be deemed to be references to the Credit Agreement as modified hereby.  7. After the execution and
+delivery to the Administrative Agent of a fully executed copy of this Fourth Amendment by the parties hereto, this Fourth Amendment may only be changed, modified or varied by written instrument in accordance with the requirements for the
+modification of Credit Documents pursuant to Section 11.12 of the Credit Agreement.  8. For the avoidance of doubt, the
+parties hereto acknowledge and agree that any failure by Holdings or Borrower to comply with the requirements of Part II of this Fourth Amendment (including, without limitation, clauses (a) through (d) of Section 1 of Part II hereof)
+shall constitute an immediate Event of Default under Section 9.03 of the Credit Agreement. 
+*    *    * 
+   5 
+
+
+
+
+
+ IN WITNESS WHEREOF, each of the parties hereto has caused a counterpart of this Consent and
+Fourth Amendment to Credit Agreement to be duly executed and delivered as of the date first above written.   
+
+
+
+
+
+
+
+
+
+
+
+
+ENDEAVOUR INTERNATIONAL CORPORATION
+
+
+
+
+By:
+ 
+/s/ J. Michael Kirksey
+
+
+ 
+Name:
+ 
+J. Michael Kirksey
+
+
+ 
+Title:
+ 
+Executive Vice President and
+
+
+ 
+
+ 
+Chief Financial Officer
+
+
+ 
+
+ 
+
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENDEAVOUR ENERGY UK LIMITED
+
+
+
+
+By:
+ 
+/s/ J. Michael Kirksey
+
+
+ 
+Name:
+ 
+J. Michael Kirksey
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENDEAVOUR OPERATING CORPORATION, as a Subsidiary Guarantor
+
+
+
+
+B:
+ 
+/s/ J. Michael Kirksey
+
+
+ 
+Name:
+ 
+J. Michael Kirksey
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENDEAVOUR ENERGY NORTH SEA LLC, as a Subsidiary Guarantor
+
+
+
+
+By:
+ 
+/s/ J. Michael Kirksey
+
+
+ 
+Name:
+ 
+J. Michael Kirksey
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENDEAVOUR ENERGY NORTH SEA L.P., as a Subsidiary Guarantor
+
+
+
+By: Endeavour Energy North Sea LLC, its general partner
+
+
+
+
+By:
+ 
+/s/ J. Michael Kirksey
+
+
+ 
+Name:
+ 
+J. Michael Kirksey
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENDEAVOUR ENERGY NEW VENTURES INC., as a Subsidiary Guarantor
+
+
+
+
+By:
+ 
+/s/ J. Michael Kirksey
+
+
+ 
+Name:
+ 
+J. Michael Kirksey
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ END MANAGEMENT COMPANY, as a Subsidiary Guarantor
+
+
+
+
+By:
+ 
+/s/ J. Michael Kirksey
+
+
+ 
+Name:
+ 
+J. Michael Kirksey
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ ENDEAVOUR INTERNATIONAL HOLDING B.V., as a Subsidiary Guarantor
+
+
+
+
+By:
+ 
+/s/ J. Michael Kirksey
+
+
+ 
+Name:
+ 
+J. Michael Kirksey
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ ENDEAVOUR ENERGY NETHERLANDS B.V., as a Subsidiary Guarantor
+
+
+
+
+By:
+ 
+/s/ J. Michael Kirksey
+
+
+ 
+Name:
+ 
+J. Michael Kirksey
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ CYAN PARTNERS, LP, as Administrative Agent,Collateral Agent and as a Lender
+
+
+
+
+By:
+ 
+/s/ Kevin M. Sisson
+
+
+ 
+Name:
+ 
+Kevin Sisson
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CYRUS OPPORTUNITIES FUND II, L.P., as a Lender
+
+
+
+
+By:
+ 
+CYRUS CAPITAL PARTNERS, L.P.,
+
+as Investment Manager
+
+
+
+
+By:
+ 
+/s/ David Milch
+
+
+ 
+Name:
+ 
+David Milch
+
+
+ 
+Title:
+ 
+Chief Operating Officer
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CYRUS EUROPE FUND, L.P., as a Lender
+
+
+
+By: CYRUS CAPITAL PARTNERS, L.P.,
+
+as Investment Manager
+
+
+
+
+By:
+ 
+/s/ David Milch
+
+
+ 
+Name:
+ 
+David Milch
+
+
+ 
+Title:
+ 
+Chief Operating Officer
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CRESCENT 1, L.P., as a Lender
+
+
+
+By: CYRUS CAPITAL PARTNERS, L.P.,
+
+as Investment Manager
+
+
+
+
+By:
+ 
+/s/ David Milch
+
+
+ 
+Name:
+ 
+David Milch
+
+
+ 
+Title:
+ 
+Chief Operating Officer
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CYR FUND, L.P., as a Lender
+
+
+
+ By: CYRUS CAPITAL PARTNERS, L.P., as Investment Manager
+
+
+
+
+By:
+ 
+/s/ David Milch
+
+
+ 
+Name:
+ 
+David Milch
+
+
+ 
+Title:
+ 
+Chief Operating Officer
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CYAN PI INVESTMENTS, LP, as a Lender
+
+
+
+
+By:
+ 
+/s/ Ashok Nayyar
+
+
+ 
+Name:
+ 
+Ashok Nayyar
+
+
+ 
+Title:
+ 
+Manager
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CYRUS SELECT OPPORTUNITIES FUND, L.P., as a Lender
+
+
+
+By: CYRUS CAPITAL PARTNERS, L.P.,
+
+as Investment Manager
+
+
+
+
+By:
+ 
+/s/ David Milch
+
+
+ 
+Name:
+ 
+David Milch
+
+
+ 
+Title:
+ 
+Chief Operating Officer
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+RIVER BIRCH MASTER FUND, LP, as a Lender.
+
+
+
+
+By:
+ 
+/s/ Alex Kirk
+
+
+ 
+Name:
+ 
+Alex Kirk
+
+
+ 
+Title:
+ 
+Managing Member
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+HELIOS CORPORATE LLC, as a Lender
+
+
+
+
+By:
+ 
+/s/ Elliot Greenberg
+
+
+ 
+Name:
+ 
+Elliot Greenberg
+
+
+ 
+Title:
+ 
+Vice President
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DODER TRUST LIMITED
+
+(as Trustee for the Jader Trust No 4), as a Lender
+
+
+
+
+By:
+ 
+/s/ Randall Kuelos
+
+
+ 
+Name:
+ 
+Randall Kuelos
+
+
+ 
+Title:
+ 
+Agent/Secretary
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DODER TRUST LIMITED
+
+(as Trustee for the Bat Hanadiv Foundation No 3), as a Lender
+
+
+
+
+By:
+ 
+/s/ Randall Kuelos
+
+
+ 
+Name:
+ 
+Randall Kuelos
+
+
+ 
+Title:
+ 
+Agent/Secretary
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JGB CAPITAL, LP, as a Lender
+
+
+
+
+By:
+ 
+/s/ Brett Cohen
+
+
+ 
+Name:
+ 
+Brett Cohen
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JGB CAPITAL OFFSHORE LTD, as a Lender
+
+
+
+
+By:
+ 
+/s/ Brett Cohen
+
+
+ 
+Name:
+ 
+Brett Cohen
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JGB PARTNERS LP, as a Lender
+
+
+
+
+By:
+ 
+/s/ Brett Cohen
+
+
+ 
+Name:
+ 
+Brett Cohen
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAMC LLC, as a Lender
+
+
+
+
+By:
+ 
+/s/ Craig Effron
+
+
+ 
+Name:
+ 
+Craig Effron
+
+
+ 
+Title:
+ 
+Managing Member
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STEELHEAD NAVIGATOR MASTER, L.P., as a Lender
+
+
+
+
+By:
+ 
+STEELHEAD PARTNERS, LLC, its Investment Manager
+
+
+
+
+By:
+ 
+/s/ Grant Hulse
+
+
+ 
+Name:
+ 
+Grant Hulse
+
+
+ 
+Title:
+ 
+Director of Finance & Opportunities
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MTP ENTERGY INFRASTRUCTURE FINANCE MASTER FUND, LTD., as a Lender
+
+
+
+
+By:
+ 
+MTP Energy Managment LLC, its Investment Manager
+
+
+
+
+By:
+ 
+Magnetar Financial LLC, its Investment Manager
+
+
+
+
+By:
+ 
+/s/ Doug Litowitz
+
+
+ 
+
+ 
+Magnetar Financial LLC
+
+
+ 
+Name:
+ 
+Doug Litowitz
+
+
+ 
+Its:
+ 
+Counsel
+
+
+ 
+    1603 Orrington Avenue, 13th Floor
+
+
+ 
+    Evanston, IL 60201
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRIANGLE PEAK PARTNERS PRIVATE EQUITY, LP, as a Lender
+
+
+
+
+By:
+ 
+Triangle Peak Partners Private Equity GP, LLC, its General Partner
+
+
+
+
+By:
+ 
+/s/ Dain Degruff
+
+
+ 
+Name:
+ 
+Dain Degruff
+
+
+ 
+Title:
+ 
+Managing Member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FARALLON CAPITAL (AM) INVESTORS, L.P., as a Lender.
+
+
+
+
+By:
+ 
+FARALLON PARTNERS, L.L.C., its General Partner
+
+
+
+
+By:
+ 
+/s/ Michael G. Linn
+
+
+ 
+Name:
+ 
+Michael G. Linn
+
+
+ 
+Title:
+ 
+Managing Member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FARALLON CAPITAL INSTITUTIONAL PARTNERS II, L.P., as a Lender.
+
+
+
+
+By:
+ 
+FARALLON PARTNERS, L.L.C., its General Partner
+
+
+
+
+By:
+ 
+/s/ Michael G. Linn
+
+
+ 
+Name:
+ 
+Michael G. Linn
+
+
+ 
+Title:
+ 
+Managing Member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FARALLON CAPITAL INSTITUTIONAL PARTNERS III, L.P., as a Lender.
+
+
+
+
+By:
+ 
+FARALLON PARTNERS, L.L.C., its General Partner
+
+
+
+
+By:
+ 
+/s/ Michael G. Linn
+
+
+ 
+Name:
+ 
+Michael G. Linn
+
+
+ 
+Title:
+ 
+Managing Member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FARALLON CAPITAL INSTITUTIONAL PARTNERS, L.P., as a Lender.
+
+
+
+
+By:
+ 
+FARALLON PARTNERS, L.L.C., its General Partner
+
+
+
+
+By:
+ 
+/s/ Michael G. Linn
+
+
+ 
+Name:
+ 
+Michael G. Linn
+
+
+ 
+Title:
+ 
+Managing Member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FARALLON CAPITAL OFFSHORE INVESTORS II, L.P., as a Lender.
+
+
+
+
+By:
+ 
+FARALLON PARTNERS, L.L.C., its General Partner
+
+
+
+
+By:
+ 
+/s/ Michael G. Linn
+
+
+ 
+Name:
+ 
+Michael G. Linn
+
+
+ 
+Title:
+ 
+Managing Member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FARALLON CAPITAL PARTNERS, L.P., as a Lender.
+
+
+
+
+By:
+ 
+FARALLON PARTNERS, L.L.C., its General Partner
+
+
+
+
+By:
+ 
+/s/ Michael G. Linn
+
+
+ 
+Name:
+ 
+Michael G. Linn
+
+
+ 
+Title:
+ 
+Managing Member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOONDAY OFFSHORE, INC., as a Lender.
+
+
+
+
+By:
+ 
+FARALLON CAPITAL MANAGEMENT, L.L.C., its Agent and Attorney-in-Fact
+
+
+
+
+By:
+ 
+/s/ Michael G. Linn
+
+
+ 
+Name:
+ 
+Michael G. Linn
+
+
+ 
+Title:
+ 
+Managing Member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHITEBOX ASYMMETRIC PARTNERS, LP, as a Lender.
+
+
+
+
+By:
+ 
+WHITEBOX ASYMMETRIC ADVISORS, LLC, its General Partner
+
+
+
+
+By:
+ 
+WHITEBOX ADVISORS, LLC, its General Partner
+
+
+
+
+By:
+ 
+/s/ Mark Strefling
+
+
+ 
+Name:
+ 
+Mark Strefling
+
+
+ 
+Title:
+ 
+Chief Legal Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHITEBOX MULTI-STRATEGY PARTNERS, LP, as a Lender.
+
+
+
+
+By:
+ 
+WHITEBOX MULTI-STRATEGY ADVISORS, LLC, its General Partner
+
+
+
+
+By:
+ 
+WHITEBOX ADVISORS, LLC, its General Partner
+
+
+
+
+By:
+ 
+/s/ Mark Strefling
+
+
+ 
+Name:
+ 
+Mark Strefling
+
+
+ 
+Title:
+ 
+Chief Legal Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHITEBOX CREDIT ARBITRAGE PARTNERS II, LP, as a Lender.
+
+
+
+
+By:
+ 
+WHITEBOX CREDIT ARBITRAGE ADVISORS, LLC, its General Partner
+
+
+
+
+By: 
+ 
+WHITEBOX ADVISORS, LLC, its General Partner
+
+
+
+
+By:
+ 
+/s/ Mark Strefling
+
+
+ 
+Name:
+ 
+Mark Strefling
+
+
+ 
+Title:
+ 
+Chief Legal Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PANDORA SELECT PARTNERS II, LP, as a Lender.
+
+
+
+
+By:
+ 
+PANDORA SELECT ADVISORS, LLC, its General Partner
+
+
+
+
+By:
+ 
+WHITEBOX ADVISORS, LLC, its General Partner
+
+
+
+
+By:
+ 
+/s/ Mark Strefling
+
+
+ 
+Name:
+ 
+Mark Strefling
+
+
+ 
+Title:
+ 
+Chief Legal Officer
+ Signature Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CYRUS OPPORTUNITIES MASTER FUND II, LTD., as a Lender
+
+
+
+By: CYRUS CAPITAL PARTNERS, L.P., as Investment Manager
+
+
+
+
+By:
+ 
+/s/ David Milch
+
+
+ 
+Name:
+ 
+David Milch
+
+
+ 
+Title:
+ 
+Chief Operating Officer
+ Signature Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CYRUS EUROPE MASTER FUND, LTD, as a Lender
+
+
+
+ By: CYRUS CAPITAL PARTNERS, L.P., as Investment Manager
+
+
+
+
+By:
+ 
+/s/ David Milch
+
+
+ 
+Name:
+ 
+David Milch
+
+
+ 
+Title:
+ 
+Chief Operating Officer
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CYRUS SELECT OPPORTUNITIES MASTER FUND, LTD, as a Lender
+
+
+
+ By: CYRUS CAPITAL PARTNERS, L.P., as Investment Manager
+
+
+
+
+By:
+ 
+/s/ David Milch
+
+
+ 
+Name:
+ 
+David Milch
+
+
+ 
+Title:
+ 
+Chief Operating Officer
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ THE ROTHSCHILD FOUNDATION EUROPE, as a Lender
+
+
+
+
+By:
+ 
+/s/ A. Bennett
+
+
+ 
+Name:
+ 
+A. Bennett
+
+
+ 
+Title:
+ 
+Authorized Signatory
+
+   Signature
+Page to Consent and Fourth Amendment 
+
+
+

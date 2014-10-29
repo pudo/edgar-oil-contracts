@@ -1,0 +1,538 @@
+
+EX-10.3
+3
+d326602dex103.htm
+FORM OF PERFORMANCE UNIT AWARD AGREEMENT
+
+
+Form of Performance Unit Award Agreement
+
+ 
+
+ EXHIBIT 10.3  PERFORMANCE UNIT AWARD AGREEMENT  PIONEER NATURAL RESOURCES COMPANY
+ 2006 LONG TERM INCENTIVE PLAN                      , 20     
+To: Scott D. Sheffield 
+Pioneer Natural Resources Company, a Delaware corporation (the Company), is pleased to grant you an
+award (this Award) to receive an aggregate of              performance units (each, a Performance Unit) in respect
+of the period              through              (the Performance Period). This
+Award is subject to your acceptance of and agreement to all the applicable terms, conditions and restrictions described in this Performance Unit Award Agreement (the Agreement) and the Pioneer Natural Resources
+Company 2006 Long Term Incentive Plan (as it may be amended from time to time, the Plan). A copy of the Plan is available upon request. Except as provided below, to the extent that any provision of this Agreement
+conflicts with the expressly applicable terms of the Plan, you acknowledge and agree that those terms of the Plan shall control and, if necessary, the applicable provisions of this Agreement shall be deemed amended so as to carry out the purpose and
+intent of the Plan. Terms that have their initial letters capitalized, but that are not otherwise defined in this Agreement, shall have the meanings given to them in the Plan in effect as of the date of this Agreement. The Performance Units
+contemplated herein are described in the Plan as Restricted Stock Units subject to restrictions that lapse based on the achievement of performance goals pursuant to Section 6(a)(i) of the Plan. 
+This Agreement sets forth the terms of the agreement between you and the Company with respect to the Performance Units. By accepting this
+Agreement, you agree to be bound by all of the terms hereof.  1. Overview of Performance Units. 
+(a) Performance Units Generally. Each Performance Unit represents a contractual right to receive one share
+of the Companys common stock (the Common Stock), subject to the terms and conditions of this Agreement; provided that, based on the relative achievement against each Performance Objective (as defined below),
+the number of shares of Common Stock that may be deliverable hereunder in respect of the Performance Units may range from     % to     % of the number of Performance Units stated in the preamble
+to this Agreement (such stated number of Performance Units hereafter called the Initial Performance Units). Your right to receive Common Stock in respect of Performance Units is generally contingent, in whole or in
+part, upon (i) the achievement of the performance objective outlined in Section 2 below (the Performance Objective) and (ii) except as provided in Section 4 or Section 5, your continued
+employment with the Company or one of its Subsidiaries through the end of the Performance Period. 
+
+
+
+
+ (b) Dividend Equivalents. With respect to each outstanding
+Performance Unit, the Company shall credit a book entry account with an amount equal to the amount of any cash dividend paid on one share of Common Stock. The amount credited to such book entry account shall be payable to you at the same time or
+times, and subject to the same terms and conditions as are applicable to, your Performance Units; provided that, if more than the Initial Performance Units shall become payable in accordance with this Agreement, the maximum amount payable in respect
+of such dividend equivalents shall be the amount credited to your book entry account. Dividends and distributions payable on Common Stock other than in cash will be addressed in accordance with Section 8 hereof. 
+2. Total Shareholder Return Objective. The Performance Objective with respect to the Initial Performance Units is based on
+Total Shareholder Return. Total Shareholder Return shall mean, as to the Company and each of the Peer Companies (as defined below), the annualized rate of return shareholders receive through stock price changes and the assumed reinvestment of
+dividends paid over the Performance Period. Dividends per share paid other than in the form of cash shall have a value equal to the amount of such dividends reported by the issuer to its shareholders for purposes of Federal income taxation. For
+purposes of determining the Total Shareholder Return for the Company and each of the Peer Companies, the change in the price of the Companys Common Stock and of the common stock of each Peer Company, as the case may be, shall be based upon the
+average of the closing stock prices of the Company and such Peer Company on each trading day in the         -day period preceding each of the start (the Initial Value)
+and the end (the Closing Value) of the Performance Period. The Initial Value of the Common Stock to be used to determine Total Shareholder Return over the Performance Period is
+$         per share. Achievement with respect to this Performance Objective shall be determined based on the Companys relative ranking in respect of the Performance Period with regard to Total
+Shareholder Return as compared to Total Shareholder Return of the Peer Companies, and shall be determined in accordance with the applicable table as set forth in Appendix A hereto. The applicable table shall be determined based on the number of Peer
+Companies for the Performance Period. A company shall be a Peer Company if it (i) is one of the companies listed on Appendix A hereto and (ii) has a class of common equity securities listed to trade under
+Section 12(g) of the Securities Exchange Act of 1934, as amended (the 1934 Act), during each day of the Performance Period. The number of Performance Units, if any, determined to be earned pursuant to the
+applicable table under Appendix A, as modified pursuant to Section 4(a), Section 4(b) or Section 5, if applicable, shall be referred to Earned Performance Units. 
+3. Conversion of Performance Units; Delivery of Performance Units. Unless an earlier date applies pursuant to
+Section 4(a), Section 5(c) or Section 6, payment in respect of Earned Performance Units shall be made not later than March 1 of the year following the year in which the Performance Period ends. Unless otherwise determined by the
+Committee, all payments in respect of Earned Performance Units shall be made in freely transferable shares of Common Stock; provided, however, that if and to the extent that the reservation of the power to
+
+   2 
+
+
+
+
+
+ 
+settle (as opposed to the act of settling) Performance Units in cash instead of shares would result in an additional financial accounting charge for the Company, the Committee shall not have the
+right to settle such Performance Units other than in the form of Common Stock (or, if applicable, stock of a Successor Corporation (as defined in Section 5)). Neither this Section 3 nor any action taken pursuant to or in accordance with
+this Section 3 shall be construed to create a trust of any kind. Any shares of Common Stock issued to you pursuant to this Agreement in settlement of Earned Performance Units shall be in book entry form registered in your name. Any fractional
+Earned Performance Units shall be rounded up to the nearest whole share of Common Stock.  4. Termination of
+Employment.  (a) Death or Disability. In the event that your employment with the Company
+or a Subsidiary terminates during the Performance Period due to your death or Disability (as such term is defined in the Severance Agreement between you and the Company or one of its subsidiaries), you shall be deemed to have Earned Performance
+Units equal to the product of (i) and (ii), where (i) and (ii) are:  (i) the Initial Performance
+Units;  (ii) a fraction (the Pro-Ration Fraction), (A) the numerator of
+which is the number of full months (counting the month in which your termination of employment occurs as a full month) during the Performance Period during which you were employed and (B) the denominator of which is 36. 
+Distribution of shares of Common Stock in respect of the Performance Units determined to be earned by reason of this Section 4(a) shall be made not
+later than 74 days following your death or Disability and shall be in full and complete satisfaction of all of your rights (and the rights of any person who derives his, her or its rights from you) under this Agreement. 
+(b) Normal Retirement. In the event that your employment with the Company and each of its Subsidiaries by
+which you are employed terminates during the Performance Period due to your retirement at or after having attained age 60, you shall be deemed to have Earned Performance Units, as of the end of the Performance Period, equal in number to the product
+of (i) the number of Earned Performance Units that you would have earned in accordance with Section 2 had you remained employed through the end of the Performance Period multiplied by (ii) the Pro-Ration Fraction. Any portion of the
+Performance Units that cannot become earned and payable in accordance with the preceding sentence shall terminate and automatically be cancelled as of the date of your termination of employment. Any portion of your Performance Units that is eligible
+to be earned pursuant to the first sentence of this subparagraph (b), but is not earned as of the end of the Performance Period, shall terminate and be cancelled upon the expiration of such Performance Period. 
+(c) Termination Without Cause or Termination For Good Reason. In the event that your employment with the
+Company and each of its Subsidiaries by which you are employed is terminated during the Performance Period (x) by the Company and such Subsidiaries and such termination is not a Termination for Cause or (y) by you and such termination is a
+Termination for Good Reason (as each such term is defined in the Severance 
+   3 
+
+
+
+
+
+ 
+Agreement between you and the Company or one of its subsidiaries), then notwithstanding the terms of any such Severance Agreement you shall be deemed to have earned, as of the end of the
+Performance Period, the number of Earned Performance Units that you would have earned in accordance with Section 2 had you remained employed through the end of the Performance Period. Any portion of your Performance Units that is eligible to be
+earned pursuant to the preceding sentence, but is not earned as of the end of the Performance Period, shall terminate and be cancelled upon the expiration of such Performance Period. 
+(d) Other Termination of Employment. Unless otherwise determined by the Committee at or after grant, in the
+event that your employment with the Company or a Subsidiary terminates prior to the end of the Performance Period for any reason other than those listed in Section 4(a), 4(b) or 4(c), all of your Performance Units shall terminate and
+automatically be cancelled upon such termination of employment.  5. Change in Control. Notwithstanding the
+provisions of Section 1 through Section 4 hereof or the terms of any Change in Control Agreement between you and the Company or a Subsidiary (a CIC Agreement), if you have been continuously employed from
+the grant date specified above until the date that the Change in Control occurs (the Change in Control Date) or you are treated, for purposes of such CIC Agreement, to have remained in employment through the Change
+in Control Date, upon the occurrence of a Change in Control your rights in respect of the Performance Units shall be determined as provided in Section 5(a). If your employment shall have terminated prior to the Change in Control Date, but at
+least some of your Performance Units remain outstanding pursuant to Section 4(b) or Section 4(c), your rights in respect of your outstanding Performance Units shall be determined as provided in Section 5(b). 
+(a) If a Change in Control occurs, you will be issued a number of shares of Common Stock equal to the number of
+Performance Units that would have become Earned Performance Units in accordance with the provisions of Section 2 assuming that:  (i) the Performance Period ended on the Change in Control Date and 
+(ii) the determination of whether, and to what extent, the Performance Objective is achieved, is based on actual
+performance against the stated performance criteria through the Change in Control Date.  (b) If your employment
+terminated prior to the Change in Control Date, but some or all of your Performance Units are still outstanding on such date pursuant to Section 4(b) or 4(c), then, you shall receive a number of shares of Common Stock equal to the product of
+(A) the number of shares of Common Stock that would have been issued to you in respect to the Initial Performance Units, determined as though Section 5(a) was applicable to you times (B) the Pro-Ration Fraction. 
+(c) Any shares of Common Stock issuable pursuant to this Section 5 shall be issued immediately following (and not
+later than) 5 business days after the Change in Control Date and shall be fully earned and freely transferable as of the date of the Change in Control. Notwithstanding anything else contained in this Section 5 to the contrary, if the Change in
+Control involves a merger, reclassification, reorganization or other similar transaction pursuant 
+   4 
+
+
+
+
+
+ 
+to which the Common Stock is exchanged for stock of the surviving corporation in such merger, the successor to the corporation or the direct or indirect parent of such a corporation
+(collectively, the Successor Corporation), then you shall receive, instead of each share of Common Stock otherwise deliverable hereunder, the same consideration (whether stock, cash or other property) payable or
+distributable in such transaction in respect of a share of Common Stock. Any property distributed pursuant to this Section 5(c), whether in shares of the Successor Corporation or otherwise, shall in all cases be freely transferable without any
+restriction (other than any such restriction that may be imposed at applicable law), and any securities issued hereunder shall be registered to trade under the 1934 Act, and shall have been registered under the Securities Act of 1933, as amended
+(the 1933 Act).  (d) Notwithstanding anything else contained in this
+Section 5 to the contrary, the Committee may elect, at its sole discretion by resolution adopted prior to the Change in Control Date, to satisfy your rights in respect of the Performance Units (as determined pursuant to the foregoing provisions
+of this Section 5), in whole or in part, by making a cash payment to you within 5 business days of the Change in Control Date in respect of all such Performance Units or such portion of such Performance Units as the Committee shall determine.
+Any cash payment for any Performance Unit shall be equal to the Fair Market Value of the number of shares of Common Stock into which it would convert, determined on the Change in Control Date. 
+6. Nontransferability of Awards. The Performance Units granted hereunder may not be sold, transferred, pledged,
+assigned, encumbered or otherwise alienated or hypothecated, other than by will or by the laws of descent and distribution. Following your death, any shares distributable (or cash payable) in respect of Performance Units will be delivered or paid,
+at the time specified in Section 3 or, if applicable, Section 4 or Section 5, to your beneficiary in accordance with, and subject to, the terms and conditions hereof and of the Plan. 
+7. Beneficiary Designation. You may from time to time name any beneficiary or beneficiaries (who may be named
+contingently or successively) to whom shall be delivered or paid under this Agreement following your death any shares that are distributable or cash payable hereunder in respect of your Performance Units at the time specified in Section 3 or,
+if applicable, Section 4 or Section 5. Each designation will revoke all prior designations, shall be in a form prescribed by the Committee, and will be effective only when filed in writing with the Committee during your lifetime. In the
+absence of any such effective designation, shares issuable in connection with your death shall be paid to your surviving spouse, if any, or otherwise to your estate.  8. Adjustments in Respect of Performance Units. In the event of any common stock dividend or common stock split, recapitalization (including, but not limited to, the payment of an
+extraordinary dividend), merger, consolidation, combination, spin-off, distribution of assets to stockholders (other than cash dividends), exchange of shares, or other similar corporate change with regard to the Company or any Peer Company,
+appropriate adjustments shall be made by the Committee to the Initial Value of the corresponding common stock, and, if any such event occurs with respect to the Company, in the aggregate number of Performance Units subject to this Agreement. The
+Committees determination with respect to any such adjustment shall be conclusive. 
+   5 
+
+
+
+
+
+ 9. Effect of Settlement. Upon conversion into shares of Common Stock
+(or Successor Corporation common stock) pursuant to Section 3 or Section 5, a cash settlement of your rights, at the election of the Committee at its sole discretion pursuant to Section 3 or Section 5(d), or a combination of the
+issuance of Common Stock and the payment of cash in accordance with any applicable provisions of this Agreement, all of your Performance Units subject to this Award shall be cancelled and terminated. If and to the extent that you are still employed
+at the end of the Performance Period, and none of your Performance Units shall have become earned in accordance with the terms of this Agreement, all such Performance Units subject to this Award shall be cancelled and terminated. 
+10. Furnish Information. You agree to furnish to the Company all information requested by the Company to enable it
+to comply with any reporting or other requirements imposed upon the Company by or under any applicable statute or regulation. 
+11. Remedies. The parties to this Agreement shall be entitled to recover from each other reasonable attorneys
+fees incurred in connection with the enforcement of the terms and provisions of this Agreement whether by an action to enforce specific performance or for damages for its breach or otherwise. If, due to Section 4 of the Plan, the Company fails
+or is unable to make the payment in respect of Earned Performance Units in freely transferable shares of Common Stock, and the Committee does not elect to settle such Earned Performance Units in cash instead of shares, as provided by Section 3
+of this Agreement, as your sole and exclusive remedy for such failure, in addition to the rights provided under the first sentence of this Section 11, the Company shall pay to you an amount in cash equal to the product of the number of Earned
+Performance Units times the Fair Market Value of one share of Common Stock. The Company shall make such payment to you within ten (10) days following receipt of your written demand therefor, but in no event later than March 15 of the year
+following the year in which the Performance Period ends, subject to compliance with any tax withholding obligations that the Company in its discretion deems to be necessary with respect to such payment. Upon such payment pursuant to this
+Section 11, all of your Performance Units subject to this Award shall be cancelled and terminated. For purposes of this Section 11, the Fair Market Value of one share of Common Stock shall be determined as follows: 
+(a) with respect to a payment in respect of Earned Performance Units pursuant to Section 3, the Fair Market Value
+shall be determined as of the last day of the Performance Period;  (b) with respect to a payment in respect of
+Earned Performance Units where payment arises due to the termination of your employment with the Company or a Subsidiary during the Performance Period due to your death or Disability pursuant to Section 4(a), the Fair Market Value shall be
+determined as of the date your employment terminates due to death or Disability, as applicable;  (c) with
+respect to a payment in respect of Earned Performance Units where payment arises due to the termination of your employment with the Company or a Subsidiary during the Performance Period due to your retirement pursuant to Section 4(b), or due to
+your termination by the Company that is not a Termination for Cause or to your termination by you that is a Termination for Good Reason pursuant to Section 4(c), the Fair Market Value shall be determined as of the last day of the Performance
+Period; 
+   6 
+
+
+
+
+
+ (d) with respect to a payment based on the number of Performance Units that
+would have become Earned Performance Units in connection with a Change in Control pursuant to Section 5, the Fair Market Value shall be determined as of the Change in Control Date. 
+12. Confidential Information and Nonsolicitation. 
+(a) As further consideration for the granting of the Performance Units hereunder, you hereby agree with the Company that,
+during and following your employment relationship with the Company and each of its Subsidiaries by which you are employed, you will keep confidential all confidential or proprietary information and materials, as well as all trade secrets, belonging
+to the Company or one of its Subsidiaries, or their customers or other third parties who furnished such information, materials, and/or trade secrets to the Company or its Subsidiary with expectations of confidentiality (Confidential
+Information). Confidential Information shall not include information that (A) is already properly in the public domain or enters the public domain with the express consent of the Company, or (B) is intentionally made
+available by the Company to third parties without any expectation of confidentiality. Upon the termination of your employment relationship with the Company and each of its Subsidiaries by which you are employed, you promise to promptly return to the
+Company all Confidential Information, and all documents and materials (including electronically stored information) in your possession, custody or control that constitutes or reflects Confidential Information. Notwithstanding the foregoing, you may
+disclose information as may be required by law and may disclose information in confidence to your spouse, tax and financial advisors, or to a financial institution to the extent that such information is necessary to secure a loan, provided that you
+ensure that such spouse or advisor or institution treats the information confidentially and does not disclose such information or use it for his, her or its own benefit. In the event any breach of this promise comes to the attention of the Company,
+it shall take into consideration that breach in determining whether to recommend the grant of any future similar award to you, as a factor militating against the advisability of granting any such future award to you. Such consideration shall be in
+addition to the rights and remedies available to the Company pursuant to paragraph (d) below.  (b) As an
+incentive for the Company to issue you this Award, and in consideration of the Companys promise to provide you with Confidential Information and so as to protect the Companys legitimate business interests, including the protection of its
+Confidential Information and the goodwill with which you will be associated, and that this Award will encourage you to build, you agree that during your employment relationship with the Company and each of its Subsidiaries by which you are employed,
+and for a period of twelve (12) months immediately following the time that you are no longer employed by the Company or any of its Subsidiaries, you will not, directly or indirectly (i) solicit or encourage (or assist another in soliciting
+or encouraging) any employee, contractor, consultant, supplier, or vendor of the Company or any of its Subsidiaries to terminate or lessen his, her or its relationship with the Company or any of its Subsidiaries, or (ii) on behalf of a
+Competing Business, engage, employ, or solicit or contact for employment or engagement (or assist another in such activity) any employee of the Company or any of its Subsidiaries or any person who was an employee of the
+
+   7 
+
+
+
+
+
+ 
+Company or any of its Subsidiaries at any time during the last twelve (12) months of your employment with the Company and any of its Subsidiaries (or, if you are employed by the Company and
+any of its Subsidiaries for less than twelve (12) months, those persons who were employees of the Company or any of its Subsidiaries during your employment with the Company and any of its Subsidiaries). For purposes of this Agreement,
+Competing Business means any person, entity, or other business concern (other than the Company or any of its Subsidiaries) that engages in, or is planning to engage in, the business conducted by the Company and any
+of its Subsidiaries for which you provide services during the term of your employment with the Company and any of its Subsidiaries, including without limitation, the business of oil and gas exploration and production, the gathering and
+transportation of oil and gas production, and the drilling, completion and/or servicing of oil and gas wells. 
+(c) You agree that the Companys substantial investments in its business interests, goodwill, and Confidential
+Information are worthy of protection, and that the Companys need for the protection afforded by this Section is greater than any hardship you might experience by complying with its terms. You further acknowledge and agree that the restrictions
+set forth in this Section are not adverse to the public interest. You further agree that the limitations as to time and scope of activity to be restrained contained herein are reasonable and are not greater than necessary to protect the Confidential
+Information, goodwill and other legitimate business interests of the Company. Although the Company and you believe the limitations as to time and scope of activity contained in this Section are reasonable and do not impose a greater restraint than
+necessary to protect the Companys legitimate business interests, if this is judicially determined not to be the case, the Company and you specifically request that the limitations contained in this Section be reformed to the extent necessary
+to make this Section enforceable.  (d) You acknowledge and agree that your violation or threatened or attempted
+violation of the covenants contained in this Section will cause irreparable harm to the Company and that money damages would not be sufficient remedy for any breach of this Section. You agree that the Company shall be entitled as a matter of right
+to specific performance of the covenants in this Section, including entry of an ex parte temporary restraining order in state or federal court, preliminary and permanent injunctive relief against activities in violation of this Section, or both, or
+other appropriate judicial remedy, writ or order, in any court of competent jurisdiction, restraining any violation or further violation of such agreements by you or others acting on your behalf, without any showing of irreparable harm and without
+any showing that the Company does not have an adequate remedy at law. Such remedies shall be in addition to all other remedies available to the Company at law and equity. 
+(e) Your obligations under this Section shall survive the termination of this Agreement and your employment, regardless of
+the reason for such termination.  13. Payment of Taxes. The Company may from time to time require you to
+pay to the Company (or the Companys Subsidiary if you are an employee of a Subsidiary of the Company) the amount that the Company deems necessary to satisfy the Companys or its Subsidiarys current or future obligation to withhold
+federal, state or local income or other taxes that you incur as a result of this Award. With respect to any required tax withholding, unless another arrangement is permitted by the Company in its discretion, the Company shall withhold
+
+   8 
+
+
+
+
+
+ 
+from the shares of Common Stock to be issued to you the number of shares necessary to satisfy the Companys obligation to withhold taxes, that determination to be based on the shares
+Fair Market Value, as defined in the Plan, at the time as of which such determination is made. In the event the Company subsequently determines that the aggregate Fair Market Value, as defined in the Plan, of any shares of Common Stock withheld as
+payment of any tax withholding obligation is insufficient to discharge that tax withholding obligation, then you shall pay to the Company, immediately upon the Companys request, the amount of that deficiency. 
+14. Right of the Company and Subsidiaries to Terminate Employment. Nothing contained in this Agreement shall confer
+upon you the right to continue in the employ of the Company or any Subsidiary of the Company, or interfere in any way with the rights of the Company or any Subsidiary of the Company to terminate your employment at any time. 
+15. No Liability for Good Faith Determinations. Neither the Company nor the members of the Board and the Committee
+shall be liable for any act, omission or determination taken or made in good faith with respect to this Agreement or the Performance Units granted hereunder.  16. No Guarantee of Interests. The Board and the Company do not guarantee the Common Stock of the Company from loss or depreciation. 
+17. Company Records. Records of the Company or its Subsidiaries regarding your period of employment, termination of
+employment and the reason therefor, leaves of absence, re-employment, and other matters shall be conclusive for all purposes hereunder, unless determined by the Company to be incorrect. 
+18. Severability. If any provision of this Agreement is held to be illegal or invalid for any reason, the illegality
+or invalidity shall not affect the remaining provisions hereof, but such provision shall be fully severable and this Agreement shall be construed and enforced as if the illegal or invalid provision had never been included herein. 
+19. Notices. Whenever any notice is required or permitted hereunder, such notice must be in writing and personally
+delivered or sent by mail. Any such notice required or permitted to be delivered hereunder shall be deemed to be delivered on the date on which it is personally delivered, or, whether actually received or not, on the third Business Day after it is
+deposited in the United States mail, certified or registered, postage prepaid, addressed to the person who is to receive it at the address which such person has theretofore specified by written notice delivered in accordance herewith. The Company or
+you may change, at any time and from time to time, by written notice to the other, the address which it or he had previously specified for receiving notices.  The Company and you agree that any notices shall be given to the Company or to you at the following addresses:   
+
+
+
+
+
+
+
+
+
+
+ Company:
+  
+Pioneer Natural Resources Company
+
+
+  
+Attn: Corporate Secretary
+
+
+  
+5205 N. OConnor Boulevard, Suite 200
+
+
+  
+Irving, Texas 75039-3746
+
+   9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Holder:
+  
+At your current address as shown in the Companys records.
+ 20. Waiver of Notice. Any person entitled to notice hereunder may waive such notice
+in writing.  21. Successor. This Agreement shall be binding upon you, your legal representatives, heirs,
+legatees and distributees, and upon the Company, its successors and assigns.  22. Headings. The titles
+and headings of Sections are included for convenience of reference only and are not to be considered in construction of the provisions hereof.  23. Governing Law. All questions arising with respect to the provisions of this Agreement shall be determined by application of the laws of the State of Delaware except to the extent
+Delaware law is preempted by federal law. The obligation of the Company to sell and deliver Common Stock hereunder is subject to applicable laws and to the approval of any governmental authority required in connection with the authorization,
+issuance, sale, or delivery of such Common Stock.  24. Execution of Receipts and Releases. Any payment of
+cash or any issuance or transfer of shares of Common Stock or other property to you, or to your legal representative, heir, legatee or distributee, in accordance with the provisions hereof, shall, to the extent thereof, be in full satisfaction of
+all claims of such Persons hereunder. The Company may require you or your legal representative, heir, legatee or distributee, as a condition precedent to such payment or issuance, to execute a release and receipt therefor in such form as it shall
+determine.  25. Amendment. This Agreement may be amended at any time unilaterally by the Company provided
+that such amendment is consistent with all applicable laws and does not reduce any rights or benefits you have accrued pursuant to this Agreement. This Agreement may also be amended at any time unilaterally by the Company to the extent the Company
+believes in good faith that such amendment is necessary or advisable to bring this Agreement into compliance with any applicable laws, including Section 409A of the Code.  26. The Plan. This Agreement is subject to all the terms, conditions, limitations and restrictions contained in the Plan; provided, however, that notwithstanding anything to the
+contrary herein, any provision of this Agreement that is inconsistent with the provisions of Section 9(c), (e), and (f) of the Plan shall control over such provisions of the Plan. 
+27. Agreement Respecting Securities Act of 1933. You represent and agree that you will not sell the Common Stock
+that may be issued to you pursuant to your Performance Units except pursuant to an effective registration statement under the 1933 Act or pursuant to an exemption from registration under the 1933 Act (including Rule 144). 
+28. No Shareholder Rights. The Performance Units granted pursuant to this Agreement do not and shall not entitle you
+to any rights as a shareholder of Common Stock until such time as you receive shares of Common Stock pursuant to this Agreement. Your rights with respect to the Performance Units shall remain forfeitable at all times prior to the date on which
+rights become earned in accordance with this Agreement. 
+   10 
+
+
+
+
+
+
+ 29. Electronic Delivery and Acknowledgement. No signature by you is
+required to accept this Award represented by this Agreement. By your acceptance of this Award, you are acknowledging that you have received and read, understood and accepted all the terms, conditions and restrictions of this Agreement and the Plan.
+The Company may, in its sole discretion, deliver any documents related to this Award and this Agreement, or other awards that have been or may be awarded under the Plan, by electronic means, including prospectuses, proxy materials, annual reports
+and other related documents, and the Company may, in its sole discretion, engage a third party to effect the delivery of these documents on its behalf and provide other administrative services related to this Award and the Plan. By your acceptance
+of this Award represented by this Agreement, you consent to receive such documents by electronic delivery and to the engagement of any such third party. 
+   11 
+
+
+
+
+
+
+ Appendix A  Determination of Performance Units Earned  Peer Companies: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+__ PeerCompanies
+  
+__ PeerCompanies
+  
+__ PeerCompanies
+  
+__ PeerCompanies
+  
+__ PeerCompanies
+
+ Rank AgainstPeers
+  
+Percentage ofInitialPerformanceUnits Earned
+  
+Percentage ofInitialPerformanceUnits Earned
+  
+Percentage ofInitialPerformanceUnits Earned
+  
+Percentage ofInitialPerformanceUnits Earned
+  
+Percentage ofInitialPerformanceUnits Earned
+
+
+
+ 1
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 2
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 3
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 4
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 5
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 6
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 7
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 8
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 9
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 10
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 11
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ 12
+  
+
+  
+
+  
+
+  
+
+  
+
+ In addition, if at the end of the Performance Period the number of companies listed above that qualify as Peer Companies
+is less than             , then the Committee shall, in good faith, determine the percentage of the Performance Units earned in a manner consistent with (i) the requirements to
+qualify the Performance Units as performance-based compensation exempt from the limitations imposed by Section 162(m) of the Internal Revenue Code of 1986, as amended, to the extent the Committee determines that such qualification is in the
+Companys best interest, and (ii) the following general guidelines for determining the number of earned Performance Units:  (a) If the Companys Total Shareholder Return for the Performance Period ranks first as compared to the Total Shareholder Return of qualifying Peer Companies, the number of earned Performance Units
+shall equal     % of the Initial Performance Units;  (b) If the Companys Total Shareholder
+Return for the Performance Period ranks in the      percentile as compared to the Total Shareholder Return of the qualifying Peer Companies, the number of earned Performance Units shall equal
+    % of the Initial Performance Units;  (c) If the Companys Total Shareholder Return
+for the Performance Period ranks in the     percentile as compared to the Total Shareholder Return of the qualifying Peer Companies, the number of earned Performance Units shall equal
+    % of the Initial Performance Units;  (d) If the Companys Total Shareholder Return ranks
+below the     percentile as compared to the Total Shareholder Return of the qualifying Peer Companies, none of the Initial Performance Units will become earned; and 
+   12 
+
+
+
+
+
+
+ (e) If the Companys Total Shareholder Return ranking falls in between the levels
+specified in clauses (a) through (c) above, the Committee shall have the discretion to determine the percentage of the Initial Performance Shares that become earned within the levels specified above. 
+   13 
+
+
+
+
+
+
+ Schedule I  The document to which this Schedule I is attached is the form of Performance Unit Award Agreement between the Company and Scott D. Sheffield.  1. The form of Performance Unit Award Agreement between the Company and Scott D. Sheffield and Timothy L. Dove varies from this form in that Section 4(c) of the form of agreement with the
+Companys other executive officers reads in its entirety as follows:  (c) Termination Without Cause
+or Termination For Good Reason. In the event that your employment with the Company and each of its Subsidiaries by which you are employed is terminated during the Performance Period (x) by the Company and such Subsidiaries and such
+termination is not a Termination for Cause or (y) by you and such termination is a Termination for Good Reason (as each such term is defined in the Severance Agreement between you and the Company or one of its subsidiaries), you shall be deemed
+to have earned, as of the end of the Performance Period, that number of Performance Units equal to the product of (i) the number of Earned Performance Units that you would have earned in accordance with Section 2 had you remained employed
+through the end of the Performance Period multiplied by (ii) the Pro-Ration Fraction. Any portion of the Performance Units that cannot become earned and payable in accordance with the preceding sentence shall terminate and automatically be
+cancelled as of the date of your termination of employment. Any portion of your Performance Units that is eligible to be earned pursuant to the second preceding sentence, but is not earned as of the end of the Performance Period, shall terminate and
+be cancelled upon the expiration of such Performance Period. 
+   14 
+
+
+
+

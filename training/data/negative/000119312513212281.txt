@@ -1,0 +1,1464 @@
+
+EX-10.1
+2
+d514653dex101.htm
+EX-10.1
+
+
+EX-10.1
+
+ 
+
+ Exhibit 10.1 
+   
+    
+
+
+
+  FOURTH AMENDMENT TO CREDIT
+AGREEMENT AND FIRST  AMENDMENT TO
+GUARANTY AGREEMENT  dated as of March 8, 2013 
+among 
+Memorial Production Operating LLC,  as Borrower,  The Guarantors Party Hereto, 
+Wells Fargo Bank, National Association,  as Administrative Agent,  JPMorgan Chase Bank, N.A., 
+as Syndication Agent,  Royal Bank of Canada, The Royal Bank of Scotland plc, Union Bank, N.A., and 
+Comerica Bank,  as Co-Documentation Agents,  and 
+The Lenders Party Hereto   
+  Wells Fargo
+Securities, LLC and J.P. Morgan Securities LLC  Co-Lead Arrangers and Joint Bookrunners 
+   
+ 
+
+
+
+
+ FOURTH AMENDMENT TO 
+CREDIT AGREEMENT AND FIRST AMENDMENT TO
+GUARANTY AGREEMENT  This FOURTH AMENDMENT
+TO CREDIT AGREEMENT AND FIRST AMENDMENT TO GUARANTY AGREEMENT (this Fourth Amendment), dated as
+of March 8, 2013 (the Fourth Amendment Effective Date), is among MEMORIAL PRODUCTION OPERATING LLC, a limited liability company formed under the laws of the State of Delaware (the
+Borrower); MEMORIAL PRODUCTION PARTNERS LP, a limited partnership formed under the laws of the State of Delaware (the Parent); each of the other undersigned
+guarantors (the Other Guarantors, and together with the Borrower and the Parent, the Loan Parties); each of the Lenders that is a signatory hereto; and WELLS FARGO
+BANK, NATIONAL ASSOCIATION, as administrative agent for the Lenders (in such capacity, together with its successors, the Administrative Agent). 
+Recitals 
+A. The Borrower, the Parent, the Administrative Agent and the Lenders are parties to that certain Credit Agreement dated as of
+December 14, 2011 (as amended prior to the date hereof, the Credit Agreement), pursuant to which the Lenders have, subject to the terms and conditions set forth therein, made certain credit available to and on behalf of the
+Borrower.  B. The Borrower has advised the Administrative Agent and the Lenders that the Borrower intends to enter into a
+Purchase and Sale Agreement with Memorial Resource Development LLC, a Delaware limited liability company, WildHorse Resources, LLC, a Delaware limited liability company, and Tanos Energy, LLC, a Delaware limited liability company, pursuant to which
+the Borrower shall (i) directly acquire all of the Equity Interests in WHT Energy Partners LLC, a Delaware limited liability company (WHT Energy Partners), and (ii) indirectly acquire (a) all of the Equity Interests
+in WHT Energy Partners Wholly-Owned Subsidiary, WHT Carthage LLC, a Delaware limited liability company (WHT Carthage and, together with WHT Energy Partners, the WHT Entities), (b) all of the Swap
+Agreements owned by the WHT Entities, and (c) all of the Oil and Gas Properties owned by the WHT Entities (such acquisition is referred to herein as the WHT Acquisition). 
+C. The parties hereto desire to amend the Credit Agreement in certain respects including, without limitation, to permit the Borrower to
+enter into additional Swap Agreements in connection with the WHT Acquisition.  NOW, THEREFORE, in consideration of the
+premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+Section 1. Defined Terms. Each capitalized term which is defined in the Credit Agreement, but which is not defined in this
+Fourth Amendment, shall have the meaning ascribed such term in the Credit Agreement, as amended hereby. Unless otherwise indicated, all section references in this Fourth Amendment refer to the Credit Agreement. 
+   Page 1
+
+
+
+
+
+
+ Section 2. Amendments as of Fourth Amendment Effective Date. In reliance on the
+representations, warranties, covenants and agreements contained in this Fourth Amendment, and subject to the satisfaction of the conditions precedent set forth in Section 3 hereof, the Credit Agreement shall be amended effective as of
+the Fourth Amendment Effective Date in the manner provided in this Section 2.  2.1 Additional Definitions.
+Section 1.02 of the Credit Agreement is hereby amended to add thereto in alphabetical order the following definitions which shall read in full as follows:  Benefitting Guarantor means a Guarantor for which funds or other support are required for such Guarantor to constitute an Eligible Contract Participant. 
+Commodity Exchange Act means the Commodity Exchange Act (7 U.S.C. § 1 et seq.), as amended from
+time to time, and any successor statute.  Eligible Contract Participant means an
+eligible contract participant as defined in the Commodity Exchange Act and the regulations thereunder.  Emissions Credits means any emissions reductions credits or offsets issued, sanctioned or required by a Governmental Authority with respect to various pollutants, emissions or any other
+environmental attributes of any nature, including, without limitation, nitrogen oxides, carbon dioxide, sulfur oxides, volatile organic compounds, carbon monoxide, particulate matter and reactive organic gases. 
+Excluded Swap Obligation means, with respect to any Loan Party individually determined on a Loan Party
+by Loan Party basis, any Indebtedness or other obligation in respect of any Swap Agreement if, and solely to the extent that, all or a portion of the guarantee of such Loan Party of, or the grant by such Loan Party of a security interest to secure,
+such Indebtedness or other obligation in respect of such Swap Agreement (or any guarantee thereof) is or becomes illegal under the Commodity Exchange Act or any rule, regulation or order of the Commodity Futures Trading Commission (or the
+application or official interpretation of any thereof) by virtue of such Loan Partys failure for any reason to constitute an Eligible Contract Participant at the time such guarantee or grant of a security interest is entered into or otherwise
+becomes effective with respect to, or any other time such Loan Party is by virtue of such guarantee or grant of security interest otherwise deemed to enter into, such Indebtedness or other obligation in respect of such Swap Agreement (or guarantee
+thereof). If such an obligation arises under a master agreement governing more than one swap, such exclusion shall apply only to the portion of such obligation that is attributable to swaps the guarantee or grant of security interest for which (or
+for any guarantee of which) so is or becomes illegal.  Fourth Amendment means that certain
+Fourth Amendment to Credit Agreement and First Amendment to Guaranty Agreement dated as of March 8, 
+   Page 2
+
+
+
+
+
+
+ 
+2013, among the Borrower, the Parent, the other Guarantors, the Administrative Agent and the Lenders.  Qualified ECP Guarantor means, with respect to any Benefitting Guarantor, in respect of any Swap Agreement, each Loan Party that, at the time the guaranty by such Benefitting Guarantor
+of, or the grant by such Benefitting Guarantor of a security interest securing, obligations under such Swap Agreement is entered into or becomes effective with respect to, or at any other time such Benefitting Guarantor is by virtue of such guaranty
+or grant of a security interest otherwise deemed to enter into, such Swap Agreement, constitutes an Eligible Contract Participant and can cause such Benefitting Guarantor to qualify as an Eligible Contract Participant at such time by entering into a
+keepwell under Section 1a(18)(A)(v)(II) of the Commodity Exchange Act.  WHT Acquisition
+has the meaning given to such term in the Fourth Amendment.  2.2 Amended Definitions. The definitions of
+Indebtedness, Loan Documents, Material Subsidiary, Specified Acquisition, and Swap Agreement contained in Section 1.02 of the Credit Agreement are
+hereby amended and restated in their entirety to read in full as follows:  Indebtedness
+means any and all amounts owing or to be owing by the Borrower or any other Loan Party (whether direct or indirect (including those acquired by assumption), absolute or contingent, due or to become due, now existing or hereafter arising):
+(a) to any Agent, the Issuing Bank or any Lender under any Loan Document including, without limitation, all interest on any of the Loans (including any interest that accrues after the commencement of any case, proceeding or other action
+relating to the bankruptcy, insolvency or reorganization of any Loan Party (or could accrue but for the operation of applicable bankruptcy or insolvency laws), whether or not such interest is allowed or allowable as a claim in any such case,
+proceeding or other action); (b) to any Secured Swap Provider under any Swap Agreement including any Swap Agreement in existence prior to the date hereof, but excluding any additional transactions or confirmations entered into
+(i) (x) in the case of a Secured Swap Provider of the type described in clauses (a) or (b) of the definition thereof, after such Secured Swap Provider ceases to be a Lender or an Affiliate of a Lender or (y) in the case of a
+Secured Swap Provider of the type described in clause (c) of the definition thereof, after there are three or more Lenders party to this Agreement (or Affiliates of such Lenders) that are recognized providers of Swap Agreements, or
+(ii) after assignment by a Secured Swap Provider to a Person who is not, at the time of such assignment, a Secured Swap Provider; (c) to any Bank Products Provider in respect of Bank Products; and (d) all renewals, extensions and/or
+rearrangements of any of the above; provided that solely with respect to any Guarantor that is not an Eligible Contract Participant, Excluded Swap Obligations of such Guarantor shall in any event be excluded from Indebtedness
+owing by such Guarantor. 
+   Page 3
+
+
+
+
+
+
+ Loan Documents means this Agreement, the First Amendment,
+the Second Amendment, the Third Amendment, the Fourth Amendment, the Notes, the Intercreditor Agreement, the Letter of Credit Agreements, the Letters of Credit, the Agency Fee Letter, and the Security Instruments. 
+Material Subsidiary means, as of any date, any Domestic Subsidiary that is a Wholly-Owned Subsidiary
+that either (a) together with its Subsidiaries, owns Property having a fair market value of $5,000,000 or more, or (b) otherwise becomes or is required to become a Guarantor pursuant to Section 8.14. 
+Specified Acquisition means (a) the WHT Acquisition so long as, at the time any Loan Party enters
+into any Swap Agreements with respect to the reasonably anticipated projected production from proved Oil and Gas Properties to be acquired in the WHT Acquisition, the ratio of Availability to the then effective Borrowing Base is at least 0.10 to
+1.0, and (b) any other Acquisition for which: (i) a binding and enforceable purchase and sale agreement has been signed by a Loan Party; and (ii) at the time of the signing of the applicable purchase and sale agreement, the ratio of
+Availability to the then effective Borrowing Base is at least 0.10 to 1.0.  Swap Agreement
+means any agreement with respect to any swap, forward, future or derivative transaction (including floors, caps and collars) or option or similar agreement, whether exchange traded, over-the-counter or otherwise, involving, or settled by
+reference to, one or more rates, currencies, commodities (including Emissions Credits), equity or debt instruments or securities, or economic, financial or pricing indices or measures of economic, financial or pricing risk or value or any similar
+transaction or any combination of these transactions (including any agreement, contract or transaction that constitutes a swap within the meaning of section 1a(47) or Section 2(e) of the Commodity Exchange Act); provided that
+no phantom stock or similar plan providing for payments only on account of services provided by current or former directors, officers, employees or consultants of the Borrower or the other Loan Parties shall be a Swap Agreement. 
+2.3 Amendment to Section 7.20 of the Credit Agreement. Section 7.20 of the Credit Agreement is hereby amended by
+inserting and Qualified ECP Guarantor in the heading of such Section immediately after the reference to Swap Agreements and by adding the following sentence to the end of such Section: 
+The Borrower has total assets exceeding $10,000,000 and is a Qualified ECP Guarantor. 
+2.4 New Section 8.17 of the Credit Agreement. A new Section 8.17 is hereby added to the Credit Agreement immediately
+following Section 8.16 thereof, which Section 8.17 shall read in full as follows: 
+   Page 4
+
+
+
+
+
+
+ Section 8.17 Commodity Exchange Act Keepwell Provisions.
+(a) The Borrower hereby guarantees the payment and performance of all Indebtedness of each Loan Party (other than the Borrower) and absolutely, unconditionally and irrevocably undertakes to provide such funds or other support as may be needed
+from time to time by each Benefitting Guarantor in order for such Benefitting Guarantor to honor its obligations (without giving effect to Section 8.17(b)) under the Guaranty Agreement and any other Security Instrument including obligations
+with respect to Swap Agreements (provided, however, that the Borrower shall only be liable under this Section 8.17(a) for the maximum amount of such liability that can be hereby incurred without rendering its obligations under this
+Section 8.17(a), or otherwise under this Agreement or any Loan Document, as it relates to such Benefitting Guarantor, voidable under applicable law relating to fraudulent conveyance or fraudulent transfer, and not for any greater
+amount). The obligations of the Borrower under this Section 8.17(a) shall remain in full force and effect until all Indebtedness is paid in full to the Lenders, the Administrative Agent and all other Secured Parties, and all of the
+Lenders Commitments are terminated. The Borrower intends that this Section 8.17(a) constitute, and this Section 8.17(a) shall be deemed to constitute, a keepwell, support, or other agreement for the benefit
+of each Benefitting Guarantor for all purposes of Section 1a(18)(A)(v)(II) of the Commodity Exchange Act. 
+(b) Notwithstanding any other provisions of this Agreement or any other Loan Document, Indebtedness guaranteed by any
+Guarantor, or secured by the grant of any Lien by such Guarantor under any Security Instrument, shall exclude all Excluded Swap Obligations with respect to such Guarantor.  2.5 Amendment to Section 9.18 of the Credit Agreement. Section 9.18 of the Credit Agreement is hereby amended and restated in its entirety as follows: 
+(a) The Borrower will not, and will not permit any other Loan Party to, enter into any Swap Agreements with any Person
+other than:  (i) Swap Agreements in respect of commodities (A) with an Approved Counterparty and
+(B) the notional volumes for which (when aggregated with other commodity Swap Agreements then in effect other than basis differential swaps on volumes already hedged pursuant to other Swap Agreements) do not exceed, as of the date such Swap
+Agreement is executed, 85% of the reasonably anticipated projected production from proved Oil and Gas Properties included in the most recent Reserve Report for each month during the period during which such Swap Agreement is in effect for each of
+crude oil, natural gas and natural gas liquids, which may be hedged with Swap Agreements for crude oil, each calculated separately; provided that Proved Developed Non-Producing Reserves and Proved Undeveloped Reserves, in the aggregate, do not
+account for greater than 25% of the total Proved Reserves, 
+   Page 5
+
+
+
+
+
+
+ (ii) Swap Agreements that would be permitted by clause (i) hereof
+pertaining to Oil and Gas Properties to be acquired pursuant to a Specified Acquisition; provided that Swap Agreements pursuant to this Section 9.18(b) must be Liquidated upon the earlier to occur of: (A) the date that is 90 days after the
+execution of the purchase and sale agreement relating to the Specified Acquisition to the extent that such Specified Acquisition has not been consummated by such date, (B) any Loan Party knows with reasonable certainty that the Specified
+Acquisition will not be consummated, and (C) in the case of the WHT Acquisition, the date that is 30 days following the date any Loan Party enters into any such Swap Agreement with respect to the expected production from the Oil and Gas
+Properties to be acquired in the WHT Acquisition if, as of such date, no binding and enforceable purchase and sale agreement has been signed by a Loan Party with respect to the WHT Acquisition, 
+(iii) Swap Agreements in respect of interest rates with an Approved Counterparty, as follows: (A) Swap Agreements
+effectively converting interest rates from fixed to floating, the notional amounts of which (when aggregated with all other Swap Agreements of the Loan Parties then in effect effectively converting interest rates from fixed to floating) do not
+exceed 100% of the then outstanding principal amount of the Loan Parties Debt for borrowed money which bears interest at a fixed rate and (B) Swap Agreements effectively converting interest rates from floating to fixed, the notional
+amounts of which (when aggregated with all other Swap Agreements of the Borrower and the other Loan Parties then in effect effectively converting interest rates from floating to fixed) do not exceed 100% of the then outstanding principal amount of
+the Loan Parties Debt for borrowed money which bears interest at a floating rate, and  (iv) Swap
+Agreements entered into in the ordinary course of the Loan Parties business in respect of Emission Credits; provided that the aggregate amount that is owing but unpaid by the Loan Parties under all such Swap Agreements shall not exceed
+$1,000,000 in the aggregate at any time.  (b) In no event shall any Swap Agreement contain any requirement,
+agreement or covenant for a Loan Party to post collateral or margin to secure their obligations under such Swap Agreement or to cover market exposures, except to the extent permitted under Section 9.03(e). 
+(c) The Borrower will not, and will not permit any of the other Loan Parties to, incur or permit to exist any speculative
+Swap Agreements.  (d) The Borrower will not, and will not permit any other Loan Party to, Liquidate any Swap
+Agreement in respect of commodities unless (x) if such Swap Liquidation would result in an automatic redetermination of the Borrowing Base pursuant to Section 2.07(f), the Borrower delivers reasonable prior written notice thereof to the
+Administrative Agent, and (y) if a Borrowing Base Deficiency would result from such Swap Liquidation as a result of an automatic redetermination of the Borrowing Base pursuant to Section 2.07(f), the Borrower
+
+   Page 6
+
+
+
+
+
+
+ 
+prepays Borrowings, prior to or contemporaneously with the consummation of such Swap Liquidation to the extent that such prepayment would have been required under Section 3.04(c)(iii) after
+giving effect to such automatic redetermination of the Borrowing Base.  2.6 New Section 9.24 of the Credit
+Agreement. A new Section 9.24 is hereby added to the Credit Agreement immediately following Section 9.23 thereof, which Section 9.24 shall read in full as follows: 
+Section 9.24 Non-Eligible Contract Participants. The Borrower shall not permit any Loan Party that is not an
+Eligible Contract Participant to own, at any time, any Oil and Gas Properties or any Equity Interests in any Subsidiaries. 
+Section 3. Conditions Precedent to this Fourth Amendment. The effectiveness of the amendments to the Credit Agreement
+contained in Section 2 hereof is subject to the following:  3.1 The Administrative Agent shall have received
+counterparts of this Fourth Amendment from the Loan Parties and the Majority Lenders.  3.2 The Administrative Agent shall have
+received such other documents as the Administrative Agent or counsel to the Administrative Agent may reasonably request.  The
+Administrative Agent shall notify the Borrower and the Lenders of the effectiveness of this Fourth Amendment, and such notice shall be conclusive and binding.  Section 4. Amendment to Guaranty Agreement. Effective as of the Fourth Amendment Effective Date, a new Section 28 is hereby added to the Guaranty Agreement immediately following
+Section 27 thereof, which Section 28 shall read in full as follows:  28. (a) Each Guarantor that is a
+Qualified ECP Guarantor hereby guarantees the payment and performance of all Indebtedness of each Benefitting Guarantor and absolutely, unconditionally and irrevocably undertakes to provide such funds or other support as may be needed from time to
+time by each Benefitting Guarantor in order for such Benefitting Guarantor to honor its obligations (without giving effect to Section 28(b)) under this Guaranty and any other Security Instrument, including obligations with respect to Swap
+Agreements (provided, however, that each such Guarantor shall only be liable under this Section 28(a) for the maximum amount of such liability that can be hereby incurred without rendering its obligations under this Section 28(a), or
+otherwise under this Guaranty or any Loan Document, as it relates to such Benefitting Guarantors, voidable under applicable law relating to fraudulent conveyance or fraudulent transfer, and not for any greater amount). The obligations of each such
+Guarantor under this Section 28(a) shall remain in full force and effect until (i) all Indebtedness is paid in full to the Lenders, the Administrative Agent and all other Secured Parties, and all of the Lenders Commitments are
+terminated or (ii) the termination of this Guaranty with respect to such Guarantor in accordance with its terms. The parties intend that this Section 28(a) constitute, and this Section 28(a) shall be deemed to constitute, a
+keepwell, support, or other agreement for the 
+   Page 7
+
+
+
+
+
+
+ 
+benefit of each other Loan Party for all purposes of Section 1a(18)(A)(v)(II) of the Commodity Exchange Act. 
+(b) Notwithstanding any other provisions of this Agreement or any other Loan Document, Indebtedness guaranteed by any
+Guarantor, or secured by the grant of any security interest by such Guarantor under any Security Instrument, shall exclude all Excluded Swap Obligations with respect to such Guarantor. 
+Section 5. Representations and Warranties; Etc. Each Loan Party hereby affirms: (a) that as of the date hereof, all of
+the representations and warranties contained in each Loan Document to which such Loan Party is a party are true and correct in all material respects as though made on and as of the date hereof (unless made as of a specific earlier date, in which
+case, was true as of such date), (b) no Defaults exist under the Loan Documents or will, after giving effect to this Fourth Amendment, exist under the Loan Documents and (c) no Material Adverse Effect has occurred. 
+Section 6. Miscellaneous.  6.1 Confirmation and Effect. The provisions of the Credit Agreement (as amended by this Fourth Amendment) shall remain in full force and effect in accordance with its terms following the
+effectiveness of this Fourth Amendment. Each reference in the Credit Agreement to this Agreement, hereunder, hereof, herein, or words of like import shall mean and be a reference to the Credit
+Agreement as amended hereby, and each reference to the Credit Agreement in any other document, instrument or agreement executed and/or delivered in connection with the Credit Agreement shall mean and be a reference to the Credit Agreement as amended
+hereby.  6.2 Ratification and Affirmation of Loan Parties. Each of the Loan Parties hereby expressly
+(a) acknowledges the terms of this Fourth Amendment, (b) ratifies and affirms its obligations under the Guaranty Agreement and the other Loan Documents to which it is a party, as amended hereby, (c) acknowledges, renews and extends
+its continued liability under the Guaranty Agreement and the other Loan Documents to which it is a party, as amended hereby and (d) agrees that its guarantee under the Guaranty Agreement and the other Loan Documents to which it is a party
+remains in full force and effect with respect to the Indebtedness, as amended hereby.  6.3 Counterparts. This Fourth
+Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of this Fourth Amendment by
+facsimile or electronic (e.g. pdf) transmission shall be effective as delivery of a manually executed original counterpart hereof.  6.4 No Oral Agreement. THIS WRITTEN FOURTH AMENDMENT, THE CREDIT AGREEMENT
+AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH
+REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE
+
+   Page 8
+
+
+
+
+
+
+ 
+CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN
+ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS
+BETWEEN THE PARTIES.  6.5 Governing Law. THIS
+FOURTH AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY
+HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE
+LAWS OF THE STATE OF NEW YORK.  6.6 Payment of Expenses. The Borrower agrees to pay or reimburse the Administrative Agent for all of its out-of-pocket costs and expenses incurred in connection with this Fourth Amendment, any
+other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent. 
+6.7 Severability. Any provision of this Fourth Amendment which is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render
+unenforceable such provision in any other jurisdiction.  6.8 Successors and Assigns. This Fourth Amendment shall be
+binding upon and inure to the benefit of the parties hereto and their respective successors and assigns. 
+[signature pages follow] 
+   Page 9
+
+
+
+
+
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Fourth Amendment to be duly executed effective as of
+the date first written above.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BORROWER:
+ 
+MEMORIAL PRODUCTION OPERATING LLC,
+
+
+ 
+a Delaware limited liability company
+
+
+
+
+
+
+ 
+        By:
+ 
+Memorial Production Partners LP,
+
+
+ 
+
+ 
+its sole member
+
+
+
+
+
+
+ 
+        By:
+ 
+Memorial Production Partners GP LLC,
+
+
+ 
+
+ 
+its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Kyle N. Roane
+
+
+ 
+
+ 
+Name:
+ 
+Kyle N. Roane
+
+
+ 
+
+ 
+Title:
+ 
+General Counsel and Corporate Secretary
+
+
+
+
+GUARANTORS:
+ 
+MEMORIAL PRODUCTION PARTNERS LP,
+
+
+ 
+a Delaware limited partnership
+
+
+
+
+
+
+ 
+        By:
+ 
+Memorial Production Partners GP LLC,
+
+
+ 
+
+ 
+its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Kyle N. Roane
+
+
+ 
+
+ 
+Name:
+ 
+Kyle N. Roane
+
+
+ 
+
+ 
+Title:
+ 
+General Counsel and Corporate Secretary
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COLUMBUS ENERGY, LLC,
+
+a Delaware limited liability company
+
+
+
+
+
+
+ 
+By:
+ 
+Memorial Production Operating LLC, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Kyle N. Roane
+
+
+ 
+
+ 
+Name:
+ 
+Kyle N. Roane
+
+
+ 
+
+ 
+Title:
+ 
+General Counsel and Corporate Secretary
+
+
+
+ETX I LLC, a Delaware limited liability company
+
+
+
+
+
+
+ 
+By:
+ 
+Memorial Production Operating LLC, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+ 
+By:
+ 
+Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Kyle N. Roane
+
+
+ 
+
+ 
+Name:
+ 
+Kyle N. Roane
+
+
+ 
+
+ 
+Title:
+ 
+General Counsel and Corporate Secretary
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RISE ENERGY OPERATING, LLC, a Delaware limited liability company
+
+
+
+
+
+
+ 
+        By: 
+ 
+Memorial Production Operating LLC, its sole member
+
+
+
+
+
+
+ 
+        By:
+ 
+Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+ 
+        By:
+ 
+Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Kyle N. Roane
+
+
+ 
+
+ 
+Name:
+ 
+Kyle N. Roane
+
+
+ 
+
+ 
+Title:
+ 
+General Counsel and Corporate Secretary
+
+
+
+RISE ENERGY MINERALS, LLC, a Delaware limited liability company
+
+
+
+
+
+
+ 
+        By:
+ 
+Rise Energy Operating, LLC, its sole member
+
+
+
+
+
+
+ 
+        By:
+ 
+Memorial Production Operating LLC, its sole member
+
+
+
+
+
+
+ 
+        By:
+ 
+Memorial Production Partners LP, its sole member
+
+
+
+
+
+
+ 
+        By:
+ 
+Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Kyle N. Roane
+
+
+ 
+
+ 
+Name:
+ 
+Kyle N. Roane
+
+
+ 
+
+ 
+Title:
+ 
+General Counsel and Corporate Secretary
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RISE ENERGY BETA, LLC, a Delaware limited liabilitycompany
+
+
+
+
+        By:
+ 
+Rise Energy Operating, LLC, its sole member
+
+
+
+
+        By:
+ 
+Memorial Production Operating LLC, its sole member
+
+
+
+
+        By:
+ 
+Memorial Production Partners LP, its sole member
+
+
+
+
+        By: 
+ 
+Memorial Production Partners GP LLC, its general partner
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Kyle N. Roane
+
+
+ 
+
+ 
+Name: 
+ 
+Kyle N. Roane
+
+
+ 
+
+ 
+Title:
+ 
+General Counsel and Corporate Secretary
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+ ADMINISTRATIVE AGENT AND LENDER: 
+ 
+
+
+
+
+
+
+
+
+
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as Administrative Agent, Issuing Bank and a Lender
+
+
+
+
+By:
+ 
+/s/ Shiloh Davila
+
+Name:
+ 
+Shiloh Davila
+
+Title:
+ 
+Vice President
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+JPMORGAN CHASE BANK, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Ryan Aman
+
+
+ 
+
+ 
+Name:
+ 
+Ryan Aman
+
+
+ 
+
+ 
+Title:
+ 
+Authorized Officer
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+CITIBANK, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Phillip Ballard
+
+
+ 
+
+ 
+Name:
+ 
+Phillip Ballard
+
+
+ 
+
+ 
+Title:
+ 
+Vice-President
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+COMERICA BANK, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Jeff Treadway
+
+
+ 
+
+ 
+Name:
+ 
+Jeff Treadway
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+ROYAL BANK OF CANADA, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Mark Lumpkin. Jr.
+
+
+ 
+
+ 
+Name:
+ 
+Mark Lumpkin. Jr.
+
+
+ 
+
+ 
+Title:
+ 
+Authorized Signatory
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+THE ROYAL BANK OF SCOTLAND PLC, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Sanjay Remond
+
+
+ 
+
+ 
+Name:
+ 
+Sanjay Remond
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+U.S. BANK NATIONAL ASSOCIATION, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ John Lozano
+
+
+ 
+
+ 
+Name:
+ 
+John Lozano
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+UNION BANK, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Haylee Dallas
+
+
+ 
+
+ 
+Name:
+ 
+Haylee Dallas
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BARCLAYS BANK PLC, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Sreedhar R. Kona
+
+
+ 
+
+ 
+Name:
+ 
+Sreedhar R. Kona
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+BANK OF AMERICA, N.A., as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Sandra Serie
+
+
+ 
+
+ 
+Name:
+ 
+Sandra Serie
+
+
+ 
+
+ 
+Title:
+ 
+Vice President
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LENDER:
+ 
+
+ 
+NATIXIS, as a Lender
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Mary Lou Allen
+
+
+ 
+
+ 
+Name:
+ 
+Mary Lou Allen
+
+
+ 
+
+ 
+Title:
+ 
+Director
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+/s/ Stuart Murray
+
+
+ 
+
+ 
+Name:
+ 
+Stuart Murray
+
+
+ 
+
+ 
+Title:
+ 
+Managing Director
+
+  
+[SIGNATURE PAGE TO FOURTH AMENDMENT TO
+CREDIT AGREEMENT AND  FIRST AMENDMENT
+TO GUARANTY AGREEMENT   MEMORIAL PRODUCTION
+OPERATING LLC] 
+
+
+

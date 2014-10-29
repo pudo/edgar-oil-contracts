@@ -1,0 +1,1273 @@
+
+EX-10.7
+2
+a13-13912_1ex10d7.htm
+EX-10.7
+
+
+
+
+
+
+
+  
+
+
+Exhibit 10.7
+ 
+Execution Version
+ 
+AMENDMENT NO. 7
+ 
+This AMENDMENT NO. 7 (the Amendment) dated as of May 16, 2013 (the Effective Date) is among Bonanza Creek Energy, Inc., a Delaware corporation (Borrower), the Guarantors (as defined in the Credit Agreement referred to below), the Lenders (as defined below), and KeyBank National Association, as Administrative Agent and as Issuing Lender (as such terms are defined below).
+ 
+RECITALS
+ 
+A.            The Borrower is party to (i) that certain Credit Agreement dated as of March 29, 2011 (as amended by Amendment No. 1 dated as of April 29, 2011, Amendment No. 2 & Agreement dated as of September 15, 2011, the Resignation, Consent and Appointment Agreement and Amendment Agreement dated as of April 6, 2012, Amendment No. 3 & Agreement dated as of May 8, 2012, Amendment No. 4 dated as of July 31, 2012, Amendment No. 5 dated as of October 30, 2012, Amendment No. 6 dated as of March 29, 2013 and as may be further amended, restated or otherwise modified from time to time, the Credit Agreement) among the Borrower, the lenders party thereto from time to time (the Lenders), and KeyBank National Association (as successor in interest to BNP Paribas), as administrative agent (in such capacity, the Administrative Agent) and as issuing lender (in such capacity, the Issuing Lender) and (ii) that certain Waiver and Agreement dated as of December 21, 2012 among the Borrower, the Lenders, the Administrative Agent and the Issuing Lender (the Waiver).  Each capitalized term defined in the Credit Agreement and used herein without definition shall have the meaning assigned to such term in the Credit Agreement, unless expressly provided to the contrary.
+ 
+B.            Pursuant to Section 3 of the Waiver, the Lenders extended the deadline for the consummation of the Midway Sale (as defined in the Waiver), from October 31, 2012 to April 30, 2013.  As of the Effective Date , the Borrower and its Subsidiaries have not consummated the Midway Sale.  The Borrowers and its Subsidiaries failure to consummate the Midway Sale on or before April 30, 2013 is herein referred to as the Sale Deadline Default.
+ 
+C.            The Lenders wish to, subject to the terms and conditions of this Amendment, (i) waive the Sale Deadline Default and further extend the deadline for the consummation of the Midway Sale, (ii) increase the Borrowing Base, and (iii) amend the Credit Agreement as provided herein.
+ 
+THEREFORE, the Borrower, the Guarantors, the Administrative Agent, the Issuing Lender, and the Lenders hereby agree as follows:
+ 
+Section 1.              Defined Terms.  As used in this Amendment, each of the terms defined in the opening paragraph and the Recitals above shall have the meanings assigned to such terms therein.
+ 
+Section 2.              Other Definitional Provisions.  Article, Section, Schedule, and Exhibit references are to Articles and Sections of and Schedules and Exhibits to this Amendment, unless otherwise specified.  All references to instruments, documents, contracts, and agreements are references to such instruments, documents, contracts, and agreements as the same may be amended, 
+ 
+
+
+
+
+
+
+ 
+supplemented, and otherwise modified from time to time, unless otherwise specified.  The words hereof, herein, and hereunder and words of similar import when used in this Amendment shall refer to this Amendment as a whole and not to any particular provision of this Amendment.  The term including means including, without limitation,.  Paragraph headings have been inserted in this Amendment as a matter of convenience for reference only and it is agreed that such paragraph headings are not a part of this Amendment and shall not be used in the interpretation of any provision of this Amendment.
+ 
+Section 3.              Redetermination of Borrowing Base.
+ 
+(a)           Subject to the terms of this Amendment and in accordance with Section 2.02(b)(i) of the Credit Agreement, as amended hereby, as of the Effective Date, the Borrowing Base shall be $330,000,000, and such Borrowing Base shall remain in effect at such amount until the Borrowing Base is redetermined in accordance with Section 2.02 of the Credit Agreement.
+ 
+(b)           The redetermination of the Borrowing Base pursuant to this Section 3 shall constitute the scheduled redetermination of the Borrowing Base pursuant to Section 2.02 of the Credit Agreement with respect to the Independent Engineering Report delivered on or before April 1, 2013.
+ 
+Section 4.              Amendments to Credit Agreement.
+ 
+(a)           Section 1.01 of the Credit Agreement is hereby amended by adding the following new defined terms:
+ 
+Commodity Exchange Act means the Commodity Exchange Act (7 U.S.C. § 1 et seq.), as amended from time to time, and any successor statute.
+ 
+Excluded Swap Obligations means, with respect to any Obligor other than the Borrower, any Swap Obligations if, and to the extent that, all or a portion of the guarantee of such Obligor of, or the grant by such Obligor of a security interest to secure, such Swap Obligation (or any guarantee thereof) is or becomes illegal under the Commodity Exchange Act or any rule, regulation or order of the Commodity Futures Trading Commission (or the application or official interpretation of any thereof) by virtue of such Obligors failure for any reason to constitute an eligible contract participant as defined in the Commodity Exchange Act and the regulations thereunder at the time the guarantee of such Obligor or the grant of such security interest becomes effective with respect to such Swap Obligation.  If a Swap Obligation arises under a master agreement governing more than one swap, such exclusion shall apply only to the portion of such Swap Obligation that is attributable to swaps for which such guarantee or security interest is or becomes illegal.
+ 
+Qualified ECP Guarantor means, in respect of any Swap Obligation, each Obligor that has total assets exceeding $10,000,000 at the time the relevant Guaranty or grant of the relevant security interest becomes effective with respect to such Swap Obligation or such other Person as constitutes an eligible contract participant under the Commodity Exchange Act or any regulations promulgated thereunder and 
+ 
+2
+
+
+
+
+
+
+ 
+can cause another Person to qualify as an eligible contract participant at such time by entering into a keepwell under Section 1a(18)(A)(v)(II) of the Commodity Exchange Act.
+ 
+Swap Obligation means, with respect to any Guarantor, any obligation to pay or perform under any agreement, contract or transaction that constitutes a swap within the meaning of section 1a(47) of the Commodity Exchange Act.
+ 
+(b)           The definition of Obligations in Section 1.01 of the Credit Agreement is hereby amended by adding the following new sentence to the end thereof:
+ 
+Notwithstanding anything to the contrary contained herein, Obligations shall not include the Excluded Swap Obligations.
+ 
+(c)           Section 7.06 of the Credit Agreement is hereby amended by adding the following new sentence to the end thereof:
+ 
+Excluded Swap Obligations with respect to any Guarantor shall not be paid with amounts received from such Guarantor or its assets, but appropriate adjustments shall be made with respect to payments from other Obligors to preserve the allocation to Obligations otherwise set forth above in this Section.
+ 
+(d)           The Credit Agreement is hereby amended by deleting Section 10.16 in its entirety and replacing it with the following new Section 10.16:
+ 
+Section 10.16       Keepwell.  Each Qualified ECP Guarantor hereby jointly and severally absolutely, unconditionally and irrevocably undertakes to provide such funds or other support as may be needed from time to time by each other Obligor to honor all of its obligations under this Agreement in respect of Swap Obligations (provided, however, that each Qualified ECP Guarantor shall only be liable under this Section 10.16 for the maximum amount of such liability that can be hereby incurred without rendering its obligations under this Section 10.16, or otherwise under this Agreement or any other Loan Document, voidable under applicable law relating to fraudulent conveyance or fraudulent transfer, and not for any greater amount).  The obligations of each Qualified ECP Guarantor under this Section 10.16 shall remain in full force and effect until the termination of all Commitments and payment in full of all Obligations (other than contingent indemnification obligations) and the expiration or termination of all Letters of Credit (other than Letters of Credit as to which other arrangements satisfactory to the Administrative Agent and the Issuing Lender have been made). Each Qualified ECP Guarantor intends that this Section 10.16 constitute, and this Section 10.16 shall be deemed to constitute, a keepwell, support, or other agreement for the benefit of each other Obligor for all purposes of Section 1a(18)(A)(v)(II) of the Commodity Exchange Act.
+ 
+3
+
+
+
+
+
+
+ 
+Section 5.              Amendments to Loan Documents.
+ 
+(a)           The Guaranty Agreement dated as of March 29, 2011 from the Guarantors, in favor of KeyBank National Association (as successor in interest to BNP Paribas) for the ratable benefit of the Beneficiaries (as defined therein) is hereby amended by adding the following new sentence to the end of Section 2(a) thereof:
+ 
+Notwithstanding anything to the contrary contained herein, Guaranteed Obligations shall not include the Excluded Swap Obligations.
+ 
+(b)           The Mortgage, Security Agreement, Financing Statement, Fixture Filing and Assignment of Production dated effective as of March 29, 2011 between Bonanza Creek Energy Upstream LLC, a Delaware limited liability company (BC Upstream), and KeyBank National Association (as successor in interest to BNP Paribas, the Mortgagee), which was duly filed for record in Arkansas, as more particularly described on Schedule 1 attached hereto, is hereby amended by adding the following new sentence to the end of Section 1.11:
+ 
+Notwithstanding anything to the contrary contained herein, Obligations shall not include the Excluded Swap Obligations.
+ 
+(c)           The Mortgage, Security Agreement, Financing Statement, Fixture Filing and Assignment of Production dated effective as of March 29, 2011 and September 15, 2011 between Bonanza Creek Energy Midstream, LLC, a Delaware limited liability company (BC Midstream), and the Mortgagee, which was duly filed for record in Arkansas, as more particularly described on Schedule 1 attached hereto, is hereby amended by adding the following new sentence to the end of Section 1.11:
+ 
+Notwithstanding anything to the contrary contained herein, Obligations shall not include the Excluded Swap Obligations.
+ 
+(d)           The Mortgage, Security Agreement, Financing Statement, Fixture Filing and Assignment of Production dated effective as of March 29, 2011 between Holmes Eastern Company, LLC, a Delaware limited liability company (Holmes), and the Mortgagee, which was duly filed for record in Arkansas, as more particularly described on Schedule 1 attached hereto, is hereby amended by adding the following new sentence to the end of Section 1.11:
+ 
+Notwithstanding anything to the contrary contained herein, Obligations shall not include the Excluded Swap Obligations.
+ 
+(e)           The Mortgage, Security Agreement, Financing Statement, Fixture Filing and Assignment of Production dated effective as of March 29, 2011 between Bonanza Creek Energy Resources, LLC, a Delaware limited liability company (BC Resources), and the Mortgagee, which was duly filed for record in Arkansas, as more particularly described on Schedule 1 attached hereto, is hereby amended by adding the following new sentence to the end of Section 1.11:
+ 
+Notwithstanding anything to the contrary contained herein, Obligations shall not include the Excluded Swap Obligations.
+ 
+4
+
+
+
+
+
+
+ 
+(f)            The Mortgage, Security Agreement, Assignment, Financing Statement and Fixture Filing dated effective as of March 29, 2011 between Bonanza Creek Energy Operating Company, LLC, a Delaware limited liability company (BC Operating), and the Mortgagee, which was duly filed for record in Colorado, as more particularly described on Schedule 1 attached hereto, is hereby amended by adding the following new sentence to the end of Section 1.11:
+ 
+Notwithstanding anything to the contrary contained herein, Obligations shall not include the Excluded Swap Obligations.
+ 
+(g)           The Mortgage, Security Agreement, Assignment, Financing Statement and Fixture Filing dated effective as of March 29, 2011 between Holmes and the Mortgagee, which was duly filed for record in Colorado, as more particularly described on Schedule 1 attached hereto, is hereby amended by adding the following new sentence to the end of Section 1.11:
+ 
+Notwithstanding anything to the contrary contained herein, Obligations shall not include the Excluded Swap Obligations.
+ 
+Section 6.              Waiver and Extension.  The Borrower hereby acknowledges the existence of the Sale Deadline Default.  The Lenders hereby agree, subject to the terms and conditions of this Amendment, to waive the Sale Deadline Default, and agree that the Borrower may, at any time, consummate the Midway Sale, or may, at its election, not consummate the Midway Sale.  The waiver by the Lenders described in this Section 6 is contingent upon the satisfaction of the conditions precedent set forth in Section 8 below.  The waiver by the Lenders described in this Section 6 is expressly limited to the Sale Deadline Default and shall not be construed to be a consent to, or a permanent waiver of any other terms, provisions, covenants, warranties or agreements contained in the Waiver, in the Credit Agreement or in any of the other Loan Documents.  The Lenders reserve the right to exercise any rights and remedies available to them in connection with any other present or future Defaults or Events of Default under any provision of the Credit Agreement or any provision of any other Loan Document.  The description herein of the Sale Deadline Default is based upon the information provided to the Lenders on or prior to the date hereof and shall not be deemed to exclude the existence of any other Defaults or Events of Default.  The failure of the Lenders to give notice to the Borrower of any other Defaults or Events of Default is not intended to be nor shall be a waiver thereof.  Borrower hereby agrees and acknowledges that the Lenders require and will require strict performance by the Borrower of all of its obligations, agreements and covenants contained in the Waiver, the Credit Agreement and the other Loan Documents, and no inaction or action regarding any Default or Event of Default is intended to be or shall be a waiver thereof.
+ 
+Section 7.              Representations and Warranties.  The Borrower and each Guarantor represents and warrants that: (a) after giving effect to this Amendment, the representations and warranties contained in the Credit Agreement and the representations and warranties contained in the other Loan Documents are true and correct in all material respects on and as of the Effective Date as if made on and as of such date, except to the extent that any such representation or warranty expressly relates solely to an earlier date, in which case such representation or warranty is true and correct in all material respects as of such earlier date; (b) after giving effect to this Amendment, no Default has occurred and is continuing; (c) the execution, delivery and performance of this Amendment are within the corporate or limited liability company, as applicable, power and authority 
+ 
+5
+
+
+
+
+
+
+ 
+of such Person and have been duly authorized by appropriate corporate or limited liability company, as applicable, action and proceedings; (d) this Amendment constitutes the legal, valid, and binding obligation of such Person enforceable in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting the rights of creditors generally and general principles of equity; (e) there are no governmental or other third party consents, licenses and approvals required in connection with the execution, delivery, performance, validity and enforceability of this Amendment; (f) the Liens under the Security Instruments are valid and subsisting and secure Borrowers obligations under the Loan Documents; and (g) as to each Guarantor, it has no defenses to the enforcement of its Guaranty.
+ 
+Section 8.              Conditions to Effectiveness.
+ 
+(a)           This Amendment shall become effective on the Effective Date and enforceable against the parties hereto upon the occurrence of the following conditions precedent:
+ 
+(i)            The Administrative Agent shall have received multiple original counterparts, as requested by the Administrative Agent, of this Amendment duly and validly executed and delivered by duly authorized officers of the Borrower, the Guarantors, the Issuing Lender and the Lenders.
+ 
+(ii)           After giving effect to this Amendment, no Default shall have occurred and be continuing as of the Effective Date.
+ 
+(iii)          The representations and warranties in this Amendment shall be true and correct in all material respects.
+ 
+(iv)          The Borrower shall have paid (i) to the Administrative Agent a fee equal to $17,500 (which is .35% of the $5,000,000 increase in the Borrowing Base) (the Upfront Fee), and (ii) all costs and expenses which have been invoiced and are payable pursuant to Section 10.04 of the Credit Agreement.  The Administrative Agent shall allocate the Upfront Fee for the account of the Lenders on a pro  rata basis in accordance with the allocated Borrowing Base as of the Effective Date.
+ 
+(v)           The Administrative Agent shall have received multiple original counterparts, as requested by the Administrative Agent, of amendments to the Mortgages in a form satisfactory to the Administrative Agent duly and validly executed and delivered by duly authorized officers of the applicable Obligor and the Administrative Agent.
+ 
+Section 9.              Acknowledgments and Agreements.
+ 
+(a)           The Borrower acknowledges that on the date hereof all Obligations are payable without defense, offset, counterclaim or recoupment.
+ 
+(b)           The Administrative Agent, the Issuing Lender and the Lenders hereby expressly reserve all of their rights, remedies, and claims under the Loan Documents.  Nothing in this Amendment shall constitute a waiver or relinquishment of (i) except as specified in Section 6 hereof, 
+ 
+6
+
+
+
+
+
+
+ 
+(1) any Default or Event of Default under any of the Loan Documents, (2) any of the agreements, terms or conditions contained in any of the Loan Documents, or (3) any rights or remedies of the Administrative Agent, the Issuing Lender or any Lender with respect to the Loan Documents, or (ii) the rights of the Administrative Agent, the Issuing Lender or any Lender to collect the full amounts owing to them under the Loan Documents.
+ 
+(c)           Each of the Borrower, the Administrative Agent, the Issuing Lender and the Lenders does hereby adopt, ratify, and confirm the Credit Agreement, as amended and otherwise modified hereby, and acknowledges and agrees that the Credit Agreement, as amended and otherwise modified hereby, is and remains in full force and effect, and the Borrower acknowledges and agrees that its liabilities and obligations under the Credit Agreement, as amended and otherwise modified hereby, are not impaired in any respect by this Amendment.
+ 
+(d)           From and after the Effective Date, all references to the Credit Agreement and the Loan Documents shall mean such Credit Agreement and such Loan Documents as amended and otherwise modified by this Amendment.
+ 
+(e)           This Amendment is a Loan Document for the purposes of the provisions of the other Loan Documents.  Without limiting the foregoing, any breach of representations, warranties, and covenants under this Amendment shall be a Default or Event of Default, as applicable, under the Credit Agreement.
+ 
+Section 10.            Reaffirmation of Guaranty.  Each Guarantor hereby ratifies, confirms, acknowledges and agrees that its obligations under its Guaranty, as amended and otherwise modified hereby, are in full force and effect and that such Guarantor continues to unconditionally and irrevocably guarantee the full and punctual payment, when due, whether at stated maturity or earlier by acceleration or otherwise, of all of the Obligations, as such Obligations may have been amended by this Amendment, and its execution and delivery of this Amendment does not indicate or establish an approval or consent requirement by the Guarantor in connection with the execution and delivery of amendments, consents or waivers to the Credit Agreement or any of the other Loan Documents.
+ 
+Section 11.            Counterparts.  This Amendment may be signed in any number of counterparts, each of which shall be an original and all of which, taken together, constitute a single instrument.  This Amendment may be executed by facsimile signature or signature delivered by other electronic means and all such signatures shall be effective as originals.
+ 
+Section 12.            Successors and Assigns.  This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted pursuant to the Credit Agreement.
+ 
+Section 13.            Invalidity.  In the event that any one or more of the provisions contained in this Amendment shall for any reason be held invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect any other provision of this Amendment.
+ 
+Section 14.            Governing Law.  This Amendment shall be deemed to be a contract made under and shall be governed by and construed in accordance with the laws of the State of Texas.
+ 
+7
+
+
+
+
+
+
+ 
+Section 15.            RELEASE.  THE BORROWER ACKNOWLEDGES THAT ON THE DATE HEREOF ALL OBLIGATIONS ARE PAYABLE WITHOUT DEFENSE, OFFSET, COUNTERCLAIM OR RECOUPMENT.  IN ADDITION, EACH OF THE BORROWER, THE GUARANTORS AND EACH OF THEIR RESPECTIVE SUBSIDIARIES (FOR THEMSELVES AND THEIR RESPECTIVE SUCCESSORS, AGENTS, ASSIGNS, TRANSFEREES, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, ATTORNEYS AND AGENTS) HEREBY RELEASES ANY AND ALL CLAIMS, CAUSES OF ACTION OR OTHER DISPUTES IT MAY HAVE AGAINST THE ADMINISTRATIVE AGENT, THE ISSUING LENDER, ANY OF THE LENDERS, LEGAL COUNSEL TO THE ADMINISTRATIVE AGENT, THE ISSUING LENDER OR ANY OF THE LENDERS, CONSULTANTS HIRED BY ANY OF THE FOREGOING, OR ANY OF THEIR RESPECTIVE AFFILIATES, SUBSIDIARIES, SHAREHOLDERS, AGENTS, DIRECTORS, OFFICERS, EMPLOYEES, REPRESENTATIVES, SUCCESSORS OR ASSIGNS OF ANY KIND OR NATURE ARISING OUT OF, RELATED TO, OR IN ANY WAY CONNECTED WITH, THE CREDIT AGREEMENT OR THE LOAN DOCUMENTS, IN EACH CASE WHICH MAY HAVE ARISEN ON OR BEFORE THE DATE OF THIS AMENDMENT.  EACH OF THE BORROWER, THE GUARANTORS AND THEIR RESPECTIVE SUBSIDIARIES HEREBY ACKNOWLEDGES THAT IT HAS READ THIS AMENDMENT AND HAS CONFERRED WITH ITS COUNSEL AND ADVISORS REGARDING ITS CONTENT, INCLUDING THIS SECTION 15, AND IS FREELY AND VOLUNTARILY ENTERING INTO THIS AMENDMENT, AND HEREBY AGREES TO WAIVE ANY CLAIM THAT THE TERMS OF THIS AMENDMENT (INCLUDING, WITHOUT LIMITATION, THE RELEASES CONTAINED HEREIN) ARE INVALID OR OTHERWISE UNENFORCEABLE.
+ 
+Section 16.            Entire Agreement.  THIS AMENDMENT, THE CREDIT AGREEMENT AS AMENDED BY THIS AMENDMENT, THE NOTES, AND THE OTHER LOAN DOCUMENTS CONSTITUTE THE ENTIRE UNDERSTANDING AMONG THE PARTIES HERETO WITH RESPECT TO THE SUBJECT MATTER HEREOF AND SUPERSEDE ANY PRIOR AGREEMENTS, WRITTEN OR ORAL, WITH RESPECT THERETO.
+ 
+THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+ 
+[signature pages follow]
+ 
+8
+
+
+
+
+
+
+ 
+EXECUTED effective as of the date first above written.
+ 
+ 
+
+
+
+BORROWER:    
+
+BONANZA   CREEK ENERGY, INC.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Christopher I. Humber       
+
+
+     
+
+Name:    
+
+Christopher   I. Humber       
+
+
+     
+
+Title:    
+
+Senior   Vice President & General Counsel       
+
+
+     
+
+     
+
+        
+
+
+GUARANTORS:    
+
+     
+
+        
+
+
+     
+
+BONANZA   CREEK ENERGY OPERATING COMPANY, LLC       
+
+
+     
+
+By:   Bonanza Creek Energy, Inc., its Manager       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Christopher I. Humber       
+
+
+     
+
+Name:    
+
+Christopher   I. Humber       
+
+
+     
+
+Title:    
+
+Senior   Vice President & General Counsel       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+BONANZA   CREEK ENERGY RESOURCES,       
+
+
+     
+
+LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Christopher I. Humber       
+
+
+     
+
+Name:    
+
+Christopher   I. Humber       
+
+
+     
+
+Title:    
+
+Senior   Vice President & General Counsel       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+BONANZA   CREEK ENERGY MIDSTREAM,       
+
+
+     
+
+LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Christopher I. Humber       
+
+
+     
+
+Name:    
+
+Christopher   I. Humber       
+
+
+     
+
+Title:    
+
+Senior   Vice President & General Counsel       
+
+
+
+
+    
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BONANZA   CREEK ENERGY UPSTREAM       
+
+
+     
+
+LLC       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Christopher I. Humber       
+
+
+     
+
+Name:    
+
+Christopher   I. Humber       
+
+
+     
+
+Title:    
+
+Senior   Vice President & General Counsel       
+
+
+     
+
+        
+
+
+     
+
+HOLMES   EASTERN COMPANY, LLC       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Christopher I. Humber       
+
+
+     
+
+Name:    
+
+Christopher   I. Humber       
+
+
+     
+
+Title:    
+
+Senior   Vice President & General Counsel       
+
+
+
+
+    
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ADMINISTRATIVE AGENT/    
+
+        
+
+
+ISSUING LENDER/LENDER:    
+
+KEYBANK   NATIONAL ASSOCIATION,    as Administrative Agent, Issuing Lender, and   a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Chulley Bogle       
+
+
+     
+
+Name:    
+
+Chulley   Bogle       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+COMPASS   BANK, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   James Neblett       
+
+
+     
+
+Name:    
+
+James   Neblett       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+SOCIÉTÉ   GÉNÉRALE, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Elena Robciuc       
+
+
+     
+
+Name:    
+
+Elena   Robciuc       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+BMO   HARRIS FINANCING, INC., as a   Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Gumaro Tijerina       
+
+
+     
+
+Name:    
+
+Gumaro   Tijerina       
+
+
+     
+
+Title:    
+
+Director         
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+WELLS   FARGO BANK. N.A., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Suzanne Ridenhour       
+
+
+     
+
+Name:    
+
+Suzanne   Ridenhour       
+
+
+     
+
+Title:    
+
+Director         
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+JPMORGAN   CHASE BANK, N.A., as a   Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   David Morris       
+
+
+     
+
+Name:    
+
+David   Morris       
+
+
+     
+
+Title:    
+
+Authorized   Officer         
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+ROYAL   BANK OF CANADA, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Mark Lumpkin, Jr.       
+
+
+     
+
+Name:    
+
+Mark   Lumpkin, Jr.       
+
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+CADENCE   BANK, N.A., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Eric Broussard       
+
+
+     
+
+Name:    
+
+Eric   Broussard       
+
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+IBERIABANK,   as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Cameron D. Jones       
+
+
+     
+
+Name:    
+
+Cameron   D. Jones       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+THE   BANK OF NOVA SCOTIA, as a   Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Terry Donovan       
+
+
+     
+
+Name:    
+
+Terry   Donovan       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page to Amendment No. 7
+Bonanza Creek Energy, Inc.
+ 
+
+
+
+
+
+
+ 
+SCHEDULE 1
+ 
+Mortgage, Security Agreement, Financing Statement, Fixture Filing and Assignment of Production dated as of March 29, 2011, between BC Upstream and Mortgagee, duly filed for record on the following dates, under the following file numbers and in the following counties:
+ 
+
+
+
+Jurisdiction    
+
+     
+
+File Date    
+
+     
+
+Document No./Book & Page.       
+
+
+Columbia   County, Arkansas    
+
+     
+
+4/12/2011    
+
+     
+
+Book   347, Page 243       
+
+
+Lafayette   County, Arkansas    
+
+     
+
+3/31/2011    
+
+     
+
+Disc   2011, Page OG-615       
+
+
+Lafayette   County, Arkansas    
+
+     
+
+4/1/2011    
+
+     
+
+Disc   2011, M-1120         
+ 
+Mortgage, Security Agreement, Financing Statement, Fixture Filing and Assignment of Production dated as of March 29, 2011 and September 15, 2011, between BC Midstream and Mortgagee, duly filed for record on the following dates, under the following file numbers and in the following counties:
+ 
+
+
+
+Jurisdiction    
+
+     
+
+File Date    
+
+     
+
+Document No./Book & Page.       
+
+
+Columbia   County, Arkansas    
+
+     
+
+4/12/2011    
+
+     
+
+Book   347, Page 245       
+
+
+Lafayette   County, Arkansas    
+
+     
+
+3/31/2011    
+
+     
+
+Disc   2011, OG-523       
+
+
+Lafayette   County, Arkansas    
+
+     
+
+4/1/2011    
+
+     
+
+Disc   2011, M-1028       
+
+
+Columbia   County, Arkansas    
+
+     
+
+2/7/2012    
+
+     
+
+Book   348, Page 200         
+ 
+Mortgage, Security Agreement, Financing Statement, Fixture Filing and Assignment of Production dated as of March 29, 2011, between Holmes and Mortgagee, duly filed for record on the following dates, under the following file numbers and in the following counties:
+ 
+
+
+
+Jurisdiction    
+
+     
+
+File Date    
+
+     
+
+Document No./Book & Page.       
+
+
+Columbia   County, Arkansas    
+
+     
+
+4/12/2011    
+
+     
+
+Book   347, Page 244         
+ 
+Mortgage, Security Agreement, Financing Statement, Fixture Filing and Assignment of Production dated as of March 29, 2011, between BC Resources and Mortgagee, duly filed for record on the following dates, under the following file numbers and in the following counties:
+ 
+
+
+
+Jurisdiction    
+
+     
+
+File Date    
+
+     
+
+Document No./Book & Page.       
+
+
+Union   County, Arkansas    
+
+     
+
+4/4/2011    
+
+     
+
+Document   2011R003118         
+ 
+Mortgage, Security Agreement, Assignment, Financing Statement and Fixture Filing dated as of March 29, 2011, between BC Operating and Mortgagee, duly filed for record on the following dates, under the following file numbers and in the following counties:
+ 
+
+
+
+Jurisdiction    
+
+     
+
+File Date    
+
+     
+
+Document No./Book & Page.       
+
+
+Jackson   County, Colorado    
+
+     
+
+4/1/2011    
+
+     
+
+Document   Number 94188, Book 186, Page 297       
+
+
+Weld   County, Colorado    
+
+     
+
+4/6/2011    
+
+     
+
+Document   Number 3760651         
+ 
+Mortgage, Security Agreement, Assignment, Financing Statement and Fixture Filing dated as of March 29, 2011, between Holmes and Mortgagee, duly filed for record on the following dates, under the following file numbers and in the following counties:
+ 
+
+
+
+Jurisdiction    
+
+     
+
+File Date    
+
+     
+
+Document No./Book & Page.       
+
+
+Weld   County, Colorado    
+
+     
+
+4/6/2011    
+
+     
+
+Document   Number 3760652         
+ 
+
+
+
+
+
+
+

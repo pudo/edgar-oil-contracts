@@ -1,0 +1,564 @@
+
+EX-10.24.1
+2
+ex10-241.htm
+
+
+
+     
+
+
+
+ 
+
+Exhibit
+10.24.1 
+
+ 
+
+Reserve
+Report of Pinnacle Energy Services, LLC
+
+ 
+
+ 
+
+ 
+
+March
+12, 2013
+
+ 
+
+Osage
+Exploration & Development
+
+100
+Park Ave, Suite 1040
+
+Oklahoma
+City, OK 73102
+
+Attn:
+Mr. Greg Franklin
+
+ 
+
+
+
+    RE:
+    
+    Reserves
+    & Economic Evaluation
+
+     
+    Osage
+    Exploration & Development
+
+     
+    YE
+    2012 - SEC Pricing
+
+ 
+
+Executive
+Summary
+
+ 
+
+A
+reserves and economic evaluation has been performed on oil and gas assets of Osage Exploration and Development ('"Osage")
+as of January 1, 2013. Well names, owned and projected interests, and other well information are provided in the
+attached Exhibit A. Information used in the evaluation was provided by Osage and supplemented by data gathered from public sources.
+Summary results of this analysis are located below and details are presented in accompanying exhibits.
+
+ 
+
+This
+evaluation was performed using SEC standards and 2012 SEC Pricing, and includes five (5) Proved Developed Producing (PDP) properties,
+three (3) Proved Developed NonProducing (PDNP) properties, nine (9) Proved Undeveloped (PUD) locations, ten (10) Probable Injection
+(SWD) locations, two hundred forty-one (241) Probable Undeveloped (PRB) locations, and one hundred twenty-nine (129) Possible
+Undeveloped (POSS) locations.
+
+ 
+
+As
+presented in the accompanying summary projections, the net reserves and future net cash flows as of January 1, 2013 are as follows
+(Volumes in MBBLs and MMcf, Values in M$):
+
+ 
+
+
+
+      
+    #  
+    Gross Rem'g Rsvs  
+    Net Rem’g Rsvs  
+    Net  
+    Net  
+    NPV 
+
+    Osage 
+    Props  
+    Oil  
+    Gas  
+    Oil  
+    Gas  
+    Capital  
+    Cashflow  
+    Disc @ 10% 
+
+    PDP 
+     5  
+     704  
+     2,853  
+     124  
+     510  
+     0  
+     10,430  
+     6,457 
+
+    PDNP 
+     3  
+     499  
+     2,068  
+     71  
+     293  
+     359  
+     5,807  
+     3,619 
+
+    PUD 
+     9  
+     1,485  
+     6,104  
+     169  
+     696  
+     4,605  
+     10,366  
+     4,743 
+
+    Total Proved 
+     17  
+     2,688  
+     11,025  
+     364  
+     1,499  
+     4,964  
+     26,603  
+     14,819 
+
+    SWD 
+     10  
+     0  
+     0  
+     0  
+     0  
+     2,118  
+     -2,118  
+     -1,959 
+
+    PRB 
+     241  
+     39,765  
+     163,444  
+     2,824  
+     11,609  
+     76,810  
+     172,933  
+     60,647 
+
+    POSS 
+     129  
+     21,285  
+     87,486  
+     1,591  
+     6,541  
+     43,279  
+     97,447  
+     29,395 
+
+    Total Non-Proved 
+     380  
+     61,050  
+     250,930  
+     4,415  
+     18,150  
+     122,207  
+     268,262  
+     88,083 
+
+    Grand Total 
+     397  
+     63,738  
+     261,955  
+     4,779  
+     19,649  
+     127,171  
+     294,865  
+     102,902 
+
+
+ 
+
+Pinnacle
+Energy Services, LLC
+
+9420
+Cedar Lake Ave. Oklahoma City, OK 73114
+
+Ofc:
+405-810-9151 Fax:
+405-843-4700           www.PinnacleEnergy.com
+
+  
+
+
+
+     
+     
+    
+
+ 
+
+Pricing
+
+ 
+
+Per
+SEC rules as of January 1, 2010, the SEC pricing is calculated by averaging the first-of-the-month oil and gas pricing for the
+calendar year being evaluated. For 2012, the average oil and gas NYMEX Price is 94.71 $/BBl for oil (WTI Spot) and 2.757 $/MMBTU
+for natural gas (Henry Hub). Both prices were held constant.
+
+ 
+
+Based
+on an evaluation of actual prices received by Osage, differentials to the SEC NYMEX prices were applied. The calculated oil price
+differential was -$0.14/BBL. In order to account for the NGL value, the NGL revenue was added to the gas revenue and divided by
+the gas sales volume to get an equivalent gas price. This equivalent gas price was then compared to Henry Hub NYMEX gas price.
+The average price differential for this equivalent gas price was +60.4%.
+
+ 
+
+Interests
+
+ 
+
+Interest
+information was provided by Osage for each property and undeveloped location, indicating working and net revenue interests. These
+interests are shown in the attached Exhibit A.
+
+ 
+
+Taxes
+
+ 
+
+As
+provided by statute, the severance tax for all horizontal wells is 1% for the first 48 months of production, and 7.095% thereafter.
+
+ 
+
+Expenses
+
+ 
+
+Operating
+expenses were estimated to be $4000/well per month plus $4.00/barrel of oil produced plus $.10/barrel of water produced. These
+expenses were based on experience in other Mississippian horizontal development projects and compared to the limited LOE information
+provided by Osage.
+
+ 
+
+Capital
+expenditures were provided by Osage. These costs were based on current actual area drilling and completion costs. These costs
+were reviewed and are considered reasonable for the work projected.
+
+ 
+
+Property
+Descriptions and Reserve Estimates
+
+ 
+
+All
+properties are horizontal Mississippian wells except the McPhail 1-19H, which is a horizontal Woodford completion.
+
+ 
+
+Five
+wells were on production as of December 31, 2012. Remaining reserves for these properties were determined by decline curve analysis.
+Production plots for each well showing historical production and forecasts are included in the attachments.
+
+ 
+
+Two
+wells, McPhail 1-19H and McPhail 2-18H, were drilled and completed but not yet on production as of year-end 2012. Also, the Chambers
+1-5H had been drilled but not yet completed. These three wells were classified as Proved Developed Non-Producing.
+
+ 
+
+Pinnacle
+Energy Services, LLC
+
+9420
+Cedar Lake Ave. Oklahoma City, OK 73114
+
+Ofc:
+405-810-9151 Fax:
+405-843-4700           www.PinnacleEnergy.com
+
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Nine
+Proved Undeveloped (PUD) locations were identified. These PUDs are all direct east or west offsets to currently producing Mississippian
+horizontal wells.
+
+ 
+
+Gross
+reserves for all non-producing properties (PDNP, PUD, PRB, and POSS) were estimated to be 165 MBO and 678 MMCF per well. This
+was the average of the current PDP wells, and also compares favorably to estimates by other operators in the play. Type-well economics
+and production plot are included in the attachments.
+
+ 
+
+Future
+Development and Timing
+
+ 
+
+The
+acreage map dated February 13, 2013 provided by Osage showed that Osage had an interest in 129 sections. The drilling schedule
+dated February 8, 2013 provided by Osage showed that Slawson Exploration would be the operator of 70 sections, leaving 59 sections
+being operated by other companies.
+
+ 
+
+The
+first two wells in each section were considered Probable (PRB) taking into account the wells already in the proved categories
+above. A third well in each section was considered Possible (POSS).
+
+ 
+
+The
+drilling schedule provided by Osage listed specific locations and proposed spud dates through February 2015. These specifics were
+used in the evaluation with either the well name or location as the case name. The remaining additional Slawson-operated wells
+were timed as if the two rigs continued drilling wells at 30-day intervals after February 2015. These cases are named OP RIG x
+{Well#x}.
+
+ 
+
+One
+non-operated rig was assumed to begin in March 2013 with a second non-operated rig beginning in January 2014. These cases are
+named NON-OP RIG x {Well #x}.
+
+ 
+
+It
+was also assumed that 10 SWD wells would be drilled in 2013 and 2014 to handle the produced water.
+
+ 
+
+Reserves
+
+ 
+
+Remaining
+recoverable reserves are those quantities of petroleum that are anticipated to be commercially recovered from known accumulations
+from a given date forward. All reserve estimates involve some degree of uncertainty depending primarily on the amount of reliable
+geologic and engineering data available at the time of the estimate and the interpretation of these data. The relative degree
+of uncertainty is conveyed by classifying reserves as Proved (highly certain) or Non-Proved (less certain). The estimated reserves
+and revenues shown in this report were determined for Proved Developed Producing (PDP), Proved Developed Non-Producing (PDNP),
+and Proven Undeveloped (PUD) reserve categories, as well as Probable (Prob) and Possible (Poss) Non-Proven reserve categories.
+
+ 
+
+By
+definition, PDP generally refers to existing producing properties, while PDNP refers to the additional reserves from behind pipe
+(BP) intervals, activities to increase production or reserves from existing completions, or wells which have been tested and are
+awaiting sales. PUD refers to development drilling locations with definable reserves using offset well and reservoir parameters.
+For PNP and PUD, the activity or targeted zones must known to produce commercial hydrocarbons in quantifiable volumes and rates
+and reserves can be reasonably accurately estimated based on analogies and available geological and engineering information.
+
+ 
+
+Pinnacle
+Energy Services, LLC
+
+9420
+Cedar Lake Ave. Oklahoma City, OK 73114
+
+Ofc:
+405-810-9151 Fax:
+405-843-4700           www.PinnacleEnergy.com
+
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Non-Proven
+Probable and Possible reserves appear to have engineering and geologic merit and have been determined to have over 50% (Probable)
+or less than 50% (Possible) likelihood to be commercially productive, but lack some aspect by definition to be considered proven,
+such as proximity to commercial production, production methods not proven for a certain geological or production application,
+or other geological or engineering deficiency.
+
+ 
+
+Accuracy
+of production forecasts generally depends on the amount of historical data production and pressure available and the majority
+the producing wells reviewed in this evaluation had sufficient historical data to forecast future production with confidence.
+Those with limited production or pressure data history were forecasted by reviewing analogy well and test data and applying this
+knowledge to the available well information.
+
+ 
+
+Future
+Cashflow
+
+ 
+
+Future
+cash flow being reported is after deducting state production taxes and ad valorem taxes, but prior to deducting federal income
+taxes. The future net cash flow has been discounted at an annual rate of 10 percent to determine its present worth. The present
+worth is shown to indicate the effect of time on the value of money and should not be construed as being the fair market value
+of the properties.
+
+ 
+
+General
+
+ 
+
+The
+reserves and values included in this report are estimates only and should not be construed as being exact quantities. The reserve
+estimates were arrived at by using accepted engineering practices and were primarily based on historical rate decline analysis
+for existing producers. As additional pressure and production performance data becomes available, reserve estimates may increase
+or decrease in the future. The revenue from such reserves and the actual costs related may be more or less than the estimated
+amounts. Because of governmental policies and uncertainties of supply and demand, the prices actually received for the reserves
+included in this report and the costs incurred in recovering such reserves may vary from the price and cost assumptions referenced.
+Therefore, in all cases, estimates of reserves may increase or decrease as a result of future operations.
+
+ 
+
+In
+evaluating the information available for this analysis, items excluded from consideration were all matters as to which legal or
+accounting, rather than engineering interpretation, may be controlling. As in all aspects of oil and gas evaluation, there are
+uncertainties inherent in the interpretation of engineering data and such conclusions necessarily represent only informed professional
+judgments. The titles to the properties have not been examined nor has the actual degree or type of interest owned been independently
+confirmed. A field inspection of the properties is not usually considered necessary for the purpose of this report.
+
+ 
+
+Pinnacle
+Energy Services, LLC
+
+9420
+Cedar Lake Ave. Oklahoma City, OK 73114
+
+Ofc:
+405-810-9151 Fax:
+405-843-4700           www.PinnacleEnergy.com
+
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Information
+included in this report includes the graphical decline curves for individual wells, projected production and cash flow economic
+results, one-line economic result summaries for each well, and miscellaneous individual well information. Additional information
+reviewed will be retained and is available for review at any time. Pinnacle Energy Services, L.L.C. can take no responsibility
+for the accuracy of the data used in the analysis, whether gathered from public sources or otherwise.
+
+ 
+
+Pinnacle
+Energy Services, LLC
+
+ 
+
+
+
+    /s/
+    Richard J. Morrow
+     
+
+Richard
+J. Morrow, P.E.
+
+Petroleum Engineer
+
+ 
+
+
+
+    Disclaimer:
+    Pinnacle Energy Services, L.L.C. nor any of its subsidiaries, affiliates, officers, directors, shareholders, employees, consultants,
+    advisors, agents, or representatives make any representation or warranty, express or implied, in connection with any of the
+    information made available herein, including, but not limited to, the past, present or future value of the anticipated reserves,
+    cash flows, income, costs, expense, liabilities and profits, if any, to be derived from the properties described herein. All
+    statements, estimates, projections and implications as to future operations are based upon best judgments of Pinnacle Energy
+    Services; however, there is no assurance that such statements, estimates, projections or implications will prove to be accurate.
+    Accordingly, any company, or other party receiving such information will rely solely upon its own independent examination
+    and assessment of said information. Neither Pinnacle Energy Services nor any of its subsidiaries, affiliates, officers, directors,
+    shareholders, employees, consultants, advisors, agents, or representatives shall have any liability to any party receiving
+    the information herein, nor to any affiliate, partner, member, officer, director, shareholder, employee, consultant, advisor,
+    agent or representative of such party from any use of such information. The property description and other information attached
+    hereto are for the sole, confidential use of the person to whom this copy has been made available. It may not be disseminated
+    or reproduced in any matter whatsoever, whether in full or in part, without the prior written consent of Pinnacle Energy Services,
+    L.L.C. This evaluation and all descriptions and other information attached hereto are for information purposes only and do
+    not constitute an evaluation of or offer to sell or a solicitation of an offer to buy any securities.
+
+ 
+
+Pinnacle
+Energy Services, LLC
+
+9420
+Cedar Lake Ave. Oklahoma City, OK 73114
+
+Ofc:
+405-810-9151 Fax:
+405-843-4700           www.PinnacleEnergy.com
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+
+
+
+
+

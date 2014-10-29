@@ -1,0 +1,707 @@
+
+EX-10.14
+3
+h69023exv10w14.htm
+EX-10.14
+
+
+
+exv10w14
+
+
+
+
+
+
+
+Exhibit 10.14
+
+
+
+Base Contract for Sale and Purchase of Natural Gas
+
+
+This Base
+Contract is entered into as of the following date: April 17, 2008. The parties to
+this Base Contract are the following:
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+
+
+JPMORGAN
+CHASE BANK, NATIONAL ASSOCIATION, a
+    and
+
+ULTRA
+RESOURCES, INC
+
+
+
+national banking association
+organized under the laws of theUnited State of America
+     
+
+363
+N. Sam Houston Parkway E., Suite 1200Houston, Texas 77060
+
+
+
+Duns
+Number:
+006981931
+     
+
+Duns
+Number:
+07-114-9974
+
+
+    Contract Number:
+     
+    Contract Number:
+
+
+    U.S. Federal Tax ID
+Number:
+13-4994650
+     
+    U.S. Federal Tax ID
+Number:
+83-0320643
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+    Notices:
+     
+    Notices, Confirmations Invoices and Payments:
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+
+245 Park Ave., 11th Floor, New York, NY, 10167
+     
+
+363 N. Sam Houston Parkway E., Suite 1200
+
+
+    Attn: Energy Legal Department
+     
+    Attn: Gas Marketing
+
+
+    Phone: 
+
+     
+    Fax: (646) 534-6393
+
+     
+    Phone:
+281.876.0120
+
+     
+    Fax:
+281.876.2831
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+    Confirmations:
+     
+     
+     
+     
+
+
+
+One
+Chase Manhattan Plaza, Floor 14, New York, NY 10081
+
+     
+ 
+
+
+    Attn:
+Commodity Operations
+     
+    Attn:
+
+
+
+
+Phone:
+(212) 552-1500
+
+     
+    Fax: (212) 383-6600
+     
+Phone:
+
+
+     
+    Fax: 
+
+
+    Email:
+NA.Energy.Confirmations@jpmorgan.com
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+    Scheduling:
+     
+     
+     
+     
+
+
+
+Attn:
+Gas Scheduling
+     
+     
+     
+     
+
+
+
+Phone:
+(212) 834-5050
+
+     
+    Fax: (212) 834-6367
+     
+     
+     
+     
+
+
+
+Email: NA.Energy.Confirmations@jpmorgan.com
+
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+    Invoices and Payments:
+     
+     
+
+
+
+Attn: Energy Settlements
+     
+    Attn:  
+
+
+
+Email:
+Na.Energy.Settlements@jpmchase.com
+     
+ 
+
+
+
+Phone:
+(212) 552-1600
+
+     
+    Fax: (212) 383-6614
+     
+Phone:
+
+
+     
+    Fax: 
+
+
+     
+     
+     
+     
+     
+     
+     
+
+
+    Wire Transfer or ACH Numbers (if applicable):
+     
+     
+
+
+
+BANK: JPMorgan Chase Bank
+     
+    BANK: JP Morgan Chase
+Bank, NA
+
+
+    ABA: 021 0000 21
+     
+    ABA: 102001017
+
+
+    ACCT: 900 9 000267
+     
+    ACCT: 192 648 101
+
+
+    Other Details: Please
+include North America  Gas Trading
+     
+    Other Details: For the
+Account of Ultra Resources,
+Inc.
+
+
+    
+on all payments
+     
+     
+
+
+
+
+This Base Contract incorporates by reference for all purposes the General Terms and Conditions for
+Sale and Purchase of Natural Gas published by the North American Energy Standards Board. The
+parties hereby agree to the following provisions offered in said General Terms and Conditions. In
+the event the parties fail to check a box, the specified default
+provision shall apply. Select
+only one box from each section:
+
+
+
+
+
+
+     
+
+     
+     
+     
+
+     
+     
+
+     
+     
+     
+
+     
+
+
+
+
+     
+     
+     
+     
+     
+     
+
+
+     
+    Section 1.2
+Transaction 
+Procedure
+
+    þo
+
+
+
+    Oral (default) Written
+
+     
+     
+    Section 7.2
+Payment Date
+
+
+þo
+    25th Day of Month following Month of delivery (default) 
+_____ Day of Month following Month of delivery
+     
+
+
+     
+     
+     
+     
+     
+     
+
+
+     
+    Section 2.5
+Confirm 
+Deadline
+
+    þo
+
+    2 Business Days after receipt (default)
+_____ Business Days after receipt
+
+     
+     
+    Section 7.2
+Method of 
+Payment
+
+    þoo
+
+    Wire transfer (default) 
+Automated Clearinghouse
+Credit (ACH)Check
+     
+
+
+     
+     
+     
+     
+     
+     
+
+
+     
+    Section 2.6
+Confirming 
+Party
+
+    þo
+    Seller (default)
+Buyer
+
+     
+     
+    Section 7.7
+Netting
+
+    þo
+    Netting applies (default)
+Netting does not apply
+     
+
+
+     
+     
+     
+     
+     
+     
+
+
+     
+    Section 3.2
+Performance
+Obligation
+
+    þo
+    Cover Standard (default) Spot Price Standard
+
+     
+     
+    Section 10.3.1
+Early Termination 
+Damages
+
+    þo
+    Early Termination Damages Apply (default)
+Early Termination Damages Do Not Apply
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+     
+    Note: The following Spot Price Publication applies to both of
+the immediately preceding.
+     
+     
+    Section 10.3.2
+Other Agreement 
+Setoffs
+    þo
+    Other Agreement Setoffs Apply (default)
+Other Agreement Setoffs Do Not Apply
+     
+
+
+     
+     
+     
+     
+     
+     
+
+
+     
+    Section 2.26
+Spot Price 
+Publication
+
+    þo
+    Gas Daily Midpoint (default) 
+
+     
+     
+    Section 14.5
+Choice Of Law
+
+     
+    Texas
+     
+
+
+     
+     
+     
+     
+     
+     
+
+
+     
+    Section 6
+Taxes
+
+    þo
+    Buyer Pays At and After Delivery Point
+(default)Seller Pays Before and At
+Delivery Point
+
+     
+     
+    Section 14.10
+Confidentiality
+
+    þo
+    Confidentiality applies (default)
+Confidentiality does not apply
+     
+
+
+     
+     
+     
+     
+     
+     
+
+
+     
+
+o  Special
+Provisions Number of sheets attached: NONE
+     
+
+
+     
+
+o  Addendum(s):
+     
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+     
+     
+     
+     
+     
+     
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Base Contract in duplicate.
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+    JPMORGAN CHASE BANK, N.A.
+ 
+     
+    ULTRA RESOURCES, INC. 
+     
+
+
+ 
+
+    By:  
+
+/s/
+Karen Gossett
+ 
+     
+    By:  
+
+/s/
+Stuart E. Nance 
+     
+
+
+
+
+     
+    Name:  
+    Karen Gossett 
+     
+     
+    Name:  
+    Stuart E. Nance 
+     
+
+
+     
+    Title:  
+    Vice President 
+     
+     
+    Title:  
+    Vice President 
+     
+
+
+     
+     
+     
+     
+     
+     
+    May 1, 2008 
+     
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+     
+     
+     
+
+
+     
+
+
+    Copyright © 2002 North
+American Energy Standards Board, Inc. 
+All Rights Reserved
+
+     
+    NAESB Standard 6.3.1
+April 19, 2002
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

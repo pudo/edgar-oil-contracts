@@ -1,0 +1,582 @@
+
+EX-10.11
+4
+f10k073112_ex10z11.htm
+EXHIBIT 10.11 LOAN AGREEMENT MARILYN JEAN MEDIA
+
+
+
+
+Exhibit 10.11 Loan Agreement Marilyn Jean Media
+
+
+
+
+Exhibit 10.11
+
+LOAN AGREEMENT
+ 
+THIS LOAN AGREEMENT is dated for reference the 1st day of October, 2012.
+ 
+BETWEEN:
+ 
+FUTURE ENERGY, CORP., having an address at 840 23rd Street, St. Georges, Quebec G5Y 4N6 Canada
+
+(the Lender)
+ 
+AND:
+ 
+MARILYNJEAN MEDIA INC., having an address at #104 - 12877 - 76th Ave, Surrey, B.C, V3W 1E6 Canada
+
+(the Borrower)
+ 
+WHEREAS:
+ 
+A. The Borrower has applied to the Lender for a loan in the aggregate principal amount of US$50,000.00 (the Loan), as of the date of this Agreement, to be utilized by the Borrower for its general corporate and working capital expenses; and
+ 
+B. The parties wish to provide for the terms and conditions upon which the Loan shall be made available by the Lender to the Borrower.
+ 
+NOW THEREFORE THIS AGREEMENT WITNESSES that for and in consideration of the terms and conditions set out herein and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
+ 
+
+1.  
+DEFINITIONS; INTERPRETATION
+
+
+ 
+1.1 For the purpose of this Agreement, the following words and phrases will have the meanings set forth below unless the parties or the context otherwise require(s):
+ 
+
+(a)
+Agreement and this Agreement means this loan agreement and all schedules hereto as the same may be amended, modified, replaced or restated from time to time;
+
+(b)
+Authorization means, with respect to any Person, any order, permit, approval, consent, waiver, clearance, licence or similar authorization of any Governmental Entity having jurisdiction over the Person;
+
+(c)
+Borrower means MarilynJean Media Inc. and its respective successors and permitted assigns, whether immediate or derivative;
+
+(d)
+Borrowers Indebtedness means all present and future indebtedness and liability, direct and indirect, of the Borrower to the Lender arising under and pursuant to this Agreement and the other Security Documents (including, without limitation, the principal amount outstanding under the Loan, all unpaid accrued interest thereon, and all fees and costs and expenses then payable in connection therewith, at any point in time );
+
+(e)
+Business Day means any day other than a Saturday, Sunday or other day on which commercial banks in Vancouver, British Columbia or St. Georges, Quebec are not required to be open for business;
+
+f)
+Change in Control means any change in the beneficial ownership of a majority of the issued shares in the capital of the Borrower or any change in a majority of the directors of the Borrower;
+
+(g)
+Contract means any agreement, contract, licence, undertaking, engagement or commitment of any nature, written or oral;
+
+(h)
+Event of Default means any of the events specified in Section 8;
+
+(i)
+General Security Agreement means the General Security Agreement of even date herewith between the Borrower and the Lender pursuant to which the Borrower will agree to grant the Lender security over all of the present and after-acquired property of the Borrower;
+
+
+
+
+1
+
+
+
+
+(j)
+Governmental Entity means (i) any international, multinational, national, federal, provincial, state, municipal, local or other governmental or public department, central bank, court, commission, board, bureau, agency or instrumentality, domestic or foreign; (ii) any subdivision or authority of any of the above; or (iii) any quasi-governmental or private body exercising any regulatory, expropriation or taxing authority under or for the account of any of the foregoing;
+
+(k)
+Lender means Future Energy, Corp. and its successors and assigns, whether immediate or derivative;
+
+(l)
+Lien means, with respect to any Person, any mortgage, lien, pledge, hypothecation, charge, security interest (including, without limitation, an assignment, notice or security interest filed pursuant to the Bank Act (Canada)) or other encumbrance, or any interest or title of any vendor, lessor, or lender to, or other secured party of, such Person under any conditional sale or other title retention agreement, upon or with respect to any property, asset or undertaking of such Person, including any agreement to create any of the foregoing;
+
+(m)
+Laws means applicable (i) laws, constitutions, treaties, statutes, codes, ordinances, statutory rules, principles of common and civil law and equity,  terms and conditions of any grant of approval, permission, orders, decrees, rules, regulations and municipal by-laws, whether domestic, foreign or international; (ii) judicial, arbitral, administrative, ministerial, departmental and regulatory judgments, orders, writs, injunctions, decisions, rulings, authority, licence, decrees and awards of any Governmental Entity; and (iii) policies, practices and guidelines of any Governmental Entity, which, although not actually having the force of law, are considered by such Governmental Entity as requiring compliance as if having the force of law, in each case binding on or affecting the Person, or the assets of the Person, referred to in the context in which such word is used, and the term applicable with respect to such Laws and in the context that refers to one or more Persons, means that such Laws apply to such Person or Persons or its or their business, undertaking, property or securities and emanate from a Governmental Authority having jurisdiction over the Person or Persons or its or their business, undertaking, property or securities, in each case as such Laws may be amended from time to time;
+
+(n)
+Loan means the loan in the principal amount of US$50,000.00 to be provided in connection with the closing of this Agreement, which the Lender will make or cause to be made to the Borrower pursuant to this Agreement, and such other amounts as may be provided by the Lender to the Borrower, in the sole discretion of the Lender, at the request of the Borrower;
+
+(o)
+Material Adverse Effect means any effect that when considered either individually or in the aggregate (i) is materially adverse or is reasonably likely to be materially adverse to the properties, assets, liabilities, obligations (whether absolute, accrued, conditional or otherwise), business, affairs, condition (financial or otherwise), operations, results of operations or prospects of the Borrower taken as a whole; or (ii) will, or would reasonably be expected to, prevent or materially impair the ability of the parties to consummate the transactions contemplated hereby;
+
+(p)
+material in respect of the Borrower means material in relation to the properties, assets, liabilities, obligations (whether absolute, accrued, conditional or otherwise), business, affairs, condition (financial or otherwise), operations, results of operations or prospects of the Borrower;
+
+(q)
+Maturity Date means October 1, 2013, unless sooner determined due to the occurrence of an Event of Default;
+
+(r)
+Permitted Liens means:
+
+(i)
+the Security Documents to be executed by the Borrower in favour of the Lender pursuant to this Agreement,
+
+(ii)
+Liens in favour of other Persons which have been approved by the Lender in writing in its sole and absolute discretion; and
+
+(iii)
+Liens in favour of TD Canada Trust approved by the Borrower in favour of TD Canada Trust.
+
+(s)
+Person means and includes an individual, a partnership, a joint venture, a corporation, a limited liability company, a trust, an unincorporated organization and a government or any department or agency thereof; and
+
+(t)
+Security Documents means, collectively, this Agreement, the General Security Agreement and all other agreements, deeds, mortgages and other instruments delivered to the Lenders by the Borrower or any other Person from time to time in connection with this Agreement or for the purpose of establishing, perfecting, preserving or protecting any security held by the Lenders in respect of the Borrowers Indebtedness.
+
+
+
+1.2 The division of this Agreement into sections and the insertion of headings are for convenient reference only and do not affect its interpretation.
+ 
+1.3 Any reference in this Agreement to gender includes all genders. Words importing the singular number also include the plural and vice versa.
+
+
+
+2
+
+
+
+1.4 All references in this Agreement to dollars or to $ are expressed in the currency of the United States of America, unless otherwise specifically indicated.
+
+1.5 Numerical expressions in this Agreement follow the international convention whereby a comma (,) separates the thousands and a full stop (.) separates the decimals.
+ 
+1.6 In this Agreement: (i) the words including, includes and include mean including (or includes or include) without limitation, and (ii) the words the sum of or a phrase of similar meaning means the aggregate (or total or sum), without duplication, of. The expressions Section and other subdivision followed by a number mean and refer to the specified Section or other subdivision of the Agreement.  In the computation of periods of time from a specified date to a later specified date, unless otherwise expressly stated, the word from means from and including and the words to and until each mean to but excluding.
+ 
+1.7 Except as otherwise provided in this Agreement, any reference in this Agreement to a statute refers to such statute and all rules and regulations made under it as they may have been or may from time to time be amended, re-enacted or superseded.
+ 
+
+2.  
+LOAN
+
+
+ 
+2.1 For value received, the Borrower, having its head office in Surrey, British Columbia, shall pay to the order of the Lender on the Maturity Date the principal sum of FIFTY THOUSAND DOLLARS ($50,000.00) in lawful money of the United States of America at the office of the Lender at 840 23rd Street, St. Georges, Quebec G5Y 4N6 Canada, or such other place as the Lender may designate.
+  
+2.2 The parties agree that the principal amount of the Loan may be increased at the request of the Borrower with the prior written approval of the Lender, which consent may be unreasonably withheld.
+
+
+3.  
+INTEREST
+
+
+ 
+3.1 The principal sum of the Loan outstanding from time to time shall bear simple interest both before and after maturity, default and judgment from and including the date of this Agreement to the date of repayment in full at the prime rate of the Bank of Canada plus 2.0% per annum, calculated monthly, with interest payable on the Maturity Date.
+ 
+
+4.  
+PREPAYMENT
+
+
+ 
+4.1 The principal amount, with accrued interest thereon, may be prepaid in whole or in part at any time without notice, bonus or penalty.
+ 
+
+5.  
+SECURITY
+
+
+ 
+5.1 To secure the due payment of the Borrowers Indebtedness, and the performance by the Borrower of all of the Borrowers obligations under this Agreement, the Borrower agrees to grant the Lender security over all of the present and after-acquired property of the Borrower pursuant to the terms and conditions of the General Security Agreement.
+
+
+
+3
+
+
+
+
+6.  
+REPRESENTATIONS AND WARRANTIES
+
+
+ 
+6.1 The Borrower represents and warrants to the Lender at the time of its execution and delivery of this Agreement, as follows:
+ 
+
+(a)  
+it is duly incorporated, organized and validly existing under the Laws of Canada and has the requisite corporate power and authority to carry on business, own property or interests therein, borrow and lend money, grant security, make, keep, observe and perform representations, warranties, covenants and agreements and enter into and perform its obligations under this Agreement and the other Security Documents;
+
+
+ 
+
+(b)  
+there is no claim, grievance, action, proceeding or investigation pending or, to the knowledge of the Borrower, threatened against or relating to the Borrower or affecting any of its properties or assets before any Governmental Entity that, if adversely determined, would reasonably be expected to result in a Material Adverse Effect.  To the knowledge of the Borrower, it is not subject to any outstanding order, writ, injunction or decree that has had or is reasonably likely to result in a Material Adverse Effect;
+
+
+ 
+
+(c)  
+each of this Agreement and the other Security Documents has been duly executed and delivered by the Borrower, and each constitutes a legal, valid and binding agreement of the Borrower, enforceable against it in accordance with its terms;
+
+
+
+
+(d)  
+there is no requirement to obtain any consent, approval or waiver of a party under any Contract or other instrument that the Borrower is a party to, to the completion of the transactions contemplated by this Agreement or any other Security Document;
+
+
+ 
+
+(e)  
+no filing with, notice to, or Authorization of, any Governmental Entity is required on the part of the Borrower as a condition to the lawful completion of the transactions contemplated by this Agreement or the other Security Documents; and
+
+
+ 
+
+(f)  
+the execution and delivery of, and performance by, the Borrower of this Agreement and the other Security Documents:
+
+
+ 
+
+(i)  
+does not and will not (or would not with the giving of notice, the lapse of time or the happening of any other event or condition) constitute or result in a violation or breach of, or conflict with, or allow any Person to exercise any rights under, any of the terms or provisions of its constating documents or articles,
+
+
+ 
+
+(ii)  
+does not and will not (or would not with the giving of notice, the lapse of time or the happening or any other event or condition) constitute or result in a breach or violation of, or conflict with or allow any Person to exercise any rights under, any of the terms or provisions of any Contract or other instrument to which the Borrower is a party or pursuant to which any of its assets or property may be affected, and
+
+
+ 
+
+(iii)  
+does not and will not result in the violation of any Law, except where such violation would not reasonably be expected to result in a Material Adverse Effect on the Borrower.
+
+
+ 
+6.2 The representations and warranties in this Agreement, the other Security Documents and in any certificates or documents delivered by the Borrower to the Lender shall not merge in or be prejudiced by and shall survive any advance and shall continue in full force and effect so long as any amounts are owing by the Borrower to the Lender.
+
+
+
+4
+
+
+
+
+7.  
+COVENANTS
+
+
+ 
+7.1 Positive Covenants.  So long as any amounts remain outstanding under this Agreement, the Borrower shall:
+ 
+
+(a)  
+comply with all Laws applicable to it or any of its property, business, assets or undertakings;
+
+
+ 
+
+(b)  
+preserve and maintain its corporate existence and all its rights, licences, powers, privileges, franchises and goodwill;
+
+
+  
+
+(c)  
+promptly give the Lender notice in writing of all pending litigation and all proceedings before any Governmental Entity affecting it, except those which, if adversely determined, would not have a Material Adverse Effect on its financial condition or business;
+
+
+ 
+
+(d)  
+comply in all material respects with the requirements of all applicable Laws;
+
+
+ 
+
+(e)  
+advise the Lender immediately upon becoming aware of any Event of Default and deliver to the Lender upon request a certificate in form and substance satisfactory to the Lender signed by a senior officer certifying that to the best of his knowledge no Event of Default has occurred or, if such is not the case, specifying all Events of Default and their nature and status; and
+
+
+ 
+
+(f)  
+promptly cure or cause to be cured any defects in the execution and delivery of this Agreement or the other Security Documents or any defects in the validity or enforceability of this Agreement or the other Security Documents and, at its expense, execute and deliver or cause to be executed and delivered, all such agreements, instruments and other documents as the Lender may reasonably consider necessary or desirable to protect or otherwise perfect its security interest.
+
+
+ 
+7.2 Negative Covenants.  So long as this Agreement remains in effect, the Borrower will not, without the prior written consent of the Lender, which consent may not be unreasonably withheld:
+ 
+
+(a)  
+create, incur, grant, assume or suffer to exist any mortgages, charges or security interests over any assets or securities of the Borrower, other than Permitted Liens;
+
+
+ 
+
+(b)  
+sell, option, transfer, assign or otherwise dispose of any assets or securities of the Borrower, other than in the ordinary course of business of the Borrower;
+
+
+ 
+
+(c)  
+enter into any reorganization, consolidation, amalgamation, arrangement, winding-up, merger or other similar transaction or any right, option or privilege convertible into shares in the capital of the Borrower;
+
+
+ 
+
+(d)  
+incur any further indebtedness of either a direct or indirect nature to any Persons other than the Lender, other than in the due course of business;
+
+
+ 
+
+(e)  
+make any advances or loans to, or any investment in, or provide any guarantees on behalf of, any Person; or
+
+
+ 
+
+(f)  
+(i) declare, make, pay or commit to any form of distribution or reduction of the profits of the Borrower or of its capital, including any dividend (including stock dividends) or other distribution on any present or future shares; or (ii) purchase, redeem, retire or acquire any of its shares, or any option, warrant or other right to acquire any such shares, or apply or set apart any of its assets therefor.
+
+
+
+
+
+5
+
+
+
+
+8.  
+EVENTS OF DEFAULT
+
+
+ 
+8.1 Events of Default.  The Borrowers Indebtedness will immediately become due and payable and this Agreement and the other Security Documents will become enforceable, upon the happening of any one or more of the following events:
+ 
+
+(a)  
+if the Borrower fails to pay any payment of principal, interest, or other money payable by it under this Agreement or under any of the other Security Documents when the same becomes due hereunder or thereunder, or if the Borrower otherwise defaults in the observance or performance of something required to be done or some covenant or condition required to be observed or performed under this Agreement or under any of the other Security Documents, and such failure or default remains unremedied for five (5) Business Days;
+
+
+ 
+
+(b)  
+if any representation or warranty made or deemed to be made by the Borrower in this Agreement, in any other Security Document or in any certificate, statement or report furnished in connection therewith is found to be false or incorrect in any way so as to make it materially misleading when made or deemed to be made;
+
+
+ 
+
+(c)  
+if the Borrower (i) becomes insolvent or generally not able to pay its debts as they become due, (ii) admits in writing its inability to pay its debts generally or makes a general assignment for the benefit of creditors, (iii) institutes or has instituted against it any proceeding seeking (x) to adjudicate it a bankrupt or insolvent, (y) liquidation, winding-up, reorganization, arrangement, adjustment, protection, relief or composition of it or its debts under any law relating to bankruptcy, insolvency, reorganization or relief of debtors including any plan of compromise or arrangement or other corporate proceeding involving or affecting its creditors, or (z) the entry of an order for relief or the appointment of a receiver, trustee or other similar official for it or for any substantial part of its properties and assets, and in the case of any such proceeding instituted against it (but not instituted by it), either the proceeding remains undismissed or unstayed for a period of thirty (30) days, or any of the actions sought in such proceeding (including the entry of an order for relief against it or the appointment of a receiver, trustee, custodian or other similar official for it or for any substantial part of its properties and assets) occurs, or (iv) takes any corporate action to authorize any of the above actions;
+
+
+ 
+
+(d)  
+if the Borrower permits any sum which has been admitted as due by it, or is not disputed to be due by it, and which forms or is capable of being made a charge upon any of its property, assets and undertakings in priority to any charge created by this Agreement or any of the other Security Documents, to remain unpaid for thirty (30) days after proceedings have been taken to enforce the same;
+
+
+ 
+
+(e)  
+if the holder (other than the Lender) of any Lien against the property, assets and undertakings of the Borrower does anything to enforce or realize on such Lien,
+
+
+
+
+(f)  
+and if, in the reasonable opinion of the Lender, such enforcement or realization would have a Material Adverse Effect on the security for the Borrowers Indebtedness or on the Borrowers ability to repay the Borrowers Indebtedness;
+
+
+  
+
+(g)  
+if any execution, sequestration or any other process of any kind is levied upon or enforced against any of the property, assets or undertakings of the Borrower, unless such process is disputed in good faith and, in the reasonable opinion of the Lender, does not jeopardize or impair the security constituted by this Agreement or any of the other Security Documents in any material way;
+
+
+ 
+
+(h)  
+if a distress or analogous process is levied upon the any of the property, assets or undertakings of the Borrower or any part thereof, unless the process is disputed in good faith and adequate security is given to pay the amount claimed in full;
+
+
+ 
+
+(i)  
+if, without the prior written consent of the Lender, the Borrower disposes, pledges, mortgages, charges, or otherwise encumbers any of the securities or assets of the Borrower to any Person other than the Lender;
+
+
+   
+
+(j)  
+if there is any Event of Default as that term is defined in the General Security Agreement.
+
+
+
+
+
+6
+
+
+
+8.2 Consequences of an Event of Default.  Upon the occurrence of any Event of Default, all of the Borrowers Indebtedness shall, at the option of the Lender, become forthwith due and payable and all of the rights and remedies conferred in this Agreement and the other Security Documents shall become immediately enforceable and any and all additional and collateral securities for payment of this Agreement shall become immediately enforceable.
+ 
+
+9.  
+REMEDIES
+
+
+ 
+9.1 Cross Default.  Any default by the Borrower under this Agreement or under any of the other Security Documents will constitute a default under the remainder of the Security Documents.
+ 
+9.2 Remedies Cumulative.  All rights and remedies stipulated for the Lender under this Agreement or in any of the other Security Documents will be deemed to be in addition to and not restrictive of the right and remedies which the Lender might be entitled to at law or in equity.  The Lender may realize on the Security Documents or any part thereof in any manner and in such order as it may be advised, and any such realization by any means will not bar.
+
+9.3 realization of any other security or any part or parts thereof, nor will any single or partial exercise of any right or remedy preclude any other or further exercise thereof, nor will any failure on the part of the Lender to exercise, or any delay in exercising, any rights under this Agreement or any of the other Security Documents operate as a waiver.
+ 
+
+10.  
+INDEMNIFICATION
+
+
+ 
+10.1 The Borrower agrees to indemnify the Lender from and against any and all liabilities, obligations, losses, damages, penalties, actions, judgments, suits, costs, expenses or disbursements of any kind or nature whatsoever which may be imposed on, incurred by, or asserted against the Lender and arising by reason of any action (including any action referred to herein) or inaction, or omission to do any act legally required, of the Borrower.
+
+
+11.  
+NOTICE
+
+
+ 
+11.1 Any notice, direction or other communication (each a Notice) given regarding the matters contemplated by this Agreement must be in writing, sent by personal delivery, courier or facsimile (but not by electronic mail) and addressed:
+ 
+
+To the Lender:
+
+ 
+840 23rd Street,
+St. Georges, Quebec G5Y 4N6 Canada 
+
+  
+Attention:
+Georges Paquet
+
+Telephone:
+418-263-2272
+
+  
+ 
+To the Borrower:
+
+ 
+#104 - 12877 - 76th Ave 
+Surrey, B.C, V3W 1E6
+
+  
+Attention:
+Jason Carvalho
+
+Telephone:
+708-223-1919
+
+
+ 
+11.2 A Notice is deemed to be delivered and received (i) if sent by personal delivery, on the date of delivery if it is a Business Day and the delivery was made prior to 4:00 p.m. (local time in place of receipt) and otherwise on the next Business Day; (ii) if sent by same-day service courier, on the date of delivery if sent on a Business Day and delivery was made prior to 4:00 p.m. (local time in place of receipt) and otherwise on the next Business Day; (iii) if sent by overnight courier, on the next Business Day; or (iv) if sent by facsimile, on the Business Day following the date of confirmation of transmission by the originating facsimile. A party may change its address for service from time to time by providing a Notice in accordance with the foregoing. Any subsequent Notice must be sent to the party at its changed address. Any element of a partys address that is not specifically changed in a Notice will be assumed not to be changed.
+
+
+7
+
+
+
+
+12.  
+MISCELLANEOUS
+
+
+ 
+12.1 Pay Costs.  The Borrower and the Lender will be responsible for their own expenses in connection with this Agreement.
+ 
+12.2 No Merger.  None of the execution and delivery of the Security Documents and making of any advance will in any way merge or extinguish this Agreement or the terms and conditions hereof, which will continue in full force and effect.
+ 
+12.3 Conflict.  In the event of any inconsistency or conflict between any of the provisions of this Agreement and any of the provisions of the other Security Documents, the provisions of this Agreement will prevail, provided that the omission from this Agreement of any covenant, agreement, term, or condition contained in any of the other Security Documents will not be considered to be an inconsistency or a conflict.
+ 
+12.4 Announcements. The parties shall consult with each other before issuing any press release or otherwise making any filings or public statements with respect to this Agreement and the transactions contemplated herein and shall not issue such press release without the prior written consent of the other party, which consent shall not be unreasonably withheld or delayed, in each case, subject to applicable Laws and the exercise of such fiduciary duties, as may be appropriate.
+ 
+12.5 Waiver.
+ 
+
+(a)  
+No waiver of any of the provisions of this Agreement will constitute a waiver of any other provision (whether or not similar).  No waiver will be binding unless
+
+
+
+
+(b)  
+executed in writing by the party to be bound by the waiver.  A partys failure or delay in exercising any right under this Agreement will not operate as a waiver of that right. A single or partial exercise of any right will not preclude a party from any other or further exercise of that right or the exercise of any other right.
+
+
+ 
+
+(c)  
+If a party waives compliance with any of the conditions, obligations or covenants contained in this Agreement, the waiver will be without prejudice to any of its rights of termination in the event of non-fulfilment, non-observance or non-performance of any other condition, obligation or covenant in whole or in part.
+
+
+ 
+12.6 Further Assurances.  Each of the parties hereto will forthwith at all times, and from time to time, at the Borrowers sole cost and expense, do, execute, acknowledge and deliver, or cause to be done, executed, acknowledged and delivered, all such further acts, deeds, documents and assurances which, in the opinion of the Lender, acting reasonably, are necessary or advisable for the better accomplishing and effecting of the intent of this Agreement.
+ 
+12.7 Assignment.  Neither this Agreement nor any benefits hereunder may be transferred, assigned or otherwise disposed of by either party without the prior written consent of the other party.
+ 
+12.8 Amendment.  No amendment, waiver or modification of, or agreement collateral to, this Agreement or any of the other Security Documents will be enforceable against any party hereto unless it is by a formal instrument in writing expressed to be a modification of this Agreement or the other Security Documents, as the case may be, and executed in the same fashion as this Agreement.
+ 
+12.9 Enurement.  All covenants and other agreements in this Agreement contained by or on behalf of any of the parties hereto will bind and enure to the benefit of the respective successors and assigns of the parties hereto (including, without limitation, any transferee) whether so expressed or not, provided, however, that the Borrower may not assign its rights or obligations hereunder to any Person.
+
+
+
+8
+
+
+
+12.10 Governing Law.  This Agreement will be construed and enforced in accordance with, and the rights of the parties will be governed by the Laws of the Province of British Columbia and the federal Laws of Canada applicable therein.  The Lender and the Borrower hereby exclusively attorn to the courts of competent jurisdiction of the Province of British Columbia, Canada in any proceedings hereunder.
+ 
+12.11 Counterparts.  This Agreement may be executed simultaneously in two or more counterparts, each of which will be deemed an original, and it will not be necessary in making proof of this Agreement to produce or account for more than one such counterpart.
+ 
+12.12 Independent Covenants.  All covenants hereunder will be given independent effect so that if a particular action or condition is prohibited by any one of such covenants, the fact that it would be permitted by an exception to, or otherwise be in compliance within the limitations of, another covenant will not avoid the occurrence of a default or Event of Default if such action is taken or such condition exists.
+  
+12.13 Severability.  Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions of this Agreement, and any such prohibition or unenforceability in any jurisdiction shall (to the full extent permitted by law) not invalidate or render unenforceable such provision in any other jurisdiction.
+ 
+12.14 Discharge.  Upon repayment in full of the Borrowers Indebtedness and the cancellation by the Lender and the Borrower in writing of the Loan, the Lender will execute and deliver to the Borrower a release and discharge of the Security Documents.
+ 
+12.15 Entire Agreement.  This Agreement (including the schedules attached hereto) and the other Security Documents constitute the entire agreement between the parties with respect to the Loan and their execution has not been induced by, nor do any of the parties rely upon or regard as material, any representations or writings whatever not incorporated herein or therein and made a part hereof or thereof. This Agreement and the other Security Documents supersede and replace any preliminary or other agreement or arrangement, whether oral or written, express or implied, statutory or otherwise heretofore existing among the parties in respect of the Loan.
+ 
+[THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK]
+
+
+
+
+
+9
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Loan Agreement to be duly executed and delivered as of the date set forth above.
+
+
+FUTURE ENERGY, CORP.
+
+
+Per: /s/ Georges Paquet 
+Georges Paquet
+Authorized Signatory
+
+
+MARILYNJEAN MEDIA INC.
+
+
+Per: /s/ Jason Carvalho 
+Jason Carvalho
+Authorized Signatory
+
+
+10
+
+
+
+
+

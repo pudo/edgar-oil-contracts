@@ -1,0 +1,1124 @@
+
+EX-10.M
+2
+exhibit10m.htm
+EXHIBIT 10(M)
+
+
+
+    exhibit10m.htm
+    
+    
+    
+
+
+
+Exhibit 10(m)
+
+ 
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+(As amended and restated effective as of December 15, 2011)
+
+
+
+
+ARTICLE I
+
+ESTABLISHMENT OF PLAN
+
+ 
+
+As of the Effective Date, Denbury Resources Inc. (the “Company”) hereby amends and restates the severance plan known as the Denbury Resources Severance Protection Plan, which plan was originally adopted effective December 6, 2000, and subsequently amended effective December 5, 2007, December 30, 2008, and December 31, 2010 which plan as amended and restated effective December 15, 2011 as set forth in this document is hereinafter referred to as the “Plan.”  For purposes of the Employee Retirement Income Security Act of 1974, as amended (“ERISA”), the Company intends the Plan to continue to be a “Severance Plan” within the meaning of the applicable ERISA regulations.
+
+
+
+
+ARTICLE II
+
+DEFINITIONS
+
+ 
+
+As used herein, the following words and phrases shall have the following respective meanings unless the context clearly indicates otherwise.
+
+ 
+
+Section 2.1 Administrator.  The Board or any committee thereof as may be appointed from time to time by the Board to supervise the administration of the Plan.
+
+ 
+
+Section 2.2 Affiliate.  With respect to a specified person, a person that directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with the specified person.
+
+ 
+
+Section 2.3 Base Salary.  The amount a Participant is entitled to receive as wages or salary on an annualized basis, calculated on the basis of their salary rate on either the date immediately prior to a Change in Control or their Termination Date, whichever amount is higher.
+
+ 
+
+Section 2.4 Board.  The Board of Directors of the Company.
+
+ 
+
+Section 2.5 Bonus Amount.  An amount equal to fifty percent (50%) of the total amount of bonuses paid to a Participant related to the two most recent annual periods ending prior to the date of the Change in Control, such bonuses to consist of any discretionary bonuses and any annual incentive cash awards (or in the latter case, any successor performance-based bonus); provided that if a Change in Control occurs prior to the payment of two incentive cash awards, then the one incentive cash award which has been paid shall be counted twice in the determining the total amount of bonuses paid to the Participant.
+
+ 
+
+Section 2.6 Cause.  An Employer shall have "Cause" to terminate a Participant if the Participant (i) willfully and continually fails to substantially perform his duties with the Employer (other than a failure resulting from the Participant's incapacity due to physical or mental illness), or (ii) willfully engages in conduct which is demonstrably and materially injurious to the Employer, monetarily or otherwise.  No act, nor failure to act, on the Participant's part, shall be considered "willful" unless he has acted or failed to act with an absence of good faith and without a reasonable belief that his action or failure to act was in the best interest of the Employer.  Notwithstanding anything contained in this Plan to the contrary, no failure to perform by the Participant after Notice of Termination is given by or to the Participant shall constitute Cause.
+
+ 
+
+Section 2.7 Change in Control.  A "Change in Control" shall mean the occurrence of any one of the following with respect to the Company:
+
+ 
+
+(a) "Continuing Directors” no longer constitute a majority of the Board; the term “Continuing Director” means any individual who has served in such capacity for one year or more, together with any new directors whose election by such Board or whose nomination for election by the stockholders of the Company was approved by a vote of a majority of the directors of the Company then still in office who were either directors at the beginning of such one-year period or whose election or nomination for election was previously so approved;
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+- 1 -
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+(b) after the date of adoption of this amended and restated severance plan, any person or group of persons acting together as an entity become (i) the beneficial owners (as defined in Rule 13d-3 under the Securities Exchange Act of 1934, as amended) directly or indirectly, of shares of common stock representing thirty percent (30%) or more of the voting power of the Company's then outstanding securities entitled generally to vote for the election of the Company's directors, and (ii) the largest beneficial owner directly or indirectly of the Company's then outstanding securities entitled generally to vote for the election of the Company's directors;
+
+ 
+
+(c) a merger or consolidation to which the Company is a party if (i) the stockholders of the Company immediately prior to the effective date of such merger or consolidation have beneficial ownership (as defined in Rule 13d-3 under the Exchange Act) of less than forty percent (40%) of the combined voting power to vote for the election of directors of the surviving corporation or other entity following the effective date of such merger or consolidation; or (ii) fifty percent (50%) or more of the individuals constituting the members the Investment Committee are terminated due to such merger or consolidation; or
+
+ 
+
+(d) the sale of all or substantially all of the assets of the Company or the liquidation or dissolution of the Company.
+
+ 
+
+Notwithstanding anything herein to the contrary, under no circumstances will a change in the constitution of the board of directors of any Subsidiary, a change in the beneficial ownership of any Subsidiary, the merger or consolidation of a Subsidiary with any other entity, the sale of all or substantially all of the assets of any Subsidiary or the liquidation or dissolution of any Subsidiary constitute a "Change in Control" under this Plan.
+
+ 
+
+Section 2.8 Common Shares.  “Common Shares” means shares of common stock, $.001 par value of Denbury Resources Inc.
+
+ 
+
+Section 2.9 Company.  Denbury Resources Inc., a Delaware corporation.
+
+ 
+
+Section 2.10 Disability.  “Disability” or “disability” shall mean a Participant’s present incapacity resulting from an injury or illness (either mental or physical) which, in the reasonable opinion of the Administrator based on such medical evidence as it deems necessary, will result in death or can be expected to continue for a period of at least twelve (12) months and will prevent the Participant from performing the normal services required of the Participant by his or her Employer; provided, however, that such disability did not result, in whole or in part: (i) from chronic alcoholism; (ii) from addiction to narcotics; (ii) from a felonious undertaking; or (iv) from an intentional self-inflicted wound.
+
+ 
+
+Section 2.11 Effective Date.  December 15, 2011.
+
+ 
+
+Section 2.12 Employer.  The Company and any Subsidiary of the Company listed on Schedule C of this Plan as a Participating Employer.  With respect to a Participant who is not an employee of the Company, any reference under this Plan to such Participant's "Employer" shall refer only to the employer of the Participant, and in no event shall be construed to refer to the Company as well.
+
+ 
+
+Section 2.13 Good Reason. "Good Reason" shall mean the occurrence of any of the following events or conditions:
+
+ 
+
+(a) a material diminution in the Participant's authority, duties or responsibilities;
+
+ 
+
+(b) a material diminution in the authority, duties, or responsibilities of the supervisor to whom the Participant is required to report, including a requirement that a Participant report to a corporate officer or employee instead of reporting directly to the Board of the Company;
+
+ 
+
+(c) a material diminution in the Participant's base compensation;
+
+ 
+
+(d) a material change in the geographic location at which the Participant must perform the services, or;
+
+ 
+
+(e) any material breach by the Employer of any provision of this Plan.
+
+
+
+ 
+
+
+
+
+
+
+  
+
+
+
+- 2 -
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+The Participant is required to provide written notice to the Employer of the existence of the condition that would result in termination of employment for Good Reason within 90 days of the initial existence of the condition.  Upon receipt of such written notice, the Employer has 30 days to remedy the condition (the “cure period”).  If the Employer does not remedy the condition within the cure period, the Participant will meet the requirements for termination of employment for Good Reason, provided, however, that the Participant actually does terminate his employment not more than thirty (30) days after the expiration of the Employer’s cure period.
+
+
+ 
+
+Section 2.14 Investment Committee.  Those individuals who have been designated as members of the Investment Committee of the Company, as the membership of such Committee may be changed from time to time.  Members of the Investment Committee as of the date of the Plan’s execution are listed on Schedule B attached hereto.
+
+ 
+
+Section 2.15 Notice of Termination.  A notice which indicates the specific basis for any termination of employment; no purported termination of employment shall be effective without such Notice of Termination.
+
+ 
+
+Section 2.16 Officer.  Each individual who is a corporate officer of the Company and is so designated from time to time pursuant to the Company’s Bylaws, provided that solely for purposes of Section 6.1 hereof, “Officer” shall only include those individuals first appointed or elected as a corporate officer of the Company prior to January 1, 2011.  Officers entitled to the benefits of Section 6.1 hereof are listed on Schedule A attached hereto.
+
+ 
+
+Section 2.17 Participant.  A Participant who meets the eligibility requirements of Article III.
+
+ 
+
+Section 2.18 Participating Employer.  A Subsidiary of the Company which is listed on Schedule C attached hereto, and as may be amended from time to time pursuant to Article VIII of the Plan.
+
+ 
+
+Section 2.19 Payment Date.  For a Participant entitled to payment under Section 4.1 as a result of a termination of employment other than for Cause during the period beginning six months prior to a Change in Control and ending on the Change in Control, the Payment Date is the first business day that is at least fifteen (15) days after the Change in Control.  For a Participant entitled to payment under Section 4.1 as a result of a termination of employment other than for Cause during the period beginning on the Change in Control and ending two years after the Change in Control, the Payment Date is the first business day that is at least fifteen (15)days after the Participant’s termination of employment.
+
+ 
+
+Section 2.20 Severance Benefit.  The benefits payable in accordance with Article IV of the Plan.
+
+ 
+
+Section 2.21 Severance Units.  A Participant who is neither a member of the Investment Committee nor an Officer shall receive one (1) Severance Unit, to be used in calculating his Severance Benefit, for (i) each ten thousand dollars ($10,000) of the aggregate of his Base Salary plus Bonus Amount, and (ii) each twelve months of employment by the Company or an Employer; the sum of any partial Severance Units under (i) and (ii) shall be rounded to the nearest higher whole number of Severance Units.  However, the maximum number of Severance Units that may be granted to a Participant is eighteen (18), and each Participant shall be granted at least four (4) Severance Units.
+
+ 
+
+Section 2.22 Subsidiary.  Any subsidiary of the Company, and any wholly or partially owned partnership, joint venture, limited liability company, corporation and other form of investment by the Company.
+
+ 
+
+Section 2.23 Termination Date.  In the case of the Participant's death, the Participant’s Termination Date shall be his date of death.  In all other cases, the Participant's Termination Date shall be the date specified in the written Notice of Termination and as of which date the Participant does in fact terminate employment with his Employer.
+
+ 
+
+ARTICLE III
+
+ELIGIBILITY AND PARTICIPATION
+
+ 
+
+Section 3.1 Participation.  Each regular employee of the Company or of a Participating Employer during the time such employer is participating in this Plan shall be eligible to participate in the Plan, as amended from time to time hereafter.  An employee of an Employer shall automatically cease being a Participant if his employment terminates more than six months prior to a Change in Control or more than two years after a Change in Control, or at any time for a reason that does not entitle the
+
+ 
+
+
+
+
+
+
+
+  
+
+
+
+- 3 -
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+
+
+
+
+
+  
+
+
+
+
+
+
+Participant to benefits under the Plan.  Without limitation, an employee of an Employer shall be ineligible for benefits under the Plan if his employment terminates at any time due to death or disability, or due to termination by the Employer for Cause or due to his terminating his employment for any reason other than Good Reason.  For purposes of this Article III, an individual shall be an “employee of an Employer” only if the individual is shown as employee of the Employer on the payroll records of the Employer.  Any person eligible for benefits under a severance plan not originally sponsored by the Company or subsidiaries of the Company as of the date of adoption of this amended and restated Plan, including the EAP Properties Inc. Employee Severance Protection Plan (any such plan being an "Acquired Plan”) shall not be entitled to receive benefits under this Plan except to the extent and in the amount that benefits payable under this Plan are in excess of amounts payable to that person under such an Acquired Plan.
+
+ 
+
+Section 3.2 Duration of Participation.  Once an employee of an Employer becomes a Participant, a Participant shall cease to be a Participant in the Plan upon the first to occur of: (i) the date his employment is terminated under circumstances where he is not entitled to a Severance Benefit under the terms of this Plan, or (ii) the date on which he has received all of the benefits to which he is entitled under this Plan.
+
+ 
+
+ARTICLE IV
+
+SEVERANCE BENEFITS
+
+ 
+
+Section 4.1 Right to Severance Benefit.
+
+ 
+
+(a) After a Change in Control has occurred, a Participant shall be entitled to receive from the Employer a Severance Benefit in the amount provided in Sections 4.2 and 4.3 if (i) his employment is terminated by the Company or a Participating Employer, during the period beginning six months prior to a Change of Control and ending two years after a Change of Control, for any reason other than for Cause or (ii) Participant terminates his employment for Good Reason; provided that a Participant shall not be entitled to receive such a Severance Benefit if the Participant’s employment is terminated due to Participant’s disability or death.
+
+ 
+
+(b) A Participant shall be entitled to a Severance Benefit if that individual satisfies all the conditions under the Plan required to qualify as a Participant and he or she is not otherwise disqualified or excluded from eligibility under the terms of the Plan.
+
+ 
+
+(c) Notwithstanding any other provision of the Plan, the sale, divestiture or other disposition of a Subsidiary, shall not be deemed to be a termination of employment of employees employed by such Subsidiary, and such employees shall not be entitled to benefits from the Company, any Participating Employer or any Subsidiary under this Plan as a result of such sale, divestiture, or other disposition, or as a result of any subsequent termination of employment.
+
+ 
+
+Section 4.2 Amount of Severance Benefit.  If a Participant is entitled to a Severance Benefit under Section 4.1, the Employer shall pay to the Participant, on the Payment Date, an amount in cash equal to one of the following amounts:
+
+ 
+
+(a) for the Company's Chief Executive Officer and for all other members of the Investment Committee, three (3) times the sum of  the Participant’s Base Salary and the Bonus Amount;
+
+ 
+
+(b) for all other Officers that are not members of the Investment Committee, two and one-half (2-1/2) times the sum of the Participant's Base Salary and the Bonus Amount; and
+
+ 
+
+(c) for all other employees, one-twelfth (1/12) of the sum of the Participant’s Base Salary and Bonus Amount multiplied by the Participant’s Severance Units.
+
+ 
+
+Section 4.3 Further Benefits.  If a Participant is entitled to a Severance Benefit under Section 4.1, such Participant shall also be entitled to:
+
+ 
+
+(a) Continuation at Employer’s expense, on behalf of the Participant and his dependents and beneficiaries, all medical, dental, vision, and health benefits and insurance coverage which were being provided to the Participant at the time of termination of  employment for a period of time subsequent to the Participant's termination of employment. This period of time shall be up to 18 months for the Chief Executive Officer and members of the Investment Committee; up to 15 months for all other Officers; and up to 9 months for all other employees (determined based on no more than fifty percent (50%) of such Participants’ Severance Units).  The benefits provided in this Section 4.3(a) shall be no less favorable to the Participant,
+
+ 
+
+
+
+
+
+
+
+  
+
+
+
+- 4 -
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+
+
+
+
+
+  
+
+
+
+
+
+
+in terms of amounts and deductibles and costs to him, than the coverage provided the Participant under the plans providing such benefits at the time of termination of the Participant’s employment.  The payment by the Employer of the cost of such benefits shall be treated as additional taxable income to such Participants to the extent necessary to avoid a violation of the nondiscrimination provisions of Section 105(h) of the Code.  Should the continuation of any medical or similar coverages be through fully insured plans, and should such continuation violate the nondiscrimination requirements for such plans under the Patient Protection and Affordable Care Act (“Health Care Reform”), then such Participants shall receive additional cash severance benefits rather than continued coverage under such plans of Employer in an amount based on the premium cost of such coverage that the Employer would otherwise pay under this sentence.
+
+ 
+
+(b) The Employer's obligation hereunder to provide a benefit shall terminate if the Participant obtains comparable coverage under a subsequent employer's benefit plan. For purposes of the preceding sentence, benefits will not be comparable during any waiting period for eligibility for such benefits or during any period during which there is a preexisting condition limitation on such benefits.  The Employer also shall pay a lump sum equal to the amount of any additional income tax payable by the Participant and attributable to the taxability of the cost of the benefits provided under subparagraph (a) of this Section within the time limitations for reimbursing such tax under Section 12.11 hereof.  At the end of the period of coverage set forth above, the Participant shall be entitled to all health and similar benefits that are or would have been made available to the Participant pursuant to the Consolidated Omnibus Budget Reconciliation Act of 1986 (“COBRA”) or other applicable law, as if the Participant then terminated employment or had a reduction in hours triggering a right to benefits under COBRA or other applicable law at the end of such period.
+
+ 
+
+Section 4.4 Mitigation or Set-off of Amounts Payable Hereunder. The Participant shall not be required to mitigate the amount of any payment provided for in this Article IV by seeking other employment or otherwise, nor shall the amount of any payment provided for in this Article IV be reduced by any compensation earned by the Participant as the result of employment by the Company or any successor after the Payment Date or by another employer after the Termination Date, or otherwise.  The Employer's obligations hereunder also shall not be affected by any set-off, counterclaim, recoupment, defense or other claim, right or action which the Employer may have against the Participant.
+
+ 
+
+Section 4.5 Company Guarantee of Severance Benefit.  In the event a Participant becomes entitled to receive from the Employer a Severance Benefit under this Article IV above and such Employer fails to pay such Severance Benefit, the Company shall assume the obligation of such Employer to pay such Severance Benefit.  In consideration of the Company's assumption of the obligation to pay such Severance Benefit provided under this Plan, the Company (as the source of payment of benefits under the Plan) shall be subrogated to any recovery (irrespective of whether there is recovery from the third party of the full amount of all claims against the third party) or right to recovery of either a Participant or his legal representative against the Employer or any person or entity.  The Participant or his legal representative shall cooperate in doing what is reasonably necessary to assist the Company in exercising such rights, including but not limited to notifying the Company of the institution of any claim against a third party and notifying the third party and the third party's insurer, if any, of the Company's subrogation rights.  Neither the Participant nor his legal representative shall do anything after a loss to prejudice such rights.  In its sole discretion, the Company reserves the right to prosecute an action in the name of the Participant or his legal representative against any third parties potentially liable to the Participant.  The Company shall have the absolute discretion to settle subrogation claims on any basis it deems warranted and appropriate under the circumstances.  If a Participant or his legal representative initiates a lawsuit against any third parties potentially liable to the Participant, the Company shall not be responsible for any attorney's fees or court costs that may be incurred in such liability claim.  The Company shall be entitled, to the extent of any payments made to or on behalf of a Participant or a dependent of the Participant, to be paid first from the proceeds of any settlement or judgment that may result from the exercise of any rights of recovery asserted by or on behalf of a Participant or his legal representative against any person or entity legally responsible for the injury for which such payment was made.  The right is also hereby given the Company to receive directly from the Employer or any third party(ies), attorney(s) or insurance company(ies) an amount equal to the amount paid to or on behalf of the Participant.
+
+ 
+
+Section 4.6 Forfeiture of Severance Benefits.  A Participant shall forfeit any and all entitlement to any Severance Benefit if the Administrator determines that the Participant has failed to fulfill any requirement of the Plan.
+
+ 
+
+Section 4.7 Payment after Death.  If a Participant dies before his or her Severance Benefits have been paid in full, the remaining Severance Benefits will be paid to the beneficiaries named in such Participant’s last will and testament, or if no will or beneficiary exist then to such Participant’s heirs at law, and shall be paid within no more than 90 days following the Participant’s death.  The Plan shall be discharged fully and completely to the extent of any payment made to any such beneficiaries or heirs at law.
+
+
+ 
+
+
+
+
+
+
+
+  
+
+
+
+- 5 -
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+ARTICLE V
+
+TERMINATION OF EMPLOYMENT
+
+ 
+
+Section 5.1 Written Notice Required.  Subject to Section 12.10, any purported termination of employment, either by the Employer or by the Participant, shall be communicated by written Notice of Termination to the other.
+
+ 
+
+ARTICLE VI
+
+ADDITIONAL PAYMENTS BY THE COMPANY
+
+ 
+
+Section 6.1 Gross-Up Payment.  In the event it shall be determined that any payment or distribution of any type by the Employer to or for the benefit of an Officer, whether paid or payable or distributed or distributable pursuant to the terms of this Plan or otherwise (the "Total Payments"), would be subject to the excise tax imposed by Section 4999 of the  Internal Revenue Code of 1986, as amended (the "Code") or any interest or penalties with respect to such excise tax (such excise tax, together with any such interest and penalties, are collectively referred to as the "Excise Tax"), then the Officer shall be entitled to receive an additional payment (a "Gross-Up Payment") in an amount such that at the time of payment by the Officer of all income and “FICA” taxes (including any interest and penalties imposed with respect to such taxes) imposed upon the Gross-Up Payment, the Officer shall receive a net Gross-Up Payment equal to the Excise Tax imposed upon the Total Payments.  The Gross-Up Payment shall be made in the manner specified in Section 12.11.
+
+ 
+
+Section 6.2 Determination By Accountant.  All determinations required to be made under this Article VI, including whether a Gross-Up Payment is required and the amount of such Gross-Up Payment, shall be made by the independent accounting firm retained by the Company on the date of Change in Control, or such other independent qualified third party firm retained for such purpose (the "Accounting Firm"), which shall provide detailed supporting calculations both to the Company and the Officer within fifteen (15) business days of the Payment Date or Termination Date, whichever is applicable, or such earlier time as is requested by the Company.  If the Accounting Firm determines that no Excise Tax is payable by the Officer, it shall furnish the Officer with an opinion that he has substantial authority not to report any Excise Tax on his federal income tax return.  Any determination by the Accounting Firm shall be binding upon the Company and the Officer.  As a result of the uncertainty in the application of Section 4999 of the Code at the time of the initial determination by the Accounting Firm hereunder, it is possible that a Gross-Up Payment which will not have been made by the Company should have been made ("Underpayment"), consistent with the calculations required to be made hereunder.  In the event that the Company exhausts its remedies pursuant to Section 6.3 and the Officer thereafter is required to make a payment of any Excise Tax, the Accounting Firm shall determine the amount of the Underpayment that has occurred and any such Underpayment shall be promptly paid by the Company to or for the benefit of the Officer in the manner specified in Section 12.11.
+
+ 
+
+Section 6.3 Notification Required.  The Officer shall notify the Company in writing of any claim by the Internal Revenue Service that, if successful, would require the payment by the Company of the Gross-Up Payment.  Such notification shall be given as soon as practicable but no later than ten (10) business days after the Officer knows of such claim and shall apprise the Company of the nature of such claim and the date on which such claim is requested to be paid. The Officer shall not pay such claim prior to the expiration of the thirty (30) day period following the date on which it gives such notice to the Company (or such shorter period ending on the date that any payment of taxes with respect to such claim is due).  If the Company notifies the Officer in writing prior to the expiration of such period that it desires to contest such claim, the Officer shall:
+
+ 
+
+(a) give the Company any information reasonably requested by the  Company relating to such claim,
+
+ 
+
+(b) take such action in connection with contesting such claim as the  Company shall reasonably request in writing from time to time, including,  without limitation, accepting legal representation with respect to such  claim by an attorney reasonably selected by the Company,
+
+ 
+
+(c) cooperate with the Company in good faith in order to effectively  contest such claim,
+
+ 
+
+(d) permit the Company to participate in any proceedings relating to such claim, provided, however, that the Company shall bear and pay directly all costs and expenses (including additional interest and penalties) incurred in connection with such contest and shall indemnify and hold the Officer harmless, on an after-tax basis, for any Excise Tax or income tax, including interest and penalties with respect thereto, imposed as a result of such representation and payment of costs and expenses.  Any such payments hereunder shall be made in the manner specified in Section 12.11.  Without  limitation on the foregoing provisions of this Section 6.3, the Company shall control all proceedings taken in connection with such contest
+
+ 
+
+
+
+
+
+
+
+
+
+  
+
+
+
+- 6 -
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+and, at  its sole option, may pursue or forgo any and all administrative appeals,  proceedings, hearings and conferences with the taxing authority in respect  of such claim and may, at its sole option, either direct the Officer to  pay the tax claimed and sue for a refund, or contest the claim in any  permissible manner, and the Officer agrees to prosecute such contest to  a determination before any administrative tribunal, in a court of initial  jurisdiction and in one or more appellate courts, as the Company shall  determine; provided, however, that if the Company directs the Officer  to pay such claim and sue for a refund, the Company shall advance the  amount of such payment to the Officer, on an interest-free basis and  shall indemnify and hold the Officer harmless, on an after-tax basis,  from any Excise Tax or income tax, including interest or penalties with  respect thereto, imposed with respect to such advance or with respect to  any imputed income with respect to such advance; and further provided that  any extension of the statute of limitations relating to payment of taxes  for the taxable year of the Officer with respect to which such  contested amount is claimed to be due is limited solely to such contested  amount.  Furthermore, the Company's control of the contest shall be limited  to issues with respect to which a Gross-Up Payment would be payable  hereunder and the Officer shall be entitled to settle or contest, as  the case may be, any other issue raised by the Internal Revenue Service or  any other taxing authority.
+
+ 
+
+Section 6.4 Repayment.  If, after the receipt by the Officer of an amount advanced by the Company pursuant to Section 6.3, the Officer becomes entitled to receive any refund with respect to such claim, the Officer shall (subject to the Company's complying with the requirements of Section 6.3) promptly pay to the Company the amount of such refund (together with any interest paid or credited thereon after taxes applicable thereto).  If, after the receipt by the Officer of an amount advanced by the Company pursuant to Section 6.3, a determination is made that the Officer shall not be entitled to any refund with respect to such claim and the Company does not notify the Officer in writing of its intent to contest such denial of refund prior to the expiration of thirty days after such determination, then such advance shall be forgiven and shall not be required to be repaid and the amount of such advance shall offset, to the extent thereof, the amount of Gross-Up Payment required to be paid.
+
+ 
+
+ARTICLE VII
+
+ 
+
+SUCCESSORS TO COMPANY
+
+ 
+
+Section 7.1 Successors.  This Plan shall bind any successor (whether direct or indirect, by purchase, merger, consolidation or otherwise) to all or substantially all of the business and/or assets of the Company, in the same manner and to the same extent that the Company would be obligated under this Plan if no succession had taken place.  As used herein, "the Company" shall mean the Company as hereinbefore defined and any successor to its business and/or assets as aforesaid which otherwise becomes bound by all the terms and provisions hereof by operation of law.
+
+ 
+
+ARTICLE VIII
+
+DURATION, AMENDMENT, PLAN TERMINATION
+
+AND ADOPTION BY SUBSIDIARIES
+
+ 
+
+Section 8.1 Duration.  This Plan shall continue in effect until terminated in accordance with Section 8.2.  If a Change in Control occurs, this Plan shall  continue in full force and effect, and shall not terminate or expire, until after all Participants who have become entitled to a Severance Benefit hereunder shall have received all of such benefits in full.
+
+ 
+
+Section 8.2 Amendment and Termination.  The Plan and its attached Schedules may be terminated or amended in  any respect by resolution adopted by two-thirds of the Board; provided, however, that no such amendment or termination of the Plan may be made if such amendment or termination would adversely affect any right of a Participant who became a Participant prior to the later of (i) the date of adoption of any such amendment or termination, or (ii) the effective date of any such amendment or termination; and, provided further, that the Plan no longer shall be subject to amendment, change, substitution, deletion, revocation or termination which adversely affects any Participant in any respect whatsoever within two (2) years following a Change in Control.
+
+ 
+
+Section 8.3 Form of Amendment.  The form of any amendment or termination of the Plan shall be a written instrument signed by a duly authorized officer or officers of the Company, certifying that the amendment or termination has been approved by the Board.
+
+ 
+
+
+
+
+
+
+
+
+  
+
+
+
+- 7 -
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+
+
+
+
+
+  
+
+
+Section 8.4 Adoption by Subsidiaries.  Any Subsidiary of the Company may, with the approval of the Board of Directors of the Company, become an Employer under this Plan by either being listed on Schedule C and/or by executing and delivering to the Company an appropriate instrument agreeing to be bound as an Employer by all of the terms of the Plan with respect to its eligible employees.  Any such adoptive instrument may contain such changes and amendments in the terms and provisions of the Plan as adopted by such Subsidiary as may be desired by such Subsidiary and acceptable to the Company, and may specify the effective date of such adoption of the Plan and shall become as to such adopting Subsidiary a part of this Plan.
+
+
+ 
+
+
+
+
+
+
+
+
+
+ARTICLE IX
+
+CLAIMS AND APPEAL PROCEDURES
+
+ 
+
+Section 9.1 Claims Procedure.  With respect to any claim for Severance Benefits under the Plan, the Administrator will issue a decision on whether the claim is denied or granted within ninety (90) days after receipt of the claim by the Administrator, unless special circumstances require an extension of time for processing the claim, in which case a decision will be rendered not later than ninety (90) days after receipt of the claim.  Written notice of the extension will be furnished to the Participant prior to the expiration of the initial ninety (90) day period and will indicate the special circumstances requiring an extension of time for processing the claim and will indicate the date the Administrator expects to render its decision.  If the claim is denied in whole or in part, the decision in writing by the Administrator shall include the specific reasons for the denial and reference to the Plan provisions on which the denial is based.  The decision also shall include: (i) a description of any additional material or information necessary for the Participant to perfect the claim, and an explanation of why the material or information is necessary and (ii) an explanation of the claims review procedure and the time limits applicable to such procedures, including a statement of the Participant’s right to bring a civil action under section 502(a) of ERISA following a denial upon review of the claim.
+
+ 
+
+Section 9.2 Appeals Procedure.  If his claim is denied in whole or in part, an Participant may appeal in writing a denial of the claim, in part or in whole, and request a review by the Administrator.  The appeal must be submitted within sixty (60) days after notice of the denial of the claim.  The Administrator shall afford the Participant a full and fair review of the decision denying the claim and shall: (i) provide, upon request and free of charge, reasonable access to and copies of all documents, records and other information relevant to the claim; (ii) permit the Participant to submit to the Administrator written comments, documents, records and other information relating to the claim; and (iii) provide a review that takes into account all comments, documents, records and other information submitted by the Participant relating to the claim, without regard to whether such information was submitted or considered in the initial determination.   The Administrator will review the appeal and notify the Participant of the final decision within sixty (60) days after receiving the request for review unless the Administrator requires an extension due to special circumstances, in which case the final decision will be made within sixty (60) days after the Administrator receives the request for review.  If special circumstances require an extension of time, the Participant shall be furnished written notice prior to the termination of the initial 60-day period which explains the special circumstances requiring an extension of time and the date by which the Administrator expects to render its decision on review.  The decision on review shall include:  (i) specific reasons for the decision, (ii) references to the specific Plan provisions on which the decision of the Administrator is based, (iii) a statement that the Participant is entitled to receive, upon request and free of charge, reasonable access to and copies of all documents, records and other information relevant to the Participant’s claim, and (iv) a statement describing any voluntary appeal procedures offered by the Plan and a statement of the Participant’s right to bring an action under Section 502(a) of ERISA.
+
+ 
+
+Section 9.3 Exclusive Initial Remedy.  No action may be brought for benefits provided by this Plan or to enforce any right hereunder until after a claim has been submitted to and determined by the Administrator and all appeal rights under the Plan have been exhausted.  Thereafter, the Participant may bring an action for benefits provided by this Plan or to enforce any right hereunder.  The Participant's beneficiary should follow the same claims procedure in the event of the Participant's death.
+
+ 
+
+ARTICLE X
+
+PLAN ADMINISTRATION
+
+ 
+
+Section 10.1 In General.  The general administration of the Plan and the duty to carry out its provisions shall be vested in the Administrator, which shall be the “Plan Administrator” as that term is defined in Section 3(16)(A) of ERISA.  The Plan and Severance Benefits under the Plan shall be administered by the Administrator appointed from time to time by the Company.  The Administrator may, in its discretion, secure the services of other parties, including agents and/or employees to carry out the day-to-day functions necessary to an efficient operation of the Plan.  The Administrator's interpretations, decisions, requests and exercises of power and responsibilities shall not be subject to review by anyone and shall be final, binding, and conclusive upon all persons.  The Administrator shall, in its sole and absolute discretion, have the exclusive right to interpret all of the terms of the Plan, to determine eligibility for coverage and benefits, to resolve disputes as to eligibility, type, or 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+- 8 -
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+amount of benefits, to correct any errors or omissions in the form or operation of the Plan, to make such other determinations with respect to the Plan, and to exercise such other powers and responsibilities as shall be provided for in the Plan or as shall be necessary or helpful with respect thereto.  The Administrator under and pursuant to this Plan shall be the named fiduciary for purposes of section 402(a) of ERISA with respect to all powers and duties expressly or implicitly assigned to it hereunder.  Any determination or decision by the Company made under or with respect to any provision of the Plan shall be in the Company's sole and absolute discretion, shall not be subject to review by anyone and shall be final, binding and conclusive upon all persons.  Benefits under this Plan will be paid only if the Administrator decides in its discretion that the applicant is entitled to them.
+
+ 
+
+Section 10.2 Reimbursement and Compensation.  The Administrator shall receive no compensation for its services as Administrator, but it shall be entitled to reimbursement for all sums reasonably and necessarily expended by it in the performance of such duties.
+
+ 
+
+Section 10.3 Rulemaking Powers.  The Administrator shall have the power to make reasonable and uniform rules and regulations required in the administration of the Plan, to make all determinations necessary for the Plan's administration, except those determinations which the Plan requires others to make, and to construe and interpret the Plan wherever necessary to carry out its intent and purpose and to facilitate its administration.
+
+ 
+
+ARTICLE XI
+
+SOURCE OF SEVERANCE PAYMENT
+
+ 
+
+Section 11.1 No Separate Fund Established   All Severance Benefits shall be paid in cash from the general funds of the Company or an Employer, and no special or separate fund shall be established.  Nothing contained in the Plan shall create or be construed to create a trust of any kind, and nothing contained in the Plan nor any action taken pursuant to the provisions of the Plan shall create or be construed to create a fiduciary relationship between the Company or an Employer and a Participant, beneficiary, employee or other person.  To the extent that any person acquires a right to receive Severance Benefits from the Company or an Employer under the Plan, such right shall be no greater than the right of any unsecured general creditor of the Company or Employer.  For purposes of the Code, the Company intends this Plan to be an unfunded, unsecured promise to pay on the part of the Company.  For purposes of ERISA, the Company intends the Plan to be a “severance plan” within the meaning of the applicable ERISA regulations.
+
+ 
+
+ARTICLE XII
+
+MISCELLANEOUS
+
+ 
+
+Section 12.1 Participant's Legal Expenses.  The Company agrees to pay, upon written demand therefor by the Participant, fifty percent (50%) of all legal fees and expenses which the Participant may reasonably incur in order to collect amounts to be paid or obtain benefits to be provided to such Participant under the Plan, plus in each case interest at the "applicable Federal rate" (as defined in Section 1274(d) of the Code). In any such action brought by a Participant for damages or to enforce any provisions hereof, he shall be entitled to seek both legal and equitable relief and remedies, including, without limitation, specific performance of the Company's obligations hereunder, in his sole discretion.  However, in any instance where a Participant receives, as the result of a final, nonappealable judgment of a court of competent jurisdiction or a mutually agreed upon settlement with the Company, Severance Benefits greater than those first offered by the Company or its successor to the Participant, then the Company shall pay one hundred percent (100%) of all such legal fees and expenses incurred by the Participant.  Any such payments hereunder shall be made in the manner specified in Section 12.11.
+
+ 
+
+Section 12.2 Employment Status.  This Plan does not constitute a contract of employment or impose on the Employer any obligation to retain a Participant as an employee, to change the status of a Participant's employment, or to change any employment policies of the Employer.
+
+ 
+
+Section 12.3 Validity and Severability.  The invalidity or unenforceability of any provision of the Plan shall not affect the validity or enforceability of any other provision of the Plan, which shall remain in full force and effect, and any prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+ 
+
+
+Section 12.4 The Participant's Heirs, etc.  This Agreement shall inure to the benefit of and be enforceable by the Participant's personal or legal representatives, executors, administrators, successors, heirs, distributees, devisees and legatees.  If the Participant should die while any amounts would still be payable to him hereunder as if he had continued to live, all such amounts, unless otherwise provided herein, shall be paid in accordance with the terms hereof to his designee or, if there be no such designee, to his estate.
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+- 9 -
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+Section 12.5 Governing Law.  The validity, interpretation, construction and performance of the Plan shall in all respects be governed by the laws of the State of Texas.
+
+ 
+
+Section 12.6 Choice of Forum.  A Participant shall be entitled to enforce the provisions of this Plan in any state or federal court located in the Dallas County, Texas, in addition to any other appropriate forum.
+
+ 
+
+Section 12.7 Notice.  For the purposes hereof, notices and all other communications  provided for herein shall be in writing and shall be deemed to have been duly given when delivered or mailed by United States registered or certified mail, return receipt requested, postage prepaid, addressed to the Company at its principal place of business and to the Participant at his address as shown on the records of the Employer, provided that all notices to the Company shall be directed to the attention of the Chief Executive Officer of the Company with a copy to the Secretary of the Company, or to such other in writing in accordance herewith, except that notices of change of address shall be effective only upon receipt.
+
+ 
+
+Section 12.8 Alienation.  No benefit, right or interest of any person under the Plan will be subject to alienation, anticipation, sale, transfer, assignment, pledge, encumbrance or charge, seizure, attachment or legal, equitable or other process or be liable for or subject to, the debts, liabilities or other obligations of such persons, except as otherwise required by law.  No Participant, dependent or their beneficiary shall have any right or claim to benefits from the Plan, except as specified in the Plan.
+
+ 
+
+Section 12.9 Pronouns. A pronoun or adjective in the masculine gender includes the feminine gender, and the singular includes the plural, unless the context clearly indicates otherwise.
+
+ 
+
+Section 12.10 Section 409A.  It is the intent of the parties that this Plan be interpreted and administered in compliance with the requirements of section 409A of the Code (“Section 409A”) to the extent applicable.  In this connection, the Administrator or Company shall have authority to take any action, or refrain from taking any action, with respect to this Plan that is reasonably necessary to ensure compliance with Section 409A (provided that the Administrator or Company shall choose the action that best preserves the value of the payments and benefits provided to any Participant under this Plan).  In the event a Participant is a “specified employee” within the meaning of Section 409A, payments which constitute a “deferral of compensation” under Section 409A and which would otherwise become due during the first six (6) months following such Participant’s termination of employment shall: (i) be delayed; (ii) all such delayed payments shall be paid in full in the seventh (7th) month after the Participant’s termination of employment (the date of payment within such seventh month being within the sole discretion of the Company); and (iii) all subsequent payments shall be paid in accordance with their original payment schedule; provided, however, that the above delay shall not apply to any payments that are excepted from coverage by Section 409A, including, but not limited to, those payments covered by the short-term deferral exception described in Treasury Regulations section 1.409A-1(b)(4).  A termination of a Participant’s employment hereunder (and similar phrases used under the Plan), shall be interpreted as a “separation from service” within the meaning of Section 409A.  Notwithstanding the preceding, the Administrator, the Company and its Affiliates shall not be liable to any Participant or any other person if the Internal Revenue Service or any court or other authority having jurisdiction over such matter determines for any reason that any amount hereunder is subject to taxes, penalties or interest as a result of failing to comply with Section 409A.
+
+ 
+
+Section 12.11 Reimbursements.  With respect to the reimbursement of fees, taxes and expenses provided for herein, including payments made pursuant to indemnification provisions, and Gross Up Payments, the following shall apply:  (i) unless a specific time period during which such expense reimbursements and tax gross-up payments may be incurred is provided for herein, such time period shall be deemed to be Participant’s lifetime; (ii) the amount of expenses eligible for reimbursement hereunder in any particular year shall not affect the expenses eligible for reimbursement in any other year; (iii) the right to reimbursement of expenses shall not be subject to liquidation or exchange for any other benefit; and (iv) a Participant shall be entitled to a  reimbursement of an eligible expense or a Gross-Up Payment hereunder only if such claim or reimbursement request is made to the Employer on or before 15 days prior to  the last day of the calendar year following the calendar year in which the expense was incurred or the tax was remitted, as the case may be, and the reimbursement is made on or before the last day of such calendar year.
+
+ 
+
+December 15, 2011
+
+ 
+
+
+
+
+
+
+ 
+
+
+/s/ Mark C. Allen
+
+
+  
+
+Mark C. Allen
+
+Sr. Vice President and Chief Financial Officer
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+- 10 -
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+ 
+
+
+
+SCHEDULE A
+
+
+
+
+ 
+
+
+
+“Officers” entitled to Benefits of Section 6.1 of the Plan
+
+ 
+
+
+Mark Allen
+
+Dan Cole
+
+Robert Cornelius
+
+Brad Cox
+
+Ray Dubuisson
+
+Charlie Gibson
+
+Phil Rykhoek
+
+Barry Schneider
+
+Whitney Shelley
+
+Greg Dover
+
+Jeff Marcel
+
+John Filiatrault
+
+Alan Rhoades
+
+ 
+
+
+
+
+
+  
+
+
+
+- 11 -
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+ 
+
+
+SCHEDULE B
+
+
+
+
+ 
+
+
+
+“Investment Committee” as of December 15, 2011
+
+ 
+
+
+Phil Rykhoek
+
+Mark Allen
+
+Robert Cornelius
+
+Craig McPherson
+
+
+ 
+
+
+
+
+
+
+  
+
+
+
+- 12 -
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+DENBURY RESOURCES
+
+SEVERANCE PROTECTION PLAN
+
+ 
+
+
+
+SCHEDULE C
+
+
+
+
+ 
+
+
+
+“Participating Employers” as of December 15, 2011
+
+
+ 
+
+
+Denbury Onshore, LLC
+
+
+ 
+
+ 
+
+
+
+
+
+
+- 13 -
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,512 @@
+
+EX-10.2
+2
+a14-14913_1ex10d2.htm
+EX-10.2
+
+
+
+
+
+
+  
+
+
+Exhibit 10.2
+ 
+EXECUTION VERSION
+ 
+EMPLOYMENT AGREEMENT
+This EMPLOYMENT AGREEMENT (this Agreement) is made and entered into on the 14th day of December, 2012, by and between RockPile Management, LLC, with its principal place of business located at 1200 17th Street, Suite 2600 Denver, Colorado 80202 (the Company), and Robert Dacar, a resident of Denver, Colorado (Employee).
+ 
+W I T N E S S E T H :
+ 
+WHEREAS, Employee was appointed as the Companys Chief Executive Officer on October 22, 2012 (the Effective Date); and
+ 
+WHEREAS, the Company desires to enter into this Agreement embodying the terms of Employees employment as the Companys Chief Executive Officer, and Employee desires to enter into this Agreement and to accept such employment, subject to the terms and provisions of this Agreement.
+ 
+NOW, THEREFORE, in consideration of the promises and mutual covenants contained herein and for other good and valuable consideration, the receipt and sufficiency of which are mutually acknowledged, the Company and Employee hereby agree as follows:
+ 
+Section 1.                                          Definitions
+ 
+(a)         Accrued Obligations shall mean (i) all accrued but unpaid Base Salary through the date of termination of Employees employment, (ii) any unpaid or unreimbursed expenses incurred in accordance with Section 7 below, (iii) any accrued benefits provided under the Companys employee benefit plans upon a termination of employment, in accordance with the terms contained therein, and (iv) any allowance payable to Employee by the Company, in accordance with written Company policy.
+ 
+(b)         Agreement shall have the meaning set forth in the preamble hereto.
+ 
+(c)          Automobile Allowance shall have the meaning set forth in Section 4(f) below.
+ 
+(d)         Base Salary shall mean the salary provided for in Section 4 below or any increased salary granted to Employee pursuant to Section 4 below.
+ 
+(e)          Board shall mean the Board of Managers of the Company.
+ 
+(f)           Cause shall mean (i) Employees act(s) of gross negligence or willful misconduct in the course of Employees employment hereunder that is or could reasonably be expected to be materially injurious to the Company or any other member of the Company Group, (ii) willful failure or refusal by Employee to perform in any material respect his duties or responsibilities, (iii) misappropriation by Employee of any assets of the Company or any other member of the Company Group, (iv) embezzlement or fraud committed by Employee, or at his direction, (v) Employees conviction of, or pleading guilty or  no contest to, a felony under United States state or federal law.
+ 
+(g)          Change of Control shall mean the first to occur of any of the following, but only if such event constitutes a change in ownership or effective control of the Company or a change in ownership
+ 
+
+
+
+
+
+
+ 
+of a substantial portion of the assets of the Company within the meaning of Section 409A of the Code:
+ 
+(i)             the sale or disposition of all or substantially all of the Companys assets, or
+ 
+(ii)   a merger, consolidation, or reorganization of the Company with or involving any other entity, other than a merger, consolidation, or reorganization that would result in the voting securities of the Company outstanding immediately prior thereto continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity) at least forty percent (40%) of the combined voting power of the securities of the Company (or such surviving entity) outstanding immediately after such merger, consolidation, or reorganization.
+ 
+For the avoidance of doubt, a transaction triggering a Change of Control under either (i) or (ii) of this subsection shall not constitute a Change of Control for the purposes of this Agreement if the entities involved in such transaction are all members of the Company Group.
+ 
+(h)         Change of Control Severance Term shall mean the nine (9) month period following Employees termination pursuant to Section 8(h) below.
+ 
+(i)             Code shall mean the Internal Revenue Code of 1986, as amended.
+ 
+(j)            Company shall have the meaning set forth in the preamble hereto.
+ 
+(k)         Company Group shall mean the Company together with any direct or indirect subsidiaries of Triangle Petroleum Corporation, a Delaware corporation.
+ 
+(l)             Competing Business means any person, entity, or other business concern (other than the Company or any member of the Company Group) that engages in, or is planning to engage in, the business of providing hydraulic fracturing services and services related thereto to the oil and gas industry.
+ 
+(m)     Competitive Duties means duties that are the same or substantially similar to the duties Employee performed (or over which Employee had supervision) during the last twelve (12) months of Employees employment with the Company (or, if Employee is employed by the Company for less than twelve (12) months, those duties that are the same or substantially similar to the duties Employee had during Employees employment with the Company).
+ 
+(n)         Covered Client or Prospective Client means:  any member of the Company Groups clients or prospective clients with whom Employee had contact (whether in person, by phone, by e-mail, or otherwise) as an employee or representative of the Company during the last twelve (12) months of Employees employment with the Company (or, if Employee is employed by the Company for less than twelve (12) months, those clients or prospective clients with whom Employee had contact during Employees employment with the Company).
+ 
+(o)         Covered Compensation shall mean compensation paid or payable to Employee pursuant to this Agreement as Base Salary, STI Award, LTI Award, Special Bonus, Automobile Allowance, and any other allowances paid.
+ 
+2
+
+
+
+
+
+
+ 
+(p)         Disability shall mean any physical or mental disability or infirmity of the Employee that has prevented the performance of Employees duties for a period of (i) ninety (90) consecutive days or (ii) one hundred twenty (120) non-consecutive days during any twelve (12) month period. Any question as to the existence, extent, or potentiality of Employees Disability upon which Employee and the Company cannot agree shall be determined by a qualified, independent physician selected by the Company and approved by Employee (which approval shall not be unreasonably withheld). The determination of any such physician shall be final and conclusive for all purposes of this Agreement.
+ 
+(q)         Dispute shall have the meaning set forth in Section 16 below.
+ 
+(r)            Effective Date shall have the meaning set forth in the recitals hereto.
+ 
+(s)           Employee shall have the meaning set forth in the preamble hereto.
+ 
+(t)            Equity Interests means (a) capital stock, member interests, partnership interests, other equity interests, rights to profits or revenue and any other similar interest in any corporation, partnership, limited liability company or other business entity, (b) any security or other interest convertible into or exchangeable or exercisable for any of the foregoing, whether at the time of issuance or upon the passage of time or the occurrence of some future event and (c) any warrant, option or other right (contingent or otherwise) to acquire any of the foregoing.
+ 
+(u)         Good Reason shall mean, without Employees consent, (i) a material diminution in Employees title, duties, or responsibilities, (ii) a reduction in the Covered Compensation, (iii) the failure of the Company to pay any compensation hereunder when due or to perform any other obligation of the Company hereunder, (iv) the relocation of Employees principal place of employment to a country other than the United States, or (v) failure of the Company to obtain a written agreement from any successor or assign of the Company to assume the obligations of the Company under this Agreement upon a Change of Control.
+ 
+(v)         Initial Special Bonus shall have the meaning set forth in Section 4(e) below.
+ 
+(w)       LTI Award shall have the meaning set forth in Section 4(c) below.
+ 
+(x)         Membership Interests shall mean any and all membership interests in the Company granted to Employee from time to time.
+ 
+(y)         Person shall mean any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust (charitable or non-charitable), unincorporated organization, or other form of business entity.
+ 
+(z)          Release Expiration Date shall mean the date that is twenty-one (21) days following the date upon which the Company timely delivers Employee the release contemplated in Section 8(i) below, or in the event that such termination of employment is in connection with an exit incentive or other employment termination program (as such phrase is defined in the Age Discrimination in Employment Act of 1967), the date that is forty-five (45) days following such delivery date.
+ 
+(aa)  Restricted Area means the geographical area encompassing the Williston Basin and any other geological basin in which any member of the Company Group is operating.  The Parties
+ 
+3
+
+
+
+
+
+
+ 
+acknowledge and agree that the Company currently conducts business in the Williston Basin and plans to conduct business throughout the Williston Basin in the future.  Consequently, the parties agree that the entire geographical area of the Williston Basin is a reasonable Restricted Area for the purposes of the non-competition provisions of this Agreement.  The parties further agree that members of the Company Group may ultimately conduct operations in geological basins other than the Williston Basin, and any such basin in which a member of the Company Group conducts operations is a reasonable Restricted Area for the purposes of the non-competition provisions of this Agreement.
+ 
+(bb)  Severance Term shall mean the nine (9) month period following Employees termination by the Company without Cause (other than by reason of death or Disability) or by Employee for Good Reason.
+ 
+(cc)    Special Bonus shall have the meaning set forth in Section 4(d) below.
+ 
+(dd)  STI Award shall have the meaning set forth in Section 4(b) below.
+ 
+(ee)    Taxable Cost shall have the meaning set forth in Section 8(d)(iv) below.
+ 
+(ff)      Term of Employment shall mean the period specified in Section 2 below.
+ 
+Section 2.                                          Acceptance and Term of Employment.  The Company agrees to employ Employee, and Employee agrees to serve the Company, on the terms and conditions set forth herein. The Term of Employment shall mean the period commencing on the Effective Date and, unless terminated sooner as provided in Section 8 hereof, continuing for a period of four (4) years from the Effective Date; provided, however, that, unless terminated sooner as provided in Section 8 hereof, the Term of Employment shall be extended automatically at the end of the initial four (4) year term for a one (1) year term and thereafter for successive one (1) year terms if neither the Company nor Employee has advised the other in writing in accordance with Section 17 at least ninety (90) days prior to the end of the then current term that such term will not be extended for an additional one (1) year term.
+ 
+Section 3.                                          Position, Duties, and Responsibilities; Place of Performance.
+ 
+(a)         During the Term of Employment, Employee shall be employed and serve as the Chief Executive Officer (the CEO) of the Company and shall have such duties and responsibilities as are commensurate with such title. Employee shall report to the Board and shall carry out and perform all orders, directions and policies given to him by the Board consistent with his position and title.
+ 
+(b)         Employee shall devote his best efforts to the performance of his duties under this Agreement and shall not engage in any other business or occupation during the Term of Employment that interferes with Employees exercise of judgment in the Companys best interests.
+ 
+(c)          Employee shall perform Employees duties primarily in the Companys offices in Denver, Colorado; provided, however, that Employee shall travel to the extent reasonably necessary to fully perform Employees duties and responsibilities under this Agreement.
+ 
+4
+
+
+
+
+
+
+ 
+Section 4.                                          Compensation.  During the Term of Employment, Employee shall be entitled to the following compensation:
+ 
+(a)         Base Salary. Employee shall be paid an annualized Base Salary, payable in accordance with the regular payroll practices of the Company, of not less than USD $400,000, with increases, if any, as may be approved in writing by the Board.
+ 
+(b)         Short-Term Incentive Awards. In his capacity as CEO of the Company, Employee shall be eligible beginning in the Companys fiscal year 2014 and subsequent fiscal years for an annual short-term incentive cash award determined by the Board in respect of each fiscal year (or partial fiscal year) during the Term of Employment (the STI Award) in accordance with this Section 4(b). The intended target STI Award shall be up to 100% of Base Salary, and shall be tied directly to performance. The STI Award shall be paid as soon as practicable following the last day of the fiscal year, but in no event later than one day prior to the date that is 2 ½ months following the last day of the fiscal year.
+ 
+(c)          Long-Term Incentive Awards. In his capacity as CEO of the Company, Employee shall be eligible beginning in the Companys fiscal year 2014 and subsequent fiscal years for an annual long-term incentive award as may be determined by the Board in respect of each fiscal year (or partial fiscal year) during the Term of Employment (the LTI Award), which may be awarded in the form of Membership Interests. The intended target value of each LTI Award (determined, with respect to any LTI Award in the form of Membership Interests, based upon the grant date fair value of such Membership Interests determined pursuant to FASB Accounting Standards Codification Topic 718) shall be up to 200% of Base Salary.
+ 
+(d)         Special Bonus. Employee shall be eligible to receive bonuses (each a Special Bonus) in addition to the compensation set forth above if, in the determination of the Board, the Company achieves a significant operational or financial milestone in any fiscal year during the Term of Employment. Any such Special Bonus shall be deemed earned on the date of payment and shall be paid within 60 days following the fiscal year in which the applicable milestone occurred.
+ 
+(e)          Initial Special Bonus. In consideration of Employees service to members of the Company Group over multiple years for which Employee has received no bonus, Employee shall receive an initial Special Bonus in the amount of $900,000 (the Initial Special Bonus) as soon as practicable following the Effective Date but in no event later than the last day of the Companys fiscal year 2013.  Employee may, in the determination of the Board, be entitled to an additional Special Bonus for fiscal year 2013 service, but in no event shall the aggregate of the Initial Special Bonus plus any additional Special Bonus for fiscal year 2013 service exceed $2,000,000.  For the avoidance of doubt, any Special Bonus for fiscal year 2013 service shall be in lieu of any STI Award or LTI Award.
+ 
+(f)           Automobile Allowance. During the Term of Employment, Employee shall be paid a monthly automobile allowance in the gross amount of $1,500.00 (the Automobile Allowance), payable in bi-weekly installments, subject to appropriate withholding.
+ 
+Section 5.                                          Employee Benefits.
+ 
+(a)         General. During the Term of Employment, Employee shall be entitled to participate in health insurance and other benefits provided to other senior executives of the Company.
+ 
+5
+
+
+
+
+
+
+ 
+(b)         Vacation, Leave and Time Off. During each calendar year of the Term of Employment, Employee shall be eligible for thirty (30) days paid vacation or leave, as well as sick pay and other paid and unpaid time off in accordance with the policies and practices of the Company.
+ 
+Section 6.                                          Key-Man Insurance.  At any time during the Term of Employment, the Company shall have the right to insure the life of Employee for the sole benefit of the Company, in such amounts, and with such terms, as it may determine. All premiums payable thereon shall be the obligation of the Company. Employee shall have no interest in any such policy, but agrees to cooperate with the Company in procuring such insurance by submitting to physical examinations, supplying all information required by the insurance company, and executing all necessary documents, provided that no financial obligation is imposed on Employee by any such documents.
+ 
+Section 7.                                          Reimbursement of Business Expenses.  Employee is authorized to incur reasonable business expenses in carrying out his duties and responsibilities under this Agreement, and the Company shall promptly reimburse him for all such reasonable business expenses, subject to documentation in accordance with written Company policy, as in effect from time to time.
+ 
+Section 8.                                          Termination of Employment.
+ 
+(a)         General. The Term of Employment shall terminate earlier than as provided in Section 2 hereof upon the earliest occurrence pursuant to Sections 8(b) through 8(h) hereunder. Except as otherwise provided herein, all payments under this Section 8 shall occur within sixty (60) days following the termination date, assuming the Company has not given the Employee good faith written notice of Employees breach of Section 9 of this Agreement, in which case all payments other than the Accrued Obligations shall be withheld by the Company until such time as a court of competent jurisdiction shall finally adjudicate that Employee did not breach Section 9 hereof.
+ 
+(b)         Termination Due to Death or Disability. Employees employment shall terminate automatically upon his death. The Company may terminate Employees employment immediately upon the occurrence of a Disability, such termination to be effective upon Employees receipt of written notice of such termination. In the event Employees employment is terminated due to his death or Disability, Employee or his estate or his beneficiaries, as the case may be, shall be entitled to:
+ 
+(i)             the Accrued Obligations; and
+ 
+(ii)   any unpaid STI Award in respect of any completed fiscal year that has ended prior to the date of such termination; and any STI Award that would have been payable with respect to the year of termination in the absence of the Employees death or Disability, pro-rated for the period the Employee worked prior to his death or Disability, which amount shall be paid at such time STI Awards are paid to other senior executives of the Company, but in no event later than one day prior to the date that is 2 ½ months following the last day of the fiscal year in which such termination occurs; and
+ 
+(iii)  the rights to the same compensation and benefits as provided in Section 8(d) below, in lieu of clauses (i) through (iii) of this Section 8(b), if the termination of Employees employment is by reason of death or Disability while the Employee is traveling on official Company business.
+ 
+Following such termination of Employees employment by reason of death or Disability, except as set forth in this Section 8(b), Employee shall have no further rights to any compensation or any
+ 
+6
+
+
+
+
+
+
+
+ 
+other benefits under this Agreement, and any previously awarded Membership Interests which are not vested as of the date of termination shall be cancelled.
+ 
+(c)          Termination by the Company for Cause.
+ 
+(i)             The Company may terminate Employees employment at any time for Cause, effective upon Employees receipt of written notice of such termination; provided, however, that with respect to any Cause of termination relying on clause (i) or (ii) of the definition of Cause set forth in Section 1(e) hereof, to the extent such act or acts are curable, Employee shall be given not less than twenty (20) days written notice by the Board of the Companys intention to terminate him for Cause, such notice to state in detail the particular act or acts or failure or failures to act that constitute the grounds on which the proposed termination for Cause is based, and such termination shall be effective at the expiration of such twenty (20) day notice period unless Employee has substantially cured such act or acts or failure or failures to act that give rise to Cause during such period.
+ 
+(ii)    In the event the Company terminates Employees employment for Cause, he shall be entitled only to the Accrued Obligations, and any previously awarded Membership Interests which are not vested as of the date of termination shall be cancelled.
+ 
+Following such termination of Employees employment for Cause, except as set forth in this Section 8(c), Employee shall have no further rights to any compensation or any other benefits under this Agreement.
+ 
+(d)         Termination by the Company without Cause. The Company may terminate Employees employment at any time without Cause, effective upon Employees receipt of written notice of such termination. In the event Employees employment is terminated by the Company without Cause (other than due to death or Disability), Employee shall be entitled to:
+ 
+(i)    the Accrued Obligations; and
+ 
+(ii)   any unpaid STI Award in respect of any completed fiscal year that has ended prior to the date of such termination; and
+ 
+(iii)  continuation of payment of Base Salary during the Severance Term, payable in accordance with the Companys regular payroll practices, but commencing on the first payroll date following the date that is sixty (60) days following the termination date, which first payment shall include payments relating to such initial sixty (60) day period; and
+ 
+(iv)  continuation, during the Severance Term, of the health benefits provided to Employee and his covered dependents under the Companys health plans, it being understood and agreed that the Companys obligation to provide such continuation of benefits shall terminate prior to the expiration of the Severance Term in the event that Employee becomes eligible to receive any health benefits while employed by or providing service to, in any capacity, any other business or entity during the Severance Term; provided, however, that as a condition of the Companys providing the continuation of health benefits described herein, the Company may require Employee to elect continuation coverage under COBRA. Notwithstanding the foregoing, if such health benefits are provided to employees of the Company generally through a self-insured arrangement, and Employee qualifies as a highly compensated individual (within the meaning of Section 105(h) of the Code), such continuation of benefits
+ 
+7
+
+
+
+
+
+
+ 
+shall be provided on a fully taxable basis, based on 100% of the monthly premium cost of participation in the self-insured plan less any portion required to be paid by Employee (the Taxable Cost), and, as such, Employees W-2 shall include the after-tax value of the Taxable Cost for each month during the applicable benefit continuation period. Furthermore, no continuation of coverage shall be provided to the extent it results in adverse tax consequences to the Company under Section 4980D of the Code.
+ 
+Following such termination of Employees employment by the Company without Cause, except as set forth in this Section 8(d), Employee shall have no further rights to any compensation or any other benefits under this Agreement, and any previously awarded Membership Interests which are not vested as of the date of termination shall be cancelled.
+ 
+(e)          Termination by Employee with Good Reason. Employee may terminate his employment with Good Reason by providing the Company twenty (20) days written notice setting forth in reasonable specificity the event(s) that constitute(s) Good Reason. During such twenty (20) day notice period, the Company shall have a cure right (if curable), and if not cured within such period, Employees termination will be effective upon the expiration of such cure period, and Employee shall be entitled to the same payments and benefits as provided in Section 8(d) above for a termination by the Company without Cause, subject to the same conditions on payment and benefits as described in Section 8(d) above.
+ 
+Following such termination of Employees employment by Employee with Good Reason, except as set forth in this Section 8(e), Employee shall have no further rights to any compensation or any other benefits under this Agreement, and any previously awarded Membership Interests which are not vested as of the date of termination shall be cancelled.
+ 
+(f)           Termination by Employee without Good Reason. Employee may terminate his employment without Good Reason by providing the Company thirty (30) days written notice of such termination. In the event of a termination of employment by Employee under this Section 8(f), except as provided in Section 8(h), Employee shall be entitled only to the Accrued Obligations, and any previously awarded Membership Interests which are not vested as of the date of termination shall be cancelled. In the event of termination of Employees employment under this Section 8(f), the Company may, in its sole and absolute discretion, by written notice accelerate such date of termination without changing the characterization of such termination as a termination by Employee without Good Reason. Following such termination of Employees employment by Employee without Good Reason, except as set forth in this Section 8(f) or Section 8(h), Employee shall have no further rights to any compensation or any other benefits under this Agreement.
+ 
+(g)          Non-Extension of the Term of Employment. Employees employment hereunder shall terminate upon the close of business of the last day of the then current term if either the Company or Employee gives timely notice of its intention not to extend the then current term of employment, as provided in Section 2. Upon such termination of the Term of Employment, Employee shall be entitled to:
+ 
+(i)             the Accrued Obligations; and
+ 
+(ii)          any unpaid STI Award in respect of any completed fiscal year that has ended prior to the date of such termination, which amount shall be paid on the sixtieth (60th) day following the termination date.
+ 
+8
+
+
+
+
+
+
+ 
+(iii)  continuation of payment of Base Salary for a period of three (3) months, payable in accordance with the Companys regular payroll practices, but commencing on the first payroll date following the date that is sixty (60) days following the termination date, which first payment shall include payments relating to such initial sixty (60) day period; and
+ 
+(iv) continuation, for a period of six (6) months, of the health benefits provided to Employee and his covered dependents under the Companys health plans, subject to the terms and conditions set forth in Section 8(d)(iv) above.
+ 
+Following such termination of Employees employment pursuant to Section 2, except as set forth in this Section 8(g), Employee shall have no further rights to any compensation or any other benefits under this Agreement, and any previously awarded Membership Interests which are not vested as of the date of termination shall be cancelled.
+ 
+(h)         Termination Following Change of Control. If, upon a Change of Control of the Company or during the one (1) year period following such Change of Control, Employee is terminated by the Company without Cause or Employee terminates his employment with or without Good Reason, in lieu of the benefits payable pursuant to Sections 8(d) or 8(e) or 8(f) hereof, as applicable, Employee shall be entitled to:
+ 
+(i)             the Accrued Obligations; and
+ 
+(ii)          any unpaid STI Award in respect of any completed fiscal year that has ended prior to the date of such termination; and
+ 
+(iii)  the target STI Award for the year in which termination occurs, pro-rated for the period the Employee worked prior to such termination, which amount shall be paid at such time STI Awards are paid to other senior executives of the Company, but in no event later than one day prior to the date that is 2 ½ months following the last day of the fiscal year in which such termination occurs; and
+ 
+(iv)  a lump-sum cash payment equal to two (2) times Base Salary, which amount shall be paid on the sixtieth (60th) day following the termination date; and
+ 
+(v)   notwithstanding any provision that may exist in any award agreement, immediate vesting of any and all Membership Interests previously awarded to the Employee irrespective of type of award; and
+ 
+(vi)  continuation, during the Change of Control Severance Term, of the health benefits provided to Employee and his covered dependents under the Companys health plans, subject to the terms and conditions set forth in Section 8(d)(iv) above.
+ 
+Following such termination of Employees employment following a Change of Control, except as set forth in this Section 8(h), Employee shall have no further rights to any compensation or any other benefits under this Agreement.
+ 
+(i)             Release. Notwithstanding any provision herein to the contrary, the Company will require that, prior to payment of any amount or provision of any benefit pursuant to this Section 8 (other than the Accrued Obligations), Employee shall have executed, on or prior to the Release Expiration
+ 
+9
+
+
+
+
+
+
+ 
+Date, a general release in favor of the Company Group in such form as is acceptable to the Board, in its sole discretion, and any waiting or revocation periods contained in such release shall have expired. The Company shall deliver such release to Employee within ten (10) business days following the termination of Employees employment hereunder, and the Companys failure to deliver such release prior to the expiration of such ten (10) business day period shall constitute a waiver of any requirement to execute such release.
+ 
+Section 9.                                          Noncompetition and Nonsolicitation.  In consideration of the Companys employment of the Employee pursuant to the terms of this Agreement, so as to protect the Companys legitimate business interests (including the goodwill with which Employee will be associated), Employee agrees that while employed or otherwise engaged by the Company or any member of the Company Group, and thereafter for a period of eighteen (18) months immediately following the termination of Employees employment for whatever reason, Employee will not, directly or indirectly:
+ 
+(a)         carry on or engage in Competitive Duties (as a director, employee, consultant or otherwise) within the Restricted Area for any Competing Business;
+ 
+(b)         solicit (or assist another in soliciting) any Covered Client or Prospective Client for the purpose of inducing, or attempting to induce, such Covered Client or Prospective Client to cease or reduce its business with any member of the Company Group, or not to do business with the Company or any member of the Company Group; or
+ 
+(c)          (i) encourage (or assist another in encouraging) any employee, contractor, consultant, supplier, or vendor of the Company or any member of the Company Group to terminate his, her or its relationship with the Company or any member of the Company Group, or (ii) on behalf of a Competing Business, engage, employ, or solicit or contact for employment or engagement (or assist another in such activity) any employee, contractor or consultant of the Company or any member of the Company Group or any person who was an employee, contractor, or consultant of the Company or any member of the Company Group at any time during the last twelve (12) months of Employees employment with the Company (or, if Employee is employed by the Company for less than twelve (12) months, those persons who were employees, contractors, or consultants of the Company or any member of the Company Group during Employees employment with the Company).
+ 
+(d)         Value and Reasonableness.  Employee acknowledges and agrees that the Companys substantial investments in its business interests, goodwill, and Confidential Information are worthy of protection, and that the Companys need for the protection afforded by this Section 5 is greater than any hardship Employee might experience by complying with its terms. Employee further acknowledges and agrees that the restrictions set forth herein are based upon good consideration and do not place an unreasonable burden upon Employee or the public.  Employee also acknowledges and agrees that Employee constitutes executive and/or management personnel of the Company and that the limitations as to time, geographic area, and scope of activity to be restrained contained in this Agreement are reasonable and are not greater than necessary to protect the trade secrets and other Confidential Information, goodwill and other legitimate business interests of the Company.
+ 
+(e)          Reformation Requested.  Although the Company and Employee believe the limitations as to time, geographic area, and scope of activity contained in this Section 5 are reasonable and do not impose a greater restraint than necessary to protect the Companys Confidential Information and legitimate business interests, if this is judicially determined not to be the case, the Company and
+ 
+10
+
+
+
+
+
+
+ 
+Employee specifically request that the limitations contained in this Agreement be reformed to the extent necessary to make this Agreement enforceable.
+ 
+(f)           Non-Disparagement.  Employee further agrees that he will not disparage or comment negatively about the Company, any member of the Company Group, or their officers and management, and/or current or former employees.
+ 
+(g)          Acknowledgments.  Employee acknowledges and agrees that Employee will serve the Company as an officer and in an executive and management position pursuant to Colorado Revised Statutes § 8-2-113(2)(d).  Employee further acknowledges and agrees that, given the significant contacts that both the Company and Employee have to Colorado (which will be the location where the majority of Employees duties for the Company will be performed), Colorado law shall govern all aspects of Section 9 of this Agreement.
+ 
+Section 10.                                   Representations and Warranties of Employee.  Employee represents and warrants to the Company that:
+ 
+(a)         Employee is entering into this Agreement voluntarily and that his employment hereunder and compliance with the terms and conditions hereof will not conflict with or result in the breach by him of any agreement to which he is a party or by which he may be bound;
+ 
+(b)         Employee has not violated, and in connection with his employment with the Company will not violate, any non-solicitation, non-competition, or other similar covenant or agreement of a prior employer by which he is or may be bound; and
+ 
+(c)          in connection with his employment with the Company, Employee will not use any confidential or proprietary information he may have obtained in connection with employment with any prior employer.
+ 
+Section 11.                                   Taxes.  The Company may withhold from any payments made under this Agreement all applicable taxes, including but not limited to income, employment, and social security taxes, as shall be required by applicable law. Employee acknowledges and represents that the Company has not provided any tax advice to him in connection with this Agreement and that he has been advised by the Company to seek tax advice from his own tax advisors regarding this Agreement and payments that may be made to him pursuant to this Agreement, including specifically, the application of the provisions of Section 409A of the Code to such payments.
+ 
+Section 12.                                   Set Off; Mitigation.  The Companys obligation to pay Employee the amounts and to make the arrangements provided hereunder shall be subject to set-off, counterclaim, or recoupment of amounts owed by Employee to the Company or its affiliates; provided, however, that to the extent any amount so subject to set-off, counterclaim, or recoupment is payable in installments hereunder, such set-off, counterclaim, or recoupment shall not modify the applicable payment date of any installment, and to the extent an obligation cannot be satisfied by reduction of a single installment payment, any portion not satisfied shall remain an outstanding obligation of Employee and shall be applied to the next installment only at such time the installment is otherwise payable pursuant to the specified payment schedule. Employee shall not be required to mitigate the amount of any payment provided for pursuant to this Agreement by seeking other employment or otherwise, and except as provided in Section 8 hereof regarding health benefits, the amount of any payment provided for pursuant to this Agreement shall not be reduced by any compensation earned as a result of Employees other employment or otherwise.
+ 
+11
+
+
+
+
+
+
+ 
+Section 13.                                   Successors and Assigns; No Third-Party Beneficiaries.
+ 
+(a)         The Company. This Agreement shall inure to the benefit of the Company and its respective successors and assigns. Neither this Agreement nor any of the rights, obligations, or interests arising hereunder may be assigned by the Company to a Person (other than another member of the Company Group, or its or their respective successors) without Employees prior written consent; provided, however, that in the event of the merger or consolidation, or transfer or sale of all or substantially all of the assets, of the Company with or to any other individual or entity, this Agreement shall, subject to the provisions hereof, be binding upon and inure to the benefit of such successor, and such successor shall discharge and perform all the promises, covenants, duties, and obligations of the Company hereunder, it being agreed that in such circumstances, the consent of Employee shall not be required in connection therewith.
+ 
+(b)         Employee. Employees rights and obligations under this Agreement shall not be transferable by Employee by assignment or otherwise, without the prior written consent of the Company; provided, however, that if Employee shall die, all amounts then payable to Employee hereunder shall be paid in accordance with the terms of this Agreement to Employees devisee, legatee, or other designee, or if there be no such designee, to Employees estate.
+ 
+(c)          No Third-Party Beneficiaries. Except as otherwise set forth in Section 8(b) hereof, nothing expressed or referred to in this Agreement will be construed to give any Person other than the Company, the other members of the Company Group, and Employee any legal or equitable right, remedy, or claim under or with respect to this Agreement or any provision of this Agreement.
+ 
+Section 14.                                   Waiver and Amendments.  Any waiver, alteration, amendment, or modification of any of the terms of this Agreement shall be valid only if made in writing and signed by each of the parties hereto; provided, however, that any such waiver, alteration, amendment, or modification is consented to on the Companys behalf by the Board. No waiver by either of the parties hereto of their rights hereunder shall be deemed to constitute a waiver with respect to any subsequent occurrences or transactions hereunder unless such waiver specifically states that it is to be construed as a continuing waiver.
+ 
+Section 15.                                   Severability.  If any covenants or such other provisions of this Agreement are found to be invalid or unenforceable by a final determination of a court of competent jurisdiction, (a) the remaining terms and provisions hereof shall be unimpaired, and (b) the invalid or unenforceable term or provision hereof shall be deemed replaced by a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision hereof.
+ 
+Section 16.                                   Governing Law, Venue, and Jurisdiction.  In the event of any dispute arising from or related to this Agreement or the employment relationship between the Company and Employee (a Dispute), such Dispute and this Agreement shall be governed by the laws of the State of Colorado, without regard to its conflicts of law provisions.  Any Dispute shall be resolved exclusively in the Colorado state or federal courts.  The Company and Employee hereby irrevocably agree to submit to the jurisdiction of such courts.  Each party shall bear its own costs, including attorneys fees, subject to the following: nothing provided herein shall interfere with either partys right to seek or receive damages or costs as may be allowed by applicable statutory law (such as, but not necessarily limited to, reasonable attorneys fees and dispute resolution related costs and expenses, if allowed by applicable statutory law).
+ 
+12
+
+
+
+
+
+
+ 
+Section 17.                                   Notices.
+ 
+(a)         Every notice or other communication relating to this Agreement shall be in writing, and shall be mailed to or delivered to the party for whom or which it is intended at such address as may from time to time be designated by it in a notice mailed or delivered to the other party as herein provided; provided, that unless and until some other address be so designated, all notices and communications by Employee to the Company shall be mailed or delivered to the Company at its principal executive office, and all notices and communications by the Company to Employee may be given to Employee personally or may be mailed to Employee at Employees last known address, as reflected in the Companys records.
+ 
+(b)         Any notice so addressed shall be deemed to be given (i) if delivered by hand, on the date of such delivery, (ii) if mailed by courier or by overnight mail, on the first business day following the date of such mailing, and (iii) if mailed by registered or certified mail, on the third business day after the date of such mailing.
+ 
+Section 18.                                   Section Headings; Mutual Drafting.
+ 
+(a)         The headings of the sections and subsections of this Agreement are inserted for convenience only and shall not be deemed to constitute a part thereof or affect the meaning or interpretation of this Agreement or of any term or provision hereof.
+ 
+(b)         The parties are sophisticated and have been represented (or have had the opportunity to be represented) by their separate attorneys throughout the transactions contemplated by this Agreement in connection with the negotiation and drafting of this Agreement and any agreements and instruments executed in connection herewith. As a consequence, the parties do not intend that the presumptions of laws or rules relating to the interpretation of contracts against the drafter of any particular clause should be applied to this Agreement or any document or instrument executed in connection herewith, and therefore waive their effects.
+ 
+Section 19.                                   Entire Agreement.  This Agreement, together with any exhibits attached hereto, constitutes the entire understanding and agreement of the parties hereto regarding the employment of Employee. This Agreement supersedes all prior negotiations, discussions, correspondence, communications, understandings, and agreements between the parties relating to the subject matter of this Agreement.
+ 
+Section 20.                                   Survival of Operative Sections.  Upon any termination of Employees employment, this Agreement shall survive to the extent necessary to give effect to the provisions thereof.
+ 
+Section 21.                                   Section 409A.  The intent of the parties is that payments and benefits under this Agreement comply with Section 409A of the Code, to the extent subject thereto, and accordingly, to the maximum extent permitted, this Agreement shall be interpreted and administered to be in compliance therewith. Notwithstanding anything contained herein to the contrary, Employee shall not be considered to have terminated employment with the Company for purposes of this Agreement unless Employee would be considered to have incurred a separation from service from the Company within the meaning of Section 409A of the Code. Each amount to be paid or benefit to be provided under this Agreement shall be construed as a separate identified payment for purposes of Section 409A of the Code, and any payments described in this Agreement that are due within the short term deferral period as defined in Section 409A of the Code shall not be treated as deferred compensation unless applicable law requires otherwise. Without limiting the foregoing and notwithstanding anything contained herein to the contrary,
+ 
+13
+
+
+
+
+
+
+ 
+to the extent required in order to avoid accelerated taxation and/or tax penalties under Section 409A of the Code, amounts that would otherwise be payable and benefits that would otherwise be provided pursuant to this Agreement during the six-month period immediately following Employees separation from service shall instead be paid on the first business day after the date that is six months following Employees separation from service (or death, if earlier). To the extent required to avoid an accelerated or additional tax under Section 409A of the Code, amounts reimbursable to Employee under this Agreement shall be paid to Employee on or before the last day of the year following the year in which the expense was incurred and the amount of expenses eligible for reimbursement (and in-kind benefits provided to Employee) during any one year may not effect amounts reimbursable or provided in any subsequent year. The Agreement may be amended in any respect deemed by the Board or the Board to be necessary in order to preserve compliance with Section 409A of the Code.
+ 
+Section 22.                                   Counterparts.  This Agreement may be executed in two or more counterparts, each of which shall be deemed to be an original but all of which together shall constitute one and the same instrument. The execution of this Agreement may be by actual, facsimile, or pdf. signature.
+ 
+[Signatures follow]
+ 
+14
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the undersigned have executed this Employment Agreement as of the date first above written.
+ 
+ 
+
+
+
+     
+
+ROCKPILE   MANAGEMENT, LLC        
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+RockPile   Management Holdings, LLC,       
+
+
+     
+
+     
+
+its   managing member        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:       
+
+RockPile   Energy Services, LLC,       
+
+
+     
+
+     
+
+its   sole member       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+/s/   James C. Evans       
+
+
+     
+
+By:   James C. Evans       
+
+
+     
+
+Title:   Chief Financial Officer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+EMPLOYEE       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+/s/   Robert Dacar       
+
+
+     
+
+Robert   Dacar         
+ 
+
+
+
+
+
+
+

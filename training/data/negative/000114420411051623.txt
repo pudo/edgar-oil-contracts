@@ -1,0 +1,252 @@
+
+EX-10.01
+2
+v234285_ex10-01.htm
+EXHIBIT 10.01
+
+
+
+    Unassociated Document
+    
+    
+    
+
+
+
+EXHIBIT 10.01
+
+
+
+
+FORM OF RESTRICTED STOCK UNIT AGREEMENT
+
+TRIANGLE PETROLEUM CORPORATION
+
+2011 OMNIBUS INCENTIVE PLAN
+
+
+
+
+This Agreement (this “Agreement”) is entered into as of [insert date of grant] (the “Date of Grant”), by and between the Company and [insert name] (the “Participant”).  Capitalized terms used without definition herein shall have the meaning ascribed to them in the Triangle Petroleum Corporation 2011 Omnibus Incentive Plan (the “Plan”).
+
+ 
+
+1.           Grant of RSUs.  The Company hereby grants to the Participant an award of [   ] restricted stock units (the “RSUs”), subject to all of the terms and conditions of this Agreement and the Plan.  Except as otherwise provided in this Agreement or the Plan, an RSU granted hereunder shall represent the right to receive one share of Common Stock and shall be paid as soon as reasonably practicable following each Vesting Date (as defined in Section 2 below), but in no event later than thirty (30) days following the occurrence of such Vesting Date.
+
+ 
+
+2.           Vesting and Terminations.
+
+ 
+
+(a)           Vesting.  Subject to Section 2(b) below, the RSUs shall vest [insert vesting schedule] (each such installment, a “Vesting Date”), subject to the Participant’s continued employment from the Date of Grant through the relevant Vesting Date, and provided that the Participant has not given notice of resignation, as of each such Vesting Date.
+
+ 
+
+(b)           Terminations of Employment.
+
+ 
+
+(i)           Upon the termination of the Participant’s employment or services for any reason, except as may be provided in Section 2(b)(ii) below, any RSUs that have not yet vested shall be immediately forfeited by the Participant and transferred to, and reacquired by, the Company without consideration of any kind and neither the Participant nor any of the Participant’s successors, heirs, assigns, or personal representatives shall thereafter have any further rights or interests in such RSUs.
+
+ 
+
+(ii)           If the Participant’s employment is terminated (1) by the Company without Cause or (2) on account of Participant’s death or Disability, then the RSUs shall vest in full and shall be paid as soon as reasonably practicable following such termination, but in no event later than thirty (30) days following such termination.
+
+ 
+
+3.           Change in Control.  Upon the occurrence of a Change in Control, all then-outstanding RSUs shall vest and be paid as soon as reasonably practicable following such Change in Control, but in no event later than thirty (30) days following such Change in Control.  Notwithstanding the foregoing, to the extent the RSUs are determined to be deferred compensation subject to Section 409A of the Code, a Change in Control shall only occur if such event constitutes a change in ownership or effective control of the Company or a change in ownership of a substantial portion of the assets of the Company within the meaning of Section 409A of the Code.
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+ 
+
+4.           Securities Laws Requirements.  The Company shall not be obligated to issue shares of Common Stock to the Participant free of any other restrictive legend, if such transfer, in the opinion of counsel for the Company, would violate the Securities Act of 1933, as amended, or any other federal or state statutes having similar requirements that may be in effect at the relevant time.
+
+ 
+
+5.           No Rights as a Stockholder.  The Participant shall have no rights of a stockholder unless and until shares of Common Stock are issued following the vesting of the RSUs.
+
+ 
+
+6.           Taxes.  The Company shall be entitled to require a cash payment by or on behalf of the Participant and/or to deduct from other compensation payable to the Participant or from the shares of Common Stock otherwise issuable in respect of the RSUs any sums required by federal, state or local tax law to be withheld or to satisfy any applicable payroll deductions with respect to the vesting or payment of any RSUs.
+
+ 
+
+7.           Award Agreement Subject to Plan; Entire Agreement.  This Agreement is made pursuant to all of the provisions of the Plan, which is incorporated herein by this reference, and is intended, and shall be interpreted in a manner, to comply therewith.  This Agreement, together with the Plan, constitutes the entire understanding and agreement of the parties hereto regarding the grant of RSUs.  This Agreement supersedes all prior negotiations, discussions, correspondence, communications, understandings and agreements between the parties relating to the subject matter of this Agreement.
+
+ 
+
+8.           Amendments; Construction.  The Committee may amend the terms of this Agreement prospectively or retroactively at any time, but no such amendment shall impair the rights of the Participant hereunder without the Participant’s consent, except as provided in Section 4(c) of the Plan.
+
+ 
+
+9.           Agreement Binding on Successors.  The terms of this Agreement shall be binding upon the Participant and upon the Participant’s heirs, executors, administrators, personal representatives, permitted transferees, assignees and successors in interest, and upon the Company and its successors and assignees, subject to the terms of the Plan.
+
+ 
+
+10.         No Rights to Continuation of Employment.  Nothing in the Plan or this Agreement shall confer upon the Participant any right to continue in the employ of the Company or any Subsidiary thereof or shall interfere with or restrict the right of the Company or its stockholders (or of a Subsidiary or its equityholders, as the case may be) to terminate the Participant’s employment at any time for any reason whatsoever, with or without Cause.
+
+ 
+
+11.         No Assignment.  Notwithstanding anything to the contrary in this Agreement, neither this Agreement nor any rights granted herein shall be assignable by Participant.
+
+ 
+
+12.         Necessary Acts.  The Participant hereby agrees to perform all acts, and to execute and deliver any documents that may be reasonably necessary to carry out the provisions of this Agreement, including but not limited to all acts and documents related to compliance with federal and/or state securities and/or tax laws.
+
+ 
+
+
+
+  
+
+
+
+2
+
+
+
+
+
+
+ 
+
+
+ 
+
+13.         Section 409A Compliance.  The intent of the parties is that payments and benefits under this Agreement comply with Section 409A of the Code to the extent subject thereto, and, accordingly, to the maximum extent permitted, this Agreement shall be interpreted and be administered to be in compliance therewith.  Notwithstanding anything contained herein to the contrary, to the extent required in order to avoid accelerated taxation and/or tax penalties under Section 409A of the Code, the Participant shall not be considered to have terminated employment or service for purposes of this Agreement until the Participant would be considered to have incurred a “separation from service” within the meaning of Section 409A of the Code.  Any payments described in this Agreement or the Plan that are due within the “short-term deferral period” as defined in Section 409A of the Code shall not be treated as deferred compensation unless applicable law requires otherwise.  Notwithstanding anything to the contrary in this Agreement or the Plan, to the extent that any RSUs are payable to a “specified employee” (within the meaning of Section 409A of the Code) upon a separation from service and such payment would result in the imposition of any individual penalty tax or late interest charges imposed under Section 409A of the Code, the settlement and payment of such awards shall instead be made on the first business day after the date that is six (6) months following such separation from service (or death, if earlier).‬
+
+ 
+
+14.         Severability.  Should any provision of this Agreement be held by a court of competent jurisdiction to be unenforceable, or enforceable only if modified, such holding shall not affect the validity of the remainder of this Agreement, the balance of which shall continue to be binding upon the parties hereto with any such modification (if any) to become a part hereof and treated as though contained in this original Agreement.  Moreover, if one or more of the provisions contained in this Agreement shall for any reason be held to be excessively broad as to scope, activity, subject or otherwise so as to be unenforceable, in lieu of severing such unenforceable provision, such provision or provisions shall be construed by the appropriate judicial body by limiting or reducing it or them, so as to be enforceable to the maximum extent compatible with the applicable law as it shall then appear, and such determination by such judicial body shall not affect the enforceability of such provisions or provisions in any other jurisdiction.
+
+ 
+
+15.         Headings.  Section headings are used solely for the convenience of the parties and shall not be deemed to be a limitation upon or descriptive of the contents of any such Section.
+
+ 
+
+16.         Counterparts.  This Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original and all of which together shall be deemed to be one and the same instrument.
+
+ 
+
+17.         Electronic Signature.  The Participant’s electronic signature of this Agreement shall have the same validity and effect as a signature affixed by the Participant’s hand.
+
+ 
+
+18.         Governing Law.  This Agreement shall be governed by and construed in accordance with the laws of the State of Colorado, except as superseded by applicable federal law, without giving effect to its conflicts of law provisions.
+
+ 
+
+[signature page follows]
+
+ 
+
+
+
+  
+
+
+
+3
+
+
+
+
+
+
+ 
+
+
+ 
+
+IN WITNESS WHEREOF, the parties hereto have executed and delivered this Agreement on the day and year first above written.
+
+ 
+
+
+
+
+
+TRIANGLE PETROLEUM CORPORATION
+
+ 
+
+ 
+ 
+ 
+
+
+By:
+
+  
+ 
+
+
+Name: 
+
+  
+ 
+
+
+Title:
+
+  
+ 
+
+  
+  
+ 
+
+  
+ 
+
+
+PARTICIPANT
+
+ 
+
+
+
+
+
+
+[Signature Page to RSU Agreement]
+
+ 
+
+
+
+  
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+

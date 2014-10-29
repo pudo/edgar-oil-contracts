@@ -1,0 +1,862 @@
+
+EX-10.35
+2
+v375209_ex10-35.htm
+EXHIBIT 10.35
+
+
+
+     
+
+
+
+ 
+
+
+
+Exchange
+Agreement
+
+ 
+
+This
+Exchange Agreement (“Agreement”) is made and entered into, effective as of __________
+__, 2014 (the "Effective Date"), by and between EnerJex Resources,
+Inc., a Nevada corporation (the “Company”), and the stockholders of the Company holding shares
+of the Company's "Existing Series A Shares," as such term is defined below (the “Stockholders”),
+with reference to the following facts:
+
+ 
+
+Recitals
+
+ 
+
+A.                
+Each of the Stockholders is a holder of shares of the Company’s Series A Preferred Stock (the “Existing
+Series A Shares”) having the rights, preferences, and privileges, and subject to the restrictions and limitations,
+set forth in that certain "Certificate of Designation of Preferences, Rights, and Limitations of Series A Preferred Stock"
+filed with the Secretary of State of the State of Nevada on December 31, 2010 (the "Existing COD").
+
+ 
+
+B.                
+Under the terms of the Existing COD, (i) the Company issued 4,779,460 Existing Series A Shares at a price of $1.00 per share,
+(ii) each such Existing Series A Share is presently convertible into one (1) share of Common Stock, (iii) each Stockholder is entitled
+to receive certain preferential dividends in an aggregate cumulative amount equal to $1.00 per share (i.e., preferential
+dividends in an aggregate cumulative amount equal to $4,779,460 for all Stockholders) (such preferential payment, the "Series
+A Preferential Dividend"), and (iv) upon the Company's payment of aggregate cumulative amount equal to $1.00 per Existing
+Series A Share, all issued and outstanding Existing Series A Shares will be automatically converted into Common Stock at the then-current
+conversion ratio.
+
+ 
+
+C.                
+At present, the Company has paid cumulative Series A Preferential Dividends to the Stockholders in the amount of $[1,704,239],
+and the Stockholders in the aggregate are entitled to future Series A Preferential Dividends in the aggregate amount of $[3,075,221].
+
+ 
+
+D.                
+The Company is seeking to simplify its capital structure, to eliminate the financial and operating constraints imposed by
+the terms of the preferential dividends payable with respect to the Existing Series A Shares, and to raise additional working capital
+through the issuance of shares of preferred stock, and in order to accomplish those objectives, the Company is proposing:
+
+ 
+
+(i)                
+To adopt and file that certain "Amended and Restated Certificate of Designation of Preferences, Rights, and Limitations
+of Series A Preferred Stock" in the form attached hereto as Exhibit A
+(the "Restated COD"), in order to amend the terms of the Existing Series A Shares to be as set forth in
+that Restated COD (the shares of Series A Preferred, as their terms are so amended, the "New Series A Shares");
+and
+
+ 
+
+(ii)              
+To issue and sell New Series A Shares to investors, in an underwritten public offering of such shares (the "Public
+Offering"), at such price per share that is paid by the investors subscribing for New Series A Shares in that Public
+Offering (such price per share, the "Original Issue Price"); and
+
+ 
+
+(iii)            
+Concurrently with the first closing of the issuance of the New Series A Shares in that Public Offering, to effect a share
+exchange transaction (the "Share Exchange") in which each of the Stockholders will exchange each Existing
+Series A Share for the following shares (the "New Shares"):
+
+ 
+
+(A)             
+one (1) share of the Company’s Common Stock, par value $0.0001 per share (the "Common Stock"),
+and
+
+ 
+
+
+
+
+    1.
+     
+    
+
+ 
+
+(B)             
+a number of New Series A Shares equal to the quotient determined by dividing (x) the Stockholder's undisbursed Series A
+Preferential Dividend with respect to each Existing Series A Share owned by the Stockholder, by (y) the New Series A Original Issue
+Price per share.
+
+ 
+
+E.                 
+The adoption of the Restated COD and the execution and delivery of this Agreement are conditions precedent to the closing
+of the Public Offering.
+
+ 
+
+F.                 
+The parties intend for the Share Exchange to be a tax free exchange of property pursuant to Section 368 of the Internal
+Revenue Code, and to be exempt from registration under Section 3a-9 of the Securities Act of 1933, as amended (the "Act").
+
+ 
+
+Agreement
+
+ 
+
+Now
+Therefore, the Company and the Stockholders, intending to be legally bound, and for mutual and valid consideration,
+agree as follows:
+
+ 
+
+
+Section1      
+Exchange of Shares 
+
+ 
+
+1.1             
+Share Exchange. Upon consummation
+of the Share Exchange:
+
+ 
+
+(a)              
+Each of the Stockholders will transfer the Existing Series A Shares to the Company for cancellation, and
+
+ 
+
+(b)              
+The Company will issue and deliver to each Stockholder with respect to each Existing Series A Share owned by such Stockholder:
+
+ 
+
+(i)                
+one (1) share of the Company’s Common Stock; and
+
+ 
+
+(ii)              
+a number of New Series A Shares equal to the quotient determined by dividing (x) the Stockholder's undisbursed Series
+A Preferential Dividend, by (y) the New Series A Original Issue Price per share. No fractional shares will be issued in that exchange;
+in lieu thereof, the Company will deliver to each holder cash for fractions of a share based upon the New Series A Original Issue
+Price per whole share.
+
+ 
+
+1.2             
+Transfer Taxes. Any transfer taxes, stamp duties, filing fees,
+recordation expenses, or other similar taxes, fees, charges or expenses incurred by a Stockholder in connection with the transfer
+of the Existing Series A Shares to the Company or in connection with any of the other transactions contemplated by this Agreement
+will be borne and paid by such Stockholder.
+
+ 
+
+
+Section2      
+The Share Exchange 
+
+ 
+
+2.1             
+Closing; Exchange Date. The closing of the Share Exchange contemplated
+by Section 1 (the “Closing”) will be held at the offices of the Company (or by consummated
+by remote delivery of documents by overnight courier, facsimile, and email) on such date as is selected by the Company upon not
+less than five (5) days' prior written notice to the Stockholders and is prior to the date of the first closing of the issuance
+of the New Series A Shares in the Public Offering (the “Exchange Date”).
+
+ 
+
+
+
+
+    2.
+     
+    
+
+ 
+
+2.2             
+Deliveries. At the Closing:
+
+ 
+
+(a)              
+Each Stockholder will deliver to the Company (i) all stock certificates representing the Existing Series A Shares owned
+by such Stockholder, for cancellation by the Company (or, if a Stockholder is unable to find one or more such stock certificates,
+then a lost securities affidavit in form acceptable to the Company), and (ii) a stock assignment separate from certificate in the
+form attached hereto as Exhibit B;
+
+ 
+
+(b)              
+The Company will issue new certificates to each Stockholder representing the newly issued New Shares; and
+
+ 
+
+(c)               
+Upon the Share Exchange Date, each Existing Series A Share issued and outstanding immediately prior to such date will,
+without any further action by the Company, be canceled and returned to the status of authorized but unissued shares.
+
+ 
+
+Section
+3       Representations and Warranties of
+Stockholders. Each of the Stockholders represents and warrants to the Company, severally and
+not jointly, that the following statements are true, accurate and complete in all material respects:
+
+ 
+
+3.1             
+Title to Shares. Each of the Stockholders has good and valid title
+to the Existing Series A Shares, free and clear of any encumbrances other than encumbrances that will attach to the New Shares
+issued to the Stockholder hereunder. On the Share Exchange Date, the Company will acquire good and valid title to the Existing
+Series A Shares free and clear of any encumbrances.
+
+ 
+
+3.2             
+Requisite Power and Authority.  Each of the Stockholders has all
+necessary power and authority under all applicable provisions of law to execute and deliver this Agreement and to carry out its
+provisions. All action on the part of each of the Stockholders required for the lawful execution and delivery of this Agreement
+has been or will be effectively taken prior to the Share Exchange. Upon its execution and delivery, this Agreement will be the
+valid and binding obligation of each of the Stockholders, enforceable against such Stockholder in accordance with its terms, except
+(a) as limited by applicable bankruptcy, insolvency, reorganization, moratorium or other laws of general application affecting
+enforcement of creditors’ rights and (b) as limited by general principles of equity that restrict the availability of
+equitable remedies.
+
+ 
+
+3.3             
+Investment Representations. Each of the Stockholders understands
+that the New Shares have not been registered under the Securities Act of 1933, as amended (the “Securities Act”).
+Each Stockholder represents that it is an accredited investor within the meaning of Regulation D under the Securities Act. Stockholder
+is acquiring the New Shares for Stockholder’s own account for investment only, and not with a view towards distribution.
+
+ 
+
+Section
+4       Representations and Warranties of
+the Company. The Company represents and warrants that, to the best of its knowledge, the following
+statements are accurate in all material respects:
+
+ 
+
+4.1             
+Good Standing and Corporate Power. The Company is validly existing
+and in good standing as a corporation under the laws of the State of Nevada, and has all necessary corporate power to perform its
+obligations under this Agreement.
+
+ 
+
+4.2             
+Authorization.
+
+ 
+
+(a)              
+All corporate action on the part of the Company, its officers, directors and stockholders necessary for the authorization
+of this Agreement, the performance of all obligations of the Company hereunder at the Share Exchange Date and the authorization,
+issuance and delivery of the New Shares pursuant hereto has been taken or will be effectively taken prior to the Share Exchange.
+Upon its execution and delivery, this Agreement will be valid and binding on the Company enforceable in accordance with its terms,
+except (a) as limited by applicable bankruptcy, insolvency, reorganization, moratorium or other laws of general application
+affecting enforcement of creditors’ rights and (b) as limited by general principles of equity that restrict the availability
+of equitable remedies.
+
+ 
+
+
+
+
+    3.
+     
+    
+
+ 
+
+(b)              
+All New Shares issued in the Share Exchange shall be duly authorized and validly issued, fully paid and nonassessable
+and will be free of any liens or encumbrances other than liens and encumbrances created by or imposed upon the Stockholders.
+
+ 
+
+(c)               
+All New Shares issued in the Share Exchange will be issued in compliance with all applicable state and federal laws
+concerning the issuance of securities.
+
+ 
+
+(d)              
+The issuance of New Shares in the Share Exchange will not be subject to any preemptive rights or rights of first refusal
+that have not been properly waived or complied with.
+
+ 
+
+4.3             
+Compliance with Other Instruments. The execution, delivery, and
+performance of and compliance with this Agreement and the issuance of the New Shares pursuant to the Share Exchange, will not,
+with or without the passage of time or giving of notice, result in any material violation, default or conflict with any provision
+of any mortgage, indenture, contract, lease, agreement, or instrument to which the Company or its subsidiaries is party or by which
+the Company or its subsidiaries is bound or of any judgment, decree, order or writ and will not result in the creation of any mortgage,
+pledge, lien, encumbrance or charge upon any of the properties or assets of the Company or its subsidiaries or the suspension,
+revocation, impairment, forfeiture or nonrenewal of any permit, license, authorization or approval applicable to the Company, its
+subsidiaries, its business or operations or any of its assets or properties.
+
+ 
+
+4.4             
+Compliance with Laws; Permits. No governmental orders, permissions, consents,
+approvals or authorizations are required to be obtained and no registrations or declarations are required to be filed in connection
+with the execution and delivery of this Agreement or the issuance of the New Shares pursuant to the Share Exchange, except such
+as have been duly and validly obtained or filed, or with respect to any filings that must be made after the Closing, as will be
+filed in a timely manner.
+
+ 
+
+4.5             
+Restated Certificate. The New Shares have the rights, preferences
+and privileges, and restrictions set forth in the Restated COD of the Company in the form attached as Exhibit
+A hereto.
+
+ 
+
+
+Section5      
+Miscellaneous Provisions
+
+ 
+
+5.1             
+Notices. All notices permitted or required by this Agreement shall
+be in writing, and shall be deemed to have been delivered and received (a) when personally delivered, (b) on the third
+(3rd) business day after the date on which deposited in the United States mail, postage prepaid, certified or registered
+mail, return receipt requested, or (c) on the date on which transmitted by facsimile or other electronic means producing a
+tangible receipt evidencing a successful transmission, or (d) on the next business day after the date on which deposited with a
+regulated public carrier or nationally recognized overnight commercial delivery service (e.g., Federal Express, DHL, etc.),
+addressed to the party for whom intended, (i) if to the Company, then at the mailing address, email address, or facsimile number
+set forth on the Company's signature page hereto, or (ii) if to a Stockholder, then at the mailing address, email address, or facsimile
+number on the Company's records for such Stockholder, or such other mailing address, email address, or facsimile number, notice
+of which has been delivered in a manner permitted by this Section 5.1.
+
+ 
+
+
+
+
+    4.
+     
+    
+
+ 
+
+5.2             
+Severability. If any provision of this Agreement is for any reason
+found to be ineffective, unenforceable, or illegal by any court having jurisdiction, such condition shall not affect the validity
+or enforceability of any of the remaining portions hereof, unless it deprives any party hereto of any material right or license
+held by such party under this Agreement. The parties shall negotiate in good faith to replace any such ineffective, unenforceable
+or illegal provisions as soon as is practicable, and the substituted provision shall, as closely as possible, have the same economic
+effect as the eliminated provision.
+
+ 
+
+5.3             
+Binding Effect. This Agreement shall be binding upon and inure
+to the benefit of the parties hereto and their respective successors and assigns.
+
+ 
+
+5.4             
+Force Majeure. Neither party shall be liable for any default or
+delay in performance of any of its obligations under this Agreement if such default or delay is caused, directly or indirectly,
+by fire, flood, earthquake or other acts of God; labor disputes, strikes or lockouts; wars, rebellions or revolutions; riots or
+civil disorder; accidents or unavoidable casualties; interruptions in transportation or communications facilities or delays in
+transit or communication; supply shortages or the failure of any Person to perform any commitment to such party related to this
+Agreement; or any other cause (whether similar or dissimilar to those expressly enumerated in this Section 5.4) beyond such
+party's reasonable control.
+
+ 
+
+5.5             
+Entire Agreement. This Agreement, and the exhibits hereto set forth
+the entire understanding of the parties concerning the subject matter hereof, and supersede all prior and contemporaneous agreements
+and understandings relating to the subject matter hereof, whether oral or written.
+
+ 
+
+5.6             
+Amendments and Waivers. Any term of this Agreement may be amended
+and the observance of any term of this Agreement may be waived (either generally or in a particular instance and either retroactively
+or prospectively), only with the written consent of the Company and the Stockholders owing at least a majority of the Existing
+Series A Shares. Any amendment or waiver effected in accordance with this Section 5.6 shall be binding upon the Company,
+each Investor, and any transferee of any Securities. Each Stockholder acknowledges that by the operation of this Section 5.6,
+less than all of the Stockholders who are parties hereto may effect an amendment or waiver of provisions of this Agreement and
+may thereby diminish or eliminate rights of such Stockholder under this Agreement even though such Stockholder has not consented
+to the amendment or waiver.
+
+ 
+
+(a)              
+Exculpation Among Stockholders. Each Stockholder acknowledges that
+such Stockholder is not relying upon any person, firm or corporation, other than the Company and its officers and directors, in
+making its investment or decision to invest in the Company. Each Stockholder agrees that no Stockholder nor the respective controlling
+persons, officers, directors, partners, agents or employees of any Stockholder shall be liable to any other Stockholder for any
+action heretofore or hereafter taken or omitted to be taken by any of them in connection with the issuance of the Notes hereunder
+and any shares issuable upon conversion of the Notes.
+
+ 
+
+(b)              
+Rights of Stockholders. The Stockholders (or transferee holder
+of Securities) shall have the absolute right to exercise or refrain from exercising any right or rights that such holder may have
+by reason of this Agreement, including without limitation the right to consent to the waiver of any obligation of the Company under
+this Agreement and to enter into an agreement with the Company for the purpose of modifying this Agreement or any agreement effecting
+any such modification, and the Stockholders or transferee holder shall not incur any liability to any other Stockholders or holder
+of Securities with respect to exercising or refraining from exercising any such right or rights.
+
+ 
+
+
+
+
+    5.
+     
+    
+
+ 
+
+5.7             
+Governing Law; Jurisdiction; Venue. This Agreement shall be governed
+by and construed in accordance with applicable provisions of the laws of the State of Nevada (without regard to application of
+its conflict-of-law principles), and each party hereby consents to the jurisdiction of the courts of the State of Nevada for purposes
+of all actions commenced to construe or enforce this Agreement.
+
+ 
+
+5.8             
+Attorneys' Fees. If any action or proceeding is commenced to construe
+this Agreement or enforce the rights and duties set forth herein, then the party prevailing in that action shall be entitled to
+recover its costs and fees in that action, as well as the costs and fees of enforcing any judgment entered therein.
+
+ 
+
+5.9             
+Construction. This Agreement is the result of negotiations between
+the parties and neither of the parties entering into this Agreement has acted under any duress or compulsion, whether legal, economic
+or otherwise. The parties hereby waive the application of any rule of law that ambiguous or conflicting terms or provisions should
+be construed against the party who (or whose attorney) prepared this Agreement or any earlier draft of the same. In this Agreement,
+the word "Person" includes any individual, corporation, limited liability company, trust, fiduciary, governmental
+entity, or other entity or status of any kind that is recognized under applicable law as a separate legal person, and the word
+"include(s)" means "include(s), without limitation," and the word "including" means
+"including, but not limited to." Unless the context of this Agreement otherwise clearly requires, references to the plural
+include the singular and the singular the plural. Unless otherwise expressly indicated herein, the words "hereof,"
+"hereunder," and similar terms in this Agreement refer to this Agreement as a whole and not to any particular
+provision of this Agreement. All references to "Section" herein shall refer to the sections and paragraphs of
+this Agreement unless specifically stated otherwise. The section and other headings, if any, contained in this Agreement are inserted
+for convenience of reference only, and they neither form a part of this Agreement nor are they to be used in the construction or
+interpretation of this Agreement.
+
+ 
+
+5.10         
+Counterparts; Electronic Signatures. This Agreement may be executed
+in counterparts, each of which shall be deemed an original and all of which, taken together, shall constitute one and the same
+instrument, binding on each signatory thereto. A copy of this Agreement that is executed by a party and transmitted by that party
+to the other party by facsimile or as an attachment (e.g., in ".tif" or ".pdf" format) to an email shall
+be binding upon the signatory to the same extent as a copy hereof containing that party's original signature.
+
+ 
+
+ 
+
+ 
+
+[Signatures
+begin on following page.]
+
+ 
+
+ 
+
+
+
+    6.
+     
+    
+
+ 
+
+In
+Witness Whereof, the undersigned has executed this Exchange Agreement, effective
+as of the date first above written.
+
+ 
+
+
+
+
+
+     
+    EnerJex Resources, Inc., a Nevada corporation 
+     
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+     
+     
+     
+     
+
+     
+    By:  
+     
+     
+
+     
+     
+    Robert G. Watson, Jr.,
+     
+
+     
+     
+    Chief Executive Officer
+     
+
+     
+     
+     
+     
+
+     
+    Address, Facsimile
+    & Email for Notices:
+     
+
+     
+     
+     
+     
+
+     
+    EnerJex Resources, Inc.
+     
+
+     
+    ATTN:   Mr. Robert G. Watson, Jr.
+     
+
+     
+    4040 Broadway, Suite 508
+     
+
+     
+    San Antonio, Texas 78209
+     
+
+     
+     
+     
+     
+
+     
+    Facsimile:  (210) 829-1224
+     
+
+     
+    Email:  rwatson@enerjexresources.com
+    
+     
+
+
+
+
+
+ 
+
+  
+
+[Stockholder signatures begin on following
+page.]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+[Company
+Signature Page to Exchange Agreement]
+
+
+
+
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+In
+Witness Whereof, the undersigned has executed this Exchange Agreement, effective
+as of the date first above written.
+
+ 
+
+
+
+
+
+     
+    Stockholder:
+     
+
+     
+     
+     
+
+     
+     
+     
+
+     
+     
+     
+
+     
+    Signature of Stockholder
+     
+
+     
+     
+     
+
+     
+     
+     
+
+     
+     
+     
+
+     
+    Printed Name of Stockholder
+     
+
+     
+     
+     
+
+     
+     
+     
+
+     
+     
+     
+
+     
+    Printed Name & Title of Individual Signing for Stockholder (e.g., as "Trustee" for a Trust)
+     
+
+
+
+
+
+ 
+
+ 
+
+[Stockholder Signature
+Page to Exchange Agreement]
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Exhibit
+A
+
+ 
+
+ 
+
+Amended and Restated Certificate
+of Designation
+
+ 
+
+
+
+     
+     
+    
+
+ 
+
+Exhibit
+B
+
+ 
+
+Stock
+Assignment Separate from Certificate
+
+(see following page)
+
+ 
+
+ 
+
+
+     
+     
+    
+
+
+
+
+STOCK ASSIGNMENT
+
+	(Separate From Certificate)
+
+ 
+
+ 
+
+THE UNDERSIGNED
+hereby sells, assigns and transfers unto Enerjex Resources, Inc., a
+Nevada corporation ("Assignee"), __________________ (___,___) shares of the Series A Preferred Stock of
+Enerjex Resources, Inc., a Nevada corporation (the "Corporation"),
+standing in the name of the undersigned on the books of the Corporation represented by Stock Certificate No. A-___, and does hereby
+irrevocably constitute and appoint the Secretary of the Corporation as its attorney-in-fact (with full power of substitution) to
+transfer such stock on the books of the Corporation.
+
+ 
+
+
+
+
+
+     
+     
+     
+
+     
+     
+     
+
+     
+     
+     
+
+     
+     
+     
+
+    Date
+     
+    Signature of Stockholder
+
+     
+     
+     
+
+     
+     
+     
+
+     
+     
+     
+
+     
+     
+    Printed Name of Stockholder 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+     
+    
+
+
+
+ 
+
+
+
+
+
+
+
+

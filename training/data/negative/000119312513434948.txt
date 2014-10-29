@@ -1,0 +1,439 @@
+
+EX-10.3
+4
+d599457dex103.htm
+EX-10.3
+
+
+EX-10.3
+
+ 
+ Exhibit 10.3 
+APACHE CORPORATION  2005
+STOCK OPTION PLAN  (Amended and Restated effective September 16, 2013) 
+Section 1 
+Introduction  1.1
+Establishment. Apache Corporation, a Delaware corporation (hereinafter referred to, together with its Affiliated Corporations (as defined in Section 2.1 hereof) as the Company except where the context otherwise requires),
+hereby establishes the Apache Corporation 2005 Stock Option Plan (the Plan) for Eligible Employees (as defined in Section 2.1 hereof). The Plan permits the grant of stock options to Eligible Employees selected by the Committee (as
+defined in Section 2.1 hereof).  1.2 Purposes. The purposes of the Plan are to provide the Eligible Employees designated by the Committee for
+participation in the Plan with added incentives to continue in the long-term service of the Company and to create in such employees a more direct interest in the future success of the operations of the Company by relating incentive compensation to
+increases in stockholder value, so that the income of those employees is more closely aligned with the interests of the Companys stockholders. The Plan is also designed to attract outstanding individuals and to retain and motivate Eligible
+Employees by providing an opportunity for investment in the Company.  1.3 Effective Date. The Effective Date of the Plan (the Effective
+Date) is February 3, 2005. This Plan and each Option (as defined in Section 2.1 hereof) granted hereunder is conditioned on and shall be of no force or effect until the Plan is approved by the stockholders of the Company. The
+Committee may grant Options, the exercise of which shall be expressly subject to the condition that the Plan shall have been approved by the stockholders of the Company. 
+Section 2 
+Definitions  2.1
+Definitions. The following terms shall have the meanings set forth below:  (a) Administrative Agent means any
+designee or agent that may be appointed by the Committee pursuant to Section 3.1(b) hereof. 
+   1 
+
+
+
+
+ (b) Affiliated Corporation means any corporation or other entity (including
+but not limited to a partnership) which is affiliated with Apache Corporation through stock ownership or otherwise and is treated as a common employer under the provisions of Sections 414(b) and (c) or any successor section(s) of the Internal
+Revenue Code.  (c) Board means the Board of Directors of the Company. 
+(d) Committee means the Stock Plan Committee of the Board, which is empowered hereunder to take actions in the
+administration of the Plan. The Committee shall be constituted at all times as to permit the Plan to comply with Rule 16b-3 or any successor rule(s) promulgated under the Securities Exchange Act of 1934, as amended (the 1934 Act). 
+(e) Eligible Employees means full-time employees (including, without limitation, officers and directors who are also
+employees), and certain part-time employees, of the Company or any division thereof.  (f) Expiration Date means the date
+on which the Option Period (as defined in subsection 7.2(c) hereof) ends.  (g) Fair Market Value means the per share
+closing price of the Stock as reported on The New York Stock Exchange, Inc. Composite Transactions Reporting System for a particular date or, if the Stock is not so listed on such date, as reported on NASDAQ or on such other exchange or electronic
+trading system which, on the date in question, reports the largest number of traded shares of Stock, provided, however, that if on the date Fair Market Value is to be determined there are no transactions in the Stock, Fair Market Value
+shall be determined as of the immediately preceding date on which there were transactions in the Stock; provided further, however, that if the foregoing provisions are not applicable, the fair market value of a share of the
+Stock as determined by the Committee by the reasonable application of such reasonable valuation method, consistently applied, as the Committee deems appropriate. 
+(h) Internal Revenue Code means the Internal Revenue Code of 1986, as it may be amended from time to time, and any successor
+thereto.  (i) Option means a right to purchase shares of Stock at a stated price for a specified period of time. All
+Options granted under the Plan shall be Options which are not incentive stock options as described in Section 422 or any successor section(s) of the Internal Revenue Code. 
+(j) Option Price means the price at which shares of Stock subject to an Option may be purchased, determined in accordance
+with subsection 7.2(b) hereof. 
+   2 
+
+
+
+
+ (k) Participant means an Eligible Employee designated by the Committee from
+time to time during the term of the Plan to receive one or more Options under the Plan.  (l) Stock means the U.S. $0.625
+par value Common Stock of the Company or any security into which such Common Stock is converted or exchanged upon merger, consolidation, or any capital restructuring (within the meaning of Section 4.3) of the Company. 
+2.2 Headings; Gender and Number. The headings contained in the Plan are for reference purposes only and shall not affect in any way the meaning or
+interpretation of the Plan. Except when otherwise indicated by the context, the masculine gender shall also include the feminine gender, and the definition of any term herein in the singular shall also include the plural. 
+Section 3  Plan
+Administration  3.1 Administration by the Committee. 
+(a) The Plan shall be administered by the Committee. In accordance with the provisions of the Plan, the Committee shall, in its sole
+discretion, select the Participants from among the Eligible Employees, determine the Options to be granted pursuant to the Plan, the number of shares of Stock to be issued thereunder, the time at which such Options are to be granted, fix the Option
+Price, and establish such other terms and requirements as the Committee may deem necessary or desirable and consistent with the terms of the Plan. The Committee shall determine the form or forms of the agreements with Participants which shall
+evidence the particular provisions, terms, conditions, rights and duties of the Company and the Participants with respect to Options granted pursuant to the Plan, which provisions need not be identical except as may be provided herein. 
+(b) The Committee may from time to time adopt such rules and regulations for carrying out the purposes of the Plan as it may deem proper and in
+the best interests of the Company. The Committee may appoint an Administrative Agent, who need not be a member of the Committee or an employee of the Company, to assist the Committee in administration of the Plan and to whom it may delegate such
+powers as the Committee deems appropriate, except that the Committee shall determine any dispute. The Committee may correct any defect, supply any omission or reconcile any inconsistency in the Plan, or in any agreement entered into hereunder, in
+the manner and to the extent it shall deem expedient and it shall be the sole and final judge of such expediency. No member of the Committee shall be liable for any action or determination made in good faith. The determination, interpretations and
+other actions of the Committee pursuant to the provisions of the Plan shall be binding and conclusive for all purposes and on all persons. 
+   3 
+
+
+
+
+ 3.2 Compliance with Section 162(m). The Plan is intended to comply with the requirements of
+Section 162(m) or any successor section(s) of the Internal Revenue Code (Section 162(m)) as to any covered employee as defined in Section 162(m), and shall be administered, interpreted and construed consistently
+therewith. In accordance with this intent, the amount of income a Participant may receive from Options granted under the Plan shall be based solely on an increase in the value of the Stock after the date of the grant of the Option, or such other
+bases as may be permitted by applicable law. The Committee is authorized to take such additional action, if any, that may be required to ensure that the Plan and any Option granted under the Plan satisfy the requirements of Section 162(m),
+taking into account any regulations or other guidance issued by the Internal Revenue Service.  Section 4 
+Stock Subject to the Plan  4.1
+Number of Shares. Subject to Section 7.1 hereof and to adjustment pursuant to Section 4.3 hereof, five million (5,000,000) shares of Stock are authorized for issuance under the Plan in accordance with the provisions of the Plan
+and subject to such restrictions or other provisions as the Committee may from time to time deem necessary. This authorization may be increased from time to time by approval of the Board and the stockholders of the Company if, on the advice of
+counsel for the Company, such stockholder approval is required. Shares of Stock which may be issued upon exercise of Options shall be applied to reduce the maximum number of shares of Stock remaining available for use under the Plan. The Company
+shall at all times during the term of the Plan and while any Options are outstanding retain as authorized and unissued Stock, or as Stock in the Companys treasury, at least the number of shares from time to time required under the provisions
+of the Plan, or otherwise assure itself of its ability to perform its obligations hereunder.  4.2 Other Shares of Stock. Any shares of Stock that
+are subject to an Option which expires, is forfeited, is cancelled, or for any reason is terminated unexercised, and any shares of Stock that for any other reason are not issued to a Participant or are forfeited shall automatically become available
+for use under the Plan. 
+   4 
+
+
+
+
+ 4.3 Adjustments for Stock Split, Stock Dividend, Etc. If the Company shall at any time increase or
+decrease the number of its outstanding shares of Stock or change in any way the rights and privileges of such shares by means of the payment of a Stock dividend or any other distribution upon such shares payable in Stock, or through a Stock split,
+subdivision, consolidation, combination, reclassification or recapitalization involving the Stock (any of the foregoing being herein called a capital restructuring), then in relation to the Stock that is affected by one or more of the
+above events, the numbers, rights and privileges of the following shall be, in each case, equitably and proportionally adjusted to take into account the occurrence of any of the above events, (i) the shares of Stock as to which Options may be
+granted under the Plan; (ii) the shares of Stock then included in each outstanding Option granted hereunder; and (iii) the Option Price for each outstanding Option granted hereunder. 
+4.4 Dividend Payable in Stock of Another Corporation, Etc. If the Company shall at any time pay or make any dividend or other distribution upon the
+Stock payable in securities or other property (except money or Stock), a proportionate part of such securities or other property shall be set aside and delivered to any Participant then holding an Option for the particular type of Stock for which
+the dividend or other distribution was made, upon exercise thereof. Prior to the time that any such securities or other property are delivered to a Participant in accordance with the foregoing, the Company shall be the owner of such securities or
+other property and shall have the right to vote the securities, receive any dividends payable on such securities, and in all other respects shall be treated as the owner. If securities or other property which have been set aside by the Company in
+accordance with this Section are not delivered to a Participant because an Option is not exercised, then such securities or other property shall remain the property of the Company and shall be dealt with by the Company as it shall determine in its
+sole discretion.  4.5 Other Changes in Stock. In the event there shall be any change, other than as specified in Sections 4.3 and 4.4 hereof, in
+the number or kind of outstanding shares of Stock or of any stock or other securities into which the Stock shall be changed or for which it shall have been exchanged, and if the Committee shall in its discretion determine that such change equitably
+requires an adjustment in the number or kind of shares subject to outstanding Options or which have been reserved for issuance pursuant to the Plan but are not then subject to an Option, then such adjustments shall be made by the Committee and shall
+be effective for all purposes of the Plan and on each outstanding Option that involves the particular type of stock for which a change was effected. 
+   5 
+
+
+
+
+ 4.6 Rights to Subscribe. If the Company shall at any time grant to the holders of its Stock rights to
+subscribe pro rata for additional shares thereof or for any other securities of the Company or of any other corporation, there shall be reserved with respect to the shares then under Option to any Participant of the particular class of
+Stock involved the Stock or other securities which the Participant would have been entitled to subscribe for if immediately prior to such grant the Participant had exercised his entire Option. If, upon exercise of any such Option, the Participant
+subscribes for the additional shares or other securities, the aggregate Option Price shall be increased by the amount of the price that is payable by the Participant for such additional shares or other securities. 
+4.7 General Adjustment Rules. No adjustment or substitution provided for in this Section 4 shall require the Company to sell a fractional share of
+Stock under any Option, or otherwise issue a fractional share of Stock, and the total substitution or adjustment with respect to each Option shall be limited by deleting any fractional share. In the case of any such substitution or adjustment, the
+aggregate Option Price for the shares of Stock then subject to the Option shall remain unchanged but the Option Price per share under each such Option shall be equitably adjusted by the Committee to reflect the greater or lesser number of shares of
+Stock or other securities into which the Stock subject to the Option may have been changed.  4.8 Determination by the Committee, Etc.
+Adjustments under this Section 4 shall be made by the Committee, whose determinations with regard thereto shall be final and binding upon all parties. 
+Section 5 
+Reorganization or Liquidation  In
+the event that the Company is merged or consolidated with another corporation and the Company is not the surviving corporation, or if all or substantially all of the assets or more than 20 percent of the outstanding voting stock of the Company is
+acquired by any other corporation, business entity or person, or in case of a reorganization (other than a reorganization under the United States Bankruptcy Code) or liquidation of the Company, and if the provisions of Section 8 hereof do not
+apply, the Committee, or the board of directors of any corporation assuming the obligations of the Company, shall, as to the Plan and outstanding Options make appropriate provision for the adoption and continuation of the Plan by the acquiring or
+successor corporation and for the protection of any such outstanding Options by the substitution on an equitable basis of appropriate stock of the Company or of the merged, consolidated or otherwise reorganized corporation which will be issuable
+with 
+   6 
+
+
+
+
+ 
+respect to the Stock, provided that no additional benefits shall be conferred upon the Participants holding such Options as a result of such substitution, and the excess of the aggregate Fair
+Market Value of the shares subject to the Options immediately after such substitution over the aggregate Option Price thereof is not more than the excess of the aggregate Fair Market Value of the shares subject to such Options immediately before
+such substitution over the aggregate Option Price thereof. Additionally, upon the occurrence of such an event and upon written notice to the Participants, the Committee may provide that all unexercised Options shall be exercised within a specified
+number of days of the date of such notice or such Options will be terminated. In the latter event, the Committee shall accelerate the vesting dates of outstanding Options so that all Options become fully vested and exercisable prior to any such
+event.  Section 6 
+Participation  Participants in the
+Plan shall be those Eligible Employees who, in the judgment of the Committee, are performing, or during the term of their incentive arrangement will perform, vital services in the management, operation and development of the Company or an Affiliated
+Corporation, and significantly contribute, or are expected to significantly contribute, to the achievement of the Companys long-term corporate economic objectives. Participants may be granted from time to time one or more Options; provided,
+however, that the grant of each such Option shall be separately approved by the Committee, and receipt of one such Option shall not result in automatic receipt of any other Option. Upon determination by the Committee that an Option is to be granted
+to a Participant, written notice shall be given to such person, specifying the terms, conditions, rights and duties related thereto. Each Participant shall, if required by the Committee, enter into an agreement with the Company, in such form as the
+Committee shall determine and which is consistent with the provisions of the Plan, specifying such terms, conditions, rights and duties. Options shall be deemed to be granted as of the date specified in the grant resolution of the Committee, which
+date shall be the date of any related agreement with the Participant. In the event of any inconsistency between the provisions of the Plan and any such agreement entered into hereunder, the provisions of the Plan shall govern. 
+   7 
+
+
+
+
+ Section 7 
+Stock Options  7.1 Grant of
+Stock Options. Coincident with or following designation for participation in the Plan, an Eligible Employee may be granted one or more Options. Grants of Options under the Plan shall be made by the Committee. In no event shall the exercise of
+one Option affect the right to exercise any other Option or affect the number of shares of Stock for which any other Option may be exercised, except as provided in subsection 7.2(j) hereof. During the duration of the Plan, no Eligible Employee may
+be granted Options which in the aggregate cover in excess of 25 percent of the total shares of Stock authorized under the Plan.  7.2 Stock Option
+Agreements. Each Option granted under the Plan shall be evidenced by a written stock option agreement which shall be entered into by the Company and the Participant to whom the Option is granted (the Stock Option Agreement), and
+which shall contain the following terms and conditions set out in this Section 7.2, as well as such other terms and conditions, not inconsistent therewith, as the Committee may consider appropriate. This requirement for delivery of a written
+Stock Option Agreement is satisfied by electronic delivery of such agreement provided that evidence of the Participants receipt of such electronic delivery is available to the Company and all applicable laws and regulations permit such
+delivery.  (a) Number of Shares. Each Stock Option Agreement shall state that it covers a specified number of shares of Stock, as
+determined by the Committee.  (b) Price. The price at which each share of Stock covered by an Option may be purchased shall be
+determined in each case by the Committee and set forth in the Stock Option Agreement, but in no event shall the price be less than the Fair Market Value of the Stock on the date the Option is granted. 
+(c) Duration of Options; Employment Required For Exercise. Each Stock Option Agreement shall state the period of time, determined by the
+Committee, within which the Option may be exercised by the Participant (the Option Period). The Option Period must end, in all cases, not more than ten years from the date an Option is granted. Except as otherwise provided in Sections 5
+and 8 and subsection 7.2(d)(iv) hereof, each Option granted under the Plan shall become exercisable in increments such that 25 percent of the Option becomes exercisable on each of the four subsequent one-year anniversaries of the date the Option is
+granted, provided that each such additional 25-percent increment shall become exercisable only if the Participant has been continuously employed by the Company from the date the Option is granted through the date on which each such additional
+25-percent increment becomes exercisable. 
+   8 
+
+
+
+
+ (d) Termination of Employment, Death, Disability, Etc. Each Stock Option Agreement shall
+provide as follows with respect to the exercise of the Option upon termination of the employment or the death or disability of the Participant: 
+(i) If the employment of the Participant by the Company is terminated within the Option Period for cause, as determined by the Company, the
+Option shall thereafter be void for all purposes. As used in this subsection 7.2(d), cause shall mean a gross violation, as determined by the Company, of the Companys established policies and procedures, provided that the effect of
+this subsection 7.2(d) shall be limited to determining the consequences of a termination and that nothing in this subsection 7.2(d) shall restrict or otherwise interfere with the Companys discretion with respect to the termination of any
+employee.  (ii) If the Participant retires from employment by the Company on or after attaining age 60, the Option may be exercised by the
+Participant within 36 months following his or her retirement (provided that such exercise must occur within the Option Period), but not thereafter. In the event of the Participants death during such 36-month period, each Option may be
+exercised by those entitled to do so in the manner referred to in (iv) below. In any such case, the Option may be exercised only as to the shares as to which the Option had become exercisable on or before the date of the Participants
+retirement.  (iii) If the Participant becomes disabled (as determined pursuant to the Companys Long-Term Disability Plan or any
+successor plan), during the Option Period while still employed, or within the three-month period referred to in subsection 7.2(d)(v) below, or within the 36-month period referred to in subsection 7.2(d)(ii) above, the Option may be exercised by the
+Participant or by his or her guardian or legal representative, within twelve months following the Participants disability, or within the 36-month period referred to in subsection 7.2(d)(ii) above if applicable and if longer (provided that such
+exercise must occur within the Option Period), but not thereafter. In the event of the Participants death during such twelve-month period, each Option may be exercised by those entitled to do so in the manner referred to in subsection
+7.2(d)(iv) below. In any such case, the Option may be exercised only as to the shares of Stock as to which the Option had become exercisable on or before the date of the Participants disability. 
+   9 
+
+
+
+
+ (iv) In the event of the Participants death while still employed by the Company, each
+Option of the deceased Participant may be exercised by those entitled to do so under the Participants will or under the laws of descent and distribution or as otherwise provided in Section 9.2 within twelve months following the
+Participants death (provided that in any event such exercise must occur within the Option Period), but not thereafter, as to all shares of Stock which are subject to such Option, including each 25-percent increment of the Option, if any, which
+has not yet become exercisable at the time of the Participants death. In the event of the Participants death within the 36-month period referred to in subsection 7.2(d)(ii) above or within the twelve-month period referred to in
+subsection 7.2(d)(iii) above, each Option of the deceased Participant that is exercisable at the time of death may be exercised by those entitled to do so under the Participants will or under the laws of descent and distribution or as
+otherwise provided in Section 9.2 within twelve months following the Participants death or within the 36-month period referred to in subsection 7.2(d)(ii) above, if applicable and if longer (provided that in any event such exercise must
+occur within the Option Period). The provisions of this paragraph (iv) of subsection 7.2(d) shall be applicable to each Stock Option Agreement as if set forth therein word for word. Each Stock Option Agreement executed by the Company prior to
+the adoption of this provision shall be deemed amended to include the provisions of this paragraph and all Options granted pursuant to such Stock Option Agreements shall be exercisable as provided herein. 
+(v) If the employment of the Participant by the Company is terminated (which for this purpose means that the Participant is no longer employed
+by the Company or by an Affiliated Corporation) within the Option Period for any reason other than cause, the Participants retirement on or after attaining age 60, or the Participants disability or death, the Option may be exercised by
+the Participant within three months following the date of such termination (provided that such exercise must occur within the Option Period), but not thereafter. In any such case, the Option may be exercised only as to the shares as to which the
+Option had become exercisable on or before the date of termination of the Participants employment.  (vi) Notwithstanding the
+provisions of Section 7.2(d) of the Plan to the contrary, for purposes of the Options, a Participants employment shall be deemed to continue with the Company during the Participants period of continuous employment by Fieldwood
+Energy LLC or any business while it is treated as a single employer with Fieldwood Energy LLC pursuant to Code §414(b), §414(c), §414(m), or §414(o) (collectively Fieldwood) commencing on the date such Participant is
+first employed by Fieldwood in connection with the sale of certain assets pursuant to the Purchase and Sale Agreement by and among Apache Corporation, Apache Shelf, Inc., and Apache Deepwater LLC, as
+
+   10 
+
+
+
+
+ 
+Sellers, and Fieldwood Energy LLC, as Buyer, and GOM Shelf LLC, dated July 18, 2013, and shall be deemed to cease with the Company on the date of termination of the Participants
+employment with Fieldwood for any reason. The Participant shall immediately notify the Company of his or her termination of employment with Fieldwood and the reason for such termination (termination for cause, disability, retirement after age 60, or
+termination for a reason other than the preceding reasons). If a Participant fails to timely notify the Company of the Participants termination of employment with Fieldwood, and such failure to timely notify allows an exercise of any Options
+hereunder to occur, which exercise of Options would have been forfeited if the notification of termination had been delivered timely, then the Participant must immediately return to the Company all shares received on exercise of such Options (except
+shares sold for fair market value prior to their return to the Company) and, if any of such shares have been sold, pay to the Company the amount by which the gross sales price of such shares exceeded the exercise price of the Options. 
+(e) Transferability. Each Stock Option Agreement shall provide that the Option granted therein is not transferable by the Participant
+except by will or pursuant to the laws of descent and distribution or as otherwise provided in Section 9.2, and that such Option is exercisable during the Participants lifetime only by him or her, or in the event of the Participants
+disability or incapacity, by his or her guardian or legal representative.  (f) Agreement to Continue in Employment. Each Stock
+Option Agreement shall contain the Participants agreement to remain in the employment of the Company, at the pleasure of the Company, for a continuous period of at least one year after the date of such Stock Option Agreement, at the salary
+rate in effect on the date of such agreement or at such changed rate as may be fixed, from time to time, by the Company. Termination of the Stock Option Agreement and all unvested Options granted under such Stock Option Agreement shall be the
+Companys sole and exclusive remedy for an employees breach of this Section 7.2(f).  (g) Exercise, Payments, Etc.
+ (i) Each Stock Option Agreement shall provide that the method for exercising the Option granted therein shall be by delivery to the Office
+of the Secretary of the Company or to the Administrative Agent of written notice specifying the number of shares of Stock with respect to which such Option is exercised and payment to the Company of the aggregate Option Price. Such notice shall be
+in a form satisfactory to the Committee and shall specify the particular Options (or portions thereof) which are being exercised and the number of shares of Stock with respect to which the Options are being exercised. The Participants
+obligation to deliver written notice of exercise is satisfied by electronic delivery of such notice through means satisfactory to the Committee 
+   11 
+
+
+
+
+ 
+and prescribed by the Company. The exercise of the Option shall be deemed effective on the date such notice is received by the Office of the Secretary or by the Administrative Agent and payment
+is made to the Company of the aggregate Option Price (the Exercise Date); however, if payment of the aggregate Option Price is made pursuant to a sale of shares of Stock as contemplated by subsection 7.2(g)(iii)(E) below, the Exercise
+Date shall be deemed to be the date of such sale. If requested by the Company, such notice shall contain the Participants representation that he or she is purchasing the Stock for investment purposes only and his or her agreement not to sell
+any Stock so purchased in any manner that is in violation of the Securities Act of 1933, as amended, or any applicable state law, and such restriction, or notice thereof, shall be placed on the certificates representing the Stock so purchased. The
+purchase of such Stock shall take place upon delivery of such notice to the Office of the Secretary of the Company or to the Administrative Agent, at which time the aggregate Option Price shall be paid in full to the Company by any of the methods or
+any combination of the methods set forth in subsection 7.2(g)(iii) below.  (ii) The shares of Stock to which the Participant is entitled as
+a result of the exercise of the Option shall be issued by the Company and (A) delivered by electronic means to an account designated by the Participant, or (B) delivered to the Participant in the form of a properly executed certificate or
+certificates representing such shares of Stock. If shares of Stock are used to pay all or part of the aggregate Option Price, the Company shall issue and deliver to the Participant the additional shares of Stock, in excess of the aggregate Option
+Price or portion thereof paid using shares of Stock, to which the Participant is entitled as a result of the Option exercise. The Companys obligation to deliver the shares of Stock to which the Participant is entitled as a result of the
+exercise of the Option shall be subject to the payment in full to the Company of the aggregate Option Price and the required tax withholding. 
+(iii) The aggregate Option Price shall be paid by any of the following methods or any combination of the following methods: 
+(A) in cash, including the wire transfer of funds in U.S. dollars to one of the Companys bank accounts located in the United States,
+with such bank account to be designated from time to time by the Company;  (B) by personal, certified or cashiers check payable in
+U.S. dollars to the order of the Company;  (C) by delivery to the Company or the Administrative Agent of certificates representing a
+number of shares of Stock then owned by the Participant, the aggregate Fair Market Value of which (as of the Exercise Date) is not greater than the aggregate Option Price of the Option being exercised, properly endorsed for transfer to the Company,
+provided that the shares of Stock used for this purpose must have been owned by the Participant for a period of at least six months; 
+   12 
+
+
+
+
+ (D) by certification or attestation to the Company or the Administrative Agent of the
+Participants ownership (as of the Exercise Date) of a number of shares of Stock, the aggregate Fair Market Value of which (as of the Exercise Date) is not greater than the aggregate Option Price of the Option being exercised, provided that the
+shares of Stock used for this purpose have been owned by the Participant for a period of at least six months; or  (E) by delivery to the
+Company or the Administrative Agent of a properly executed notice of exercise together with irrevocable instructions to a broker to promptly deliver to the Company, by wire transfer or check as noted in subsection 7.2(g)(iii)(A) and (B) above,
+the amount of the proceeds of the sale of all or a portion of the Stock or of a loan from the broker to the Participant necessary to pay the aggregate Option Price. 
+(iv) For purposes of the Plan, the income resulting from an Option exercise shall be based on the Fair Market Value of the Stock for the
+Exercise Date; however, if payment of the aggregate Option Price is made pursuant to a sale of shares of Stock as contemplated by subsection 7.2(g)(iii)(E) hereof, the Fair Market Value shall be deemed to be the per share sale price and the Exercise
+Date shall be deemed to be the date of such sale.  (h) Date of Grant. An Option shall be considered as having been granted on the
+date specified in the grant resolution of the Committee.  (i) Tax Withholding. Each Stock Option Agreement shall provide that, upon
+exercise of the Option, the Participant shall make appropriate arrangements with the Company to provide for the minimum amount of tax withholding required by law, including without limitation Sections 3102 and 3402 or any successor section(s) of the
+Internal Revenue Code and applicable state and local income and other tax laws, by payment of such taxes in cash (including wire transfer), by check, or as provided in Section 13.2 hereof. 
+(j) Adjustment of Options. Subject to the provisions of Sections 4, 5, 7, 8 and 12 hereof, the Committee may make any adjustment in the
+number of shares of Stock covered by, or the terms of an outstanding Option and a subsequent granting of an Option, by amendment or by substitution for an outstanding Option; however, except as provided in Sections 4, 5, 8 and 12 hereof, the
+Committee may not adjust the Option Price of any outstanding Option. Such amendment or substitution may result in terms and conditions (including the number of shares of Stock covered, vesting schedule or Option Period) that differ from the terms
+and conditions of the original Option. The Committee may not, however, adversely affect the rights of any Participant to previously granted Options without the consent of such Participant. If such action is effected by amendment, the effective date
+of such amendment will be the date of grant of the original Option. 
+   13 
+
+
+
+
+ 7.3 Stockholder Privileges. No Participant shall have any rights as a stockholder with respect to any
+shares of Stock covered by an Option until the Participant becomes the holder of record of such Stock. Except as provided in Section 4 hereof, no adjustments shall be made for dividends or other distributions or other rights as to which there
+is a record date preceding the date on which such Participant becomes the holder of record of such Stock.  Section 8 
+Change of Control  8.1 In
+General. In the event of the occurrence of a change of control of the Company, as defined in Section 8.3 hereof, all outstanding Options shall become automatically vested, without further action by the Committee or the Board, so as to make
+all such Options fully vested and exercisable as of the date of such change of control.  8.2 Limitation on Payments. If the provisions of this
+Section 8 would result in the receipt by any Participant of a payment within the meaning of Section 280G or any successor section(s) of the Internal Revenue Code, and the regulations promulgated thereunder, and if the receipt of such
+accelerated vesting or payment by any Participant would, in the opinion of independent tax counsel of recognized standing selected by the Company, result in the payment by such Participant of any excise tax provided for in Sections 280G and 4999 or
+any successor section(s) of the Internal Revenue Code, then the amount of such accelerated vesting or payment shall be reduced to the extent required, in the opinion of independent tax counsel, to prevent the imposition of such excise tax; provided,
+however, that any payment or vesting of any Options shall occur as otherwise provided herein to the fullest extent possible without triggering such excise tax. 
+8.3 Definition. For purposes of the Plan, a change of control shall mean any of the events specified in the Companys Income
+Continuance Plan or any successor plan which constitute a change of control within the meaning of such plan. 
+   14 
+
+
+
+
+ Section 9 
+Rights of Employees, Participants 
+9.1 Employment. Nothing contained in the Plan or in any Option granted under the Plan shall confer upon any Participant any right with respect to the
+continuation of his or her employment by the Company or any Affiliated Corporation, or interfere in any way with the right of the Company or any Affiliated Corporation, subject to the terms of any separate employment agreement to the contrary, at
+any time, to terminate such employment or to increase or decrease the level of the Participants compensation from the level in existence at the time of the grant of an Option. Whether an authorized leave of absence, or absence in military or
+government service, shall constitute a termination of employment shall be determined by the Committee at the time.  9.2 Nontransferability. No
+right or interest of any Participant in an Option granted pursuant to the Plan shall be assignable or transferable during the lifetime of the Participant, either voluntarily or involuntarily, or subjected to any lien, directly or indirectly, by
+operation of law, or otherwise, including execution, levy, garnishment, attachment, pledge or bankruptcy. In the event of a Participants death, a Participants rights and interests in Options shall, to the extent provided in
+Section 7 hereof, be transferable by testamentary will or the laws of descent and distribution, or a beneficiary designation that is in a form approved by the Committee and in compliance with the provisions of the Plan, applicable law, and the
+applicable Option, and payment of any amounts due under the Plan shall be made to, and exercise of any Options may be made by, the Participants designated beneficiary, legal representatives, heirs or legatees, as applicable. If, in the opinion
+of the Committee, a person entitled to payments or to exercise rights with respect to the Plan is disabled from caring for his or her affairs because of mental condition, physical condition or age, payment due such person may be made to, and such
+rights shall be exercised by, such persons guardian, conservator or other legal personal representative upon furnishing the Committee with evidence of such status satisfactory to the Committee. 
+Section 10 
+General Restrictions  10.1
+Investment Representations. The Company may require a Participant, as a condition of exercising an Option, to give written assurances in substance and form satisfactory to the Company and its counsel to the effect that such person is
+acquiring the Stock subject to the Option for his own account for investment and not with any present intention of selling or otherwise distributing the same, and to such other effects as the Company deems necessary or appropriate in order to comply
+with federal and applicable state securities laws. 
+   15 
+
+
+
+
+ 10.2 Compliance with Securities Laws. Each Option shall be subject to the requirement that, if at any time
+counsel to the Company shall determine that the listing, registration or qualification of the shares of Stock subject to such Option upon any securities exchange or under any state or federal law, or the consent or approval of any governmental or
+regulatory body, is necessary as a condition of, or in connection with, the issuance or purchase of shares of Stock thereunder, such Option may not be accepted or exercised in whole or in part unless such listing, registration, qualification,
+consent or approval shall have been effected or obtained on conditions acceptable to the Committee. Nothing herein shall be deemed to require the Company to apply for or to obtain such listing, registration, qualification, consent or approval. 
+Section 11 
+Other Employee Benefits  The
+amount of any income deemed to be received by a Participant as a result of an Option exercise shall not constitute earnings or compensation with respect to which any other employee benefits of such Participant are determined
+including, without limitation, benefits under any pension, profit sharing, life insurance or salary continuation plan.  Section 12
+ Plan Amendment, Modification and Termination 
+The Board may at any time terminate, and from time to time may amend or modify the Plan provided, however, that no amendment or modification may become
+effective without approval of the amendment or modification by the Companys stockholders if stockholder approval is required to enable the Plan to satisfy any applicable statutory or regulatory requirements unless the Company, on the advice of
+counsel, determines that stockholder approval is otherwise necessary or desirable.  No amendment, modification or termination of the Plan shall in any
+manner adversely affect any Option theretofore granted under the Plan, without the consent of the Participant holding such Option.  The Committee shall
+have the authority to adopt such modifications, procedures and subplans as may be necessary or desirable to comply with the provisions of the laws (including, but not limited to, tax laws and regulations) of countries other than the United States in
+which the Company may operate, so as to assure the viability of the benefits of the Plan to Participants employed in such countries. 
+   16 
+
+
+
+
+ Section 13 
+Withholding  13.1 Withholding
+Requirement. The Companys obligations to deliver shares of Stock upon the exercise of an Option shall be subject to the Participants satisfaction of all applicable federal, state and local income and other tax withholding
+requirements.  13.2 Satisfaction of Required Withholding. At the time the Committee grants an Option, it may, in its sole discretion, grant the
+Participant an election to pay all such amounts of required tax withholding, or any part thereof:  (a) by the delivery to the Company or
+the Administrative Agent of a number of shares of Stock then owned by the Participant, the aggregate Fair Market Value of which (as of the Exercise Date) is not greater than the amount required to be withheld, provided that such shares have been
+held by the Participant for a period of at least six months;  (b) by certification or attestation to the Company or the Administrative
+Agent of the Participants ownership (as of the Exercise Date) of a number of shares of Stock, the aggregate Fair Market Value of which (as of the Exercise Date) is not greater than the amount required to be withheld, provided that such shares
+of Stock have been owned by the Participant for a period of at least six months; or  (c) by the Company or the Administrative Agent
+withholding from the shares of Stock otherwise issuable to the Participant upon exercise of the Option, a number of shares of Stock, the aggregate Fair Market Value of which (as of the Exercise Date) is not greater than the amount required to be
+withheld. Any such elections by Participants to have shares of Stock withheld for this purpose will be subject to the following restrictions: 
+(i) all elections shall be made on or prior to the Exercise Date; and 
+(ii) all elections shall be irrevocable.  13.3
+Section 16 Requirements. If the Participant is an officer or director of the Company within the meaning of Section 16 or any successor section(s) of the 1934 Act (Section 16), the Participant must satisfy the
+requirements of such Section 16 and any applicable rules and regulations thereunder with respect to the use of shares of Stock to satisfy such tax withholding obligation. 
+   17 
+
+
+
+
+ Section 14 
+Requirements of Law  14.1
+Requirements of Law. The issuance of Stock and the payment of cash pursuant to the Plan shall be subject to all applicable laws, rules and regulations. 
+14.2 Federal Securities Laws Requirements. If a Participant is an officer or director of the Company within the meaning of Section 16, Options
+granted hereunder shall be subject to all conditions required under Rule 16b-3, or any successor rule(s) promulgated under the 1934 Act, to qualify the Option for any exception from the provisions of Section 16 available under such Rule. Such
+conditions are hereby incorporated herein by reference and shall be set forth in the Stock Option Agreement with the Participant which describes the Option. 
+14.3 Governing Law. The Plan and all Stock Option Agreements hereunder shall be construed in accordance with and governed by the laws of the State of
+Texas.  Section 15 
+Duration of the Plan  The Plan
+shall terminate effective as of May 2, 2007, and no Option shall be granted on or after termination date. Any Options outstanding at the time of the Plan termination shall continue to be exercisable in accordance with the Stock Option Agreement
+pertaining to each such Option.  Dated: September 16, 2013   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+APACHE CORPORATION
+
+
+
+
+
+
+ATTEST:
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+/s/ Cheri L. Peper
+ 
+
+ 
+By:
+ 
+/s/ Margery M. Harris
+
+Cheri L. Peper
+ 
+
+ 
+
+ 
+Margery M. Harris
+
+Corporate Secretary
+ 
+
+ 
+
+ 
+Executive Vice President,
+
+
+ 
+
+ 
+
+ 
+Human Resources
+
+   18 
+
+
+

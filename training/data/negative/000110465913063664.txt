@@ -1,0 +1,1737 @@
+
+EX-10.3
+2
+a13-13467_1ex10d3.htm
+EX-10.3
+
+
+
+
+
+
+  
+
+
+Exhibit 10.3
+ 
+CONSENT AND AGREEMENT
+ 
+CONSENT AND AGREEMENT, dated as of June 7, 2013 (this Agreement), to the Credit Agreement, dated as of May 24, 2012 (as amended, amended and restated, modified or supplemented from time to time prior to the date hereof, the Credit Agreement), among EPE Holdings LLC, a Delaware limited liability company (Holdings), EP Energy LLC (f/k/a Everest Acquisition LLC), a Delaware limited liability company and a wholly owned subsidiary of Holdings (the Borrower), the banks, financial institutions and other lending institutions from time to time parties as lenders thereto (each a Lender and collectively, the Lenders), JPMorgan Chase Bank, N.A., as administrative agent for the Lenders (in such capacity, the Administrative Agent) and as collateral agent for the Lenders, the swingline lender and an issuer of Letters of Credit, and each other Issuing Bank from time to time party thereto.
+ 
+W I T N E S S E T H:
+ 
+WHEREAS, the Borrower has notified the Administrative Agent and the Lenders that the Borrower or certain of its Restricted Subsidiaries may Dispose of, in one or more transactions permitted by Section 10.4(b) of the Credit Agreement, (i) certain Oil and Gas Properties in its Texas Gulf Coast Asset Group, including the fields designated as: Alvarado & Kelsey, Bob West, Dry Hollow, Corpus Christi, Jeffress, Monte Cristo, Renger, Roleta & Bustamante, Speaks and White Point E. (collectively, the South Texas Assets and the Disposition thereof, the South Texas Disposition) and (ii) certain other Oil and Gas Properties comprising the ArkLaTex Field (excluding assets principally in DeSoto Parish, Louisiana), the Arkoma Field, the Black Warrior Field, the County Line Field and the Raton Field (collectively, the Long-Life Gas Assets and the Disposition thereof, the Long-Life Gas Disposition; and the South Texas Assets and the Long-Life Gas Assets, each a Subject Asset and collectively, the Subject Assets; and the South Texas Disposition and the Long-Life Gas Disposition, each a Subject Disposition and collectively, the Subject Dispositions).
+ 
+WHEREAS, in order to afford commodity price protection with respect to the Subject Assets, the Borrower or one or more of its Restricted Subsidiaries may enter into Hedge Agreements on behalf of one or more purchasers of the Subject Assets with respect to up to one hundred percent (100%) of the reasonably anticipated projected Hydrocarbon production from the Subject Assets to be acquired by such purchaser(s) for the period from and after the Agreement Effective Date through dates no later than the end of the 2017 calendar year (such Hedges Agreements, the Disposition Hedges).
+ 
+WHEREAS, pursuant to Section 2.14(g) of the Credit Agreement, if the Borrower or other Credit Parties Dispose of Oil and Gas Properties having an aggregate Borrowing Base Value (together with the value of certain other transactions or events) in excess of 10% of the then-effective Borrowing Base, the Administrative Agent and the Required Lenders shall have the right to adjust the Borrowing Base in an amount equal to the Borrowing Base Value, if any, attributable to such Oil and Gas Properties in the calculation of the then-effective Borrowing Base.
+ 
+WHEREAS, the Borrower and other Credit Parties have informed the Administrative Agent and the Lenders that the Borrower or certain of the Credit Parties have
+ 
+
+
+
+
+
+
+ 
+acquired, developed or improved their respective Oil and Gas Properties (other than the Subject Assets) during the period after the as-of date of the most recently delivered Reserve Report the Borrowing Base Value of which, if included in a redetermination of the Borrowing Base, the Borrower believes would substantially offset the reductive effect of the Subject Dispositions on the Borrowing Base.
+ 
+WHEREAS, the Borrower has requested that the Administrative Agent and the Lenders (i) consent to the Borrower or its Restricted Subsidiaries entering into Disposition Hedges notwithstanding that the Disposition Hedges, when aggregated with existing Hedge Agreements of the Borrower and its Restricted Subsidiaries, could potentially exceed the limitations set forth in Section 10.10 of the Credit Agreement with respect to certain periods and (ii) agree to delay any reduction in the Borrowing Base that would otherwise result from the implementation of Section 2.14(g) of the Credit Agreement with respect to the Subject Dispositions until the sooner of (a) 30 days after the Borrower has provided to the Administrative Agent and the Lenders the Reserve Report required to be prepared as of June 30, 2013 (the June Reserve Report), which the Borrower anticipates to do on or prior to July 31, 2013 (notwithstanding that such Reserve Report is not due until September 30, 2013) and (b) September 1, 2013; in each case, subject to the terms and conditions set forth herein.
+ 
+NOW, THEREFORE, in consideration of the premises and covenants contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound hereby, agree as follows:
+ 
+ARTICLE I
+ 
+Section 1.1            Defined Terms.  Terms defined in the Credit Agreement and used herein shall have the meanings given to them in the Credit Agreement unless otherwise defined herein or the context otherwise requires.
+ 
+ARTICLE II
+ 
+Section 2.1            Consent to Entering into Disposition Hedges.  The Lenders party hereto hereby consent to the Borrower or one or more of its Restricted Subsidiaries entering into one or more Disposition Hedges with respect to notional volumes not in excess of one hundred percent (100%) of the Credit Parties reasonably anticipated projected Hydrocarbon production from the Subject Assets for the period from the Agreement Effective Date through dates no later than the end of the 2017 calendar year without regard to whether such Disposition Hedges, when aggregated with other Hedge Agreements of the Borrower and its Restricted Subsidiaries, would be permitted by Section 10.10 of the Credit Agreement for any period to which such Disposition Hedges pertain; provided, however, that:
+ 
+(a)           it shall be a condition to the Borrower or such Restricted Subsidiaries entering into any Disposition Hedges that the purchaser of the Subject Assets to which such Disposition Hedges are attributable has agreed (or agrees concurrently with the execution of such Disposition Hedges) in writing to accept assignment or novation (or otherwise cause the termination) of such Disposition Hedges entered into for its benefit or at its request concurrently with the consummation of the applicable Subject
+ 
+2
+
+
+
+
+
+
+ 
+Disposition (or within a specified period of time following the expiration or termination of the agreement governing such Subject Disposition) and to indemnify the Borrower or such Restricted Subsidiary for any losses, costs, expense or other liabilities resulting from, or associated with, the termination, novation, unwinding or other resolution of such Disposition Hedges in the event that such Subject Disposition is not consummated (or is only partially consummated) or if such purchaser fails to perform its obligation to accept assignment or novation of any Disposition Hedges entered into for its benefit or at its request;
+ 
+(b)           the Borrower shall notify the Administrative Agent promptly (but in any event, within 15 days) after entering into each Disposition Hedge and shall provide the material terms thereof (including the type, term, effective date, termination date and notional amounts or volumes);
+ 
+(c)           the Borrower shall, and shall cause each Restricted Subsidiary that is a party to a Disposition Hedge to, assign or novate such Disposition Hedge to the purchaser of the Subject Assets  to which such Disposition Hedges are attributable (or otherwise cause the termination of such Disposition Hedge) upon the consummation of the related Subject Disposition;
+ 
+(d)           the Borrower and Lenders acknowledge and agree that, for purposes of determining whether the Borrower or its Restricted Subsidiaries are permitted to enter into additional Hedge Agreements (other than any Disposition Hedge) pursuant to Section 10.10 of the Credit Agreement after the Agreement Effective Date, each Disposition Hedge and the Subject Assets to which such Disposition Hedges are attributable shall be disregarded (as if the Subject Disposition with respect thereto has been consummated and the relevant Disposition Hedge has been novated or assigned); and
+ 
+(e)           the Borrower covenants and agrees that, notwithstanding the foregoing, if the Borrower or its Restricted Subsidiaries are party to any Disposition Hedges as of October 31, 2013, then the Borrower shall, and shall cause its Restricted Subsidiaries to, unwind or otherwise terminate one or more Disposition Hedges by not later than October 31, 2013, to the extent necessary such that, after giving effect to the unwinding or termination thereof, the net notional volumes of Hedge Agreements in respect of commodities of the Borrower and its Restricted Subsidiaries (other than puts, floors and basis differential swaps on volumes already hedged pursuant to other Hedge Agreements) shall not exceed, as of October 31, 2013, 100% of the Credit Parties reasonably anticipated projected Hydrocarbon production for the period from and after the Agreement Effective Date through the end of the 2017 calendar year.
+ 
+For the avoidance of doubt, the entry into Disposition Hedges shall not be deemed to be speculative for purposes of the Credit Agreement and the other Loan Documents.
+ 
+Section 2.2            Agreements Regarding Redetermination of Borrowing Base.  If the Administrative Agent shall have received executed counterpart signature pages to this Agreement from Lenders comprising at least the Required Lenders (and this Agreement shall
+ 
+3
+
+
+
+
+
+
+ 
+otherwise have become effective in accordance with Section 3.1), then, notwithstanding the provisions of Section 2.14(g) of the Credit Agreement, the Borrowing Base shall not be redetermined upon consummation of the Subject Dispositions (or any of them) until the sooner of (a) 30 days after the Borrower has provided to the Administrative Agent and the Lenders the June Reserve Report, in accordance with Section 9.14(a) of the Credit Agreement, which the Borrower anticipates to provide on or prior to July 31, 2013 (notwithstanding that such Reserve Report is not due until September 30, 2013) and (b) September 1, 2013.  If, on or prior to July 31, 2013, the Borrower has provided the June Reserve Report, the Administrative Agent and the Lenders shall redetermine the Borrowing Base based on such Reserve Report on or prior to September 1, 2013 (and otherwise in accordance with Section 2.14 of the Credit Agreement) and such redetermined Borrowing Base shall be deemed to be the regularly scheduled Borrowing Base redetermination for the fall 2013.  If the Borrower has provided the June Reserve Report after July 31, 2013, (i) the Administrative Agent and the Lenders shall redetermine the Borrowing Base based on such Reserve Report as promptly as practicable but in any event in no longer than 30 days (and otherwise in accordance with Section 2.14 of the Credit Agreement) and (ii) if such Borrowing Base redetermination occurs on or prior to September 1, 2013, such redetermined Borrowing Base shall be deemed to be the regularly scheduled Borrowing Base redetermination for the fall 2013.  If the Borrowing Base redetermination does not occur on or prior to September 1, 2013, then Section 2.14(g) of the Credit Agreement will apply in accordance with its terms with respect to each Subject Disposition that has been consummated on or prior to September 1, 2013 (as if such Subject Disposition was consummated on September 1, 2013).  For the avoidance of doubt, (x) nothing in this Agreement shall otherwise modify, amend or delay the provisions of Section 2.14 of the Credit Agreement (except in connection with Subject Dispositions and as expressly set forth in this Section 2.2), each provision of which shall continue to be effective, (y) if the Borrower does not deliver the June Reserve Report prior to September 30, 2013 (in accordance with Section 9.14(a) of the Credit Agreement) it shall not constitute a Default and (z) the foregoing postponement in the redetemination of the Borrowing Base pursuant to this Section 2.2 shall not prejudice or otherwise modify the right of the Borrower and its Restricted Subsidiaries to Dispose of the Subject Assets pursuant to Section 10.4(b) of the Credit Agreement to the extent otherwise applicable.
+ 
+ARTICLE III
+ 
+Section 3.1            Conditions to Effectiveness.  This Agreement shall become effective on the date (the Agreement Effective Date) on which the Administrative Agent shall have received this Agreement, executed and delivered by a duly authorized officer of each of the Borrower, Holdings and Lenders comprising at least the Majority Lenders, provided that, for the avoidance of doubt, the provisions of Section 2.2 of this Agreement shall only become effective if the Administrative Agent shall have received executed counterpart signature pages to this Agreement from the Borrower, Holdings and Lenders comprising at least the Required Lenders.
+ 
+The Administrative Agent shall notify the Borrower and the Lenders of the Agreement Effective Date, and such notice shall be conclusive and binding.
+ 
+Section 3.2            Representations and Warranties.  Each of the Borrower and Holdings hereby represents and warrants to the Administrative Agent, each Issuing Bank and the
+ 
+4
+
+
+
+
+
+
+ 
+Lenders, that as of the Agreement Effective Date (i) such Credit Party has taken all necessary corporate or other organizational action to authorize the execution, delivery and performance of this Agreement, (ii) the Credit Agreement and each other Credit Document to which it or any of its applicable Subsidiaries that are Credit Parties is a party constitutes the legal, valid and binding obligation of such Credit Party enforceable in accordance with its terms, subject to the effects of bankruptcy, insolvency, fraudulent conveyance, reorganization and other similar laws relating to or affecting creditors rights generally and general principles of equity (whether considered in a proceeding in equity or law) and (iii) no Default or Event of Default exists under the Credit Agreement or any of the other Credit Documents.
+ 
+Section 3.3            Ratification.  Each of the Borrower and Holdings (for itself and its applicable Subsidiaries that are Credit Parties) hereby (a) ratifies and confirms all of the Obligations under the Credit Agreement (as amended hereby) and the other Credit Documents related thereto, and, in particular, affirms that, after giving effect to this Agreement, the terms of the Security Documents secure, and will continue to secure, all Obligations thereunder, and (b) represents and warrants to the Lenders that as of the effectiveness of this Agreement (i) all of the representations and warranties contained in the Credit Document to which it is a party are true and correct in all material respects with the same effect as though such representations and warranties had been made on and as of such date (except where such representations and warranties expressly relate to an earlier date, in which case, such representations and warranties shall have been true and correct in all material respects  as of such earlier date) and (ii) no Default or Event of Default has occurred and is continuing.
+ 
+Section 3.4            Continuing Effect; No Other Amendments, Modifications or Waivers. This Agreement shall not constitute an amendment, modification or waiver of or consent to any provision of the Credit Agreement and the other Credit Documents except as expressly stated herein and shall not be construed as an amendment, modification, waiver or consent to any action on the part of the Borrower that would require an amendment, waiver or consent of the Administrative Agent or the Lenders except as expressly stated herein.  Except as expressly waived hereby, the provisions of the Credit Agreement and the other Credit Documents are and shall remain in full force and effect in accordance with their terms.
+ 
+ARTICLE IV
+ 
+Section 4.1            Counterparts.  This Agreement may be executed in any number of separate counterparts by the parties hereto (including by telecopy or via electronic mail), each of which counterparts when so executed shall be an original, but all the counterparts shall together constitute one and the same instrument.
+ 
+Section 4.2            GOVERNING LAW.  THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT A SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+ 
+Section 4.3            FINAL AGREEMENT.  THE CREDIT AGREEMENT AND THE OTHER CREDIT DOCUMENTS, WHICH SHALL INCLUDE THIS AGREEMENT, REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE
+ 
+5
+
+
+
+
+
+
+ 
+CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO ORAL AGREEMENTS BETWEEN THE PARTIES.
+ 
+6
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed and delivered by their respective duly authorized officers as of the date first above written.
+ 
+
+
+
+     
+
+EPE   HOLDINGS LLC       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Kyle   McCuen       
+
+
+     
+
+Name:    
+
+Kyle   McCuen       
+
+
+     
+
+Title:    
+
+Vice   President and Treasurer       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+EP   ENERGY LLC (F/K/A EVEREST ACQUISITION LLC)       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Kyle   McCuen       
+
+
+     
+
+Name:    
+
+Kyle   McCuen       
+
+
+     
+
+Title:    
+
+Vice   President and Treasurer         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+JPMORGAN   CHASE BANK, N.A., as Administrative Agent and as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Jo   Linda Papdakis       
+
+
+     
+
+Name:    
+
+Jo   Linda Papadakis       
+
+
+     
+
+Title:    
+
+Authorized   Officer         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CITIBANK,   N.A., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Phil   Ballard       
+
+
+     
+
+Name:    
+
+Phil   Ballard       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BMO   Harris Financing, Inc., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Kevin   Utsey       
+
+
+     
+
+Name:    
+
+Kevin   Utsey       
+
+
+     
+
+Title:    
+
+Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Credit   Suisse AG, Cayman Islands Branch, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Mikhail   Faybusovich       
+
+
+     
+
+Name:    
+
+Mikhail   Faybusovich       
+
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Tyler   R. Smith       
+
+
+     
+
+Name:    
+
+Tyler   R. Smith       
+
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Deutsche   Bank Trust Company Americas, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Marcus   M. Tarkington       
+
+
+     
+
+Name:    
+
+Marcus   M. Tarkington       
+
+
+     
+
+Title:    
+
+Director       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Michael   Getz       
+
+
+     
+
+Name:    
+
+Michael   Getz       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+ROYAL   BANK OF CANADA, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Don   J. McKinnerney       
+
+
+     
+
+Name:    
+
+Don   J. McKinnerney       
+
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+UBS   Loan Finance LLC, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Lana   Gifas       
+
+
+     
+
+Name:    
+
+Lana   Gifas       
+
+
+     
+
+Title:    
+
+Director       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Joselin   Fernandes       
+
+
+     
+
+Name:    
+
+Joselin   Fernandes       
+
+
+     
+
+Title:    
+
+Associate   Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Capital   One, National Association, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Robert   James       
+
+
+     
+
+Name:    
+
+Robert   James       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CANADIAN   IMPERIAL BANK OF COMMERCE, NEW YORK AGENCY, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Trudy   Nelson       
+
+
+     
+
+Name:    
+
+Trudy   Nelson       
+
+
+     
+
+Title:    
+
+Managing   Director       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Richard   Antl       
+
+
+     
+
+Name:    
+
+Richard   Antl       
+
+
+     
+
+Title:    
+
+Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Wells   Fargo Bank, N.A., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Lila   Jordan       
+
+
+     
+
+Name:    
+
+Lila   Jordan       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMPASS   BANK, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Umar   Hassan       
+
+
+     
+
+Name:    
+
+Umar   Hassan       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Societe   Generale, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Elena   Robciuc       
+
+
+     
+
+Name:    
+
+Elena   Robciuc       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+SunTrust,   as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Shannon   Juhan       
+
+
+     
+
+Name:    
+
+Shannon   Juhan       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Toronto   Dominion (New York) LLC, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Marie   Fernandes       
+
+
+     
+
+Name:    
+
+Marie   Fernandes       
+
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+DNB   BANK ASA, GRAND CAYMAN BRANCH, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Philip   F. Kurpiewski       
+
+
+     
+
+Name:    
+
+Philip   F. Kurpiewski       
+
+
+     
+
+Title:    
+
+Senior   Vice President       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Cathleen   Buckley       
+
+
+     
+
+Name:    
+
+Cathleen   Buckley       
+
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK   OF AMERICA, N.A., as a Lender       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Jeffrey   H. Rathkamp       
+
+
+     
+
+Name:    
+
+Jeffrey   H. Rathkamp       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+ING   CAPITAL LLC, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Juli   Bieser       
+
+
+     
+
+Name:    
+
+Juli   Bieser       
+
+
+     
+
+Title:    
+
+Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Mizuho   Corporate Bank, Ltd., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/James   R. Fayen       
+
+
+     
+
+Name:    
+
+James   R. Fayen       
+
+
+     
+
+Title:    
+
+Deputy   General Manager         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+The   Royal Bank of Scotland plc, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Sanjay   Remond       
+
+
+     
+
+Name:    
+
+Sanjay   Remond       
+
+
+     
+
+Title:    
+
+Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Sumitomo   Mitsui Banking Corporation, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Shuji   Yabe       
+
+
+     
+
+Name:    
+
+Shuji   Yabe       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+NOMURA   CORPORATE FUNDING AMERICAS, LLC, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Carl   A. Mayer, III       
+
+
+     
+
+Name:    
+
+Carl   A. Mayer, III       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Scotiabanc   Inc., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/J.F.   Todd       
+
+
+     
+
+Name:    
+
+J.F.   Todd       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+The   Bank of Nova Scotia, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Terry   Donovan       
+
+
+     
+
+Name:    
+
+Terry   Donovan       
+
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+The   Bank of Tokyo-Mitsubishi UFJ Ltd., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Sherwin   Brandford       
+
+
+     
+
+Name:    
+
+Sherwin   Brandford       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Goldman   Sachs Bank USA, as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Barbara   Fabbri       
+
+
+     
+
+Name:    
+
+Barbara   Fabbri       
+
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+MORGAN   STANLEY BANK, N.A., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/William   Jones       
+
+
+     
+
+Name:    
+
+William   Jones       
+
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+Union   Bank, N.A., as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Lauren   Trussell       
+
+
+     
+
+Name:    
+
+Lauren   Trussell       
+
+
+     
+
+Title:    
+
+Vice   President         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMERICA,   as a Lender       
+
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/Brenton   Bellamy       
+
+
+     
+
+Name:    
+
+Brenton   Bellamy       
+
+
+     
+
+Title:    
+
+Assistant   Vice President         
+ 
+Signature Page  Consent and Agreement
+ 
+
+
+
+
+
+
+

@@ -1,0 +1,509 @@
+
+EX-10.1
+2
+ex10_1.htm
+EXHIBIT 10.1
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.1
+
+ 
+
+HOUSTON AMERICAN ENERGY CORP.
+
+ 
+
+PRODUCTION INCENTIVE COMPENSATION PLAN
+
+ 
+
+
+
+
+1.
+Definitions.
+
+
+
+
+
+
+
+The following definitions shall apply to the Plan:
+
+
+
+
+“Applicable Revenues” shall mean the Company’s proportionate share of gross revenues, after deduction of ad valorem, severance and other taxes measured by production, from Designated Wells.
+
+
+
+
+“Board” shall mean the board of directors of the Company, as comprised from time to time.
+
+
+
+
+“Cause” shall have the meaning assigned to such term in any individual employment or service agreement with a Designated Participant or, if no such agreement exists or if such agreement does not define “Cause,” Cause shall mean (i) a Designated Participant’s act(s) of gross negligence or willful misconduct in the course of Designated Participant’s employment with, or services to, the Company that is or could reasonably be expected to be materially injurious to the Company or any of its subsidiaries, (ii) willful failure or refusal by a Designated Participant to perform in any material respect his or her duties or responsibilities, (iii) misappropriation by a Designated Participant of any assets of the Company or any of its subsidiaries, (iv) embezzlement or fraud committed by a Designated Participant, or at his or her direction, (v) a Designated Participant’s conviction of, or pleading “guilty” or “ no contest” to a felony under United States state or federal law.
+
+
+
+
+“Change in Control” shall mean any one of the following: (i) any person is or becomes the “Beneficial Owner” (as defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of the Company (not including in the securities Beneficially Owned by such person any securities acquired directly from the Company) representing 30% or more of the Company’s then outstanding securities, excluding any person who becomes such a Beneficial Owner in connection with a transaction described in clause (A) of paragraph (iii) below; or (ii) the following individuals cease for any reason to constitute a majority of the number of directors then serving: individuals who, on the Effective Date, constitute the Board and any new director (other than a director whose initial assumption of office is in connection with an actual or threatened election contest, including but not limited to a consent solicitation, relating to the election of directors of the Company) whose appointment or election by the Board or nomination for election by the Company’s stockholders was approved or recommended by a vote of at least a two-thirds of the directors then still in office who either were directors on the Effective Date or whose appointment, election or nomination for election was previously so approved or recommended; or (iii) there is consummated a merger or consolidation of the Company with any other corporation other than (A) a merger or consolidation which would result in the voting securities of the Company outstanding immediately prior to such merger or consolidation continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity or any parent thereof) at least 50% of the combined voting power of the voting securities of the Company or such surviving entity or any parent thereof outstanding immediately after such merger or consolidation, or (B) a merger or consolidation effected to implement a re-capitalization of the Company (or similar transaction) in which no person is or becomes the Beneficial Owner, directly or indirectly, of securities of the Company (not including in the securities Beneficially Owned by such person any securities acquired directly from the Company) representing 30% or more of the combined voting power of the Company’s then outstanding securities; or (iv) the stockholders of the Company approve a plan of complete liquidation or dissolution of the Company or there is consummated an agreement for the sale or disposition by the Company of all or substantially all of the Company’s assets, other than a sale or disposition by the Company of all or substantially all of the Company’s assets to an entity at least 75% of the combined voting power of the voting securities of which are owned by persons in substantially the same proportions as their ownership of the Company immediately prior to such sale. Notwithstanding the foregoing, a Change in Control shall not be deemed to have occurred by virtue of the consummation of any transaction or series of integrated transactions immediately following which the holders of common stock immediately prior to such transaction or series of transactions continue to have substantially the same proportionate ownership in an entity which owns all or substantially all of the assets of the Company immediately following such transaction or series of transactions.
+
+
+
+
+
+1
+
+
+
+
+“Committee” shall mean a committee established by the Board to administer the Plan.
+
+
+
+
+“Company” shall mean Houston American Energy Corp., a Delaware corporation, and its subsidiaries.
+
+
+
+
+“Designated Participant(s)” shall mean employees and/or consultants designated by the Committee to participate in the Plan.
+
+
+
+
+“Designated Participant Percentage Interest” shall mean each Designated Participants assigned interest in Applicable Revenues from a Designated Well.
+
+
+
+
+“Designated Percentage” shall mean a percentage, specified by the Committee, of Specified Revenues from a Designated Well(s), not to exceed the Pool Cap.
+
+
+
+
+“Designated Well(s)” shall mean wells drilled on Eligible Prospects and designated as a Designated Well and assigned to a Pool by the Committee.
+
+
+
+
+“Effective Date” shall mean the date on which this Plan is adopted by the Board.
+
+
+
+
+“Eligible Prospects” shall mean any interest in an oil and gas prospect acquired by the Company on or after the date of adoption of the Plan and designated as such by the Committee, whether a fee estate, working interest, net revenue interest, royalty interest, or any other interest in which the Company, directly or indirectly, derives revenues measured by oil, gas or condensates produced; provided, however, that no oil and gas prospects in the country of Colombia shall be Eligible Prospects.
+
+
+
+
+“NRI” shall mean net revenue interest, or a share of oil and gas production after all royalty and overriding royalty interests.
+
+
+
+
+
+2
+
+
+
+
+“Plan” shall mean this Houston American Energy Corp. Production Incentive Compensation Plan, as amended from time to time.
+
+
+
+
+“Pool(s)” shall mean one or more groups of Designated Participants, holding Designated Interests in Designated Well(s).
+
+
+
+
+“Pool Cap” shall mean two percent (2%).
+
+
+
+
+“Post-Termination Wells” shall mean, with respect to a Designated Participant, wells spud after the Termination of employment by, or services to, the Company of such Designated Participant.
+
+
+
+
+“Termination” or “Termination Date” shall mean the termination, or date of such termination, as appropriate, of employment by, or services to, the Company of any Designated Participant, regardless of the reason.
+
+
+
+
+“Vested Well Interest” shall mean, with respect to a Designated Participant and determined as of a specific date, the respective Designated Participant Participation Interest in each Designated Well, spud on or prior to that date of such Designated Participant, in each Pool in which such Designated Participant has been assigned a Designated Participant Participation Interest.
+
+
+
+
+
+
+
+2.
+Purpose of the Plan
+
+
+
+
+
+
+
+The Plan is intended to provide a method for attracting and retaining key employees of the Company, and to encourage such individuals to remain with the Company and devote their best efforts to its affairs, in particular the Company’s efforts to identify and secure participation interests in attractive oil and gas opportunities.
+
+
+
+
+
+
+
+3.
+Administration of the Plan
+
+
+
+
+
+
+
+The Plan shall be administered by the Committee which shall be appointed from time to time by the Board.  Unless otherwise determined by the Board, the Company’s Compensation Committee shall act as the Committee under this Plan.
+
+
+
+
+The Committee shall have authority to establish Pools and to designate Eligible Prospects, Designated Participants, Designated Participant Percentage Interests, Designated Percentages and Designated Wells.  The Committee shall consult with, and receive input from, the Company’s chief executive officer, and other officers as it deems appropriate, regarding such designations but the Committee will retain sole final authority in that regard.  The Committee is authorized to interpret the Plan and from time to time adopt such rules, regulations, definitions and forms consistent with the provisions of the Plan as it may deem advisable to carry out the purposes of the Plan.  All decisions made by the Committee with respect to the Plan shall be final.
+
+
+
+
+
+3
+
+
+
+
+
+
+
+4.
+Establishment of Pools
+
+
+
+
+
+
+
+The Committee shall, at its sole discretion, establish one or more Pools.  Each Pool shall be designated, and known, by a name consisting of the year of formation of the Pool and the sequential number representing the order in which such Pool was formed in that year.  The Committee shall, in establishing a Pool, select from Eligible Prospects, and Designated Wells drilled on such prospects shall be included in the Pool, and shall select Designated Participants to participate in such Pool as well as selecting the Designated Interest with respect to each Designated Well and the Designated Participant Percentage Interest.
+
+
+
+
+Example 1. The first Pool formed in 2013 shall be designated “2013-1 Pool.” That Pool may consist of all Designated Wells drilled on Eligible Prospect X with a Designated Percentage of 2% and Designated Participants consisting of employees A, B and C, each holding Designated Participant Percentage Interests of 1%, 0.5% and 0.5%, respectively.  For so long as A, B and C remain Designated Participants they will be entitled to receive 1%, 0.5% and 0.5%, respectively, of the Applicable Revenues from each Designated Well drilled on that Eligible Prospect.
+
+
+
+
+In the event that the Committee determines to designate additional, or a different group of, Designated Participants than comprise an existing Pool, or at any such time as the Committee may so determine, the Committee shall establish an additional Pool(s) reflecting the unique combination of Designated Participants, Designated Participant Percentage Interests, Eligible Prospects, Designated Wells and Designated Percentage.
+
+
+
+
+Example 2.  If, during 2013 and assuming the 2013-1 Pool is in existence as described in Example 1, the Committee determines to grant interests under this Plan to Designated Participants consisting of employees A, B and D, the Committee shall establish a new Pool designated “2013-2 Pool.”   In that case, the 2013-1 Pool will continue to operate as described and the new 2013-2 Pool will be established to include such Eligible Prospects, Designated Wells, Designated Percentage and Designated Participant Percentage Interest as the Committee shall determine.
+
+
+
+
+Each Pool shall receive and distribute to Designated Participants their relative Designated Participant Percentage Interest in all Applicable Revenues from Designated Wells so long as the Designated Wells continue to generate Applicable Revenues.
+
+
+
+
+
+4
+
+
+
+
+Example 3.  If wells 1, 2 and 3 on Eligible Prospect X are Designated Wells in the 2013-1 Pool, Designated Participants A, B and C hold 1%, 0.5% and 0.5% Designated Participant Percentage Interests and Designated Wells 1, 2 and 3 generate $100,000 of Applicable Revenue during 2013, Designated Participants A, B and C will receive distributions from the 2013-1 Pool of $1,000, $500 and $500, respectively, relative to 2013.
+
+
+
+
+Multiple Pools may, but are not required to, have overlapping Eligible Prospects and overlapping Designated Wells; provided, however, that the total Designated Percentage with respect to any Designated Well shall not exceed the Pool Cap and, provided further, that no Pool shall include a well spud prior to the date of establishment of such Pool.
+
+
+
+
+Example 4.  If the 2013-3 Pool relating to Eligible Prospect Y includes Designated Participants E, F and G, with a Designated Percentage of 1% in Designated Wells 4, 5 and 6, allocated among Designated Participants E, F and G with Designated Participant Percentage Interests of 0.5%, 0.25% and 0.25%, the Committee may also establish the 2013-4 Pool, also relating to Eligible Prospect Y and relating to Designated Participants H, I and J, provided that the aggregate Designated Percentage does not, when added to the Designated Percentage in the 2013-3 Pool with respect to Eligible Prospect Y, exceed the Pool Cap and, provided, further, that the 2013-4 Pool shall not include Designated Wells 4, 5 and 6 although the 2013-3 Pool and 2013-4 Pool may each include identical Designated Wells spud following establishment of the 2013-4 Pool.
+
+
+
+
+
+
+
+5.
+Designated Participants and Designated Participant Percentage Interests.
+
+
+
+
+
+
+
+The Committee, in consultation with the chief executive officer and/or members of management of the Company, may select any employee and/or consultant of the Company as a Designated Participant and include such Designated Participant in any one or more Pools as it so determines; provided, however, that no member of the Committee shall, during his or her service on the Committee, be granted an interest in any Pool.
+
+
+
+
+With respect to each Designated Participant, the Committee, in consultation with the chief executive officer and/or members of management of the Company, may select the Designated Participant Percentage Interest relative to each Designated Well in each respective Pool; provided, however, that in no event may the Designated Participant Percentage Interest of the Company’s Chief Executive Officer in any Designated Well exceed one-half of the applicable Pool Cap with respect to such Designated Well.
+
+
+
+
+
+5
+
+
+
+
+
+
+
+6.
+Eligible Prospects, Designated Wells and Designated Percentage.
+
+
+
+
+
+
+
+The Committee, in consultation with the chief executive officer and/or members of management of the Company, may select for inclusion in any Pool(s) such Eligible Prospects as it may deem appropriate.
+
+
+
+
+The Committee, in consultation with the chief executive officer and/or members of management of the Company, may select for inclusion in any Pool(s) one or more Designated Wells; provided that a Pool may only include Designated Wells spud on or after the date of establishment of a Pool.  The Committee may, at its sole discretion, designated wells drilled on an Eligible Prospect as Designated Well as each such well is spud or may designate a specified number or all wells on an Eligible Prospect spud after establishment of a Pool as Designated Wells.
+
+
+
+
+The Committee, in consultation with the chief executive officer and/or members of management of the Company, may select Designated Percentages with respect to each Designated Well, provided that the Designated Percentage as to any individual Designated Well included, in the aggregate, in all Pools shall not exceed the Pool Cap.  Notwithstanding the foregoing, if the Company’s NRI in a Designated Well is less than 73% (determined on an 8/8 basis), the Pool Cap shall be reduced on a 1 for 1 basis and no well with an NRI of 71% or less may be a Designated Well.
+
+
+
+
+Example 5.  If the Company’s NRI in a Designated Well is 72%, or 1% less than the minimum NRI, the Pool Cap would be reduced by 1% from 2% to 1%.  With respect to that Designated Well, the maximum Designated Percentage would be 1%.
+
+
+
+
+
+
+
+7.
+Pool Payout.
+
+
+
+
+
+
+
+The Committee shall, not later than sixty (60) days following the end of each calendar year, determine the Applicable Revenues with respect to each Pool.  Promptly following determination of the Applicable Revenues with respect to a Pool, the Committee shall cause to be paid to each Designated Participant in that Pool his or her respective Designated Participant Percentage Interest in the Applicable Revenues of Designated Wells in the Pool.  The Committee may, at its sole discretion, make partial interim payouts with respect to one or more Pools.
+
+
+
+
+
+
+
+8.
+Vesting of Participation.
+
+
+
+
+
+
+
+Subject to the termination provisions set forth in Section 9, each Designated Participant’s interest in each Pool vests on the date of grant and shall continue thereafter regardless of whether the Designated Participant is employed by, or providing services to, the Company.
+
+
+
+
+
+6
+
+
+
+
+
+
+
+9.
+Termination of Employment or Services.
+
+
+
+
+
+
+
+Upon the Termination of a Designated Participant, (a) where Termination is for “cause”, the Designated Participant’s interest in each Pool in which such Designated Participant is participating shall terminate on the Termination Date and such Designated Participant shall only be entitled to payment of amounts accruing through the Termination Date after which no further payments from any Pool shall be earned or owing, and (b) where Termination is other than for “cause”, including resignation, retirement, death or disability of a Designated Participant, the Designated Participant’s Vested Well Interest in each Pool shall continue following Termination and the Designated Participant, including his estate and/or survivors, shall continue to receive payouts from each Pool so long as Applicable Revenues are derived from Designated Wells in such Pools; provided, however, that any such Designated Participant shall have no interest in, and shall receive no portion of Applicable Revenues attributable to, Post-Termination Wells.
+
+
+
+
+
+
+
+10.
+Change in Control.
+
+
+
+
+
+
+
+In the event of a Change in Control of the Company, as a condition of such Change in Control, the acquirer or survivor of such transaction must assume all obligations of the Company under the Plan; provided, however, that the Committee may, at its sole discretion, assign overriding royalty interests in Designated Wells to Designated Participants, in the manner described in Section 11 below, in which case, the assumption of the obligations of the Company under the Plan shall be deemed waived.
+
+
+
+
+
+
+
+11.
+Assignment of Overriding Royalties.
+
+
+
+
+
+
+
+The Committee may, at its sole discretion, from time to time cause the Company to assign to some or all of the Designated Participants overriding royalty interests in settlement of some or all the obligations of the Company to make payments from any one or more Pools.  In the event that the Committee elects to cause overriding royalty interests to be assigned to Designated Participants, those overriding royalty interests shall be structured to substantially mirror the rights of each such Designated Participant immediately prior to such assignment and shall be conditioned upon receipt by the Company of a written acknowledgement from any such Designated Participant that such assignment is made in full settlement of the corresponding right and obligation under the Plan.
+
+
+
+
+
+
+
+12.
+Nature of the Plan.
+
+
+
+
+
+
+
+The Plan shall constitute an unfunded, unsecured obligation of the Company to make cash payments in accordance with the provisions of the Plan.  The establishment of the Plan and the assignment of interests in the Plan shall not create a trust.  Legal and equitable title to all Eligible Prospects and Designated Wells shall remain in the Company and no Designated Participant shall have any security or other interest in any of the Eligible Prospects or Designated Wells or any other assets of the Company.  Nothing in the Plan shall in any way inhibit the Company from dealing with Eligible Prospects or Designated Wells in any manner.
+
+
+
+
+
+7
+
+
+
+
+
+
+
+13.
+Employment Relationship.
+
+
+
+
+
+
+
+A Designated Participant shall be considered to be in the employment or service of the Company as long as he or she remains an employee or service provider to the Company, any subsidiary of the Company or any enterprise which acquires the Company in a Change in Control transaction.  Nothing in the adoption or implementation of the Plan shall confer on any employee or consultant the right to continued employment or service with the Company or affect in any way the right of the Company to terminate his or her employment or service at any time.  Any question as to whether and when there has been a Termination, and the cause of such Termination, shall be determined by the Committee and its determination shall be final.
+
+
+
+
+
+
+
+14.
+Prohibition Against Assignment or Encumbrance.
+
+
+
+
+
+
+
+No right, title, interest or benefit hereunder shall ever be liable for or charged with any of the torts or obligations of a Designated Participant or any person claiming under a Designated Participant, or be subject to seizure by any creditor of a Designated Participant or any person claiming under a Designated Participant.  No Designated Participant or any person claiming under a Designated Participant shall have the power to anticipate or dispose of any right, title, interest or benefit hereunder in any manner until the same shall have been actually distributed free and clear of the terms of the Plan.
+
+
+
+
+
+
+
+15.
+No Right of Inspection.
+
+
+
+
+
+
+
+Neither the Plan nor any action taken thereunder shall be construed as giving a Designated Participant the right to an accounting or to examine the books or affairs of the Company or to question or review management decisions relating to the Company, its properties or activities.
+
+
+
+
+
+
+
+16.
+Amendment or Termination of Plan.
+
+
+
+
+
+
+
+The Board shall have the right to alter, amend or terminate the Plan at any time, except that no alteration, amendment or termination will be made without a Designated Participant’s consent if such alternation, amendment or termination would impair the rights of such Designated Participant with respect to interests in Pools then existing.
+
+ 
+
+ 
+
+
+8
+
+
+
+
+
+
+
+

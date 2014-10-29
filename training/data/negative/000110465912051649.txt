@@ -1,0 +1,1306 @@
+
+EX-10.1
+4
+a12-12340_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+  
+
+
+Exhibit 10.1
+ 
+FIRST AMENDMENT
+ 
+TO
+ 
+AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+dated as of May 4, 2012
+ 
+among
+ 
+CABOT OIL & GAS CORPORATION, as Borrower,
+ 
+JPMORGAN CHASE BANK, N.A., as Administrative Agent,
+ 
+BANK OF AMERICA, N.A., as Syndication Agent,
+ 
+BANK OF MONTREAL, as Co- Documentation Agent,
+ 
+BBVA COMPASS, as Co-Documentation Agent,
+ 
+CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK AGENCY, as Co- Documentation Agent,
+ 
+U.S. BANK NATIONAL ASSOCIATION, as Co-Documentation Agent,
+ 
+WELLS FARGO BANK, N.A., as Co- Documentation Agent,
+ 
+and
+ 
+The Lenders Party Thereto
+ 
+
+ 
+J.P. Morgan Securities LLC Merrill Lynch Pierce, Fenner & Smith, Inc.
+ 
+As Co-Lead Arrangers and Joint Bookrunners
+ 
+
+
+
+
+
+
+ 
+FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+THIS FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this First Amendment) dated as of May 4, 2012, among CABOT OIL & GAS CORPORATION, a Delaware limited liability company, (the Borrower); each of the lenders party to the Credit Agreement referred to below (collectively, the Lenders); and JPMORGAN CHASE BANK, N.A., as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the Administrative Agent).
+ 
+R E C I T A L S
+ 
+A.                                   The Borrower, the Administrative Agent and the Lenders are parties to that certain Amended and Restated Credit Agreement dated as of September 22, 2010 (the Credit Agreement), pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower.
+ 
+B.                                     The Borrower has requested and all of Lenders have agreed to amend certain provisions of the Credit Agreement and extend the Maturity Date as set forth herein.
+ 
+C.                                     Now, therefore, to induce the Administrative Agent and all of Lenders to enter into this First Amendment and in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+ 
+Section 1.                                            Defined Terms.  Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this First Amendment. Unless otherwise indicated, all section references in this First Amendment refer to sections of the Credit Agreement.
+ 
+Section 2.                                            Amendments to Credit Agreement.
+ 
+2.1                                 Amendments to Section 1.02.  Section 1.02 is hereby amended by:
+ 
+(a)                                  deleting the defined term Agreement in its entirety and replacing it with the following:
+ 
+Agreement means this Amended and Restated Credit Agreement, as amended by that certain First Amendment dated as of May 4, 2012, as the same may from time to time be amended, modified, supplemented or restated.
+ 
+(b)                                 deleting the Borrowing Base Utilization grid contained in the defined term Applicable Margin and replacing that grid with the following:
+ 
+1
+
+
+
+
+
+
+ 
+Borrowing Base Utilization Grid
+ 
+
+
+
+Borrowing Base Utilization Percentage    
+
+     
+
+<25%    
+
+     
+
+>25% <50%    
+
+     
+
+>50% <75%    
+
+     
+
+>75% <90%    
+
+     
+
+>90%    
+
+        
+
+
+Eurodollar Loans    
+
+     
+
+1.50    
+
+%    
+
+1.75    
+
+%    
+
+2.00    
+
+%    
+
+2.25    
+
+%    
+
+2.50    
+
+%       
+
+
+ABR Loans    
+
+     
+
+0.50    
+
+%    
+
+0.75    
+
+%    
+
+1.00    
+
+%    
+
+1.25    
+
+%    
+
+1.50    
+
+%         
+ 
+(c)                                  amending the definition of the define term Change in Law by adding the following at the end thereof:
+ 
+Notwithstanding anything herein to the contrary, (x) the Dodd-Frank Wall Street Reform and Consumer Protection Act and all requests, rules, guidelines or directives thereunder or issued in connection therewith and (y) all requests, rules, guidelines or directives promulgated by the Bank for International Settlements, the Basel Committee on Banking Supervision (or any successor or similar authority) or the United States or foreign regulatory authorities, in each case pursuant to Basel III, shall in each case be deemed to be a Change in Law, regardless of the date enacted, adopted or issued.
+ 
+(d)                                 deleting the defined term Maturity Date in its entirety and replacing it with the following:
+ 
+Maturity Date means May 4, 2017.
+ 
+(e)                                  adding the following defined terms in the appropriate alphabetical order:
+ 
+Commitment Fee Rate means, for any day, the rate per annum set forth in the Commitment Fee Rate grid below based on the Borrowing Base Utilization Percentage then in effect:
+ 
+Commitment Fee Rate Grid
+ 
+
+
+
+Borrowing Base Utilization Percentage    
+
+     
+
+Commitment Fee   Rate    
+
+        
+
+
+<50%    
+
+     
+
+0.375    
+
+%       
+
+
+>50%    
+
+     
+
+0.500    
+
+%         
+ 
+First Amendment Effective date means May 4, 2012.
+ 
+2.2                                 Amendment to Section 2.06(c).  Section 2.06(c)(ii)(A) is hereby amended by replacing $1,000,000,000 with $1,400,000,000.
+ 
+2.3                                 Amendment to Section 3.05(a).  The first sentence is hereby amended by replacing the words a rate per annum of 0.50% with the words the Commitment Fee Rate.
+ 
+2.3                                 Amendment to Section 4.03(a).  Section 4.03(a) is amended and restated in its entirety to read as follows:
+ 
+Any amount payable to such Defaulting Lender hereunder (whether on account of principal, interest, fees or otherwise and including any amount that
+ 
+2
+
+
+
+
+
+
+ 
+would otherwise be payable to such Defaulting Lender pursuant to Section 4.01(c) or Section 10.02(c), but excluding Section 5.04(b)) will, in lieu of being distributed to such Defaulting Lender, be retained by the Administrative Agent in a segregated account and, subject to any applicable requirements of law, be applied at such time or times as may be determined by the Administrative Agent (i) first, to the payment of any amounts owing by such Defaulting Lender to the Administrative Agent hereunder, (ii) second, pro rata, to the payment of any amounts owing by such Defaulting Lender to each Issuing Bank hereunder, (iii) third, to cash collateralize such Defaulting Lenders LC Exposure in accordance with Section 2.08(j), (iv) fourth, as the Borrower may request (so long as no Default exists), to the funding of any Loan in respect of which such Defaulting Lender has failed to fund its portion thereof as required by this Agreement, as determined by the Administrative Agent, (v) fifth, if so determined by the Administrative Agent and the Borrower, held in an interest bearing account and released pro rata in order to (A) satisfy such Defaulting Lenders potential future funding obligations with respect to Loans under this Agreement and (B) cash collateralize such Defaulting Lenders future LC Exposure in accordance with Section 2.08(j), (vi) sixth, to the payment of any amounts then owing to the Lenders or any Issuing Bank as a result of any final and non-appealable judgment of a court of competent jurisdiction obtained by any Lender or Issuing Bank against such Defaulting Lender as a result of such Defaulting Lenders breach of its obligations under this Agreement, (vii) seventh, to the payment of any amounts then owing to the Borrower as a result of any final and non-appealable judgment of a court of competent jurisdiction obtained by the Borrower against such Defaulting Lender as a result of such Defaulting Lenders breach of its obligations under this Agreement and (viii) eighth, to such Defaulting Lender or as otherwise directed by a court of competent jurisdiction; provided that if such payment is (x) a prepayment of the principal amount of any Loans or reimbursement obligations in respect of LC Disbursement that a Defaulting Lender has not fully funded its participation obligations and (y) in the case of such Loans which were made at a time when the conditions set forth in Section 6.02 were satisfied or waived, such payment will be applied solely to prepay the Loans of, and reimbursement obligations owed to, all non-Defaulting Lenders pro rata prior to being applied to the prepayment of any Loans, or reimbursement obligations owed to, any Defaulting Lender.  Any payments, prepayments or other amounts paid or payable to any Defaulting Lender that are applied (or held) to pay amounts owed by such Defaulting Lender or shall be deemed paid to and redirected by such Defaulting Lender, and each Lender irrevocably consents to the foregoing.
+ 
+2.4                                 Amendment to Section 5.01(b).  Section 5.01(b) is amended and restated in its entirety to read as follows:
+ 
+If any Lender or the Issuing Bank determines that any Change in Law regarding capital requirements has or would have the effect of reducing the rate of return on such Lenders or the Issuing Banks capital or liquidity or on the capital or liquidity of such Lenders or the Issuing Banks holding company, if any, as a consequence of this Agreement or the Loans made by, or participations in Letters
+ 
+3
+
+
+
+
+
+
+ 
+of Credit held by, such Lender, or the Letters of Credit issued by the Issuing Bank, to a level below that which such Lender or the Issuing Bank or such Lenders or the Issuing Banks holding company could have achieved but for such Change in Law (taking into consideration such Lenders or the Issuing Banks policies and the policies of such Lenders or the Issuing Banks holding company with respect to capital adequacy), then from time to time the Borrower will pay to such Lender or the Issuing Bank, as the case may be, such additional amount or amounts as will compensate such Lender or the Issuing Bank or such Lenders or the Issuing Banks holding company for any such reduction suffered.
+ 
+2.5                                 Amendment to Section 5.04(a).  Section 5.04(a) is amended to insert (at the request of the Borrower) immediately following the words then such Lender shall.
+ 
+2.6                                 Amendment to Section 11.03.  Section 11.03 is amended to insert the following sentence immediately following the second sentence of such Section:
+ 
+Upon receipt from the Borrower of a notice of the occurrence of any Default pursuant to Section 8.02(a), the Administrative Agent will promptly provide to the Lenders a copy of such notice.
+ 
+Section 3.                                            Assignment, New Lenders and Reallocation of Commitments and Loans.  The Lenders have agreed among themselves, in consultation with the Borrower, to reallocate their respective Maximum Credit Amounts and to, among other things, allow each Canadian Imperial Bank of Commerce, New York Agency, Branch Banking and Trust Company and The Bank of Tokyo-Mitsubishi UFJ, Ltd. to become a party to the Credit Agreement as a Lender, (the New Lenders) by acquiring an interest in the Aggregate Maximum Credit Amount.  The Administrative Agent and the Borrower hereby consent to such reallocation and the New Lenders acquisition of an interest in the Aggregate Maximum Credit Amount and the other Lenders assignments of their Maximum Credit Amounts.  On the First Amendment Effective Date and after giving effect to such reallocations, the Maximum Credit Amount of each Lender shall be as set forth on Annex I of this First Amendment which Annex I supersedes and replaces the Annex I to the Credit Agreement.  With respect to such reallocation, the New Lenders shall be deemed to have acquired the Maximum Credit Amount allocated to it from each of the other Lenders pursuant to the terms of the Assignment and Assumption Agreement attached as Exhibit F to the Credit Agreement as if the New Lenders and the other Lenders had executed an Assignment and Assumption Agreement with respect to such allocation.  On the First Amendment Effective Date, the Borrower shall prepay any Loans outstanding (and pay any additional amounts required pursuant to Section 5.02) to the extent necessary to keep the outstanding Loans ratable with any revised allocations arising from any increase in the Maximum Credit Amounts under this Section.
+ 
+4
+
+
+
+
+
+
+ 
+Section 4.                                            Conditions Precedent.  This First Amendment shall become effective on the date (such date, the First Amendment Effective Date), when each of the following conditions is satisfied (or waived in accordance with Section 12.02):
+ 
+4.1                                 The Administrative Agent shall have received from all of the Lenders and the Borrower, counterparts (in such number as may be requested by the Administrative Agent) of this First Amendment signed on behalf of such Person.
+ 
+4.2                                 The Administrative Agent and the Lenders shall have received all fees and other amounts due and payable on or prior to the date hereof, including, to the extent invoiced, reimbursement or payment of all documented out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit Agreement.
+ 
+4.3                                 No Default shall have occurred and be continuing as of the date hereof, after giving effect to the terms of this First Amendment.
+ 
+4.4                                 The Administrative Agent shall have received such other documents as the Administrative Agent or its special counsel may reasonably require.
+ 
+The Administrative Agent is hereby authorized and directed to declare this First Amendment to be effective when it has received documents confirming or certifying, to the satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section or the waiver of such conditions as permitted in Section 12.02.  Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes.
+ 
+Section 5.                                            Miscellaneous.
+ 
+5.1                                 Confirmation. The provisions of the Credit Agreement, as amended by this First Amendment, shall remain in full force and effect following the effectiveness of this First Amendment.
+ 
+5.2                                 Ratification and Affirmation; Representations and Warranties.  The Borrower hereby (a) ratifies and affirms its obligations under, and acknowledges its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect as expressly amended hereby and (b) represents and warrants to the Lenders that as of the date hereof, after giving effect to the terms of this First Amendment:
+ 
+(i)                                     all of the representations and warranties contained in each Loan Document to which it is a party are true and correct, except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct as of such specified earlier date, and
+ 
+(ii)                                  no event or events have occurred which individually or in the aggregate could reasonably be expected to have a Material Adverse Effect.
+ 
+5
+
+
+
+
+
+
+ 
+5.3                                 Counterparts. This First Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument.  Delivery of this First Amendment by facsimile transmission shall be effective as delivery of a manually executed counterpart hereof.
+ 
+5.4                                 NO ORAL AGREEMENT. THIS FIRST AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.
+ 
+5.5                                 GOVERNING LAW. THIS FIRST AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+ 
+5.6                                 Payment of Expenses. In accordance with Section 12.03, the Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable out-of-pocket costs and reasonable expenses incurred in connection with this First Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.
+ 
+5.7                                 Severability. Any provision of this First Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+ 
+5.8                                 Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+ 
+[SIGNATURES BEGIN NEXT PAGE]
+ 
+6
+
+ 
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this First Amendment to be duly executed as of the date first written above.
+ 
+ 
+
+
+
+BORROWER:    
+
+CABOT   OIL & GAS CORPORATION       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 1
+
+
+
+
+
+
+ 
+
+
+
+ADMINISTRATIVE   AGENT:    
+
+JPMORGAN   CHASE BANK, N.A.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+LENDERS:    
+
+JPMORGAN   CHASE BANK, N.A.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 2
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK   OF AMERICA, N.A.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 3
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BANK   OF MONTREAL       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 4
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMPASS   BANK       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 5
+
+
+
+
+
+
+ 
+
+
+
+     
+
+CANADIAN   IMPERIAL BANK OF    COMMERCE, NEW YORK AGENCY       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 6
+
+
+
+
+
+
+
+ 
+
+
+
+     
+
+U.S.   BANK NATIONAL ASSOCIATION       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 7
+
+
+
+
+
+
+ 
+
+
+
+     
+
+WELLS   FARGO BANK, N.A.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 8
+
+
+
+
+
+
+ 
+
+
+
+     
+
+BRANCH   BANKING AND TRUST COMPANY       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 9
+
+
+
+
+
+
+ 
+
+
+
+     
+
+KEYBANK   NATIONAL ASSOCIATION       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 10
+
+
+
+
+
+
+ 
+
+
+
+     
+
+THE   BANK OF TOKYO-MITSUBISHI UFJ, LTD.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 11
+
+
+
+
+
+
+ 
+
+
+
+     
+
+COMERICA   BANK       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 12
+
+
+
+
+
+
+ 
+
+
+
+     
+
+ING   CAPITAL LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 13
+
+
+
+
+
+
+ 
+
+
+
+     
+
+THE   FROST NATIONAL BANK       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ Signature       
+
+
+     
+
+     
+
+Name:       
+
+
+     
+
+     
+
+Title:         
+ 
+Signature Page 14
+
+
+
+
+
+
+ 
+ANNEX I
+ 
+LIST OF MAXIMUM CREDIT AMOUNTS
+ 
+
+
+
+Name of Lender    
+
+     
+
+Applicable   Percentage    
+
+     
+
+Maximum   Credit Amount    
+
+        
+
+
+JPMorgan Chase Bank, N.A.    
+
+     
+
+10.28    
+
+%    
+
+$    
+
+92,500,000.00    
+
+        
+
+
+Bank of America, N.A.    
+
+     
+
+10.28    
+
+%    
+
+$    
+
+92,500,000.00    
+
+        
+
+
+Bank of Montreal    
+
+     
+
+8.89    
+
+%    
+
+$    
+
+80,000,000.00    
+
+        
+
+
+Compass Bank    
+
+     
+
+8.89    
+
+%    
+
+$    
+
+80,000,000.00    
+
+        
+
+
+Canadian Imperial Bank of Commerce, New York   Agency    
+
+     
+
+8.89    
+
+%    
+
+$    
+
+80,000,000.00    
+
+        
+
+
+U.S. Bank National Association    
+
+     
+
+8.89    
+
+%    
+
+$    
+
+80,000,000.00    
+
+        
+
+
+Wells Fargo Bank, N.A.    
+
+     
+
+8.89    
+
+%    
+
+$    
+
+80,000,000.00    
+
+        
+
+
+Branch Banking and Trust Company    
+
+     
+
+6.67    
+
+%    
+
+$    
+
+60,000,000.00    
+
+        
+
+
+KeyBank N.A.    
+
+     
+
+6.67    
+
+%    
+
+$    
+
+60,000,000.00    
+
+        
+
+
+The Bank of Tokyo-Mitsubishi UFJ, LTD.    
+
+     
+
+6.67    
+
+%    
+
+$    
+
+60,000,000.00    
+
+        
+
+
+Comerica Bank    
+
+     
+
+5.00    
+
+%    
+
+$    
+
+45,000,000.00    
+
+        
+
+
+ING Capital LLC    
+
+     
+
+5.00    
+
+%    
+
+$    
+
+45,000,000.00    
+
+        
+
+
+The Frost National Bank    
+
+     
+
+5.00    
+
+%    
+
+$    
+
+45,000,000.00    
+
+        
+
+
+TOTAL    
+
+     
+
+100.000000    
+
+%    
+
+$    
+
+900,000,000.00    
+
+          
+ 
+Annex I - Page 1
+
+ 
+
+
+
+
+
+

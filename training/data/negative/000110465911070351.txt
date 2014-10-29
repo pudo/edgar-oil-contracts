@@ -1,0 +1,2482 @@
+
+EX-10.6
+2
+a11-30377_1ex10d6.htm
+EX-10.6
+
+
+
+
+
+
+
+  
+
+
+Exhibit 10.6
+ 
+AMENDED AND RESTATED
+PURCHASE, SALE, CONTRIBUTION, CONVEYANCE AND
+ASSUMPTION AGREEMENT
+ 
+AMONG
+ 
+LIME ROCK RESOURCES A, L.P.,
+ 
+LIME ROCK RESOURCES B, L.P.,
+ 
+LIME ROCK RESOURCES C, L.P.,
+ 
+LRE GP, LLC,
+ 
+LRR ENERGY, L.P.
+ 
+AND
+ 
+LRE OPERATING, LLC
+ 
+
+
+
+
+
+
+ 
+TABLE OF CONTENTS
+ 
+
+
+
+ARTICLE I DEFINITIONS    
+
+4       
+
+
+     
+
+        
+
+
+ARTICLE II CONTRIBUTIONS,   ACKNOWLEDGMENTS AND DISTRIBUTIONS    
+
+6       
+
+
+     
+
+     
+
+        
+
+
+2.01    
+
+Contribution of the MLP Assets by LRR-A    
+
+6       
+
+
+2.02    
+
+Contribution and Sale of Net Profit Interests by LRR-B    
+
+7       
+
+
+2.03    
+
+Contribution and Sale of Net Profit Interests by LRR-C    
+
+7       
+
+
+2.04    
+
+Public Cash Contribution    
+
+8       
+
+
+2.05    
+
+Distribution by the Partnership of the Credit Facility   Borrowings    
+
+8       
+
+
+2.06    
+
+Payment of Indebtedness Assumed from LRR-A by the   Partnership; Payment of Expenses by the Partnership; Cash Distribution by the   Partnership to the Property Contributors    
+
+8       
+
+
+2.07    
+
+Contribution of the MLP Assets by the Partnership to LRE   Operating    
+
+9       
+
+
+2.08    
+
+Direct Contribution of MLP Assets    
+
+9       
+
+
+     
+
+     
+
+        
+
+
+ARTICLE III ADDITIONAL   TRANSACTIONS    
+
+9       
+
+
+     
+
+     
+
+        
+
+
+3.01    
+
+Purchase of Additional Common Units    
+
+9       
+
+
+3.02    
+
+Issuance of Additional Common Units to LRR-A    
+
+9       
+
+
+3.03    
+
+Issuance of Additional Common Units to LRR-B    
+
+10       
+
+
+3.04    
+
+Issuance of Additional Common Units to LRR-C    
+
+10       
+
+
+     
+
+     
+
+        
+
+
+ARTICLE IV TITLE MATTERS    
+
+10       
+
+
+     
+
+     
+
+        
+
+
+4.01    
+
+Encumbrances    
+
+10       
+
+
+4.02    
+
+Disclaimer of Warranties; Subrogation; Waiver of Bulk Sales   Laws    
+
+11       
+
+
+     
+
+     
+
+        
+
+
+ARTICLE V FURTHER ASSURANCES    
+
+12       
+
+
+     
+
+     
+
+        
+
+
+5.01    
+
+Further Assurances    
+
+12       
+
+
+5.02    
+
+Other Assurances    
+
+12       
+
+
+     
+
+     
+
+        
+
+
+ARTICLE VI REPRESENTATIONS   AND WARRANTIES    
+
+13       
+
+
+     
+
+     
+
+        
+
+
+6.01    
+
+Representations and Warranties of All Parties    
+
+13       
+
+
+     
+
+     
+
+        
+
+
+ARTICLE VII MISCELLANEOUS    
+
+14       
+
+
+     
+
+     
+
+        
+
+
+7.01    
+
+Notices    
+
+14       
+
+
+7.02    
+
+Order of Completion of Transactions    
+
+15       
+
+
+7.03    
+
+Costs    
+
+15       
+
+
+7.04    
+
+Headings; References; Interpretation    
+
+15       
+
+
+7.05    
+
+Successors and Assigns    
+
+15       
+
+
+7.06    
+
+No Third Party Rights    
+
+15       
+
+
+7.07    
+
+Counterparts    
+
+15       
+
+
+7.08    
+
+Governing Law    
+
+16       
+
+
+7.09    
+
+Severability    
+
+16       
+
+
+7.10    
+
+Amendment or Modification    
+
+16       
+
+
+7.11    
+
+Integration    
+
+16         
+ 
+i
+
+
+
+
+
+
+ 
+
+
+
+SCHEDULE   I    
+
+        
+
+
+     
+
+        
+
+
+SCHEDULE   II    
+
+        
+
+
+     
+
+        
+
+
+ANNEX   A      
+
+Form of   Assignment and Bill of Sale         
+ 
+ii
+
+
+
+
+
+
+ 
+AMENDED AND RESTATED
+PURCHASE, SALE, CONTRIBUTION, CONVEYANCE AND
+ASSUMPTION AGREEMENT
+ 
+This Amended and Restated Purchase, Sale, Contribution, Conveyance and Assumption Agreement (this Agreement), dated effective as of November 16, 2011 (the Closing Date), is entered into by and among Lime Rock Resources A, L.P., a Delaware limited partnership (LRR-A), Lime Rock Resources B, L.P., a Delaware limited partnership (LRR-B), Lime Rock Resources C, L.P., a Delaware limited partnership (LRR-C, and together with LRR-A and LRR-B, the Property Contributors), LRE GP, LLC, a Delaware limited liability company (the General Partner), LRR Energy, L.P., a Delaware limited partnership (the Partnership), and LRE Operating, LLC, a Delaware limited liability company (LRE Operating).  LRR-B and LRR-C are referred to collectively as the NPI Owners. The above-named entities are sometimes referred to in this Agreement each as a Party and collectively as the Parties. Capitalized terms used herein shall have the meaning assigned to such terms in Article I.
+ 
+RECITALS:
+ 
+WHEREAS, the General Partner and Lime Rock Management LP, a Delaware limited partnership (Lime Rock Management), formed the Partnership pursuant to the Delaware Revised Uniform Limited Partnership Act, as amended (the Delaware LP Act) to engage in any lawful activity for which limited partnerships may be organized under the Delaware LP Act; and
+ 
+WHEREAS, to accomplish the objectives and purposes in the preceding recital, each of the following actions has been taken prior to the date hereof:
+ 
+1.             Lime Rock Management formed the General Partner pursuant to the Delaware Limited Liability Company Act, as amended (the Delaware LLC Act) and contributed $1,000 in exchange for all of the membership interests in the General Partner;
+ 
+2.             the General Partner and Lime Rock Management formed the Partnership pursuant to the Delaware LP Act, and the General Partner contributed $1 to the Partnership in exchange for a 0.1% general partner interest in the Partnership, and Lime Rock Management contributed $999 to the Partnership in exchange for a 99.9% limited partner interest in the Partnership;
+ 
+3.             the Partnership formed LRE Operating pursuant to the Delaware LLC Act and contributed $1,000 to LRE Operating in exchange for all of the membership interests in LRE Operating; and
+ 
+WHEREAS, LRR-A owns certain working interests in the MLP Assets; and
+ 
+WHEREAS, the NPI Owners own net profits interests that burden, among other properties, the MLP Assets; and
+ 
+
+
+
+
+
+
+ 
+WHEREAS, concurrently with the consummation of the transactions contemplated hereby, each of the following actions shall occur on the Closing Date:
+ 
+1.             Lime Rock Management will contribute $175,600.00 on the Closing Date and agree to contribute an additional $250,000.00 in the aggregate, to the General Partner in exchange for 100% of the Class A Interests in the General Partner;
+ 
+2.             LRR-A will contribute $28,578.80 representing its pro rata share of the fair market value of the Incentive Distribution Rights, in the aggregate, to the General Partner in exchange for 14.2894% of the Class B Interests in the General Partner;
+ 
+3.             LRR-B will contribute $9,475.20 representing its pro rata share of the fair market value of the Incentive Distribution Rights, in the aggregate, to the General Partner in exchange for 4.7376% of the Class B Interests in the General Partner;
+ 
+4.             LRR-C will contribute $161,946.00 representing its pro rata share of the fair market value of the Incentive Distribution Rights, in the aggregate, to the General Partner in exchange for 80.9730% of the Class B Interests in the General Partner;
+ 
+5.             Lime Rock Resources II-A, L.P., a Delaware limited partnership, will contribute $8,195.00 representing its pro rata share of the fair market value of the Incentive Distribution Rights, in the aggregate, to the General Partner in exchange for 16.39% of the Class C Interests in the General Partner;
+ 
+6.             Lime Rock Resources II-C, L.P., a Delaware limited partnership, will contribute $41,805.00 representing its pro rata share of the fair market value of the Incentive Distribution Rights, in the aggregate, to the General Partner in exchange for 83.61% of the Class C Interests in the General Partner;
+ 
+7.             the General Partner will contribute $425,600.00 (the LRM GP Contribution) to the Partnership in exchange for a continuation of its prior 0.1% general partner interest in the Partnership, represented by 22,400 general partner units;
+ 
+8.             LRR-A will contribute the MLP Assets to the Partnership pursuant to the Assignment Document (as defined herein) in exchange for (i) 960,247 subordinated units representing a 4.29% limited partner interest in the Partnership, (ii) 691,378 common units representing a 3.09% limited partner interest in the Partnership, (iii) the right to receive a distribution of $28,562,659.05 (such distribution to be sourced from Credit Facility Borrowings (as defined below) to reimburse LRR-A for pre-formation capital expenditures), (iv) LRE Operatings assumption of $27,251,250.00 of LRR-As existing indebtedness, and LRE Operatings agreement to pay such indebtedness immediately following LRR-As contribution of the MLP Assets to the Partnership in exchange for a release of the lien on such MLP Assets securing such indebtedness, and (v) the right to receive, upon the expiration of the Option Period, (A) the number of additional common units that is equal to (x) the Additional Units minus the aggregate number of common units, if any, actually purchased by and issued to the Underwriters (as defined herein) pursuant to the exercise of the Over-Allotment Option during the Option Period, multiplied by (y) 14.2894% (rounded down to the nearest whole number of common units), and (B) as reimbursement for pre-
+ 
+2
+
+
+
+
+
+
+ 
+formation capital expenditures an amount equal to (x) the aggregate amount of net proceeds, if any, paid by the Underwriters to the Partnership with respect to common units purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (y) 14.2894%;
+ 
+9.             LRR-B will sell, transfer and assign those net profits interests described on Schedule I, insofar and only insofar as the same burden the MLP Assets, to the Partnership pursuant to the Assignment Document in exchange for (i) the right to receive sales proceeds of $14,470,067.69 (such amount to be sourced first from the proceeds from the Offering and then, to the extent necessary, from Credit Facility Borrowings), and (ii) the right to receive, upon the earlier to occur of the expiration of the Over-Allotment Option period or the Option Closing Date, an additional amount equal to (A) the aggregate amount of net proceeds, if any, paid by the Underwriters to the Partnership on the Option Closing Date with respect to common units purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (B) 4.7376%; and LRR-B will contribute its remaining net profits interests that burden the MLP Assets to the Partnership pursuant to the Assignment Document in exchange for (i) 318,368 subordinated units representing a 1.42% limited partner interest in the Partnership, (ii) 229,224 common units representing a 1.02% limited partner interest in the Partnership, and (iii) the right to receive, upon the expiration of the Option Period, the number of additional common units that is equal to (A) the Additional Units minus the aggregate number of common units, if any, actually purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (B) 4.7376% (rounded down to the nearest whole number of common units);
+ 
+10.           LRR-C will sell, transfer and assign those net profits interests described on Schedule II, insofar and only insofar as the same burden the MLP Assets, to the Partnership pursuant to the Assignment Document in exchange for (i) the right to receive sales proceeds of $246,849,143.26 (such amount to be sourced first from the proceeds from the Offering and then, to the extent necessary, from Credit Facility Borrowings), and (ii) the right to receive, upon the earlier to occur of the expiration of the Over-Allotment Option period or the Option Closing Date, an additional amount equal to (A) the aggregate amount of net proceeds, if any, paid by the Underwriters to the Partnership on the Option Closing Date with respect to common units purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (B) 80.9730%; and LRR-C will contribute its remaining net profits interests that burden the MLP Assets to the Partnership pursuant to the Assignment Document in exchange for (i) 5,441,385 subordinated units representing a 24.29% limited partner interest in the Partnership, (ii) 3,917,798 common units representing a 17.5% limited partner interest in the Partnership, and (iii) the right to receive, upon the expiration of the Option Period, the number of additional common units that is equal to (A) the Additional Units minus the aggregate number of common units, if any, actually purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (B) 80.9730% (rounded down to the nearest whole number of common units);
+ 
+11.           in connection with the Partnerships initial public offering of common units representing limited partner interests in the Partnership (the Offering), the public, through the Underwriters, will purchase from the Partnership for $178,752,000.00 in cash, less the
+ 
+3
+
+
+
+
+
+
+ 
+Underwriters discount and commission of $1.1875 per common unit (or $11,172,000.00 in the aggregate) and a structuring fee of 0.25% of the gross proceeds of the Offering (or $446,880.00 in the aggregate), 9,408,000 common units representing a 42.00% limited partner interest in the Partnership;
+ 
+12.           LRE Operating will enter into the Credit Agreement (as defined herein) and borrow $155,800,000.00 (the Credit Facility Borrowings), the proceeds of which will be used to make distributions to the Property Contributors in accordance with the Property Contributor Cash Distributions (as defined below);
+ 
+13.           the Partnership will use the proceeds from the Offering and proceeds from the Credit Facility Borrowings to pay (i) the indebtedness of LRR-A assumed by LRE Operating, (ii) transaction expenses, which are estimated to be $5,800,000.00 (exclusive of the Underwriters discount and commission and the structuring fee) and (iii) payments and distributions to the Property Contributors in accordance with the cash distributions described in steps 8 through 10 above (the Property Contributor Cash Distributions);
+ 
+14.           the Partnership will contribute the MLP Assets to LRE Operating in exchange for the continuation of its membership interest in LRE Operating; and
+ 
+15.           for purposes of convenience and recording, the Partnership will direct (i) LRR-A to directly transfer the MLP Assets and (ii) the NPI Owners to directly sell, assign, transfer or contribute, as the case may be, their net profits interests that burden the MLP Assets, each to LRE Operating pursuant to the terms of the Assignment Document.
+ 
+NOW, THEREFORE, in consideration of the mutual covenants, representations, warranties and agreements herein contained, the parties hereto agree as follows:
+ 
+ARTICLE I DEFINITIONS
+ 
+Additional Units means 1,411,200 additional common units that may be issued by the MLP and sold by the Underwriters to the public pursuant to the Over-Allotment Option.
+ 
+Agreement has the meaning assigned to such term in the preamble.
+ 
+Assignment Document means the form of Assignment and Bill of Sale attached hereto as Exhibit A.
+ 
+Class A Interests means the Class A member interests in the General Partner.
+ 
+Class B Interests means the Class B member interests in the General Partner.
+ 
+Class C Interests means the Class C member interests in the General Partner.
+ 
+Closing Date has the meaning assigned to such term in the preamble.
+ 
+Commission means the United States Securities and Exchange Commission.
+ 
+4
+
+
+
+
+
+
+ 
+Credit Agreement means the Credit Agreement, dated as of July 22, 2011, as amended to date, among Wells Fargo Bank, National Association, as Administrative Agent and Bank of America, N.A. as Syndication Agent, and the lenders party thereto on the one hand, and the Partnership and LRE Operating, on the other hand.
+ 
+Credit Facility Borrowings has the meaning assigned to such term in the recitals.
+ 
+Delaware LLC Act has the meaning assigned to such term in the recitals.
+ 
+Delaware LP Act has the meaning assigned to such term in the recitals.
+ 
+General Partner has the meaning assigned to such term in the preamble.
+ 
+Governmental Authority means the United States, any foreign country, state, county, city or other incorporated or unincorporated political subdivision, agency or instrumentality thereof.
+ 
+Incentive Distribution Rights has the meaning assigned to such term in the Partnership Agreement.
+ 
+Lime Rock Management has the meaning assigned to such term in the recitals.
+ 
+LRE Operating has the meaning assigned to such term in the preamble.
+ 
+LRM GP Contribution has the meaning assigned to such term in the recitals.
+ 
+LRR-A has the meaning assigned to such term in the preamble.
+ 
+LRR-B has the meaning assigned to such term in the preamble.
+ 
+LRR-C has the meaning assigned to such term in the preamble.
+ 
+Material Adverse Effect has the meaning assigned to such term in Section 6.01(c)(i) hereof.
+ 
+MLP Assets means the assets that will be transferred to LRE Operating pursuant to Section 2.1 of the Assignment Document.
+ 
+NPI Owners has the meaning assigned to such term in the preamble.
+ 
+Offering has the meaning assigned to such term in the recitals.
+ 
+Option Closing Date has the meaning assigned to such term in the Underwriting Agreement.
+ 
+Option Period has the meaning assigned to such term in the Underwriting Agreement.
+ 
+5
+
+
+
+
+
+
+ 
+Over-Allotment Option means the option to purchase all or any portion of the Additional Units to cover over-allotments, if any, granted by the Partnership to the Underwriters pursuant to the Underwriting Agreement.
+ 
+Partnership has the meaning assigned to such term in the preamble.
+ 
+Partnership Agreement means the First Amended and Restated Agreement of Limited Partnership of the Partnership to be entered into as of the Closing Date.
+ 
+Partnership Entities means the General Partner, the Partnership and LRE Operating, collectively.
+ 
+Party and Parties have the meanings assigned to such terms in the preamble.
+ 
+Property Contributor Cash Distributions has the meaning assigned to such term in the recitals.
+ 
+Property Contributors has the meaning assigned to such term in the preamble.
+ 
+Registration Statement means the Registration Statement on Form S-1 initially filed with the Commission on May 6, 2011 (Registration No. 333-174017), as amended and effective on the date hereof.
+ 
+Transaction Documents means those documents and instruments to be delivered hereunder by one or more Parties.
+ 
+Underwriters means the underwriters named in Exhibit A to the Underwriting Agreement.
+ 
+Underwriting Agreement means the underwriting agreement, dated as of November 10, 2011, by and among the Partnership, the General Partner and Wells Fargo Securities, LLC, Citigroup Global Markets Inc., Raymond James & Associates, Inc., RBC Capital Markets Corporation and Barclays Capital Inc., as representatives of the Underwriters.
+ 
+ARTICLE II
+CONTRIBUTIONS, ACKNOWLEDGMENTS AND DISTRIBUTIONS
+ 
+2.01         Contribution of the MLP Assets by LRR-A.
+ 
+LRR-A hereby agrees to contribute, assign, transfer, set over and deliver to the Partnership, for its own use forever, all of its right, title and interest to and in the MLP Assets on the Closing Date, as a capital contribution, which contribution shall be deemed made pursuant to the terms set forth in the Assignment Document, in exchange for (i) 960,247 subordinated units representing a 4.29% limited partner interest in the Partnership, (ii) 691,378 common units representing a 3.09% limited partner interest in the Partnership, (iii) the right to receive a distribution of $28,562,659.05 (such distribution will be sourced first from Credit Facility Borrowings and then, to the extent necessary, from the proceeds received from the Offering to reimburse LRR-A for pre-formation capital expenditures), (iv) LRE Operatings assumption of
+ 
+6
+
+
+
+
+
+
+ 
+$27,251,250.00 of LRR-As existing indebtedness, and LRE Operating does hereby assume such indebtedness and agree to pay such indebtedness immediately following LRR-As contribution of the MLP Assets to the Partnership in exchange for a release of the lien on such MLP Assets securing such indebtedness, provided that LRE Operatings assumption of such indebtedness shall not affect the obligations of LRR-A to its lenders; LRR-A shall remain fully liable to such lenders for such indebtedness and LRR-A shall deal with such lenders as if such assumption had not occurred (however, between LRR-A, on the one hand, and LRE Operating, on the other, LRE Operating shall be deemed the obligor with respect to such indebtedness), and (v) the right to receive, upon the expiration of the Option Period, (A) the number of additional common units that is equal to (x) the Additional Units minus the aggregate number of common units, if any, actually purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option during the Option Period, multiplied by (y) 14.2894% (rounded down to the nearest whole number of common units), and (B) as reimbursement for pre-formation capital expenditures, an amount equal to (x) the aggregate amount of net proceeds, if any, paid by the Underwriters to the Partnership with respect to Additional Units purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (y) 14.2894%.
+ 
+2.02         Contribution and Sale of Net Profit Interests by LRR-B.
+ 
+LRR-B hereby agrees to sell, assign and transfer those net profits interests described on Schedule I, insofar and only insofar as the same burden the MLP Assets, to the Partnership on the Closing Date, which sale shall be deemed made pursuant to the terms set forth in the Assignment Document, in exchange for (i) the right to receive sales proceeds of $14,470,067.69 (such amount will be sourced first from proceeds from the Offering and then, to the extent necessary, from Credit Facility Borrowings), and (ii) the right to receive, upon the earlier to occur of the expiration of the Over-Allotment Option period or the Option Closing Date, an additional amount equal to (A) the aggregate amount of net proceeds, if any, paid by the Underwriters to the Partnership on the Option Closing Date with respect to common units purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (B) 4.7376%.  LRR-B hereby agrees to contribute its remaining net profits interests, insofar and only insofar as the same burden the MLP Assets, to the Partnership as a capital contribution on the Closing Date, which contribution shall be deemed made pursuant to the terms set forth in the Assignment Document, in exchange for (i) 318,368 subordinated units representing a 1.42% limited partner interest in the Partnership, (ii) 229,224 common units representing a 1.02% limited partner interest in the Partnership, and (iii) the right to receive, upon the expiration of the Option Period, the number of additional common units that is equal to (A) the Additional Units minus the aggregate number of common units, if any, actually purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (B) 4.7376% (rounded down to the nearest whole number of common units).
+ 
+2.03         Contribution and Sale of Net Profit Interests by LRR-C.
+ 
+LRR-C hereby agrees to sell, assign and transfer those net profits interests described on Schedule II, insofar and only insofar as the same burden the MLP Assets, to the Partnership on the Closing Date, which sale shall be deemed made pursuant to the terms set forth in the
+ 
+7
+
+
+
+
+
+
+
+ 
+Assignment Document, in exchange for (i) the right to receive sales proceeds of $246,849,143.26 (such amount will be sourced first from proceeds from the Offering and then, to the extent necessary, from Credit Facility Borrowings), and (ii) the right to receive, upon the earlier to occur of the expiration of the Over-Allotment Option period or the Option Closing Date, an additional amount equal to (A) the aggregate amount of net proceeds, if any, paid by the Underwriters to the Partnership on the Option Closing Date with respect to common units purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (B) 80.9730%.  LRR-C hereby agrees to contribute its remaining net profits interests, insofar and only insofar as the same burden the MLP Assets, to the Partnership as a capital contribution on the Closing Date, which contribution shall be deemed made pursuant to the terms set forth in the Assignment Document, in exchange for (i) 5,441,385 subordinated units representing a 24.29% limited partner interest in the Partnership, (ii) 3,917,798 common units representing a 17.5% limited partner interest in the Partnership, and (iii) the right to receive, upon the expiration of the Option Period, the number of additional common units that is equal to (A) the Additional Units minus the aggregate number of common units, if any, actually purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (B) 80.9730% (rounded down to the nearest whole number of common units).
+ 
+2.04         Public Cash Contribution.
+ 
+The Parties acknowledge a cash contribution to be made on the Closing Date by the public through the Underwriters to the Partnership of $178,752,000.00, less the Underwriters discount and commission of $1.1875 per common unit (or $11,172,000.00 in the aggregate) and a structuring fee of 0.25% of the gross proceeds of the Offering (or $446,880.00 in the aggregrate), in exchange for 9,408,000 common units representing a 42.00% limited partner interest in the Partnership.
+ 
+2.05         Distribution by the Partnership of the Credit Facility Borrowings.
+ 
+The Parties acknowledge the distribution of the Credit Facility Borrowings to the Property Contributors to be made on the Closing Date in accordance with the Property Contributor Cash Distributions.
+ 
+2.06         Payment of Indebtedness Assumed from LRR-A; Payment of Expenses by the Partnership; Cash Distribution by the Partnership to the Property Contributors.
+ 
+The Parties acknowledge (a) the payment to be made on the Closing Date by LRE Operating of the indebtedness assumed from LRR-A with proceeds from the Credit Facility Borrowings, (b) the payment to be made on the Closing Date by the Partnership, in connection with the Offering and the other transactions contemplated hereby, of transaction expenses in the amount of approximately $5,800,000.00 (exclusive of the Underwriters discount and the structuring fee) and (c) the payment and distribution of cash to be made on the Closing Date by the Partnership to the Property Contributors in accordance with the Property Contributor Cash Distributions.
+ 
+8
+
+
+
+
+
+
+ 
+2.07         Contribution of the MLP Assets by the Partnership to LRE Operating.
+ 
+The Partnership hereby agrees to contribute, assign, transfer, set over and deliver to LRE Operating, for its own use forever, all of its right, title and interest to and in the MLP Assets on the Closing Date, as a capital contribution, which contribution shall be deemed made pursuant to the terms set forth in the Assignment Document, in exchange for a continuation of its membership interest in LRE Operating.
+ 
+2.08         Direct Contribution of MLP Assets.
+ 
+For convenience and purposes of recording the Assignment Document in the applicable counties where the MLP Assets are located, the Partnership hereby directs the Property Contributors to directly transfer and assign the MLP Assets to LRE Operating on the Closing Date pursuant to the Assignment Document and such other additional instruments and agreements as may be necessary to effect the same. Notwithstanding the terms of the Assignment Document, the MLP Assets shall be deemed to have been contributed and transferred from the Property Contributors to the Partnership and, immediately thereafter, from the Partnership to LRE Operating.
+ 
+2.09         Redemption of the Initial Partner Interests in the Partnership and Return of Initial Capital Contributions.
+ 
+The Partnership (a) hereby redeems (i) the 99.9% limited partner interest in the Partnership held by Lime Rock Management and (ii) the 0.1% general partner interest in the Partnership held by the General Partner and (b) hereby refunds and distributes (i) to Lime Rock Management the initial capital contribution made by it to the Partnership along with 99.9% of any interest or other profit that resulted from the investment or other use of such initial capital contribution and (ii) to the General Partner the initial capital contribution made by it to the Partnership along with 0.1% of any interest or other profit that resulted from the investment or other use of such initial capital contribution.
+ 
+ARTICLE III ADDITIONAL TRANSACTIONS
+ 
+3.01         Purchase of Additional Common Units.
+ 
+At the end of the Option Period, if the Over-Allotment Option is exercised in whole or in part, the public, through the Underwriters, will contribute additional cash to the Partnership in exchange for up to an additional 1,411,200 common units on the basis of the initial public offering price per common unit set forth in the Registration Statement.
+ 
+3.02         Issuance of Additional Common Units to LRR-A.
+ 
+At the end of the Option Period, (A) the Partnership will issue to LRR-A a number of additional common units that is equal to (x) the Additional Units minus the aggregate number of common units, if any, actually purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option during the Option Period, multiplied by (y) 14.2894% (rounded down to the nearest whole number of common units), and (B) LRR-A will receive a cash distribution as reimbursement for pre-formation capital expenditures equal to (x) the aggregate amount of net proceeds, if any, paid by the Underwriters to the Partnership with
+ 
+9
+
+
+
+
+
+
+ 
+respect to Additional Units purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (y) 14.2894%, representing a portion of the cash, if any, contributed by the Underwriters to the Partnership on each Option Closing Date pursuant to Section 3.01.
+ 
+3.03         Issuance of Additional Common Units to LRR-B.
+ 
+At the end of the Option Period, (A) the Partnership will issue to LRR-B a number of additional common units that is equal to (x) the Additional Units minus the aggregate number of common units, if any, actually purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option during the Option Period, multiplied by (y) 4.7376% (rounded down to the nearest whole number of common units), and (B) LRR-B will receive a cash payment as additional purchase price for the net profits interests described on Schedule I equal to (x) the aggregate amount of net proceeds, if any, paid by the Underwriters to the Partnership with respect to Additional Units purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (y) 4.7376%, representing a portion of the cash, if any, contributed by the Underwriters to the Partnership on each Option Closing Date pursuant to Section 3.01.
+ 
+3.04         Issuance of Additional Common Units to LRR-C.
+ 
+At the end of the Option Period, (A) the Partnership will issue to LRR-C a number of additional common units that is equal to (x) the Additional Units minus the aggregate number of common units, if any, actually purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option during the Option Period, multiplied by (y)  80.9730% (rounded down to the nearest whole number of common units), and (B) LRR-C will receive a cash payment as additional purchase price for the net profits interests described on Schedule II equal to (x) the aggregate amount of net proceeds, if any, paid by the Underwriters to the Partnership with respect to Additional Units purchased by and issued to the Underwriters pursuant to the exercise of the Over-Allotment Option, multiplied by (y) 80.9730%, representing a portion of the cash, if any, contributed by the Underwriters to the Partnership on each Option Closing Date pursuant to Section 3.01.
+ 
+ARTICLE IV TITLE MATTERS
+ 
+4.01         Encumbrances.
+ 
+(a)           Except to the extent expressly provided in any other document executed in connection with this Agreement or the Offering, the contribution of the MLP Assets pursuant to this Agreement are made expressly subject to all recorded and unrecorded liens (other than consensual liens), easements, rights-of-way, contracts, permits, licenses, instruments, commitments, conveyances, encumbrances, agreements, defects, restrictions, advance claims and all laws, rules, regulations, ordinances, judgments and orders of Governmental Authorities or tribunals having or asserting jurisdiction over the MLP Assets and operations conducted thereon or in connection therewith, in each case to the extent the same are valid and enforceable and
+ 
+10
+
+
+
+
+
+
+ 
+affect the MLP Assets, including all matters that a current survey or visual inspection of the MLP Assets would reflect.
+ 
+(b)           To the extent that certain jurisdictions in which the MLP Assets are located may require that documents be recorded in order to evidence the transfers of titles reflected in this Agreement, then the provisions set forth in Section 4.01(a) shall also be applicable to the transfers under such documents.
+ 
+4.02         Disclaimer of Warranties; Subrogation; Waiver of Bulk Sales Laws.
+ 
+(a)           EXCEPT TO THE EXTENT PROVIDED IN ANY OTHER DOCUMENT EXECUTED OR DELIVERED IN CONNECTION WITH THIS AGREEMENT OR THE OFFERING, THE PARTIES ACKNOWLEDGE AND AGREE THAT NONE OF THE PARTIES HAS MADE, DOES NOT MAKE, AND EACH SUCH PARTY SPECIFICALLY NEGATES AND DISCLAIMS, ANY REPRESENTATIONS, WARRANTIES, PROMISES, COVENANTS, AGREEMENTS OR GUARANTIES OF ANY KIND OR CHARACTER WHATSOEVER, WHETHER EXPRESS, IMPLIED OR STATUTORY, ORAL OR WRITTEN, PAST OR PRESENT, REGARDING (A) THE VALUE, NATURE, QUALITY OR CONDITION OF THE MLP ASSETS, INCLUDING THE WATER, SOIL, GEOLOGY OR ENVIRONMENTAL CONDITION OF THE MLP ASSETS GENERALLY, INCLUDING THE PRESENCE OR LACK OF HAZARDOUS SUBSTANCES OR OTHER MATTERS ON THE MLP ASSETS, (B) THE INCOME TO BE DERIVED FROM THE MLP ASSETS, (C) THE SUITABILITY OF THE MLP ASSETS FOR ANY AND ALL ACTIVITIES AND USES THAT MAY BE CONDUCTED THEREON, (D) THE COMPLIANCE OF OR BY THE MLP ASSETS OR THEIR OPERATION WITH ANY LAWS (INCLUDING ANY ZONING, ENVIRONMENTAL PROTECTION, POLLUTION OR LAND USE LAWS, RULES, REGULATIONS, ORDERS OR REQUIREMENTS), OR (E) THE HABITABILITY, MERCHANTABILITY, MARKETABILITY, PROFITABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE MLP ASSETS. EXCEPT TO THE EXTENT PROVIDED IN ANY OTHER DOCUMENT EXECUTED OR DELIVERED IN CONNECTION WITH THIS AGREEMENT OR THE OFFERING, THE PARTIES ACKNOWLEDGE AND AGREE THAT EACH HAS HAD THE OPPORTUNITY TO INSPECT THE MLP ASSETS, AND EACH IS RELYING SOLELY ON ITS OWN INVESTIGATION OF THE MLP ASSETS AND NOT ON ANY INFORMATION PROVIDED OR TO BE PROVIDED BY ANY OF THE PARTIES. NONE OF THE PARTIES IS LIABLE OR BOUND IN ANY MANNER BY ANY VERBAL OR WRITTEN STATEMENTS, REPRESENTATIONS OR INFORMATION PERTAINING TO THE MLP ASSETS FURNISHED BY ANY AGENT, EMPLOYEE, SERVANT OR THIRD PARTY. EACH OF THE PARTIES ACKNOWLEDGES THAT TO THE FULLEST EXTENT PERMITTED BY LAW, THE CONTRIBUTION OF THE MLP ASSETS AS PROVIDED FOR HEREIN IS MADE IN AN AS IS, WHERE IS CONDITION WITH ALL FAULTS, AND THE MLP ASSETS ARE CONTRIBUTED AND CONVEYED SUBJECT TO ALL OF THE MATTERS CONTAINED IN THIS SECTION. THIS SECTION SHALL SURVIVE SUCH CONTRIBUTION AND CONVEYANCE OR THE TERMINATION OF THIS AGREEMENT. THE PROVISIONS OF THIS SECTION HAVE BEEN NEGOTIATED BY THE PARTIES AFTER DUE CONSIDERATION AND ARE INTENDED TO BE A COMPLETE EXCLUSION AND NEGATION OF ANY REPRESENTATIONS OR WARRANTIES, WHETHER EXPRESS, IMPLIED OR
+ 
+11
+
+
+
+
+
+
+ 
+STATUTORY, WITH RESPECT TO THE MLP ASSETS THAT MAY ARISE PURSUANT TO ANY LAW NOW OR HEREAFTER IN EFFECT, OR OTHERWISE.
+ 
+(b)           Each contribution under the Assignment Document shall include all of the assigning partys right, title and interest under and by virtue of all warranties pertaining to the MLP Assets, express or implied (including, without limitation, title warranties and manufacturers, suppliers and contractors warranties), that have, prior to the date of such contribution, been made by any of the assigning partys predecessors in title (excluding any affiliate of such assigning party) or by any third party manufacturers, suppliers and contractors. Each sale and contribution under the Assignment Document shall be made with full substitution and subrogation in and to all of the warranties that the assigning party has or may have against predecessors in title (excluding any affiliate of such assigning party) and with full subrogation of all rights accruing under the applicable statutes of limitations and all rights and actions of warranty against all former owners of the MLP Assets (excluding any affiliate of the assigning party).
+ 
+(c)           Each of the Parties agrees that the disclaimers contained in this Section 4.02 are conspicuous disclaimers. Any covenants implied by statute or law by the use of the words contribute, distribute, assign, transfer, deliver or set over or any of them or any other words used in this Agreement are hereby expressly disclaimed, waived or negated.
+ 
+(d)           Each of the Parties hereby waives compliance with any applicable bulk sales law or any similar law in any applicable jurisdiction in respect of the transactions contemplated by this Agreement.
+ 
+ARTICLE V FURTHER ASSURANCES
+ 
+5.01         Further Assurances.
+ 
+From and after the date hereof, and without any further consideration, the Parties agree to execute, acknowledge and deliver all such additional deeds, assignments, bills of sale, instruments, notices, releases, acquittances and other documents, and will do all such other acts and things, all in accordance with applicable law, as may be necessary or appropriate to (a) more fully assure that the applicable Parties own all of the properties, rights, titles, interests, estates, remedies, powers and privileges granted by this Agreement or (b) more fully and effectively vest in the applicable Parties and their respective successors and assigns beneficial and record title to the interests contributed and assigned by this Agreement or intended so to be and more fully and effectively carry out the purposes of this Agreement.
+ 
+5.02         Other Assurances.
+ 
+(a)           From time to time after the date hereof, and without any further consideration, each of the Parties shall execute, acknowledge and deliver all such additional instruments, notices and other documents, and will do all such other acts and things, all in accordance with applicable law, as may be necessary or appropriate to more fully and effectively carry out the purposes and intent of this Agreement.
+ 
+12
+
+
+
+
+
+
+ 
+(b)           Without limiting the generality of the foregoing, the Parties acknowledge that they have used their good faith efforts to identify all of the assets being contributed to the Partnership in connection with the Offering. However, it is possible that assets intended to be sold and contributed to the Partnership were not identified and therefore are not included in the MLP Assets. To the extent that such assets are identified at a later date, the Parties shall take the appropriate actions required in order to convey all such assets to the Partnership (or its successors or assigns).
+ 
+ARTICLE VI REPRESENTATIONS AND WARRANTIES
+ 
+6.01         Representations and Warranties of All Parties.
+ 
+Each of the Parties to this Agreement hereby represents and warrants severally as to itself as follows:
+ 
+(a)           Formation and Good Standing. Such Party is a limited partnership or limited liability company, duly formed, validly existing and in good standing as a limited partnership or limited liability company, as applicable, under the laws of its jurisdiction of formation.  Such Party is duly qualified to do business and is in good standing as a foreign limited partnership or limited liability company, as applicable, in each jurisdiction where the character of the properties owned or leased by it or the nature of the businesses transacted by it requires it to be so qualified.
+ 
+(b)           Authority, Execution and Enforceability. Such Party has full limited partnership or limited liability company, as applicable, power and authority to enter into this Agreement and the Transaction Documents to be delivered by such Party hereunder and to perform its obligations hereunder and thereunder. The execution, delivery and performance of this Agreement and the Transaction Documents to be delivered by such Party hereunder and the consummation of the transactions contemplated hereby and thereby have been duly authorized and approved by such Party. Such Party has duly executed and delivered this Agreement and the Transaction Documents to be delivered by such Party hereunder, and this Agreement and the Transaction Documents to be delivered by such Party hereunder constitute such Partys legal, valid and binding obligation, enforceable against it in accordance with its terms (except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors rights generally or by the principles governing the availability of equitable remedies).
+ 
+(c)           No Conflicts. Neither the execution, delivery nor performance of this Agreement or the Transaction Documents to be delivered by such Party hereunder by such Party will:
+ 
+(i)            require the approval or consent of any Governmental Authority, other than such approvals or consents that have been obtained or, if not obtained, would not, individually or in the aggregate, result in a material adverse effect on the business, properties, financial condition or results of operations of the Partnership Entities taken as a whole (a Material Adverse Effect);
+ 
+13
+
+
+
+
+
+
+ 
+(ii)           result in the breach or violation of any term or provision of its certificate of limited partnership, certificate of formation, agreement of limited partnership, limited liability company agreement, as applicable, or other formation and governing documents;
+ 
+(iii)          result in the breach or violation or constitute a default or give rise to any right of termination, cancellation or acceleration under any material agreement to which it is bound or by which its property or business is affected, except for such breaches, violations or defaults (or rights of termination, cancellation or acceleration) that would not, individually or in the aggregate, have a Material Adverse Effect; or
+ 
+(iv)          violate any federal, state, local or other governmental law or ordinance, or any order, writ, injunction, decree, rule or regulation of any Governmental Authority applicable to such Party, except such violations that would not, individually or in the aggregate, have a Material Adverse Effect.
+ 
+ARTICLE VII MISCELLANEOUS
+ 
+7.01         Notices.
+ 
+All notices and other communications provided for or permitted hereunder shall be made in writing by facsimile, courier service or personal delivery:
+ 
+(a)           if to the General Partner, the Partnership or LRE Operating:
+ 
+
+
+
+     
+
+Heritage   Plaza       
+
+
+     
+
+1111   Bagby Street, Suite 4600       
+
+
+     
+
+Houston,   TX 77002       
+
+
+     
+
+Attention:    
+
+Chief   Executive Officer       
+
+
+     
+
+Telephone:    
+
+(713)   292-9510       
+
+
+     
+
+Facsimile:    
+
+(713)   292-9560         
+ 
+(b)           if to the Property Contributors:
+ 
+
+
+
+     
+
+Heritage   Plaza       
+
+
+     
+
+1111   Bagby Street, Suite 4600       
+
+
+     
+
+Houston,   TX 77002       
+
+
+     
+
+Attention:    
+
+Chief   Executive Officer       
+
+
+     
+
+Telephone:    
+
+(713)   292-9510       
+
+
+     
+
+Facsimile:    
+
+(713)   292-9560         
+ 
+All such notices and communications shall be deemed to have been received at the time delivered by hand, if personally delivered, when receipt acknowledged, if sent via facsimile; and when actually received, if sent by any other means.
+ 
+14
+
+
+
+
+
+
+ 
+7.02         Order of Completion of Transactions.
+ 
+The transactions provided for in Article II of this Agreement shall be completed on the Closing Date in the order set forth in Article II of this Agreement.
+ 
+7.03         Costs.
+ 
+Except for the transaction expenses set forth in Section 2.06, the Partnership shall pay all expenses, fees and costs, including sales, use and similar taxes, arising out of the contributions, conveyances and deliveries to be made hereunder, and shall pay all documentary, filing, recording, transfer, deed and conveyance taxes and fees required in connection therewith. In addition, the Partnership shall be responsible for all costs, liabilities and expenses (including court costs and reasonable attorneys fees) incurred in connection with the delivery of any document pursuant to Article V.
+ 
+7.04         Headings; References; Interpretation.
+ 
+All Article and Section headings in this Agreement are for convenience only and shall not be deemed to control or affect the meaning or construction of any of the provisions hereof. The words hereof, herein and hereunder and words of similar import, when used in this Agreement, shall refer to this agreement as a whole, including, without limitation, all Schedules, Annexes, and Exhibits attached hereto, and not to any particular provision of this Agreement. All references herein to Articles, Sections, and Exhibits shall, unless the context requires a different construction, be deemed to be references to the Articles and Sections of this Agreement, and the Annexes and Exhibits attached hereto, and all such Schedules, Annexes and Exhibits attached hereto are hereby incorporated herein and made a part hereof for all purposes. All personal pronouns used in this Agreement, whether used in the masculine, feminine, or neuter gender, shall include all other genders, and the singular shall include the plural and vice versa. The terms include, includes, including or words of like import shall be deemed to be followed by the words without limitation.
+ 
+7.05         Successors and Assigns.
+ 
+This Agreement shall be binding upon and shall inure to the benefit of the Parties and their respective successors and assigns.
+ 
+7.06         No Third Party Rights.
+ 
+The provisions of this Agreement are intended to bind the Parties as to each other and are not intended to and do not create rights in any other person or confer upon any other person any benefits, rights or remedies, and no person is or is intended to be a third party beneficiary of any of the provisions of this Agreement.
+ 
+7.07         Counterparts.
+ 
+This Agreement may be executed in any number of counterparts, all of which together shall constitute one agreement binding on the Parties.
+ 
+15
+
+
+
+
+
+
+ 
+7.08         Governing Law.
+ 
+This Agreement shall be governed by, and construed in accordance with, the laws of the State of Texas applicable to contracts made and to be performed wholly within such state, without giving effect to conflict of laws principles thereof that would require the application of the laws of another jurisdiction.
+ 
+7.09         Severability.
+ 
+If any of the provisions of this Agreement are held by any court of competent jurisdiction to contravene, or to be invalid under, the laws of any political body having jurisdiction over the subject matter hereof, such contravention or invalidity shall not invalidate the entire Agreement. Instead, this Agreement shall be construed as if it did not contain the particular provision or provisions held to be invalid, and an equitable adjustment shall be made and necessary provision added so as to give effect to the intention of the Parties as expressed in this Agreement at the time of execution of this Agreement.
+ 
+7.10         Amendment or Modification.
+ 
+This Agreement may be amended or modified from time to time only by the written agreement of all of the Parties. Each such instrument shall be reduced to writing and shall be designated on its face as an amendment to this Agreement.
+ 
+7.11         Integration.
+ 
+This Agreement and the instruments referenced herein supersede all previous understandings or agreements among the Parties, whether oral or written, with respect to the subject matter hereof and thereof. This document and such instruments contain the entire understanding of the Parties. No understanding, representation, promise or agreement, whether oral or written, is intended to be or shall be included in or form part of this Agreement unless it is contained in a written amendment hereto executed by the Parties after the date hereof.
+ 
+[Signature Page Follows]
+ 
+16
+
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, this Agreement has been duly executed by the Parties as of the date first written above.
+ 
+
+
+
+     
+
+LRR   ENERGY, L.P.       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+LRE   GP, LLC, its general partner       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Jaime R. Casas       
+
+
+     
+
+Name:    
+
+Jaime   R. Casas       
+
+
+     
+
+Title:    
+
+Chief   Financial Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+LRE   GP, LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Jaime R. Casas       
+
+
+     
+
+Name:    
+
+Jaime   R. Casas       
+
+
+     
+
+Title:    
+
+Chief   Financial Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+LRE   OPERATING, LLC       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+LRR   Energy, L.P., its sole member       
+
+
+     
+
+By:    
+
+LRE   GP, LLC, its general partner       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Jaime R. Casas       
+
+
+     
+
+Name:    
+
+Jaime   R. Casas       
+
+
+     
+
+Title:    
+
+Chief   Financial Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+LIME   ROCK RESOURCES A, L.P.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+Lime   Rock Resources A GP, LLC,       
+
+
+     
+
+     
+
+its   general partner       
+
+
+     
+
+By:    
+
+Lime   Rock Resources GP, L.P.,       
+
+
+     
+
+     
+
+its   sole member       
+
+
+     
+
+By:    
+
+LRR   GP, LLC, its general partner       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Eric Mullins       
+
+
+     
+
+Name:    
+
+Eric   Mullins       
+
+
+     
+
+Title:    
+
+Co-Chief   Executive Officer       
+
+
+     
+
+     
+
+        
+
+
+     
+
+LIME   ROCK RESOURCES B, L.P.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+Lime   Rock Resources GP, L.P.,       
+
+
+     
+
+     
+
+its   general partner       
+
+
+     
+
+By:    
+
+LRR   GP, LLC, it general partner       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Eric Mullins       
+
+
+     
+
+Name:    
+
+Eric   Mullins       
+
+
+     
+
+Title:    
+
+Co-Chief   Executive Officer         
+ 
+Signature Page to Amended and Restated Contribution Agreement
+ 
+
+
+
+
+
+
+ 
+
+
+
+     
+
+LIME   ROCK RESOURCES C, L.P.       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+Lime   Rock Resources C GP, LLC,       
+
+
+     
+
+     
+
+its   general partner       
+
+
+     
+
+By:    
+
+Lime   Rock Resources GP, L.P.,       
+
+
+     
+
+     
+
+its   sole member       
+
+
+     
+
+By:    
+
+LRR   GP, LLC, its general partner       
+
+
+     
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   Eric Mullins       
+
+
+     
+
+Name:    
+
+Eric   Mullins       
+
+
+     
+
+Title:    
+
+Co-Chief   Executive Officer         
+ 
+Signature Page to Amended and Restated Contribution Agreement
+ 
+
+
+
+
+
+
+ 
+SCHEDULE I
+ 
+An undivided 55.35% interest in the net profits interests owned by LRR-B that burden the MLP Assets
+ 
+I-1
+
+
+
+
+
+
+ 
+SCHEDULE II
+ 
+An undivided 55.30% interest in the net profits interests owned by LRR-C that burden the MLP Assets
+ 
+II-1
+
+
+
+
+
+
+ 
+ANNEX A
+ 
+Form of Assignment and Bill of Sale
+ 
+
+
+
+
+
+
+ 
+ASSIGNMENT AND BILL OF SALE
+ 
+This Assignment and Bill of Sale (this Assignment) is among (a) Lime Rock Resources A, L.P., a Delaware limited partnership (the Assignor), Lime Rock Resources B, L.P., a Delaware limited partnership (LRR-B), and Lime Rock Resources C, L.P., a Delaware limited partnership (LRR-C, and together with LRR-B, the NPI Owners), each of whose address is Heritage Plaza, 1111 Bagby Street, Suite 4600, Houston, Texas 77002, and (b) LRE Operating, LLC, a Delaware limited liability company (Assignee), whose address is Heritage Plaza, 1111 Bagby Street, Suite 4600, Houston, Texas 77002, and is effective as of 12:01 a.m., Central Time, on November 16, 2011 (the Effective Time).
+ 
+RECITALS
+ 
+WHEREAS, Assignor owns certain oil and gas properties and related assets in the States of New Mexico, Oklahoma and Texas; and
+ 
+WHEREAS, the NPI Owners own net profits interests that burden, among other properties, the Assets (as hereinafter defined) pursuant to the instruments described in Exhibit B hereto (the Existing NPI Interests); and
+ 
+WHEREAS, Assignor, Assignee and the NPI Owners have entered into that certain Purchase, Sale, Contribution, Conveyance and Assumption Agreement, dated as of Novewmber 16, 2011 (the Contribution Agreement), among Assignor, Assignee, the NPI Owners, LRE GP, LLC, a Delaware limited liability company (the General Partner), and LRR Energy, L.P., a Delaware limited partnership (the Partnership), pursuant to which (a) Assignor has agreed to contribute, assign, transfer, set over and deliver to the Partnership all of its right, title and interest to and in the MLP Assets (as defined in the Contribution Agreement), as a capital contribution, upon the terms and conditions set forth in the Contribution Agreement; (b) the Partnership has agreed to contribute, assign, transfer, set over and deliver to Assignee all of its right, title and interest to and in the MLP Assets, including the Assets, as a capital contribution, upon the terms set forth in the Contribution Agreement; and (c) the NPI Owners have agreed to sell and contribute their net profits interests insofar and only insofar as the same burden the Assets, upon the terms set forth in the Contribution Agreement and this Assignment; and
+ 
+WHEREAS, the Partnership has requested that Assignor convey directly to Assignee all of Assignors right, title and interest to and in the MLP Assets for convenience and recording purposes.
+ 
+NOW, THEREFORE, in consideration of the mutual benefits derived and to be derived from the Contribution Agreement and this Assignment by each of the parties hereto and other good and valuable consideration, the parties hereby agree as follows:
+ 
+A-1
+
+
+
+
+
+
+ 
+ARTICLE 1 DEFINED TERMS; CONSTRUCTION
+ 
+Section 1.1            Definitions. Capitalized terms used in this Assignment and not otherwise defined herein shall have the meanings given to such terms in the Contribution Agreement.
+ 
+Section 1.2            Construction. Unless the context requires otherwise: (a) any pronoun used in this Assignment shall include the corresponding masculine, feminine or neuter forms, and the singular form of nouns, pronouns and verbs shall include the plural and vice versa; (b) references to Articles and Sections refer to Articles and Sections of this Assignment; (c) the terms include, includes, including and words of like import shall be deemed to be followed by the words without limitation; and (d) the terms hereof, herein and hereunder refer to this Assignment as a whole and not to any particular provision of this Assignment. The headings contained in this Assignment are for reference purposes only, and shall not affect in any way the meaning or interpretation of this Assignment.
+ 
+ARTICLE 2 ASSIGNMENT OF ASSETS
+ 
+Section 2.1            Assignment. Assignor, for good and valuable consideration, the receipt and sufficiency of which are acknowledged, hereby contributes, assigns, transfers, sets over and delivers to Assignee all of Assignors right, title and interest in and to the following (excepting the Excluded Assets defined below) (individually, an Asset, and collectively, the Assets):
+ 
+(a)           (i) the oil and gas leases more particularly described in Exhibit APart 1 (Assignors interests in such leases, collectively, the Leases), (ii) the mineral fee interests, royalty interests, overriding royalty interests, production payments, net profits interests, carried interests and reversionary interests described in Exhibit APart 1 and/or relating to the lands described in any instrument described in Exhibit APart 1 (Assignors interests in the foregoing, the Mineral Interests) and (iii) the interests in any units arising on account of the Leases or Mineral Interests having been pooled or unitized into such units (Assignors interests in such units, the Unit Interests);
+ 
+(b)           all existing oil and gas wells attributable to the Leases, Mineral Interests or Unit Interests (Assignors interests in such wells, collectively and including the wells set forth on Exhibit APart 2, the Wells, and the Leases, Mineral Interests, Unit Interests and Wells being hereinafter collectively referred to as the Properties);
+ 
+(c)           all production facilities, structures, tubular goods, well equipment, lease equipment, production equipment, pipelines, inventory and all other personal property, fixtures and facilities to the extent appurtenant to or used primarily in connection with the Properties (collectively, the Facilities);
+ 
+(d)           to the extent transferable, all permits, licenses, servitudes, easements, rights-of-way, surface fee interests and other surface use agreements to the extent used primarily in connection with the ownership or operation of the Properties or the Facilities;
+ 
+A-2
+
+
+
+
+
+
+ 
+(e)           all oil, gas and other hydrocarbons produced or processed in association therewith (collectively, Hydrocarbons) from or attributable to the Properties from and after the Effective Time and all Hydrocarbons produced therefrom prior to the Effective Time that are in storage prior to the Effective Time and that are upstream of the sales metering point as of the Effective Time;
+ 
+(f)            to the extent transferable, all contracts, agreements, commitments and other arrangements (Contracts) relating to the ownership or operation of the Properties or other Assets, including the production, storage, treatment, transportation, processing, purchase, sale, disposal or other disposition of production therefrom or in connection therewith, including the commodity derivative contracts listed on Exhibit APart 3;
+ 
+(g)           all gas or pipeline imbalances relating to the Properties; and
+ 
+(h)           all records, files, orders, maps, and data that relate to the Properties, Facilities or other Assets that are in Assignors possession, to the extent that Assignor has the right to transfer same to Assignee without the payment of any fee, penalty or other consideration, but excluding any of the foregoing to the extent that (i) transfer is restricted by third party agreement or applicable law and (ii) Assignor is unable to obtain, using commercially reasonable efforts, a waiver of, or otherwise satisfy, such transfer restriction (provided that Assignor shall not be required to provide consideration or undertake obligations to or for the benefit of the holders of such rights in order to obtain any necessary consent or waiver of such transfer restriction) (subject to such exclusion, collectively referred to as the Files).
+ 
+TO HAVE AND TO HOLD the Assets unto Assignee forever, subject, however, to all the terms and conditions of this Assignment.
+ 
+Section 2.2            Excluded Assets. The Assets shall not include, and there is excepted, reserved and excluded from the sale and assignment contemplated hereby, the following (the Excluded Assets):
+ 
+(a)           all corporate, financial, tax and legal records of Assignor that relate to Assignors business generally (including the ownership and operation of the Assets) or that relate to the other Excluded Assets, together with a duplicate copy (electronic or otherwise) of all of the Files;
+ 
+(b)           any trade credits, accounts receivable, proceeds or revenues attributable to the Assets and accruing prior to the Effective Time;
+ 
+(c)           all Hydrocarbons produced from or attributable to the Properties with respect to any periods of time prior to the Effective Time that are not upstream of the sales metering point as of the Effective Time, and all proceeds attributable thereto;
+ 
+(d)           all refunds of costs, taxes or expenses attributable to any periods of time prior to the Effective Time;
+ 
+(e)           all proceeds from the settlements of Contract disputes with purchasers of Hydrocarbons from or attributable to the Properties, including settlement of take-or-pay disputes, insofar as said proceeds are attributable to any periods of time prior to the Effective Time;
+ 
+A-3
+
+
+
+
+
+
+ 
+(f)            all bonds, letters of credit and guarantees, if any, posted by Assignor or its Affiliates with Governmental Authorities and relating to the Assets;
+ 
+(g)           all rights, titles, claims and interests of Assignor or its Affiliates under any insurance policy or agreement, to any insurance proceeds or to or under any bond or bond proceeds and attributable to periods of time prior to the Effective Time;
+ 
+(h)           all rights and claims relating to the Assets and attributable to periods of time prior to the Effective Time, including audit rights;
+ 
+(i)            all privileged attorney-client (i) communications and (ii) other documents (other than title opinions);
+ 
+(j)            all materials and information that cannot be disclosed to Assignee as a result of confidentiality obligations to third parties;
+ 
+(k)           all amounts paid by third parties to Assignor or its Affiliates as overhead for periods of time accruing prior to the Effective Time under any joint operating agreements burdening the Assets;
+ 
+(l)            all commodity derivative contracts not listed on Exhibit APart 3; and
+ 
+(m)          any matter required to be excluded pursuant to the provisions of Section 2.1(h) of this Assignment.
+ 
+Section 2.3            Retained Rights and Obligations. The execution and delivery of this Assignment by Assignor, and the execution and acceptance of this Assignment by Assignee, shall not operate to release or impair any surviving rights or obligations of Assignor or Assignee under the Contribution Agreement or any other document executed in connection with the Offering, including that certain Omnibus Agreement, dated as of November 16, 2011 among the General Partner, the Partnership, Assignee, LRR GP, LLC, Assignor, the NPI Owners and Lime Rock Management LP (the Omnibus Agreement).
+ 
+ARTICLE 3 ENCUMBRANCES DISCLAIMERS
+ 
+Section 3.1            Disclaimers and Subrogation of Warranties and Representations.
+ 
+(a)           Except to the extent expressly provided in any other document executed in connection with the Contribution Agreement or the Offering, the contribution of the Assets pursuant to this Assignment is made expressly subject to all recorded and unrecorded liens (other than consensual liens), easements, rights-of-way, contracts, permits, licenses, instruments, commitments, conveyances, encumbrances, agreements, defects, restrictions, advance claims and all laws, rules, regulations, ordinances, judgments and orders of Governmental Authorities or tribunals having or asserting jurisdiction over the Assets and operations conducted thereon or in connection therewith, including Existing NPI Interests, in each case, to the extent the same are valid and enforceable and affect the Assets, including all matters that a current survey or visual inspection of the Assets would reflect.
+ 
+A-4
+
+
+
+
+
+
+ 
+(b)           EXCEPT TO THE EXTENT PROVIDED IN ANY OTHER DOCUMENT EXECUTED OR DELIVERED IN CONNECTION WITH THE CONTRIBUTION AGREEMENT OR THE OFFERING, ASSIGNOR, THE NPI OWNERS AND ASSIGNEE ACKNOWLEDGE AND AGREE THAT NO PARTY HAS MADE, NO PARTY DOES MAKE, AND EACH SUCH PARTY SPECIFICALLY NEGATES AND DISCLAIMS, ANY REPRESENTATIONS, WARRANTIES, PROMISES, COVENANTS, AGREEMENTS OR GUARANTIES OF ANY KIND OR CHARACTER WHATSOEVER, WHETHER EXPRESS, IMPLIED OR STATUTORY, ORAL OR WRITTEN, PAST OR PRESENT, REGARDING (A) THE VALUE, NATURE, QUALITY OR CONDITION OF THE ASSETS OR THE EXISTING NPI INTERESTS, INCLUDING THE WATER, SOIL, GEOLOGY OR ENVIRONMENTAL CONDITION OF THE PROPERTIES GENERALLY, INCLUDING THE PRESENCE OR LACK OF HAZARDOUS SUBSTANCES OR OTHER MATTERS THEREON, (B) THE INCOME TO BE DERIVED FROM THE PROPERTIES, (C) THE SUITABILITY OF THE PROPERTIES FOR ANY AND ALL ACTIVITIES AND USES THAT MAY BE CONDUCTED THEREON, (D) THE COMPLIANCE OF OR BY THE PROPERTIES OR THEIR OPERATION WITH ANY LAWS (INCLUDING ANY ZONING, ENVIRONMENTAL PROTECTION, POLLUTION OR LAND USE LAWS, RULES, REGULATIONS, ORDERS OR REQUIREMENTS), OR (E) THE HABITABILITY, MERCHANTABILITY, MARKETABILITY, PROFITABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE PROPERTIES. EXCEPT TO THE EXTENT PROVIDED IN ANY OTHER DOCUMENT EXECUTED OR DELIVERED IN CONNECTION WITH THE CONTRIBUTION AGREEMENT OR THE OFFERING, ASSIGNOR AND ASSIGNEE ACKNOWLEDGE AND AGREE THAT ASSIGNEE HAS HAD OPPORTUNITY TO INSPECT THE PROPERTIES, AND IT IS RELYING SOLELY ON ITS OWN INVESTIGATION OF THE PROPERTIES AND NOT ON ANY INFORMATION PROVIDED OR TO BE PROVIDED BY ANY OTHER PARTY. NONE OF ASSIGNOR NOR ASSIGNEE IS LIABLE OR BOUND IN ANY MANNER BY ANY VERBAL OR WRITTEN STATEMENTS, REPRESENTATIONS OR INFORMATION PERTAINING TO THE PROPERTIES FURNISHED BY ANY AGENT, EMPLOYEE, SERVANT OR THIRD PARTY. EACH SUCH PARTY ACKNOWLEDGES THAT TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE CONTRIBUTION OF THE ASSETS AS PROVIDED FOR HEREIN IS MADE IN AN AS IS, WHERE IS CONDITION WITH ALL FAULTS, AND THE ASSETS ARE CONTRIBUTED AND TRANSFERRED SUBJECT TO ALL OF THE MATTERS CONTAINED IN THIS SECTION. THE PROVISIONS OF THIS SECTION HAVE BEEN NEGOTIATED BY ASSIGNOR, THE NPI OWNERS AND ASSIGNEE AFTER DUE CONSIDERATION AND ARE INTENDED TO BE A COMPLETE EXCLUSION AND NEGATION OF ANY REPRESENTATIONS OR WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO THE ASSETS OR THE EXISTING NPI INTERESTS THAT MAY ARISE PURSUANT TO ANY LAW NOW OR HEREAFTER IN EFFECT, OR OTHERWISE.
+ 
+(c)           Each of Assignor, the NPI Owners and Assignee agrees that the disclaimers contained in this Section 3.1 are conspicuous disclaimers. Any covenants implied by statute or law by the use of the words contribute, distribute, assign, transfer, deliver or set over or any of them or any other words used in this Assignment are hereby expressly disclaimed, waived or negated.
+ 
+A-5
+
+
+
+
+
+
+ 
+Section 3.2            Subrogation. Assignor hereby transfers and assigns unto Assignee, its successors and assigns, all of its right, title and interest under and by virtue of all warranties pertaining to the Assets, express or implied (including title warranties and manufacturers, suppliers  and contractors warranties), that have heretofore been made by any of Assignors predecessors in title (excluding any affiliate of Assignor) or by any third party manufacturers, suppliers and contractors. This Assignment is made with full substitution and subrogation in and to all of the warranties that Assignor has or may have against predecessors in title (excluding any affiliate of Assignor) and with full subrogation of all rights accruing under the applicable statutes of limitations and all rights and actions of warranty against all former owners of the Assets (excluding any affiliate of Assignor).
+ 
+ARTICLE 4 ASSUMED OBLIGATIONS
+ 
+Section 4.1            Assumed Obligations. Assignee agrees to assume, and does hereby assume, all of Assignors obligations under the Leases, Mineral Interests, Unit Interests and Contracts, including the obligation to properly plug and abandon, or to replug if subsequently required, the Wells and any previously plugged wells located on the lands covered by the Leases and otherwise comply with all applicable restoration or reclamation requirements according to the terms of the Leases and Unit Interests and the rules and regulations of governmental authorities having jurisdiction (the Plugging Obligations).  Subject to the indemnification obligations set forth in the Omnibus Agreement, in addition to the Plugging Obligations and other obligations discussed in the foregoing sentence, Assignee agrees to assume and does hereby (and Assignees successors and assigns will) assume and agree to be bound by and bear all costs, expenses and liabilities arising out of the ownership and/or operation of the Assets, whether or not such costs, expenses or liabilities accrued prior to, on or after the Effective Time, including, without limitation, the environmental condition of the Assets.
+ 
+ARTICLE 5 SALE AND CONTRIBUTION OF EXISTING NPI INTERESTS
+ 
+Section 5.1            Sale and Contribution. In consideration of the premises, including the mutual benefits derived and to be derived from the Contribution Agreement and this Assignment, effective immediately following the assignment described in Section 2.1, the NPI Owners hereby sell, transfer and assign to Assignee, without warranty, express, implied or statutory, the Existing NPI Interests and any other net profits interests owned by the NPI Owners, to the extent and only to the extent that such Existing NPI Interests and any other net profits interests affect the Assets (the NPI Owners and Assignee acknowledging that to the extent that the Existing NPI Interests and other net profits interests affect properties other than the Assets, such Existing NPI Interests and other net profits interests shall remain in full force and effect and shall not be transferred hereby).
+ 
+Section 5.2            Merger. Assignee and the NPI Owners hereby agree that effective upon the sale and contribution described in Section 5.1, the Existing NPI Interests and other net profits interests affecting the Assets shall be merged into the greater estate owned by Assignee in the Assets and extinguished.
+ 
+A-6
+
+
+
+
+
+
+
+ 
+ARTICLE 6 MISCELLANEOUS
+ 
+Section 6.1            Separate Assignments. Where separate assignments of the Assets or releases of the Existing NPI Interests have been or will be executed for filing with, and approval by, applicable Governmental Authorities, any such separate assignments (a) shall evidence this Assignment and assignment of the applicable Assets and/or the applicable Existing NPI Interests herein made and shall not constitute any additional assignment of such properties, (b) are not intended to modify, and shall not modify, any of the terms, covenants and conditions or limitations on warranties set forth in this Assignment and are not intended to create, and shall not create, any representations, warranties or additional covenants of or by Assignor to Assignee and (c) shall be deemed to contain all of the terms and provisions of this Assignment, as fully and to all intents and purposes as though the same were set forth at length in such separate assignments.
+ 
+Section 6.2            Exhibits. All exhibits attached hereto are hereby made part hereof and incorporated herein by this reference. References in such exhibits to instruments on file in the public records are notice of such instruments for all purposes. Unless provided otherwise, all recording references in such exhibits are to the appropriate records of the counties in which the Assets are located.
+ 
+Section 6.3            Governing Law. THIS ASSIGNMENT SHALL BE GOVERNED AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS, EXCLUDING ANY CONFLICTS OF LAW RULE OR PRINCIPLE THAT MIGHT REFER CONSTRUCTION OF SUCH PROVISIONS TO THE LAWS OF ANOTHER JURISDICTION, EXCEPT TO THE EXTENT THAT THE LAWS OF ANOTHER STATE ARE MANDATORILY APPLIED TO THE DISPUTED MATTER.
+ 
+Section 6.4            Successors and Assigns.  This Assignment shall bind and inure to the benefit of the parties hereto and their respective successors and assigns.
+ 
+Section 6.5            Counterparts. This Assignment may be executed in any number of counterparts, and each counterpart hereof shall be deemed to be an original instrument, but all such counterparts shall constitute but one instrument. Any signature hereto delivered by a party by facsimile transmission shall be deemed an original signature hereto. Exhibit A may be redacted for filing in each county or parish, such that the exhibit filed in any county or parish will describe only those Assets located in such county or parish.
+ 
+A-7
+
+
+
+
+
+
+ 
+Section 1.1
+ 
+EXECUTED as of the date of the parties acknowledgments below, but effective as of the Effective Time.
+ 
+
+
+
+ASSIGNOR:    
+
+     
+
+WITNESSES:       
+
+
+     
+
+     
+
+        
+
+
+LIME ROCK RESOURCES A, L.P.    
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+Lime   Rock Resources A GP, LLC,    
+
+     
+
+        
+
+
+     
+
+its   general partner    
+
+     
+
+        
+
+
+By:    
+
+Lime   Rock Resources GP, L.P.,    
+
+     
+
+        
+
+
+     
+
+its   sole member    
+
+     
+
+        
+
+
+By:    
+
+LRR   GP, LLC, its general partner    
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+     
+
+     
+
+        
+
+
+Name:    
+
+Eric   D. Mullins    
+
+     
+
+        
+
+
+Title:    
+
+Co-Chief   Executive Officer    
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+LIME ROCK RESOURCES B, L.P.    
+
+     
+
+WITNESSES:       
+
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+Lime   Rock Resources GP, L.P.,    
+
+     
+
+        
+
+
+     
+
+its   general partner    
+
+     
+
+        
+
+
+By:    
+
+LRR   GP, LLC, it general partner    
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+     
+
+     
+
+        
+
+
+Name:    
+
+Eric   D. Mullins    
+
+     
+
+        
+
+
+Title:    
+
+Co-Chief   Executive Officer    
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+LIME ROCK RESOURCES C, L.P.    
+
+     
+
+WITNESSES:       
+
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+Lime   Rock Resources C GP, LLC,    
+
+     
+
+        
+
+
+     
+
+its   general partner    
+
+     
+
+        
+
+
+By:    
+
+Lime   Rock Resources GP, L.P.,    
+
+     
+
+        
+
+
+     
+
+its   sole member    
+
+     
+
+        
+
+
+By:    
+
+LRR   GP, LLC, its general partner    
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+     
+
+     
+
+        
+
+
+Name:    
+
+Eric   D. Mullins    
+
+     
+
+        
+
+
+Title:    
+
+Co-Chief   Executive Officer    
+
+     
+
+          
+ 
+SIGNATURE PAGE TO ASSIGNMENT AND BILL OF SALE
+ 
+A-8
+
+
+
+
+
+
+ 
+
+
+
+ASSIGNEE:    
+
+     
+
+WITNESSES:       
+
+
+     
+
+     
+
+        
+
+
+LRE OPERATING, LLC    
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+LRR   Energy, L.P., its sole member    
+
+     
+
+        
+
+
+By:    
+
+LRE   GP, LLC, its general partner    
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+     
+
+     
+
+        
+
+
+Name:    
+
+Jaime   R. Casas    
+
+     
+
+        
+
+
+Title:    
+
+Chief   Financial Officer    
+
+     
+
+          
+ 
+
+
+
+Prepared   By:    
+
+Return   To:       
+
+
+Randolph   W. Bryant    
+
+        
+
+
+Andrews   Kurth LLP    
+
+        
+
+
+600   Travis, Suite 4200    
+
+        
+
+
+Houston,   TX 77002    
+
+        
+
+
+(713)   220-4200    
+
+          
+ 
+[Sample forms of acknowledgment.]
+ 
+
+
+
+STATE   OF TEXAS    
+
+§       
+
+
+     
+
+§       
+
+
+COUNTY   OF HARRIS    
+
+§         
+ 
+BE IT REMEMBERED, THAT I, the undersigned authority, a notary public duly qualified, commissioned, sworn and acting in and for Harris County, Texas, and being authorized in such county and state to take acknowledgments, hereby certifies that, on this      day of                          2011, there personally appeared before me                                  of LRR GP, LLC, a Delaware limited liability company (LRR GP), the general partner of Lime Rock Resources GP, L.P., a Delaware limited partnership (Lime Rock GP), the sole member of Lime Rock Resources A GP, LLC, the general partner of Lime Rock Resources A, L.P. (LRR-A), known to me to be such authorized signatory on behalf of LRR-A, such limited partnership being a party to the foregoing instrument, and I hereby further certify as follows:
+ 
+
+
+
+[NEW   MEXICO],    
+
+This   instrument was acknowledged before me by the foregoing individual on behalf   of LRR-A, in the capacity stated above.       
+
+
+     
+
+        
+
+
+[OKLAHOMA],    
+
+This   instrument was acknowledged before me by the foregoing individual as the   holder of the offices stated above, on behalf of LRR-A, as stated above.       
+
+
+     
+
+        
+
+
+[TEXAS],    
+
+This   instrument was acknowledged before me on this day, by the foregoing individual,   in his capacity as an officer of the aforementioned entities, on behalf of   LRR-A.         
+ 
+A-9
+
+
+
+
+
+
+ 
+
+
+
+STATE   OF TEXAS    
+
+§       
+
+
+     
+
+§       
+
+
+COUNTY   OF HARRIS    
+
+§         
+ 
+BE IT REMEMBERED, THAT I, the undersigned authority, a notary public duly qualified, commissioned, sworn and acting in and for Harris County, Texas, and being authorized in such county and state to take acknowledgments, hereby certifies that, on this      day of                          2011, there personally appeared before me                                  of LRR GP, the general partner of Lime Rock GP, the general partner of Lime Rock Resources B, L.P., a Delaware limited partnership (LRR-B), known to me to be such authorized signatory on behalf of LRR-B, such limited partnership being a party to the foregoing instrument, and I hereby further certify as follows:
+ 
+
+
+
+[NEW   MEXICO],    
+
+This   instrument was acknowledged before me by the foregoing individual on behalf   of LRR-B, in the capacity stated above.       
+
+
+     
+
+        
+
+
+[OKLAHOMA],    
+
+This   instrument was acknowledged before me by the foregoing individual as the   holder of the offices stated above, on behalf of LRR-B, as stated above.       
+
+
+     
+
+        
+
+
+[TEXAS],    
+
+This   instrument was acknowledged before me on this day, by the foregoing   individual, in his capacity as an officer of the aforementioned entities, on   behalf of LRR-B.         
+ 
+
+
+
+STATE   OF TEXAS    
+
+§       
+
+
+     
+
+§       
+
+
+COUNTY   OF HARRIS    
+
+§         
+ 
+BE IT REMEMBERED, THAT I, the undersigned authority, a notary public duly qualified, commissioned, sworn and acting in and for Harris County, Texas, and being authorized in such county and state to take acknowledgments, hereby certifies that, on this      day of                          2011, there personally appeared before me                                  of LRR GP, the general partner of Lime Rock GP, the sole member of Lime Rock Resources C GP, LLC, the general partner of Lime Rock Resources C, L.P. (LRR-C), known to me to be such authorized signatory on behalf of LRR-C, such limited partnership being a party to the foregoing instrument, and I hereby further certify as follows:
+ 
+
+
+
+[NEW   MEXICO],    
+
+This   instrument was acknowledged before me by the foregoing individual on behalf   of LRR-C, in the capacity stated above.       
+
+
+     
+
+        
+
+
+[OKLAHOMA],    
+
+This   instrument was acknowledged before me by the foregoing individual as the   holder of the offices stated above, on behalf of LRR-C, as stated above.         
+ 
+A-10
+
+
+
+
+
+
+ 
+
+
+
+[TEXAS],    
+
+This   instrument was acknowledged before me on this day, by the foregoing   individual, in his capacity as an officer of the aforementioned entities, on   behalf of LRR-C.         
+ 
+
+
+
+STATE   OF TEXAS    
+
+§       
+
+
+     
+
+§       
+
+
+COUNTY   OF HARRIS    
+
+§         
+ 
+BE IT REMEMBERED, THAT I, the undersigned authority, a notary public duly qualified, commissioned, sworn and acting in and for Harris County, Texas, and being authorized in such county and state to take acknowledgments, hereby certifies that, on this      day of                          2011, there personally appeared before me                                  of LRE GP, LLC, a Delaware limited liability company (LRE GP), the general partner of LRR Energy, L.P., a Delaware limited partnership (the Partnership), the sole member of LRE Operating, LLC, a Delaware limited liability company (LRE Operating), known to me to be such authorized signatory on behalf of LRE Operating, such limited partnership being a party to the foregoing instrument, and I hereby further certify as follows:
+ 
+
+
+
+[NEW   MEXICO],    
+
+This   instrument was acknowledged before me by the foregoing individual on behalf   of LRE Operating, in the capacity stated above.       
+
+
+     
+
+        
+
+
+[OKLAHOMA],    
+
+This   instrument was acknowledged before me by the foregoing individual as the   holder of the offices stated above, on behalf of LRE Operating, as stated   above.       
+
+
+     
+
+        
+
+
+[TEXAS],    
+
+This   instrument was acknowledged before me on this day, by the foregoing   individual, in his capacity as an officer of the aforementioned entities, on   behalf of LRE Operating.         
+ 
+IN WITNESS WHEREOF, I have hereunto set my hand and official seal in the City of Houston, Texas, on the day and year first above written.
+ 
+ 
+
+
+
+     
+
+        
+
+
+     
+
+Notary   Public in and for the State of Texas         
+ 
+A-11
+
+
+
+
+
+
+ 
+Exhibit A
+ 
+Part 1  Leases
+ 
+
+
+
+Unique ID    
+
+     
+
+Field Name    
+
+     
+
+Original   Lessor/Grantor    
+
+     
+
+Original Lessee/Grantee    
+
+     
+
+Effective   Date    
+
+     
+
+Book/   volume    
+
+     
+
+Page    
+
+     
+
+State    
+
+     
+
+County       
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+          
+ 
+Exhibit A-1
+ 
+Page 1
+
+
+
+
+
+
+ 
+Exhibit A
+ 
+Part 2  Wells
+ 
+
+
+
+Aries Propnum    
+
+     
+
+API    
+
+     
+
+County    
+
+     
+
+State    
+
+     
+
+Field Name    
+
+     
+
+Well #    
+
+     
+
+Well name       
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+          
+ 
+Exhibit A-2
+ 
+Page 1
+
+
+
+
+
+
+ 
+Exhibit A
+ 
+Part 3  Commodity Derivative Contracts
+ 
+Exhibit A-3
+ 
+Page 1
+
+
+
+
+
+
+ 
+Exhibit B
+ 
+Instruments Governing Net Profits Interest
+ 
+Exhibit B
+ 
+Page 1
+
+
+
+
+
+
+

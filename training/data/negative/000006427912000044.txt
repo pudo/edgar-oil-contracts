@@ -1,0 +1,720 @@
+
+EX-10.1
+2
+exhibit10_1.htm
+EXHIBIT 10.1
+
+
+
+    exhibit10_1.htm
+    
+    
+    
+
+
+
+
+
+
+Exhibit 10.1
+
+ 
+
+Execution Version
+
+
+
+FIRST AMENDMENT
+
+ 
+
+TO
+
+ 
+
+CREDIT AGREEMENT
+
+ 
+
+DATED AS OF JULY 25, 2012
+
+ 
+
+AMONG
+
+ 
+
+McMoRan Exploration Co.,
+
+As Parent,
+
+ 
+
+McMoRan Oil & Gas LLC,
+
+as Borrower,
+
+
+
+
+JPMorgan Chase Bank, N.A.,
+
+as Administrative Agent,
+
+
+
+
+and
+
+
+
+
+The Lenders Party Hereto
+
+
+
+
+ 
+
+
+
+
+ 
+
+Sole Lead Arranger and Sole Book runner
+
+ 
+
+J.P. Morgan Securities LLC
+
+
+
+
+ 
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+First Amendment to Credit Agreement
+
+ 
+
+This First Amendment to Credit Agreement (this “First Amendment”) dated as of July 25, 2012, is among McMoRan Exploration Co., a Delaware corporation (the “Parent”), McMoRan Oil & Gas LLC, a Delaware limited liability company (the “Borrower”), each of the Lenders from time to time party hereto, and JPMorgan Chase Bank, N.A. (in its individual capacity, “JPMorgan”), as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the “Administrative Agent”).
+
+
+
+
+R E C I T A L S
+
+
+
+
+A.           The Parent, the Borrower, the Administrative Agent, the Lenders and the other Agents party thereto are parties to that certain Credit Agreement dated as of June 30, 2011 (the “Credit Agreement”), pursuant to which the Lenders have made certain credit and other financial accommodations available to and on behalf of the Borrower and its Subsidiaries.
+
+ 
+
+B.           The Borrower has requested and the Administrative Agent and the Lenders have agreed to amend certain provisions of the Credit Agreement.
+
+ 
+
+C.           Now, therefore, to induce the Administrative Agent and the Required Lenders to enter into this First Amendment and in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+ 
+
+Section 1. Defined Terms.  Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this First Amendment.  Unless otherwise indicated, all section references in this First Amendment refer to sections of the Credit Agreement.
+
+ 
+
+Section 2. Amendments to Credit Agreement.
+
+ 
+
+2.1 Amendment to Section 1.02.
+
+ 
+
+(a)           Section 1.02 is hereby amended by deleting the defined term “Agreement” and replacing it with the following:
+
+ 
+
+“Agreement” means this Credit Agreement, as amended by that certain First Amendment dated as of July 25, 2012, and as the same may from time to time be further amended, modified, supplemented or restated.
+
+ 
+
+(b)           Section 1.02 is hereby amended by adding the following definitions in the appropriate alphabetical order:
+
+ 
+
+
+
+  
+
+
+
+1
+
+
+
+
+
+
+
+  
+
+
+
+“Account” means any one or more deposit accounts or securities accounts of the Borrower designated in writing to the Administrative Agent into which cash or investment securities have been deposited and on which the Administrative Agent has a valid and perfect first priority Lien.
+
+ 
+
+“First Amendment” means that certain First Amendment to Credit Agreement dated as of July 25, 2012 among the Parent, the Borrower, the Administrative Agent and the Lenders party thereto.
+
+ 
+
+Section 3. Confirmation of Borrowing Base and Redetermination of Borrowing Base.
+
+ 
+
+3.1           Upon the effectiveness of this Agreement, the Borrowing Base shall be, and hereby is, affirmed at $150,000,000, which Borrowing Base shall remain in effect until the Borrowing Base is otherwise redetermined or adjusted in accordance with the Credit Agreement.
+
+ 
+
+3.2           Both the Parent and the Borrower, on the one hand, and the Administrative Agent and the Lenders, on the other hand, agree that the redetermination of the Borrowing Base described in this Section 3 constitutes the regularly scheduled Spring 2012 redetermination of the Borrowing Base (and shall not constitute an Interim Redetermination of the Borrowing Base).
+
+ 
+
+3.3           The Parent and the Borrower agree that if the amount in the Account is less than $35,000,000 (the “Threshold Amount”) at any time prior to completion of the next redetermination of the Borrowing Base (whether at the next Scheduled Redetermination anticipated to occur in October 2012 or any earlier Interim Redetermination) (the “Release Date”), then the Borrowing Base shall be reduced on a dollar for dollar basis in an amount equal to the difference between the amount in the Account and the Threshold Amount.  After the Release Date, the foregoing requirements shall no longer apply.
+
+ 
+
+3.4           Both the Parent and the Borrower, on the one hand, and the Administrative Agent and the Lenders, on the other hand, agree that as of the Release Date, the requirements to (i) maintain the Threshold Amount in the Account and (ii) grant a first priority Lien on the Account shall cease.   At such time, the Administrative Agent is authorized to take all steps necessary to release such Lien, including filing any Lien terminations or providing other documentation to evidence such Lien release.
+
+ 
+
+
+
+  
+
+
+
+2
+
+
+
+
+
+
+
+  
+
+
+
+.
+
+ 
+
+Section 4. Conditions Precedent.  This First Amendment shall become effective on the date, on or before July 31, 2012 (such date, the “First Amendment Effective Date”), when each of the following conditions is satisfied (or waived in accordance with Section 12.02):
+
+ 
+
+4.1 The Administrative Agent shall have received from the Required Lenders, the Parent, the Borrower and each other Guarantor, counterparts (in such number as may be requested by the Administrative Agent) of this First Amendment signed on behalf of such Person.
+
+ 
+
+4.2 The Administrative Agent shall have received (a) a security agreement granting to the Administrative Agent a Lien on the Account and (b) such other agreements or instruments as may be reasonably necessary or desirable to permit the Lien on the Account under applicable law.
+
+ 
+
+4.3 No Default shall have occurred and be continuing as of the date hereof, after giving effect to the terms of this First Amendment.
+
+ 
+
+The Administrative Agent is hereby authorized and directed to declare this First Amendment to be effective when it has received documents confirming or certifying, to the satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section 4 or the waiver of such conditions as permitted in Section 12.02.  Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes.
+
+ 
+
+Section 5. Miscellaneous.
+
+ 
+
+5.1 Confirmation. The provisions of the Credit Agreement, as amended by this First Amendment, shall remain in full force and effect following the effectiveness of this First Amendment.
+
+ 
+
+5.2 Ratification and Affirmation; Representations and Warranties.  Each of the Borrower and the Guarantors hereby (a) acknowledges the terms of this First Amendment; (b) ratifies and affirms its obligations under, and acknowledges its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect as expressly amended hereby and (c) represents and warrants to the Lenders that as of the date hereof, after giving effect to the terms of this First Amendment:
+
+ 
+
+(i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (except those which have a materiality qualifier, which shall be true and correct as so qualified), except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct as of such specified earlier date,
+
+ 
+
+
+
+  
+
+
+
+3
+
+
+
+
+
+
+
+  
+
+
+
+(ii) no Default or Event of Default has occurred and is continuing, and
+
+ 
+
+(iii) no event or events have occurred which individually or in the aggregate could reasonably be expected to have a Material Adverse Effect.
+
+ 
+
+5.3 Loan Document.  This First Amendment is a Loan Document.
+
+ 
+
+5.4 Counterparts. This First Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of this First Amendment by facsimile transmission or email shall be effective as delivery of a manually executed counterpart hereof.
+
+ 
+
+5.5 NO ORAL AGREEMENT.  THIS FIRST AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.
+
+ 
+
+5.6 GOVERNING LAW. THIS FIRST AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS EXCEPT TO THE EXTENT THAT UNITED STATES FEDERAL LAW PERMITS ANY LENDER TO CONTRACT FOR, CHARGE, RECEIVE, RESERVE OR TAKE INTEREST AT THE RATE ALLOWED BY THE LAWS OF THE STATE WHERE SUCH LENDER IS LOCATED.  CHAPTER 346 OF THE TEXAS FINANCE CODE (RELATING TO REVOLVING LOAN AND REVOLVING TRIPARTY ACCOUNTS), SHALL NOT APPLY TO THIS AGREEMENT OR ANY LOANS OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+ 
+
+5.7 Payment of Expenses.  In accordance with Section 12.03, the Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable out-of- pocket costs and reasonable expenses incurred in connection with this First Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.
+
+ 
+
+5.8 Severability.  Any provision of this First Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+ 
+
+
+
+  
+
+
+
+4
+
+
+
+
+
+
+
+  
+
+
+
+5.9 Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+ 
+
+[SIGNATURES BEGIN NEXT PAGE]
+
+ 
+
+ 
+ 
+
+ 
+
+
+
+
+ 
+
+  
+
+
+
+5
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this First Amendment to be duly executed as of the date first written above.
+
+ 
+
+
+
+
+ 
+
+BORROWER:                                                                MCMORAN OIL & GAS LLC
+
+ 
+
+By:     /s/ Kathleen L. Quirk 
+
+           Kathleen L. Quirk, Vice President
+
+
+
+
+
+
+
+PARENT:                                                                          MCMORAN EXPLORATION CO.
+
+ 
+
+By:     /s/ Kathleen L. Quirk 
+
+            Kathleen L. Quirk, Senior Vice
+
+            President & Treasurer
+
+
+
+
+
+
+
+
+GUARANTORS:                                                              MCMORAN EXPLORATION CO.
+
+
+
+
+
+
+
+
+By:     /s/ Kathleen L. Quirk 
+
+            Kathleen L. Quirk
+
+            Senior Vice President & Treasurer
+
+
+
+
+K-MC VENTURE I LLC
+
+
+
+
+By:           MCMORAN OIL & GAS LLC,
+
+its sole member
+
+
+
+
+
+
+
+By:     /s/ Kathleen L. Quirk 
+
+            Kathleen L. Quirk
+
+            Vice President
+
+
+
+
+
+
+
+
+Signature Page – MMR 1st Amendment
+
+S - 1
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+FREEPORT CANADIAN
+
+EXPLORATION COMPANY
+
+
+
+
+By:           MCMORAN OIL & GAS LLC,
+
+its sole member
+
+
+
+
+
+
+
+By:     /s/ Kathleen L. Quirk 
+
+           Kathleen L. Quirk
+
+           Vice President
+
+
+
+
+
+
+
+MCMORAN INTERNATIONAL INC.
+
+
+
+
+By:           MCMORAN OIL & GAS LLC,
+
+its sole member
+
+
+
+
+
+
+
+By:     /s/ Kathleen L. Quirk 
+
+           Kathleen L. Quirk
+
+           Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Signature Page – MMR 1st Amendment
+
+S - 2
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+JPMORGAN CHASE BANK, N.A.,
+
+as Administrative Agent and as a Lender
+
+ 
+
+
+
+
+By:         /s/ Jo Linda Papadakis
+
+Name:       Jo Linda Papadakis
+
+Title:           Authorized Officer
+
+
+
+
+
+
+
+
+
+
+TORONTO DOMINION (NEW YORK) LLC, as a Lender
+
+
+
+
+
+
+
+By:        /s/ Bebi Yasin
+
+Name:          Bebe Yasin
+
+Title:           Authorized Signatory
+
+
+
+
+ 
+
+
+  WELLS FARGO BANK, NATIONAL ASSOCATION, as a Lender
+
+
+ 
+
+
+
+
+By:       /s/ Douglas R. Liftman
+
+Name:         Douglas R. Liftman
+
+Title:           Managing Director
+
+
+
+
+
+
+
+CAPITAL ONE, N.A., as a Lender
+
+
+
+
+
+
+
+By:        /s/ Matthew L. Molero
+
+Name:         Matthew L. Molero
+
+Title:           Vice President
+
+
+
+
+
+
+
+
+  U.S. BANK NATIONAL ASSOCIATION,      as a Lender
+
+
+
+
+
+
+
+
+By:       /s/ Daria Mahoney
+
+Name:         Daria Mahoney
+
+Title:           Vice President
+
+
+
+
+ 
+
+
+
+
+
+Signature Page – MMR 1st Amendment
+
+S - 3
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+

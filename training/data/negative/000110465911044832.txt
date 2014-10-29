@@ -1,0 +1,376 @@
+
+EX-10.1
+2
+a11-14086_1ex10d1.htm
+EX-10.1
+
+
+
+
+
+
+  
+
+
+Exhibit 10.1
+ 
+SPECIFIC TERMS IN THIS EXHIBIT HAVE BEEN REDACTED BECAUSE CONFIDENTIAL TREATMENT FOR THOSE TERMS HAS BEEN REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPERATELY FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, AND THE TERMS HAVE BEEN MARKED AT THE APPROPRIATE PLACE WITH TWO ASTERISKS (**).
+ 
+AMENDMENT NO. 2 TO
+SECOND AMENDED AND RESTATED LIMITED LIABILITY COMPANY AGREEMENT OF MARKWEST LIBERTY MIDSTREAM & RESOURCES, L.L.C.
+ 
+ 
+This Amendment No. 2 dated April 28, 2011 (this Amendment) to the Second Amended and Restated Limited Liability Company Agreement of MarkWest Liberty Midstream & Resources, L.L.C., dated as of November 1, 2009 (as amended from time to time, the Agreement), is made and entered into by the Company and the undersigned Members of the Company, and hereby amends the Agreement as set forth herein. Capitalized terms not otherwise defined herein shall have the meaning in the Agreement.
+ 
+WHEREAS, M&R MWE Liberty, LLC is obtaining a Loan (as defined below) from a syndicate group of Lenders (as defined below), including Citibank, N.A. or an Affiliate thereof acting as the Administrative Agent (as defined below) in connection with the Loan; and
+ 
+WHEREAS, in connection with the Loan, the Administrative Agent and the Lenders are requiring that M&R MWE Liberty, LLC execute the Pledge (as defined below); and
+ 
+WHEREAS, pursuant to that unanimous written consent of the Managers and Members dated the date hereof, the Board and the Members have consented to this Amendment; and
+ 
+WHEREAS, the undersigned are the sole Members of the Company and pursuant to Section 15.9 of the Agreement, the Members and the Company desire to amend the Agreement to modify the Agreement in connection with the Pledge in the manner set forth in this Amendment;
+ 
+NOW THEREFORE, in consideration of the mutual promises made herein, the parties, intending to be legally bound, hereby agree as follows:
+ 
+1.             Section 1.1 is amended by adding the following new definitions:
+ 
+Administrative Agent means Citibank, N.A., or an Affiliate or successor thereof acting as the Administrative Agent in connection with the Loan, and its successors and assigns in such capacity.
+ 
+Class A Foreclosure has the meaning set forth in Section 7.7(a).
+ 
+Closing has the meaning set forth in Section 7.7(c).
+ 
+Decision Period has the meaning set forth in Section 7.7(c).
+ 
+1
+
+
+
+
+
+
+ 
+SPECIFIC TERMS IN THIS EXHIBIT HAVE BEEN REDACTED BECAUSE CONFIDENTIAL TREATMENT FOR THOSE TERMS HAS BEEN REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPERATELY FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, AND THE TERMS HAVE BEEN MARKED AT THE APPROPRIATE PLACE WITH TWO ASTERISKS (**).
+ 
+Fair Market Value of the Foreclosed Interest means the fair market value of the Foreclosed Interest as of the date of the Initial Election Notice and as determined pursuant to Section 7.7(b).
+ 
+Final Valuation Date has the meaning set forth in Section 7.7(b).
+ 
+Foreclosed Interest has the meaning set forth in Section 7.7(a).
+ 
+Foreclosure Notice has the meaning set forth in Section 7.7(a).
+ 
+Initial Election Notice has the meaning set forth in Section 7.7(a).
+ 
+Lender(s) means that certain syndicate group of lenders, including the Administrative Agent, under  the Loan.
+ 
+Loan means that certain loan being obtained by M&R MWE Liberty, LLC from the Lenders, including the Administrative Agent pursuant to the M&R MWE Credit Agreement and the documents entered into in connection therewith.
+ 
+M&R MWE Credit Agreement means that certain Credit Agreement by and among M&R MWE Liberty, LLC and the Lenders dated as of the date hereof.
+ 
+Pledge means that certain pledge agreement by and among M&R MWE Liberty, LLC and the Administrative Agent dated as of the date hereof in connection with the Loan.
+ 
+Purchase Notice has the meaning set forth in Section 7.7(c).
+ 
+Succeeding Member has the meaning set forth in Section 7.7(a).
+ 
+2.             The Agreement is hereby further amended by inserting a new Section 7.7 into the Agreement as follows:
+ 
+Section 7.7. Purchase Right of Class B Members.
+ 
+(a)           Solely in the event of (i) any foreclosure sale or transfer in lieu thereof or other disposition of the Class A Interest pursuant to the Pledge (the Foreclosed Interest and any such sale, transfer in lieu thereof or other disposition, a Class A Foreclosure), and (ii) following such Class A Foreclosure the Administrative Agent, for the benefit of the Lenders, or any Lender or other successful bidder at such Class A Foreclosure has succeeded to the Foreclosed Interest of M&R MWE Liberty, LLC in the Company (all such Persons who have succeeded to the Foreclosed Interest are referred to as the Succeeding Member), the Succeeding Member shall give prompt written notice (the Foreclosure Notice) to the Class B Members of the occurrence of the foregoing (and in no event later than one Business Day thereafter).  At any time within three (3) Business Days after receipt of the Foreclosure Notice, the Class B Members shall have
+ 
+2
+
+
+
+
+
+
+ 
+SPECIFIC TERMS IN THIS EXHIBIT HAVE BEEN REDACTED BECAUSE CONFIDENTIAL TREATMENT FOR THOSE TERMS HAS BEEN REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPERATELY FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, AND THE TERMS HAVE BEEN MARKED AT THE APPROPRIATE PLACE WITH TWO ASTERISKS (**).
+ 
+the right to purchase, on a pro rata basis in accordance with their respective Class B Percentage Interests or on such other basis as the Class B Members may determine, all or any portion of the Foreclosed Interest held by such Succeeding Member by delivery of a written notice to the Succeeding Member and the Company of such election to purchase the Foreclosed Interest (the Initial  Election Notice).
+ 
+(b)          Upon receipt of the Initial Election Notice, the Fair Market Value of the Foreclosed Interest shall be as mutually agreed to in writing by the Class B Members and the Succeeding Member; provided, however, that if the Class B Members and the Succeeding Member are unable to agree upon the Fair Market Value of the Foreclosed Interest within five (5) Business Days, then the Fair Market Value of the Foreclosed Interest shall be determined by an independent appraiser selected by the Class B Members and the Succeeding Member with all costs and expenses of such independent appraiser to be borne fifty percent (50%) by the Class B Members and fifty percent (50%) by the Succeeding Member. If the Class B Members and the Succeeding Member are unable to agree as to the selection of the independent appraiser, then within three (3) Business Days the Class B Members, on the one hand, and the Succeeding Member, on the other hand, shall each select an independent appraiser and the two so selected independent appraisers, within five (5) Business Days of the last so selected independent appraiser, shall appoint a third independent appraiser who shall appraise and determine the Fair Market Value of the Foreclosed Interest within thirty (30) days of such appointment.  The determination of the Fair Market Value of the Foreclosed Interest by the independent appraiser appointed hereunder shall be conclusive and binding upon the Class B Members and the Succeeding Member with all costs and expenses of the independent appraiser to be borne fifty percent (50%) by the Class B Members and fifty percent (50%) by the Succeeding Member.  The date of final determination of the Fair Market Value of the Foreclosed Interest pursuant to this Section 7.7(b) shall be the Final Valuation Date.  Any independent appraiser selected pursuant to this subparagraph shall have at least ten (10) years of experience appraising assets of a similar nature to those of the Company.
+ 
+(c)           Within ten (10) Business Days after the Final Valuation Date (such ten (10) Business Day period, the Decision Period), the Class B Members may elect to purchase (on a pro rata basis in accordance with their respective Class B Percentage Interests or on such other basis as the Class B Members may determine) the Foreclosed Interest from the Succeeding Member for ** by delivering written notice to the Succeeding Member and the Company within the Decision Period (the Purchase Notice); provided, however that the **.  Following receipt of the Purchase Notice, the Company shall thereafter set a reasonable place and time for the closing of the purchase and sale of the Foreclosed Interest (the Closing), which shall be not less than 10 days nor more than 90 days after the delivery of the Purchase Notice and which purchase price shall be payable in cash in full at the Closing.
+ 
+3
+
+
+
+
+
+
+ 
+SPECIFIC TERMS IN THIS EXHIBIT HAVE BEEN REDACTED BECAUSE CONFIDENTIAL TREATMENT FOR THOSE TERMS HAS BEEN REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPERATELY FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, AND THE TERMS HAVE BEEN MARKED AT THE APPROPRIATE PLACE WITH TWO ASTERISKS (**).
+ 
+(d)           At the Closing, the Succeeding Member shall make customary representations and warranties concerning (i) such Succeeding Members valid title to and ownership of the Foreclosed Interest, free and clear of all Liens (excluding those arising under applicable securities laws or this Agreement), and (ii) such Succeeding Members authority, power and right to enter into and consummate the sale of the Foreclosed Interest.  Upon the Closing, the Class B Members purchasing the Foreclosed Interest shall become Substitute Members with respect thereto. The Succeeding Member also agrees to execute and deliver such instruments and documents and take such actions, including obtaining all applicable approvals and consents and making all applicable notifications and filings, as the Class B Members may reasonably request in order to effectively implement the purchase and sale of the Foreclosed Interest hereunder and the designation of the Class B Members as Substitute Members with respect to the Foreclosed Interest.
+ 
+(e)           If the Class B Members do not elect to purchase the Foreclosed Interest pursuant to this Section 7.7, the Foreclosed Interest shall continue to be subject to, and the Succeeding Member shall continue to comply with, the restrictions on Transfers that are otherwise set forth in this Agreement, including, without limitation, this Article 7.
+ 
+(f)            Notwithstanding any provision of this Agreement to the contrary, including the provisions of Section 7.1, the provisions of this Section 7.7 shall be applicable, and the Class B Members shall have the right to purchase the Foreclosed Interest pursuant hereto, both during and after the Project Period.
+ 
+(g)           M&R MWE Liberty, LLC represents and warrants to the Class B Members that, as of the date hereof and following the execution of the Loan Documents, the **.  M&R MWE Liberty, LLC further covenants and agrees, for the benefit of the Class B Members, that the ** at any time on or after the date hereof **.
+ 
+3.             The Company, the Members and the Administrative Agent have entered into the Consent and Agreement (the Pledge Consent) dated as of even date herewith.  In connection with the Pledge Consent, (i) MWE Liberty and M&R MWE Liberty, LLC hereby acknowledge and agree that the Pledge Consent allows the Administrative Agent, for the benefit of the Lenders, or any Lender to become a Substitute Member upon a Class A Foreclosure, (ii) all future Additional Members or Substitute Members not described in clause (i) shall be subject to the Pledge Consent, and, notwithstanding anything in this Agreement to the contrary, any such Additional Member or Substitute Member shall be deemed to have consented to the Administrative Agent, for the benefit of the Lenders, or any Lender becoming a Substitute Member upon a Class A Foreclosure and (iii) that such any such Additional Member or Substitute Member described in clause (ii) shall execute reasonable documentation evidencing its consent to the Administrative Agent, for the benefit of the Lenders, or any Lender becoming a Substitute Member upon a Class A Foreclosure.
+ 
+4
+
+
+
+
+
+
+ 
+SPECIFIC TERMS IN THIS EXHIBIT HAVE BEEN REDACTED BECAUSE CONFIDENTIAL TREATMENT FOR THOSE TERMS HAS BEEN REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPERATELY FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, AND THE TERMS HAVE BEEN MARKED AT THE APPROPRIATE PLACE WITH TWO ASTERISKS (**).
+ 
+4.             Except as hereby expressly modified by this Amendment, all terms of the Agreement remain in full force and effect. This Amendment shall bind and benefit the Company and its Members and their respective heirs, beneficiaries, administrators, executors, receivers, trustees, successors and assigns.
+ 
+5.             The Members agree that the actions of the Board, Members and officers previously taken in connection with the actions, elections and transactions of the Company and contemplated to be taken under this Amendment and the Consent are in all respects, authorized, approved, ratified and confirmed as the acts and deeds of the Company.
+ 
+6.             This Amendment may be executed in any number of counterparts, including by electronic transmission, with each such counterpart constituting an original and all of such counterparts constituting but one and the same instrument.
+ 
+[SIGNATURE PAGE FOLLOWS]
+ 
+5
+
+
+
+
+
+
+ 
+SPECIFIC TERMS IN THIS EXHIBIT HAVE BEEN REDACTED BECAUSE CONFIDENTIAL TREATMENT FOR THOSE TERMS HAS BEEN REQUESTED. THE REDACTED MATERIAL HAS BEEN SEPERATELY FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, AND THE TERMS HAVE BEEN MARKED AT THE APPROPRIATE PLACE WITH TWO ASTERISKS (**).
+ 
+IN WITNESS WHEREOF, the Company and the Members have executed this Amendment as of April 28, 2011 pursuant to and in accordance with Section 15.9 of the Agreement.
+ 
+ 
+
+
+
+COMPANY:    
+
+        
+
+
+     
+
+        
+
+
+MARKWEST   LIBERTY MIDSTREAM & RESOURCES, L.L.C.,       
+
+
+a Delaware limited liability company    
+
+        
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+By:    
+
+/s/ Frank M. Semple    
+
+     
+
+        
+
+
+Name:    
+
+Frank M. Semple    
+
+     
+
+        
+
+
+Title:    
+
+President and CEO    
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+MEMBERS:    
+
+        
+
+
+     
+
+     
+
+        
+
+
+MARKWEST   LIBERTY GAS GATHERING, L.L.C.,    
+
+M&R MWE LIBERTY, LLC,       
+
+
+a Delaware limited   liability company    
+
+a Delaware limited liability company       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+By:    
+
+/s/ Frank M. Semple    
+
+     
+
+By:    
+
+/s/ John T. Raymond       
+
+
+Name:    
+
+Frank M. Semple    
+
+     
+
+Name:    
+
+John T. Raymond       
+
+
+Title:    
+
+President and CEO    
+
+     
+
+Title:    
+
+Managing Partner & CEO       
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+MARKWEST LIBERTY MIDSTREAM & RESOURCES,   L.L.C.,    
+
+        
+
+
+a Delaware limited liability company    
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+By:    
+
+/s/ Frank M. Semple    
+
+     
+
+        
+
+
+Name:    
+
+Frank M. Semple    
+
+     
+
+        
+
+
+Title:    
+
+President and CEO    
+
+     
+
+        
+
+
+
+
+
+
+    
+ 
+
+
+
+
+
+
+

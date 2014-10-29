@@ -1,0 +1,4232 @@
+
+EX-10.2
+5
+ex10-2.htm
+EXHIBIT 10.2
+
+
+
+
+
+
+
+
+ 
+
+Exhibit 10.2
+
+ 
+
+Execution Version
+
+ 
+
+ 
+
+
+
+MANAGEMENT SERVICES AGREEMENT
+
+ 
+
+ 
+
+ 
+
+BY AND AMONG
+
+ 
+
+ 
+
+ 
+
+AECP MANAGEMENT, LLC,
+an Oklahoma Limited Liability Company
+
+ 
+
+ 
+
+ 
+
+AMERICAN ENERGY CAPITAL PARTNERS, LP
+a Delaware Limited Partnership
+
+ 
+
+ 
+
+ 
+
+AND
+
+ 
+
+ 
+
+ 
+
+AECP OPERATING COMPANY, LLC
+a Delaware Limited Liability Company and
+Wholly Owned Subsidiary of AECP LP
+
+ 
+
+ 
+
+ 
+
+Dated June 16, 2014
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+
+
+
+
+    ARTICLE I Defined Terms, Interpretation  
+     1 
+
+      
+      
+       
+
+    Section 1.1 
+    Defined Terms 
+     1 
+
+      
+      
+       
+
+    Section 1.2 
+    References and Titles 
+     13 
+
+      
+      
+       
+
+    ARTICLE II Management Services  
+     13 
+
+      
+      
+       
+
+    Section 2.1 
+    Engagement of Manager 
+     13 
+
+      
+      
+       
+
+    Section 2.2 
+    Direction of Result of
+    Management Services 
+     13 
+
+      
+      
+       
+
+    Section 2.3 
+    Management Standards 
+     14 
+
+      
+      
+       
+
+    Section 2.4 
+    Records; Financial Reports;
+    Instruments of Service 
+     14 
+
+      
+      
+       
+
+    Section 2.5 
+    Certain Limitations on
+    Management Services 
+     14 
+
+      
+      
+       
+
+    Section 2.6 
+    Well Operations 
+     15 
+
+      
+      
+       
+
+    Section 2.7 
+    Limitations on Farmouts
+    to Affiliates of the Manager 
+     15 
+
+      
+      
+       
+
+    Section 2.8 
+    Limitation on Rendering
+    Certain Oilfield Equipment, Supplies and Services 
+     16 
+
+      
+      
+       
+
+    ARTICLE III Financial Administration  
+     17 
+
+      
+      
+       
+
+    Section 3.1 
+    Budget. 
+     17 
+
+      
+      
+       
+
+    Section 3.2 
+    Cash Management 
+     18 
+
+      
+      
+       
+
+    Section 3.3 
+    Revenues and Joint Interest
+    Billings 
+     19 
+
+      
+      
+       
+
+    Section 3.4 
+    Manager Payments 
+     19 
+
+      
+      
+       
+
+    Section 3.5 
+    Payment to Owner 
+     19 
+
+      
+      
+       
+
+    ARTICLE IV Contract Administration; Power of Attorney  
+     19 
+
+      
+      
+       
+
+    Section 4.1 
+    Contract Administration 
+     19 
+
+      
+      
+       
+
+    Section 4.2 
+    Purchases for the Owner 
+     19 
+
+      
+      
+       
+
+    Section 4.3 
+    Affiliate Transactions 
+     20 
+
+      
+      
+       
+
+    Section 4.4 
+    Power of Attorney 
+     20 
+
+      
+      
+       
+
+    ARTICLE V Compensation and Expenses  
+     20 
+
+      
+      
+       
+
+    Section 5.1 
+    Management Fee 
+     20 
+
+      
+      
+       
+
+    Section 5.2 
+    Reimbursement of Organization
+    and Offering Expenses; Reimbursement of Out-of-Pocket Expenses 
+     21 
+
+      
+      
+       
+
+    Section 5.3 
+    Acquisition Fee and Acquisition
+    Expenses 
+     23 
+
+      
+      
+       
+
+    Section 5.4 
+    Disposition Fee and Disposition
+    Expenses 
+     24 
+
+      
+      
+       
+
+    Section 5.5 
+    Financing Coordination
+    Fee 
+     25 
+
+      
+      
+       
+
+    Section 5.6 
+    Direct Expenses 
+     26 
+
+      
+      
+       
+
+    ARTICLE VI Representations, Warranties and Covenants  
+     26 
+
+
+ 
+
+
+
+
+    i
+     
+    
+
+
+
+
+
+      
+      
+       
+
+    ARTICLE VII Additional Agreements of Manager; Restrictions on Manager  
+     27 
+
+      
+      
+       
+
+    Section 7.1 
+    Compliance with Laws 
+     27 
+
+      
+      
+       
+
+    Section 7.2 
+    Compliance with Obligations 
+     27 
+
+      
+      
+       
+
+    Section 7.3 
+    Prohibited Acts 
+     27 
+
+      
+      
+       
+
+    Section 7.4 
+    Emergencies 
+     30 
+
+      
+      
+       
+
+    Section 7.5 
+    Manager’s Insurance 
+     31 
+
+      
+      
+       
+
+    ARTICLE VIII Personnel Administration  
+     31 
+
+      
+      
+       
+
+    Section 8.1 
+    General 
+     31 
+
+      
+      
+       
+
+    Section 8.2 
+    Responsibility 
+     31 
+
+      
+      
+       
+
+    ARTICLE IX Investment Opportunities  
+     31 
+
+      
+      
+       
+
+    Section 9.1 
+    Investment Opportunities. 
+     31 
+
+      
+      
+       
+
+    Section 9.2 
+    Initial Budget; Revisions
+    to Budget. 
+     33 
+
+      
+      
+       
+
+    ARTICLE X Term; Termination  
+     33 
+
+      
+      
+       
+
+    Section 10.1 
+    Term 
+     33 
+
+      
+      
+       
+
+    Section 10.2 
+    Termination 
+     34 
+
+      
+      
+       
+
+    Section 10.3 
+    Transition Services 
+     35 
+
+      
+      
+       
+
+    Section 10.4 
+    Effect of Termination 
+     35 
+
+      
+      
+       
+
+    ARTICLE XI Indemnification; Liability of the Parties  
+     35 
+
+      
+      
+       
+
+    Section 11.1 
+    Indemnification 
+     35 
+
+      
+      
+       
+
+    Section 11.2 
+     
+     37 
+
+      
+      
+       
+
+    Section 11.3 
+    Indemnification Procedure 
+     37 
+
+      
+      
+       
+
+    Section 11.4 
+    Limitation on Consequential
+    and Other Damages 
+     38 
+
+      
+      
+       
+
+    Section 11.5 
+    Manager Liability 
+     38 
+
+      
+      
+       
+
+    Section 11.6 
+    Conspicuous 
+     39 
+
+      
+      
+       
+
+    ARTICLE XII Force Majeure  
+     39 
+
+      
+      
+       
+
+    ARTICLE XIII Miscellaneous  
+     39 
+
+      
+      
+       
+
+    Section 13.1 
+    Time 
+     39 
+
+      
+      
+       
+
+    Section 13.2 
+    Independent Contractor 
+     39 
+
+      
+      
+       
+
+    Section 13.3 
+    Notices 
+     39 
+
+      
+      
+       
+
+    Section 13.4 
+    Cooperation 
+     41 
+
+      
+      
+       
+
+    Section 13.5 
+    No Third Party Beneficiaries 
+     41 
+
+      
+      
+       
+
+    Section 13.6 
+    Cumulative Remedies 
+     41 
+
+      
+      
+       
+
+    Section 13.7 
+    Governing Law; Jurisdiction;
+    Waiver of Jury Trial 
+     41 
+
+      
+      
+       
+
+    Section 13.8 
+    Entire Agreement 
+     42 
+
+
+ 
+
+
+
+
+    ii
+     
+    
+
+
+
+
+
+      
+      
+       
+
+    Section 13.9 
+    Assignment 
+     42 
+
+      
+      
+       
+
+    Section 13.10 
+    Amendment 
+     42 
+
+      
+      
+       
+
+    Section 13.11 
+    Severability 
+     42 
+
+      
+      
+       
+
+    Section 13.12 
+    Waiver 
+     43 
+
+      
+      
+       
+
+    Section 13.13 
+    Counterparts; Facsimiles;
+    Electronic Transmission 
+     43 
+
+      
+      
+       
+
+    Section 13.14 
+    Corporate Opportunity 
+     43 
+
+      
+      
+       
+
+    Section 13.15 
+    Joint Acknowledgement 
+     43 
+
+      
+      
+       
+
+      
+      
+       
+
+      
+      
+       
+
+    EXHIBITS: 
+      
+       
+
+      
+      
+       
+
+    Exhibit
+    A 
+    Scope of Services 
+     A-1 
+
+      
+      
+       
+
+    Exhibit
+    B 
+    Insurance 
+     B-1 
+
+      
+      
+       
+
+    Exhibit
+    C 
+    Cost Reimbursement 
+     C-1 
+
+      
+      
+       
+
+    Exhibit
+    D 
+    Operating Agreement 
+     D-1 
+
+      
+      
+       
+
+
+
+ 
+
+
+
+
+    iii
+     
+    
+
+ 
+
+MANAGEMENT SERVICES AGREEMENT
+
+ 
+
+This MANAGEMENT SERVICES
+AGREEMENT (this “Agreement”), dated as of June 16, 2014 and effective for all purposes as of the 16th
+day of June, 2014 (the “Effective Date”), is by and among AECP
+MANAGEMENT, LLC, an Oklahoma limited liability company (the “Manager”), American
+Energy CAPITAL PARTNERS, LP, a Delaware limited partnership (“AECP LP”), and AECp
+OPERATING COMPANY, LLC, a Delaware limited liability company and a wholly owned subsidiary of AECP LP (the “Owner”).
+The Manager, AECP LP and Owner are referred to herein individually as a “Party,” and collectively as
+the “Parties.” Capitalized terms used but not defined herein shall have the meanings assigned to such
+terms in Article I.
+
+ 
+
+BACKGROUND:
+
+ 
+
+A.	AECP GP is the
+sole general partner of AECP LP; and
+
+ 
+
+B.	The Owner is
+engaged in the Business; and
+
+ 
+
+C.	The Manager is
+experienced and skilled in the conduct of business in the oil and gas acquisition, exploration, development and production industry,
+and has the ability to provide technical, commercial, financing and management services that may be necessary or useful to the
+Owner; and
+
+ 
+
+D.	The Owner desires
+to engage the Manager to perform and provide, and the Manager desires to perform and provide for and on behalf of the Owner, the
+Services as set forth herein and in accordance with the terms and conditions hereof.
+
+ 
+
+NOW, THEREFORE, in
+consideration of the mutual covenants and agreements contained herein and other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:
+
+ 
+
+ARTICLE
+I
+Defined Terms, Interpretation
+
+ 
+
+Section 1.1	Defined
+Terms. As used in this Agreement, each of the following terms has the meaning given in this Section 1 as follows:
+
+ 
+
+“Acquisition
+Expenses” means any and all expenses, including but not limited to legal fees and expenses, travel, lodging and communications
+expenses, financial advisory fees, brokerage fees, costs of appraisals, engineering fees and expenses, third party consultant fees
+and expenses, nonrefundable option payments on property not acquired, accounting fees and expenses, title insurance premiums and
+the costs of performing due diligence (including, without limitation, title, environmental, general land services and similar due
+diligence), but excluding Acquisition Fees, in each case incurred by AECP LP, the Owner, the Manager or any of their Affiliates
+in connection with the selection,
+
+ 
+
+
+
+
+     
+     
+    
+
+ 
+
+
+
+
+evaluation, acquisition, origination,
+making or development of any Property Acquisition, whether or not acquired.
+
+ 
+
+“Acquisition
+Fee” means the fee payable to the Manager pursuant to Section 5.3.
+
+ 
+
+“AECP
+GP” means American Energy Capital Partners, GP LLC, a Delaware limited liability company and the general partner
+of AECP LP.
+
+ 
+
+“AECP
+LP” has the meaning specified in the introductory paragraph.
+
+ 
+
+“Affiliate”
+means, with respect to any Person, each other Person that directly or indirectly (through one or more intermediaries or otherwise)
+controls, is controlled by, or is under common control with such Person, provided, however, that the Parties specifically
+acknowledge and agree that for purposes of this Agreement none of AECP GP, AECP LP or the Owner is an Affiliate of the Manager.
+
+ 
+
+“Agreement”
+means this Agreement, as amended, supplemented or modified from time to time.
+
+ 
+
+“Approved
+Credit Facility” means a revolving or other credit facility entered into by AECP LP, the Owner or a Subsidiary of
+the Owner.
+
+ 
+
+“Assets”
+means (a) the Leases; (b) the Wells; (c) all royalty, overriding royalty, production payments, net profits interests and other
+interests in oil and gas properties owned by the Owner and its Subsidiaries; (d) all tangible personal property, equipment,
+machinery, inventory, supplies, spare parts, fixtures and improvements that are a part of any Lease or Well or are owned by or
+in the possession of the Owner and its Subsidiaries; and (e) all files, records and business data that relate to any Lease or Well
+or any of the business of the Owner and its Subsidiaries.
+
+ 
+
+“Bankruptcy”
+means, with respect to any Person, the occurrence of any of the following events, conditions or circumstances: (i) such Person
+shall file a voluntary petition in bankruptcy or shall be adjudicated as bankrupt or insolvent, or shall file any petition or answer
+or consent seeking any reorganization, arrangement, composition, readjustment, liquidation, dissolution or similar relief for itself
+under the United States Bankruptcy Reform Act of 1978 (the “Bankruptcy Code”) or any present or future
+applicable federal, state or other statute or Law relating to bankruptcy, insolvency, reorganization or other relief for debtors,
+or shall seek or consent to, or acquiesce in, the appointment of any trustee, receiver, conservator or liquidator of such Person
+or of all or any substantial part of its properties (the term “acquiesce,” as used in this definition, includes the
+failure to file a petition or motion to vacate or discharge any order, judgment or decree within 20 days, after entry of such order,
+judgment or decree); (ii) an involuntary case or other proceeding shall be commenced against such Person seeking any reorganization,
+arrangement, composition, readjustment, liquidation, dissolution or similar relief with respect to such Person or its debts under
+the Bankruptcy Code or any present or future applicable federal, state or other statute or Law relating to bankruptcy, insolvency,
+reorganization or other relief for debtors, or seeking the appointment of a trustee, receiver, liquidator, custodian or other similar
+official of it or any substantial part
+
+ 
+
+
+
+
+    2
+     
+    
+
+ 
+
+
+
+
+of its property, and such involuntary
+case or other proceeding shall remain undismissed or unstayed for a period of 90 consecutive days, (iii) a court of competent jurisdiction
+shall enter an order, judgment or decree approving a petition filed against such Person seeking a reorganization, arrangement,
+composition, readjustment, liquidation, dissolution or similar relief under the Bankruptcy Code, or any other present or future
+applicable federal, state or other statute or law relating to bankruptcy, insolvency, reorganization or other relief for debtors,
+and such Person shall acquiesce in the entry of such order, judgment or decree or such order, judgment or decree shall remain unvacated
+and unstayed for an aggregate of 90 days (whether or not consecutive) from the date of entry thereof, or any trustee, receiver,
+conservator or liquidator of such Person or of all or any substantial part of its property shall be appointed without the consent
+or acquiescence of such Person and such appointment shall remain unvacated and unstayed for an aggregate of 90 days (whether or
+not consecutive); (iv) such Person shall admit in writing its inability to pay its debts as they mature or shall generally not
+be paying its debts as they become due; or (v) such Person shall make a general assignment for the benefit of creditors or take
+any other similar action for the protection or benefit of creditors.
+
+ 
+
+“Basket
+Amount” means the following: (i) prior to 90 days following the second Fiscal Year after the occurrence of the Full
+Investment Date, 2.0% of the aggregate capital contributions to AECP LP made on or before such date, and (ii) beginning on the
+90th day following the second Fiscal Year after the occurrence of the Full Investment Date, 2.0% of the after tax present value,
+discounted at 10%, of the cash flows attributable to AECP LP’s consolidated estimated net proved reserves as set forth in
+AECP LP’s financial statements filed with the Securities and Exchange Commission (or, if at any time after the second Fiscal
+Year after the Full Investment Date AECP LP shall no longer be required to file its financial statements with the Securities and
+Exchange Commission, then as set forth in AECP LP’s consolidated financial statements prepared in accordance with GAAP).
+
+ 
+
+“Budget”
+means the budget approved pursuant to Section 3.1(a), as amended and revised from time to time in accordance with Section
+3.1(b).
+
+ 
+
+“Business”
+of the Owner and its subsidiaries is (a) to acquire, hold, maintain, renew, drill, develop, operate and sell working interests,
+net profits interests, leasehold interests, royalties, and other types of oil and gas interests and/or equity interests in corporate,
+limited liability company or partnership entities owning oil and gas interests; (b) to produce, collect, store, treat, deliver,
+market, sell, farm-out or otherwise dispose of oil, gas and related hydrocarbons and minerals from its properties and interests;
+and (c) to take all such other actions incidental to any of the foregoing as may be necessary or desirable.
+
+ 
+
+“Business
+Day” means any day other than Saturday or Sunday or any day on which commercial banks in Oklahoma City, Oklahoma
+or New York, New York are authorized or required by law to close.
+
+ 
+
+“Calendar
+Month” means any of the months in the Gregorian calendar.
+
+ 
+
+
+
+
+    3
+     
+    
+
+ 
+
+“Calendar
+Quarter” means the calendar quarter of each Calendar Year ending March 31, June 30, September 30 and December
+31.
+
+ 
+
+“Calendar
+Year” means a 12 consecutive Calendar Month period commencing on January 1, but the first Calendar Year will begin
+on the Effective Date and the last Calendar Year will end on the date Owner is dissolved.
+
+ 
+
+“Common
+Units” means common units consisting of limited partner interests of AECP LP issued by AECP LP to Investors in the
+Offering.
+
+ 
+
+“Company
+Agreement” means the First Amended and Restated Limited Liability Company Agreement of AECP GP, as same may be amended,
+supplemented or restated during the term of this Agreement.
+
+ 
+
+“Contract
+Purchase Price” means the total consideration, including any “carried interest” consideration or deferred
+or “earn-out” payments when paid by AECP LP or the Owner in connection with the acquisition from any seller(s) of any
+Property Acquisition. With respect to any acquisition that consists, in whole or in part, of the contribution to AECP LP or the
+Owner by the owner(s) of the property Acquisition in consideration for equity interests of AECP LP, such equity interests shall
+be determined to have the fair market value mutually agreed by AECP GP and the Manager.
+
+ 
+
+“Contract
+Sales Price” means the total consideration, including any “carried interest” consideration or deferred
+or “earn-out” payments when received by AECP LP or the Owner for the sale or other disposition of any Assets (other
+than sales of oil, gas and other hydrocarbons produced from the Assets in the ordinary course of business). With respect to any
+sale or disposition of Assets that consists, in whole or in part, of the receipt by AECP LP or the Owner of non-cash consideration,
+such non-cash consideration shall be determined to have the fair market value mutually agreed by AECP GP and the Manager.
+
+ 
+
+“Control”
+(including collective meanings, “controlling,” “controlled by” and “under
+common control with”) means the possession, directly or indirectly, of the power to direct or cause the direction
+of the management and policies of a Person, whether through ownership of voting securities, by contract or otherwise.
+
+ 
+
+“Dealer
+Manager” means Realty Capital Securities, LLC, or such other Person selected by AECP GP to act as the dealer manager
+of the Offering.
+
+ 
+
+“Dealer
+Manager Fee” means a fee of three percent (3.0%) of the Gross Proceeds that is payable to the Dealer Manager for
+serving as the dealer manager of the Offering.
+
+ 
+
+“Default
+Amount” has the meaning specified in Section 5.3.
+
+ 
+
+“Default
+Rate” means, on the date of determination, the Prime Rate (as published in the “Money Rates” table of
+the Wall Street Journal, eastern edition) plus an additional 2.0 percentage points (that is, 200 basis points; or, if such rate
+is at any time contrary to
+
+ 
+
+
+
+
+    4
+     
+    
+
+ 
+
+any applicable Law, then “Default
+Rate” shall be reduced to mean the maximum rate permitted by applicable Law).
+
+ 
+
+“Development
+Activities” means all operations and activities related to the development of the Assets, including the drilling
+of any Development Wells, recompletions, workovers and operations subsequent to a well reaching its objective depth on any Lease
+or other prospect held by the Owner or its subsidiaries and related proposals, activities and operations required to commence and
+sustain production from such well(s), including the design, fabrication or other acquisition, and installation, of a related development
+system.
+
+ 
+
+“Development
+Well” means a well drilled within the proved area of an oil or gas reservoir to the depth of a stratigraphic horizon
+known to be productive.
+
+ 
+
+“Disposition
+Expenses” means any and all expenses, exclusive of Disposition Fees, incurred by AECP LP, the Owner, the Manager
+or any of their Affiliates in connection with the sale or other disposition, or proposed sale or other disposition, of all or any
+portion of the Assets (other than the sale of oil, gas or other hydrocarbons produced from the Assets), whether or not sold or
+otherwise disposed of, including, without limitation, legal fees and expenses, travel, lodging and communications expenses, brokerage
+fees, costs of appraisals, engineering fees and expenses, third party consultant fees and expenses, accounting fees and expenses,
+title insurance premiums and the costs of performing engineering, environmental, title, general land services and other due diligence.
+
+ 
+
+“Disposition
+Fee” means the fee payable to the Manager pursuant to Section 5.4.
+
+ 
+
+“Draft
+Budget” has the meaning specified in Section 3.1(a).
+
+ 
+
+“DRULPA”
+means the Delaware Revised Uniform Limited Partnership Act or any successor statute, as amended from time to time.
+
+ 
+
+“Economic
+Run” means data and other information, delivered in written or electronic formats, necessary to present a base case,
+an upside case and a downside case economic analysis of a Property Acquisition, including, at a minimum and without limitation,
+the following:
+
+ 
+
+(a)	Cash
+flow financial model analysis, including:
+
+ 
+
+(i)	a calculation
+of the Property Acquisition internal rate of return using such assumptions with respect to leverage, debt amortization and general
+and administrative expenses and management fees as Manager and Owner mutually agree at any time and from time to time are appropriate
+for financial modeling purposes with respect to Property Acquisitions; and
+
+ 
+
+(ii)	projected
+financial results from the Property Acquisition;
+
+ 
+
+
+
+
+    5
+     
+    
+
+ 
+
+(b)	supporting
+property-level reserve reports prepared by either qualified internal or independent reserve engineers as determined by the Manager
+in its discretion; and
+
+ 
+
+(c)	a
+cash flow analysis showing the projected impact of the Property Acquisition on the projected cash flow of the Owner.
+
+ 
+
+“Effective
+Date” has the meaning specified in the introductory paragraph of this Agreement.
+
+ 
+
+“Emergency”
+means any sudden or unexpected event which causes, or risks causing, (a) substantial damage to any Asset or the property of a Third
+Party, or (b) death of or injury to any Person, (c) damage or substantial risk of damage to natural resources (including wildlife)
+or the environment, (d) safety concerns associated with continued operations or (e) non-compliance with applicable Law, in each
+case which event is of such a nature that a response cannot, in the reasonable discretion of Manager, await the decision of Owner.
+For the avoidance of doubt, an “Emergency” shall include any release or threatened release of Hazardous Substances
+into the environment that requires notification to any Governmental Authority under applicable Law.
+
+ 
+
+“Employee”
+means each employee or individual independent contractor of Manager.
+
+ 
+
+“Excluded
+Area” means the Utica Shale area in Ohio, West Virginia and Pennsylvania, the Woodford Shale area in Central Northern
+Oklahoma, the Wolfcamp play area of the southern Permian Basin in West Texas and the core of the liquids rich portion of the Marcellus
+Shale play in Northern West Virginia.
+
+ 
+
+“Excluded
+Assets” means leasehold interests, working interests, royalty, overriding royalty, production payments, net profits
+interests and other interests in developed and undeveloped oil and gas properties, including, without limitation, Leases and Wells,
+in the Excluded Area.
+
+ 
+
+“Expense
+Cap” has the meaning specified in Section 5.2(a).
+
+ 
+
+“Farmout”
+means an agreement whereby the owner of the leasehold or working interest agrees to assign its interest in certain specific acreage
+to the assignee, while retaining an interest such as an overriding royalty interest, an oil and gas payment, offset acreage or
+other type of interest, subject to the drilling of one or more specific wells or other performance as a condition of the assignment.
+
+ 
+
+“Financing
+Coordination Fee” has the meaning specified in Section 5.5.
+
+ 
+
+“Force
+Majeure Event” means any cause or event not reasonably within the control of the Party whose performance is sought
+to be excused thereby including the following causes and events (solely to the extent such causes and events are not reasonably
+within the control of the Party claiming suspension), which list of events is not exhaustive: acts of God, strikes, lockouts, or
+other industrial disputes or disturbances,
+
+ 
+
+
+
+
+    6
+     
+    
+
+ 
+
+acts of the public enemy, wars,
+blockades, insurrections, civil disturbances and riots, epidemics, landslides, lightning, earthquakes, fires, tornadoes, hurricanes,
+storms, floods, washouts, excessive rainfall and warnings for any of the foregoing which may necessitate the precautionary shut-down
+of wells, plants, pipelines, gathering systems, or other related facilities; arrests, orders, directives, restraints and requirements
+of governments and government agencies, either federal or state, civil and military; outages (shutdown) for the making of repairs,
+alterations, relocations or inspections; inability to secure labor or materials, inclement weather that necessitates extraordinary
+measures and expense to construct facilities or maintain operations, or any other causes, whether of the kind enumerated herein
+or otherwise, not reasonably within the control of the Party claiming suspension. Such term shall likewise include, in those instances
+where either Party is required to obtain servitudes, rights-of-way, grants, permits, or licenses to enable such Party to fulfill
+its obligations hereunder, the inability of such Party to acquire, or delays on the part of such Party in acquiring, at reasonable
+cost and after the exercise of reasonable diligence, such servitudes, rights-of-way, grants, permits or licenses, and in those
+instances where either Party hereto is required to secured permits or permissions from any Governmental Authority to enable such
+Party to fulfill its obligations hereunder, the inability of such Party to acquire, or delays on the part of such Party in acquiring,
+at reasonable cost and after the exercise of reasonable diligence, such permits and permissions.
+
+ 
+
+“Full
+Investment Date” means the date on which AECP LP has invested, committed for investment or otherwise spent 90% or
+more of the aggregate capital contributions (net of the Dealer Manager Fee, Selling Commissioners, volume discounts, any marketing
+expenses, due diligence expenses and Organization and Offering Expenses) received by AECP LP from the Offering.
+
+ 
+
+“FWPP”
+means the Chesapeake Energy Corporation Founders Well Participation Program, dated as of June 10, 2005.
+
+ 
+
+“FWPP
+Assets” shall mean any assets or properties acquired by Aubrey K. McClendon, directly or through any of his Affiliates
+or by his spouse, in connection with or pursuant to the FWPP.
+
+ 
+
+“FWPP
+Opportunity” shall mean any right of Aubrey K. McClendon or any entity of which he is an Affiliate to acquire a working
+interest in any oil and gas property pursuant to the FWPP.
+
+ 
+
+“GAAP”
+means generally accepted accounting principles, as recognized by the U.S. Financial Accounting Standards Board (or any generally
+recognized successor).
+
+ 
+
+“General
+Parameters” means the general parameters for a Property Acquisition as the Manager and Owner may mutually agree at
+any time and as same may thereafter be amended, modified or superseded by mutual agreement of the Manager and Owner, which general
+parameters shall include, without limitation, general parameters for terms and conditions of Property Acquisitions with respect
+to title, environmental, other
+
+ 
+
+
+
+
+    7
+     
+    
+
+ 
+
+liabilities, indemnification,
+gas imbalances, conditions to closing and other matters mutually determined to be appropriate.
+
+ 
+
+“General
+Partner” means AECP GP, in its capacity as the general partner of AECP LP.
+
+ 
+
+“Governmental
+Authority” means any federal, national, regional, state, municipal or local government, any political subdivision
+or any governmental, judicial, public or statutory instrumentality, tribunal, court, arbitral panel, or other regulatory bureau,
+authority, body or entity having legal jurisdiction over the matter or Person in question.
+
+ 
+
+“Gross
+Proceeds” means the aggregate sales price of all Common Units issued by AECP LP to Investors in the Offering, without
+deduction for the Dealer Manager Fee, Selling Commissions, volume discounts, any marketing expense and due diligence expense reimbursement
+or Organization and Offering Expenses.
+
+ 
+
+“Hazardous
+Substances” means any pollutants, contaminants, toxic or hazardous substances, materials, wastes, constituents, compounds
+or chemicals that are regulated by, or may form the basis of liability under any environmental Laws, including asbestos-containing
+materials (but excluding any NORM).
+
+ 
+
+“Hedging
+Policy” means a policy or policy with respect to Hedges that Owner approves as the Hedging Policy of the Owner from
+time to time.
+
+ 
+
+“Hedges”
+means any commodity futures contract, commodity swap, commodity option, commodity forward sale, commodity put, call or collar or
+other similar agreement or arrangement designed to protect against fluctuations in the price of oil, gas or other hydrocarbons
+used, sold or produced by a person.
+
+ 
+
+“Holdings”
+means AECP Holdings, LLC, an affiliate of the Manager.
+
+ 
+
+“Initial
+Closing” means the initial closing of the purchase of Common Units from AECP LP by Investors pursuant to the Offering.
+
+ 
+
+“Initial
+Purchase Price” means $20.00, the amount paid by the Investors to AECP LP to purchase Common Units in the Offering.
+
+ 
+
+“Initial
+Term” has the meaning specified in Section 10.1.
+
+ 
+
+“Insured”
+has the meaning specified in Section 7.5.
+
+ 
+
+“Investors”
+means Purchasers of Common Units from AECP LP pursuant to the Offering.
+
+ 
+
+“Invoice”
+has the meaning specified in Section 5.1.
+
+ 
+
+“Joint
+Venture” means any partnership, limited partnership or other arrangements with a Person(s) other than AECP LP or
+the Owner in which AECP LP or the Owner is a
+
+ 
+
+
+
+
+    8
+     
+    
+
+ 
+
+member, partner or co-venturer
+and which is established to own, operate or develop Property Acquisitions.
+
+ 
+
+“Law”
+means any and all applicable laws, statutes, ordinances, permits, decrees, rulings, writs, injunctions, orders, codes, judgments,
+principles of common law, rules or regulations which are promulgated, issued or enacted by a Governmental Authority having jurisdiction.
+
+ 
+
+“Lease
+Operations” means all necessary or useful lease and land administration services and maintaining all land, lease
+and other related records (including title to the Owner’s Assets and the maintenance and curing of the same) and all technical,
+regulatory, permitting and marketing supervision and oversight determined by the Manager to be necessary or appropriate to assure
+that the Owner’s Assets are being explored, developed, produced, gathered and operated in accordance with this Agreement,
+including the Exhibits hereto, and applicable contracts and agreements.
+
+ 
+
+“Leases”
+means the oil, gas and mineral leases and operating rights now owned or hereafter participated in or acquired by the Owner as of
+the date of determination.
+
+ 
+
+“Listing
+Date” has the meaning assigned to such term in the Partnership Agreement.
+
+ 
+
+“Loan(s)”
+means any indebtedness or obligation in respect of borrowed money or evidenced by bonds, notes, debentures, deeds of trust, letters
+of credit, volumetric production payments, or similar instruments, including secured loans and mezzanine loans.
+
+ 
+
+“Management
+Services” has the meaning specified in Exhibit A.
+
+ 
+
+“Manager”
+has the meaning specified in the introductory paragraph of this Agreement.
+
+ 
+
+“Manager
+Indemnified Parties” has the meaning specified in Section 11.1.
+
+ 
+
+“Manager
+Personnel” means the officers and employees of the Manager, the officers and employees of Affiliates of the Manager,
+and all other persons otherwise engaged by the Manager for the provision of the Management Services hereunder.
+
+ 
+
+“Material
+Adverse Effect” shall mean any event, circumstance, change or effect (a) that is material and adverse to the business,
+assets, properties, liabilities, financial condition or results of operations of AECP, the Owner and any subsidiaries thereof,
+determined on a consolidated basis, if applicable.
+
+ 
+
+“Material
+Commitment” means any agreement, contract or other arrangement binding on Owner or any of its subsidiaries which
+could reasonably be expected to result in payments by the Owner or any of its subsidiaries of more than the Basket Amount then
+in effect or that AECP GP or Owner advises the Manager would otherwise qualify as a material contract under Regulation S-K of the
+Securities Act of 1933.
+
+ 
+
+
+
+
+    9
+     
+    
+
+ 
+
+“Monthly
+Management Fee” has the meaning specified in Section 5.1.
+
+ 
+
+“NASAA
+Guidelines” means the guidelines adopted September 22, 1976 by the North American Securities Administrators Association,
+Inc. relating to the registration of Oil and Gas Programs, as amended and in effect at the time the determination is made pursuant
+to this Agreement.
+
+ 
+
+“Offering”
+means the best efforts registered public offering of Common Units consisting of (i) a minimum offering of 100,000 Common Units
+at the Initial Purchase Price per Common Unit for Gross Proceeds of $2.0 million at the Initial Purchase and (ii) a maximum
+offering of 100.0 million Common Units for Gross Proceeds of up to $2.0 billion.
+
+ 
+
+“Offering
+Termination Date” has the meaning assigned to such term in the Partnership Agreement.
+
+ 
+
+“Operating
+Agreement” means (i) the operating agreements, gas balancing agreements, and participation agreements (including
+the applicable Accounting Procedures) which relate to the Assets or any of the Leases and other agreements governing the drilling
+and operation of and accounting for the Leases, and (ii) with respect to Leases owned entirely by the Owner and not already subject
+to an operating agreement at the time of acquisition by the Owner, the form of operating agreement attached as Exhibit D
+with such additions or modifications thereto as the Manager determines to be necessary or appropriate for the particular Assets
+to be subject thereto or for the operations to be conducted thereon.
+
+ 
+
+“Operator”
+means the person appointed as Operator of any Asset owned by Owner pursuant to an Operating Agreement, which shall be (a) the Manager
+or an Affiliate of the Manager with respect to Assets operated by the Manager or an Affiliate of Manager pursuant to Section
+2.7 and (b) the Third Party designated as operator with respect to Assets not operated by the Manager or an Affiliate of the
+Manager.
+
+ 
+
+“Operating
+Services” has the meaning specified in Exhibit A.
+
+ 
+
+“Organization
+and Offering Expenses” means all costs and expenses of organizing and selling the Offering (other than the Selling
+Commissions and the Dealer Manager Fees) paid by AECP LP, AECP GP or the Manager in connection with the Offering, including, but
+not limited to, travel and lodging costs, fees of the underwriters' attorneys, expenses for printing, engraving, mailing, filing,
+salaries of employees while engaged in sales activity, costs of Investor meetings, charges of transfer agents, registrars, trustees,
+escrow holders or escrow agent, depositaries, engineers and their experts, expenses of qualification of the sale of the Common
+Units under Federal and State law, including taxes and fees, accountants' and attorneys' fees and other front-end fees, charges
+incurred by or on behalf of AECP GP or the Manager in connection with the formation of AECP LP, the Owner and the Manager, the
+preparation, negotiation, and execution of the Partnership Agreement, this Agreement, any dealer manager or soliciting dealer agreement,
+escrow agent agreement subscription agreement and any other
+
+ 
+
+
+
+
+    10
+     
+    
+
+ 
+
+agreement in connection with
+or relating to the Offering, issuance of Common Units in the Offering and reimbursement of AECP LP, AECP GP or the Manager for
+costs in connection with preparing supplemental sales materials.
+
+ 
+
+“OrgOff
+Reimbursement Amount” has the meaning specified in Section 5.2(a).
+
+ 
+
+“Out-of-Pocket
+Expenses” has the meaning specified in Section 5.2(c).
+
+ 
+
+“Owner”
+has the meaning specified in the introductory paragraph of this Agreement and, unless the context otherwise requires, includes
+the subsidiaries of the Owner.
+
+ 
+
+“Owner
+Agreement” means the First Amended and Restated Limited Liability Company Agreement of Owner, as same may be amended,
+supplemented or restated during the term of this Agreement.
+
+ 
+
+“Owner
+Indemnified Parties” has the meaning specified in Section 11.2.
+
+ 
+
+“Parties”
+has the meaning specified in the introductory paragraph.
+
+ 
+
+“Partnership
+Agreement” means the First Amended and Restated Agreement of Limited Partnership of AECP LP, as same may be amended,
+supplemented or restated during the term of this Agreement.
+
+ 
+
+“Permitted
+Investment” means (a) any evidence of indebtedness, maturing not more than one (1) year after the date of issuance,
+issued or guaranteed by the United States Government, (b) commercial paper, maturing not more than nine (9) months from the
+date of issue, which is issued by a corporation (other than an Affiliate of the Manager) organized under the laws of any state
+of the United States or of the District of Columbia and rated A-l by Standard & Poor's Ratings Group, or any successor thereto,
+or P-l by Moody's Investors Service, Inc., (c) any certificate of deposit or bankers acceptance, maturing not more than one
+(1) year after the date of issuance, which is issued by a commercial banking institution that is a member of the U.S. Federal Reserve
+System and has a combined capital and surplus and undivided profits of not less than $500,000,000, or (d) any repurchase agreement
+entered into with any commercial banking institution of the stature referred to in clause (c) which (i) is secured
+by a fully perfected security interest in any obligation of the type described in any of clauses (a) through (c),
+and (ii) has a market value at the time such repurchase agreement is entered into of not less than 100% of the repurchase obligation
+of such commercial banking institution thereunder.
+
+ 
+
+“Permits”
+has the meaning specified in Exhibit A.
+
+ 
+
+“Person”
+(whether or not capitalized) means any natural person, corporation, company, limited or general partnership, joint stock company,
+joint venture, association, limited liability company, trust, bank, trust company, land trust, business trust or other entity or
+organization, whether or not a Governmental Authority.
+
+ 
+
+
+
+
+    11
+     
+    
+
+ 
+
+“Property
+Acquisition” means any acquisition or proposed acquisition of developed and undeveloped producing or non-producing
+oil and gas properties (generally consisting of Leases and Wells) where such properties are located onshore in the United States,
+but excluding any Excluded Assets and any FWPP Opportunity.
+
+ 
+
+“Proposal”
+has the meaning specified in Section 9.1(c).
+
+ 
+
+‘‘Prospect’’
+means an area covering lands which are believed by the Owner to contain subsurface structural or stratigraphic conditions making
+it susceptible to the accumulations of hydrocarbons in commercially productive quantities at one or more Horizons. The area, which
+may be different for different Horizons, shall be designated by the General Partner in writing prior to the conduct of Partnership
+operations and shall be enlarged or contracted from time to time on the basis of subsequently acquired information to define the
+anticipated limits of the associated hydrocarbon reserves and to include all acreage encompassed therein. A ‘‘Prospect’’
+with respect to a particular Horizon may be limited to the minimum area permitted by state law or local practice, whichever is
+applicable, to protect against drainage from adjacent wells if the well to be drilled by AECP LP is to a Horizon containing Proved
+Reserves. As used in this definition, the term “Horizon” means with respect to a zone of a particular formation, that
+part of a formation of sufficient porosity and permeability to form a petroleum reservoir.
+
+ 
+
+“Reasonably
+Prudent Operator” means conducting the applicable activities as a reasonably prudent operator, in a good and workmanlike
+manner, with due diligence and dispatch, in accordance with good oilfield practice, and in compliance with applicable law and regulation,
+but with no liability for losses sustained or liabilities incurred, except as such may result from gross negligence or willful
+misconduct.
+
+ 
+
+“Records”
+has the meaning specified in Section 2.4.
+
+ 
+
+“Rejected
+Proposal” has the meaning specified in Section 9.1(b).
+
+ 
+
+“Selling
+Commission(s)” means the fee(s) payable to the Dealer Manager and reallowable to Soliciting Dealers with respect
+to Common Units sold by them in the Offering.
+
+ 
+
+“Services”
+has the meaning set forth in Section 2.1.
+
+ 
+
+“Soliciting
+Dealers” means broker-dealers that are members of the Financial Industry Regulatory Authority Inc., or that are exempt
+from broker-dealer registration, and that, in either case, have executed soliciting dealer or other agreements with the Dealer
+Manager to sell Common Units in the Offering.
+
+ 
+
+“Term”
+has the meaning specified in Section 10.1.
+
+ 
+
+“Third
+Party” means any Person other than a Party to this Agreement or any Affiliate of a Party to this Agreement.
+
+ 
+
+
+
+
+    12
+     
+    
+
+ 
+
+“Wells”
+means all oil, gas and other hydrocarbon wells now owned or hereafter participated in or acquired by the Owner.
+
+ 
+
+Section 1.2	References
+and Titles. All references in this Agreement to Exhibits, Schedules, Sections, paragraphs, subsections and other subdivisions
+refer to the corresponding Exhibits, Schedules, Sections, paragraphs, subsections and other subdivisions of or to this Agreement
+unless expressly provided otherwise. The words “this Agreement,” “herein,” “hereby,” “hereunder”
+and “hereof,” and words of similar import, refer to this Agreement as a whole and not to any particular Section, subsection
+or other subdivision unless expressly so limited. The word “including” (in its various forms) means including without
+limitation. All references to “$” or “dollars” shall be deemed references to United States Dollars. Titles
+appearing at the beginning of any Sections, subsections or other subdivisions of this Agreement are for convenience only, do not
+constitute any part of this Agreement, and shall be disregarded in construing the language hereof. The words “this Agreement,”
+“here,” “hereby,” “hereunder’’ and “hereof,” and words of similar import,
+refer to this Agreement as a whole and not to any particular subdivision unless expressly so limited. The words “this Section”
+and “this subsection,” and words of similar import, refer only to Section or subsection hereof in which such words
+occur. The word “or” is not exclusive. Each accounting term not defined herein, and each accounting term partly defined
+herein to the extent not defined, will have the meaning given to it under GAAP. Exhibits and Schedules referred to herein are attached
+to and by this reference incorporated herein for all purposes. Pronouns in masculine, feminine or neuter genders shall be construed
+to state and include any other gender, and words, terms and titles (including terms defined herein) in the singular form shall
+be construed to include the plural and vice versa, unless the context otherwise requires. References to any Law or agreement (or
+contract) means such Law or agreement (or contract) as it may be amended from time-to-time. If an ambiguity, question of intent
+or question of interpretation arises, this Agreement must be construed as if drafted jointly, and there must not be any presumption,
+inference or conclusion drawn against either Party by virtue of the fact that its representatives have authored this Agreement
+or any of its terms. Any reference to an agreement or contract herein shall include any amendment, modification or replacement
+thereof that is in accordance with the provisions of this Agreement.
+
+ 
+
+ARTICLE
+II
+Management Services
+
+ 
+
+Section 2.1	Engagement
+of Manager. Commencing on the Effective Date, the Owner hereby appoints, retains and authorizes the Manager, and the Manager
+hereby accepts and agrees, to perform the Management Services and Operating Services (collectively, the “Services”)
+during the Term at all times in accordance with the terms and conditions set forth in this Agreement.
+
+ 
+
+Section 2.2	Direction
+of Result of Management Services. Except with respect to the means or method by which the Manager performs the Services (which
+shall be subject to the good faith direction or control of the Manager), the provision of the Services hereunder shall at all times
+be subject to the direction of the Owner, including, without limitation, the Owner’s right, subject to Section 3.5,
+to direct the Manager with respect to funds held in any Owner’s account(s) managed by the Manager. The Parties acknowledge
+that the Owner’s need for and
+
+ 
+
+
+
+
+    13
+     
+    
+
+ 
+
+scope of the Services may change from time to time depending on the nature, number and size
+of the interests comprising the Assets held by the Owner at any given time, and Owner reserves the right to change the scope of
+the Services consistent with Exhibit A from time to time by mutual agreement with the Manager.
+
+ 
+
+Section 2.3	Management
+Standards. Subject to the terms hereof, the Manager will act in compliance with the provisions of this Agreement and, where
+this Agreement does not specifically establish a particular obligation or standard, (a) with respect to Assets subject to an Operating
+Agreement of which Manager or an Affiliate of the Manager is the Operator (and if the Owner or any of its subsidiaries is designated
+as the Operator of any Assets Owner shall take such actions as are necessary or appropriate to cause the Manager (or its designated
+Affiliate) to be designated as the Operator of same), in compliance with the terms of such Operating Agreement as they apply to
+the Assets; (b) with respect to Assets subject to an operating agreement of which the Manager (or its designated Affiliate)
+is not the Operator, as a Reasonably Prudent Operator consistent with generally acceptable standards for non-operated properties
+in the oil and gas business based on information regarding such operations furnished or otherwise obtained by the Manager and (c)
+with respect to Assets or business of the Owner not subject to an Operating Agreement, in a manner consistent with generally acceptable
+standards in the oil and gas business. The Manager shall have no obligation to advance funds for the account of the Owner or to
+pay any sums of its own in connection with the performance of the actions which it is authorized or required to take on behalf
+of the Owner hereunder.
+
+ 
+
+Section 2.4	Records;
+Financial Reports; Instruments of Service. At all times during the Term, the Manager shall maintain complete books of account,
+receipts, disbursements, Permits and all other records relating to the Services performed hereunder (the “Records”),
+and all accounting Records shall be maintained in accordance with GAAP. The Manager shall deliver (i) monthly financial and operating
+reports to Owner in respect of the most recently ended Calendar Month in a form requested and as may be required by Owner, but
+in any event no later than 30 days after the end of each Calendar Month, and (ii) quarterly cash flow forecasts for Owner as may
+be required by Owner, but in any event no later than 15 days prior to the start of the applicable Calendar Quarter. Further, the
+Manager shall prepare and submit to Owner a monthly management report in respect of the most recently ended Calendar Month with
+such information as Owner may request, as well as any other information (without regard to whether relating to such Calendar Month)
+that Owner may request. Owner and/or any representatives designated by Owner may at any time during normal business hours, upon
+not less than two (2) Business Days’ advance notice, examine and/or make and retain copies of said Records. Upon the request
+from Owner to the Manager given at any time or from time to time, the Manager shall furnish to Owner a report setting forth the
+borrowing, hedging transactions and intangible drilling costs made or incurred during the preceding six-month period and such other
+information as Owner may reasonably request and as is available to the Manager in order to permit Owner to comply with the reporting
+requirements of the NASAA Guidelines as then in effect.
+
+ 
+
+Section 2.5	Certain
+Limitations on Management Services. It is the intent of Owner and the Manager to maintain the separate corporate existence
+of both entities, to hold themselves out to others as separate corporate entities and to conduct their respective businesses in
+a manner which respects and preserves their separate identities. Owner and the Manager also acknowledge and agree that AECP LP,
+as the sole member of Owner, is relying on the establishment and
+
+ 
+
+
+
+
+    14
+     
+    
+
+ 
+
+maintenance of the separate corporate entity of Owner. Accordingly,
+the Manager will provide the Management Services, and the Owner will operate its business, consistent with this intent. Without
+limiting the foregoing, the Manager, to the extent applicable when providing Management Services on behalf of Owner, shall (i)
+maintain proper books and records that show the assets, liabilities, and transactions of the Owner separate from those of any other
+person and prepare financial statements for Owner in the same manner, (ii) not commingle the funds received by the Manager on behalf
+of the Owner with any other person’s funds, including those of the Manager, (iii) pay liabilities and expenses invoiced directly
+to the Owner or its Assets only out of the Owner’s own funds maintained by or on behalf of Owner, and (iv) maintain separate
+bank accounts belonging only to, or maintained by the Owner. Nothing in this Agreement shall prohibit the Manager and Owner from
+acknowledging to third parties their status as parties to this Agreement.
+
+ 
+
+Section 2.6	Well
+Operations. If the interest of the Owner in a Lease (together with any interest owned by the Manager and its Affiliates) entitles
+the Owner to appoint the Operator of the property, then Owner shall take such actions as are necessary to designate the Manager
+(or its designated Affiliate) as the Operator and the Manager (or its designated Affiliate) shall use its reasonable commercial
+efforts to assist the Owner to take such actions as are necessary to designate the Manager (or its designated Affiliate) as the
+Operator of such property, which designation shall be pursuant to either (i) the operating agreement currently in effect with respect
+to a property acquired by the Owner or (ii) if any of such properties are not currently operated pursuant to an operating agreement,
+an operating agreement (which is based on a modified form of operating agreement issued by the American Association of Petroleum
+Landmen), including COPAS (which is based on a form issued by the Counsel for Petroleum Accountants Societies of North America),
+in the form attached hereto as Exhibit D, with such additions or modifications thereto as the Manager determines to be necessary
+or appropriate for the particular Assets to be subject thereto or for the operations to be conducted thereon, and provided that
+the consideration payable to the Manager (or its designated Affiliate) pursuant to such operating agreement shall not exceed the
+compensation determined by the General Partner to be payable to third parties for similar operator services in the applicable geographic
+area of the applicable Assets subject to the operating agreement. To the extent any of the Services described herein are duplicative
+of services to be provided by the Manager or any of its Affiliates under any joint operating agreement or other agreement, then
+the Manager shall so advise Owner of such duplicative services, and, unless Owner and the Manager otherwise mutually agree, no
+additional obligations will be incurred or implied by any of the terms of this Agreement, and such joint operating agreements or
+other agreement (and not this Agreement) will govern the terms of such services. Neither the Manager nor any designated Affiliate
+will act as drilling contractor and provide contract drilling operations for any Wells on behalf of Owner.
+
+ 
+
+Section 2.7	Limitations
+on Farmouts to Affiliates of the Manager. The Manager shall not cause the Owner to enter into a Farmout of an undeveloped Lease
+or Well activity to the Manager or an Affiliate(s) of the Manager (pursuant to which the Manager or such Affiliate(s) is the assignee
+from Owner) unless (a) the General Partner has determined that the price the Owner receives from the Manager or such Affiliate,
+as the case may be, is not less than the higher of (i) the Owner’s costs for the interests assigned in such Farmout
+to the Manager or such Affiliate, as the case may be, and (ii) the fair market value of such interests as determined by the Owner
+in such manner as it determines to be appropriate and the other terms and conditions are determined
+
+ 
+
+
+
+
+    15
+     
+    
+
+ 
+
+by the Owner to be fair and
+reasonable, and (b) the General Partner exercising the standard of a prudent operator, has determined the following:
+
+ 
+
+
+(i)the Owner lacks the funds to complete the oil and gas operations on the Lease or Well and cannot
+obtain suitable financing therefor;
+
+ 
+
+
+(ii)drilling on the Lease or the intended Well activity would concentrate excessive funds in a single
+location, creating undue risks to the Owner;
+
+ 
+
+
+(iii)the Lease(s) or Well activity has been downgraded by events occurring after assignment to or acquisition
+by Owner so that development of the Leases or Well activity would not be desirable; or
+
+ 
+
+
+(iv)the best interests of AECP LP would be served by such a Farmout.
+
+ 
+
+If the Owner assigns by Farmout a Lease
+or Well activity to the Manager or an Affiliate of the Manager, the Manager acknowledges and agrees that Owner must retain the
+economic interests and concessions as the General Partner determines to be appropriate and consistent with the General Partner’s
+determination of those items that a reasonably prudent operator would or could retain under the circumstances prevailing at the
+time, consistent with industry practices.
+
+ 
+
+Section 2.8	Limitation
+on Rendering Certain Oilfield Equipment, Supplies and Services. (a) Except for services to be rendered by the Manager or any
+of its Affiliates pursuant to this Agreement or any operating agreement referred to in Section 2.6, neither the Manager
+nor any of its Affiliates shall (i) render to Owner any oilfield equipment, supplies or services or (ii) sell or lease
+to Owner any oilfield equipment or related supplies unless:
+
+ 
+
+(A)	the
+Person to render or provide same is engaged, independently of Owner and as an ordinary and ongoing business, in the business of
+rendering similar equipment, supplies or services or selling or leasing similar equipment and supplies to Persons in the oil and
+natural gas industry other than to any oil and gas drilling programs sponsored by the General Partner or any Affiliate of the General
+Partner and in which the General Partner or any Affiliate of the General Partner has an interest; and
+
+ 
+
+(B)	the
+compensation, purchase price or rental for any such equipment or supplies is determined by the General Partner to be competitive
+with the compensation, purchase price or rental of other persons in the geographic area engaged in the business of rendering comparable
+services or selling or leasing comparable equipment and supplies which could reasonably be made available to the Partnership.
+
+ 
+
+If the Manager or any of its Affiliates
+that is to render oilfield equipment, supplies or services does not satisfy the condition set forth in sub-clause (A) of the preceding
+sentence, then the compensation, purchase price or rental therefor shall be the lesser of (i) the cost of the equipment, supplies
+or services incurred by the Manager or such Affiliate for same, and (ii) the competitive rate which could be obtained by Owner
+in the geographic area as determined by the General Partner.
+
+ 
+
+
+
+
+    16
+     
+    
+
+ 
+
+(b)	Any services for which the Manager
+or any of its Affiliates is to receive compensation from Owner that do not constitute Services to be rendered pursuant to this
+Agreement or any operating agreement contemplated by Section 2.6, shall be set forth in a written contract which describes
+the services to be rendered and all compensation to be paid. Any written contract referred to in this Section 2.8(b) shall
+be terminable without penalty by Owner upon the approval at a special meeting of the holders of Common Units called for the purpose
+of voting to terminate this Agreement, which approval is by the holders of not less than a majority of the Common Units outstanding
+as of the record date established for such special meeting excluding for purposes of such determination Common Units and any vote
+in respect thereof owned by the General Partner or its sponsor or any Affiliate(s) thereof, except that upon any such termination
+Owner shall pay Manager or such Affiliate all unpaid amounts due thereunder, Owner shall reimburse the Manager or its Affiliate
+for any restocking expenses specified in such terminated contract to the extent applicable and Owner shall reimburse the Manager
+or its Affiliate for all such other reasonably documented costs and expenses incurred as a result of such termination.
+
+ 
+
+ARTICLE
+III
+Financial Administration
+
+ 
+
+Section 3.1	Budget.
+
+ 
+
+(A)	Annual
+Budget Process. The Manager shall prepare and submit to Owner at least 45 days before the beginning of each Calendar Year after
+the first Property Acquisition by Owner, a budget (“Draft Budget”) detailing the Development Activities
+planned to be commenced during the relevant Calendar Year, which shall specify the amounts expected to be spent by the Owner during
+such Calendar Year to conduct such Development Activities, and to otherwise own its Assets and conduct the Business during such
+Calendar Year; provided that in connection with the first acquisition made by the Owner, the Manager shall deliver a Draft Budget
+to Owner in connection with such acquisition as contemplated by Section 9.2(a). The Owner shall approve or disapprove the
+Draft Budget no later than 15 days prior to the start of the Calendar Year; provided that the first Draft Budget shall be approved
+as provided in Section 9.2(a). If the Owner approves the Draft Budget, the Draft Budget shall be deemed the Budget
+for purposes of this Agreement, until revised in accordance with Section 3.1(b) below. If the Owner fails to approve a Draft
+Budget by the commencement of a Calendar Year, then until a Draft Budget for such Calendar Year is approved, the Manager is authorized
+to pay from the Owner’s account the costs and expenses incurred in the ordinary course of business in amounts materially
+consistent with, and for Development Activities and other activities set forth in, the prior Calendar Year’s Budget as adjusted
+for supplements to such Budget attributable to any subsequent Property Acquisition(s), including in respect of costs and expenses
+to the extent incurred pursuant to the contractual obligations of the Owner, including any Material Commitments, and other costs
+and expenses approved as provided in this Agreement.
+
+ 
+
+(B)	Approval
+of Additional Activities. From time to time prior to the termination of this Agreement, the Manager may present to Owner supplemental
+Development Activities or other activities that the Manager proposes to be undertaken by
+
+ 
+
+
+
+
+    17
+     
+    
+
+ 
+
+
+
+
+the Owner and that are not included
+in the applicable approved Budget for such Calendar Year, and revisions to a previously approved Budget that the Manager recommends
+be adopted by Owner. If Owner approves such revised Budget, the revised Budget shall be deemed the Budget as used in this Agreement.
+In addition, the Budget shall be deemed to be amended as provided in Section 9.2(b).
+
+ 
+
+(C)	Cooperation.
+Prior to and in respect of any proposals made by the Manager to Owner pursuant to Section 3.1(b), the Manager and Owner
+agree to use good faith efforts (1) to exchange information regarding such proposals and proposed activities to be undertaken in
+connection with any such proposal or potential alternatives to any such proposal and (2) to ensure an efficient and expedient review
+and decision-making process in respect of such proposals. In addition, upon the reasonable request of Owner to the Manager, which
+may be submitted no more frequently than once each Calendar Quarter, the Owner will have the right to review with the Manager the
+current year’s Budget against expenditures incurred to date during the Calendar Year covered by such Budget.
+
+ 
+
+(D)	Permitted
+Overruns. Whenever any provision of this Agreement permits the Manager to make an expenditure or conduct a Development Activity
+or other operation as provided in the Budget, the Manager will be deemed to have made such expenditure or conducted such Development
+Activity or other operation as contemplated by the Budget if (1) the aggregate expenditures during any Budget period do not
+exceed the amount set forth in the approved Budget for such Budget period for such Development Activity or other operation by more
+than 10.0% (provided that the Manager shall advise Owner of such excess(es) within ten (10) Business Days after it is incurred)
+or (2) the expenditure(s) are determined by the Manager to be required in connection with an Emergency.
+
+ 
+
+Section 3.2	Cash
+Management. The Manager shall have a fiduciary responsibility to the Owner for the safekeeping and use of all Owner’s
+funds and, subject to the limitation below with respect to operations on Owner’s Leases, Wells and other oil and gas properties,
+other Assets whether or not in the Manager’s possession or control, the Manager shall not employ, or permit any other Person
+to employ, such funds or Assets in any manner except for the exclusive benefit of the Owner, and the Manager shall not use the
+Owner’s funds as a compensating balance for the Manager’s benefit; provided, however, that the Manager’s
+responsibility with respect to operations on Owner’s Leases, Wells and other oil and gas properties shall be as set forth
+in Section 2.6 and under the defined term “Operating Services” in Exhibit A. The Manager shall implement
+a cash management system for the cash and cash equivalents of the Owner, the Manager shall not commingle Owner’s funds with
+those of the Manager or its Affiliates, and funds of the Owner held by the Manager shall be employed or applied for the exclusive
+benefit of Owner. The Manager shall invest any cash held on behalf of the Owner only in Permitted Investments and shall hold all
+such Permitted Investments and any cash in trust on behalf of the Owner. The Manager shall as promptly as commercially practicable
+deposit all cash and Permitted Investments held on behalf of Owner in excess of 50% of the then remaining unexpended portion of
+the approved Budget as directed by Owner in one or more accounts of Owner.
+
+ 
+
+
+
+
+    18
+     
+    
+
+ 
+
+Section 3.3	Revenues
+and Joint Interest Billings. The Manager shall receive all revenues and joint interest billings for the account of the Owner
+and promptly credit or charge, as the case may be, the Owner with the Owner’s net revenue and joint interest billings with
+respect to its properties, on a property-by-property basis.
+
+ 
+
+Section 3.4	Manager
+Payments. From time to time, Manager shall pay, unless otherwise instructed by Owner, from the Owner’s funds administered
+by the Manager, as and to the extent required by any applicable contract, or Law and, to the Manager’s knowledge, to the
+extent not previously paid by any purchaser, operator or Third Party, in each case to the extent such liability is attributable
+to the Owner’s interest in a property or otherwise an obligation of Owner, all taxes, royalties, overriding royalties, delay
+rentals, operating expenses and other charges under operating agreements, debt service on the Owner’s debts, the OrgOff Reimbursement
+Amount, the Monthly Management Fee, Acquisition Fee, Disposition Fee, Financing Fee and Incentive Performance Fee (which shall
+be paid to the Manager in accordance with Article V) and other debts and obligations of the Owner (including the costs to
+be reimbursed to the Manager pursuant to Section 5.2).
+
+ 
+
+Section 3.5	Payment
+to Owner. As contemplated pursuant to Section 2.2, the Owner may, from time to time, direct the Manager to transfer
+to an account specified by the Owner funds in accounts maintained for Owner by the Manager that the Owner and the Manager mutually
+agree either (a) are not necessary for the conduct of the Owner’s business as contemplated by the Budget then in effect (for
+purposes of determining the funds necessary to be retained, taking into account, among other items, funds required in accordance
+with the Budget then in effect for working capital purposes, reserves for capital expenditures, reserves for payments due to the
+Manager pursuant to Article V and reserves for an approved Property Acquisition; provided, however, that if
+in accordance with the direction by Owner of the Manager in accordance with Section 2.2 or Section 3.4 or otherwise
+an activity contemplated in the Budget then in effect and for which funds are retained is not consummated, then any remaining funds
+reserved therefor will then be transferred to the Owner pursuant to this Section 3.5); or (b) constitute proceeds from
+the sale of Common Units in the Offering that prior to the first anniversary of the Offering Termination Date have not been used
+or committed for use in the acquisition, development or operation of Assets or in the operation of Owner’s business and are
+determined not to be necessary to fund the operating or working capital necessary for the Owner’s operations, including operations
+by the Manager and its Affiliates pursuant to this Agreement.
+
+ 
+
+ARTICLE
+IV
+Contract Administration; Power of Attorney
+
+ 
+
+Section 4.1	Contract
+Administration. The Services shall include negotiating, administering and terminating contracts, by and on behalf of the Owner,
+in the ordinary course of Business, but in all cases in compliance with the Budget. All such contracts shall be executed by the
+Manager in the name of the Owner, pursuant to the power of attorney granted herein.
+
+ 
+
+Section 4.2	Purchases
+for the Owner. The day-to-day operations and management of the Owner’s Business shall include the purchase (or lease)
+of such equipment, supplies and other
+
+ 
+
+
+
+
+    19
+     
+    
+
+ 
+
+goods necessary for the efficient operation of the Owner’s Business and as shall be
+consistent with the Budget. Purchases shall be made only at reasonable costs.
+
+ 
+
+Section 4.3	Affiliate
+Transactions. The Manager shall not make or cause the Owner to make any contract (other than an Operating Agreement as provided
+herein) with or purchase or sell goods or services from or to the Manager or any Affiliate of the Manager, unless such contract
+or purchase or sale is specifically identified as an Affiliate transaction in the Budget, or with the prior written approval of
+Owner. Nothing in this Section 4.3 shall be construed to limit or restrict the right of the Manager to engage, or require
+Owner’s prior approval of the engagement by Manager of, any Affiliate of Manager to perform any of the Services on behalf
+of the Manager so long as the Affiliate of Manager is not entitled to any payment by Owner for providing such Services.
+
+ 
+
+Section 4.4	Power
+of Attorney. (a) By execution of this Agreement, the Owner does hereby make, constitute and appoint the Manager, and its successors,
+with full power of substitution, as its true and lawful attorney and agent with full power and authority in its name, place and
+stead to execute, swear to, acknowledge, deliver, file, record in the appropriate public offices and publish any and all contracts,
+agreements, instruments, conveyances, mortgages, deeds, notes and other documents of any kind or nature related to, arising out
+of or in connection with the Manager's performance of this Agreement.
+
+ 
+
+(b)	During the Term
+of this Agreement, the power of attorney granted in this Section 4.4 shall survive the Bankruptcy, dissolution or other
+termination of the Owner, shall extend and be binding upon the Owner's successors and assigns and shall continue in full force
+and effect regardless of the occurrence of any of the foregoing. The Owner hereby agrees to be bound by any such contracts, agreements,
+instruments, conveyances, mortgages, deeds, notes and other documents executed or otherwise entered into by the attorney and agent
+acting in good faith pursuant hereto and pursuant to such power of attorney, and hereby waives any and all defenses that may be
+available to contest, negate, or disaffirm any action of the attorney and agent taken under such power of attorney, except in cases
+of bad faith, gross negligence, willful misconduct or material breach of this Agreement.
+
+ 
+
+ARTICLE
+V
+Compensation and Expenses
+
+ 
+
+Section 5.1	Management
+Fee. In consideration for the performance by the Manager of Management Services, Owner shall pay to the Manager monthly, in
+advance, an amount rounded to the nearest $10.00 (such amount, the “Monthly Management Fee”), which amount
+is equal to the product of (a) until and including the Calendar Month of termination of the Offering, 0.291667%, and thereafter,
+0.333333%, times (b) the sum of (i) the Gross Proceeds determined as of the last day of the preceding Calendar Month and (ii) the
+average outstanding indebtedness of AECP LP (determined on a consolidated basis) during the preceding Calendar Month. A Monthly
+Management Fee shall not be payable for any period prior to the Initial Closing. On or before the 20th day of the Calendar Month
+immediately preceding the Calendar Month in which the Management Services are to be provided, the Manager shall furnish to Owner
+in writing its calculation of the Monthly Management Fee that is payable in respect of the next succeeding Calendar Month. The
+Monthly Management Fee payable to the Manager by Owner will be in
+
+ 
+
+
+
+
+    20
+     
+    
+
+ 
+
+addition to all fixed rate charges under any joint operating
+agreements in which the Manager or its Affiliates act as operator and the Owner owns a working interest. Each Calendar Month after
+the Initial Closing and prior to the end of the Term, the Manager will deliver, together with its calculation of the Monthly Management
+Fee to be paid by Owner for the succeeding Calendar Month as provided in the second preceding sentence, a summary of the costs
+and expenses to be reimbursed to the Manager in accordance with the immediately preceding sentence (each such written calculation
+and summary, an “Invoice”). At any time that is not less than ten (10) days following the date that Owner
+receives an Invoice, the Manager may apply any funds that it holds on behalf of Owner to payment of the amount specified in the
+Invoice less any amount(s) to which Owner has reasonably objected in writing during such 10-day period. If the Owner timely objects
+in a notice received by the Manager to any amount in an Invoice, Owner and Manager shall use their reasonable commercial efforts
+to resolve such dispute amicably, and promptly after the resolution of such matter Manager may apply any funds that it holds on
+behalf of Owner to payment of the amount determined to be owing to the Manager. If the funds that the Manager holds on behalf of
+Owner are insufficient to pay in full when due the amounts due to the Manager pursuant to this Section 5.1, then Owner
+will promptly make payment to the Manager of the amount due and unpaid in immediately available funds by wire transfer to an account
+specified by the Manager to Owner. Pursuant to Section 7.2(i) of the AECP LP Agreement, AECP LP will pay to AECP GP a management
+fee commencing with a payment for the first Calendar Month after termination of the Offering, which fee shall be payable in cash
+monthly after termination of the Offering concurrently with payment by Owner to the Manager of the Monthly Management Fee pursuant
+to this Section 5.1 and shall be in an amount equal to the product of (a) 0.083333% times (b) the sum of (i) (b) the Gross
+Proceeds determined as of the last day of the preceding Calendar Month and (ii) the average outstanding indebtedness of AECP LP
+(determined on a consolidated basis) during the preceding Calendar Month. The Manager acknowledges and agrees that the Monthly
+Management Fee shall be the sole source of reimbursement to the Manager of the expenses specified in Part I of Exhibit
+C.
+
+ 
+
+Section 5.2	Reimbursement
+of Organization and Offering Expenses; Reimbursement of Out-of-Pocket Expenses. \l 3i) The Manager and the General Partner
+expect that Organization and Offering Expenses, including Organization and Offering Expenses consisting of fees and expenses paid
+to third parties, that they incur on behalf of AECP LP and the Owner will be incurred in a ratio approximately one-third (1/3rd)
+by the Manager and two-thirds (2/3rds) by the General Partner, and if such ratio is not maintained then the Manager and the General
+Partner will take such actions prior to the Initial Closing or any subsequent closing of the Offering, as the case may be, as may
+be necessary to return to such ratio with respect to the Organization and Offering Expenses as of each of the Initial Closing and
+each subsequent closing. At or promptly after (in any event not later than five (5) Business Days after) the Initial Closing and
+each subsequent closing of the issuance of Common Units in the Offering, (i) the Manager will determine the total Organization
+and Offering Expenses it has incurred prior to such closing that have not been previously reimbursed by AECP LP or the Owner and
+will prepare and submit to AECP LP an invoice therefor accompanied by reasonable supporting documentation; and (ii) AECP LP
+or the Owner will promptly reimburse the Manager for the amount specified in such invoice subject to a maximum reimbursement amount
+of one-half percent (0.5%) of the Gross Proceeds for all Common Units issued in the Initial Closing and each such subsequent closing
+of the Offering. The Organization and Offering Expenses to be reimbursed by AECP LP or the Owner to the Manager shall not exceed
+one-half percent (0.5%) of the aggregate Gross
+
+ 
+
+
+
+
+    21
+     
+    
+
+ 
+
+Proceeds raised in the Offering (such maximum amount, the “Expense Cap”).
+To the extent that the Manager incurs Organization and Offering Expenses in excess of the Expense, the Manager shall not be reimbursed
+for such expenses. Amounts required to be paid by AECP LP and the Owner pursuant to this Section 5.2(a) at the Initial Closing
+and each subsequent closing of the Offering are referred to as the “OrgOff Reimbursement Amount”.
+
+ 
+
+(B)	Except
+as set forth in this Section 5.2, in no event will the Manager be entitled to reimbursement from AECP LP or the Owner, nor
+will AECP LP or the Owner be obligated to reimburse the Manager, for any Organization and Offering Expenses incurred by the Manager
+and its Affiliates. The Manager may apply any funds that it holds on behalf of AECP LP or the Owner to payment of the OrgOff Reimbursement
+Amount then due to the Manager pursuant to this Section 5.2(a), but if the funds that the Manager holds on behalf of AECP
+LP or the Owner are insufficient to pay in full when due the amounts due to the Manager pursuant to this Section 5.2,
+then AECP LP or the Owner will promptly make payment to the Manager of the amount due and unpaid in immediately available funds
+by wire transfer to an account specified by the Manager to AECP LP or the Owner. The OrgOff Reimbursement Amount that is payable
+to the Manager by AECP LP or the Owner pursuant to Section 5.2(a) will be in addition to all fixed rate charges under any
+joint operating agreements in which the Manager or its Affiliates act as operator and the Owner owns a working interest. Pursuant
+to the Partnership Agreement, AECP LP will reimburse AECP GP at or promptly after the Initial Closing and each subsequent closing
+of the issuance of Common Units in the Offering for the Organization and Offering Expenses it incurs up to a maximum of one percent
+(1.0%) of the Gross Proceeds raised in the Offering, which reimbursement shall be made concurrently with each payment to the Manager
+of the OrgOff Reimbursement Amount.
+
+ 
+
+(C)	The
+Manager shall pay all reasonable out-of-pocket expenses (excluding for purposes of this Section 5.2 Organization and Offering
+Expenses, Acquisition Expenses and Disposition Expenses) of the Manager and its Affiliates, agents and consultants (“Out-of-Pocket
+Expenses”), pursuant to the policies and procedures established by the Manager and approved by the Owner and in accordance
+with the Budget, and consistent with the allocations set forth in Part II of Exhibit C hereto, for the payment or
+reimbursement of such costs with respect to activities conducted for the Owner pursuant to this Agreement. The Owner shall reimburse
+the Manager for all such Out-of-Pocket Expenses paid by the Manager on behalf of the Owner or in connection with the Business of
+the Owner and for which the Manager has not been previously reimbursed, and on or before the 20th day after each Calendar Month
+in which the Manager incurs Out-of Pocket Expenses the Manager will invoice the Owner for such Out-of Pocket Expenses incurred
+during the preceding month accompanied by reasonable supporting detail. At any time that is not less than ten (10) days following
+the date that Owner receives an invoice for Out-of-Pocket Expenses pursuant to this Section 5.2(b), the Manager may apply
+any funds that it holds on behalf of Owner to payment of the amount specified in such invoice less any amount(s) to which Owner
+has reasonably objected in writing during such 10-day period. If the Owner timely objects in a notice received by the Manager to
+any amount in any such invoice, Owner and Manager shall use their reasonable commercial efforts to resolve such dispute amicably,
+and promptly after the resolution of such matter the Manager may apply any funds that it holds on
+
+ 
+
+
+
+
+    22
+     
+    
+
+ 
+
+
+
+
+
+
+behalf of Owner to payment of
+the amount determined to be owing to the Manager. If the funds that the Manager holds on behalf of Owner are insufficient to pay
+in full when due the amounts due to the Manager pursuant to this Section 5.2(b), then Owner will promptly make payment to
+the Manager of the amount due and unpaid in immediately available funds by wire transfer to an account specified by the Manager
+to Owner. Any amounts payable to the Manager by Owner pursuant to this Section 5.2(b) will be in addition to all fixed rate
+charges under any joint operating agreements in which the Manager or its Affiliates act as operator and the Owner owns a working
+interest.
+
+ 
+
+Section 5.3	Acquisition
+Fee and Acquisition Expenses. The Owner shall pay an Acquisition Fee to the Manager as compensation for its Management Services
+rendered in connection with the investigation, selection and acquisition (by purchase, contribution, investment or exchange) of
+any Property Acquisition. The Manager shall be entitled to an Acquisition Fee for any Property Acquisition acquired after the termination
+of this Agreement for which a contract for any such Property Acquisition had been entered into at or prior to such termination.
+The total acquisition fee (the “Acquisition Fee”) payable to the Manager for each Property Acquisition
+(other than a Property Acquisition from the Manager or any of its Affiliates) shall equal two percent (2.0%) of the Contract Purchase
+Price of each Property Acquisition, payable in cash. The purchase price allocable for an Investment held through a Joint Venture
+shall equal the product of (i) the Contract Purchase Price of the Property Acquisition and (ii) the direct or indirect ownership
+percentage in the Joint Venture held directly or indirectly by AECP LP or the Owner. For purposes of this Section 5.3, “ownership
+percentage” shall be the percentage of capital stock, membership interest, partnership interest or other equity interests
+held by the AECP LP or the Owner, without regard to classification of such equity interests. Owner shall pay to the Manager the
+Acquisition Fee promptly upon the closing of each Property Acquisition (other than a Property Acquisition from the Manager or any
+of its Affiliates), unless Owner and the Manger mutually agree the defer payment of such Acquisition Fee in respect of any Property
+Acquisition, in which event it shall be paid in accordance with such mutual agreement. In addition to the Acquisition Fee payable
+to the Manager pursuant to this Section 5.3, AECP LP or the Owner shall pay directly or reimburse the Manager for all Acquisition
+Expenses incurred in connection with the selection, evaluation, acquisition, origination, making or development of any Property
+Acquisition; provided, however, in no event shall the sum of the Acquisition Fee and the Acquisition Expenses required
+to be paid or reimbursed by AECP LP or the Owner pursuant to this Section 5.3 in respect of any Property Acquisition exceed
+three percent (3.0%) of the Contract Purchase Price of such Property Acquisition. AECP LP or the Owner shall pay the Acquisition
+Fee and reimburse the Manager for Acquisition Expenses payable pursuant to this Section 5.3 within ten (10) days following
+each date AECP LP or the Owner receives an invoice for the amount of the Acquisition Fee payable and Acquisition Expenses reimbursable
+to the Manager pursuant to this Section 5.3, provided that such invoice shall be furnished no earlier than two (2) Business
+Days before the closing of any Property Acquisition or, in the case of Acquisition Expenses in respect of any proposed acquisition
+that has been unsuccessful, the cessation of the efforts by AECP LP or the Owner to acquire such Property Acquisition; subject,
+however, to any mutual agreement by Owner and the Manager to defer payment of the Acquisition Fee in respect of any Property Acquisition.
+The Manager may apply any funds that it holds on behalf of the Owner to payment of the amount specified in such invoice less any
+amount(s) to which the Owner has reasonably objected in writing during the 10-day period commencing on receipt of such invoice.
+If the
+
+ 
+
+
+
+
+    23
+     
+    
+
+ 
+
+Owner timely objects in a notice received by the Manager to any amount in any such invoice, the Owner and the Manager shall
+use their reasonable commercial efforts to resolve such dispute amicably, and promptly after the resolution of such matter the
+Manager may apply any funds that it holds on behalf of the Owner to payment of the amount determined to be owing to the Manager.
+If the funds that the Manager holds on behalf of the Owner are insufficient to pay in full when due the amounts due to the Manager
+pursuant to this Section 5.3, then the Owner will promptly make payment to the Manager of the amount due and unpaid
+in immediately available funds by wire transfer to an account specified by the Manager to the Owner. Any amounts payable to the
+Manager by the Owner pursuant to this Section 5.3 will be in addition to all fixed rate charges under any joint operating
+agreements in which the Manager or its Affiliates act as operator and the Owner owns a working interest. For the avoidance of doubt,
+the Manager and Owner agree that the Manager shall not be entitled to an Acquisition Fee for any Property Acquisition from the
+Manager or any of its Affiliates.
+
+ 
+
+Section 5.4	Disposition
+Fee and Disposition Expenses. As compensation to the Manager for its Management Services rendered in connection with the sale
+or other disposition by AECP LP or the Owner of all or any portion of the Assets (other than the sale or other disposition in the
+ordinary course of business of oil, gas or other hydrocarbons produced from the Assets and other than a sale or other disposition
+to the Manager or any of its Affiliates), the Owner shall pay to the Manager the Disposition Fee. The Manager shall be entitled
+to a Disposition Fee for any Asset(s) (other than the sale or other disposition in the ordinary course of business of oil, gas
+or other hydrocarbons produced from the Assets and other than a sale or other disposition to the Manager or any of its Affiliates)
+sold or otherwise disposed of by AECP LP or the Owner after such termination for which the applicable contract(s) to sell or otherwise
+dispose of such Asset had been entered into at or prior to such termination date. The total disposition fee (“Disposition
+Fee”) payable in cash to the Manager shall equal one-half percent (0.5%) of the Contract Sales Price of such Asset(s).
+In addition to the Disposition Fee payable to the Manager pursuant to this Section 5.4, AECP LP or the Owner shall pay directly
+or reimburse the Manager for all Disposition Expenses incurred in connection with the any sale or other disposition or proposed
+sale or other disposition (other than the sale or other disposition in the ordinary course of business of oil, gas or other hydrocarbons
+produced from the Assets). AECP LP or the Owner shall pay the Disposition Fee and reimburse the Manager for the Disposition Expenses
+payable pursuant to this Section 5.4 in connection with the sale or disposition of Assets within ten (10) days following
+each date AECP LP or the Owner receives an invoice for the amount of the Disposition Fee so payable to the Manager pursuant to
+this Section 5.4, which invoice shall be furnished in connection with the closing of any sale or other disposition or, in
+the case of Disposition Expenses in respect of any sale or other disposition that has been unsuccessful, the cessation of the efforts
+to sell or otherwise dispose of the applicable Asset(s); provided, however, that if Owner and the Manager mutually
+agree to defer payment of the Disposition Fee in respect of the sale of any Assets such Disposition Fee shall be paid in accordance
+with such mutual agreement. The Manager may apply any funds that it holds on behalf of the Owner to payment of the amount
+
+ 
+
+
+
+
+    24
+     
+    
+
+ 
+
+specified
+in such invoice less any amount(s) to which the Owner has reasonably objected in writing during the 10-day period commencing on
+receipt of such invoice. If the Owner timely objects in a notice received by the Manager to any amount in any such invoice, the
+Owner and the Manager shall use their reasonable commercial efforts to resolve such dispute amicably, and promptly after the resolution
+of such matter the Manager may apply any funds that it holds on behalf of the Owner to payment of the amount determined to be owing
+to the Manager. If the funds that the Manager holds on behalf of the Owner are insufficient to pay in full when due the amounts
+due to the Manager pursuant to this Section 5.4, then the Owner will promptly make payment to the Manager of the amount
+due and unpaid in immediately available funds by wire transfer to an account specified by the Manager to the Owner. Any amounts
+payable to the Manager by the Owner pursuant to this Section 5.4 will be in addition to all fixed rate charges under any
+joint operating agreements in which the Manager or its Affiliates act as operator and the Owner owns a working interest. Notwithstanding
+anything to the contrary in this Section 5.4, in no event shall any Disposition Fee be payable by AECP LP or the Owner pursuant
+to this Section 5.4 in connection with the sale or exchange in the ordinary course of business by AECP LP or the Manager
+of oil, natural gas or other hydrocarbons produced from the Assets. Pursuant to the Partnership Agreement, AECP LP will pay to
+AECP GP a disposition fee in connection with the sale or other disposition by AECP LP or the Owner of all or any portion of the
+Assets (other than the sale or other disposition in the ordinary course of business of oil, gas or other hydrocarbons produced
+from the Assets), which fee shall be payable in cash concurrently with payment by the Owner to the Manager of the Disposition Fee
+pursuant to this Section 5.4 in respect of such disposition of Asset(s) and shall be in an amount equal to one-half percent
+(0.5%) of the Contract Sales Price of such Asset(s). For the avoidance of doubt, the Manager and Owner agree that the Manager shall
+not be entitled to a Disposition Fee for any sale or other disposition of Assets to the Manager or any of its Affiliates.
+
+ 
+
+Section 5.5	Financing
+Coordination Fee. As compensation to the Manager for its Management Services rendered in connection with the financing by AECP
+LP or the Owner of any Property Acquisition or Asset, the assumption by AECP LP or the Owner of any Loan(s) with respect to any
+Property Acquisition or Asset or refinancing by AECP LP or the Owner of any Loan, the Owner shall pay the Manager a fee, payable
+in cash (the “Financing Coordination Fee”), equal to one-half percent (0.5%) of the principal account
+incurred by AECP LP or the Owner, as the case may be, or outstanding under any such Loan. AECP LP or the Owner shall pay the Financing
+Coordination Fee payable pursuant to this Section 5.5 at or promptly after (and in any event within two (2) Business Days
+after) the closing of the Loan that is the subject of the Financing Coordination Fee then due or each draw down by AECP LP of any
+principal amount of any Loan, as the case may be; provided, however, that if Owner and the Manager mutually agree
+to defer payment of any Financing Coordination Fee, then such Financing Coordination Fee shall be paid in accordance with such
+mutual agreement. The Manager may apply any funds that it holds on behalf of Owner to payment of the amount of any Financing Coordination
+Fee then due and payable to the Manager pursuant to this Section 5.5 less any amount(s) to which Owner has reasonably
+objected in writing prior to the closing of the Loan that is the subject of the applicable Financing Coordination Fee. If the Owner
+timely objects in a notice received by the Manager to any amount of any Financing Coordination Fee, Owner and Manager shall use
+their reasonable commercial efforts to resolve such dispute amicably, and promptly after the resolution of such matter the Manager
+may apply any funds that it holds on behalf of Owner to payment of the amount determined to be owing to the Manager. If the funds
+that the Manager holds on behalf of Owner are insufficient to pay in full when due the amounts due to the Manager pursuant to this
+Section 5.5, then Owner will promptly make payment to the Manager of the amount due and unpaid in immediately available
+funds by wire transfer to an account specified by the Manager to Owner. Any amounts payable to the Manager by Owner pursuant to
+this Section 5.5 will be in addition to all fixed rate charges under any joint operating agreements
+
+ 
+
+
+
+
+    25
+     
+    
+
+ 
+
+in which the Manager
+or its Affiliates act as operator and the Owner owns a working interest. Pursuant to the Partnership Agreement, AECP LP will pay
+to AECP GP a financing coordination fee in connection with the financing by AECP LP or the Owner of any Property Acquisition or
+Asset, the assumption by AECP LP or the Owner of any Loan(s) with respect to any Property Acquisition or Asset or refinancing by
+AECP LP or the Owner of any Loan, which fee shall be payable in cash concurrently with payment by Owner to the Manager of the Financing
+Coordination Fee pursuant to this Section 5.5 in respect of such financing transaction and shall be in an amount equal to
+one-quarter percent (0.25%) of the principal account incurred by AECP LP or the Owner, as the case may be, or outstanding under
+any such Loan.
+
+ 
+
+Section 5.6	Direct
+Expenses. To the extent practicable, the Manager shall cause all direct expenses of Owner that are incurred in connection with
+this Agreement or the Services rendered pursuant hereto to be billed directly to Owner, and to the extent the Manager incurs direct
+expenses on behalf of Owner such direct expenses will be reimbursed to the Manager by Owner in accordance with Section 5.2(C),
+or if such direct expenses constitute Acquisition Expenses, Disposition Expenses or Organization and Offering Expenses then in
+accordance with Section 5.3, Section 5.4 or Section 5.2(A), as applicable.
+
+ 
+
+ARTICLE
+VI
+Representations, Warranties and Covenants
+
+ 
+
+The Manager represents,
+warrants and covenants to the Owner and AECP LP as follows:
+
+ 
+
+(A)	Organization,
+Good Standing, Etc. The Manager is a limited liability company duly formed, validly existing and in good standing under the
+laws of the State of Oklahoma. Before commencing operations in any State where Leases are located the Manager will be duly qualified
+and/or licensed to the extent and as may be required, and in good standing in such State.
+
+ 
+
+(B)	Authority;
+Enforceable Agreement. The Manager has taken all necessary action to authorize the execution, delivery and performance of this
+Agreement and has adequate power, authority and legal right to enter into, execute, deliver and perform this Agreement. This Agreement
+is legal, valid and binding with respect to the Manager and is enforceable in accordance with its terms, except as the enforceability
+thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors’ rights generally.
+
+ 
+
+(C)	Legal
+Requirements. The Manager has, or before commencing activities in any State or other jurisdiction will have, all requisite
+power, approvals, authorizations, consents, licenses, orders, franchises, rights, registrations and permits of all Governmental
+Authorities of such State or other jurisdiction required for the Manager to provide the Management Services in such jurisdiction;
+each of the foregoing is or will be in full force and effect and has been duly and validly issued; and at the time Management Services
+are performed the Manager will be in compliance in all material respects with all terms and conditions of each of the foregoing.
+
+ 
+
+(D)	No
+Consent. No permit, consent, approval, authorization or order of, and no notice to or filing with, any Governmental Authority
+or third party is required in
+
+ 
+
+
+
+
+    26
+     
+    
+
+ 
+
+connection with the execution,
+delivery or performance by the Manager of this Agreement or to consummate any transactions contemplated hereby and thereby.
+
+ 
+
+(E)	Manager’s
+Activities During the Term. The Manager covenants and agrees that during the Term (excluding any period after a Termination
+Notice has been received by Manager as contemplated by Section 10.2(a) during which the Manager performs transition services in
+accordance with Section 10.3) the Manager’s business and activities will be limited to serving as the manager pursuant to
+this Agreement and activities ancillary thereto; provided, however, that the foregoing covenant is not intended,
+nor shall it be construed, to restrict or limit the Manager’s ability to serve as a manager or in a similar capacity pursuant
+to a management services or similar agreement to one or more partnerships or other entities that may be formed after the Effective
+Date by, or that is affiliated with, AR Capital, LLC, AR Capital Energy Holdings, LLC or any of their affiliates to acquire, own,
+operate, develop, market or dispose of oil and gas properties. For the avoidance of doubt, the Manager will not own any oil, gas
+or mineral leases or developed or undeveloped producing or non-producing oil and gas properties, and will not become the counterparty
+to any Farmout by assignment from Owner, at any time during the Term; but the foregoing restriction is not intended, nor shall
+it be construed, to apply to, or to restrict the activities or operations of, any Affiliate of the Manager. The Manager shall only
+be required to devote such portion of its full productive time to the performance of the Services as is necessary to satisfy its
+obligations under this Agreement.
+
+ 
+
+ARTICLE
+VII
+Additional Agreements of Manager; Restrictions on Manager
+
+ 
+
+Section 7.1	Compliance
+with Laws. In the performance of Services pursuant to this Agreement, the Manager shall comply in all material respects with
+applicable Law relative to the use, operation, development and maintenance of the Business and the Assets. The Manager shall use
+its reasonable commercial efforts to remedy any violation of any such applicable Law that comes to its attention. The Manager shall
+promptly notify the Owner of any material violation of applicable Law in the performance of the Services pursuant to this Agreement,
+and the Manager shall transmit promptly to the Owner a copy of any citation or other communication received by the Manager setting
+forth any such violation.
+
+ 
+
+Section 7.2	Compliance
+with Obligations. The Manager, to the extent such matters are reasonably within its control, shall use diligent and reasonable
+efforts to cause compliance in all material respects with all terms and conditions contained in any contract, agreement, judicial,
+administrative or governmental order, law or ruling, lease, mortgage, deed of trust or other contractual or security instrument
+affecting the Business or any of the Assets; provided, however, that, except as otherwise set forth herein, the Manager
+shall not be required to make any payment or incur any liability on account thereof. The Manager shall promptly notify the Owner
+in writing of any material violation of any such instrument or agreement in any material respect.
+
+ 
+
+Section 7.3	Prohibited
+Acts. Notwithstanding anything to the contrary, express or implied, in this Agreement, without the consent of Owner the Manager
+shall not:
+
+ 
+
+
+
+
+    27
+     
+    
+
+ 
+
+(A)	Affect
+Title. Other than by way of a pledge, mortgage, deed of trust or trust indenture in connection with the terms of an Approved
+Credit Facility or a Farmout, joint operating agreement, participation agreement or other similar arrangement, sell, assign, surrender
+or relinquish, farm out, encumber, hypothecate, mortgage, burden, or otherwise alter or impair the Owner’s title in, to,
+or under, or that may be derived from, any of the Assets, or take any act that has the natural and foreseeable consequence of causing
+any of the foregoing. The prohibition in the immediately preceding sentence does not apply, however, to any loss, alteration, or
+impairment of title resulting (i) from the abandonment of any well, cessation of operations, non-commencement of the drilling of
+any well or any other operations, or non-payment of delay rentals, advance royalties, shut-in well payments, or any other payments
+when done with the Owner’s written consent or in accordance with the other terms of this Agreement; (ii) by virtue of the
+non-consent, non-participation, or non-performance of any Third Party under any Operating Agreement; (iii) from the pooling, unitization,
+or communitization of all or any part of the Owner’s interest in a property; (iv) from the sale or disposition of worn out
+or obsolete equipment or spare parts; (v) from the sale of natural gas, crude oil, natural gas liquids, condensate, other products
+and other hydrocarbons produced from the Assets; or (vi) from causes or circumstances beyond Manager's reasonable control.
+If the Owner sells any of its Asset(s) to the Manager or an Affiliate of the Manager (other than a Farmout to the Manager or an
+Affiliate of the Manager which shall be subject to Section .7), then the Owner exercising the standard of a prudent
+operator must determine that (i) the sales price received by the Owner from the Manager or such Affiliate, as the case may be,
+shall not be less than the higher of (A) the costs incurred by the Owner for such Asset(s) and (B) the fair market value of such
+Asset(s) as determined by the Owner, and (ii) the other terms and conditions of such sale must be fair and reasonable to Owner.
+
+ 
+
+(B)	Borrow
+Funds. Borrow any funds or accept any loan from Owner or, except in accordance with Section 7.4, borrow any funds on
+behalf of Owner (other than trade accounts payable in the ordinary course of business).
+
+ 
+
+(C)	Litigation
+Matters. (i) Except for the filing or prosecution of any lawsuits for the collection of any monies owed to the Owner in the
+ordinary course of business, file or prosecute any lawsuit, or (ii) confess any judgment or compromise or settle any pending,
+threatened, or asserted claim or litigation, in each case with respect to or on behalf of the Owner or any of the Assets.
+
+ 
+
+(D)	Resign
+as Operator. Resign as Operator of any operated Asset except in accordance with this Agreement.
+
+ 
+
+(E)	Tax
+Status. Take any action which would cause the Owner not to be classified and treated as a partnership (and not as an association)
+for federal income tax purposes.
+
+ 
+
+(F)	Approved
+Credit Facility. Amend or waive any provision of the Approved Credit Facility or take any actions which would result in a default
+by the Owner under an Approved Credit Facility (but the foregoing shall not be construed to require the expenditure of any funds
+by the Manager).
+
+ 
+
+
+
+
+    28
+     
+    
+
+ 
+
+
+
+
+
+
+(G)	Expenditures.
+Except in accordance with Article III, Section 4.3, and Article V, Section 7.1, Section 7.2
+or Section 7.4, make or approve any expenditure for the Owner’s account, or obligate the Owner to make any expenditure,
+other than for operating expenses (including any Operating Agreement then in effect) made pursuant to operating agreements covering
+the Owner’s Assets or as provided in the Budget.
+
+ 
+
+(H)	Activities;
+Budget. Conduct for the Owner’s account, or consent to or obligate the Owner, to engage in any activity, other than an
+activity provided for in the approved Budget or determined by the Manager to be required in connection with an Emergency.
+
+ 
+
+(I)	Acquisitions
+and Joint Ventures. Cause or obligate the Owner to enter into any business combination transaction, including any merger, consolidation,
+equity exchange, acquisition, sale, joint venture, partnership or similar arrangement, or acquire any assets (including any Property
+Acquisition(s)), properties or rights, including leasehold and working interests.
+
+ 
+
+(J)	Hedging.
+Cause the Owner to adopt, revise or waive compliance with, the Hedging Policy, or cause the Owner to enter into or become obligated
+under any Hedges that are not in accordance with the Hedging Policy. None of the properties, or production attributable to properties,
+owned by the Manager or any Affiliate of the Manager will benefit from any of Owner’s hedging or marketing arrangements,
+and the Manager shall fairly apportion the benefits from any marketing or other arrangements jointly affecting property of the
+Manager (or any Affiliate of the Manager) and Owner to the respective interests of the Manager or any Affiliate of the Manager,
+on the one hand, and Owner, on the other hand.
+
+ 
+
+(K)	Material
+Commitment. Enter into any contract or agreement on behalf the Owner, or otherwise obligate the Owner under any contract or
+agreement, that would reasonably be expected to constitute a Material Commitment. The Manager shall not commit Owner’s future
+production from any Well in which Owner owns an interest for Manager’s benefit.
+
+ 
+
+(L)	Affiliate
+Transactions. Except in compliance with Section 4.3, cause the Owner to enter into any contract or other arrangement
+or transaction with the Manager or an Affiliate of the Manager.
+
+ 
+
+(M)	Amendment
+to Agreements; Waiver of Rights. Cause the Owner to enter into or replace or amend, modify or restate or supplement in a manner
+adverse to the Owner in any material respect, or cause the Owner to waive or fail to enforce on behalf of the Owner any material
+rights of the Owner under, any participation, joint venture, operating, area of mutual interest or other similar agreement to which
+the Owner is a party (provided that the restriction set forth in this clause (m) shall not apply to any extension or termination
+of any agreement in accordance with its terms).
+
+ 
+
+(N)	Certain
+Non-Consent Activities. Cause the Owner to make any election or exercise any vote, or cause the Owner not to exercise any vote,
+that has the effect of
+
+ 
+
+
+
+
+    29
+     
+    
+
+ 
+
+causing the Owner to not participate
+in any Development Activities or other activities or operations under an Operating Agreement in which the Manager or an Affiliate
+of the Manager owns a working interest, unless the Manager or such Affiliate also declines to participate in such activity or operations,
+unless Owner’s election or exercise of, or failure to elect or exercise, any such vote is a result of Owner’s voluntary
+election or Owner’s inability or refusal to fund the cost of the applicable Development Activities or other activities or
+operation, as the case may be, in which event neither Manager nor any Affiliate shall be required to decline to participate in
+such activity in respect of its working interest therein.
+
+ 
+
+(O)	Directed
+Activities. Take on behalf of the Owner or cause the Owner to take any action or commit to any action that is contrary to the
+good faith reasonable instructions of the Owner, provided that the foregoing shall not be construed to require the Manager to take
+any action in violation of applicable Law or to incur any cost or liability that will not be reimbursed or assumed by the Owner.
+
+ 
+
+(P)	Actions
+Not of Benefit to Owner. Prior to the Listing Date, take on behalf of Owner or cause Owner to take any action or commit to
+any action which the Manager has determined will not primarily benefit Owner except as may be required by any contract or agreement
+to which Owner may be subject or by applicable Law.
+
+ 
+
+(Q)	Prohibition
+on Profit by Drilling in Breach of Agreement. Neither the Manager nor any Affiliate of the Manager shall profit by conducting
+drilling operations on any of Owner’s Assets in breach or violation of this Agreement or the Operating Agreement applicable
+to such Asset.
+
+ 
+
+(R)	Loans
+from Manager to Owner. If the Manager or any Affiliate of the Manager elects in its sole discretion to make any loan or advance
+any funds to Owner, the Manager or such Affiliate may not receive interest on the outstanding balance of such loan or advance in
+excess of the amounts that would be charged Owner (without reference to the Manager’s or such Affiliate’s financial
+abilities or guarantees) by unrelated banks on comparable loans for the same purpose. In addition, neither the Manager nor any
+Affiliate of the Manager shall receive points or other financing charges or fees for any loan or advance made to Owner by the Manager
+or such Affiliate, regardless of the amount of such loan or advance.
+
+ 
+
+(S)	Prohibition
+On Rebates and Give Ups. Neither the Manager nor any Affiliate of the Manager may receive from Owner or any third party any
+rebate(s) or give up(s) in respect of any acquisition or disposition by Owner or the operations by Owner of its business, or in
+any reciprocal business arrangement, that would constitute a circumvention of Article VI.C.8 of the NASAA Oil and Gas Guidelines
+as in effect on the Effective Date.
+
+ 
+
+Section 7.4	Emergencies.
+Notwithstanding anything to the contrary in this Agreement, if Manager reasonably believes there is any Emergency, Manager may,
+in the sole exercise of its discretion and at Owner’s expense, act for and on behalf of Owner in any manner reasonably necessary
+or useful under the circumstances without the necessity of giving prior
+
+ 
+
+
+
+
+    30
+     
+    
+
+ 
+
+notice to the Owner or receiving any approval or consent
+from the Owner. If Manager takes any such action pursuant to this Section 7.4, Manager shall promptly notify the Owner of
+such Emergency and of the actions and/or expenditures approved by Manager as soon thereafter as is reasonably practicable.
+
+ 
+
+Section 7.5	Manager’s
+Insurance. The Manager shall at all times maintain the insurance coverage described on Exhibit B with financially sound
+and reputable insurance companies, together with any other insurance that the Manager generally provides or extends to its subsidiaries.
+During the Term of this Agreement, the Manager will, subject to reimbursement by the Owner for the incremental cost thereof, take
+the actions necessary to cause the Owner to be Insured, under the insurance policies described, and as indicated, in Exhibit
+B. As used herein, the term “Insured” means the Owner will be (i) named an insured to the extent
+possible, (ii) in the case of workers’ compensation and employers’ liability, named as an alternate employer, or (iii)
+an additional insured in all other cases; provided, however, that the Manager will take reasonable commercial efforts
+to provide for endorsement of the Owner as an insured under each policy described in Exhibit B.
+
+ 
+
+ARTICLE
+VIII
+Personnel Administration
+
+ 
+
+Section 8.1	General.
+The Manager shall have in its employ or available to it during the Term a sufficient number of qualified technical, operating,
+land, financial, marketing, accounting, clerical, administrative and field Employees, and other personnel to enable it to supply
+all the services as herein provided.
+
+ 
+
+Section 8.2	Responsibility.
+All matters pertaining to the employment, supervision compensation, promotion and discharge of any Employees or personnel of the
+Manager or its Affiliates are the responsibility of the Manager, which is (or its Affiliate is) in all respects the
+employer of any such Employees. All such employment arrangements are solely the concern of the Manager and, if applicable, its
+Affiliate(s) and, other than as expressly set forth in Exhibit B hereto, the Owner shall have no liability with respect
+thereto.
+
+ 
+
+ARTICLE
+IX
+Investment Opportunities
+
+ 
+
+Section 9.1	Investment
+Opportunities.
+
+ 
+
+(A)	Commensurate
+with the Gross Proceeds raised by AECP LP from time to time that have not been previously invested in Property Acquisitions or
+reserved for Development Activities or other investment in any of the Assets or the payment of fees or expenses pursuant to this
+Agreement or the Partnership Agreement, the Manager shall offer to Owner the right to purchase any Property Acquisition that (i)
+the Manager identifies in accordance with the performance of Item 14 of its Management Services as described in Exhibit
+A or that otherwise becomes available to the Manager and (ii) which the Manager believes may be appropriate for the Owner.
+
+ 
+
+(B)	The
+Manager shall offer to the Owner any Property Acquisition referred to in Section 9.1(a) in accordance with the terms of
+Section 9.1(c). Upon receipt of any
+
+ 
+
+
+
+
+    31
+     
+    
+
+ 
+
+Proposal, Owner shall decide
+in accordance with Section 9.1(d) whether or not to approve the Property Acquisition that is the subject of such Proposal.
+If Owner determines not to approve or otherwise fails to approve such Property Acquisition within five (5) Business Days after
+the Owner’s receipt of a Proposal (a “Rejected Proposal”), then the Manager or any of its Affiliates
+may pursue and, if successful in such pursuit, participate in such Property Acquisition.
+
+ 
+
+(C)	If
+the Manager proposes to refer a Property Acquisition or other acquisition of oil and gas properties to the Owner, the Manager shall
+submit a written report (“Proposal”) to Owner for its consideration. Such Proposal shall be in the form
+or format that the Manager generally uses, or will have used when presenting any such Property Acquisition or other acquisition
+of oil and gas properties to Owner and shall contain the Economic Run for the Property Acquisition or other acquisition of oil
+and gas properties, the initial Budget or any revisions to the Budget as provided in Section 9.2, and all other information
+determined by the Manager or requested by Owner as necessary or appropriate to describe the terms, economics, oil and gas reserve
+information, and other information requested by Owner as necessary or appropriate to evaluate and consider the Proposal. Additionally,
+if the Manager or an Affiliate of the Manager has an existing economic interest in more than 5% of the properties that are the
+subject of the Proposal, the Manager shall disclose this fact to Owner in the Proposal. Information submitted to Owner in the Proposal
+shall include, without limitation, the Economic Run data with respect to the acquisition that is the subject of the Proposal authorization(s)
+for expenditure, budgeting information, a recommendation with respect to the amount of indebtedness to be incurred pursuant to
+the Approved Credit Facility, key terms related to such Proposal, including, without limitation, whether such terms deviate or,
+to Manager’s knowledge, are expected to deviate from the General Parameters, if applicable, and any other available information
+determined by the Manager to be relevant to Owner’s investment decision or requested by Owner. In addition, if the Seller
+of a proposed Property Acquisition that is the subject of a Proposal is the Manager or an Affiliate(s) of the Manager, then the
+Owner, exercising the standard of a prudent operator, must determine that (i) the price paid by Owner to the Manager or such Affiliate(s),
+as the case may be, for such Property Acquisition from the Manager or such Affiliate(s), as the case may be, does not exceed the
+lesser of (A) the costs incurred by the Manager or such Affiliate(s), as the case may be, to acquire, own, operate and develop
+such Property Acquisition (which shall be supported by reasonable documentation included in the Proposal) and (B) the fair market
+value of such Property Acquisition as determined by mutual agreement of the Manager or such Affiliate(s), as the case may be, and
+Owner, the Owner exercising the standard of a prudent operator, must determine that in such manner as the Manager and Owner determine
+to be appropriate under the circumstances, (ii) at the time of any such Property Acquisition from the Manager or any of its
+Affiliates, as the case may be, the Owner must acquire an equal proportionate interest in the Manager’s or such Affiliate’s,
+as the case may be, other ownership interests in the same Prospect and (iii) the other terms and conditions of such acquisition
+are fair and reasonable to Owner. For purposes of the preceding sentence, a Prospect will be limited to the minimum area permitted
+by state law or local practice, whichever is applicable, if the following two conditions are met: (i) the well is being drilled
+to a geological feature which contains proved reserves as defined below and (ii) the limitation protects the well against drainage.
+
+ 
+
+
+
+
+    32
+     
+    
+
+ 
+
+In areas where the Prospect is
+not limited as provided in the immediately preceding sentence and the area constituting the Prospect that is the subject of this
+Section is subsequently enlarged based on geological information which is later acquired, then if the Prospect includes an interest
+acquired by Owner from the Manager or an Affiliate of the Manager and such Prospect is subsequently enlarged to cover an area in
+which the Manager (if an interest was previously acquired from the Manager) or such Affiliate of the Manager (if an interest was
+previously acquired from such Affiliate), as the case may be, owns a separate property interest and the Owner’s activities
+were material in establishing the existence of proved undeveloped reserves which are attributable to the separate property interest
+(and, in the case of the Manager or such an Affiliate of the Manager, the activities of the Manager or such Affiliate of the Manager,
+as applicable, were not material in so establishing the existence of such proved undeveloped reserves), then the separate property
+interest or a portion thereof must be sold to AECP LP by the Manager or such Affiliate of the Manager, as the case may be, on terms
+and conditions conforming to the requirements of the fourth sentence of this Section 9.1(c).
+
+ 
+
+(D)	Upon
+receipt of a Proposal, Owner shall have five (5) Business Days to notify the Manager of Owner’s intent to make the Property
+Acquisition as described in the Proposal. If Owner does not provide such notice to the Manager within such time, Owner shall be
+deemed to have rejected the Property Acquisition that is the subject of the Proposal and such Proposal shall thereafter constitute
+a Rejected Proposal.
+
+ 
+
+Section 9.2	Initial
+Budget; Revisions to Budget.
+
+ 
+
+(A)	Initial
+Budget. In connection with the first Property Acquisition, the Manager shall prepare a Draft Budget for operation of the properties
+proposed to be acquired and submit such Draft Budget to Owner with the Proposal as contemplated by Section 9.1. If the Owner
+approves the Property Acquisition, Owner shall be deemed to have approved the Draft Budget and such Draft Budget shall then constitute
+the approved Budget as contemplated by Section 3.1.
+
+ 
+
+(B)	Revised
+Budgets. In connection with each Property Acquisition following the first Property Acquisition, the Manager may prepare an
+amendment to the then existing approved Budget to reflect the additional costs and expenses associated with the ownership of the
+Assets proposed to be acquired and submit such proposed revision to the Owner as contemplated by Section 9.1. If the Owner
+approves the Property Acquisition, Owner shall be deemed to have approved the revision to the Budget and such revised Budget shall
+then constitute the approved Budget as contemplated by Section 3.2.
+
+ 
+
+ARTICLE
+X
+Term; Termination
+
+ 
+
+Section 10.1	Term.
+The initial term of this Agreement will begin on the Effective Date and, subject to earlier termination in accordance with Section
+10.2, shall continue for so long as the Owner holds any Assets (the “Initial Term”), and thereafter,
+until this Agreement is terminated by the Manager or Owner upon not less than 30 days’ prior written notice to the other
+(the Initial Term together with any such extension thereafter, the “Term”). Except as expressly
+
+ 
+
+
+
+
+    33
+     
+    
+
+ 
+
+provided
+herein, the expiration or earlier termination of this Agreement shall not relieve any Party of any obligation or liability arising
+prior to such expiration or termination.
+
+ 
+
+Section 10.2	Termination.
+
+ 
+
+(A)	This
+Agreement shall terminate (the “Termination Date”) on the first to occur of (i) the date on which
+the Parties mutually agree to terminate this Agreement and (ii) the termination date set forth on any notice given in accordance
+with Section 10.2(b) or Section 10.2(c) (each, a “Termination Notice”). Each Termination
+Notice shall be provided in writing and set forth in reasonable detail the basis for the termination and the Termination Date.
+If requested by Owner, the Manager, following its receipt of a Termination Notice, shall continue to perform the Services in accordance
+with this Agreement for a period not to exceed 120 days of such notice and, in such event, the date on which such continued Services
+are no longer necessary (as specified by Owner in the Termination Notice) will be considered the Termination Date for purposes
+hereof.
+
+ 
+
+(B)	Owner
+may terminate this Agreement by delivery of a Termination Notice to the Manager following the occurrence of any of the following
+events:
+
+ 
+
+
+(i)the dissolution and liquidation of AECP LP in connection with the sale of all or substantially
+all of the Owner’s assets;
+
+ 
+
+
+(ii)during the Bankruptcy of the Manager;
+
+ 
+
+
+(iii)at any time during the 30 days after a breach by the Manager of its obligations hereunder that
+has had or, if continued, is reasonably likely to have a Material Adverse Effect, which breach remains uncured 60 days following
+the receipt by the Manager of written notice of such breach by the Owner;
+
+ 
+
+
+(iv)at any time within 15 Business Days following (A) the determination by a court of competent jurisdiction
+that the Manager has defrauded AECP LP or Owner or stolen or misappropriated any of the Assets or funds of Owner and (B) such circumstances
+have not been cured or remedied (which may include a cash payment) by Manager within 30 days following such judicial determination;
+
+ 
+
+
+(v)the General Partner is removed as the general partner of AECP LP by the majority vote of the Common
+Units and the General Partner did not vote in favor of or otherwise approve such removal; or
+
+ 
+
+
+(vi)upon the approval at a special meeting of the holders of Common Units called for the purpose of
+voting to terminate this Agreement, which approval is by the holders of not less than a majority of the Common Units outstanding
+as of the record date established for such special meeting excluding for purposes of such determination Common Units and any vote
+in respect thereof) owned by the General Partner or its sponsor or any Affiliate(s) thereof.
+
+ 
+
+
+
+
+    34
+     
+    
+
+ 
+
+(C)	The
+Manager may terminate this Agreement by delivery of a Termination Notice to Owner (i) during or following the Bankruptcy of the
+Owner or (ii) upon a material breach by Owner of its obligations hereunder that remains uncured 60 days following the receipt by
+Owner of notice of such breach by the Manager.
+
+ 
+
+Section 10.3	Transition
+Services. The Manager shall, until the Termination Date, continue to provide the Management Services in accordance with this
+Agreement and upon request from Owner will reasonably cooperate with Owner in the transition of such services to a new manager
+appointed by Owner by (i) turning over Owner’s books and records and any other relevant information reasonably requested
+of the Manager, (ii) if applicable, assigning to Owner all of the Manager’s rights under subcontracts and other contractual
+arrangements entered into by the Manager in connection with the performance of the Services and (iii) facilitating the transfer
+of Well operations and the management of the Owner’s Assets to the successor manager. At the end of the Term, the Manager
+shall deliver to Owner the Records. Following the termination of this Agreement, Owner shall have the right to appoint any other
+Person as manager to perform the Management Services by whatever method Owner may deem expedient or appropriate. Following the
+termination of this Agreement, the Manager shall have no further rights under this Agreement (except as provided in Section
+10.4) and shall not be entitled to receive any further payments under this Agreement.
+
+ 
+
+Section 10.4	Effect
+of Termination. The termination of this Agreement shall not relieve any Party from any expense, liability or other obligation
+or remedy therefor that has accrued or attached prior to the Termination Date and the following provisions of this Agreement shall
+survive such termination: this Section 10.4, each of the indemnity obligations, the limitation on consequential and other
+damages under this Section 12.4 and the provisions of Article XII, which provisions shall survive indefinitely. To
+the extent this Agreement is terminated by the Owner pursuant to Section 10.2(b)(iv) hereof, then pursuant to Section 5.8 of the
+Partnership Agreement, Holdings shall forfeit any incentive distribution rights it holds as of the date of such termination. To
+the extent this Agreement is terminated pursuant to Section 10.2(b)(v) or Section 10.2(b)(vi) hereof, then Owner
+shall promptly reimburse to the Manager the severance costs and expenses incurred directly or indirectly by the Manager as a result
+of any such termination, such reimbursement to be paid within 10 Business Days after the receipt by Owner from the Manager of an
+invoice therefor accompanied by reasonable documentation in support of such invoice. The Manager acknowledges and agrees that if
+any distributions are made by AECP LP to Holdings in respect of the incentive distribution rights held by Holdings, then the amount
+of such distributions will be made only after giving effect to a reduction for the direct costs and administrative costs of AECP
+LP.
+
+ 
+
+ARTICLE
+XI
+Indemnification; Liability of the Parties
+
+ 
+
+Section 11.1	Indemnification.
+From and after the Effective Date, the Parties will indemnify each other as follows:
+
+ 
+
+(A)	Owner
+Indemnification. (i) The Owner shall indemnify, defend, reimburse and hold harmless the Manager and its Affiliates and their
+respective officers, managers, representatives, agents, members, employees (together with the Manager, the “Manager
+
+ 
+
+
+
+
+    35
+     
+    
+
+ 
+
+Indemnified Parties”)
+from and against and in respect of any and all claims, liabilities, losses, costs, expenses (including reasonable attorneys’
+fees and costs of investigation), judgments, fines, penalties, interest, settlements or damages (collectively, “Liabilities”)
+incurred or suffered by a Manager Indemnified Party in connection with, arising out of, or relating to, directly or indirectly,
+its performance of the Management Services and or Operating Services hereunder; provided, however, that Owner will not be required
+to so indemnify, defend, reimburse and hold harmless any of the Manager Indemnified Parties (A) from any Liabilities in respect
+of any decision by or on behalf of the Manager in connection with any Property Acquisition, Asset disposition or operation of
+Assets with respect to due diligence, waiver or deemed waiver of title defects mistakes in title or environmental review or similar
+actions or omissions, and (B) from any other Liabilities unless the following standards are satisfied:
+
+ 
+
+I.	the
+Manager has made a good faith determination that the Manager’s course of conduct which caused or resulted, or allegedly caused
+or resulted in, the Liabilities for which such Manager Indemnified Party seeks indemnification or advancement of expenses pursuant
+to this Section 11.1(A) was in the best interests of AECP LP or the Owner;
+
+ 
+
+II.	at
+the time the conduct was performed that caused or resulted, or allegedly caused or resulted in the Liabilities for which the Manager
+Indemnified Party seeks indemnification or advancement of expenses, the Manager was acting on behalf of or performing services
+for AECP LP or Owner;
+
+ 
+
+III.	there
+has not been a final and non-appealable judgment entered by a court of competent jurisdiction determining that, in respect of the
+matter for which such Manager Indemnified Party is seeking indemnification pursuant to this Section 11.1(a), such Manager
+Indemnified Party engaged in negligence or misconduct, or in the case of a criminal matter, acted with knowledge that such Manager
+Indemnified Party’s conduct was unlawful; and
+
+ 
+
+IV.	with
+respect to Liabilities arising from or out of an alleged violation of federal or state securities laws,
+
+ 
+
+A.	there
+has been a successful adjudication on the merits of each count of such alleged violation of securities laws;
+
+ 
+
+B.	such
+claims have been dismissed with prejudice on the merits by a court of competent jurisdiction; or
+
+ 
+
+C.	a court
+of competent jurisdiction approves a settlement of the claims against the Manager or such Manager Indemnified Party and finds that
+indemnification of the settlement and the related costs should be made, and the court has been advised of the position of the Securities
+and Exchange Commission and the position of any state securities regulatory authority in which securities of AECP LP were offered
+or sold as to indemnification of violations of securities laws.
+
+ 
+
+
+
+
+    36
+     
+    
+
+ 
+
+Any indemnification pursuant
+to this Section 11.1(A) shall be made only out of the consolidated tangible net assets of AECP LP and Owner.
+
+ 
+
+(ii)	To the fullest
+extent permitted by applicable Law and subject to AECP LP and Owner having sufficient funds available, expenses (including legal
+fees and expenses) incurred by a Manager Indemnified Party who is indemnified pursuant to Section 11.1(A) in defending any
+claim, demand, action, suit or proceeding relating to acts or omissions with respect to the performance of duties or services pursuant
+to this Agreement, from time to time, may be advanced by AECP LP prior to a determination that the Indemnitee is not entitled to
+be indemnified; provided, that (a) such legal action is initiated by a third party who is not a unitholder of equity interests
+in AECP LP or, if such legal action is initiated by such a unitholder, a court of competent jurisdiction shall have approved such
+advancement and (b) upon receipt by AECP LP of an undertaking by or on behalf of the Manager Indemnified Party to repay such amount
+together with the applicable legal rate of interest thereon if it shall be determined that the Manager Indemnified Party is not
+entitled to be indemnified as authorized in Section 11.1(A).
+
+ 
+
+(iii)	The indemnification
+provided by this Section 11.1(A) shall be in addition to any other rights to which a Manager Indemnified Party may be entitled
+under any agreement, pursuant to any approval by AECP LP, as a matter of law or otherwise, both as to actions in the Manager Indemnified
+Party’s capacity as a Manager Indemnified Party and as to actions in any other capacity and shall continue as to a Manager
+Indemnified Party who has ceased to serve in such capacity and shall inure to the benefit of the heirs, successors, assigns and
+administrators of the Manager.
+
+ 
+
+(B)	Manager
+Indemnification. The Manager shall indemnify, defend and hold harmless AECP LP, the Owner, its Subsidiaries and Affiliates
+and their respective officers, directors, representatives, agents, members and employees (collectively, “Owner Indemnified
+Parties”) from and against and in respect of any and all Liabilities incurred or suffered by an Owner Indemnified
+Party in connection with, arising out of, or relating to, the negligence or misconduct of the Manager or another Manager Indemnified
+Party in the Manager’s performance of the Management Services.
+
+ 
+
+[Intentionally
+Omitted].
+
+ 
+
+Section 11.3	Indemnification
+Procedure. If any indemnified party discovers or otherwise becomes aware of an indemnification claim arising under this Agreement,
+such party will give written notice to the indemnifying Party, specifying such claim, and may thereafter exercise any remedies
+available to such indemnified party under this Agreement; provided, however, the failure of any indemnified party
+to give notice as provided herein will not relieve the indemnifying Party of any obligations hereunder, to the extent the indemnifying
+Party is not materially prejudiced thereby. Further, promptly after receipt by an indemnified party hereunder of written notice
+of the commencement of any action or proceeding with respect to which a claim for indemnification may be made against the indemnifying
+Party, the indemnified party will give written notice to the indemnifying Party of the commencement of such action, accompanied
+by a copy of all papers, if any, served with respect to the action or proceeding; provided, however, the failure
+of any indemnified party to give notice as provided herein will not relieve the
+
+ 
+
+
+
+
+    37
+     
+    
+
+ 
+
+indemnifying Party of any obligations hereunder,
+to the extent the indemnifying Party is not materially prejudiced thereby.
+
+ 
+
+Section 11.4	Limitation
+on Consequential and Other Damages.
+
+ 
+
+(a)	NEITHER
+PARTY shall be entitled to recover from THE OTHER Party, or such Party’s respective Affiliates any indirect, consequential,
+punitive or exemplary damages or damages for lost profits of any kind arising under or in connection with this Agreement or the
+transactions contemplated hereby, except to the extent any such Party suffers such damages (including costs of defense and reasonable
+attorney’s fees incurred in connection with defending AGAINST such damages) to a Third Party, which damages (including costs
+of defense and reasonable attorneys’ fees incurred in connection with defending against such damages) shall not be excluded
+by this provision as to recovery hereunder. Subject to the preceding sentence, each Party, on behalf of itself and each of its
+Affiliates waives any right to recover punitive, special, exemplary and consequential damages, including damages for lost profits,
+arising in connection with or with respect to this Agreement or the transactions contemplated hereby.
+
+ 
+
+(B)	The
+amount of damages for which an indemnified Party is entitled to indemnity under this Article XI shall be reduced by the
+amount of insurance proceeds received by the indemnified Party or its Affiliates with respect to such damages (net of any collection
+costs and net of any increase in premiums resulting from claims with respect to such damages), and, to the extent insurance coverage
+for such damages is available under insurance policies of the indemnified Party and not under the insurance policies of the indemnifying
+Party, the indemnified Party will use commercially reasonable efforts to assert claims under such insurance coverage with respect
+to such damages.
+
+ 
+
+Section 11.5	Manager
+Liability. Subject to the rights of the Owner to terminate this Agreement, in no event shall the Manager or its Affiliates
+have any liability under this Agreement or applicable Law, with respect to the provision of the Services under this Agreement for
+any claim, damage, loss or liability sustained or incurred in connection with its operations with respect to the Assets or the
+provision of the Services or any breach of any provision of this Agreement regarding the standard of performance of the Manager
+in performing the Services or operations under this Agreement (including any breach of Section 3.2) except with respect
+to liability arising under this Agreement to the extent (and only to the extent) such liability is attributable to or arises from
+the negligence or misconduct of any Manager Indemnified Party, and the Owner, on its own behalf and on behalf of its Affiliates,
+releases the Manager and its Affiliates from such liability, except to the extent (and only to the extent) such liability is attributable
+to or arises from the negligence or misconduct of any Manager Indemnified Party. Nothing in this Section 11.5 shall
+be deemed to be a release by the Owner or any of its Affiliates of any claims against the Manager arising from a breach by the
+Manager of its obligation to pay amounts owing to the Owner pursuant to the terms hereof.
+
+ 
+
+
+
+
+    38
+     
+    
+
+ 
+
+Section 11.6	Conspicuous.
+THE PARTIES AGREE THAT, TO THE EXTENT REQUIRED BY APPLICABLE LAW TO BE EFFECTIVE OR ENFORCEABLE, THE PROVISIONS IN THIS AGREEMENT
+IN ALL-CAPS FONT ARE “CONSPICUOUS” FOR THE PURPOSE OF ANY APPLICABLE LAW.
+
+ 
+
+ARTICLE
+XII
+Force Majeure
+
+ 
+
+If a Party is rendered
+unable, wholly or in part, by reason of a Force Majeure Event to perform its obligations under this Agreement, other than obligations
+to make payments or provide indemnification or defense when due hereunder, then such Party’s obligations shall be suspended
+to the extent affected by the Force Majeure Event. Any Party claiming any Force Majeure Event shall provide prompt written notice
+thereof to the other Party including full particulars of such Force Majeure Event.
+
+ 
+
+ARTICLE
+XIII
+Miscellaneous
+
+ 
+
+Section 13.1	Time.
+The Parties agree that time is of the essence in the performance of this Agreement.
+
+ 
+
+Section 13.2	Independent
+Contractor. The Manager and the Owner are independent contractors and this Agreement shall not be construed as one of partnership,
+agency, joint venture, or employment between the Manager and the Owner, and the rights, duties, obligations and liabilities of
+each of the Parties under this Agreement shall be individual, not collective or joint. As between the Parties, (a) it is not the
+intention of the Parties to create, nor shall this Agreement be deemed or construed to create, a mining or other partnership, joint
+venture, association or trust, (b) the Manager is not the actual or implied agent for Owner, and (c) subject to the other express
+provisions of this Agreement and the right of the Owner to direct the Manager with respect to the ends to be accomplished, the
+Manager shall have the exclusive (i) authority to control and direct the specific means, method and manner of performance
+of the details of the Management Services to be provided hereunder, and (ii) responsibility and liability for (A) the direction
+and supervision of its personnel, (B) the salary, employee benefits, other compensation and related costs of such Manager
+personnel and (C) the collection and payment of any payroll taxes or contributions or taxes for unemployment insurance, workers’
+compensation, pensions and social security for the Manager personnel that are imposed by any Governmental Authority.
+
+ 
+
+Section 13.3	Notices.
+All notices and communications required or permitted under this Agreement shall be in writing addressed as indicated below, and
+any communication or delivery hereunder shall be deemed to have been duly delivered upon the earliest of: (a) actual receipt by
+the Party to be notified; (b) if sent by U.S. certified mail, postage prepaid, return receipt requested, then the date shown as
+received on the return notice; (c) if by facsimile transmission, then upon confirmation by the recipient of receipt; (d) if by
+email, then upon an affirmative reply by email by the intended recipient that such email was received (provided that, for the avoidance
+of doubt, an automated response from the e-mail account or server of the intended recipient shall constitute an affirmative reply);
+or (e) if by Federal Express overnight delivery (or other
+
+ 
+
+
+
+
+    39
+     
+    
+
+ 
+
+reputable overnight delivery service), the date shown on the notice of
+delivery. Addresses for all such notices and communication shall be as follows:
+
+ 
+
+
+
+    To the Manager:
+    
+        AECP Management,
+        LLC
+        301 N.W.
+        63rd Street
+        Suite 600
+        Oklahoma
+        City, Oklahoma 73116
+        Attention:	Robert
+        W. Kelly II
+           General
+        Counsel
+        Phone: (405)
+        818-8000
+        Fax: (405)
+        818-8040
+        Email: bob.kelly@aep-lp.com
+
+     
+     
+
+    With a copy to:
+    
+        AECP Management,
+        LLC
+        301 N.W.
+        63rd Street
+        Suite 600
+        Oklahoma
+        City, Oklahoma 73116
+        Attention:	Scott
+        R. Mueller
+        Phone: (405)
+        818-8000
+        Fax: (405)
+        818-8040
+        Email: scott.mueller@aep-lp.com
+
+     
+     
+
+    To AECP LP:
+    
+        American Energy Capital Partners,
+        LP
+        c/o AECP GP LLC
+        405 Park Avenue
+        New York, NY 10022
+        Attention:	James A. Tanaka
+        Phone: (212) 415-6592
+        Fax: (646) 861-7743
+        Email: jtanaka@rcscapital.com
+
+     
+     
+
+    With a copy to:
+    
+        Kunzman & Bollinger, Inc.
+        5100 N. Brookline
+        Suite 600
+        Oklahoma City, Oklahoma 73112
+        Attention:	Gerald Bollinger
+        Phone: (405) 942-3501
+        Fax: (405) 942-3527
+        E-mail: gbollinger@kunzboll.com
+
+     
+     
+
+
+
+
+ 
+
+
+
+
+    40
+     
+    
+
+ 
+
+
+
+    To Owner:
+    
+        AECP Operating Company, LLC
+        405 Park Avenue
+        New York, NY 10022
+        Attention:	James A. Tanaka
+        Phone: (212) 415-6592
+        Fax: (646) 861-7743
+        Email: jtanaka@rcscapital.com
+
+     
+     
+
+    With a copy to:
+    
+        Kunzman & Bollinger, Inc.
+        5100 N. Brookline
+        Suite 600
+        Oklahoma City, Oklahoma 73112
+        Attention:	Gerald Bollinger
+        Phone: (405) 942-3501
+        Fax: (405) 942-3527
+        E-mail: gbollinger@kunzboll.com
+
+ 
+
+Either Party may, upon written notice to
+the other Party, change the address(es) and person(s) to whom such communications are to be directed.
+
+ 
+
+Section 13.4	Cooperation.
+Prior to termination of this Agreement and at all times following the consummation of this Agreement, the Parties agree to execute,
+acknowledge and deliver, or cause to be executed, acknowledged and delivered, such documents and instruments and do, or cause to
+be done, such other acts and things as may reasonably be requested by any Party to this Agreement, or are otherwise necessary or
+advisable, to assure that the benefits of this Agreement are realized by the Parties and that the Parties carry out their obligations
+under this Agreement and any document or other instrument delivered pursuant hereto.
+
+ 
+
+Section 13.5	No
+Third Party Beneficiaries. Except for the indemnification rights under Article XI, nothing in this Agreement, express
+or implied, is intended to confer upon anyone, other than the Parties hereto and their respective successors and assigns, any rights
+or remedies under or by reason of this Agreement or to constitute any Person a Third Party beneficiary of this Agreement.
+
+ 
+
+Section 13.6	Cumulative
+Remedies. Subject to the other provisions hereof, no failure on the part of any Party to this Agreement to exercise and no
+delay in exercising any right hereunder will operate as a waiver thereof, nor will any single or partial exercise by any Party
+hereto of any right hereunder preclude any other or further right of exercise thereof or the exercise of any other right.
+
+ 
+
+Section 13.7	Governing
+Law; Jurisdiction; Waiver of Jury Trial. THE VALIDITY, CONSTRUCTION, INTERPRETATION AND EFFECT OF THIS AGREEMENT SHALL BE GOVERNED
+BY AND INTERPRETED IN ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS, WITHOUT REGARD TO CONFLICTS RULES WHICH WOULD OTHERWISE APPLY
+THE LAWS OF ANOTHER JURISDICTION. EACH PARTY AGREES THAT IT SHALL BRING ANY ACTION OR PROCEEDING IN RESPECT OF ANY CLAIM ARISING
+OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN
+
+ 
+
+
+
+
+    41
+     
+    
+
+ 
+
+TORT OR CONTRACT OR AT LAW OR IN EQUITY, EXCLUSIVELY IN ANY U.S. FEDERAL OR STATE
+COURT IN THE STATE OF TEXAS AND (A) IRREVOCABLY SUBMITS TO THE JURISDICTION OF SUCH COURTS, (B) WAIVES ANY OBJECTION TO LAYING
+VENUE IN ANY SUCH ACTION OR PROCEEDING IN SUCH COURTS, (C) WAIVES ANY OBJECTION THAT SUCH COURTS ARE AN INCONVENIENT FORUM
+OR DO NOT HAVE JURISDICTION OVER IT AND (D) AGREES THAT SERVICE OF PROCESS UPON IT MAY BE EFFECTED BY MAILING A COPY THEREOF POSTAGE
+PREPAID, REGISTERED OR CERTIFIED WITH RETURN RECEIPT REQUESTED AT THE ADDRESS SPECIFIED IN SECTION 13.3. THE FOREGOING CONSENTS
+TO JURISDICTION AND SERVICE OF PROCESS SHALL NOT CONSTITUTE GENERAL CONSENTS TO SERVICE OF PROCESS IN THE STATE OF TEXAS FOR ANY
+PURPOSE EXCEPT AS PROVIDED HEREIN AND SHALL NOT BE DEEMED TO CONFER RIGHTS ON ANY PERSON OTHER THAN THE PARTIES. FURTHER, EACH
+PARTY HEREBY KNOWINGLY AND INTENTIONALLY, IRREVOCABLY AND UNCONDITIONALLY WAIVES TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING
+UNDER, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT AND FOR ANY COUNTERCLAIM THEREIN.
+
+ 
+
+Section 13.8	Entire
+Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof, supersedes
+any prior agreements with respect to the subject matter hereof and there are no agreements, understandings, warranties or representations
+except as set forth herein.
+
+ 
+
+Section 13.9	Assignment.
+Neither Party may assign any of its rights or delegate any of its duties under this Agreement without the express written consent
+of the other Party, except that the Manager may assign any such rights or delegate any such duties to any of its Affiliates. Any
+assignment of rights or delegation of duties under this Agreement in violation of this section shall be void ab initio.
+
+ 
+
+Section 13.10	Amendment.
+Neither this Agreement, nor any of the provisions hereof can be changed, waived, discharged or terminated, except by an instrument
+in writing hand-signed by the Party against whom enforcement of the change, waiver, discharge or termination is sought. In addition,
+each of AECP LP and AECP GP covenant and agree that, without the prior written consent of the Manager, it shall not amend, modify
+or restate the Partnership Agreement if the effect thereof would be likely to adversely affect the Manager or any of its Affiliates
+or the rights of the Manager or any such Affiliate under this Agreement or the Partnership Agreement and any amendment, modification
+or restatement effected without such prior written consent of the Manager shall be void and of no force or effect with respect
+to the Manager; provided, however, that the prior written consent of the Manager shall not be required in respect
+of any amendment made to the Partnership Agreement (even if it would be likely to adversely affect the Manager or any of its Affiliates)
+pursuant to Section 13.13(vi) of the Partnership Agreement that is made without the approval of AECP GP and is effected by approval
+of a majority in interest of the holders of Common Units.
+
+ 
+
+Section 13.11	Severability.
+If any clause or provision of this Agreement is illegal, invalid or unenforceable under any present or future law, the remainder
+of this Agreement will not be affected thereby. It is the intention of the Parties that if any such provision is held to be
+
+ 
+
+
+
+
+    42
+     
+    
+
+ 
+
+illegal,
+invalid or unenforceable, there will be added in lieu thereof a provision as similar in terms to such provisions as is possible
+to make such provision legal, valid and enforceable.
+
+ 
+
+Section 13.12	Waiver.
+Waiver of performance of any obligation or term contained in this Agreement by any Party, or waiver by one Party of the other’s
+default hereunder, will not operate as a waiver of performance of any other obligation or term of this Agreement or a future waiver
+of the same obligation or a waiver of any future default.
+
+ 
+
+Section 13.13	Counterparts;
+Facsimiles; Electronic Transmission. This Agreement may be executed in multiple counterparts, each of which will be an original
+instrument, but all of which will constitute one agreement. The execution and delivery of this Agreement by any Party may be evidenced
+by facsimile or other electronic transmission (including scanned documents delivered by email), which shall be binding upon all
+Parties.
+
+ 
+
+Section 13.14	Corporate
+Opportunity. AECP LP and the Owner acknowledge and agree that the Manager and its Affiliates engage and intend to continue
+to engage in the exploration, development, production, acquisition and disposition of oil and gas properties in North America and
+the marketing of production from such properties, which activities may be in competition with the Business of AECP LP and the Owner.
+AECP LP and the Owner acknowledge, covenant and agree that except for the obligation set forth in Article IX of this Agreement,
+notwithstanding anything to the contrary in this Agreement or any implied duty under applicable Law, in equity or otherwise, (a)
+none of the Manager or any of its Affiliates that acquire knowledge of a potential oil and gas lease, acquisition, or investment
+opportunity, or exploration or development transaction involving oil and gas properties and that may be an opportunity for AECP
+LP or the Owner shall have any duty to communicate or offer such opportunity to AECP LP or the Owner, (b) it shall be deemed not
+to be breach of any duty or any other obligation of any type whatsoever, express or implied, under this Agreement or applicable
+Law, of the Manager or any of its Affiliates to not communicate or offer such opportunity to AECP LP or the Owner, and (c) none
+of the Manager or any of its Affiliates shall be liable to AECP LP or the Owner or any other Person by reason of the fact that
+the Manager or any of its Affiliates pursues or acquires for itself or its Affiliates, or otherwise directs, any such opportunity
+to another Person or does not communicate such opportunity or information to AECP LP or the Owner.
+
+ 
+
+Section 13.15	Joint
+Acknowledgement. This written Agreement represents the final agreement between the Parties and may not be contradicted by evidence
+of prior, contemporaneous or subsequent oral agreements of the Parties. There are no unwritten oral agreements between the Parties.
+
+ 
+
+[Remainder of Page Intentionally Left
+Blank
+
+Signature Pages Follow]
+
+
+
+
+ 
+
+
+
+
+    43
+     
+    
+
+ 
+
+IN WITNESS WHEREOF,
+the Parties have executed this Agreement as of the Effective Date.
+
+ 
+
+MANAGER:
+
+ 
+
+AECP Management, LLC
+an Oklahoma limited liability company
+
+ 
+
+By:	/s/ Scott R. Mueller
+
+Scott R. Mueller
+Chief Financial Officer
+
+ 
+
+AECP LP
+
+ 
+
+American Energy Capital Partners,
+LP
+a Delaware limited partnership
+
+ 
+
+By:	American Energy Capital Partners
+GP, LLC
+
+its General Partner
+
+ 
+
+By: /s/Edward M. Weil, Jr.	
+
+Edward M. Weil, Jr.
+Chief Executive Officer and President
+
+ 
+
+OWNER:
+
+ 
+
+AECP Operating Company, LLC
+
+a Delaware limited liability company
+
+ 
+
+ 
+
+By:	American Energy Capital Partners,
+LP
+
+its Sole Member
+
+ 
+
+By:	American Energy Capital Partners
+GP, LLC
+
+its General Partner
+
+ 
+
+By:	/s/Edward M. Weil, Jr.
+
+Edward M. Weil, Jr.
+
+Chief Executive
+Officer and President
+
+
+
+     
+     
+    
+
+
+
+ 
+
+
+
+
+EXHIBIT A
+SCOPE OF SERVICES
+
+ 
+
+The “Services”
+shall mean general management, administrative and operating services reasonably requested by and at the direction of Owner and
+shall include, collectively, the Management Services and the Operating Services performed on behalf of the Owner and any Subsidiary,
+and other service or activity agreed by Owner and the Manager. At all times, the Manager’s provision of the Management Services
+and Operating Services shall be subject to the limitations set forth in this Agreement, and any other limits or restrictions mutually
+agreed by Owner and the Manager.
+
+ 
+
+The following services
+shall constitute “Management Services”:
+
+ 
+
+1.	General.
+The Manager shall (a) execute and carry out any lawful decisions or courses of action that have been approved by Owner in writing,
+(b) maintain the files and records for engineering, design, accounting, tax, regulatory, land and such other matters as are generally
+necessary for the conduct of the business of the Owner, (c) assist and support Owner in general planning and budgeting activities
+and (d) coordinate and manage the Owner’s reporting requirements for regulatory, tax, environmental or local compliance purposes.
+
+ 
+
+2.	Overhead Services.
+Manager will provide all general and administrative overhead services required for the Owner to conduct their respective business
+and operations.
+
+ 
+
+3.	Management.
+The Manager shall provide services in respect of the management of the Owner’s business and its Assets as may be requested
+by Owner, including (a) services necessary to satisfy the Owner’s contractual obligations and obligations under applicable
+Law and permits and Annual Budgets, (b) making recommendations relating to the improvement of the Owner’s operations and
+maintenance (including major maintenance) of its assets and (c) the management and administration of the Owner’s contracts
+and liaising with any Person that is party to a material contract with the Owner.
+
+ 
+
+4.	Liens.
+The Manager shall assist Owner in keeping the Owner’s Assets free and clear of all liens and encumbrances excluding liens
+and encumbrances arising in the ordinary course of business.
+
+ 
+
+5.	Funds and
+Funds Management. The Manager shall (a) supervise all disbursements from, and to the extent of the availability of, funds provided
+by the Owner necessary to pay its debts and obligations and (b) open accounts in the name of the Owner and deposit, withdraw and
+maintain funds provided by Owner or its members, in banks, savings and loan associations or other financial institutions. The Manager
+shall not under any circumstances commingle any funds received for the Owner or held for the account of the Owner with the Manager’s
+or any other Person’s funds.
+
+ 
+
+6.	Tax and Accounting
+Services. The Manager shall (a) provide and oversee financial and tax reporting (including all tax work necessary for Grant
+Thornton LLP to fulfill its obligations as “tax matters partner” under the Company Agreement or the Partnership Agreement)
+and cash management services, (b) monitor the Owner’s compliance with its debt
+
+ 
+
+
+
+
+    Exhibit A-1
+     
+    
+
+ 
+
+and financing documents and (c) perform
+such other accounting services as Owner may reasonably request.
+
+ 
+
+7.	IT Services.
+The Manager shall provide (or cause to be provided) information technology services that are necessary for the Owner to perform
+and otherwise complete its business activities, including services for (a) the management and maintenance of computer networks
+and databases, technology systems, and phone networks and plans, (b) the development and implementation of plans and standards
+relating to information technology and procurement, (c) the development and implementation of security policies and systems for
+the computer databases and technology systems of the Owner and (d) the procurement and acquisition of any other information technology
+services requested by Owner.
+
+ 
+
+8.	Third Party
+Services. The Manager shall (a) engage and manage outside legal, accounting and tax services for the Owner including, at Owner’s
+request and direction, providing Owner with legal, accounting or tax counseling or recordkeeping as to the Owner’s business
+activities, and at Owner’s request and direction, initiating, maintaining, investigating and defending any claims, actions
+or proceedings to which the Owner is a party, (b) engage and manage engineering, operations and other technical consulting services
+as required in connection with the Owner’s business and (c) engage environmental consulting services, including services
+(i) advising and counseling Owner with respect to environmental compliance issues, including researching applicable environmental
+Laws and (ii) assisting Owner in obtaining and maintaining compliance with any and all necessary environmental permits, registrations,
+authorizations, licenses, approvals or consents from relevant organizations and governmental authorities.
+
+ 
+
+9.	Regulatory.
+The Manager shall (a) engage and manage regulatory consultants and cause the admission of Owner into regional and industry associations
+if such admission would, in the judgment of Owner, be required or desirable for the operations of the Owner’s business, and
+(b) with the approval of Owner, engage and manage representation in lobbying, studies, special or extraordinary sessions determined
+to involve or be in the interest of the Owner, including assisting Owner in its dealings with governmental, semi-governmental,
+administrative, fiscal or judicial bodies, departments, commissions, authorities, agencies or other entities having jurisdiction
+or regulatory power over the Owner’s business activities.
+
+ 
+
+10.	Insurance.
+At the request of the Owner and at the Owner’s expense, the Manager shall procure the insurance required to be maintained
+by the Owner under the NASAA Guidelines. The Manager shall make recommendations to Owner in respect of the types, amounts and content
+of insurance necessary or desirable for Owner and its business or the business and Assets of the Owner. At the direction of Owner,
+the Manager shall procure, on behalf of Owner, insurance policies providing the coverage and in the amounts specified by Owner,
+and maintain such policies in full force and effect. The Manager shall be named as an additional insured in respect of all liability
+insurance policies maintained by the Owner, with waiver of subrogation.
+
+ 
+
+11.	Supervision.
+The Manager shall provide supervisory services for Owner or the Owner’s contractors and operators in connection with the
+operation of the Owner’s business and Assets.
+
+ 
+
+
+
+
+    Exhibit A-2
+     
+    
+
+ 
+
+12.	Staffing.
+As authorized, coordinated and approved by Owner (including pursuant to an Annual Budget), the Manager will contract out those
+services most effectively and efficiently provided by third parties on behalf of the Owner.
+
+ 
+
+13.	Compliance
+with Credit Documentation. Upon the reasonable request by the Owner at any time or from time to time the Manager will assist
+the Owner in the negotiation of an Approved Credit Facility subject to any applicable limitations thereon set forth in the Partnership
+Agreement that the Manager has been notified by Owner apply in respect of such Approved Credit Facility. The Manager shall provide
+a statement indicating the compliance, or failure to comply, of the Owner with any financial covenants, cash flow requirements,
+maintenance ratios and reserve balances in any Approved Credit Facility for the periods covered by such financial statements.
+
+ 
+
+14.	Business
+Development. The Manager will use reasonable commercial efforts to identify Property Acquisitions for the Owner to directly
+or indirectly acquire that the Manager believes may be an appropriate opportunity for the Owner. If the Owner elects in accordance
+with Section 9.1 to pursue a Property Acquisition, Manager will use its commercially reasonable efforts to negotiate with
+the Seller and submit to Owner for execution, a Purchase and Sale Agreement and other applicable transaction documents which, to
+the extent reasonably possible, shall comply with the General Parameters. The Manager will provide Owner with each Proposal for
+any Property Acquisition the information specified in Section 9.1(c), copies of all title reports and environmental reports
+obtained by the Manager with respect to such Property Acquisitions and such other information that is available to the Manager
+and that is reasonably requested by the Owner regarding such Property Acquisition, and upon the Owner’s request will meet
+with the Owner and its advisors to discuss the evaluation any Property Acquisition pursued by the Owner.
+
+ 
+
+15.	Sale Preparation.
+At Owner’s request, the Manager will take such actions to prepare (and arrange for) all or any portion of the Owner’s
+Assets to be sold or otherwise disposed of or liquidated (including through a dissolution or winding up of the Owner).
+
+ 
+
+16.	Financing
+Coordination. At Owner’s request, at any time or from time to time, the Manager will take such actions (a) to investigate
+and evaluate financing alternatives for (i) any Property Acquisition, (ii) the ownership, development and operation of any
+portion of the Owner’s Assets, or (iii) any refinancing of the foregoing, (b) will advise the Owner of financing alternatives
+that the Manager believes to be appropriate under the circumstances for Owner’s consideration, and (c) at Owner’s request
+will assist Owner in negotiating the final definitive terms of any Loan documents for execution by Owner and any of its affiliates
+subject to any applicable limitations thereon set forth in the Partnership Agreement that the Manager has been notified by Owner
+apply in respect of such Loan documents.
+
+ 
+
+The following services
+shall constitute “Operating Services”:
+
+ 
+
+1.	Lease Operations.
+The Manager shall perform all Lease Operations in accordance with the Standards set forth in Section 2.3. The Manager shall
+manage the progress, evaluation and implementation of all projects (including multi-well drilling, workover and recompletion projects
+and secondary/tertiary recovery projects) being carried out in connection with the performance of Lease Operations.
+
+ 
+
+
+
+
+    Exhibit A-3
+     
+    
+
+ 
+
+2.	The Manager shall
+apply, pay for (subject to reimbursement by the Owner as set forth herein), obtain, and maintain in a timely manner all approvals,
+authorizations, licenses and permits necessary or advisable for or in connection with the Owner’s ownership of the Assets
+and operation of its Business (the “Permits”).
+
+ 
+
+3.	Authorizations.
+The Manager shall provide the oversight to assure that the operator of the Owner’s Assets acquires all permits, consents,
+approvals, surface or other rights that may be required for or in connection with the conduct of the Lease Operations.
+
+ 
+
+4.	Technical
+Evaluation. The Manager shall provide the oversight to assure that the operator of the Owner’s Assets performs the technical,
+geological, petroleum engineering and related evaluations that are necessary or appropriate under the Standards set forth in Section 2.3
+to perform the Lease Operations and to evaluate proposed acquisitions of oil and gas properties by the Owner.
+
+ 
+
+5.	Marketing
+and Transportation. The Manager shall provide the oversight to assure that the operator of the Owner’s Assets arranges
+for the purchase, transportation and storage of all hydrocarbons and all supplies, materials and equipment needed in order to perform
+the Lease Operations.
+
+ 
+
+6.	Safety.
+The Manager shall provide the oversight to assure that the operator of the Owner’s Assets takes customary measures consistent
+with the Standards set forth in Section 2.3 for the protection of life, health, the environment and property in the case
+of an emergency.
+
+ 
+
+7.	Releases.
+The Manager shall provide the oversight necessary or appropriate to assure that the operator of the Owner’s Assets reports
+any spill and environmental releases to the appropriate state or federal regulatory agencies as required by applicable Law.
+
+ 
+
+8.	Information.
+The Manager shall maintain the following data and reports as they are produced or compiled from Lease Operations: (a) copies of
+all logs and surveys furnished by the operator(s) of the Owner Assets; (b) regular drilling, workover or similar operations reports
+furnished by the operator(s) of Owner’s Assets; (c) copies of all plugging reports; (d) copies of all geological and
+geophysical maps and reports; (e) well tests, completion and similar operations reports furnished by the operator(s) of Owner’s
+Assets; (f) if prepared, engineering studies, development schedules and annual progress reports on development projects; (g) field
+and well performance reports, including reservoir studies and reserve estimates; (h) lease documents, contracts, agreements, title
+instruments and title files; and (i) such additional information as would be maintained by a Reasonably Prudent Operator.
+
+ 
+
+
+
+
+    Exhibit A-4
+     
+    
+
+ 
+
+EXHIBIT B
+MANAGER’S INSURANCE
+
+ 
+
+
+
+    TYPE OF INSURANCE
+    POLICY LIMITS
+
+    
+        General Liability
+        Including coverage for Personal & Advertising
+        Injury, Products-Completed Operations and Underground Resources
+        General aggregate
+        Each occurrence
+    
+         
+         
+         
+        $10,000,000
+        $10,000,000
+
+    
+        Automobile Liability
+        Any auto – Each
+        accident
+    
+         
+        $10,000,000
+
+    
+        Employers Liability
+        Each accident
+    
+         
+        $10,000,000
+
+    Workers’ Compensation
+    Statutory limits
+
+    
+        Pollution Liability
+        Each claim
+        Policy aggregate
+    
+         
+        $1,000,000
+        $2,000,000
+
+    
+        
+        Limits required herein may be satisfied by
+        a combination of self-insurance, primary and excess/umbrella insurance.
+         
+        Owner named as Alternate Employer under Workers
+        Compensation and Employers Liability policies except where a state’s monopolistic workers compensation program does not permit.
+         
+        Owner named as an additional insured on all
+        other policies.
+         
+        Waiver of Subrogation in favor of
+Owner applies to all policies.
+
+ 
+
+
+
+
+    Exhibit B
+     
+    
+
+ 
+
+
+
+
+
+
+
+
+EXHIBIT C
+
+ 
+
+COST REIMBURSEMENT
+
+ 
+
+Part I
+
+The Monthly Management Fee paid to the
+Manager shall be the sole source for the reimbursement to the Manager of the following overhead expenses incurred by the Manager
+in performing the Services:
+
+ 
+
+Personnel salaries and bonuses
+
+Personnel burdens and benefits
+
+Pension, retirement and insurance
+plans
+
+Unemployment, payroll and other
+taxes
+
+Administrative contractors or
+consultants
+
+Office rent and occupancy costs
+
+Office equipment and rentals
+
+Office supplies
+
+Office utilities
+
+Data processing
+
+Office maintenance and repairs
+
+Employee parking
+
+Telephone and communications
+
+Postage and delivery expense
+
+Business meals
+
+Professional dues and subscriptions
+
+Training expenses
+
+Club memberships
+
+Computer and software support
+
+Payroll and other fees
+
+Banking and industry relationships
+
+General land services (unless
+associated with a Proposal and other than contract land services)
+
+ 
+
+Part II
+
+Except to the extent that the following
+Services are included within the items for which the Manager is responsible as provided above, the Manager shall be entitled to
+reasonable reimbursement in accordance with Section 5.2 of the Management Agreement for the following out-of-pocket expenses
+to the extent such costs and expenses are incurred in accordance with the terms of the Agreement and any applicable joint operating
+agreement or applicable law:
+
+ 
+
+Audit expense
+
+Independent geological, geophysical
+and engineering services
+
+Tax return services
+
+Investor reporting expense incurred
+on behalf of Owner
+
+Legal services (other than legal
+services for prosecuting or defending claims regarding breach of this Agreement or claims brought by employees, consultants, officers,
+directors or agents or in formation of the Manager)
+
+
+
+
+ 
+
+
+
+
+    Exhibit C-1
+     
+    
+
+ 
+
+Outsourced accounting services
+
+Contract land services
+
+Costs incurred in coordinating
+financing on behalf of the Owner, including, without limitation, the Approved Credit Facility and any amendment, restatement or
+replacement thereof and any waiver thereunder
+
+Reimbursements to the Manager
+(or its designated Affiliate) pursuant to any Operating Agreement and COPAS accounting procedure under which the Manager (or its
+designated Affiliate) is the Operator, but excluding from such reimbursements overhead of the Manager (or its designated Affiliate)
+
+Insurance
+
+Franchise or state taxes
+
+Third Party marketing fees
+
+ 
+
+
+
+
+    Exhibit C-2
+     
+    
+
+ 
+
+
+
+
+EXHIBIT D
+OPERATING AGREEMENT
+
+ 
+
+ 
+
+
+    Exhibit D
+    
+
+
+
+
+
+
+

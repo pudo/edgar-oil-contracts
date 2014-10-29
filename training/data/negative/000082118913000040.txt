@@ -1,0 +1,330 @@
+
+EX-10.9
+3
+exh10_9.htm
+CHANGE OF CONTROL AGREEMENT
+
+
+
+
+
+
+
+
+EXHIBIT 10.9
+
+
+
+
+
+
+
+CHANGE OF CONTROL AGREEMENT
+
+This Change of Control Agreement ("Agreement") between EOG Resources, Inc., a Delaware corporation (the "Company"), and Lloyd W. Helms (the "Employee") is effective as of this 27th day of June, 2013 (the "Effective Date").  Certain capitalized terms used herein are defined in Section 21.
+
+WITNESSETH:
+
+Whereas, the Company considers it to be in the best interests of its stockholders to encourage the continued employment of certain key employees of the Company notwithstanding the possibility, threat or occurrence of a Change of Control of the Company; and
+
+Whereas, the Employee is a key employee of the Company; and
+
+Whereas, the Company believes that the possibility of the occurrence of a Change of Control of the Company may result in the termination by the Employee of the Employee's employment by the Company or in the distraction of the Employee from the performance of Employee's duties to the Company, in either case to the detriment of the Company and its stockholders; and
+
+Whereas, the Company recognizes that the Employee could suffer adverse financial and professional consequences if a Change of Control of the Company were to occur; and
+
+Whereas, the Company wishes to continue to protect the Employee if a Change of Control of the Company occurs, thereby encouraging the Employee to remain in the employ of the Company and not to be distracted from the performance of Employee's duties to the Company by the possibility of a Change of Control of the Company; and
+
+Now, Therefore, the parties agree as follows:
+
+SECTION 1.   OTHER EMPLOYMENT ARRANGEMENTS.
+
+(a)            This Agreement does not affect the Employee's existing or future employment arrangements with the Company unless a Change of Control of the Company shall have occurred before the expiration of the term of this Agreement.  The Employee's employment with the Company shall continue to be governed by the Employee's existing or future employment agreements with the Company, if any, or, in the absence of any employment agreement, shall continue to be at the will of the Company, except that if a Change of Control of the Company shall have occurred before the expiration of the term of this Agreement and the Employee's employment with the Company is terminated (whether by the Employee or the Company or automatically as provided in Section 3) after the occurrence of that Change of Control of the Company, then the Employee shall be entitled to receive certain benefits as provided in this Agreement.
+
+(b)            Nothing in this Agreement shall prevent or limit the Employee's continuing or future participation in any plan, program, policy or practice of or provided by the Company or any of its Affiliates and for which the Employee may qualify, nor shall anything herein limit or otherwise affect such rights as the Employee may have under any contract or agreement with the Company or any of its Affiliates.  Amounts which are vested benefits or which the Employee is otherwise entitled to receive under any plan, program, policy or practice of or provided by, or any contract or agreement with, the Company or any of its Affiliates at or subsequent to the date of termination of the Employee's employment with the Company shall be payable or otherwise provided in accordance with such plan, program, policy or practice or contract or agreement except as explicitly modified by this Agreement.
+
+SECTION 2.  CHANGE OF CONTROL OF THE COMPANY.
+
+A "Change of Control of the Company" shall mean the occurrence of any of the following events:
+
+(a)            The acquisition by any individual, entity or group (within the meaning of Section 13(d)(3) or 14(d)(2) of the Securities Exchange Act of 1934, as amended (the "Exchange Act") (an "Exchange Act Person") of beneficial ownership (within the meaning of Rule 13d‑3 promulgated under the Exchange Act) of 20% or more of either the then-outstanding shares of common stock of the Company (the "Outstanding Company Common Stock") or the combined voting power of the then-outstanding voting securities of the Company entitled to vote generally in the election of directors (the "Outstanding Company Voting Securities"); provided, however, that, for purposes of this clause (a), the following acquisitions shall not constitute a Change of Control of the Company:  (i) any acquisition directly from the Company, (ii) any acquisition by the Company, (iii) any acquisition by any employee benefit plan (or related trust) sponsored or maintained by the Company or any Affiliated Company, (iv) any acquisition by any corporation pursuant to a transaction that complies with subclauses (i), (ii) and (iii) of clause (c) of this Section 2 or (v) an acquisition by a Qualified Institutional Investor, but only for so long as such investor remains a Qualified Institutional Investor;
+
+
+
+
+(b)            Individuals who, as of May 3, 2005, constitute the Board of Directors (the "Incumbent Board") cease for any reason to constitute at least a majority of the Board of Directors; provided, however, that any individual becoming a director subsequent to May 3, 2005, whose election, or nomination for election by the Company's stockholders, was approved by a vote of at least a majority of the directors then comprising the Incumbent Board shall be considered as though such individual were a member of the Incumbent Board, but excluding, for this purpose, any such individual whose initial assumption of office occurs as a result of an actual or threatened election contest with respect to the election or removal of directors or other actual or threatened solicitation of proxies or consents by or on behalf of an Exchange Act Person other than the Board of Directors;
+
+
+
+
+(c)            Consummation of a reorganization, merger, consolidation or sale or other disposition of all or substantially all of the assets of the Company or the acquisition of the assets or stock of another entity (a "Business Combination"), in each case, unless, following such Business Combination, (i) all or substantially all of the individuals and entities that were the beneficial owners of the Outstanding Company Common Stock and the Outstanding Company Voting Securities immediately prior to such Business Combination beneficially own, directly or indirectly, more than 60% of the then-outstanding shares of common stock and the combined voting power of the then-outstanding voting securities entitled to vote generally in the election of directors, as the case may be, of the corporation resulting from such Business Combination (including, without limitation, a corporation that, as a result of such transaction, owns the Company or all or substantially all of the Company's assets either directly or through one or more subsidiaries) in substantially the same proportions as their ownership immediately prior to such Business Combination of the Outstanding Company Common Stock and the Outstanding Company Voting Securities, as the case may be, (ii) no Exchange Act Person (excluding any corporation resulting from such Business Combination or any employee benefit plan (or related trust) of the Company or such corporation resulting from such Business Combination) beneficially owns, directly or indirectly, 20% or more of, respectively, the then-outstanding shares of common stock of the corporation resulting from such Business Combination or the combined voting power of the then-outstanding voting securities of such corporation, except to the extent that such ownership existed prior to the Business Combination, and (iii) at least a majority of the members of the board of directors of the corporation resulting from such Business Combination were members of the Incumbent Board at the time of the execution of the initial agreement or of the action of the Board of Directors providing for such Business Combination; or
+
+
+
+
+(d)            Approval by the stockholders of the Company of a complete liquidation or dissolution of the Company.
+
+
+
+
+Notwithstanding anything contained in this Agreement to the contrary, if (i) the Employee's employment with the Company is terminated, or (ii) an event occurs which, had it occurred after a Change of Control of the Company, would with proper notice from Employee constitute an Event of Termination for Good Reason, and if it is reasonably demonstrated by the Employee that such action (A) was taken at the request of a third party that has taken steps reasonably calculated to effect a Change of Control of the Company or (B) otherwise arose in connection with or anticipation of a Change of Control of the Company, then for all purposes of this Agreement, such Change of Control of the Company shall be deemed to have occurred on the date immediately prior to the date of such termination or event.
+
+SECTION 3.  TERM OF THIS AGREEMENT.
+
+The term of this Agreement shall begin on the Effective Date and shall expire on the first to occur of:
+
+(a)            the Employee's death, the Employee's Disability or the Employee's Retirement, which events shall also be deemed automatically to terminate the Employee's employment by the Company; or
+
+(b)            the termination by the Employee or the Company of the Employee's employment by the Company.
+
+The expiration of the term of this Agreement shall not terminate this Agreement itself or affect the right of the Employee or the Employee's legal representatives to enforce the payment of any amount or other benefit to which the Employee was entitled before the expiration of the term of this Agreement or to which the Employee became entitled as a result of the event that caused the term of this Agreement to expire.
+
+SECTION 4.  EVENT OF TERMINATION FOR CAUSE.
+
+(a)            An "Event of Termination for Cause" shall mean the Employee's (i) conviction of a felony involving moral turpitude (which, through lapse of time or otherwise, is not subject to appeal), (ii) willful refusal without proper legal cause to perform employee's duties and responsibilities which remains uncorrected for thirty (30) days following written notice to the Employee by the Company of such event, or (iii) willfully engaging in conduct which the Employee has, or reasonably should have, reason to know is materially injurious to the Company.
+
+ 
+
+(b)            For purposes of this Section 4, no act, or failure to act, on the part of the Employee shall be considered "willful" unless it is done, or omitted to be done, by the Employee in bad faith or without reasonable belief that the Employee's action or omission was in the best interests of the Company.  Any act, or failure to act, based upon authority given pursuant to a resolution duly adopted by the Board of Directors or upon the instructions of the Chief Executive Officer of the Company or a senior officer of the Company or based upon the advice of counsel for the Company shall be conclusively presumed to be done, or omitted to be done, by the Employee in good faith and in the best interests of the Company.
+
+ 
+
+(c)            The cessation of employment of the Employee as a result of the alleged occurrence of an event referred to in clause (ii) or (iii) of the definition of "Event of Termination for Cause" shall not be deemed to be as a result of an Event of Termination for Cause unless and until there shall have been delivered to the Employee a copy of a resolution duly adopted by the affirmative vote of not less than three-quarters of the entire membership of the Board of Directors (excluding the Employee, if the Employee is a member of the Board of Directors) at a meeting of the Board of Directors called and held for such purpose (after reasonable notice is provided to the Employee and the Employee is given an opportunity, together with counsel for the Employee, to be heard before the Board of Directors), finding that, in the good faith opinion of the Board of Directors, the Employee is guilty of the conduct described in clause (ii) or (iii) of such definition and specifying the particulars thereof in detail.  Any determination of the Board of Directors under this clause (c) shall not be binding on the Employee, shall not be conclusive as to whether an Event of Termination for Cause has occurred, and shall not affect Employee's right to contest whether an Event of Termination for Cause has occurred.
+
+ 
+
+SECTION 5.   EVENT OF TERMINATION FOR GOOD REASON. 
+
+An "Event of Termination for Good Reason" shall mean, after a Change of Control of the Company, the occurrence of any of the following events, provided Employee serves written notice of termination in connection with or based upon any such event within 90 days of the Employee's knowledge of the occurrence of such event:
+
+(a)            a reduction in the Employee's authority and/or responsibilities (whether or not occurring solely as a result of the Company's ceasing to be a publicly traded entity); or
+
+
+
+
+(b)            a reduction in Employee's Annual Base Salary as in effect immediately prior to the Change of Control of the Company or a reduction in Employee's target annual bonus as in effect immediately prior to the Change of Control of the Company, or the failure to continue the Employee's full participation in any employee benefit plan or program (unless replaced by a substantially comparable plan or program) in which Employee is eligible to participate immediately prior to the Change of Control of the Company (other than as a result of the normal expiration of such plan or program), in each case other than as a part of a general program to reduce compensation or benefits on a proportional basis relative to all other employees of the Company; or
+
+
+
+
+(c)            a relocation of the Employee's primary place of work to a location more than 50 miles away from the Employee's primary place of work immediately prior to the Change of Control of the Company (provided, however, this clause (c) shall no longer apply to an employee after he has accepted any such relocation after a Change of Control of the Company has occurred and the above referenced 90 day period has passed), or
+
+
+
+
+(d)            the failure of the Company to obtain the assumption in writing of its obligation to perform this Agreement by any successor to the Company prior to a merger, consolidation, sale or similar transaction.
+
+
+
+
+For the avoidance of doubt, any action referred to in clause (a), (b), (c) or (d) above shall constitute an Event of Termination for Good Reason under the foregoing definition regardless of whether the Company is permitted to take such action under any employment contract with the Employee.
+
+
+
+
+SECTION 6.   NOTICE OF TERMINATION.
+
+If a Change of Control of the Company shall have occurred before the expiration of the term of this Agreement, any termination by the Employee or the Company of the Employee's employment by the Company, or any determination of the Employee's Disability, that occurs within two years of such Change of Control shall be communicated by notice to the other party that shall indicate the specific paragraph of Section 7 pursuant to which the Employee is to receive benefits as a result of the termination.  If the notice states that the Employee's employment by the Company has been automatically terminated as a result of the Employee's Disability, the notice shall specifically describe the basis for the determination of the Employee's Disability and shall state the date of the determination of the Employee's Disability, which date shall be not more than ten days before the date such notice is given.  If the notice is from the Company and states that the Employee's employment by the Company is terminated by the Company as a result of the occurrence of an Event of Termination for Cause, the notice shall specifically describe the action or inaction of the Employee that the Company believes constitutes an Event of Termination for Cause, and in the case of a termination under clause (ii) or (iii) of the definition of Event of Termination for Cause, shall include the resolution of the Board of Directors referred to in Section 4(c).  If the notice is from the Employee and states that the Employee's employment by the Company is terminated by the Employee as a result of the occurrence of an Event of Termination for Good Reason, the notice shall specifically describe the action or inaction of the Company that the Employee believes constitutes an Event of Termination for Good Reason.  Each notice given pursuant to this Section 6 (other than a notice stating that the Employee's employment by the Company has been automatically terminated as a result of the Employee's Disability) shall state a date, which shall be not fewer than 30 days nor more than 60 days after the date such notice is given, on which the termination of the Employee's employment by the Company is effective.  The date so stated in accordance with this Section 6 shall be the "Termination Date".  If a Change of Control of the Company shall have occurred before the expiration of the term of this Agreement, any subsequent purported termination by the Company of the Employee's employment by the Company, or any subsequent purported determination by the Company of the Employee's Disability, within two years of such Change of Control shall be ineffective unless that termination or determination shall have been communicated by the Company to the Employee by notice that meets the requirements of the foregoing provisions of this Section 6 and the provisions of Section 9.
+
+SECTION 7.  BENEFITS PAYABLE ON CHANGE OF CONTROL AND TERMINATION.
+
+If a Change of Control of the Company shall have occurred before the expiration of the term of this Agreement, and the Employee's employment by the Company is terminated (whether by the Employee or the Company or automatically as provided in Section 3) within two years after the occurrence of that Change of Control of the Company, the Employee shall be entitled to the following benefits:
+
+(a)            If the Employee's employment by the Company is terminated by the Company as a result of the occurrence of an Event of Termination for Cause, or by the Employee before the occurrence of an Event of Termination for Good Reason, then the Company shall pay to the Employee the Base Salary accrued through the Termination Date but not previously paid to the Employee, and the Employee shall be entitled to any other amounts or benefits provided under any plan, policy, practice, program, contract or arrangement of or with the Company, which shall be governed by the terms thereof (except as explicitly modified by this Agreement).
+
+(b)            If the Employee's employment by the Company is automatically terminated as a result of the Employee's death, the Employee's Disability or the Employee's Retirement, then the Company shall pay to the Employee the Base Salary accrued through the date of the occurrence of that event but not previously paid to the Employee, and the Employee shall be entitled to any other amounts or benefits provided under any plan, policy, practice, program, contract or arrangement of or with the Company, which shall be governed by the terms thereof (except as explicitly modified by this Agreement).
+
+(c)            If the Employee's employment by the Company is terminated (x) by the Company, other than as a result of the occurrence of an Event of Termination for Cause, or (y) by the Employee after the occurrence of an Event of Termination for Good Reason, then the Employee shall be entitled to the following:
+
+(i)            the Company shall pay to the Employee the Base Salary and compensation for earned but unused vacation time accrued through the Termination Date but not previously paid to the Employee;
+
+(ii)            the Company shall pay to the Employee, as a lump sum, an amount  equal to the total of the following amounts:
+
+(A)            2.99 times the amount of the Employee's Annual Base Salary as in effect immediately prior to the Change of Control (or if increased, immediately prior to the Termination Date); plus
+
+(B)            two (2) times the amount of the Employee's target annual bonus as in effect immediately prior to the Change of Control (or if no target annual bonus for the year in which the Change of Control occurs has been set, the target annual bonus for the immediately prior year) (or if increased, immediately prior to the Termination Date); plus
+
+(C)            the amount of the Money Purchase Pension Plan contributions that would have been made by the Company on behalf of the Employee if the Employee had continued to be employed by the Company at the Employee's Annual Base Salary as in effect immediately prior to the Change of Control  (or if increased, immediately prior to the Termination Date) for three years following the Termination Date; and plus
+
+(D)            the amount that would have been paid on behalf of the Employee as matching amounts to the Company's Savings Plan if the Employee had continued to be employed by the Company at the Employee's Annual Base Salary as in effect immediately prior to the Change of Control (or if increased, immediately prior to the Termination Date) for three years following the Termination Date and had continued to contribute to the Company's Savings Plan during such three year period at the Employee's then current contribution level.
+
+(iii)            the Company shall arrange for the Employee's uninterrupted participation for three (3) years after the Termination Date in the Company's major medical/dental insurance plan, which participation shall cease upon Employee's eligibility for participation in a major medical/dental insurance plan of another employer;
+
+(iv)            the Company shall cause the Employee to receive three (3) years age and service credit for eligibility for the Company's retiree medical insurance coverage; and
+
+(v)            the Company shall provide outplacement services at a cost not to exceed $50,000.00.
+
+Each payment required to be made to the Employee pursuant to the foregoing provisions of this Section 7 shall be made by check drawn on an account of the Company at a bank located in the United States of America (unless the Employee has elected to have salary payments deposited directly by the Company to a bank account maintained by the Employee, in which event the Company shall make a direct deposit of the payment to that account), and shall be paid (x) if the Employee's employment by the Company was terminated as a result of the Employee's death, the Employee's Disability or the Employee's Retirement, not more than 30 days immediately following the date of the occurrence of that event, and (y) if the Employee's employment by the Company was terminated for any other reason, not more than ten days immediately following the Termination Date.
+
+SECTION 8.  SUCCESSORS.
+
+If a Change of Control of the Company shall have occurred before the expiration of the term of this Agreement,
+
+(a)            the Company shall not, directly or indirectly, consolidate with, merge into or sell or otherwise transfer its assets as an entirety or substantially as an entirety to, any person, or permit any person to consolidate with or merge into the Company, unless immediately after such consolidation, merger, sale or transfer, the Successor shall have assumed in writing the Company's obligations under this Agreement and agreed to perform this Agreement in the same manner and to the same extent that the Company would be required to perform it if no such succession had taken place; and
+
+(b)            not fewer than ten days before the consummation of any consolidation of the Company with, merger by the Company into, or sale or other transfer by the Company of its assets as an entirety or substantially as an entirety to, any person, the Company shall give the Employee notice of that proposed transaction.
+
+SECTION 9.  NOTICE.
+
+Notices required or permitted to be given by either party pursuant to this Agreement shall be in writing and shall be deemed to have been given when delivered personally to the other party or when deposited with the United States Postal Service as certified or registered mail with postage prepaid and addressed:
+
+(a)            if to the Employee, at the Employee's address last shown on the Company's records, and
+
+(b)            if to the Company, at 1111 Bagby, Sky Lobby 2, Houston, Texas 77002, directed to the attention of the Company's Chairman of the Board,
+
+or, in either case, to such other address as the party to whom such notice is to be given shall have specified by notice given to the other party.
+
+
+
+
+SECTION 10.  WITHHOLDING TAXES.
+
+The Company may withhold from all payments to be paid to the Employee pursuant to this Agreement all taxes that, by applicable federal or state law, the Company is required to so withhold.
+
+SECTION 11.  U.S. EXCISE TAXES.
+
+
+
+
+If any payment or right accruing to the Employee from the Company or an Affiliate under this Agreement without the application of this Section 11 ("Total Payments"), would constitute a "parachute payment" (as defined in Section 280G of the Code (as defined in Section 20) and regulations thereunder), the severance benefit payable under this Agreement shall be reduced to the largest amount that will result in no portion of the amounts payable or rights accruing being subject to an excise tax under Section 4999 of the Code or being disallowed as a deduction under Section 280G of the Code.  The determination of whether any reduction in the severance benefit payable is to apply shall be made by a public accounting firm chosen by the Company, at the expense of the Company.  Such determination shall be made in good faith after consultation with the Employee and shall be conclusive and binding on the Employee.  The Employee shall cooperate in good faith with said accounting firm in making such determination and providing the necessary information for this purpose.  The foregoing provisions of this Section 11 shall apply only if after reduction for any applicable federal excise tax imposed by Section 4999 of the Code and federal, state or local income or employment taxes, the Total Payments accruing to the Employee would be less than the amount of the Total Payments as reduced under the foregoing provisions of this Section 11 and after reduction for only federal, state or local income or employment taxes.  For the avoidance of doubt, the parties to this Agreement agree that this Section 11 explicitly modifies the U.S. Excise Tax treatment of benefits which may be payable or otherwise provided under any plan, program, policy, or practice of the Company or an Affiliate and any agreement or understanding that the Employee may have with the Company or an Affiliate.
+
+
+
+
+SECTION 12.  EXPENSES OF ENFORCEMENT.
+
+The Company agrees to pay as incurred (within ten days following the Company's receipt of an invoice from the Employee), to the full extent permitted by law, all legal fees and expenses that the Employee may reasonably incur as a result of any contest (regardless of the outcome thereof) by the Company, the Employee or others of the validity, interpretation or enforceability of, or liability under, any provision of this Agreement (including as a result of any contest by the Employee about the amount of any payment pursuant to this Agreement), plus, in each case, interest on any delayed payment at the applicable federal rate provided for in Section 7872(f)(2)(A) of the Code.
+
+SECTION 13.  EMPLOYMENT BY WHOLLY OWNED ENTITIES.
+
+If, at or after the Effective Date, the Employee is or becomes an employee of one or more corporations, partnerships, limited liability companies or other entities that are, directly or indirectly, wholly owned by the Company, references in this Agreement to the Employee's employment by the Company shall include the Employee's employment by any such wholly owned entity.
+
+SECTION 14.  NO OBLIGATION TO MITIGATE; NO RIGHTS OF OFFSET.
+
+(a)            The Employee shall not be required to mitigate the amount of any payment or other benefit required to be paid to the Employee pursuant to this Agreement, whether by seeking other employment or otherwise, nor shall the amount of any such payment or other benefit be reduced on account of any compensation earned or benefits received by the Employee as a result of employment by another person.
+
+(b)            The Company's obligation to make the payments provided for in this Agreement and otherwise to perform its obligations hereunder shall not be affected by any set-off, counterclaim, recoupment, defense or other claim, right or action which the Company may have against the Employee or others.
+
+SECTION 15.  AMENDMENT AND WAIVER.
+
+No provision of this Agreement may be amended or waived (whether by act or course of conduct or omission or otherwise) unless that amendment or waiver is by written instrument signed by the parties hereto.  No waiver by either party of any breach of this Agreement shall be deemed a waiver of any other or subsequent breach.
+
+SECTION 16.  GOVERNING LAW.
+
+The validity, interpretation, construction and enforceability of this Agreement shall be governed by the laws of the State of Texas.
+
+SECTION 17.  VALIDITY.
+
+The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, which shall remain in full force and effect.
+
+SECTION 18.  COUNTERPARTS.
+
+This Agreement may be executed in counterparts, each of which shall be deemed an original but all of which together will constitute the same instrument.
+
+SECTION 19.  ASSIGNMENT.
+
+This Agreement shall inure to the benefit of and be enforceable by the Employee's legal representative.  The Company may not assign any of its obligations under this Agreement unless (i) such assignment is to a Successor and (ii) the requirements of Section 8 are fulfilled.
+
+SECTION 20.  CODE SECTION 409A.
+
+The parties hereto will act in good faith to equitably restructure any payments and benefits provided for in this Agreement to the extent necessary to comply with Section 409A of the Internal Revenue Code of 1986, as amended (the "Code").  Any such restructuring shall not reduce the value of such benefits and payments.  Upon the Employee's termination of employment with the Company, in no event shall any payment or provision of benefits be made prior to the date that is six months after the Employee's termination of employment to the extent such payment delay is required under Section 409A(a)(2)(B)(i) of the Code.  For purposes of any payments or provision of benefits under this Agreement, the Employee shall not be considered to have terminated employment unless the Employee incurs a "separation from service" with the Company within the meaning of Section 409A(a)(2)(A)(i) of the Code and applicable guidance issued thereunder.
+
+SECTION 21.  MISCELLANEOUS.
+
+(a)            As used in this Agreement, the following terms and phrases have the indicated meanings:
+
+(i)             "Affiliate" and "Affiliates" mean, when used with respect to any entity, individual, or other person, any other entity, individual, or other person which, directly or indirectly, through one or more intermediaries controls, or is controlled by, or is under common control with such entity, individual or person.  "Affiliated Company" means any entity that is an Affiliate of the Company.
+
+(ii)            "Annual Base Salary" means, at any point in time, the regular rate of wages payable to the Employee, expressed on an annualized basis, including any base salary that has been earned but deferred.
+
+(iii)            "Board of Directors" means the Board of Directors of the Company.
+
+(iv)            "Change of Control of the Company" has the meaning assigned to that phrase in Section 2.
+
+(v)             "Company" has the meaning assigned to that term in the preamble to this Agreement.  The term "Company" shall also include any Successor, whether the liability of such Successor under this Agreement is established by contract or occurs by operation of law.
+
+(vi)            "Effective Date" has the meaning assigned to that term in the preamble to this Agreement.
+
+(vii)            "Employee" has the meaning assigned to such term in the preamble to this Agreement.
+
+(viii)           "Employee's Disability" means:
+
+(A)            if no Change of Control of the Company shall have occurred before the date of determination, the physical or mental disability of the Employee determined in accordance with the disability policy of the Company at the time in effect and generally applicable to its salaried employees; and
+
+(B)            if a Change of Control of the Company shall have occurred before the date of determination, the physical or mental disability of the Employee determined in accordance with the disability policy of the Company in effect immediately before the occurrence of the first Change of Control of the Company and generally applicable to its salaried employees.
+
+(ix)            "Employee's Retirement" means (x) if no Change of Control of the Company shall have occurred before the date of the Employee's proposed retirement, the retirement of the Employee in accordance with the retirement policy of the Company at the time in effect and generally applicable to its salaried employees, and (y) if a Change of Control of the Company shall have occurred before the date of the Employee's proposed retirement, the retirement of the Employee from the employ of the Company in accordance with the retirement policy of the Company in effect immediately before the occurrence of the first Change of Control of the Company and generally applicable to its salaried employees.
+
+(x)            "Event of Termination for Good Reason" has the meaning assigned to that phrase in Section 5.
+
+(xi)            "Event of Termination for Cause" has the meaning assigned to that phrase in Section 4.
+
+(xii)            "Expiration Date" has the meaning assigned to that term in Section 3.
+
+(xiii)          "Person" means any individual, corporation, partnership, joint venture, association, joint-stock company, limited partnership, limited liability company, trust, unincorporated organization, government, or agency or political subdivision of any government.
+
+(xiv)          "Qualified Institutional Investor" shall mean, as of any time of determination, a Person that is described in Rule 13d-l(b)(1) promulgated under the Securities Exchange Act of 1934, as amended (the "Exchange Act") (as such Rule is in effect on the date hereof) and is eligible to report (and, if such Person is the Beneficial Owner of greater than 5% of the shares of common stock of the Company ("Common Shares"), does in fact report) beneficial ownership of Common Shares on Schedule 13G, and such Person (i) is not required to file a Schedule 13D (or any successor or comparable report) with respect to its beneficial ownership of Common Shares, and (ii) shall be the Beneficial Owner of less than 15% of the Common Shares then outstanding; provided, however, that a Person which would constitute a Qualified Institutional Investor except for its failure to satisfy clause (ii) of this definition shall nonetheless constitute a Qualified Institutional Investor if (A) such Person or an Affiliate of such Person shall have, as of December 31, 2004, reported beneficial ownership of greater than 5% of the Common Shares for a period of two consecutive years and shall thereafter continuously beneficially own greater than 5% of the Common Shares then outstanding prior to the time of determination, (B) shall be the Beneficial Owner of less than 15% of the Common Shares then outstanding (including in such calculation the holdings of all of such Person's Affiliates and Associates other than those which, under published interpretations of the SEC or its Staff, are eligible to file separate reports on Schedule 13G with respect to their beneficial ownership of the Common Shares), and (C) such Person shall be the Beneficial Owner of less than 30% of the Common Shares then outstanding.
+
+Solely for the purposes of the above definition of "Qualified Institutional Investor", a person shall be deemed to be the "Beneficial Owner" of and shall be deemed to "beneficially own" any securities (i) which such Person or any of such Person's Affiliates or Associates (as defined in Rule 12b-2 of the Exchange Act) beneficially owns, directly or indirectly; (ii) which such Person or any of such Person's Affiliates or Associates has (A) the right to acquire (whether such right is exercisable immediately or only after the passage of time) pursuant to any agreement, arrangement or understanding (other than customary agreements with and between underwriters and selling group members with respect to a bona fide public offering of securities), or upon the exercise of conversion rights, exchange rights, rights, warrants or options, or otherwise; provided, however, that a Person shall not be deemed the Beneficial Owner of, or to beneficially own, securities tendered pursuant to a tender or exchange offer made by or on behalf of such Person or any of such Person's Affiliates or Associates until such tendered securities are accepted for purchase or exchange; or (B) the right to vote pursuant to any agreement, arrangement or understanding; provided, however, that a Person shall not be deemed the Beneficial Owner of, or to beneficially own, any security if the agreement, arrangement or understanding to vote such security (1) arises solely from a revocable proxy or consent given to such Person in response to a public proxy or consent solicitation made pursuant to, and in accordance with, the applicable rules and regulations promulgated under the Exchange Act and (2) is not also then reportable on Schedule 13D under the Exchange Act (or any comparable or successor report); or (iii) which are beneficially owned, directly or indirectly, by any other Person with which such Person or any of such Person's Affiliates or Associates has any agreement, arrangement or understanding (other than customary agreements with and between underwriters and selling group members with respect to a bona fide public offering of securities) for the purpose of acquiring, holding, voting (except to the extent contemplated by the proviso to (ii)(B) above) or disposing of any securities of the Company.
+
+
+
+
+(xv)            "Successor" means a person with or into which the Company shall have been merged or consolidated or to which the Company shall have transferred its assets as an entirety or substantially as an entirety.
+
+(xvi)          "Termination Date" has the meaning assigned to that term in Section 6.
+
+(xvii)        "This Agreement" means this Change of Control Agreement as it may be amended from time to time.
+
+(b)              In the event of the enactment of any successor provision to any statute or rule cited in this Agreement, references in this Agreement to such statute or rule shall be to such successor provision.
+
+(c)              The headings of Sections of this Agreement shall not control the meaning or interpretation of this Agreement.
+
+(d)              References in this Agreement to any Section are to the corresponding Section of this Agreement unless the context otherwise indicates.
+
+
+
+
+
+
+
+
+In Witness Whereof, the Company and the Employee have executed this Agreement as of the Effective Date.
+
+EOG RESOURCES, INC.
+
+
+
+
+
+
+
+
+
+
+By:  /s/ PATRICIA L. EDWARDS                                                                                    
+
+Name: Patricia L. Edwards
+
+Title: Vice President, Human Resources and Administration
+
+
+
+
+
+
+
+LLOYD W. HELMS
+
+
+
+
+/s/ L. W. HELMS, JR.                                                                                    
+
+
+
+
+
+
+
+

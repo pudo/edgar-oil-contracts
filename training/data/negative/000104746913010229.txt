@@ -1,0 +1,1619 @@
+
+EX-10.11
+2
+a2217109zex-10_11.htm
+EX-10.11
+
+
+
+
+
+
+
+Exhibit 10.11
+
+ 
+
+ 
+SIXTH AMENDMENT
+ 
+TO
+ 
+SENIOR REVOLVING CREDIT AGREEMENT
+ 
+DATED AS OF OCTOBER 31, 2013
+ 
+AMONG
+ 
+HALCÓN RESOURCES CORPORATION, AS BORROWER,
+ 
+THE GUARANTORS,
+ 
+JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT,
+ 
+WELLS FARGO BANK, N.A. AS SYNDICATION AGENT,
+ 
+BANK OF MONTREAL, AS DOCUMENTATION AGENT,
+ 
+AND
+ 
+THE LENDERS PARTY HERETO
+ 
+
+ 
+
+J. P. MORGAN SECURITIES LLC,
+AS SOLE LEAD ARRANGER
+ 
+J. P. MORGAN SECURITIES LLC AND WELLS FARGO SECURITIES, LLC,
+AS JOINT BOOKRUNNERS
+ 
+
+
+
+
+
+
+ 
+SIXTH AMENDMENT TO SENIOR REVOLVING CREDIT AGREEMENT
+ 
+THIS SIXTH AMENDMENT TO SENIOR REVOLVING CREDIT AGREEMENT (this Sixth Amendment) dated as of October 31, 2013 is among HALCÓN RESOURCES CORPORATION, a corporation duly formed and existing under the laws of the State of Delaware (the Borrower), each of the undersigned guarantors (the Guarantors, and together with the Borrower, the Obligors), each of the undersigned lenders party to the Credit Agreement referred to below, JPMORGAN CHASE BANK, N.A., as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the Administrative Agent), Wells Fargo Bank, N.A., as syndication agent for the Lenders and Bank of Montreal, as documentation agent for the Lenders.
+ 
+R E C I T A L S
+ 
+A.                                    The Borrower, the Administrative Agent, the Lenders and the other Agents party thereto, are parties to that certain Senior Revolving Credit Agreement dated as of February 8, 2012 (as amended by the First Amendment dated July 31, 2012, the Second Amendment dated January 25, 2013, the Third Amendment dated April 26, 2013, the Fourth Amendment dated May 8, 2013, the Fifth Amendment dated June 11, 2013 and as may be further amended, restated, modified or supplemented, the Credit Agreement), pursuant to which the Lenders have made certain credit and other financial accommodations available to and on behalf of the Borrower and its Subsidiaries.
+ 
+B.                                    The Borrower has requested and the Administrative Agent and each of the Lenders have agreed to amend certain provisions of the Credit Agreement.
+ 
+C.                                    NOW, THEREFORE, to induce the Administrative Agent and each of the Lenders to enter into this Sixth Amendment and in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+ 
+Section 1.                                           Defined Terms.  Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this Sixth Amendment.  Unless otherwise indicated, all section references in this Sixth Amendment refer to sections of the Credit Agreement.
+ 
+Section 2.                                           Amendments to Credit Agreement.
+ 
+2.1                               Financial Covenants.  Section 9.01(a) of the Credit Agreement is amended, in its entirety, effective as of the Sixth Amendment Effective Date to read as follows:
+ 
+(a)                           Interest Coverage Ratio.  The Borrower will not, as of the last day of any fiscal quarter, permit its Interest Coverage Ratio to be to be less than 2.5 to 1.0; provided that (i) for the fiscal quarter ended December 31, 2013, the Interest Coverage Ratio shall be calculated by utilizing EBITDA for the three month period then ended multiplied by 4; (ii) for the fiscal quarter ended March 31, 2014, the Interest Coverage Ratio shall be calculated by utilizing EBITDA for the
+ 
+
+
+
+
+
+
+ 
+six month period then ended multiplied by 2; and (iii) for the fiscal quarter ended June 30, 2014, the Interest Coverage Ratio shall be calculated by utilizing EBITDA for the nine month period then ended multiplied by 4/3.
+ 
+2.2                               Maximum Credit Amounts.  Annex I of the Credit Agreement is hereby deleted, in its entirety, effective as of the Sixth Amendment Effective Date, and replaced with Annex I attached hereto.
+ 
+Section 3.                                                                   Increase in Borrowing Base.  As of the Sixth Amendment Effective Date, each of the Lenders and the Borrower agree that the amount of the Borrowing Base shall be $850,000,000 and such Borrowing Base shall remain in effect until the Borrowing Base is otherwise redetermined or adjusted in accordance with the Credit Agreement or Section 4 hereof.  This provision does not limit the right of the parties to initiate interim redeterminations of the Borrowing Base in accordance with Section 2.07(b) or further adjustments pursuant to Section 2.07(e), Section 2.07(f), Section 8.13(c) or Section 9.13.  The parties hereto acknowledge and agree that the Borrowing Base redetermination set forth in this Section 3 shall be deemed to be the Scheduled Redetermination scheduled for November 1, 2013 as provided in Section 2.07(b). This Section 3 constitutes the New Borrowing Base Notice in accordance with Section 2.07(d).
+ 
+Section 4.                                                                   Automatic Reduction of the Borrowing Base upon Citation Sale.  The Borrower has entered into agreements pursuant to which it shall dispose of certain Oil and Gas Properties to Citation Oil & Gas Corp. (the Subject Disposition).  Upon the consummation of the Subject Disposition, each of the Lenders and the Borrower agree that the amount of the Borrowing Base shall be automatically reduced so that the amount of the Borrowing Base shall be $800,000,000 and such Borrowing Base shall remain in effect until the Borrowing Base is otherwise redetermined or adjusted in accordance with the Credit Agreement.  The Lenders hereby agree that the reduction in the Borrowing Base pursuant to this Section 4 shall satisfy the requirements of Section 9.13(e)(iii) insofar as such requirements apply to the Subject Disposition and no waiver, consent or additional reduction of the Borrowing Base shall be required in connection with the Subject Disposition.  This provision does not limit the right of the parties to initiate (a) interim redeterminations of the Borrowing Base in accordance with Section 2.07(b), (b) further adjustments pursuant to Section 2.07(e), Section 2.07(f) or Section 8.13(c), or (c) adjustments pursuant to Section 9.13 not made in connection with the Subject Disposition.
+ 
+Section 5.                                           Conditions Precedent.  This Sixth Amendment shall become effective on the date when the Administrative Agent shall have received a counterpart of this Sixth Amendment signed by the Borrower, the Guarantors and each of the Lenders and each of the following conditions is satisfied (or waived in accordance with Section 12.02 of the Credit Agreement) (such date, the Sixth Amendment Effective Date):
+ 
+At the time of and immediately after giving effect to this Sixth Amendment, (i) no Default or Event of Default shall have occurred and be continuing and (ii) no event or events shall have occurred which individually or in the aggregate could reasonably be expected to have a Material Adverse Effect.
+ 
+The Administrative Agent is hereby authorized and directed to declare this Sixth Amendment to be effective when it has received documents confirming or certifying, to the
+ 
+
+
+
+
+
+
+ 
+satisfaction of the Administrative Agent, compliance with the conditions set forth in this Section 5 or the waiver of such conditions as permitted in Section 12.02 of the Credit Agreement.  Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes.
+ 
+Section 6.                                           Miscellaneous.
+ 
+6.1                               Confirmation.  The provisions of the Credit Agreement, as amended by this Sixth Amendment, shall remain in full force and effect following the effectiveness of this Sixth Amendment.
+ 
+6.2                               Ratification and Affirmation; Representations and Warranties.  Each Obligor hereby (a) acknowledges the terms of this Sixth Amendment; (b) ratifies and affirms its obligations under, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended hereby, and (c) represents and warrants to the Lenders that on and as of the date hereof, and immediately after giving effect to the terms of this Sixth Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (except those which have a materiality qualifier, which shall be true and correct as so qualified), except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct as of such specified earlier date; (ii) no Default or Event of Default has occurred and is continuing and (iii) no event or events have occurred which individually or in the aggregate could reasonably be expected to have a Material Adverse Effect.
+ 
+6.3                               Loan Document.  This Sixth Amendment is a Loan Document.
+ 
+6.4                               Counterparts.  This Sixth Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument.  Delivery of this Sixth Amendment by facsimile or electronic transmission in portable document format (.pdf) shall be effective as delivery of a manually executed counterpart hereof.
+ 
+6.5                               NO ORAL AGREEMENT.  THIS SIXTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES.  THERE ARE NO ORAL AGREEMENTS BETWEEN THE PARTIES.
+ 
+6.6                               GOVERNING LAW.  THIS SIXTH AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+ 
+6.7                               Severability.  Any provision of this Sixth Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any
+ 
+
+
+
+
+
+
+ 
+such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+ 
+6.8                               Successors and Assigns.  This Sixth Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+ 
+[This page intentionally left blank.  Signature pages follow.]
+ 
+
+
+
+
+
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Sixth Amendment to be duly executed as of the date first written above.
+ 
+
+
+
+BORROWER:    
+
+HALCÓN RESOURCES CORPORATION       
+
+
+     
+
+        
+
+
+     
+
+By:       
+
+/s/   MARK J. MIZE       
+
+
+     
+
+     
+
+Name:    
+
+Mark   J. Mize        
+
+
+     
+
+     
+
+Title:    
+
+Executive   Vice President, Chief Financial Officer and Treasurer       
+
+
+     
+
+     
+
+        
+
+
+GUARANTORS:    
+
+HALCÓN   HOLDINGS, INC.       
+
+
+     
+
+HALCÓN   RESOURCES OPERATING, INC.       
+
+
+     
+
+HALCÓN   ENERGY PROPERTIES, INC.       
+
+
+     
+
+HALCÓN   ENERGY HOLDINGS, LLC       
+
+
+     
+
+HALCÓN   GULF STATES, LLC       
+
+
+     
+
+HALCÓN   OPERATING CO., INC.       
+
+
+     
+
+HRC   ENERGY RESOURCES (WV), INC.       
+
+
+     
+
+HRC   ENERGY LOUISIANA, LLC       
+
+
+     
+
+HRC   PRODUCTION COMPANY       
+
+
+     
+
+HALCÓN   FIELD SERVICES, LLC       
+
+
+     
+
+HALCÓN   LOUISIANA OPERATING, L.P.       
+
+
+     
+
+HRC   ENERGY, LLC       
+
+
+     
+
+HRC   OPERATING, LLC       
+
+
+     
+
+HK   ENERGY, LLC       
+
+
+     
+
+HK   ENERGY OPERATING, LLC       
+
+
+     
+
+HK   LOUISIANA OPERATING, LLC       
+
+
+     
+
+HK   OIL & GAS, LLC       
+
+
+     
+
+HALCÓN   WILLISTON I, LLC       
+
+
+     
+
+HALCÓN   WILLISTON II, LLC       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   MARK J. MIZE       
+
+
+     
+
+     
+
+Name:    
+
+Mark   J. Mize        
+
+
+     
+
+     
+
+Title:    
+
+Executive   Vice President, Chief Financial Officer and Treasurer, for and on behalf of   each of the foregoing Guarantors         
+ 
+
+
+
+
+
+
+ 
+
+
+
+ADMINISTRATIVE   AGENT   AND LENDER:    
+
+JPMORGAN CHASE BANK, N.A.,    as Administrative Agent and Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   RONALD DIERKER       
+
+
+     
+
+     
+
+Name:    
+
+Ronald   Dierker        
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+WELLS FARGO BANK, N.A.,       
+
+
+     
+
+as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   TODD FOGLE       
+
+
+     
+
+     
+
+Name:    
+
+Todd   Fogle       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+BMO HARRIS FINANCING, INC.,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   JAMES V. DUCOTE       
+
+
+     
+
+     
+
+Name:    
+
+James   V. Ducote       
+
+
+     
+
+     
+
+Title:    
+
+Director         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+BARCLAYS BANK PLC,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   VANESSA A. KURBATSKIY       
+
+
+     
+
+     
+
+Name:    
+
+Vanessa   A. Kurbatskiy       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+SUNTRUST BANK,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/ SHANNON JUHAN       
+
+
+     
+
+     
+
+Name:    
+
+Shannon Juhan       
+
+
+     
+
+     
+
+Title:    
+
+Vice President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+CAPITAL ONE, NATIONAL ASSOCIATION,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   VICTOR PONCE DE LEON       
+
+
+     
+
+     
+
+Name:    
+
+Victor   Ponce de Leon       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+GOLDMAN SACHS BANK USA,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   MICHELLE LATZONI       
+
+
+     
+
+     
+
+Name:    
+
+Michelle   Latzoni       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+ROYAL BANK OF CANADA,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   JAY SARTAIN       
+
+
+     
+
+     
+
+Name:    
+
+Jay   Sartain       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+BANK OF AMERICA, N.A.,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   ADAM H. FEY       
+
+
+     
+
+     
+
+Name:    
+
+Adam   H. Fey       
+
+
+     
+
+     
+
+Title:    
+
+Director         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+THE ROYAL BANK OF SCOTLAND PLC,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   JAMES L. MOYES       
+
+
+     
+
+     
+
+Name:    
+
+James   L. Moyes       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   VIPUL DHADDA       
+
+
+     
+
+     
+
+Name:    
+
+Vipul   Dhadda       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory       
+
+
+     
+
+        
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   MICHAEL SPAIGHT       
+
+
+     
+
+     
+
+Name:    
+
+Michael   Spaight       
+
+
+     
+
+     
+
+Title:    
+
+Authorized   Signatory         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   DENNIS PETITO       
+
+
+     
+
+     
+
+Name:    
+
+Dennis   Petito       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   MARK ROCHE       
+
+
+     
+
+     
+
+Name:    
+
+Mark   Roche       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+NATIXIS,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   TIMOTHY L POLVADO       
+
+
+     
+
+     
+
+Name:    
+
+Timothy   L. Polvado       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   STUART MURRAY       
+
+
+     
+
+     
+
+Name:    
+
+Stuart   Murray       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+ING CAPITAL LLC,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   CHARLES HALL       
+
+
+     
+
+     
+
+Name:    
+
+Charles   Hall       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+COMERICA BANK,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   WILLIAM ROBINSON       
+
+
+     
+
+     
+
+Name:    
+
+William   Robinson       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+DEUTSCHE BANK TRUST COMPANY OF AMERICAS,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   MICHAEL GETZ       
+
+
+     
+
+     
+
+Name:    
+
+Michael   Getz       
+
+
+     
+
+     
+
+Title:    
+
+Vice   President       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   MARCUS M. TARKINGTON       
+
+
+     
+
+     
+
+Name:    
+
+Marcus   M. Tarkington        
+
+
+     
+
+     
+
+Title:    
+
+Director         
+ 
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+SUMITOMO MITSUI BANKING CORPORATION,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   JAMES D. WEINSTEIN       
+
+
+     
+
+     
+
+Name:    
+
+James   D. Weinstein       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+THE BANK OF NOVA SCOTIA,    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   TERRY DONOVAN       
+
+
+     
+
+     
+
+Name:    
+
+Terry   Donovan       
+
+
+     
+
+     
+
+Title:    
+
+Managing   Director         
+ 
+
+
+
+
+
+
+ 
+
+
+
+LENDER:    
+
+KEYBANK NATIONAL ASSOCIATION    as Lender       
+
+
+     
+
+        
+
+
+     
+
+By:    
+
+/s/   PAUL J. PACE       
+
+
+     
+
+     
+
+Name:    
+
+Paul   J. Pace       
+
+
+     
+
+     
+
+Title:    
+
+Senior   Vice President         
+ 
+
+
+
+
+
+
+ 
+ANNEX I
+ 
+LIST OF MAXIMUM CREDIT AMOUNTS
+ 
+Aggregate Maximum Credit Amounts
+ 
+
+
+
+Name of Lender    
+
+     
+
+Applicable Percentage    
+
+     
+
+Maximum Credit Amount    
+
+        
+
+
+JPMorgan Chase Bank, N.A.    
+
+     
+
+7.29    
+
+%    
+
+$    
+
+109,411,764.71    
+
+        
+
+
+Wells Fargo Bank, N.A.    
+
+     
+
+7.29    
+
+%    
+
+$    
+
+109,411,764.68    
+
+        
+
+
+BMO Harris Financing, Inc.    
+
+     
+
+5.88    
+
+%    
+
+$    
+
+88,235,294.12    
+
+        
+
+
+Capital One, N.A.    
+
+     
+
+5.88    
+
+%    
+
+$    
+
+88,235,294.12    
+
+        
+
+
+SunTrust Bank    
+
+     
+
+5.88    
+
+%    
+
+$    
+
+88,235,294.12    
+
+        
+
+
+Royal Bank of Canada    
+
+     
+
+5.88    
+
+%    
+
+$    
+
+88,235,294.12    
+
+        
+
+
+The Royal Bank of Scotland plc    
+
+     
+
+5.88    
+
+%    
+
+$    
+
+88,235,294.12    
+
+        
+
+
+Credit Agricole Corporate and Investment Bank     
+
+     
+
+5.88    
+
+%    
+
+$    
+
+88,235,294.12    
+
+        
+
+
+Natixis     
+
+     
+
+5.88    
+
+%    
+
+$    
+
+88,235,294.12    
+
+        
+
+
+Bank of America, N.A.    
+
+     
+
+5.88    
+
+%    
+
+$    
+
+88,235,294.12    
+
+        
+
+
+ING Capital LLC    
+
+     
+
+5.88    
+
+%    
+
+$    
+
+88,235,294.12    
+
+        
+
+
+Deutsche Bank Trust Company Americas    
+
+     
+
+5.88    
+
+%    
+
+$    
+
+88,235,294.12    
+
+        
+
+
+Barclays Bank PLC    
+
+     
+
+4.94    
+
+%    
+
+$    
+
+74,117,647.06    
+
+        
+
+
+Goldman Sachs Bank USA    
+
+     
+
+4.94    
+
+%    
+
+$    
+
+74,117,647.06    
+
+        
+
+
+Credit Suisse AG, Cayman Islands Branch    
+
+     
+
+4.47    
+
+%    
+
+$    
+
+67,058,823.53    
+
+        
+
+
+Comerica Bank    
+
+     
+
+3.06    
+
+%    
+
+$    
+
+45,882,352.94    
+
+        
+
+
+Sumitomo Mitsui Banking Corporation    
+
+     
+
+3.06    
+
+%    
+
+$    
+
+45,882,352.94    
+
+        
+
+
+The Bank of Nova Scotia    
+
+     
+
+3.06    
+
+%    
+
+$    
+
+45,882,352.94    
+
+        
+
+
+KeyBank National Association    
+
+     
+
+3.06    
+
+%    
+
+$    
+
+45,882,352.94    
+
+        
+
+
+TOTAL:    
+
+     
+
+100.0    
+
+%    
+
+$    
+
+1,500,000,000.00    
+
+          
+ 
+
+
+
+
+
+
+
+
+
