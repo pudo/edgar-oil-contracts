@@ -1,0 +1,112 @@
+production sharing (agreement|contract) 50
+exploration and production 40
+risk service 40
+joint operating agreement 50
+participation agreement 30
+article .{0,20} definitions 20
+article .{0,20} force majeure 20
+article .{0,20} confidentiality 20
+relinquishment 20
+the contract area 30
+of the government 20
+the government of 20
+declaration of commerciality 30
+cost recovery 20
+effective date 10
+petroleum costs 30
+petroleum operations 30
+petroleum resources 30
+government of 15
+approved work 15
+means a period of twelve 15
+the petroleum operations 15
+year means a period of twelve 15
+petroleum operations means 15
+in petroleum operations 15
+of the petroleum operations 15
+conduct of the petroleum operations 15
+petroleum means 15
+petroleum operations and 15
+conduct of the petroleum 15
+petroleum operations including 15
+used in petroleum 15
+used in petroleum operations 15
+for the petroleum 15
+annual work 15
+out petroleum operations 15
+for petroleum operations 15
+exploration operations 15
+nonassociated 15
+out petroleum 15
+a commercial discovery 15
+of the contract area which 15
+incurred by the contractor 15
+for cost recovery 15
+of this accounting procedure is to 15
+of nonassociated natural gas 15
+and the government 15
+b map 15
+contractor may assign 15
+the government of the republic 15
+valuation of crude oil 15
+and service contracts 15
+#block 1
+parties 1
+party 1
+between 1
+herein 1
+hereinafter 1
+witnesseth 1
+obligations 1
+petroleum 1
+hydrocarbons 1
+hydrocarbon 1
+drilling 1
+concession 5
+#area 5
+royalty 5
+barrels 3
+covering the 5
+severance -5
+stock award -5
+convertible -5
+committee charter -4
+separation -1
+cash bonus -10
+employee -1
+stock unit -5
+investment plan -1
+consulting agreement -5
+stock option -1
+retirement -1
+option agreement -5
+consulting agreement -10
+equipment sales agreement -10
+change of control -10
+change in control -10
+performance share unit award agreement -10
+performance unit award -10
+credit agreement -10
+loan agreement -10
+assignment agreement -10
+loan commitment -10
+stock option agreement -10
+pension plan for employees -10
+certificate of formation -10
+short term incentive plan -10
+share exchange agreement -10
+promissory note -10
+participation agreement -10
+purchase common stock -5
+registration rights agreement -10
+fifth amendment -10
+assignment letter agreement -10
+amendment to credit agreement -20
+asset purchase and sale agreement -20
+assignment agreement -2
+compensation plan -5
+restricted stock award -5
+executive employment agreement -10
+QUARTERLY REPORT PURSUANT TO SECTION -10
+TRANSITION REPORT PURSUANT TO SECTION -10
+recital -50
