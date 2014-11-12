@@ -4,3 +4,6 @@ data/*
 mredgar/tasks/*
 mredgar/filings.txt
 mredgar/listing.txt
+*.pickle
+part-*
+mrjob.conf
