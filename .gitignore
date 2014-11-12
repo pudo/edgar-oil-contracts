@@ -1,9 +1,9 @@
 *.pyc
 data/*
 *.DS_Store
-mredgar/tasks/*
-mredgar/filings.txt
-mredgar/listing.txt
+tasks/*
+filings.txt
+listing.txt
 *.pickle
 part-*
 mrjob.conf
