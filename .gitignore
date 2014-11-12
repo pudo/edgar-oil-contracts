@@ -7,3 +7,4 @@ listing.txt
 *.pickle
 part-*
 mrjob.conf
+scored.*
